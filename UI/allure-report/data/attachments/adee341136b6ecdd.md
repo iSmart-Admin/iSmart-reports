@@ -1,0 +1,84 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - button [ref=e6] [cursor=pointer]:
+      - img [ref=e7] [cursor=pointer]
+    - generic [ref=e9]:
+      - heading "Мы используем куки" [level=4] [ref=e10]
+      - generic [ref=e11]: Продолжая посещать наш сайт, вы соглашаетесь на использование cookies.
+      - button "Подробнее" [ref=e12] [cursor=pointer]
+    - button "Понятно" [ref=e13] [cursor=pointer]
+  - generic [ref=e22]:
+    - generic [ref=e23]:
+      - generic [ref=e26]:
+        - generic [ref=e28]:
+          - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+            - img [ref=e32] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e34]:
+            - generic [ref=e35]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e41] [cursor=pointer]
+              - button "3" [ref=e44] [cursor=pointer]
+              - button "4" [ref=e47] [cursor=pointer]
+              - button "5" [ref=e50] [cursor=pointer]
+              - button "6" [ref=e53] [cursor=pointer]
+              - button "7" [ref=e56] [cursor=pointer]
+              - button "8" [ref=e59] [cursor=pointer]
+              - button "9" [ref=e62] [cursor=pointer]
+              - button "10" [ref=e65] [cursor=pointer]
+            - generic [ref=e66]:
+              - button [disabled] [ref=e67]:
+                - img [ref=e69]
+              - button [ref=e72] [cursor=pointer]:
+                - img [ref=e74] [cursor=pointer]
+        - generic [ref=e77]:
+          - generic [ref=e79]:
+            - generic [ref=e80] [cursor=pointer]:
+              - generic:
+                - img
+            - heading "Выбери пропущенное слово." [level=4] [ref=e81]:
+              - generic [ref=e83]: Выбери пропущенное слово.
+          - generic [ref=e85]:
+            - img "decore" [ref=e88]
+            - heading "Девочка ⎽⎽⎽⎽⎽⎽." [level=3] [ref=e92]
+          - generic [ref=e95]:
+            - table [ref=e101] [cursor=pointer]:
+              - rowgroup [ref=e102] [cursor=pointer]:
+                - row "Дима" [ref=e103] [cursor=pointer]:
+                  - cell "Дима" [ref=e104] [cursor=pointer]:
+                    - generic [ref=e108] [cursor=pointer]: Дима
+            - table [ref=e114] [cursor=pointer]:
+              - rowgroup [ref=e115] [cursor=pointer]:
+                - row "Ваня" [ref=e116] [cursor=pointer]:
+                  - cell "Ваня" [ref=e117] [cursor=pointer]:
+                    - generic [ref=e121] [cursor=pointer]: Ваня
+            - table [ref=e127] [cursor=pointer]:
+              - rowgroup [ref=e128] [cursor=pointer]:
+                - row "Маша" [ref=e129] [cursor=pointer]:
+                  - cell "Маша" [ref=e130] [cursor=pointer]:
+                    - generic [ref=e134] [cursor=pointer]: Маша
+      - button "Правильный ответ" [ref=e143] [cursor=pointer]:
+        - img [ref=e146] [cursor=pointer]
+        - generic [ref=e148] [cursor=pointer]: Правильный ответ
+    - generic [ref=e149]:
+      - generic [ref=e152]: Интеллектуальный тренажер
+      - generic [ref=e158]:
+        - button "Войти как учитель" [ref=e160] [cursor=pointer]:
+          - img [ref=e163] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e165]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e166]:
+        - generic [ref=e168]:
+          - button "Черновик" [ref=e169] [cursor=pointer]:
+            - img [ref=e172] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e177] [cursor=pointer]:
+            - img [ref=e180] [cursor=pointer]
+            - text: Информация об уроке
+        - button "Далее" [ref=e183] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e186] [cursor=pointer]
+```

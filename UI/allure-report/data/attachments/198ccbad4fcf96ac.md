@@ -1,0 +1,73 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - button [ref=e6] [cursor=pointer]:
+      - img [ref=e7] [cursor=pointer]
+    - generic [ref=e9]:
+      - heading "Мы используем куки" [level=4] [ref=e10]
+      - generic [ref=e11]: Продолжая посещать наш сайт, вы соглашаетесь на использование cookies.
+      - button "Подробнее" [ref=e12] [cursor=pointer]
+    - button "Понятно" [ref=e13] [cursor=pointer]
+  - generic [ref=e22]:
+    - generic [ref=e23]:
+      - generic [ref=e26]:
+        - generic [ref=e28]:
+          - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+            - img [ref=e32] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e34]:
+            - generic [ref=e35]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e41] [cursor=pointer]
+              - button "3" [ref=e44] [cursor=pointer]
+              - button "4" [ref=e47] [cursor=pointer]
+              - button "5" [ref=e50] [cursor=pointer]
+              - button "6" [ref=e53] [cursor=pointer]
+              - button "7" [ref=e56] [cursor=pointer]
+              - button "8" [ref=e59] [cursor=pointer]
+              - button "9" [ref=e62] [cursor=pointer]
+              - button "10" [ref=e65] [cursor=pointer]
+            - generic [ref=e66]:
+              - button [disabled] [ref=e67]:
+                - img [ref=e69]
+              - button [disabled] [ref=e72]:
+                - img [ref=e74]
+        - generic [ref=e77]:
+          - generic [ref=e79]:
+            - img [ref=e83]
+            - heading "Какой(-ие) знак(-и) препинания нужно поставить в данном предложении?" [level=4] [ref=e85]:
+              - generic [ref=e87]: Какой(-ие) знак(-и) препинания нужно поставить в данном предложении?
+          - generic [ref=e89]:
+            - img "decore" [ref=e92]
+            - generic [ref=e98]: Они веселились пели, танцевали, шутили.
+          - generic [ref=e100]:
+            - generic [ref=e104] [cursor=pointer]: Двоеточие
+            - generic [ref=e108] [cursor=pointer]: Тире
+      - generic [ref=e115]:
+        - button "2 Показать подсказку" [ref=e116] [cursor=pointer]:
+          - generic [ref=e119] [cursor=pointer]: "2"
+          - generic [ref=e120] [cursor=pointer]: Показать подсказку
+        - button "Правильный ответ" [ref=e122] [cursor=pointer]:
+          - img [ref=e125] [cursor=pointer]
+          - generic [ref=e127] [cursor=pointer]: Правильный ответ
+    - generic [ref=e128]:
+      - generic [ref=e131]: Интеллектуальный тренажер
+      - generic [ref=e137]:
+        - button "Войти как учитель" [ref=e139] [cursor=pointer]:
+          - img [ref=e142] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e144]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e145]:
+        - generic [ref=e147]:
+          - button "Черновик" [ref=e148] [cursor=pointer]:
+            - img [ref=e151] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e156] [cursor=pointer]:
+            - img [ref=e159] [cursor=pointer]
+            - text: Информация об уроке
+        - button "Далее" [ref=e162] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e165] [cursor=pointer]
+```

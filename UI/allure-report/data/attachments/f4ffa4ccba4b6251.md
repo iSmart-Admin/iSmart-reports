@@ -1,0 +1,74 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - button [ref=e6] [cursor=pointer]:
+      - img [ref=e7] [cursor=pointer]
+    - generic [ref=e9]:
+      - heading "Мы используем куки" [level=4] [ref=e10]
+      - generic [ref=e11]: Продолжая посещать наш сайт, вы соглашаетесь на использование cookies.
+      - button "Подробнее" [ref=e12] [cursor=pointer]
+    - button "Понятно" [ref=e13] [cursor=pointer]
+  - generic [ref=e22]:
+    - generic [ref=e23]:
+      - generic [ref=e26]:
+        - generic [ref=e28]:
+          - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+            - img [ref=e32] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e34]:
+            - generic [ref=e35]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e41] [cursor=pointer]
+              - button "3" [ref=e44] [cursor=pointer]
+              - button "4" [ref=e47] [cursor=pointer]
+              - button "5" [ref=e50] [cursor=pointer]
+              - button "6" [ref=e53] [cursor=pointer]
+              - button "7" [ref=e56] [cursor=pointer]
+              - button "8" [ref=e59] [cursor=pointer]
+            - generic [ref=e60]:
+              - button [disabled] [ref=e61]:
+                - img [ref=e63]
+              - button [disabled] [ref=e66]:
+                - img [ref=e68]
+        - generic [ref=e71]:
+          - generic [ref=e73]:
+            - img [ref=e77]
+            - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e79]:
+              - generic [ref=e81]: Внесите ответ в специально предназначенное поле.
+          - generic [ref=e83]:
+            - img "decore" [ref=e86]
+            - generic [ref=e92]: Из скольких главок состоит поэма?
+          - generic [ref=e95]:
+            - generic [ref=e96]: Впишите цифру в поле для ответов.
+            - generic [ref=e97]:
+              - strong [ref=e98]: Ответ
+              - text: ":"
+              - textbox [active] [ref=e99]
+      - generic [ref=e107]:
+        - button "1 Показать подсказку" [ref=e108] [cursor=pointer]:
+          - generic [ref=e111] [cursor=pointer]: "1"
+          - generic [ref=e112] [cursor=pointer]: Показать подсказку
+        - button "Правильный ответ" [ref=e114] [cursor=pointer]:
+          - img [ref=e117] [cursor=pointer]
+          - generic [ref=e119] [cursor=pointer]: Правильный ответ
+    - generic [ref=e120]:
+      - generic [ref=e123]: Интеллектуальный тренажер
+      - generic [ref=e129]:
+        - button "Войти как учитель" [ref=e131] [cursor=pointer]:
+          - img [ref=e134] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e136]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e137]:
+        - generic [ref=e139]:
+          - button "Черновик" [ref=e140] [cursor=pointer]:
+            - img [ref=e143] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e148] [cursor=pointer]:
+            - img [ref=e151] [cursor=pointer]
+            - text: Информация об уроке
+        - button "Далее" [ref=e154] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e157] [cursor=pointer]
+```

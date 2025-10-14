@@ -1,0 +1,68 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - button [ref=e6] [cursor=pointer]:
+      - img [ref=e7] [cursor=pointer]
+    - generic [ref=e9]:
+      - heading "Мы используем куки" [level=4] [ref=e10]
+      - generic [ref=e11]: Продолжая посещать наш сайт, вы соглашаетесь на использование cookies.
+      - button "Подробнее" [ref=e12] [cursor=pointer]
+    - button "Понятно" [ref=e13] [cursor=pointer]
+  - generic [ref=e22]:
+    - generic [ref=e23]:
+      - generic [ref=e26]:
+        - generic [ref=e28]:
+          - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+            - img [ref=e32] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e34]:
+            - generic [ref=e35]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e41] [cursor=pointer]
+              - button "3" [ref=e44] [cursor=pointer]
+              - button "4" [ref=e47] [cursor=pointer]
+            - generic [ref=e48]:
+              - button [disabled] [ref=e49]:
+                - img [ref=e51]
+              - button [disabled] [ref=e54]:
+                - img [ref=e56]
+        - generic [ref=e59]:
+          - generic [ref=e61]:
+            - img [ref=e65]
+            - heading "Что такое разрешение растрового изображения?" [level=4] [ref=e67]:
+              - generic [ref=e69]: Что такое разрешение растрового изображения?
+          - img "decore" [ref=e74]
+          - generic [ref=e77]:
+            - generic [ref=e84] [cursor=pointer]: Глубина цвета
+            - generic [ref=e91] [cursor=pointer]: Размер файла
+            - generic [ref=e98] [cursor=pointer]: Векторное изображение
+            - generic [ref=e105] [cursor=pointer]: Количество пикселей на единицу площади
+            - generic [ref=e109] [cursor=pointer]: Растровое изображение
+      - generic [ref=e116]:
+        - button "2 Показать подсказку" [ref=e117] [cursor=pointer]:
+          - generic [ref=e120] [cursor=pointer]: "2"
+          - generic [ref=e121] [cursor=pointer]: Показать подсказку
+        - button "Правильный ответ" [ref=e123] [cursor=pointer]:
+          - img [ref=e126] [cursor=pointer]
+          - generic [ref=e128] [cursor=pointer]: Правильный ответ
+    - generic [ref=e129]:
+      - generic [ref=e132]: Интеллектуальный тренажер
+      - generic [ref=e138]:
+        - button "Войти как учитель" [ref=e140] [cursor=pointer]:
+          - img [ref=e143] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e145]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e146]:
+        - generic [ref=e148]:
+          - button "Черновик" [ref=e149] [cursor=pointer]:
+            - img [ref=e152] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e157] [cursor=pointer]:
+            - img [ref=e160] [cursor=pointer]
+            - text: Информация об уроке
+        - button "Далее" [ref=e163] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e166] [cursor=pointer]
+```

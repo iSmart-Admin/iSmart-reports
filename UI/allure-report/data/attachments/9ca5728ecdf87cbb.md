@@ -1,0 +1,70 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - button [ref=e6] [cursor=pointer]:
+      - img [ref=e7] [cursor=pointer]
+    - generic [ref=e9]:
+      - heading "Мы используем куки" [level=4] [ref=e10]
+      - generic [ref=e11]: Продолжая посещать наш сайт, вы соглашаетесь на использование cookies.
+      - button "Подробнее" [ref=e12] [cursor=pointer]
+    - button "Понятно" [ref=e13] [cursor=pointer]
+  - generic [ref=e22]:
+    - generic [ref=e23]:
+      - generic [ref=e26]:
+        - generic [ref=e28]:
+          - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+            - img [ref=e32] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e34]:
+            - generic [ref=e35]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e41] [cursor=pointer]
+              - button "3" [ref=e44] [cursor=pointer]
+              - button "4" [ref=e47] [cursor=pointer]
+            - generic [ref=e48]:
+              - button [disabled] [ref=e49]:
+                - img [ref=e51]
+              - button [disabled] [ref=e54]:
+                - img [ref=e56]
+        - generic [ref=e59]:
+          - generic [ref=e61]:
+            - img [ref=e65]
+            - heading "Выберите все верные варианты ответа." [level=4] [ref=e67]:
+              - generic [ref=e69]: Выберите все верные варианты ответа.
+          - generic [ref=e71]:
+            - img "decore" [ref=e74]
+            - generic [ref=e80]: Из перечисленных свойств выберите свойства альфа-излучения.
+          - generic [ref=e84]:
+            - generic [ref=e86] [cursor=pointer]: Слабо отклоняется магнитным полем.
+            - generic [ref=e88] [cursor=pointer]: Сильно отклоняется магнитным полем.
+            - generic [ref=e90] [cursor=pointer]: Отклоняется в ту же сторону, что и положительно заряженные частицы.
+            - generic [ref=e92] [cursor=pointer]: При альфа-распаде ядро смещается на 2 единицы к началу таблицы Менделеева.
+            - generic [ref=e94] [cursor=pointer]: При альфа-распаде ядро смещается на 1 единицу к концу таблицы Менделеева.
+      - generic [ref=e101]:
+        - button "2 Показать подсказку" [ref=e102] [cursor=pointer]:
+          - generic [ref=e105] [cursor=pointer]: "2"
+          - generic [ref=e106] [cursor=pointer]: Показать подсказку
+        - button "Правильный ответ" [ref=e108] [cursor=pointer]:
+          - img [ref=e111] [cursor=pointer]
+          - generic [ref=e113] [cursor=pointer]: Правильный ответ
+    - generic [ref=e114]:
+      - generic [ref=e117]: Интеллектуальный тренажер
+      - generic [ref=e123]:
+        - button "Войти как учитель" [ref=e125] [cursor=pointer]:
+          - img [ref=e128] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e130]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e131]:
+        - generic [ref=e133]:
+          - button "Черновик" [ref=e134] [cursor=pointer]:
+            - img [ref=e137] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e142] [cursor=pointer]:
+            - img [ref=e145] [cursor=pointer]
+            - text: Информация об уроке
+        - button "Далее" [ref=e148] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e151] [cursor=pointer]
+```

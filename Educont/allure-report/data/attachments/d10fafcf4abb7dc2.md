@@ -1,0 +1,16 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - img [ref=e8]
+  - generic [ref=e10]:
+    - paragraph [ref=e11]: Произошла ошибка. Обновите страницу или вернитесь назад.
+    - paragraph [ref=e12]:
+      - text: Если ошибка повторяется – отправьте автоматический отчет об ошибке или напишите в поддержку
+      - link "support@ismart.org" [ref=e13] [cursor=pointer]:
+        - /url: mailto:support@ismart.org
+    - generic [ref=e14]: "Идентификатор ошибки: baf1237e-2a82-402f-9c81-92be9b3c2a4a."
+  - generic [ref=e16]:
+    - button "Обновить страницу" [ref=e17] [cursor=pointer]
+    - button "Отправить автоматический отчет" [ref=e18] [cursor=pointer]
+```
