@@ -1,0 +1,77 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - button [ref=e6] [cursor=pointer]:
+        - img [ref=e7] [cursor=pointer]
+      - generic [ref=e9]:
+        - heading "Мы используем куки" [level=4] [ref=e10]
+        - generic [ref=e11]: Продолжая посещать наш сайт, вы соглашаетесь на использование cookies.
+        - button "Подробнее" [ref=e12] [cursor=pointer]
+      - button "Понятно" [ref=e13] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e26]:
+          - generic [ref=e28]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e34]:
+              - generic [ref=e35]:
+                - button "1" [ref=e38] [cursor=pointer]
+                - button "2" [ref=e41] [cursor=pointer]
+                - button "3" [ref=e44] [cursor=pointer]
+              - generic [ref=e45]:
+                - button [disabled] [ref=e46]:
+                  - img [ref=e48]
+                - button [disabled] [ref=e51]:
+                  - img [ref=e53]
+          - generic [ref=e56]:
+            - generic [ref=e58]:
+              - img [ref=e62]
+              - heading "Перенеси элементы в соответствующие ячейки." [level=4] [ref=e64]:
+                - generic [ref=e66]: Перенеси элементы в соответствующие ячейки.
+            - generic [ref=e68]:
+              - img "decore" [ref=e71]
+              - generic [ref=e77]: Распредели вещества, которые образуются во время фотосинтеза, и те, которые поглощаются в процессе.
+            - generic [ref=e78]:
+              - generic [ref=e79]:
+                - generic [ref=e83]: Образуются
+                - generic [ref=e88]: Поглощаются
+              - generic [ref=e90]:
+                - generic [ref=e95] [cursor=pointer]: Кислород
+                - generic [ref=e100] [cursor=pointer]: Глюкоза
+                - generic [ref=e105] [cursor=pointer]: Углекислый газ
+                - generic [ref=e110] [cursor=pointer]: Вода
+        - generic [ref=e117]:
+          - button "2 Показать подсказку" [ref=e118] [cursor=pointer]:
+            - generic [ref=e121] [cursor=pointer]: "2"
+            - generic [ref=e122] [cursor=pointer]: Показать подсказку
+          - button "Правильный ответ" [ref=e124] [cursor=pointer]:
+            - img [ref=e127] [cursor=pointer]
+            - generic [ref=e129] [cursor=pointer]: Правильный ответ
+      - generic [ref=e130]:
+        - generic [ref=e133]: Интеллектуальный тренажер
+        - generic [ref=e139]:
+          - button "Войти как учитель" [ref=e141] [cursor=pointer]:
+            - img [ref=e144] [cursor=pointer]
+            - text: Войти как учитель
+          - generic [ref=e146]: Для создания собственной версии урока войдите как учитель.
+        - generic [ref=e147]:
+          - generic [ref=e149]:
+            - button "Черновик" [ref=e150] [cursor=pointer]:
+              - img [ref=e153] [cursor=pointer]
+              - text: Черновик
+            - button "Информация об уроке" [ref=e158] [cursor=pointer]:
+              - img [ref=e161] [cursor=pointer]
+              - text: Информация об уроке
+          - button "Далее" [ref=e164] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e167] [cursor=pointer]
+  - generic [ref=e175]:
+    - generic [ref=e177]: Урок
+    - generic [ref=e178]: Фотосинтез. Роль фотосинтеза
+    - button "Приступить" [active] [ref=e179] [cursor=pointer]
+```

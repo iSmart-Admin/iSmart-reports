@@ -1,0 +1,78 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - button [ref=e6] [cursor=pointer]:
+        - img [ref=e7] [cursor=pointer]
+      - generic [ref=e9]:
+        - heading "Мы используем куки" [level=4] [ref=e10]
+        - generic [ref=e11]: Продолжая посещать наш сайт, вы соглашаетесь на использование cookies.
+        - button "Подробнее" [ref=e12] [cursor=pointer]
+      - button "Понятно" [ref=e13] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e26]:
+          - generic [ref=e28]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e34]:
+              - generic [ref=e35]:
+                - button "1" [ref=e38] [cursor=pointer]
+                - button "2" [ref=e41] [cursor=pointer]
+                - button "3" [ref=e44] [cursor=pointer]
+                - button "4" [ref=e47] [cursor=pointer]
+                - button "5" [ref=e50] [cursor=pointer]
+                - button "6" [ref=e53] [cursor=pointer]
+                - button "7" [ref=e56] [cursor=pointer]
+                - button "8" [ref=e59] [cursor=pointer]
+                - button "9" [ref=e62] [cursor=pointer]
+                - button "10" [ref=e65] [cursor=pointer]
+              - generic [ref=e66]:
+                - button [disabled] [ref=e67]:
+                  - img [ref=e69]
+                - button [ref=e72] [cursor=pointer]:
+                  - img [ref=e74] [cursor=pointer]
+          - generic [ref=e77]:
+            - generic [ref=e79]:
+              - generic [ref=e80] [cursor=pointer]:
+                - generic:
+                  - img
+              - heading "Реши пример." [level=4] [ref=e81]:
+                - generic [ref=e83]: Реши пример.
+            - img "decore" [ref=e88]
+            - heading "2 + 0 =" [level=2] [ref=e92]:
+              - text: 2 + 0 =
+              - textbox [ref=e93]
+        - generic [ref=e101]:
+          - button "2 Показать подсказку" [ref=e102] [cursor=pointer]:
+            - generic [ref=e105] [cursor=pointer]: "2"
+            - generic [ref=e106] [cursor=pointer]: Показать подсказку
+          - button "Правильный ответ" [ref=e108] [cursor=pointer]:
+            - img [ref=e111] [cursor=pointer]
+            - generic [ref=e113] [cursor=pointer]: Правильный ответ
+      - generic [ref=e114]:
+        - generic [ref=e117]: Интеллектуальный тренажер
+        - generic [ref=e123]:
+          - button "Войти как учитель" [ref=e125] [cursor=pointer]:
+            - img [ref=e128] [cursor=pointer]
+            - text: Войти как учитель
+          - generic [ref=e130]: Для создания собственной версии урока войдите как учитель.
+        - generic [ref=e131]:
+          - generic [ref=e133]:
+            - button "Черновик" [ref=e134] [cursor=pointer]:
+              - img [ref=e137] [cursor=pointer]
+              - text: Черновик
+            - button "Информация об уроке" [ref=e142] [cursor=pointer]:
+              - img [ref=e145] [cursor=pointer]
+              - text: Информация об уроке
+          - button "Далее" [ref=e148] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e151] [cursor=pointer]
+  - generic [ref=e159]:
+    - generic [ref=e161]: Урок
+    - generic [ref=e162]: Сложение от 0 до 10
+    - button "Приступить" [active] [ref=e163] [cursor=pointer]
+```
