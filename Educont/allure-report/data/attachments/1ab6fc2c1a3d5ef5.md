@@ -1,0 +1,73 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - button [ref=e6] [cursor=pointer]:
+      - img [ref=e7] [cursor=pointer]
+    - generic [ref=e9]:
+      - heading "Мы используем куки" [level=4] [ref=e10]
+      - generic [ref=e11]: Продолжая посещать наш сайт, вы соглашаетесь на использование cookies.
+      - button "Подробнее" [ref=e12] [cursor=pointer]
+    - button "Понятно" [ref=e13] [cursor=pointer]
+  - generic [ref=e22]:
+    - generic [ref=e23]:
+      - generic [ref=e26]:
+        - generic [ref=e28]:
+          - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+            - img [ref=e32] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e34]:
+            - generic [ref=e35]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e41] [cursor=pointer]
+              - button "3" [ref=e44] [cursor=pointer]
+              - button "4" [ref=e47] [cursor=pointer]
+              - button "5" [ref=e50] [cursor=pointer]
+              - button "6" [ref=e53] [cursor=pointer]
+            - generic [ref=e54]:
+              - button [disabled] [ref=e55]:
+                - img [ref=e57]
+              - button [disabled] [ref=e60]:
+                - img [ref=e62]
+        - generic [ref=e65]:
+          - generic [ref=e67]:
+            - img [ref=e71]
+            - heading "Выбери верный вариант ответа." [level=4] [ref=e73]:
+              - generic [ref=e75]: Выбери верный вариант ответа.
+          - generic [ref=e77]:
+            - img "decore" [ref=e80]
+            - generic [ref=e82]:
+              - img "Ipuy_shaduf" [ref=e85]
+              - generic [ref=e89]: Посмотри на иллюстрацию. Как называется приспособление, с помощью которого рабочий набирает воду?
+          - generic [ref=e91]:
+            - generic [ref=e95] [cursor=pointer]: Мастаба
+            - generic [ref=e99] [cursor=pointer]: Фараон
+            - generic [ref=e103] [cursor=pointer]: Шадуф
+            - generic [ref=e107] [cursor=pointer]: Хопеш
+      - generic [ref=e114]:
+        - button "2 Показать подсказку" [ref=e115] [cursor=pointer]:
+          - generic [ref=e118] [cursor=pointer]: "2"
+          - generic [ref=e119] [cursor=pointer]: Показать подсказку
+        - button "Правильный ответ" [ref=e121] [cursor=pointer]:
+          - img [ref=e124] [cursor=pointer]
+          - generic [ref=e126] [cursor=pointer]: Правильный ответ
+    - generic [ref=e127]:
+      - generic [ref=e130]: Интеллектуальный тренажер
+      - generic [ref=e136]:
+        - button "Войти как учитель" [ref=e138] [cursor=pointer]:
+          - img [ref=e141] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e143]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e144]:
+        - generic [ref=e146]:
+          - button "Черновик" [ref=e147] [cursor=pointer]:
+            - img [ref=e150] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e155] [cursor=pointer]:
+            - img [ref=e158] [cursor=pointer]
+            - text: Информация об уроке
+        - button "Далее" [ref=e161] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e164] [cursor=pointer]
+```
