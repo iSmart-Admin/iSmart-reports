@@ -1,0 +1,90 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - generic [ref=e25]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - button "1" [ref=e35] [cursor=pointer]
+              - button "2" [ref=e38] [cursor=pointer]
+              - button "3" [ref=e41] [cursor=pointer]
+              - button "4" [ref=e44] [cursor=pointer]
+              - button "5" [ref=e47] [cursor=pointer]
+              - button "6" [ref=e50] [cursor=pointer]
+              - button "7" [ref=e53] [cursor=pointer]
+              - button "8" [ref=e56] [cursor=pointer]
+              - button "9" [ref=e59] [cursor=pointer]
+              - button "10" [ref=e62] [cursor=pointer]
+            - generic [ref=e63]:
+              - button [disabled] [ref=e64]:
+                - img [ref=e66]
+              - button [ref=e69] [cursor=pointer]:
+                - img [ref=e71] [cursor=pointer]
+        - generic [ref=e74]:
+          - generic [ref=e76]:
+            - generic [ref=e77] [cursor=pointer]:
+              - generic:
+                - img
+            - heading "Прочитай предложение и ответь на вопрос." [level=4] [ref=e78]:
+              - generic [ref=e80]: Прочитай предложение и ответь на вопрос.
+          - generic [ref=e82]:
+            - img "decore" [ref=e85]
+            - generic [ref=e87]:
+              - heading "Мальчик сидит в кресле." [level=3] [ref=e89]
+              - separator [ref=e90]
+              - heading "Где сидит мальчик?" [level=3] [ref=e91]
+              - img [ref=e94]
+          - generic [ref=e97]:
+            - table [ref=e103] [cursor=pointer]:
+              - rowgroup [ref=e104] [cursor=pointer]:
+                - row "на стуле" [ref=e105] [cursor=pointer]:
+                  - cell "на стуле" [ref=e106] [cursor=pointer]:
+                    - generic [ref=e110] [cursor=pointer]: на стуле
+            - table [ref=e116] [cursor=pointer]:
+              - rowgroup [ref=e117] [cursor=pointer]:
+                - row "в кресле" [ref=e118] [cursor=pointer]:
+                  - cell "в кресле" [ref=e119] [cursor=pointer]:
+                    - generic [ref=e123] [cursor=pointer]: в кресле
+            - table [ref=e129] [cursor=pointer]:
+              - rowgroup [ref=e130] [cursor=pointer]:
+                - row "на диване" [ref=e131] [cursor=pointer]:
+                  - cell "на диване" [ref=e132] [cursor=pointer]:
+                    - generic [ref=e136] [cursor=pointer]: на диване
+      - button "Подсказка (ответ)" [ref=e145] [cursor=pointer]:
+        - img [ref=e148] [cursor=pointer]
+        - generic [ref=e150] [cursor=pointer]: Подсказка (ответ)
+    - generic [ref=e151]:
+      - generic [ref=e154]: Интеллектуальный тренажер
+      - generic [ref=e160]:
+        - button "Войти как учитель" [ref=e162] [cursor=pointer]:
+          - img [ref=e165] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e167]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e168]:
+        - generic [ref=e170]:
+          - button "Черновик" [ref=e171] [cursor=pointer]:
+            - img [ref=e174] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e179] [cursor=pointer]:
+            - img [ref=e182] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e184]:
+          - generic [ref=e185]:
+            - img [ref=e187]
+            - generic [ref=e189]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e190] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e193] [cursor=pointer]
+```
