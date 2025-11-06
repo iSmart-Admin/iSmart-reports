@@ -1,0 +1,72 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - generic [ref=e25]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - button "1" [ref=e35] [cursor=pointer]
+              - button "2" [ref=e38] [cursor=pointer]
+              - button "3" [ref=e41] [cursor=pointer]
+              - button "4" [ref=e44] [cursor=pointer]
+              - button "5" [ref=e47] [cursor=pointer]
+              - button "6" [ref=e50] [cursor=pointer]
+              - button "7" [ref=e53] [cursor=pointer]
+              - button "8" [ref=e56] [cursor=pointer]
+              - button "9" [ref=e59] [cursor=pointer]
+              - button "10" [ref=e62] [cursor=pointer]
+            - generic [ref=e63]:
+              - button [disabled] [ref=e64]:
+                - img [ref=e66]
+              - button [ref=e69] [cursor=pointer]:
+                - img [ref=e71] [cursor=pointer]
+        - generic [ref=e74]:
+          - generic [ref=e76]:
+            - generic [ref=e77] [cursor=pointer]:
+              - generic:
+                - img
+            - heading "Choose the correct word. Выбери правильное слово." [level=4] [ref=e78]:
+              - generic [ref=e80]: Choose the correct word. Выбери правильное слово.
+          - img "decore" [ref=e85]
+          - generic [ref=e93]:
+            - generic [ref=e95] [cursor=pointer]: shopping centre
+            - generic [ref=e97] [cursor=pointer]: train station
+            - generic [ref=e99] [cursor=pointer]: square
+      - button "Подсказка (ответ)" [ref=e108] [cursor=pointer]:
+        - img [ref=e111] [cursor=pointer]
+        - generic [ref=e113] [cursor=pointer]: Подсказка (ответ)
+    - generic [ref=e114]:
+      - generic [ref=e117]: Интеллектуальный тренажер
+      - generic [ref=e123]:
+        - button "Войти как учитель" [ref=e125] [cursor=pointer]:
+          - img [ref=e128] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e130]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e131]:
+        - generic [ref=e133]:
+          - button "Черновик" [ref=e134] [cursor=pointer]:
+            - img [ref=e137] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e142] [cursor=pointer]:
+            - img [ref=e145] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e147]:
+          - generic [ref=e148]:
+            - img [ref=e150]
+            - generic [ref=e152]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e153] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e156] [cursor=pointer]
+```

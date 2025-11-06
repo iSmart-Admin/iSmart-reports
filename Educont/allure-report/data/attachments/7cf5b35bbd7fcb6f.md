@@ -1,0 +1,94 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - generic [ref=e25]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - button "1" [ref=e35] [cursor=pointer]
+              - button "2" [ref=e38] [cursor=pointer]
+              - button "3" [ref=e41] [cursor=pointer]
+              - button "4" [ref=e44] [cursor=pointer]
+              - button "5" [ref=e47] [cursor=pointer]
+              - button "6" [ref=e50] [cursor=pointer]
+              - button "7" [ref=e53] [cursor=pointer]
+              - button "8" [ref=e56] [cursor=pointer]
+              - button "9" [ref=e59] [cursor=pointer]
+              - button "10" [ref=e62] [cursor=pointer]
+            - generic [ref=e63]:
+              - button [disabled] [ref=e64]:
+                - img [ref=e66]
+              - button [ref=e69] [cursor=pointer]:
+                - img [ref=e71] [cursor=pointer]
+        - generic [ref=e74]:
+          - generic [ref=e76]:
+            - img [ref=e80]
+            - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e82]:
+              - generic [ref=e84]: Внесите ответ в специально предназначенное поле.
+          - generic [ref=e86]:
+            - img "decore" [ref=e89]
+            - generic [ref=e95]:
+              - text: Сообщение занимает
+              - generic [ref=e97]:
+                - math [ref=e99]:
+                  - generic [ref=e102]: "12"
+                - generic [ref=e105]: "12"
+              - text: страниц текста по
+              - generic [ref=e107]:
+                - math [ref=e109]:
+                  - generic [ref=e112]: "824"
+                - generic [ref=e115]: "824"
+              - text: символа на странице. Мощность используемого алфавита равна
+              - generic [ref=e117]:
+                - math [ref=e119]:
+                  - generic [ref=e122]: "64."
+                - generic [ref=e125]: "64."
+              - text: Какое количество информации содержится в сообщении?
+          - generic [ref=e128]:
+            - generic [ref=e129]: Ответ выразите в байтах.
+            - generic [ref=e130]:
+              - strong [ref=e131]: "Ответ:"
+              - textbox [active] [ref=e132]
+              - text: .
+      - generic [ref=e140]:
+        - button "2 Показать подсказку" [ref=e141] [cursor=pointer]:
+          - generic [ref=e144] [cursor=pointer]: "2"
+          - generic [ref=e145] [cursor=pointer]: Показать подсказку
+        - button "Подсказка (ответ)" [ref=e147] [cursor=pointer]:
+          - img [ref=e150] [cursor=pointer]
+          - generic [ref=e152] [cursor=pointer]: Подсказка (ответ)
+    - generic [ref=e153]:
+      - generic [ref=e156]: Интеллектуальный тренажер
+      - generic [ref=e162]:
+        - button "Войти как учитель" [ref=e164] [cursor=pointer]:
+          - img [ref=e167] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e169]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e170]:
+        - generic [ref=e172]:
+          - button "Черновик" [ref=e173] [cursor=pointer]:
+            - img [ref=e176] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e181] [cursor=pointer]:
+            - img [ref=e184] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e186]:
+          - generic [ref=e187]:
+            - img [ref=e189]
+            - generic [ref=e191]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e192] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e195] [cursor=pointer]
+```

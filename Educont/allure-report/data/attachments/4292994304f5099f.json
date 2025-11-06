@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://edu.ismart.org/trpc/educont.signAsTestingProfile?batch=1",
+    "status": 401,
+    "payload": {
+      "0": {
+        "login": "test_lesson",
+        "password": "123456789!",
+        "lessonId": "68b6db8a9a159b41182bde66"
+      }
+    },
+    "timestap": "06.11.2025, 03:08:44"
+  }
+]
