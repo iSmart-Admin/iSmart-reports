@@ -1,0 +1,99 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img "Cookie consent" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+        - button "Понятно" [ref=e9] [cursor=pointer]
+        - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e23]:
+          - generic [ref=e25]:
+            - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+              - img [ref=e29] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e31]:
+              - generic [ref=e32]:
+                - button "1" [ref=e35] [cursor=pointer]
+                - button "2" [ref=e38] [cursor=pointer]
+                - button "3" [ref=e41] [cursor=pointer]
+                - button "4" [ref=e44] [cursor=pointer]
+                - button "5" [ref=e47] [cursor=pointer]
+                - button "6" [ref=e50] [cursor=pointer]
+                - button "7" [ref=e53] [cursor=pointer]
+                - button "8" [ref=e56] [cursor=pointer]
+                - button "9" [ref=e59] [cursor=pointer]
+              - generic [ref=e60]:
+                - button [disabled] [ref=e61]:
+                  - img [ref=e63]
+                - button [disabled] [ref=e66]:
+                  - img [ref=e68]
+          - generic [ref=e71]:
+            - generic [ref=e73]:
+              - img [ref=e77]
+              - heading "Установите соответствие между элементами." [level=4] [ref=e79]:
+                - generic [ref=e81]: Установите соответствие между элементами.
+            - generic [ref=e83]:
+              - img "decore" [ref=e86]
+              - generic [ref=e92]: Сопоставьте типы глобализации и их примеры.
+            - generic [ref=e95]:
+              - img [ref=e96]
+              - generic [ref=e97]:
+                - generic [ref=e103] [cursor=pointer]: Создание ООН
+                - generic [ref=e110] [cursor=pointer]: Духовная
+              - generic [ref=e111]:
+                - generic [ref=e117] [cursor=pointer]: Международный валютный фонд
+                - generic [ref=e124] [cursor=pointer]: Политическая
+              - generic [ref=e125]:
+                - generic [ref=e131] [cursor=pointer]: Проведение международного вокального конкурса
+                - generic [ref=e138] [cursor=pointer]: Экономическая
+              - generic [ref=e139]:
+                - generic [ref=e145] [cursor=pointer]: Миграция населения
+                - generic [ref=e152] [cursor=pointer]: Социальная
+        - generic [ref=e159]:
+          - button "2 Показать подсказку" [ref=e160] [cursor=pointer]:
+            - generic [ref=e163] [cursor=pointer]: "2"
+            - generic [ref=e164] [cursor=pointer]: Показать подсказку
+          - button "Подсказка (ответ)" [ref=e166] [cursor=pointer]:
+            - img [ref=e169] [cursor=pointer]
+            - generic [ref=e171] [cursor=pointer]: Подсказка (ответ)
+      - generic [ref=e172]:
+        - generic [ref=e175]: Интеллектуальный тренажер
+        - generic [ref=e181]:
+          - button "Войти как учитель" [ref=e183] [cursor=pointer]:
+            - img [ref=e186] [cursor=pointer]
+            - text: Войти как учитель
+          - generic [ref=e188]: Для создания собственной версии урока войдите как учитель.
+        - generic [ref=e189]:
+          - generic [ref=e191]:
+            - button "Черновик" [ref=e192] [cursor=pointer]:
+              - img [ref=e195] [cursor=pointer]
+              - text: Черновик
+            - button "Информация об уроке" [ref=e200] [cursor=pointer]:
+              - img [ref=e203] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e205]:
+            - generic [ref=e206]:
+              - img [ref=e208]
+              - generic [ref=e210]: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e211] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e214] [cursor=pointer]
+  - generic [ref=e222]:
+    - generic [ref=e224]: Урок
+    - generic [ref=e225]: Начало царствования Ивана IV.
+    - button "Приступить" [active] [ref=e226] [cursor=pointer]
+  - generic [ref=e233]:
+    - generic [ref=e235]:
+      - heading "Внимание" [level=1] [ref=e237]
+      - button [ref=e238] [cursor=pointer]:
+        - img [ref=e240] [cursor=pointer]
+    - generic [ref=e242]:
+      - img "Монитор" [ref=e243]
+      - generic [ref=e244]: На данном мобильном устройстве решение этого задания может быть неудобным. Открой задание на компьютере для удобства.
+      - button "Понятно" [ref=e245] [cursor=pointer]
+```

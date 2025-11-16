@@ -1,0 +1,76 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - generic [ref=e25]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - button "1" [ref=e35] [cursor=pointer]
+              - button "2" [ref=e38] [cursor=pointer]
+              - button "3" [ref=e41] [cursor=pointer]
+              - button "4" [ref=e44] [cursor=pointer]
+              - button "5" [ref=e47] [cursor=pointer]
+              - button "6" [ref=e50] [cursor=pointer]
+              - button "7" [ref=e53] [cursor=pointer]
+              - button "8" [ref=e56] [cursor=pointer]
+              - button "9" [ref=e59] [cursor=pointer]
+            - generic [ref=e60]:
+              - button [disabled] [ref=e61]:
+                - img [ref=e63]
+              - button [disabled] [ref=e66]:
+                - img [ref=e68]
+        - generic [ref=e71]:
+          - generic [ref=e73]:
+            - img [ref=e77]
+            - heading "Выбери верный вариант ответа." [level=4] [ref=e79]:
+              - generic [ref=e81]: Выбери верный вариант ответа.
+          - generic [ref=e83]:
+            - img "decore" [ref=e86]
+            - generic [ref=e92]: Укажи годы правления Петра III.
+          - generic [ref=e95]:
+            - generic [ref=e99] [cursor=pointer]: 1740-1741
+            - generic [ref=e103] [cursor=pointer]: 1741-1761
+            - generic [ref=e107] [cursor=pointer]: 1761-1762
+            - generic [ref=e111] [cursor=pointer]: 1762-1796
+      - generic [ref=e118]:
+        - button "2 Показать подсказку" [ref=e119] [cursor=pointer]:
+          - generic [ref=e122] [cursor=pointer]: "2"
+          - generic [ref=e123] [cursor=pointer]: Показать подсказку
+        - button "Подсказка (ответ)" [ref=e125] [cursor=pointer]:
+          - img [ref=e128] [cursor=pointer]
+          - generic [ref=e130] [cursor=pointer]: Подсказка (ответ)
+    - generic [ref=e131]:
+      - generic [ref=e134]: Интеллектуальный тренажер
+      - generic [ref=e140]:
+        - button "Войти как учитель" [ref=e142] [cursor=pointer]:
+          - img [ref=e145] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e147]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e148]:
+        - generic [ref=e150]:
+          - button "Черновик" [ref=e151] [cursor=pointer]:
+            - img [ref=e154] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e159] [cursor=pointer]:
+            - img [ref=e162] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e164]:
+          - generic [ref=e165]:
+            - img [ref=e167]
+            - generic [ref=e169]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e170] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e173] [cursor=pointer]
+```
