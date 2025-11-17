@@ -1,0 +1,83 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - generic [ref=e25]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - button "1" [ref=e35] [cursor=pointer]
+              - button "2" [ref=e38] [cursor=pointer]
+              - button "3" [ref=e41] [cursor=pointer]
+              - button "4" [ref=e44] [cursor=pointer]
+              - button "5" [ref=e47] [cursor=pointer]
+              - button "6" [ref=e50] [cursor=pointer]
+              - button "7" [ref=e53] [cursor=pointer]
+              - button "8" [ref=e56] [cursor=pointer]
+              - button "9" [ref=e59] [cursor=pointer]
+              - button "10" [ref=e62] [cursor=pointer]
+            - generic [ref=e63]:
+              - button [disabled] [ref=e64]:
+                - img [ref=e66]
+              - button [ref=e69] [cursor=pointer]:
+                - img [ref=e71] [cursor=pointer]
+        - generic [ref=e74]:
+          - generic [ref=e76]:
+            - img [ref=e80]
+            - heading "Установите соответствие между элементами." [level=4] [ref=e82]:
+              - generic [ref=e84]: Установите соответствие между элементами.
+          - generic [ref=e86]:
+            - img "decore" [ref=e89]
+            - generic [ref=e95]: Соотнесите учёного и век, в котором он совершил известное открытие.
+          - generic [ref=e97]:
+            - generic [ref=e98]:
+              - generic [ref=e102]: ХIX век
+              - generic [ref=e107]: ХХ век
+            - generic [ref=e109]:
+              - generic [ref=e114] [cursor=pointer]: А. Попов
+              - generic [ref=e119] [cursor=pointer]: З. Грамм
+              - generic [ref=e124] [cursor=pointer]: И. Сикорский
+              - generic [ref=e129] [cursor=pointer]: Братья У. и О. Райт
+              - generic [ref=e134] [cursor=pointer]: М. Фарадей
+              - generic [ref=e139] [cursor=pointer]: Г. Котельников
+      - generic [ref=e146]:
+        - button "2 Показать подсказку" [ref=e147] [cursor=pointer]:
+          - generic [ref=e150] [cursor=pointer]: "2"
+          - generic [ref=e151] [cursor=pointer]: Показать подсказку
+        - button "Подсказка (ответ)" [ref=e153] [cursor=pointer]:
+          - img [ref=e156] [cursor=pointer]
+          - generic [ref=e158] [cursor=pointer]: Подсказка (ответ)
+    - generic [ref=e159]:
+      - generic [ref=e162]: Интеллектуальный тренажер
+      - generic [ref=e168]:
+        - button "Войти как учитель" [ref=e170] [cursor=pointer]:
+          - img [ref=e173] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e175]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e176]:
+        - generic [ref=e178]:
+          - button "Черновик" [ref=e179] [cursor=pointer]:
+            - img [ref=e182] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e187] [cursor=pointer]:
+            - img [ref=e190] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e192]:
+          - generic [ref=e193]:
+            - img [ref=e195]
+            - generic [ref=e197]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e198] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e201] [cursor=pointer]
+```

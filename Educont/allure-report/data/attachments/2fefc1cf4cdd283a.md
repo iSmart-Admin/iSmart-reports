@@ -1,0 +1,92 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img "Cookie consent" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+        - button "Понятно" [ref=e9] [cursor=pointer]
+        - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e23]:
+          - generic [ref=e25]:
+            - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+              - img [ref=e29] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e31]:
+              - generic [ref=e32]:
+                - button "1" [ref=e35] [cursor=pointer]
+                - button "2" [ref=e38] [cursor=pointer]
+                - button "3" [ref=e41] [cursor=pointer]
+              - generic [ref=e42]:
+                - button [disabled] [ref=e43]:
+                  - img [ref=e45]
+                - button [disabled] [ref=e48]:
+                  - img [ref=e50]
+          - generic [ref=e53]:
+            - generic [ref=e55]:
+              - img [ref=e59]
+              - heading "Установи соответствие между элементами." [level=4] [ref=e61]:
+                - generic [ref=e63]: Установи соответствие между элементами.
+            - generic [ref=e65]:
+              - img "decore" [ref=e68]
+              - generic [ref=e73]:
+                - generic [ref=e74]: Как меняется потенциальная энергия тела в каждом случае?
+                - generic [ref=e75]: За нулевой уровень принять уровень поверхности земли.
+            - generic [ref=e78]:
+              - img [ref=e79]
+              - generic [ref=e80]:
+                - generic [ref=e86] [cursor=pointer]: Потенциальная энергия не изменяется.
+                - generic [ref=e93] [cursor=pointer]: Тело поднимают над поверхностью земли.
+              - generic [ref=e94]:
+                - generic [ref=e100] [cursor=pointer]: Потенциальная энергия уменьшается.
+                - generic [ref=e107] [cursor=pointer]: Тело опускают в подземную шахту.
+              - generic [ref=e108]:
+                - generic [ref=e114] [cursor=pointer]: Потенциальная энергия увеличивается.
+                - generic [ref=e121] [cursor=pointer]: Тело движется параллельно поверхности земли.
+        - generic [ref=e128]:
+          - button "2 Показать подсказку" [ref=e129] [cursor=pointer]:
+            - generic [ref=e132] [cursor=pointer]: "2"
+            - generic [ref=e133] [cursor=pointer]: Показать подсказку
+          - button "Подсказка (ответ)" [ref=e135] [cursor=pointer]:
+            - img [ref=e138] [cursor=pointer]
+            - generic [ref=e140] [cursor=pointer]: Подсказка (ответ)
+      - generic [ref=e141]:
+        - generic [ref=e144]: Интеллектуальный тренажер
+        - generic [ref=e150]:
+          - button "Войти как учитель" [ref=e152] [cursor=pointer]:
+            - img [ref=e155] [cursor=pointer]
+            - text: Войти как учитель
+          - generic [ref=e157]: Для создания собственной версии урока войдите как учитель.
+        - generic [ref=e158]:
+          - generic [ref=e160]:
+            - button "Черновик" [ref=e161] [cursor=pointer]:
+              - img [ref=e164] [cursor=pointer]
+              - text: Черновик
+            - button "Информация об уроке" [ref=e169] [cursor=pointer]:
+              - img [ref=e172] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e174]:
+            - generic [ref=e175]:
+              - img [ref=e177]
+              - generic [ref=e179]: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e180] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e183] [cursor=pointer]
+  - generic [ref=e191]:
+    - generic [ref=e193]: Урок
+    - generic [ref=e194]: Начало царствования Ивана IV.
+    - button "Приступить" [active] [ref=e195] [cursor=pointer]
+  - generic [ref=e202]:
+    - generic [ref=e204]:
+      - heading "Внимание" [level=1] [ref=e206]
+      - button [ref=e207] [cursor=pointer]:
+        - img [ref=e209] [cursor=pointer]
+    - generic [ref=e211]:
+      - img "Монитор" [ref=e212]
+      - generic [ref=e213]: На данном мобильном устройстве решение этого задания может быть неудобным. Открой задание на компьютере для удобства.
+      - button "Понятно" [ref=e214] [cursor=pointer]
+```
