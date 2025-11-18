@@ -1,0 +1,97 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img "Cookie consent" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+        - button "Понятно" [ref=e9] [cursor=pointer]
+        - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e23]:
+          - generic [ref=e25]:
+            - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+              - img [ref=e29] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e31]:
+              - generic [ref=e32]:
+                - button "1" [ref=e35] [cursor=pointer]
+                - button "2" [ref=e38] [cursor=pointer]
+                - button "3" [ref=e41] [cursor=pointer]
+                - button "4" [ref=e44] [cursor=pointer]
+                - button "5" [ref=e47] [cursor=pointer]
+                - button "6" [ref=e50] [cursor=pointer]
+                - button "7" [ref=e53] [cursor=pointer]
+                - button "8" [ref=e56] [cursor=pointer]
+                - button "9" [ref=e59] [cursor=pointer]
+                - button "10" [ref=e62] [cursor=pointer]
+              - generic [ref=e63]:
+                - button [disabled] [ref=e64]:
+                  - img [ref=e66]
+                - button [ref=e69] [cursor=pointer]:
+                  - img [ref=e71] [cursor=pointer]
+          - generic [ref=e74]:
+            - generic [ref=e76]:
+              - img [ref=e80]
+              - heading "Установи соответствие между элементами." [level=4] [ref=e82]:
+                - generic [ref=e84]: Установи соответствие между элементами.
+            - generic [ref=e86]:
+              - img "decore" [ref=e89]
+              - generic [ref=e95]: Соотнеси растение с характерным для него видоизменением корней.
+            - generic [ref=e98]:
+              - img [ref=e99]
+              - generic [ref=e100]:
+                - generic [ref=e106] [cursor=pointer]: Корнеплод
+                - generic [ref=e113] [cursor=pointer]: Репа, свекла, брюква
+              - generic [ref=e114]:
+                - generic [ref=e120] [cursor=pointer]: Корни-присоски
+                - generic [ref=e127] [cursor=pointer]: Плющ
+              - generic [ref=e128]:
+                - generic [ref=e134] [cursor=pointer]: Корневые клубни
+                - generic [ref=e141] [cursor=pointer]: Георгин
+        - generic [ref=e148]:
+          - button "2 Показать подсказку" [ref=e149] [cursor=pointer]:
+            - generic [ref=e152] [cursor=pointer]: "2"
+            - generic [ref=e153] [cursor=pointer]: Показать подсказку
+          - button "Подсказка (ответ)" [ref=e155] [cursor=pointer]:
+            - img [ref=e158] [cursor=pointer]
+            - generic [ref=e160] [cursor=pointer]: Подсказка (ответ)
+      - generic [ref=e161]:
+        - generic [ref=e164]: Интеллектуальный тренажер
+        - generic [ref=e170]:
+          - button "Войти как учитель" [ref=e172] [cursor=pointer]:
+            - img [ref=e175] [cursor=pointer]
+            - text: Войти как учитель
+          - generic [ref=e177]: Для создания собственной версии урока войдите как учитель.
+        - generic [ref=e178]:
+          - generic [ref=e180]:
+            - button "Черновик" [ref=e181] [cursor=pointer]:
+              - img [ref=e184] [cursor=pointer]
+              - text: Черновик
+            - button "Информация об уроке" [ref=e189] [cursor=pointer]:
+              - img [ref=e192] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e194]:
+            - generic [ref=e195]:
+              - img [ref=e197]
+              - generic [ref=e199]: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e200] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e203] [cursor=pointer]
+  - generic [ref=e211]:
+    - generic [ref=e213]: Урок
+    - generic [ref=e214]: Виды корней. Видоизменения корней
+    - button "Приступить" [active] [ref=e215] [cursor=pointer]
+  - generic [ref=e222]:
+    - generic [ref=e224]:
+      - heading "Внимание" [level=1] [ref=e226]
+      - button [ref=e227] [cursor=pointer]:
+        - img [ref=e229] [cursor=pointer]
+    - generic [ref=e231]:
+      - img "Монитор" [ref=e232]
+      - generic [ref=e233]: На данном мобильном устройстве решение этого задания может быть неудобным. Открой задание на компьютере для удобства.
+      - button "Понятно" [ref=e234] [cursor=pointer]
+```

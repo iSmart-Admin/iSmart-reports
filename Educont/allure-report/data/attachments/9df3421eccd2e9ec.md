@@ -1,0 +1,129 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img "Cookie consent" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+        - button "Понятно" [ref=e9] [cursor=pointer]
+        - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+    - generic [ref=e15]:
+      - link "educontIcon Перейти в \"Моя школа\"" [ref=e19] [cursor=pointer]:
+        - /url: https://www.gosuslugi.ru/school/schedule
+        - img "educontIcon" [ref=e21] [cursor=pointer]
+        - generic [ref=e22] [cursor=pointer]: Перейти в "Моя школа"
+        - img [ref=e24] [cursor=pointer]
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - img [ref=e31]
+            - generic [ref=e33]: Курс
+            - generic [ref=e34]: (Только для ознакомления)
+          - generic [ref=e35]:
+            - heading "9 класс. Вероятность и статистика" [level=1] [ref=e36]
+            - button "Данные курса" [active] [ref=e37] [cursor=pointer]:
+              - img [ref=e40] [cursor=pointer]
+              - text: Данные курса
+        - generic [ref=e44]:
+          - generic [ref=e45] [cursor=pointer]:
+            - generic [ref=e46] [cursor=pointer]:
+              - generic [ref=e47] [cursor=pointer]:
+                - img [ref=e51] [cursor=pointer]
+                - generic [ref=e54] [cursor=pointer]: Испытания Бернулли
+              - generic [ref=e55] [cursor=pointer]:
+                - button "1" [ref=e56] [cursor=pointer]:
+                  - generic [ref=e57] [cursor=pointer]:
+                    - generic:
+                      - img
+                    - generic [ref=e58] [cursor=pointer]: "1"
+                - button "2" [ref=e59] [cursor=pointer]:
+                  - generic [ref=e61] [cursor=pointer]: "2"
+            - img [ref=e65] [cursor=pointer]
+          - generic [ref=e67] [cursor=pointer]:
+            - generic [ref=e68] [cursor=pointer]:
+              - generic [ref=e69] [cursor=pointer]:
+                - img [ref=e73] [cursor=pointer]
+                - generic [ref=e76] [cursor=pointer]: Геометрическая вероятность
+              - generic [ref=e77] [cursor=pointer]:
+                - button "1" [ref=e78] [cursor=pointer]:
+                  - generic [ref=e79] [cursor=pointer]:
+                    - generic:
+                      - img
+                    - generic [ref=e80] [cursor=pointer]: "1"
+                - button "2" [ref=e81] [cursor=pointer]:
+                  - generic [ref=e83] [cursor=pointer]: "2"
+            - img [ref=e87] [cursor=pointer]
+          - generic [ref=e89] [cursor=pointer]:
+            - generic [ref=e90] [cursor=pointer]:
+              - generic [ref=e91] [cursor=pointer]:
+                - img [ref=e95] [cursor=pointer]
+                - generic [ref=e98] [cursor=pointer]: Элементы комбинаторики
+              - generic [ref=e99] [cursor=pointer]:
+                - button "1" [ref=e100] [cursor=pointer]:
+                  - generic [ref=e101] [cursor=pointer]:
+                    - generic:
+                      - img
+                    - generic [ref=e102] [cursor=pointer]: "1"
+                - button "2" [ref=e103] [cursor=pointer]:
+                  - generic [ref=e105] [cursor=pointer]: "2"
+            - img [ref=e109] [cursor=pointer]
+          - generic [ref=e111] [cursor=pointer]:
+            - generic [ref=e112] [cursor=pointer]:
+              - generic [ref=e113] [cursor=pointer]:
+                - img [ref=e117] [cursor=pointer]
+                - generic [ref=e120] [cursor=pointer]: Повторение курса 8 класса
+              - generic [ref=e121] [cursor=pointer]:
+                - button "1" [ref=e122] [cursor=pointer]:
+                  - generic [ref=e123] [cursor=pointer]:
+                    - generic:
+                      - img
+                    - generic [ref=e124] [cursor=pointer]: "1"
+                - button "2" [ref=e125] [cursor=pointer]:
+                  - generic [ref=e127] [cursor=pointer]: "2"
+            - img [ref=e131] [cursor=pointer]
+          - generic [ref=e133] [cursor=pointer]:
+            - generic [ref=e134] [cursor=pointer]:
+              - generic [ref=e135] [cursor=pointer]:
+                - img [ref=e139] [cursor=pointer]
+                - generic [ref=e142] [cursor=pointer]: Обобщение, контроль
+              - generic [ref=e143] [cursor=pointer]:
+                - button "1" [ref=e144] [cursor=pointer]:
+                  - generic [ref=e145] [cursor=pointer]:
+                    - generic:
+                      - img
+                    - generic [ref=e146] [cursor=pointer]: "1"
+                - button "4" [ref=e147] [cursor=pointer]:
+                  - generic [ref=e149] [cursor=pointer]: "4"
+            - img [ref=e153] [cursor=pointer]
+          - generic [ref=e155] [cursor=pointer]:
+            - generic [ref=e156] [cursor=pointer]:
+              - generic [ref=e157] [cursor=pointer]:
+                - img [ref=e161] [cursor=pointer]
+                - generic [ref=e164] [cursor=pointer]: Случайная величина
+              - generic [ref=e165] [cursor=pointer]:
+                - button "1" [ref=e166] [cursor=pointer]:
+                  - generic [ref=e167] [cursor=pointer]:
+                    - generic:
+                      - img
+                    - generic [ref=e168] [cursor=pointer]: "1"
+                - button "3" [ref=e169] [cursor=pointer]:
+                  - generic [ref=e171] [cursor=pointer]: "3"
+            - img [ref=e175] [cursor=pointer]
+  - generic [ref=e182]:
+    - generic [ref=e183]:
+      - heading "Данные курса" [level=4] [ref=e184]
+      - button [ref=e185] [cursor=pointer]:
+        - img [ref=e187] [cursor=pointer]
+    - generic [ref=e190]:
+      - img [ref=e192]
+      - generic [ref=e194]: 9 класс. Вероятность и статистика
+    - generic [ref=e198]:
+      - generic [ref=e201]:
+        - generic [ref=e202]: Описание
+        - textbox "Данных нет" [disabled] [ref=e205]: Курс '9 класс. Вероятность и статистика' знакомит учащихся с основами теории вероятностей и элементами статистики. В рамках курса рассматриваются базовые понятия, методы вычисления вероятностей, а также способы сбора, анализа и интерпретации статистических данных.
+      - generic [ref=e207]:
+        - generic [ref=e208]: Навыки
+        - textbox "Данных нет" [disabled] [ref=e211]: Учащиеся научатся рассчитывать вероятности простых и сложных событий, анализировать статистические данные, строить графики и диаграммы, а также делать выводы на основе полученных результатов. Курс развивает критическое мышление и умение применять математические методы для решения практических задач.
+```
