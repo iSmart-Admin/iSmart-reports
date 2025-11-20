@@ -1,0 +1,92 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img "Cookie consent" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+        - button "Понятно" [ref=e9] [cursor=pointer]
+        - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e23]:
+          - generic [ref=e25]:
+            - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+              - img [ref=e29] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e31]:
+              - generic [ref=e32]:
+                - button "1" [ref=e35] [cursor=pointer]
+                - button "2" [ref=e38] [cursor=pointer]
+                - button "3" [ref=e41] [cursor=pointer]
+                - button "4" [ref=e44] [cursor=pointer]
+                - button "5" [ref=e47] [cursor=pointer]
+                - button "6" [ref=e50] [cursor=pointer]
+                - button "7" [ref=e53] [cursor=pointer]
+                - button "8" [ref=e56] [cursor=pointer]
+                - button "9" [ref=e59] [cursor=pointer]
+                - button "10" [ref=e62] [cursor=pointer]
+              - generic [ref=e63]:
+                - button [disabled] [ref=e64]:
+                  - img [ref=e66]
+                - button [ref=e69] [cursor=pointer]:
+                  - img [ref=e71] [cursor=pointer]
+          - generic [ref=e74]:
+            - generic [ref=e76]:
+              - img [ref=e80]
+              - heading "Установи соответствие между элементами." [level=4] [ref=e82]:
+                - generic [ref=e84]: Установи соответствие между элементами.
+            - generic [ref=e86]:
+              - img "decore" [ref=e89]
+              - generic [ref=e94]:
+                - generic [ref=e95]: Подбери термины к определениям.
+                - generic [ref=e96]: Заполни пропуски в тексте об отличиях человека от человекообразных обезьян.
+            - generic [ref=e99]:
+              - img [ref=e100]
+              - generic [ref=e101]:
+                - generic [ref=e107] [cursor=pointer]: Орган, который был развит у предковых форм, а у современных недоразвит.
+                - generic [ref=e114] [cursor=pointer]: Рудимент
+              - generic [ref=e115]:
+                - generic [ref=e121] [cursor=pointer]: Признак, который был развит у предков, у современных форм в норме отсутствует, но может появляться в качестве мутации.
+                - generic [ref=e128] [cursor=pointer]: Атавизм
+        - button "1 Показать подсказку" [ref=e136] [cursor=pointer]:
+          - generic [ref=e139] [cursor=pointer]: "1"
+          - generic [ref=e140] [cursor=pointer]: Показать подсказку
+      - generic [ref=e141]:
+        - generic [ref=e144]: Интеллектуальный тренажер
+        - generic [ref=e150]:
+          - button "Войти как учитель" [ref=e152] [cursor=pointer]:
+            - img [ref=e155] [cursor=pointer]
+            - text: Войти как учитель
+          - generic [ref=e157]: Для создания собственной версии урока войдите как учитель.
+        - generic [ref=e158]:
+          - generic [ref=e160]:
+            - button "Черновик" [ref=e161] [cursor=pointer]:
+              - img [ref=e164] [cursor=pointer]
+              - text: Черновик
+            - button "Информация об уроке" [ref=e169] [cursor=pointer]:
+              - img [ref=e172] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e174]:
+            - generic [ref=e175]:
+              - img [ref=e177]
+              - generic [ref=e179]: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e180] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e183] [cursor=pointer]
+  - generic [ref=e191]:
+    - generic [ref=e193]: Урок
+    - generic [ref=e194]: Начало царствования Ивана IV.
+    - button "Приступить" [active] [ref=e195] [cursor=pointer]
+  - generic [ref=e202]:
+    - generic [ref=e204]:
+      - heading "Внимание" [level=1] [ref=e206]
+      - button [ref=e207] [cursor=pointer]:
+        - img [ref=e209] [cursor=pointer]
+    - generic [ref=e211]:
+      - img "Монитор" [ref=e212]
+      - generic [ref=e213]: На данном мобильном устройстве решение этого задания может быть неудобным. Открой задание на компьютере для удобства.
+      - button "Понятно" [ref=e214] [cursor=pointer]
+```

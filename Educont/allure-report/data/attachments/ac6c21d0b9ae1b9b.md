@@ -1,0 +1,95 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img "Cookie consent" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+        - button "Понятно" [ref=e9] [cursor=pointer]
+        - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e23]:
+          - generic [ref=e25]:
+            - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+              - img [ref=e29] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e31]:
+              - generic [ref=e32]:
+                - button "1" [ref=e35] [cursor=pointer]
+                - button "2" [ref=e38] [cursor=pointer]
+                - button "3" [ref=e41] [cursor=pointer]
+                - button "4" [ref=e44] [cursor=pointer]
+                - button "5" [ref=e47] [cursor=pointer]
+                - button "6" [ref=e50] [cursor=pointer]
+                - button "7" [ref=e53] [cursor=pointer]
+                - button "8" [ref=e56] [cursor=pointer]
+                - button "9" [ref=e59] [cursor=pointer]
+                - button "10" [ref=e62] [cursor=pointer]
+              - generic [ref=e63]:
+                - button [disabled] [ref=e64]:
+                  - img [ref=e66]
+                - button [ref=e69] [cursor=pointer]:
+                  - img [ref=e71] [cursor=pointer]
+          - generic [ref=e74]:
+            - generic [ref=e76]:
+              - img [ref=e80]
+              - heading "Установи соответствие между элементами." [level=4] [ref=e82]:
+                - generic [ref=e84]: Установи соответствие между элементами.
+            - generic [ref=e86]:
+              - img "decore" [ref=e89]
+              - generic [ref=e91]:
+                - img "hist_7_Походы монголов при Чингисхане" [ref=e94]
+                - generic [ref=e98]: Распредели завоевательные походы монголов времён правления Чингисхана по периодам.
+            - generic [ref=e101]:
+              - img [ref=e102]
+              - generic [ref=e103]:
+                - generic [ref=e109] [cursor=pointer]: "1207"
+                - generic [ref=e116] [cursor=pointer]: Государство Цзинь
+              - generic [ref=e117]:
+                - generic [ref=e123] [cursor=pointer]: "1213"
+                - generic [ref=e130] [cursor=pointer]: Семиречье и Восточный Туркестан
+              - generic [ref=e131]:
+                - generic [ref=e137] [cursor=pointer]: "1218"
+                - generic [ref=e144] [cursor=pointer]: Государство Си-Ся
+        - button "2 Показать подсказку" [ref=e152] [cursor=pointer]:
+          - generic [ref=e155] [cursor=pointer]: "2"
+          - generic [ref=e156] [cursor=pointer]: Показать подсказку
+      - generic [ref=e157]:
+        - generic [ref=e160]: Интеллектуальный тренажер
+        - generic [ref=e166]:
+          - button "Войти как учитель" [ref=e168] [cursor=pointer]:
+            - img [ref=e171] [cursor=pointer]
+            - text: Войти как учитель
+          - generic [ref=e173]: Для создания собственной версии урока войдите как учитель.
+        - generic [ref=e174]:
+          - generic [ref=e176]:
+            - button "Черновик" [ref=e177] [cursor=pointer]:
+              - img [ref=e180] [cursor=pointer]
+              - text: Черновик
+            - button "Информация об уроке" [ref=e185] [cursor=pointer]:
+              - img [ref=e188] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e190]:
+            - generic [ref=e191]:
+              - img [ref=e193]
+              - generic [ref=e195]: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e196] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e199] [cursor=pointer]
+  - generic [ref=e207]:
+    - generic [ref=e209]: Урок
+    - generic [ref=e210]: Начало царствования Ивана IV.
+    - button "Приступить" [active] [ref=e211] [cursor=pointer]
+  - generic [ref=e218]:
+    - generic [ref=e220]:
+      - heading "Внимание" [level=1] [ref=e222]
+      - button [ref=e223] [cursor=pointer]:
+        - img [ref=e225] [cursor=pointer]
+    - generic [ref=e227]:
+      - img "Монитор" [ref=e228]
+      - generic [ref=e229]: На данном мобильном устройстве решение этого задания может быть неудобным. Открой задание на компьютере для удобства.
+      - button "Понятно" [ref=e230] [cursor=pointer]
+```
