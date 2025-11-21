@@ -1,0 +1,96 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img "Cookie consent" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+        - button "Понятно" [ref=e9] [cursor=pointer]
+        - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e23]:
+          - generic [ref=e25]:
+            - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+              - img [ref=e29] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e31]:
+              - generic [ref=e32]:
+                - button "1" [ref=e35] [cursor=pointer]
+                - button "2" [ref=e38] [cursor=pointer]
+                - button "3" [ref=e41] [cursor=pointer]
+                - button "4" [ref=e44] [cursor=pointer]
+                - button "5" [ref=e47] [cursor=pointer]
+                - button "6" [ref=e50] [cursor=pointer]
+                - button "7" [ref=e53] [cursor=pointer]
+                - button "8" [ref=e56] [cursor=pointer]
+                - button "9" [ref=e59] [cursor=pointer]
+                - button "10" [ref=e62] [cursor=pointer]
+              - generic [ref=e63]:
+                - button [disabled] [ref=e64]:
+                  - img [ref=e66]
+                - button [ref=e69] [cursor=pointer]:
+                  - img [ref=e71] [cursor=pointer]
+          - generic [ref=e74]:
+            - generic [ref=e76]:
+              - img [ref=e80]
+              - heading "Установи соответствие между элементами." [level=4] [ref=e82]:
+                - generic [ref=e84]: Установи соответствие между элементами.
+            - generic [ref=e86]:
+              - img "decore" [ref=e89]
+              - generic [ref=e95]: Соотнеси сыновей Владимира и города, которыми они управляли при жизни отца.
+            - generic [ref=e98]:
+              - img [ref=e99]
+              - generic [ref=e100]:
+                - generic [ref=e106] [cursor=pointer]: Полоцк
+                - generic [ref=e113] [cursor=pointer]: Вышеслав
+              - generic [ref=e114]:
+                - generic [ref=e120] [cursor=pointer]: Новгород
+                - generic [ref=e127] [cursor=pointer]: Мстислав
+              - generic [ref=e128]:
+                - generic [ref=e134] [cursor=pointer]: Ростов
+                - generic [ref=e141] [cursor=pointer]: Изяслав
+              - generic [ref=e142]:
+                - generic [ref=e148] [cursor=pointer]: Тмутаракань
+                - generic [ref=e155] [cursor=pointer]: Ярослав
+        - button "2 Показать подсказку" [ref=e163] [cursor=pointer]:
+          - generic [ref=e166] [cursor=pointer]: "2"
+          - generic [ref=e167] [cursor=pointer]: Показать подсказку
+      - generic [ref=e168]:
+        - generic [ref=e171]: Интеллектуальный тренажер
+        - generic [ref=e177]:
+          - button "Войти как учитель" [ref=e179] [cursor=pointer]:
+            - img [ref=e182] [cursor=pointer]
+            - text: Войти как учитель
+          - generic [ref=e184]: Для создания собственной версии урока войдите как учитель.
+        - generic [ref=e185]:
+          - generic [ref=e187]:
+            - button "Черновик" [ref=e188] [cursor=pointer]:
+              - img [ref=e191] [cursor=pointer]
+              - text: Черновик
+            - button "Информация об уроке" [ref=e196] [cursor=pointer]:
+              - img [ref=e199] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e201]:
+            - generic [ref=e202]:
+              - img [ref=e204]
+              - generic [ref=e206]: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e207] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e210] [cursor=pointer]
+  - generic [ref=e218]:
+    - generic [ref=e220]: Урок
+    - generic [ref=e221]: Расцвет Руси при Ярославе Мудром
+    - button "Приступить" [active] [ref=e222] [cursor=pointer]
+  - generic [ref=e229]:
+    - generic [ref=e231]:
+      - heading "Внимание" [level=1] [ref=e233]
+      - button [ref=e234] [cursor=pointer]:
+        - img [ref=e236] [cursor=pointer]
+    - generic [ref=e238]:
+      - img "Монитор" [ref=e239]
+      - generic [ref=e240]: На данном мобильном устройстве решение этого задания может быть неудобным. Открой задание на компьютере для удобства.
+      - button "Понятно" [ref=e241] [cursor=pointer]
+```
