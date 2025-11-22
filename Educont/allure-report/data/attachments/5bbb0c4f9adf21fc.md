@@ -1,0 +1,78 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - generic [ref=e25]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - button "1" [ref=e35] [cursor=pointer]
+              - button "2" [ref=e38] [cursor=pointer]
+              - button "3" [ref=e41] [cursor=pointer]
+              - button "4" [ref=e44] [cursor=pointer]
+              - button "5" [ref=e47] [cursor=pointer]
+              - button "6" [ref=e50] [cursor=pointer]
+              - button "7" [ref=e53] [cursor=pointer]
+              - button "8" [ref=e56] [cursor=pointer]
+              - button "9" [ref=e59] [cursor=pointer]
+              - button "10" [ref=e62] [cursor=pointer]
+            - generic [ref=e63]:
+              - button [disabled] [ref=e64]:
+                - img [ref=e66]
+              - button [ref=e69] [cursor=pointer]:
+                - img [ref=e71] [cursor=pointer]
+        - generic [ref=e74]:
+          - generic [ref=e76]:
+            - img [ref=e80]
+            - heading "Найди имена прилагательные." [level=4] [ref=e82]:
+              - generic [ref=e84]: Найди имена прилагательные.
+          - img "decore" [ref=e89]
+          - generic [ref=e93]:
+            - generic [ref=e94]:
+              - generic [ref=e96] [cursor=pointer]: молодой
+              - generic [ref=e98] [cursor=pointer]: молодость
+              - generic [ref=e100] [cursor=pointer]: молоденький
+              - generic [ref=e102] [cursor=pointer]: молодеет
+            - separator [ref=e103]
+            - generic [ref=e104]:
+              - generic [ref=e106] [cursor=pointer]: стареет
+              - generic [ref=e108] [cursor=pointer]: старое
+              - generic [ref=e110] [cursor=pointer]: старость
+              - generic [ref=e112] [cursor=pointer]: старенькое
+      - button "2 Показать подсказку" [ref=e120] [cursor=pointer]:
+        - generic [ref=e123] [cursor=pointer]: "2"
+        - generic [ref=e124] [cursor=pointer]: Показать подсказку
+    - generic [ref=e125]:
+      - generic [ref=e128]: Интеллектуальный тренажер
+      - generic [ref=e134]:
+        - button "Войти как учитель" [ref=e136] [cursor=pointer]:
+          - img [ref=e139] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e141]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e142]:
+        - generic [ref=e144]:
+          - button "Черновик" [ref=e145] [cursor=pointer]:
+            - img [ref=e148] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e153] [cursor=pointer]:
+            - img [ref=e156] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e158]:
+          - generic [ref=e159]:
+            - img [ref=e161]
+            - generic [ref=e163]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e164] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e167] [cursor=pointer]
+```
