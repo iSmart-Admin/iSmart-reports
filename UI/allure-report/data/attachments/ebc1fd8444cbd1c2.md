@@ -1,0 +1,83 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e12]:
+    - generic [ref=e17]:
+      - generic [ref=e20]:
+        - link "Каталог заданий" [ref=e22] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e25] [cursor=pointer]: Каталог заданий
+        - link "Кабинет родителя" [ref=e28] [cursor=pointer]:
+          - /url: /parent/dashboard
+          - generic [ref=e31] [cursor=pointer]: Кабинет родителя
+        - link "Рейтинг" [ref=e34] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e37] [cursor=pointer]: Рейтинг
+        - link "Магазин" [ref=e40] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e43] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e46] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e49] [cursor=pointer]: Помощник
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - button [ref=e53] [cursor=pointer]:
+            - img [ref=e55] [cursor=pointer]
+          - img [ref=e60] [cursor=pointer]
+        - generic [ref=e62] [cursor=pointer]:
+          - generic [ref=e65] [cursor=pointer]: Н
+          - generic [ref=e66] [cursor=pointer]:
+            - paragraph [ref=e67] [cursor=pointer]: Родитель
+            - paragraph [ref=e68] [cursor=pointer]: Николай
+          - img [ref=e70] [cursor=pointer]
+    - generic [ref=e75]:
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - button "Мои дети" [ref=e78] [cursor=pointer]:
+            - img [ref=e81] [cursor=pointer]
+            - text: Мои дети
+          - button "Профиль родителя" [ref=e83] [cursor=pointer]:
+            - img [ref=e86] [cursor=pointer]
+            - text: Профиль родителя
+          - button "Кошелек 46 936,00 ₽" [ref=e88] [cursor=pointer]:
+            - img [ref=e91] [cursor=pointer]
+            - text: Кошелек
+            - generic [ref=e93] [cursor=pointer]: 46 936,00 ₽
+        - generic [ref=e94]:
+          - generic [ref=e95]:
+            - generic [ref=e96]:
+              - generic [ref=e97]:
+                - img [ref=e98]
+                - generic [ref=e103]: 50%
+              - paragraph [ref=e104]: Ваш профиль еще не заполнен полностью.
+            - button [ref=e105] [cursor=pointer]:
+              - img [ref=e107] [cursor=pointer]
+            - paragraph [ref=e109]: Завершите процесс настройки, чтобы воспользоваться всеми возможностями, которые предлагает платформа.
+            - button "Завершить" [ref=e110] [cursor=pointer]
+          - generic [ref=e111]:
+            - button "Полезная информация" [ref=e112] [cursor=pointer]:
+              - img [ref=e115] [cursor=pointer]
+              - text: Полезная информация
+            - button "Поддержка" [ref=e117] [cursor=pointer]:
+              - img [ref=e120] [cursor=pointer]
+              - text: Поддержка
+      - generic [ref=e124]:
+        - generic [ref=e125]:
+          - paragraph [ref=e127]: Все дети
+          - button "Добавить ребёнка" [ref=e128] [cursor=pointer]:
+            - img [ref=e131] [cursor=pointer]
+            - text: Добавить ребёнка
+        - generic [ref=e134]:
+          - heading "У вас ещё нет учеников" [level=4] [ref=e135]
+          - paragraph [ref=e136]: Добавьте ученика, чтобы давать занятия и следить за успехами
+  - generic [ref=e138]:
+    - img [ref=e141] [cursor=pointer]
+    - generic [ref=e143]: v.7.10.3
+```
