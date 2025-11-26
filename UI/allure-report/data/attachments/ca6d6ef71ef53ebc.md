@@ -1,0 +1,641 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e12]:
+    - generic [ref=e17]:
+      - generic [ref=e20]:
+        - link "Каталог заданий" [active] [ref=e22] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e25] [cursor=pointer]: Каталог заданий
+        - link "Кабинет ученика" [ref=e28] [cursor=pointer]:
+          - /url: /student/
+          - generic [ref=e31] [cursor=pointer]: Кабинет ученика
+        - link "Рейтинг" [ref=e34] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e37] [cursor=pointer]: Рейтинг
+        - link "Помощник" [ref=e40] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e43] [cursor=pointer]: Помощник
+        - link "Игра" [ref=e46] [cursor=pointer]:
+          - /url: /game
+          - generic [ref=e49] [cursor=pointer]: Игра
+        - link "Хогвартс Хогвартс" [ref=e52] [cursor=pointer]:
+          - /url: /hogwarts
+          - generic [ref=e55] [cursor=pointer]:
+            - img "Хогвартс" [ref=e57] [cursor=pointer]
+            - generic [ref=e58] [cursor=pointer]: Хогвартс
+      - generic [ref=e60]:
+        - generic [ref=e61]:
+          - generic [ref=e64] [cursor=pointer]: "106"
+          - generic [ref=e67]: "360"
+        - button [ref=e69] [cursor=pointer]:
+          - img [ref=e71] [cursor=pointer]
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e76] [cursor=pointer]: Б
+          - generic [ref=e77] [cursor=pointer]:
+            - paragraph [ref=e78] [cursor=pointer]: Ученик
+            - paragraph [ref=e79] [cursor=pointer]: Богдан
+          - img [ref=e81] [cursor=pointer]
+    - generic [ref=e88]:
+      - generic [ref=e92]:
+        - paragraph [ref=e96]: Я помогу найти то, что вам нужно. Введите запрос!
+        - generic [ref=e98] [cursor=pointer]:
+          - button [ref=e99] [cursor=pointer]:
+            - img [ref=e101] [cursor=pointer]
+          - generic [ref=e103] [cursor=pointer]: Выбрать фильтры
+      - generic [ref=e109]:
+        - textbox "Научиться считать от 0 до 100" [ref=e113]
+        - button "Найти задания" [ref=e114] [cursor=pointer]
+      - generic [ref=e119]:
+        - heading "Каталог заданий" [level=1] [ref=e120]
+        - generic [ref=e121] [cursor=pointer]:
+          - generic [ref=e122] [cursor=pointer]:
+            - img [ref=e124] [cursor=pointer]
+            - generic [ref=e127] [cursor=pointer]:
+              - generic [ref=e129] [cursor=pointer]: Доступно заданий
+              - generic [ref=e130] [cursor=pointer]: 3661 из 3775
+          - button [ref=e131] [cursor=pointer]:
+            - img [ref=e133] [cursor=pointer]
+      - generic [ref=e135]:
+        - button "Все подборки" [ref=e136] [cursor=pointer]:
+          - img [ref=e139] [cursor=pointer]
+          - generic [ref=e141] [cursor=pointer]: Все подборки
+        - button "Купленные подборки 13" [ref=e142] [cursor=pointer]:
+          - img [ref=e145] [cursor=pointer]
+          - generic [ref=e147] [cursor=pointer]:
+            - generic [ref=e148] [cursor=pointer]: Купленные
+            - generic [ref=e149] [cursor=pointer]: подборки
+          - generic [ref=e152] [cursor=pointer]: "13"
+      - generic [ref=e153]:
+        - link "Диагностика знаний Проверка знаний для создания плана обучения" [ref=e154] [cursor=pointer]:
+          - /url: /catalog/233897-diagnostika-znanii
+          - generic [ref=e155] [cursor=pointer]:
+            - button [ref=e156] [cursor=pointer]:
+              - img [ref=e158] [cursor=pointer]
+            - generic [ref=e160] [cursor=pointer]:
+              - heading "Диагностика знаний" [level=1]
+              - generic [ref=e161] [cursor=pointer]: Проверка знаний для создания плана обучения
+        - link "ТОП-10 заданий Участвуйте в игре и получайте уникальные награды animation" [ref=e163] [cursor=pointer]:
+          - /url: /catalog/35098f-top-10-zadanii
+          - generic [ref=e164] [cursor=pointer]:
+            - button [ref=e165] [cursor=pointer]:
+              - img [ref=e167] [cursor=pointer]
+            - generic [ref=e169] [cursor=pointer]:
+              - heading "ТОП-10 заданий" [level=1]
+              - generic [ref=e170] [cursor=pointer]: Участвуйте в игре и получайте уникальные награды
+            - generic:
+              - button "animation":
+                - img
+        - link "Подготовка к школе Для детей 5-6 лет" [ref=e171] [cursor=pointer]:
+          - /url: /catalog/523687-set-podgotovka-k-shkole
+          - generic [ref=e172] [cursor=pointer]:
+            - button [ref=e173] [cursor=pointer]:
+              - img [ref=e175] [cursor=pointer]
+            - generic [ref=e177] [cursor=pointer]:
+              - heading "Подготовка к школе" [level=1]
+              - generic [ref=e178] [cursor=pointer]: Для детей 5-6 лет
+        - link "ВПР. Русский язык" [ref=e180] [cursor=pointer]:
+          - /url: /catalog/493f75-vpr
+          - generic [ref=e181] [cursor=pointer]:
+            - button [ref=e182] [cursor=pointer]:
+              - img [ref=e184] [cursor=pointer]
+            - generic [ref=e186] [cursor=pointer]:
+              - heading "ВПР. Русский язык" [level=1]
+        - link "Логика" [ref=e188] [cursor=pointer]:
+          - /url: /catalog/e6a486-set-logika
+          - generic [ref=e189] [cursor=pointer]:
+            - button [ref=e190] [cursor=pointer]:
+              - img [ref=e192] [cursor=pointer]
+            - generic [ref=e194] [cursor=pointer]:
+              - heading "Логика" [level=1]
+            - img [ref=e198] [cursor=pointer]
+        - heading "Школьная программа" [level=1] [ref=e202]
+        - link "Русский язык Раздел для обучающихся по русскому языку" [ref=e203] [cursor=pointer]:
+          - /url: /catalog/lang-rus-full
+          - generic [ref=e204] [cursor=pointer]:
+            - button [ref=e205] [cursor=pointer]:
+              - img [ref=e207] [cursor=pointer]
+            - generic [ref=e209] [cursor=pointer]:
+              - heading "Русский язык" [level=1]
+              - generic [ref=e210] [cursor=pointer]: Раздел для обучающихся по русскому языку
+            - img [ref=e214] [cursor=pointer]
+        - link "Математика Раздел для обучающихся по математике" [ref=e216] [cursor=pointer]:
+          - /url: /catalog/math-full
+          - generic [ref=e217] [cursor=pointer]:
+            - button [ref=e218] [cursor=pointer]:
+              - img [ref=e220] [cursor=pointer]
+            - generic [ref=e222] [cursor=pointer]:
+              - heading "Математика" [level=1]
+              - generic [ref=e223] [cursor=pointer]: Раздел для обучающихся по математике
+            - img [ref=e227] [cursor=pointer]
+        - link "Английский язык" [ref=e229] [cursor=pointer]:
+          - /url: /catalog/lang-eng
+          - generic [ref=e230] [cursor=pointer]:
+            - button [ref=e231] [cursor=pointer]:
+              - img [ref=e233] [cursor=pointer]
+            - generic [ref=e235] [cursor=pointer]:
+              - heading "Английский язык" [level=1]
+            - img [ref=e239] [cursor=pointer]
+        - link "Окружающий мир" [ref=e241] [cursor=pointer]:
+          - /url: /catalog/world-full
+          - generic [ref=e242] [cursor=pointer]:
+            - button [ref=e243] [cursor=pointer]:
+              - img [ref=e245] [cursor=pointer]
+            - generic [ref=e247] [cursor=pointer]:
+              - heading "Окружающий мир" [level=1]
+            - img [ref=e251] [cursor=pointer]
+        - link "Геометрия" [ref=e253] [cursor=pointer]:
+          - /url: /catalog/0ac4a2-geometriya
+          - generic [ref=e254] [cursor=pointer]:
+            - button [ref=e255] [cursor=pointer]:
+              - img [ref=e257] [cursor=pointer]
+            - generic [ref=e259] [cursor=pointer]:
+              - heading "Геометрия" [level=1]
+        - link "Алгебра" [ref=e261] [cursor=pointer]:
+          - /url: /catalog/8dc0be-algebra
+          - generic [ref=e262] [cursor=pointer]:
+            - button [ref=e263] [cursor=pointer]:
+              - img [ref=e265] [cursor=pointer]
+            - generic [ref=e267] [cursor=pointer]:
+              - heading "Алгебра" [level=1]
+        - link "Алгебра и начала математического анализа" [ref=e269] [cursor=pointer]:
+          - /url: /catalog/f2fe0d-algebra-nachalo-matematicheskogo-analiza
+          - generic [ref=e270] [cursor=pointer]:
+            - button [ref=e271] [cursor=pointer]:
+              - img [ref=e273] [cursor=pointer]
+            - generic [ref=e275] [cursor=pointer]:
+              - heading "Алгебра и начала математического анализа" [level=1]
+        - link "Литература" [ref=e277] [cursor=pointer]:
+          - /url: /catalog/85b515-literatura
+          - generic [ref=e278] [cursor=pointer]:
+            - button [ref=e279] [cursor=pointer]:
+              - img [ref=e281] [cursor=pointer]
+            - generic [ref=e283] [cursor=pointer]:
+              - heading "Литература" [level=1]
+        - link "Информатика" [ref=e285] [cursor=pointer]:
+          - /url: /catalog/eee27a-informatika
+          - generic [ref=e286] [cursor=pointer]:
+            - button [ref=e287] [cursor=pointer]:
+              - img [ref=e289] [cursor=pointer]
+            - generic [ref=e291] [cursor=pointer]:
+              - heading "Информатика" [level=1]
+        - button "Показать еще 9 предметов" [ref=e293] [cursor=pointer]:
+          - text: Показать еще 9 предметов
+          - img [ref=e296] [cursor=pointer]
+        - heading "Подготовка к ОГЭ" [level=1] [ref=e300]
+        - link "Русский язык Тренировочные варианты по ОГЭ для 9 классов" [ref=e301] [cursor=pointer]:
+          - /url: /catalog/d96d8e-oge
+          - generic [ref=e302] [cursor=pointer]:
+            - button [ref=e303] [cursor=pointer]:
+              - img [ref=e305] [cursor=pointer]
+            - generic [ref=e307] [cursor=pointer]:
+              - heading "Русский язык" [level=1]
+              - generic [ref=e308] [cursor=pointer]: Тренировочные варианты по ОГЭ для 9 классов
+        - link "Математика Тренировочные варианты по ОГЭ для 9 классов" [ref=e310] [cursor=pointer]:
+          - /url: /catalog/4da2d0-matematika
+          - generic [ref=e311] [cursor=pointer]:
+            - button [ref=e312] [cursor=pointer]:
+              - img [ref=e314] [cursor=pointer]
+            - generic [ref=e316] [cursor=pointer]:
+              - heading "Математика" [level=1]
+              - generic [ref=e317] [cursor=pointer]: Тренировочные варианты по ОГЭ для 9 классов
+        - link "Английский язык" [ref=e319] [cursor=pointer]:
+          - /url: /catalog/59cf68-oge-po-angliiskomu-yaziku
+          - generic [ref=e320] [cursor=pointer]:
+            - button [ref=e321] [cursor=pointer]:
+              - img [ref=e323] [cursor=pointer]
+            - generic [ref=e325] [cursor=pointer]:
+              - heading "Английский язык" [level=1]
+        - link "Биология" [ref=e326] [cursor=pointer]:
+          - /url: /catalog/1e5174-podgotovka-k-oge-po-biologii
+          - generic [ref=e327] [cursor=pointer]:
+            - button [ref=e328] [cursor=pointer]:
+              - img [ref=e330] [cursor=pointer]
+            - generic [ref=e332] [cursor=pointer]:
+              - heading "Биология" [level=1]
+        - link "Химия" [ref=e333] [cursor=pointer]:
+          - /url: /catalog/f281ca-podgotovka-k-oge-po-himii
+          - generic [ref=e334] [cursor=pointer]:
+            - button [ref=e335] [cursor=pointer]:
+              - img [ref=e337] [cursor=pointer]
+            - generic [ref=e339] [cursor=pointer]:
+              - heading "Химия" [level=1]
+        - link "Физика" [ref=e340] [cursor=pointer]:
+          - /url: /catalog/9c62b6-podgotovka-k-oge-po-fizike
+          - generic [ref=e341] [cursor=pointer]:
+            - button [ref=e342] [cursor=pointer]:
+              - img [ref=e344] [cursor=pointer]
+            - generic [ref=e346] [cursor=pointer]:
+              - heading "Физика" [level=1]
+        - heading "Подготовка к ЕГЭ" [level=1] [ref=e349]
+        - link "Русский язык Тренировочные варианты подготовки к ЕГЭ для 11 классов" [ref=e350] [cursor=pointer]:
+          - /url: /catalog/76979f-ege
+          - generic [ref=e351] [cursor=pointer]:
+            - button [ref=e352] [cursor=pointer]:
+              - img [ref=e354] [cursor=pointer]
+            - generic [ref=e356] [cursor=pointer]:
+              - heading "Русский язык" [level=1]
+              - generic [ref=e357] [cursor=pointer]: Тренировочные варианты подготовки к ЕГЭ для 11 классов
+        - link "Математика Тренировочные варианты подготовки к ЕГЭ для 11 классов" [ref=e359] [cursor=pointer]:
+          - /url: /catalog/fc2545-matematika
+          - generic [ref=e360] [cursor=pointer]:
+            - button [ref=e361] [cursor=pointer]:
+              - img [ref=e363] [cursor=pointer]
+            - generic [ref=e365] [cursor=pointer]:
+              - heading "Математика" [level=1]
+              - generic [ref=e366] [cursor=pointer]: Тренировочные варианты подготовки к ЕГЭ для 11 классов
+        - link "Английский язык" [ref=e368] [cursor=pointer]:
+          - /url: /catalog/72e7b6-ege-po-angliiskomu-yaziku
+          - generic [ref=e369] [cursor=pointer]:
+            - button [ref=e370] [cursor=pointer]:
+              - img [ref=e372] [cursor=pointer]
+            - generic [ref=e374] [cursor=pointer]:
+              - heading "Английский язык" [level=1]
+        - link "Биология" [ref=e375] [cursor=pointer]:
+          - /url: /catalog/4f3f68-podgotovka-k-ege-po-biologii
+          - generic [ref=e376] [cursor=pointer]:
+            - button [ref=e377] [cursor=pointer]:
+              - img [ref=e379] [cursor=pointer]
+            - generic [ref=e381] [cursor=pointer]:
+              - heading "Биология" [level=1]
+        - link "Химия" [ref=e382] [cursor=pointer]:
+          - /url: /catalog/9fee31-podgotovka-k-ege-po-himii
+          - generic [ref=e383] [cursor=pointer]:
+            - button [ref=e384] [cursor=pointer]:
+              - img [ref=e386] [cursor=pointer]
+            - generic [ref=e388] [cursor=pointer]:
+              - heading "Химия" [level=1]
+        - link "Физика" [ref=e389] [cursor=pointer]:
+          - /url: /catalog/45dde8-podgotovka-k-ege-po-fizike
+          - generic [ref=e390] [cursor=pointer]:
+            - button [ref=e391] [cursor=pointer]:
+              - img [ref=e393] [cursor=pointer]
+            - generic [ref=e395] [cursor=pointer]:
+              - heading "Физика" [level=1]
+        - heading "Подготовка к ВПР" [level=1] [ref=e398]
+        - link "Математика Подготовка к ВПР" [ref=e399] [cursor=pointer]:
+          - /url: /catalog/dd749a-matematika
+          - generic [ref=e400] [cursor=pointer]:
+            - button [ref=e401] [cursor=pointer]:
+              - img [ref=e403] [cursor=pointer]
+            - generic [ref=e405] [cursor=pointer]:
+              - heading "Математика" [level=1]
+              - generic [ref=e406] [cursor=pointer]: Подготовка к ВПР
+        - link "Окружающий мир 4 класс Подготовка к ВПР" [ref=e408] [cursor=pointer]:
+          - /url: /catalog/07e63f-okruzhayuschii-mir
+          - generic [ref=e409] [cursor=pointer]:
+            - button [ref=e410] [cursor=pointer]:
+              - img [ref=e412] [cursor=pointer]
+            - generic [ref=e414] [cursor=pointer]:
+              - heading "Окружающий мир 4 класс" [level=1]
+              - generic [ref=e415] [cursor=pointer]: Подготовка к ВПР
+        - link "Литература" [ref=e417] [cursor=pointer]:
+          - /url: /catalog/e4e63b-literatura
+          - generic [ref=e418] [cursor=pointer]:
+            - button [ref=e419] [cursor=pointer]:
+              - img [ref=e421] [cursor=pointer]
+            - generic [ref=e423] [cursor=pointer]:
+              - heading "Литература" [level=1]
+        - link "Биология" [ref=e424] [cursor=pointer]:
+          - /url: /catalog/d5d395-biologiya
+          - generic [ref=e425] [cursor=pointer]:
+            - button [ref=e426] [cursor=pointer]:
+              - img [ref=e428] [cursor=pointer]
+            - generic [ref=e430] [cursor=pointer]:
+              - heading "Биология" [level=1]
+        - link "Информатика" [ref=e431] [cursor=pointer]:
+          - /url: /catalog/e972ed-informatika
+          - generic [ref=e432] [cursor=pointer]:
+            - button [ref=e433] [cursor=pointer]:
+              - img [ref=e435] [cursor=pointer]
+            - generic [ref=e437] [cursor=pointer]:
+              - heading "Информатика" [level=1]
+        - link "История" [ref=e438] [cursor=pointer]:
+          - /url: /catalog/7b14ff-istoriya
+          - generic [ref=e439] [cursor=pointer]:
+            - button [ref=e440] [cursor=pointer]:
+              - img [ref=e442] [cursor=pointer]
+            - generic [ref=e444] [cursor=pointer]:
+              - heading "История" [level=1]
+        - heading "Подготовка к контрольным работам" [level=1] [ref=e447]
+        - link "Математика Подготовка к контрольным работам animation" [ref=e448] [cursor=pointer]:
+          - /url: /catalog/cat-prepare-test-work-math
+          - generic [ref=e449] [cursor=pointer]:
+            - button [ref=e450] [cursor=pointer]:
+              - img [ref=e452] [cursor=pointer]
+            - generic [ref=e454] [cursor=pointer]:
+              - heading "Математика" [level=1]
+              - generic [ref=e455] [cursor=pointer]: Подготовка к контрольным работам
+            - generic:
+              - button "animation":
+                - img
+            - img [ref=e458] [cursor=pointer]
+        - link "Русский язык Подготовка к контрольным работам animation" [ref=e460] [cursor=pointer]:
+          - /url: /catalog/cat-prepare-test-work-ru-lang
+          - generic [ref=e461] [cursor=pointer]:
+            - button [ref=e462] [cursor=pointer]:
+              - img [ref=e464] [cursor=pointer]
+            - generic [ref=e466] [cursor=pointer]:
+              - heading "Русский язык" [level=1]
+              - generic [ref=e467] [cursor=pointer]: Подготовка к контрольным работам
+            - generic:
+              - button "animation":
+                - img
+            - img [ref=e470] [cursor=pointer]
+        - link "Английский язык Подготовка к контрольным работам" [ref=e472] [cursor=pointer]:
+          - /url: /catalog/04e661-angliiskii-yazik
+          - generic [ref=e473] [cursor=pointer]:
+            - button [ref=e474] [cursor=pointer]:
+              - img [ref=e476] [cursor=pointer]
+            - generic [ref=e478] [cursor=pointer]:
+              - heading "Английский язык" [level=1]
+              - generic [ref=e479] [cursor=pointer]: Подготовка к контрольным работам
+        - link "Алгебра и начала математического анализа" [ref=e481] [cursor=pointer]:
+          - /url: /catalog/bcae5e-algebra
+          - generic [ref=e482] [cursor=pointer]:
+            - button [ref=e483] [cursor=pointer]:
+              - img [ref=e485] [cursor=pointer]
+            - generic [ref=e487] [cursor=pointer]:
+              - heading "Алгебра и начала математического анализа" [level=1]
+        - link "Окружающий мир" [ref=e489] [cursor=pointer]:
+          - /url: /catalog/4e3834-okruzhayuschii-mir
+          - generic [ref=e490] [cursor=pointer]:
+            - button [ref=e491] [cursor=pointer]:
+              - img [ref=e493] [cursor=pointer]
+            - generic [ref=e495] [cursor=pointer]:
+              - heading "Окружающий мир" [level=1]
+        - link "Геометрия" [ref=e497] [cursor=pointer]:
+          - /url: /catalog/574f8c-geometriya
+          - generic [ref=e498] [cursor=pointer]:
+            - button [ref=e499] [cursor=pointer]:
+              - img [ref=e501] [cursor=pointer]
+            - generic [ref=e503] [cursor=pointer]:
+              - heading "Геометрия" [level=1]
+        - link "Физика" [ref=e505] [cursor=pointer]:
+          - /url: /catalog/98121b-fizika
+          - generic [ref=e506] [cursor=pointer]:
+            - button [ref=e507] [cursor=pointer]:
+              - img [ref=e509] [cursor=pointer]
+            - generic [ref=e511] [cursor=pointer]:
+              - heading "Физика" [level=1]
+        - link "Литература" [ref=e513] [cursor=pointer]:
+          - /url: /catalog/1dece9-literatura
+          - generic [ref=e514] [cursor=pointer]:
+            - button [ref=e515] [cursor=pointer]:
+              - img [ref=e517] [cursor=pointer]
+            - generic [ref=e519] [cursor=pointer]:
+              - heading "Литература" [level=1]
+        - button "Показать еще 3 предмета" [ref=e521] [cursor=pointer]:
+          - text: Показать еще 3 предмета
+          - img [ref=e524] [cursor=pointer]
+        - heading "Повторение пройденного материала" [level=1] [ref=e528]
+        - link "Математика Задания для повторения и закрепления учебного материала" [ref=e529] [cursor=pointer]:
+          - /url: /catalog/a95870-matematika-1-klass
+          - generic [ref=e530] [cursor=pointer]:
+            - button [ref=e531] [cursor=pointer]:
+              - img [ref=e533] [cursor=pointer]
+            - generic [ref=e535] [cursor=pointer]:
+              - heading "Математика" [level=1]
+              - generic [ref=e536] [cursor=pointer]: Задания для повторения и закрепления учебного материала
+        - link "Русский язык Задания для повторения и закрепления учебного материала" [ref=e538] [cursor=pointer]:
+          - /url: /catalog/196815-russkii-yazik-1-klass
+          - generic [ref=e539] [cursor=pointer]:
+            - button [ref=e540] [cursor=pointer]:
+              - img [ref=e542] [cursor=pointer]
+            - generic [ref=e544] [cursor=pointer]:
+              - heading "Русский язык" [level=1]
+              - generic [ref=e545] [cursor=pointer]: Задания для повторения и закрепления учебного материала
+        - link "История" [ref=e547] [cursor=pointer]:
+          - /url: /catalog/917de1-russkii-yazik-2-klass
+          - generic [ref=e548] [cursor=pointer]:
+            - button [ref=e549] [cursor=pointer]:
+              - img [ref=e551] [cursor=pointer]
+            - generic [ref=e553] [cursor=pointer]:
+              - heading "История" [level=1]
+        - link "Литература" [ref=e555] [cursor=pointer]:
+          - /url: /catalog/b5408b-literatura
+          - generic [ref=e556] [cursor=pointer]:
+            - button [ref=e557] [cursor=pointer]:
+              - img [ref=e559] [cursor=pointer]
+            - generic [ref=e561] [cursor=pointer]:
+              - heading "Литература" [level=1]
+        - link "Алгебра" [ref=e563] [cursor=pointer]:
+          - /url: /catalog/a3de43-algebra
+          - generic [ref=e564] [cursor=pointer]:
+            - button [ref=e565] [cursor=pointer]:
+              - img [ref=e567] [cursor=pointer]
+            - generic [ref=e569] [cursor=pointer]:
+              - heading "Алгебра" [level=1]
+        - link "Геометрия" [ref=e571] [cursor=pointer]:
+          - /url: /catalog/edd3ff-geometriya
+          - generic [ref=e572] [cursor=pointer]:
+            - button [ref=e573] [cursor=pointer]:
+              - img [ref=e575] [cursor=pointer]
+            - generic [ref=e577] [cursor=pointer]:
+              - heading "Геометрия" [level=1]
+        - button "Показать еще 9 предметов" [ref=e579] [cursor=pointer]:
+          - text: Показать еще 9 предметов
+          - img [ref=e582] [cursor=pointer]
+        - heading "Интерактивные курсы" [level=1] [ref=e586]
+        - link "Python Базовый курс с автопроверкой кода animation" [ref=e587] [cursor=pointer]:
+          - /url: /catalog/9203a0-kursi
+          - generic [ref=e588] [cursor=pointer]:
+            - button [ref=e589] [cursor=pointer]:
+              - img [ref=e591] [cursor=pointer]
+            - generic [ref=e593] [cursor=pointer]:
+              - heading "Python" [level=1]
+              - generic [ref=e594] [cursor=pointer]: Базовый курс с автопроверкой кода
+            - generic:
+              - button "animation":
+                - img
+        - link "Интерактивные подходы к обучению детей с ОВЗ" [ref=e595] [cursor=pointer]:
+          - /url: /catalog/ea3a5d-interaktivnie-podhodi-k-obucheniyu-detei-s-ovz
+          - generic [ref=e596] [cursor=pointer]:
+            - button [ref=e597] [cursor=pointer]:
+              - img [ref=e599] [cursor=pointer]
+            - generic [ref=e601] [cursor=pointer]:
+              - heading "Интерактивные подходы к обучению детей с ОВЗ" [level=1]
+        - heading "СПО" [level=1] [ref=e604]
+        - link "Элементы высшей математики Для учащихся, планирующих получать cреднее профессиональное образование" [ref=e605] [cursor=pointer]:
+          - /url: /catalog/565d3a-matematika-dlya-spo
+          - generic [ref=e606] [cursor=pointer]:
+            - button [ref=e607] [cursor=pointer]:
+              - img [ref=e609] [cursor=pointer]
+            - generic [ref=e611] [cursor=pointer]:
+              - heading "Элементы высшей математики" [level=1]
+              - generic [ref=e612] [cursor=pointer]: Для учащихся, планирующих получать cреднее профессиональное образование
+        - link "Математика Для учащихся, планирующих получать cреднее профессиональное образование" [ref=e614] [cursor=pointer]:
+          - /url: /catalog/47ce26-matematika
+          - generic [ref=e615] [cursor=pointer]:
+            - button [ref=e616] [cursor=pointer]:
+              - img [ref=e618] [cursor=pointer]
+            - generic [ref=e620] [cursor=pointer]:
+              - heading "Математика" [level=1]
+              - generic [ref=e621] [cursor=pointer]: Для учащихся, планирующих получать cреднее профессиональное образование
+        - link "Русский язык" [ref=e623] [cursor=pointer]:
+          - /url: /catalog/ae76e4-russkii-yazik
+          - generic [ref=e624] [cursor=pointer]:
+            - button [ref=e625] [cursor=pointer]:
+              - img [ref=e627] [cursor=pointer]
+            - generic [ref=e629] [cursor=pointer]:
+              - heading "Русский язык" [level=1]
+        - link "Английский язык. 72 ч." [ref=e630] [cursor=pointer]:
+          - /url: /catalog/e3a754-angliiskii-yazik
+          - generic [ref=e631] [cursor=pointer]:
+            - button [ref=e632] [cursor=pointer]:
+              - img [ref=e634] [cursor=pointer]
+            - generic [ref=e636] [cursor=pointer]:
+              - heading "Английский язык. 72 ч." [level=1]
+        - link "Английский язык. 108 ч." [ref=e637] [cursor=pointer]:
+          - /url: /catalog/8942b0-angliiskii-yazik-kurs-na-108-chasov
+          - generic [ref=e638] [cursor=pointer]:
+            - button [ref=e639] [cursor=pointer]:
+              - img [ref=e641] [cursor=pointer]
+            - generic [ref=e643] [cursor=pointer]:
+              - heading "Английский язык. 108 ч." [level=1]
+        - link "Английский язык. 144 ч." [ref=e644] [cursor=pointer]:
+          - /url: /catalog/b02de5-angliiskii-yazik-kurs-na-144-chasov
+          - generic [ref=e645] [cursor=pointer]:
+            - button [ref=e646] [cursor=pointer]:
+              - img [ref=e648] [cursor=pointer]
+            - generic [ref=e650] [cursor=pointer]:
+              - heading "Английский язык. 144 ч." [level=1]
+        - button "Показать еще 2 предмета" [ref=e651] [cursor=pointer]:
+          - text: Показать еще 2 предмета
+          - img [ref=e654] [cursor=pointer]
+        - heading "Специальные курсы" [level=1] [ref=e658]
+        - link "ОВЗ Занятия для детей с ограниченными возможностями здоровья" [ref=e659] [cursor=pointer]:
+          - /url: /catalog/podborka-ovz
+          - generic [ref=e660] [cursor=pointer]:
+            - button [ref=e661] [cursor=pointer]:
+              - img [ref=e663] [cursor=pointer]
+            - generic [ref=e665] [cursor=pointer]:
+              - heading "ОВЗ" [level=1]
+              - generic [ref=e666] [cursor=pointer]: Занятия для детей с ограниченными возможностями здоровья
+        - link "Скоросчёт Задания для тренировки быстрого счёта в уме" [ref=e668] [cursor=pointer]:
+          - /url: /catalog/15ea17-skoroschet
+          - generic [ref=e669] [cursor=pointer]:
+            - button [ref=e670] [cursor=pointer]:
+              - img [ref=e672] [cursor=pointer]
+            - generic [ref=e674] [cursor=pointer]:
+              - heading "Скоросчёт" [level=1]
+              - generic [ref=e675] [cursor=pointer]: Задания для тренировки быстрого счёта в уме
+            - img [ref=e679] [cursor=pointer]
+        - link "Физика. Базовый уровень" [ref=e681] [cursor=pointer]:
+          - /url: /catalog/33480a-fizika-vvedenie
+          - generic [ref=e682] [cursor=pointer]:
+            - button [ref=e683] [cursor=pointer]:
+              - img [ref=e685] [cursor=pointer]
+            - generic [ref=e687] [cursor=pointer]:
+              - heading "Физика. Базовый уровень" [level=1]
+            - img [ref=e691] [cursor=pointer]
+        - link "Финансовая грамотность" [ref=e693] [cursor=pointer]:
+          - /url: /catalog/a24a4f-finansovaya-gramotnost-vvedenie
+          - generic [ref=e694] [cursor=pointer]:
+            - button [ref=e695] [cursor=pointer]:
+              - img [ref=e697] [cursor=pointer]
+            - generic [ref=e699] [cursor=pointer]:
+              - heading "Финансовая грамотность" [level=1]
+            - img [ref=e703] [cursor=pointer]
+        - link "Экология" [ref=e705] [cursor=pointer]:
+          - /url: /catalog/6c0afe-set-klassnie-chasi
+          - generic [ref=e706] [cursor=pointer]:
+            - button [ref=e707] [cursor=pointer]:
+              - img [ref=e709] [cursor=pointer]
+            - generic [ref=e711] [cursor=pointer]:
+              - heading "Экология" [level=1]
+            - img [ref=e715] [cursor=pointer]
+        - 'heading "Цифровой марафон: Накопи на мечту класса!" [level=1] [ref=e719]'
+        - link "Память в цифре" [ref=e720] [cursor=pointer]:
+          - /url: /catalog/468e06-pamyat-v-tsifre
+          - generic [ref=e721] [cursor=pointer]:
+            - button [ref=e722] [cursor=pointer]:
+              - img [ref=e724] [cursor=pointer]
+            - generic [ref=e726] [cursor=pointer]:
+              - heading "Память в цифре" [level=1]
+        - heading "Сложные темы" [level=1] [ref=e730]
+        - link "Математика 1-4 класс" [ref=e731] [cursor=pointer]:
+          - /url: /catalog/cat-hard-math
+          - generic [ref=e732] [cursor=pointer]:
+            - button [ref=e733] [cursor=pointer]:
+              - img [ref=e735] [cursor=pointer]
+            - generic [ref=e737] [cursor=pointer]:
+              - heading "Математика" [level=1]
+              - generic [ref=e738] [cursor=pointer]: 1-4 класс
+            - img [ref=e742] [cursor=pointer]
+        - link "Русский язык 1-4 класс" [ref=e744] [cursor=pointer]:
+          - /url: /catalog/cat-hard-ru-lang
+          - generic [ref=e745] [cursor=pointer]:
+            - button [ref=e746] [cursor=pointer]:
+              - img [ref=e748] [cursor=pointer]
+            - generic [ref=e750] [cursor=pointer]:
+              - heading "Русский язык" [level=1]
+              - generic [ref=e751] [cursor=pointer]: 1-4 класс
+            - img [ref=e755] [cursor=pointer]
+        - generic [ref=e759] [cursor=pointer]: Чего-то не хватает?
+    - generic [ref=e761]:
+      - generic [ref=e762]:
+        - generic [ref=e763]:
+          - generic [ref=e767]:
+            - img [ref=e769]
+            - link "8 (800) 600-44-02" [ref=e771] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e772]:
+            - generic [ref=e773]: "@"
+            - link "info@ismart.org" [ref=e774] [cursor=pointer]:
+              - /url: mailto:info@ismart.org
+          - generic [ref=e775]:
+            - img [ref=e777]
+            - generic [ref=e779]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e780]:
+          - link "Наш сайт" [ref=e783] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e785] [cursor=pointer]
+          - generic [ref=e787]:
+            - link "Лицензия" [ref=e789] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Liczenziya_84a663fa84.pdf
+            - link "Политика конфиденциальности" [ref=e791] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/politika-konfidencialnosti
+            - link "Пользовательское соглашение" [ref=e793] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e795] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e797] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e799]:
+        - generic [ref=e800]:
+          - link [ref=e801] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e805] [cursor=pointer]
+          - generic [ref=e808]:
+            - link "okIcon" [ref=e809] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e810] [cursor=pointer]
+            - link "dzenIcon" [ref=e811] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e812] [cursor=pointer]
+            - link "vkIcon" [ref=e813] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e814] [cursor=pointer]
+        - generic [ref=e816]:
+          - generic [ref=e818]: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись №22517 от 14.05.2024.
+          - generic [ref=e819]:
+            - generic [ref=e820]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e821] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e822]: © iSmart, 2018-2025
+  - generic [ref=e825]:
+    - heading "Новый сезон открыт!" [level=1] [ref=e826]
+    - paragraph [ref=e827]: Экспресс прибывает в Хогвартс. Решай задания и собирай уникальные аватары, медали, украшения и не только
+    - generic [ref=e828]:
+      - button "В игру" [ref=e829] [cursor=pointer]
+      - button "Пропустить" [ref=e830] [cursor=pointer]
+```

@@ -1,0 +1,67 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img "Cookie consent" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+        - button "Понятно" [ref=e9] [cursor=pointer]
+        - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - button [ref=e22] [cursor=pointer]:
+            - img [ref=e24] [cursor=pointer]
+          - generic [ref=e26]:
+            - paragraph [ref=e27]: Задача 1 (6 из 9)
+            - paragraph [ref=e28]: Вывод данных
+        - generic [ref=e29]:
+          - button "Войти как учитель" [ref=e31] [cursor=pointer]:
+            - img [ref=e34] [cursor=pointer]
+            - generic [ref=e36] [cursor=pointer]: Войти как учитель
+          - button "Предыдущее" [ref=e38] [cursor=pointer]:
+            - img [ref=e41] [cursor=pointer]
+            - text: Предыдущее
+          - button "Далее" [ref=e43] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e46] [cursor=pointer]
+      - generic [ref=e48]:
+        - generic [ref=e50]:
+          - generic [ref=e51]:
+            - paragraph [ref=e52]: Python 3
+            - button "Стоп" [active] [ref=e53] [cursor=pointer]:
+              - text: Стоп
+              - img [ref=e56] [cursor=pointer]
+          - generic [ref=e60]:
+            - text:                
+            - code [ref=e63]:
+              - generic [ref=e64]:
+                - generic [ref=e69]: "1"
+                - generic [ref=e77]:
+                  - generic [ref=e78]: print
+                  - generic [ref=e79]: (
+                  - generic [ref=e80]: "'Привет, Мир!'"
+                  - generic [ref=e81]: )
+                - textbox "Editor content;Press Alt+F1 for Accessibility Options." [ref=e83]: print('Привет, Мир!')
+        - generic [ref=e85]:
+          - generic [ref=e87]:
+            - generic [ref=e88] [cursor=pointer]:
+              - img [ref=e90] [cursor=pointer]
+              - generic [ref=e92] [cursor=pointer]: Описание
+            - generic [ref=e93] [cursor=pointer]:
+              - img [ref=e95] [cursor=pointer]
+              - generic [ref=e97] [cursor=pointer]: Тесты
+          - generic [ref=e103]:
+            - generic [ref=e105]: Пустая строка
+            - img [ref=e107]
+            - img [ref=e112]
+            - img [ref=e130]
+            - generic [ref=e133]: Привет, Мир!
+  - generic [ref=e134]:
+    - alert
+    - alert
+    - complementary
+    - complementary
+```
