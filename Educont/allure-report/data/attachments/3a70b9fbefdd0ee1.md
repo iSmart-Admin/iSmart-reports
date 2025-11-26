@@ -1,0 +1,102 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - generic [ref=e25]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - button "1" [ref=e35] [cursor=pointer]
+              - button "2" [ref=e38] [cursor=pointer]
+              - button "3" [ref=e41] [cursor=pointer]
+              - button "4" [ref=e44] [cursor=pointer]
+              - button "5" [ref=e47] [cursor=pointer]
+              - button "6" [ref=e50] [cursor=pointer]
+              - button "7" [ref=e53] [cursor=pointer]
+              - button "8" [ref=e56] [cursor=pointer]
+              - button "9" [ref=e59] [cursor=pointer]
+              - button "10" [ref=e62] [cursor=pointer]
+            - generic [ref=e63]:
+              - button [disabled] [ref=e64]:
+                - img [ref=e66]
+              - button [ref=e69] [cursor=pointer]:
+                - img [ref=e71] [cursor=pointer]
+        - generic [ref=e74]:
+          - generic [ref=e76]:
+            - generic [ref=e77] [cursor=pointer]:
+              - generic:
+                - img
+            - heading "Реши задачу." [level=4] [ref=e78]:
+              - generic [ref=e80]: Реши задачу.
+          - generic [ref=e83] [cursor=pointer]:
+            - generic:
+              - img
+          - generic [ref=e87]:
+            - generic [ref=e88]: Папа принёс домой арбуз и дыню. Масса арбуза — 9 кг, а дыни — 2 кг.
+            - generic [ref=e89]: На сколько килограммов дыня весит меньше чем арбуз?
+            - separator [ref=e90]
+            - strong [ref=e92]: "Дано:"
+            - generic [ref=e95]:
+              - generic [ref=e96]:
+                - generic [ref=e97]:
+                  - text: Арбуз —
+                  - textbox [ref=e98]
+                  - text: кг
+                - generic [ref=e99]:
+                  - text: Дыня —
+                  - textbox [ref=e100]
+                  - text: кг, на
+                  - strong [ref=e101]:
+                    - generic [ref=e103]: "?"
+                  - text: кг меньше
+              - img [ref=e104]
+            - separator [ref=e109]
+            - strong [ref=e111]: "Решение:"
+            - generic [ref=e112]:
+              - textbox [ref=e113]
+              - textbox [ref=e115]
+              - text: =
+              - textbox [ref=e116]
+              - text: (кг)
+            - generic [ref=e117]:
+              - strong [ref=e118]: "Ответ:"
+              - text: на
+              - textbox [ref=e119]
+              - text: кг меньше.
+      - button "2 Показать подсказку" [ref=e128] [cursor=pointer]:
+        - generic [ref=e131] [cursor=pointer]: "2"
+        - generic [ref=e132] [cursor=pointer]: Показать подсказку
+    - generic [ref=e133]:
+      - generic [ref=e136]: Интеллектуальный тренажер
+      - generic [ref=e142]:
+        - button "Войти как учитель" [ref=e144] [cursor=pointer]:
+          - img [ref=e147] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e149]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e150]:
+        - generic [ref=e152]:
+          - button "Черновик" [ref=e153] [cursor=pointer]:
+            - img [ref=e156] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e161] [cursor=pointer]:
+            - img [ref=e164] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e166]:
+          - generic [ref=e167]:
+            - img [ref=e169]
+            - generic [ref=e171]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e172] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e175] [cursor=pointer]
+```
