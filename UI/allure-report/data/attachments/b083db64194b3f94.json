@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "query gameMeta {\n  gameMeta {\n    gameLevels {\n      objectId\n      createDate\n      updateDate\n      deleteDate\n      gameSeasonId\n      title\n      finishScore\n      rewardGameItemId\n      rewardClaimed\n    }\n    currentSeason {\n      objectId\n      name\n      startDate\n      endDate\n      passGameItemId\n      description\n    }\n    studentHouse\n    studentGameItemId\n    studentGameItemActivated\n    selfPoints\n    housesPoints {\n      code\n      name\n      rank\n      points\n    }\n    attendance\n    dailyPractice {\n      ...practiceFields\n    }\n    studentStats {\n      points\n      tasks\n    }\n  }\n}\n\nfragment practiceFields on Practice {\n  id\n  name\n  type\n  startDate\n  endDate\n  progress\n  durationMinutes\n  leftTime\n  finishTime\n  usedTime\n  executionStatus\n  expired\n  processingTime\n  content {\n    ...practiceContentFields\n  }\n  assignedByUserId\n  isTerminated\n}\n\nfragment practiceContentFields on PracticeContent {\n  subThemes {\n    categoryId\n    themeId\n    subThemeId\n    score\n    subThemeName\n    subThemeNumber\n    type\n    isDeleted\n    subjectId\n  }\n  tasks {\n    categoryId\n    themeId\n    subThemeId\n    subThemeName\n    subThemeNumber\n    taskId\n    processed\n  }\n  courseModules {\n    moduleId\n    name\n    courseId\n    categoryId\n  }\n}\n"
+    },
+    "timestap": "28.11.2025, 17:14:17"
+  }
+]

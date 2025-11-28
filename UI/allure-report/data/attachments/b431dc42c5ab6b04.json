@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "query gameMeta {\n  gameMeta {\n    gameLevels {\n      objectId\n      createDate\n      updateDate\n      deleteDate\n      gameSeasonId\n      title\n      finishScore\n      rewardGameItemId\n      rewardClaimed\n    }\n    currentSeason {\n      objectId\n      name\n      startDate\n      endDate\n      passGameItemId\n      description\n    }\n    studentHouse\n    studentGameItemId\n    studentGameItemActivated\n    selfPoints\n    housesPoints {\n      code\n      name\n      rank\n      points\n    }\n    attendance\n    dailyPractice {\n      ...practiceFields\n    }\n    studentStats {\n      points\n      tasks\n    }\n  }\n}\n\nfragment practiceFields on Practice {\n  id\n  name\n  type\n  startDate\n  endDate\n  progress\n  durationMinutes\n  leftTime\n  finishTime\n  usedTime\n  executionStatus\n  expired\n  processingTime\n  content {\n    ...practiceContentFields\n  }\n  assignedByUserId\n  isTerminated\n}\n\nfragment practiceContentFields on PracticeContent {\n  subThemes {\n    categoryId\n    themeId\n    subThemeId\n    score\n    subThemeName\n    subThemeNumber\n    type\n    isDeleted\n    subjectId\n  }\n  tasks {\n    categoryId\n    themeId\n    subThemeId\n    subThemeName\n    subThemeNumber\n    taskId\n    processed\n  }\n  courseModules {\n    moduleId\n    name\n    courseId\n    categoryId\n  }\n}\n"
+    },
+    "timestap": "28.11.2025, 17:16:51"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query catalogCategoryByCode($categoryCode: String!) {\n  catalogCategoryByCode(categoryCode: $categoryCode) {\n    id\n    parentId\n    parentCode\n    name\n    shortDescription\n    description\n    fullDescription\n    image\n    lottie\n    imageOffsetX\n    imageOffsetY\n    imageScale\n    color\n    weight\n    iconUrl\n    tariffTitle\n    code\n    size\n    type\n    availabilityType\n    tags\n    classId\n    subjectId\n    coursesObjectIds\n    externalMaterial\n    hidden\n    isActive\n    practiceId\n    durationMinutes\n    validFromDate\n    validToDate\n    practiceId\n    bannerComponent\n    updatedAt\n    educont\n    educontOnly\n    educontCourses {\n      externalId\n      label\n      link\n    }\n    randomizedContent {\n      classId\n      subjectId\n      taskQuantity\n    }\n    showKeys\n    teacherThemeGroupMode\n    eor\n    badges\n    about\n    additionalInfo\n    name\n    childCategories {\n      ...catalogCategoryFields\n    }\n  }\n}\n\nfragment catalogCategoryFields on Category {\n  id\n  parentId\n  parentCode\n  name\n  shortDescription\n  description\n  fullDescription\n  image\n  lottie\n  imageOffsetX\n  imageOffsetY\n  imageScale\n  color\n  weight\n  code\n  size\n  type\n  availabilityType\n  tags\n  classId\n  subjectId\n  coursesObjectIds\n  externalMaterial\n  hidden\n  isActive\n  practiceId\n  durationMinutes\n  validFromDate\n  validToDate\n  practiceId\n  bannerComponent\n  updatedAt\n  educont\n  educontOnly\n  iconUrl\n  educontCourses {\n    externalId\n    label\n    link\n  }\n  randomizedContent {\n    classId\n    subjectId\n    taskQuantity\n  }\n  showKeys\n  teacherThemeGroupMode\n  eor\n  isPurchased\n  tariffTitle\n}\n",
+      "variables": {
+        "categoryCode": "math-full"
+      }
+    },
+    "timestap": "28.11.2025, 17:17:02"
+  }
+]
