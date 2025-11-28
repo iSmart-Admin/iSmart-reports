@@ -1,0 +1,541 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img "Cookie consent" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+        - button "Понятно" [ref=e9] [cursor=pointer]
+        - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+    - generic [ref=e12]:
+      - generic [ref=e17]:
+        - generic [ref=e20]:
+          - link "Каталог заданий" [ref=e22] [cursor=pointer]:
+            - /url: /catalog
+            - generic [ref=e25] [cursor=pointer]: Каталог заданий
+          - link "Кабинет родителя" [ref=e28] [cursor=pointer]:
+            - /url: /parent/dashboard
+            - generic [ref=e31] [cursor=pointer]: Кабинет родителя
+          - link "Рейтинг" [ref=e34] [cursor=pointer]:
+            - /url: /rating
+            - generic [ref=e37] [cursor=pointer]: Рейтинг
+          - link "Магазин" [ref=e40] [cursor=pointer]:
+            - /url: /shop/offers
+            - generic [ref=e43] [cursor=pointer]: Магазин
+          - link "Помощник" [ref=e46] [cursor=pointer]:
+            - /url: /smarty_ai
+            - generic [ref=e49] [cursor=pointer]: Помощник
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - button [ref=e53] [cursor=pointer]:
+              - img [ref=e55] [cursor=pointer]
+            - generic [ref=e58] [cursor=pointer]:
+              - img [ref=e60] [cursor=pointer]
+              - generic [ref=e63] [cursor=pointer]: "1"
+          - generic [ref=e64] [cursor=pointer]:
+            - generic [ref=e66] [cursor=pointer]:
+              - generic [ref=e67] [cursor=pointer]: Н
+              - img [ref=e69] [cursor=pointer]
+            - generic [ref=e86] [cursor=pointer]:
+              - paragraph [ref=e87] [cursor=pointer]: Родитель
+              - paragraph [ref=e88] [cursor=pointer]: Николай
+            - img [ref=e90] [cursor=pointer]
+      - generic [ref=e96]:
+        - generic [ref=e97]:
+          - heading "Выбирайте класс" [level=1] [ref=e98]
+          - button "Подписки" [ref=e100] [cursor=pointer]:
+            - text: Подписки
+            - img [ref=e103] [cursor=pointer]
+        - generic [ref=e105]:
+          - generic [ref=e106]:
+            - generic [ref=e111] [cursor=pointer]: Подготовка к школе
+            - generic [ref=e115]:
+              - generic [ref=e117] [cursor=pointer]: "1"
+              - generic [ref=e119] [cursor=pointer]: "2"
+              - generic [ref=e121] [cursor=pointer]: "3"
+              - generic [ref=e123] [cursor=pointer]: "4"
+            - generic [ref=e127]:
+              - generic [ref=e129] [cursor=pointer]: "5"
+              - generic [ref=e131] [cursor=pointer]: "6"
+              - generic [ref=e133] [cursor=pointer]: "7"
+              - generic [ref=e135] [cursor=pointer]: "8"
+            - generic [ref=e139]:
+              - generic [ref=e141] [cursor=pointer]: "9"
+              - generic [ref=e143] [cursor=pointer]: "10"
+              - generic [ref=e145] [cursor=pointer]: "11"
+          - generic [ref=e146]:
+            - generic [ref=e149] [cursor=pointer]: Подготовка к школе
+            - generic [ref=e151]:
+              - generic [ref=e153] [cursor=pointer]: "1"
+              - generic [ref=e155] [cursor=pointer]: "2"
+              - generic [ref=e157] [cursor=pointer]: "3"
+              - generic [ref=e159] [cursor=pointer]: "4"
+            - generic [ref=e161]:
+              - generic [ref=e163] [cursor=pointer]: "5"
+              - generic [ref=e165] [cursor=pointer]: "6"
+              - generic [ref=e167] [cursor=pointer]: "7"
+              - generic [ref=e169] [cursor=pointer]: "8"
+            - generic [ref=e171]:
+              - generic [ref=e173] [cursor=pointer]: "9"
+              - generic [ref=e175] [cursor=pointer]: "10"
+              - generic [ref=e177] [cursor=pointer]: "11"
+          - generic [ref=e179]:
+            - heading "Годовой пакет — это выгодно" [level=1] [ref=e180]
+            - generic [ref=e181]: для 7 класса
+            - generic [ref=e182]:
+              - generic [ref=e184]:
+                - generic [ref=e186]:
+                  - heading "Базовый" [level=4] [ref=e187]
+                  - generic [ref=e189]: "- 49%"
+                - generic [ref=e190]:
+                  - generic [ref=e192]: 398 / месяц
+                  - generic [ref=e193]:
+                    - generic [ref=e194]: "199"
+                    - generic [ref=e196]: ₽ / месяц
+                  - generic [ref=e197]:
+                    - generic [ref=e198]: "При оплате на год:"
+                    - generic [ref=e199]: 4779 ₽
+                    - generic [ref=e200]: 2390 ₽
+                - button "Купить на год" [ref=e201] [cursor=pointer]
+                - generic [ref=e203]:
+                  - generic [ref=e207]: Алгебра
+                  - generic [ref=e211]: Английский язык
+                  - generic [ref=e215]: Русский язык
+                  - generic [ref=e218]: Помощник Ai *
+              - generic [ref=e223]:
+                - generic [ref=e224]:
+                  - generic [ref=e225]:
+                    - heading "Полный" [level=4] [ref=e226]
+                    - generic [ref=e228]: "- 81%"
+                  - generic [ref=e229]:
+                    - img [ref=e231]
+                    - generic [ref=e233]: Самый выгодный
+                - generic [ref=e234]:
+                  - generic [ref=e236]: 1656 / месяц
+                  - generic [ref=e237]:
+                    - generic [ref=e238]: "298"
+                    - generic [ref=e240]: ₽ / месяц
+                  - generic [ref=e241]:
+                    - generic [ref=e242]: "При оплате на год:"
+                    - generic [ref=e243]: 19875 ₽
+                    - generic [ref=e244]: 3578 ₽
+                - button "Купить на год" [ref=e245] [cursor=pointer]
+                - generic [ref=e246]:
+                  - generic [ref=e247]:
+                    - generic [ref=e251]: Алгебра
+                    - generic [ref=e255]: Английский язык
+                    - generic [ref=e259]: Русский язык
+                    - generic [ref=e263]: Биология
+                    - generic [ref=e267]: Вероятность и статистика
+                    - generic [ref=e271]: ВПР по Математике и Русскому
+                    - generic [ref=e275]: Геометрия
+                    - generic [ref=e279]: Информатика
+                    - generic [ref=e282]: Помощник Ai *
+                  - generic [ref=e284]:
+                    - generic [ref=e287]: История
+                    - generic [ref=e290]: Литература
+                    - generic [ref=e293]: Логика
+                    - generic [ref=e296]: Обществознание
+                    - generic [ref=e299]: Физика
+                    - generic [ref=e302]: Физика. Базовый уровень
+                    - generic [ref=e305]: Финансовая грамотность
+                    - generic [ref=e308]: Экология
+          - generic [ref=e309]:
+            - generic [ref=e310]:
+              - heading "Соберите пакет сами — это просто" [level=1] [ref=e311]
+              - generic [ref=e312]: для 7 класса
+              - generic [ref=e313]:
+                - button "1 месяц -62%" [ref=e314] [cursor=pointer]:
+                  - text: 1 месяц
+                  - generic [ref=e316] [cursor=pointer]: "-62%"
+                - button "6 месяцев -78%" [ref=e317] [cursor=pointer]:
+                  - text: 6 месяцев
+                  - generic [ref=e319] [cursor=pointer]: "-78%"
+                - button "12 месяцев -87%" [ref=e320] [cursor=pointer]:
+                  - text: 12 месяцев
+                  - generic [ref=e322] [cursor=pointer]: "-87%"
+              - generic [ref=e323]:
+                - generic [ref=e327] [cursor=pointer]:
+                  - generic [ref=e328] [cursor=pointer]: Python
+                  - generic [ref=e329] [cursor=pointer]:
+                    - generic [ref=e330] [cursor=pointer]:
+                      - generic [ref=e331] [cursor=pointer]:
+                        - generic [ref=e332] [cursor=pointer]: 160 ₽
+                        - generic [ref=e333] [cursor=pointer]: / месяц
+                      - generic [ref=e335] [cursor=pointer]: 1 920 ₽ / год
+                    - button [ref=e336] [cursor=pointer]:
+                      - img [ref=e338] [cursor=pointer]
+                - generic [ref=e343] [cursor=pointer]:
+                  - generic [ref=e344] [cursor=pointer]: Алгебра
+                  - generic [ref=e345] [cursor=pointer]:
+                    - generic [ref=e346] [cursor=pointer]:
+                      - generic [ref=e347] [cursor=pointer]:
+                        - generic [ref=e348] [cursor=pointer]: 84 ₽
+                        - generic [ref=e349] [cursor=pointer]: / месяц
+                      - generic [ref=e351] [cursor=pointer]: 1 008 ₽ / год
+                    - button [ref=e352] [cursor=pointer]:
+                      - img [ref=e354] [cursor=pointer]
+                - generic [ref=e359] [cursor=pointer]:
+                  - generic [ref=e360] [cursor=pointer]: Английский язык
+                  - generic [ref=e361] [cursor=pointer]:
+                    - generic [ref=e362] [cursor=pointer]:
+                      - generic [ref=e363] [cursor=pointer]:
+                        - generic [ref=e364] [cursor=pointer]: 84 ₽
+                        - generic [ref=e365] [cursor=pointer]: / месяц
+                      - generic [ref=e367] [cursor=pointer]: 1 008 ₽ / год
+                    - button [ref=e368] [cursor=pointer]:
+                      - img [ref=e370] [cursor=pointer]
+                - generic [ref=e375] [cursor=pointer]:
+                  - generic [ref=e376] [cursor=pointer]: Биология
+                  - generic [ref=e377] [cursor=pointer]:
+                    - generic [ref=e378] [cursor=pointer]:
+                      - generic [ref=e379] [cursor=pointer]:
+                        - generic [ref=e380] [cursor=pointer]: 84 ₽
+                        - generic [ref=e381] [cursor=pointer]: / месяц
+                      - generic [ref=e383] [cursor=pointer]: 1 008 ₽ / год
+                    - button [ref=e384] [cursor=pointer]:
+                      - img [ref=e386] [cursor=pointer]
+                - generic [ref=e391] [cursor=pointer]:
+                  - generic [ref=e392] [cursor=pointer]: Вероятность и статистика
+                  - generic [ref=e393] [cursor=pointer]:
+                    - generic [ref=e394] [cursor=pointer]:
+                      - generic [ref=e395] [cursor=pointer]:
+                        - generic [ref=e396] [cursor=pointer]: 84 ₽
+                        - generic [ref=e397] [cursor=pointer]: / месяц
+                      - generic [ref=e399] [cursor=pointer]: 1 008 ₽ / год
+                    - button [ref=e400] [cursor=pointer]:
+                      - img [ref=e402] [cursor=pointer]
+                - generic [ref=e407] [cursor=pointer]:
+                  - generic [ref=e408] [cursor=pointer]: Геометрия
+                  - generic [ref=e409] [cursor=pointer]:
+                    - generic [ref=e410] [cursor=pointer]:
+                      - generic [ref=e411] [cursor=pointer]:
+                        - generic [ref=e412] [cursor=pointer]: 84 ₽
+                        - generic [ref=e413] [cursor=pointer]: / месяц
+                      - generic [ref=e415] [cursor=pointer]: 1 008 ₽ / год
+                    - button [ref=e416] [cursor=pointer]:
+                      - img [ref=e418] [cursor=pointer]
+                - generic [ref=e423] [cursor=pointer]:
+                  - generic [ref=e424] [cursor=pointer]: Информатика
+                  - generic [ref=e425] [cursor=pointer]:
+                    - generic [ref=e426] [cursor=pointer]:
+                      - generic [ref=e427] [cursor=pointer]:
+                        - generic [ref=e428] [cursor=pointer]: 84 ₽
+                        - generic [ref=e429] [cursor=pointer]: / месяц
+                      - generic [ref=e431] [cursor=pointer]: 1 008 ₽ / год
+                    - button [ref=e432] [cursor=pointer]:
+                      - img [ref=e434] [cursor=pointer]
+                - generic [ref=e439] [cursor=pointer]:
+                  - generic [ref=e440] [cursor=pointer]: История
+                  - generic [ref=e441] [cursor=pointer]:
+                    - generic [ref=e442] [cursor=pointer]:
+                      - generic [ref=e443] [cursor=pointer]:
+                        - generic [ref=e444] [cursor=pointer]: 84 ₽
+                        - generic [ref=e445] [cursor=pointer]: / месяц
+                      - generic [ref=e447] [cursor=pointer]: 1 008 ₽ / год
+                    - button [ref=e448] [cursor=pointer]:
+                      - img [ref=e450] [cursor=pointer]
+                - generic [ref=e455] [cursor=pointer]:
+                  - generic [ref=e456] [cursor=pointer]: Литература
+                  - generic [ref=e457] [cursor=pointer]:
+                    - generic [ref=e458] [cursor=pointer]:
+                      - generic [ref=e459] [cursor=pointer]:
+                        - generic [ref=e460] [cursor=pointer]: 84 ₽
+                        - generic [ref=e461] [cursor=pointer]: / месяц
+                      - generic [ref=e463] [cursor=pointer]: 1 008 ₽ / год
+                    - button [ref=e464] [cursor=pointer]:
+                      - img [ref=e466] [cursor=pointer]
+                - generic [ref=e471] [cursor=pointer]:
+                  - generic [ref=e472] [cursor=pointer]: Логика
+                  - generic [ref=e473] [cursor=pointer]:
+                    - generic [ref=e474] [cursor=pointer]:
+                      - generic [ref=e475] [cursor=pointer]:
+                        - generic [ref=e476] [cursor=pointer]: 123 ₽
+                        - generic [ref=e477] [cursor=pointer]: / месяц
+                      - generic [ref=e479] [cursor=pointer]: 1 470 ₽ / год
+                    - button [ref=e480] [cursor=pointer]:
+                      - img [ref=e482] [cursor=pointer]
+                - generic [ref=e487] [cursor=pointer]:
+                  - generic [ref=e488] [cursor=pointer]: Обществознание
+                  - generic [ref=e489] [cursor=pointer]:
+                    - generic [ref=e490] [cursor=pointer]:
+                      - generic [ref=e491] [cursor=pointer]:
+                        - generic [ref=e492] [cursor=pointer]: 84 ₽
+                        - generic [ref=e493] [cursor=pointer]: / месяц
+                      - generic [ref=e495] [cursor=pointer]: 1 008 ₽ / год
+                    - button [ref=e496] [cursor=pointer]:
+                      - img [ref=e498] [cursor=pointer]
+                - generic [ref=e503] [cursor=pointer]:
+                  - generic [ref=e504] [cursor=pointer]: Русский язык
+                  - generic [ref=e505] [cursor=pointer]:
+                    - generic [ref=e506] [cursor=pointer]:
+                      - generic [ref=e507] [cursor=pointer]:
+                        - generic [ref=e508] [cursor=pointer]: 84 ₽
+                        - generic [ref=e509] [cursor=pointer]: / месяц
+                      - generic [ref=e511] [cursor=pointer]: 1 008 ₽ / год
+                    - button [ref=e512] [cursor=pointer]:
+                      - img [ref=e514] [cursor=pointer]
+                - generic [ref=e519] [cursor=pointer]:
+                  - generic [ref=e520] [cursor=pointer]: Физика
+                  - generic [ref=e521] [cursor=pointer]:
+                    - generic [ref=e522] [cursor=pointer]:
+                      - generic [ref=e523] [cursor=pointer]:
+                        - generic [ref=e524] [cursor=pointer]: 84 ₽
+                        - generic [ref=e525] [cursor=pointer]: / месяц
+                      - generic [ref=e527] [cursor=pointer]: 1 008 ₽ / год
+                    - button [ref=e528] [cursor=pointer]:
+                      - img [ref=e530] [cursor=pointer]
+                - generic [ref=e535] [cursor=pointer]:
+                  - generic [ref=e536] [cursor=pointer]: Физика. Базовый уровень
+                  - generic [ref=e537] [cursor=pointer]:
+                    - generic [ref=e538] [cursor=pointer]:
+                      - generic [ref=e539] [cursor=pointer]:
+                        - generic [ref=e540] [cursor=pointer]: 56 ₽
+                        - generic [ref=e541] [cursor=pointer]: / месяц
+                      - generic [ref=e543] [cursor=pointer]: 672 ₽ / год
+                    - button [ref=e544] [cursor=pointer]:
+                      - img [ref=e546] [cursor=pointer]
+                - generic [ref=e551] [cursor=pointer]:
+                  - generic [ref=e552] [cursor=pointer]: Экология
+                  - generic [ref=e553] [cursor=pointer]:
+                    - generic [ref=e554] [cursor=pointer]:
+                      - generic [ref=e555] [cursor=pointer]:
+                        - generic [ref=e556] [cursor=pointer]: 35 ₽
+                        - generic [ref=e557] [cursor=pointer]: / месяц
+                      - generic [ref=e559] [cursor=pointer]: 420 ₽ / год
+                    - button [ref=e560] [cursor=pointer]:
+                      - img [ref=e562] [cursor=pointer]
+            - generic [ref=e565]:
+              - button "1 месяц -62%" [ref=e566] [cursor=pointer]:
+                - text: 1 месяц
+                - generic [ref=e568] [cursor=pointer]: "-62%"
+              - button "6 месяцев -78%" [ref=e569] [cursor=pointer]:
+                - text: 6 месяцев
+                - generic [ref=e571] [cursor=pointer]: "-78%"
+              - button "12 месяцев -87%" [ref=e572] [cursor=pointer]:
+                - text: 12 месяцев
+                - generic [ref=e574] [cursor=pointer]: "-87%"
+          - generic [ref=e575]:
+            - heading "Дополнительные продукты" [level=1] [ref=e576]
+            - generic [ref=e577]:
+              - generic [ref=e578]:
+                - heading "Специальный пакет заданий для детей с ОВЗ" [level=1] [ref=e579]
+                - generic [ref=e581]:
+                  - img [ref=e583]
+                  - generic [ref=e585]: Есть настройки инклюзивности
+              - generic [ref=e587]:
+                - generic [ref=e590]: Онлайн-платформа запущена Министерством просвещения Российской Федерации
+                - generic [ref=e595]:
+                  - generic [ref=e596]:
+                    - heading "ОВЗ" [level=4] [ref=e597]
+                    - generic [ref=e599]: Для детей с ограниченными возможностями здоровья
+                  - generic [ref=e600]:
+                    - generic [ref=e601]:
+                      - generic [ref=e602]: 52320 ₽
+                      - generic [ref=e603]:
+                        - generic [ref=e604]:
+                          - generic [ref=e605]: 3 110
+                          - generic [ref=e606]: ₽/ год
+                        - generic [ref=e608]: "-94%"
+                    - button "В корзину" [ref=e609] [cursor=pointer]:
+                      - text: В корзину
+                      - img [ref=e612] [cursor=pointer]
+            - generic [ref=e614]:
+              - generic [ref=e615]:
+                - heading "Курс по программированию" [level=1] [ref=e616]
+                - generic [ref=e618]:
+                  - img [ref=e620]
+                  - generic [ref=e622]: Новинка
+              - generic [ref=e624]:
+                - generic [ref=e625]:
+                  - generic [ref=e626]: Доступен бесплатно для заказа учителям информатики в рамках фед. проекта Моя школа
+                  - button "Подробнее о курсе" [ref=e627] [cursor=pointer]:
+                    - text: Подробнее о курсе
+                    - img [ref=e630] [cursor=pointer]
+                - generic [ref=e636]:
+                  - generic [ref=e637]:
+                    - heading "Python" [level=4] [ref=e638]
+                    - generic [ref=e640]: Курс программирования для начинающих на год
+                  - generic [ref=e641]:
+                    - generic [ref=e642]:
+                      - generic [ref=e643]: 13080 ₽
+                      - generic [ref=e644]:
+                        - generic [ref=e645]:
+                          - generic [ref=e646]: 1 920
+                          - generic [ref=e647]: ₽/ год
+                        - generic [ref=e649]: "-85%"
+                    - button "В корзину" [ref=e650] [cursor=pointer]:
+                      - text: В корзину
+                      - img [ref=e653] [cursor=pointer]
+          - generic [ref=e655]:
+            - heading "Начать без подписки — доступ ко всей платформе" [level=1] [ref=e656]
+            - generic [ref=e657]:
+              - generic [ref=e658]:
+                - heading "Выбирайте количество заданий" [level=1] [ref=e659]
+                - generic [ref=e661]:
+                  - img [ref=e663]
+                  - generic [ref=e665]: Быстрый старт
+              - generic [ref=e667]:
+                - generic [ref=e669]:
+                  - generic [ref=e670]: "Задания:"
+                  - generic [ref=e671]:
+                    - generic [ref=e673] [cursor=pointer]: "15"
+                    - generic [ref=e675] [cursor=pointer]: "20"
+                    - generic [ref=e677] [cursor=pointer]: "40"
+                    - generic [ref=e679] [cursor=pointer]: "60"
+                - generic [ref=e684]:
+                  - generic [ref=e685]:
+                    - heading "15 заданий" [level=4] [ref=e686]
+                    - generic [ref=e687]:
+                      - img [ref=e690]
+                      - generic [ref=e692]: + 15 вопросов к Ai-помощнику ( в подарок)
+                  - generic [ref=e693]:
+                    - generic [ref=e696]:
+                      - generic [ref=e697]: "140"
+                      - generic [ref=e698]: ₽
+                    - button "В корзину" [ref=e699] [cursor=pointer]:
+                      - text: В корзину
+                      - img [ref=e702] [cursor=pointer]
+          - generic [ref=e704]:
+            - heading "Контент создан экспертами" [level=1] [ref=e705]:
+              - generic [ref=e706]: Контент создан экспертами
+            - generic [ref=e708]: "В создании заданий платформы приняли участие специалисты из ведущих вузов страны, а также лучшие преподаватели топовых московских школ: Летово, Новая Школа, ВШЭ, Интеллектуал, 57 школа, Лицей, Вторая школа, Ломоносовская."
+            - generic [ref=e709]:
+              - generic [ref=e710]:
+                - img "ВШЭ.svg" [ref=e711]
+                - generic [ref=e712]: Национальный исследовательский университет «Высшая школа экономики»
+              - generic [ref=e713]:
+                - img "MГУ.svg" [ref=e714]
+                - generic [ref=e715]: Московский государственный университет имени М.В.Ломоносова
+              - generic [ref=e716]:
+                - img "СпбГУ.svg" [ref=e717]
+                - generic [ref=e718]: Санкт-Петербургский государственный университет
+              - generic [ref=e719]:
+                - img "РГПУ им Герцена.svg" [ref=e720]
+                - generic [ref=e721]: Российски государственный педагогический университет имени А. И. Герцена
+              - generic [ref=e722]:
+                - img "МГПУ.svg" [ref=e723]
+                - generic [ref=e724]: Московский городской педагогический университет
+              - generic [ref=e725]:
+                - img "ОМГПУ.svg" [ref=e726]
+                - generic [ref=e727]: ОмГПУ
+              - generic [ref=e728]:
+                - img "Центр онлайн обучения.svg" [ref=e729]
+                - generic [ref=e730]: Московский центр онлайн обучения
+              - generic [ref=e731]:
+                - img "Московский физико-технический институт.svg" [ref=e732]
+                - generic [ref=e733]: Московский физико-технический институт (МФТИ)
+          - generic [ref=e734]:
+            - generic [ref=e736]: "*Единоразово выдается 60 вопросов для работы с помощником Смарти."
+            - generic [ref=e737]: "**Количество решений ограничено количеством купленных заданий."
+      - generic [ref=e739]:
+        - generic [ref=e740]:
+          - generic [ref=e741]:
+            - generic [ref=e745]:
+              - img [ref=e747]
+              - link "8 (800) 600-44-02" [ref=e749] [cursor=pointer]:
+                - /url: tel:88006004402
+            - generic [ref=e750]:
+              - generic [ref=e751]: "@"
+              - link "info@ismart.org" [ref=e752] [cursor=pointer]:
+                - /url: mailto:info@ismart.org
+            - generic [ref=e753]:
+              - img [ref=e755]
+              - generic [ref=e757]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+          - generic [ref=e758]:
+            - link "Наш сайт" [ref=e761] [cursor=pointer]:
+              - /url: https://ismart.org/
+              - text: Наш сайт
+              - img [ref=e763] [cursor=pointer]
+            - generic [ref=e765]:
+              - link "Лицензия" [ref=e767] [cursor=pointer]:
+                - /url: https://ismart-files.storage.yandexcloud.net/edu/Liczenziya_84a663fa84.pdf
+              - link "Политика конфиденциальности" [ref=e769] [cursor=pointer]:
+                - /url: https://ismart.org/legal-agreements/politika-konfidencialnosti
+              - link "Пользовательское соглашение" [ref=e771] [cursor=pointer]:
+                - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+              - link "Согласие на обработку персональных данных" [ref=e773] [cursor=pointer]:
+                - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+              - link "Курсы и цены" [ref=e775] [cursor=pointer]:
+                - /url: https://ismart.org/tariffs
+        - generic [ref=e777]:
+          - generic [ref=e778]:
+            - link [ref=e779] [cursor=pointer]:
+              - /url: https://navigator.sk.ru/orn/1124996
+              - img [ref=e783] [cursor=pointer]
+            - generic [ref=e786]:
+              - link "okIcon" [ref=e787] [cursor=pointer]:
+                - /url: https://ok.ru/ismart.official
+                - img "okIcon" [ref=e788] [cursor=pointer]
+              - link "dzenIcon" [ref=e789] [cursor=pointer]:
+                - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+                - img "dzenIcon" [ref=e790] [cursor=pointer]
+              - link "vkIcon" [ref=e791] [cursor=pointer]:
+                - /url: https://vk.com/ismartorg
+                - img "vkIcon" [ref=e792] [cursor=pointer]
+          - generic [ref=e794]:
+            - generic [ref=e796]: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись №22517 от 14.05.2024.
+            - generic [ref=e797]:
+              - generic [ref=e798]: "Техническая служба поддержки:"
+              - link "support@ismart.org" [ref=e799] [cursor=pointer]:
+                - /url: mailto:support@ismart.org
+            - generic [ref=e800]: © iSmart, 2018-2025
+    - generic [ref=e801]:
+      - img [ref=e804] [cursor=pointer]
+      - generic [ref=e806]: v.7.10.3
+  - generic [ref=e812]:
+    - generic [ref=e813]:
+      - generic [ref=e814]: В корзине • 1
+      - button [ref=e815] [cursor=pointer]:
+        - img [ref=e817] [cursor=pointer]
+      - button [ref=e819] [cursor=pointer]:
+        - img [ref=e821] [cursor=pointer]
+    - generic [ref=e826]:
+      - generic [ref=e831]:
+        - generic [ref=e833]: Английский язык
+        - generic [ref=e834]: для 7 класса
+        - generic [ref=e835]:
+          - generic [ref=e837]: 1 008 ₽
+          - generic [ref=e839]:
+            - button [ref=e840] [cursor=pointer]:
+              - img [ref=e842] [cursor=pointer]
+            - button "12 месяцев" [ref=e845]
+      - generic [ref=e846]:
+        - generic [ref=e847]: "Бонус: +75 заданий"
+        - generic [ref=e848]: Добавь в корзину ещё на 442 ₽ и получи +100 заданий
+        - generic [ref=e852]:
+          - generic [ref=e853]:
+            - generic [ref=e854]: 190 ₽
+            - generic [ref=e855]: "+30"
+          - generic [ref=e856]:
+            - generic [ref=e857]: 450 ₽
+            - generic [ref=e858]: "+50"
+          - generic [ref=e859]:
+            - generic [ref=e860]: 990 ₽
+            - generic [ref=e861]: "+75"
+          - generic [ref=e862]:
+            - generic [ref=e863]: 1 450 ₽
+            - generic [ref=e864]: "+100"
+      - generic [ref=e865]:
+        - generic [ref=e866]:
+          - generic [ref=e867]: "Всего:"
+          - generic [ref=e869]: 1 008 ₽
+        - generic [ref=e871]:
+          - generic [ref=e872]: Выгода
+          - generic [ref=e874]: 0 ₽
+        - generic [ref=e875]:
+          - generic [ref=e876]: Будет списано с баланса
+          - generic [ref=e878]: 1 008 ₽
+        - generic [ref=e879]:
+          - generic [ref=e880]: Итого к оплате
+          - generic [ref=e882]: 0 ₽
+    - generic [ref=e885]:
+      - button [active] [ref=e886] [cursor=pointer]:
+        - img [ref=e888] [cursor=pointer]
+      - generic [ref=e905]:
+        - text: Продолжая, вы соглашаетесь с
+        - link "публичной офертой" [ref=e907] [cursor=pointer]:
+          - /url: https://www.ismart.org/legal-agreements/polzovatelskoe-soglashenie
+```
