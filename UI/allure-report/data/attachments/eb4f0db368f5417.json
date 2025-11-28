@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "query gameMeta {\n  gameMeta {\n    gameLevels {\n      objectId\n      createDate\n      updateDate\n      deleteDate\n      gameSeasonId\n      title\n      finishScore\n      rewardGameItemId\n      rewardClaimed\n    }\n    currentSeason {\n      objectId\n      name\n      startDate\n      endDate\n      passGameItemId\n      description\n    }\n    studentHouse\n    studentGameItemId\n    studentGameItemActivated\n    selfPoints\n    housesPoints {\n      code\n      name\n      rank\n      points\n    }\n    attendance\n    dailyPractice {\n      ...practiceFields\n    }\n    studentStats {\n      points\n      tasks\n    }\n  }\n}\n\nfragment practiceFields on Practice {\n  id\n  name\n  type\n  startDate\n  endDate\n  progress\n  durationMinutes\n  leftTime\n  finishTime\n  usedTime\n  executionStatus\n  expired\n  processingTime\n  content {\n    ...practiceContentFields\n  }\n  assignedByUserId\n  isTerminated\n}\n\nfragment practiceContentFields on PracticeContent {\n  subThemes {\n    categoryId\n    themeId\n    subThemeId\n    score\n    subThemeName\n    subThemeNumber\n    type\n    isDeleted\n    subjectId\n  }\n  tasks {\n    categoryId\n    themeId\n    subThemeId\n    subThemeName\n    subThemeNumber\n    taskId\n    processed\n  }\n  courseModules {\n    moduleId\n    name\n    courseId\n    categoryId\n  }\n}\n"
+    },
+    "timestap": "28.11.2025, 19:15:22"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "query task($taskId: String, $subThemeId: String, $categoryId: String, $practiceId: String) {\n  task(\n    taskId: $taskId\n    subThemeId: $subThemeId\n    categoryId: $categoryId\n    practiceId: $practiceId\n  ) {\n    id\n    data\n    template\n    haveSubscription\n    progress\n  }\n}\n",
+      "variables": {
+        "taskId": "5b9c17fcce7cf4001b5a4a6d",
+        "categoryId": "6113811337e0442b7db5a4cc"
+      }
+    },
+    "timestap": "28.11.2025, 19:15:36"
+  }
+]
