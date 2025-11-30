@@ -1,0 +1,65 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - generic [ref=e25]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - button "1" [ref=e35] [cursor=pointer]
+              - button "2" [ref=e38] [cursor=pointer]
+              - button "3" [ref=e41] [cursor=pointer]
+            - generic [ref=e42]:
+              - button [disabled] [ref=e43]:
+                - img [ref=e45]
+              - button [disabled] [ref=e48]:
+                - img [ref=e50]
+        - generic [ref=e53]:
+          - generic [ref=e55]:
+            - img [ref=e59]
+            - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e61]:
+              - generic [ref=e63]: Внесите ответ в специально предназначенное поле.
+          - generic [ref=e65]:
+            - img "decore" [ref=e68]
+            - generic [ref=e74]: Какое имя главного героя используют его друзья, близкие и он сам?
+          - generic [ref=e79]:
+            - textbox [ref=e81]
+            - textbox [ref=e83]
+            - textbox [ref=e85]
+      - button "2 Показать подсказку" [ref=e93] [cursor=pointer]:
+        - generic [ref=e96] [cursor=pointer]: "2"
+        - generic [ref=e97] [cursor=pointer]: Показать подсказку
+    - generic [ref=e98]:
+      - generic [ref=e101]: Интеллектуальный тренажер
+      - generic [ref=e107]:
+        - button "Войти как учитель" [ref=e109] [cursor=pointer]:
+          - img [ref=e112] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e114]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e115]:
+        - generic [ref=e117]:
+          - button "Черновик" [ref=e118] [cursor=pointer]:
+            - img [ref=e121] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e126] [cursor=pointer]:
+            - img [ref=e129] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - img [ref=e134]
+            - generic [ref=e136]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e137] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e140] [cursor=pointer]
+```
