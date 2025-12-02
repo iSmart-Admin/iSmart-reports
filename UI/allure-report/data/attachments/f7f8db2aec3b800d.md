@@ -1,0 +1,110 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e12]:
+    - generic [ref=e17]:
+      - generic [ref=e20]:
+        - link "Каталог заданий" [ref=e22] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e25] [cursor=pointer]: Каталог заданий
+        - link "Кабинет родителя" [ref=e28] [cursor=pointer]:
+          - /url: /parent/dashboard
+          - generic [ref=e31] [cursor=pointer]: Кабинет родителя
+        - link "Рейтинг" [active] [ref=e34] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e37] [cursor=pointer]: Рейтинг
+        - link "Магазин" [ref=e40] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e43] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e46] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e49] [cursor=pointer]: Помощник
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - button [ref=e53] [cursor=pointer]:
+            - img [ref=e55] [cursor=pointer]
+          - img [ref=e60] [cursor=pointer]
+        - generic [ref=e62] [cursor=pointer]:
+          - generic [ref=e65] [cursor=pointer]: В
+          - generic [ref=e66] [cursor=pointer]:
+            - paragraph [ref=e67] [cursor=pointer]: Родитель
+            - paragraph [ref=e68] [cursor=pointer]: Вера
+          - img [ref=e70] [cursor=pointer]
+    - generic [ref=e74]:
+      - generic [ref=e75]:
+        - generic [ref=e77]:
+          - generic [ref=e79] [cursor=pointer]:
+            - generic [ref=e80] [cursor=pointer]: Никита
+            - img [ref=e82] [cursor=pointer]
+          - generic [ref=e86]:
+            - generic [ref=e87] [cursor=pointer]:
+              - generic [ref=e88] [cursor=pointer]: Сезонный рейтинг
+              - img [ref=e90] [cursor=pointer]
+            - paragraph [ref=e92]: Рейтинг от 01 Сентября 2023
+        - generic [ref=e93]:
+          - button "Школы" [ref=e96] [cursor=pointer]
+          - img [ref=e100] [cursor=pointer]
+      - img [ref=e104]
+    - generic [ref=e122]:
+      - generic [ref=e123]:
+        - generic [ref=e124]:
+          - generic [ref=e128]:
+            - img [ref=e130]
+            - link "8 (800) 600-44-02" [ref=e132] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e133]:
+            - generic [ref=e134]: "@"
+            - link "info@ismart.org" [ref=e135] [cursor=pointer]:
+              - /url: mailto:info@ismart.org
+          - generic [ref=e136]:
+            - img [ref=e138]
+            - generic [ref=e140]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e141]:
+          - link "Наш сайт" [ref=e144] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e146] [cursor=pointer]
+          - generic [ref=e148]:
+            - link "Лицензия" [ref=e150] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Liczenziya_84a663fa84.pdf
+            - link "Политика конфиденциальности" [ref=e152] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/politika-konfidencialnosti
+            - link "Пользовательское соглашение" [ref=e154] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e156] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e158] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e160]:
+        - generic [ref=e161]:
+          - link [ref=e162] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e166] [cursor=pointer]
+          - generic [ref=e169]:
+            - link "okIcon" [ref=e170] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e171] [cursor=pointer]
+            - link "dzenIcon" [ref=e172] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e173] [cursor=pointer]
+            - link "vkIcon" [ref=e174] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e175] [cursor=pointer]
+        - generic [ref=e177]:
+          - generic [ref=e179]: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись №22517 от 14.05.2024.
+          - generic [ref=e180]:
+            - generic [ref=e181]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e182] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e183]: © iSmart, 2018-2025
+  - generic [ref=e184]:
+    - img [ref=e187] [cursor=pointer]
+    - generic [ref=e189]: v.7.10.3
+```
