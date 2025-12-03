@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://o271089.ingest.sentry.io/api/4505314407022592/envelope/?sentry_key=4a8e266f70be4d47affea7c6a2dc99d5&sentry_version=7&sentry_client=sentry.javascript.react%2F7.54.0",
+    "status": 429,
+    "payload": "{\"event_id\":\"d51dc66a303b4048bcf4eba8470635a4\",\"sent_at\":\"2025-12-03T16:10:32.138Z\",\"sdk\":{\"name\":\"sentry.javascript.react\",\"version\":\"7.54.0\"}}\n{\"type\":\"event\"}\n{\"message\":\"Action failed\",\"exception\":{\"values\":[{\"value\":\"Action failed\",\"type\":\"Error\",\"mechanism\":{\"type\":\"generic\",\"handled\":true,\"synthetic\":true}}]},\"level\":\"error\",\"event_id\":\"d51dc66a303b4048bcf4eba8470635a4\",\"platform\":\"javascript\",\"timestamp\":1764778232.035,\"environment\":\"ismart-edu\",\"release\":\"7.10.3\",\"sdk\":{\"integrations\":[\"InboundFilters\",\"FunctionToString\",\"TryCatch\",\"Breadcrumbs\",\"GlobalHandlers\",\"LinkedErrors\",\"Dedupe\",\"HttpContext\",\"Replay\"],\"name\":\"sentry.javascript.react\",\"version\":\"7.54.0\",\"packages\":[{\"name\":\"npm:@sentry/react\",\"version\":\"7.54.0\"}]},\"extra\":{\"actionName\":\"fetchUserInfo\"},\"tags\":{\"type\":\"action\",\"scope\":\"anywhere\",\"replayId\":\"48f406be35394af6bd8b2134052c69a0\"},\"breadcrumbs\":[{\"timestamp\":1764778229.443,\"category\":\"navigation\",\"data\":{\"from\":\"/educont/6aafc7b529815920d31b07dc?token=eyJhbGciOiJHT1NUMzQxMF8yMDEyXzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6ImI5YWI3NGY4LTRmNDktNDlmZS05ZWIyLTZkZjA5NjdkMDMxZiIsImlzVGVhY2hlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjY4YzAzYjYwYTdmYWI4MDAwNzZmZGI4MCIsInNlY3Rpb25Qcm92aWRlcklkIjoiNjhjMDNiNjBhN2ZhYjgwMDA3NmZkYjgxIiwidGhlbWVQcm92aWRlcklkIjoiNjhjMDNiMDFhN2ZhYjgwMDA3NmZkNzdjIiwibGVzc29uUHJvdmlkZXJJZCI6IjY4YjZkZDcyOWExNTliNDExODJiZjBiYiJ9.wi8nBoqLBhJQ4MlgfFMWRuKJk-Zx1ZkdXShr8CxVufaW-bOQUn2q4lQ-UVEOVdU2-dUrNcj6YQkULeHzv3eQ\",\"to\":\"/educont/6aafc7b529815920d31b07dc\"}},{\"timestamp\":1764778230.473,\"category\":\"fetch\",\"data\":{\"method\":\"GET\",\"url\":\"/trpc/educont.checkAndParseToken?batch=1&input=%7B%220%22%3A%7B%22token%22%3A%22eyJhbGciOiJHT1NUMzQxMF8yMDEyXzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6ImI5YWI3NGY4LTRmNDktNDlmZS05ZWIyLTZkZjA5NjdkMDMxZiIsImlzVGVhY2hlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjY4YzAzYjYwYTdmYWI4MDAwNzZmZGI4MCIsInNlY3Rpb25Qcm92aWRlcklkIjoiNjhjMDNiNjBhN2ZhYjgwMDA3NmZkYjgxIiwidGhlbWVQcm92aWRlcklkIjoiNjhjMDNiMDFhN2ZhYjgwMDA3NmZkNzdjIiwibGVzc29uUHJvdmlkZXJJZCI6IjY4YjZkZDcyOWExNTliNDExODJiZjBiYiJ9.wi8nBoqLBhJQ4MlgfFMWRuKJk-Zx1ZkdXShr8CxVufaW-bOQUn2q4lQ-UVEOVdU2-dUrNcj6YQkULeHzv3eQ%22%2C%22lessonId%22%3A%226aafc7b529815920d31b07dc%22%2C%22selectedSubthemes%22%3A%5B%5D%7D%7D\",\"status_code\":200},\"type\":\"http\"},{\"timestamp\":1764778230.747,\"category\":\"console\",\"data\":{\"arguments\":[\"socket connected!\"],\"logger\":\"console\"},\"level\":\"log\",\"message\":\"socket connected!\"},{\"timestamp\":1764778231.538,\"category\":\"fetch\",\"data\":{\"method\":\"GET\",\"url\":\"/trpc/educont.getLessonModulesWithStats?batch=1&input=%7B%220%22%3A%7B%22lessonId%22%3A%226aafc7b529815920d31b07dc%22%2C%22isPreview%22%3Atrue%7D%7D\"},\"level\":\"error\",\"type\":\"http\"}],\"request\":{\"url\":\"https://edu.ismart.org/educont/6aafc7b529815920d31b07dc\",\"headers\":{\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36\"}}}",
+    "timestap": "03.12.2025, 19:10:32"
+  },
+  {
+    "url": "https://edu.ismart.org/trpc/educont.getLessonModulesWithStats?batch=1&input=%7B%220%22%3A%7B%22lessonId%22%3A%226aafc7b529815920d31b07dc%22%2C%22isPreview%22%3Atrue%7D%7D",
+    "status": 500,
+    "payload": null,
+    "timestap": "03.12.2025, 19:10:32"
+  },
+  {
+    "url": "https://edu.ismart.org/trpc/educont.getLessonModulesWithStats?batch=1&input=%7B%220%22%3A%7B%22lessonId%22%3A%226aafc7b529815920d31b07dc%22%2C%22isPreview%22%3Atrue%7D%7D",
+    "status": 500,
+    "payload": null,
+    "timestap": "03.12.2025, 19:10:34"
+  },
+  {
+    "url": "https://edu.ismart.org/trpc/educont.getLessonModulesWithStats?batch=1&input=%7B%220%22%3A%7B%22lessonId%22%3A%226aafc7b529815920d31b07dc%22%2C%22isPreview%22%3Atrue%7D%7D",
+    "status": 500,
+    "payload": null,
+    "timestap": "03.12.2025, 19:10:39"
+  }
+]
