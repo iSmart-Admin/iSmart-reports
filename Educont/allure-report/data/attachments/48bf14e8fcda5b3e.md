@@ -1,0 +1,310 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e23]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e32]:
+            - generic [ref=e34]:
+              - img [ref=e38]
+              - heading "Выбери верный вариант ответа." [level=4] [ref=e40]:
+                - generic [ref=e42]: Выбери верный вариант ответа.
+            - generic [ref=e44]:
+              - img "decore" [ref=e47]
+              - generic [ref=e53]:
+                - text: Определи скорость звука в воде, если источник звука, колеблющийся с периодом
+                - generic [ref=e55]:
+                  - math [ref=e57]:
+                    - generic [ref=e59]:
+                      - generic [ref=e60]: "0"
+                      - generic [ref=e61]: ","
+                      - generic [ref=e62]: "002"
+                      - generic [ref=e63]: с
+                  - generic [ref=e65]:
+                    - generic [ref=e66]: "0"
+                    - generic [ref=e67]: ","
+                    - generic [ref=e68]: "002"
+                    - generic [ref=e69]: с
+                - text: ", возбуждает в воде волны длиной"
+                - generic [ref=e71]:
+                  - math [ref=e73]:
+                    - generic [ref=e75]:
+                      - generic [ref=e76]: "2"
+                      - generic [ref=e77]: ","
+                      - generic [ref=e78]: "9"
+                      - generic [ref=e79]: м
+                  - generic [ref=e81]:
+                    - generic [ref=e82]: "2"
+                    - generic [ref=e83]: ","
+                    - generic [ref=e84]: "9"
+                    - generic [ref=e85]: м
+                - text: .
+            - generic [ref=e88]:
+              - generic [ref=e94] [cursor=pointer]:
+                - math [ref=e96] [cursor=pointer]:
+                  - generic [ref=e98] [cursor=pointer]:
+                    - generic [ref=e99] [cursor=pointer]: "2350"
+                    - generic [ref=e100] [cursor=pointer]: м
+                    - generic [ref=e101] [cursor=pointer]: /
+                    - generic [ref=e102] [cursor=pointer]: c
+                - generic [ref=e104] [cursor=pointer]:
+                  - generic [ref=e105] [cursor=pointer]: "2350"
+                  - generic [ref=e106] [cursor=pointer]: м
+                  - generic [ref=e107] [cursor=pointer]: /
+                  - generic [ref=e108] [cursor=pointer]: c
+              - generic [ref=e114] [cursor=pointer]:
+                - math [ref=e116] [cursor=pointer]:
+                  - generic [ref=e118] [cursor=pointer]:
+                    - generic [ref=e119] [cursor=pointer]: "1450"
+                    - generic [ref=e120] [cursor=pointer]: м
+                    - generic [ref=e121] [cursor=pointer]: /
+                    - generic [ref=e122] [cursor=pointer]: c
+                - generic [ref=e124] [cursor=pointer]:
+                  - generic [ref=e125] [cursor=pointer]: "1450"
+                  - generic [ref=e126] [cursor=pointer]: м
+                  - generic [ref=e127] [cursor=pointer]: /
+                  - generic [ref=e128] [cursor=pointer]: c
+              - generic [ref=e134] [cursor=pointer]:
+                - math [ref=e136] [cursor=pointer]:
+                  - generic [ref=e138] [cursor=pointer]:
+                    - generic [ref=e139] [cursor=pointer]: "2900"
+                    - generic [ref=e140] [cursor=pointer]: м
+                    - generic [ref=e141] [cursor=pointer]: /
+                    - generic [ref=e142] [cursor=pointer]: c
+                - generic [ref=e144] [cursor=pointer]:
+                  - generic [ref=e145] [cursor=pointer]: "2900"
+                  - generic [ref=e146] [cursor=pointer]: м
+                  - generic [ref=e147] [cursor=pointer]: /
+                  - generic [ref=e148] [cursor=pointer]: c
+              - generic [ref=e154] [cursor=pointer]:
+                - math [ref=e156] [cursor=pointer]:
+                  - generic [ref=e158] [cursor=pointer]:
+                    - generic [ref=e159] [cursor=pointer]: "2000"
+                    - generic [ref=e160] [cursor=pointer]: м
+                    - generic [ref=e161] [cursor=pointer]: /
+                    - generic [ref=e162] [cursor=pointer]: c
+                - generic [ref=e164] [cursor=pointer]:
+                  - generic [ref=e165] [cursor=pointer]: "2000"
+                  - generic [ref=e166] [cursor=pointer]: м
+                  - generic [ref=e167] [cursor=pointer]: /
+                  - generic [ref=e168] [cursor=pointer]: c
+        - button "2 Показать подсказку" [ref=e176] [cursor=pointer]:
+          - generic [ref=e179] [cursor=pointer]: "2"
+          - generic [ref=e180] [cursor=pointer]: Показать подсказку
+      - generic [ref=e181]:
+        - generic [ref=e184]: Интеллектуальный тренажер
+        - generic [ref=e188]:
+          - generic [ref=e193]: 0%
+          - generic [ref=e195]:
+            - generic [ref=e196]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e198] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e201]:
+          - generic [ref=e203]:
+            - button "Пройти опрос" [ref=e204] [cursor=pointer]:
+              - generic [ref=e206] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e207] [cursor=pointer]:
+              - img [ref=e210] [cursor=pointer]
+              - text: Черновик
+            - button "Информация об уроке" [ref=e214] [cursor=pointer]:
+              - img [ref=e217] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e219]:
+            - generic [ref=e220]:
+              - img [ref=e222]
+              - generic [ref=e224]: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [active] [ref=e225] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e228] [cursor=pointer]
+    - generic [ref=e231]:
+      - generic [ref=e233]:
+        - heading "К сожалению, ошибка" [level=4] [ref=e234]
+        - generic [ref=e235]: Давай разбираться вместе
+      - generic [ref=e237]:
+        - heading "Твой ответ" [level=1] [ref=e238]
+        - generic [ref=e241]:
+          - generic [ref=e242]:
+            - generic [ref=e243]:
+              - img [ref=e247]
+              - heading "Выбери верный вариант ответа." [level=4] [ref=e249]:
+                - generic [ref=e251]: Выбери верный вариант ответа.
+            - generic [ref=e253]:
+              - img "decore" [ref=e256]
+              - generic [ref=e262]:
+                - text: Определи скорость звука в воде, если источник звука, колеблющийся с периодом
+                - generic [ref=e264]:
+                  - math [ref=e266]:
+                    - generic [ref=e268]:
+                      - generic [ref=e269]: "0"
+                      - generic [ref=e270]: ","
+                      - generic [ref=e271]: "002"
+                      - generic [ref=e272]: с
+                  - generic [ref=e274]:
+                    - generic [ref=e275]: "0"
+                    - generic [ref=e276]: ","
+                    - generic [ref=e277]: "002"
+                    - generic [ref=e278]: с
+                - text: ", возбуждает в воде волны длиной"
+                - generic [ref=e280]:
+                  - math [ref=e282]:
+                    - generic [ref=e284]:
+                      - generic [ref=e285]: "2"
+                      - generic [ref=e286]: ","
+                      - generic [ref=e287]: "9"
+                      - generic [ref=e288]: м
+                  - generic [ref=e290]:
+                    - generic [ref=e291]: "2"
+                    - generic [ref=e292]: ","
+                    - generic [ref=e293]: "9"
+                    - generic [ref=e294]: м
+                - text: .
+          - generic [ref=e296]:
+            - generic [ref=e302]:
+              - math [ref=e304]:
+                - generic [ref=e306]:
+                  - generic [ref=e307]: "2350"
+                  - generic [ref=e308]: м
+                  - generic [ref=e309]: /
+                  - generic [ref=e310]: c
+              - generic [ref=e312]:
+                - generic [ref=e313]: "2350"
+                - generic [ref=e314]: м
+                - generic [ref=e315]: /
+                - generic [ref=e316]: c
+            - generic [ref=e322]:
+              - math [ref=e324]:
+                - generic [ref=e326]:
+                  - generic [ref=e327]: "1450"
+                  - generic [ref=e328]: м
+                  - generic [ref=e329]: /
+                  - generic [ref=e330]: c
+              - generic [ref=e332]:
+                - generic [ref=e333]: "1450"
+                - generic [ref=e334]: м
+                - generic [ref=e335]: /
+                - generic [ref=e336]: c
+            - generic [ref=e342]:
+              - math [ref=e344]:
+                - generic [ref=e346]:
+                  - generic [ref=e347]: "2900"
+                  - generic [ref=e348]: м
+                  - generic [ref=e349]: /
+                  - generic [ref=e350]: c
+              - generic [ref=e352]:
+                - generic [ref=e353]: "2900"
+                - generic [ref=e354]: м
+                - generic [ref=e355]: /
+                - generic [ref=e356]: c
+            - generic [ref=e362]:
+              - math [ref=e364]:
+                - generic [ref=e366]:
+                  - generic [ref=e367]: "2000"
+                  - generic [ref=e368]: м
+                  - generic [ref=e369]: /
+                  - generic [ref=e370]: c
+              - generic [ref=e372]:
+                - generic [ref=e373]: "2000"
+                - generic [ref=e374]: м
+                - generic [ref=e375]: /
+                - generic [ref=e376]: c
+      - generic [ref=e378]:
+        - heading "Правильный ответ" [level=1] [ref=e379]
+        - generic [ref=e382]:
+          - generic [ref=e383]:
+            - generic [ref=e384]:
+              - img [ref=e388]
+              - heading "Выбери верный вариант ответа." [level=4] [ref=e390]:
+                - generic [ref=e392]: Выбери верный вариант ответа.
+            - generic [ref=e394]:
+              - img "decore" [ref=e397]
+              - generic [ref=e403]:
+                - text: Определи скорость звука в воде, если источник звука, колеблющийся с периодом
+                - generic [ref=e405]:
+                  - math [ref=e407]:
+                    - generic [ref=e409]:
+                      - generic [ref=e410]: "0"
+                      - generic [ref=e411]: ","
+                      - generic [ref=e412]: "002"
+                      - generic [ref=e413]: с
+                  - generic [ref=e415]:
+                    - generic [ref=e416]: "0"
+                    - generic [ref=e417]: ","
+                    - generic [ref=e418]: "002"
+                    - generic [ref=e419]: с
+                - text: ", возбуждает в воде волны длиной"
+                - generic [ref=e421]:
+                  - math [ref=e423]:
+                    - generic [ref=e425]:
+                      - generic [ref=e426]: "2"
+                      - generic [ref=e427]: ","
+                      - generic [ref=e428]: "9"
+                      - generic [ref=e429]: м
+                  - generic [ref=e431]:
+                    - generic [ref=e432]: "2"
+                    - generic [ref=e433]: ","
+                    - generic [ref=e434]: "9"
+                    - generic [ref=e435]: м
+                - text: .
+          - generic [ref=e437]:
+            - generic [ref=e443]:
+              - math [ref=e445]:
+                - generic [ref=e447]:
+                  - generic [ref=e448]: "2350"
+                  - generic [ref=e449]: м
+                  - generic [ref=e450]: /
+                  - generic [ref=e451]: c
+              - generic [ref=e453]:
+                - generic [ref=e454]: "2350"
+                - generic [ref=e455]: м
+                - generic [ref=e456]: /
+                - generic [ref=e457]: c
+            - generic [ref=e463]:
+              - math [ref=e465]:
+                - generic [ref=e467]:
+                  - generic [ref=e468]: "1450"
+                  - generic [ref=e469]: м
+                  - generic [ref=e470]: /
+                  - generic [ref=e471]: c
+              - generic [ref=e473]:
+                - generic [ref=e474]: "1450"
+                - generic [ref=e475]: м
+                - generic [ref=e476]: /
+                - generic [ref=e477]: c
+            - generic [ref=e483]:
+              - math [ref=e485]:
+                - generic [ref=e487]:
+                  - generic [ref=e488]: "2900"
+                  - generic [ref=e489]: м
+                  - generic [ref=e490]: /
+                  - generic [ref=e491]: c
+              - generic [ref=e493]:
+                - generic [ref=e494]: "2900"
+                - generic [ref=e495]: м
+                - generic [ref=e496]: /
+                - generic [ref=e497]: c
+            - generic [ref=e503]:
+              - math [ref=e505]:
+                - generic [ref=e507]:
+                  - generic [ref=e508]: "2000"
+                  - generic [ref=e509]: м
+                  - generic [ref=e510]: /
+                  - generic [ref=e511]: c
+              - generic [ref=e513]:
+                - generic [ref=e514]: "2000"
+                - generic [ref=e515]: м
+                - generic [ref=e516]: /
+                - generic [ref=e517]: c
+      - button "Продолжить решение" [ref=e520] [cursor=pointer]:
+        - generic [ref=e521] [cursor=pointer]: Продолжить решение
+        - img [ref=e524] [cursor=pointer]
+```

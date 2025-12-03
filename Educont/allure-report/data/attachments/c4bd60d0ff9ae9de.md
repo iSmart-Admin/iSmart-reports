@@ -1,0 +1,121 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e23]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e32]:
+            - generic [ref=e34]:
+              - img [ref=e38]
+              - heading "Read the text and choose the true statements. Прочитай текст и выбери верные утверждения." [level=4] [ref=e40]:
+                - generic [ref=e42]: Read the text and choose the true statements. Прочитай текст и выбери верные утверждения.
+            - generic [ref=e44]:
+              - img "decore" [ref=e47]
+              - generic [ref=e52]:
+                - generic [ref=e53]: Many people have unhealthy habits without even noticing them. Some common unhealthy habits include eating too much junk food, not exercising enough, and not getting enough sleep. Eating fast food might be convenient, but it usually contains a lot of fat, sugar, and salt. This can lead to health problems like obesity, heart disease, and diabetes.
+                - generic [ref=e54]: Another unhealthy habit is not exercising regularly. Many people spend too much time sitting in front of the TV or computer. Exercise helps our bodies stay strong and healthy. It also makes our minds feel better and reduces stress.
+                - generic [ref=e55]: Not getting enough sleep is also a problem. When we don’t sleep well, we feel tired and can’t concentrate. Sleep helps our bodies repair and grow. Some people sleep for only 5-6 hours a night. That is not enough. Adults should try to get at least 7-8 hours of sleep each night.
+                - generic [ref=e56]: Changing unhealthy habits can be hard, but small steps can make a big difference. Try to eat more fruits and vegetables, walk or exercise for at least 30 minutes a day, and set a regular bedtime. Making these changes can lead to a healthier and happier life.
+            - generic [ref=e59]:
+              - list [ref=e63] [cursor=pointer]:
+                - listitem [ref=e64] [cursor=pointer]: Many people are aware of their unhealthy habits
+              - list [ref=e68] [cursor=pointer]:
+                - listitem [ref=e69] [cursor=pointer]: Eating fast food is often unhealthy due to its high fat, sugar, and salt content
+              - list [ref=e73] [cursor=pointer]:
+                - listitem [ref=e74] [cursor=pointer]: Regular exercise can help improve both physical and mental health
+              - list [ref=e78] [cursor=pointer]:
+                - listitem [ref=e79] [cursor=pointer]: Adults should aim for 5-6 hours of sleep
+        - button "1 Показать подсказку" [ref=e87] [cursor=pointer]:
+          - generic [ref=e90] [cursor=pointer]: "1"
+          - generic [ref=e91] [cursor=pointer]: Показать подсказку
+      - generic [ref=e92]:
+        - generic [ref=e95]: Интеллектуальный тренажер
+        - generic [ref=e99]:
+          - generic [ref=e104]: 0%
+          - generic [ref=e106]:
+            - generic [ref=e107]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e109] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e112]:
+          - generic [ref=e114]:
+            - button "Пройти опрос" [ref=e115] [cursor=pointer]:
+              - generic [ref=e117] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e118] [cursor=pointer]:
+              - img [ref=e121] [cursor=pointer]
+              - text: Черновик
+            - button "Информация об уроке" [ref=e125] [cursor=pointer]:
+              - img [ref=e128] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e130]:
+            - generic [ref=e131]:
+              - img [ref=e133]
+              - generic [ref=e135]: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [active] [ref=e136] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e139] [cursor=pointer]
+    - generic [ref=e142]:
+      - generic [ref=e144]:
+        - heading "К сожалению, ошибка" [level=4] [ref=e145]
+        - generic [ref=e146]: Давай разбираться вместе
+      - generic [ref=e148]:
+        - heading "Твой ответ" [level=1] [ref=e149]
+        - generic [ref=e152]:
+          - generic [ref=e153]:
+            - generic [ref=e154]:
+              - img [ref=e158]
+              - heading "Read the text and choose the true statements. Прочитай текст и выбери верные утверждения." [level=4] [ref=e160]:
+                - generic [ref=e162]: Read the text and choose the true statements. Прочитай текст и выбери верные утверждения.
+            - generic [ref=e164]:
+              - img "decore" [ref=e167]
+              - generic [ref=e172]:
+                - generic [ref=e173]: Many people have unhealthy habits without even noticing them. Some common unhealthy habits include eating too much junk food, not exercising enough, and not getting enough sleep. Eating fast food might be convenient, but it usually contains a lot of fat, sugar, and salt. This can lead to health problems like obesity, heart disease, and diabetes.
+                - generic [ref=e174]: Another unhealthy habit is not exercising regularly. Many people spend too much time sitting in front of the TV or computer. Exercise helps our bodies stay strong and healthy. It also makes our minds feel better and reduces stress.
+                - generic [ref=e175]: Not getting enough sleep is also a problem. When we don’t sleep well, we feel tired and can’t concentrate. Sleep helps our bodies repair and grow. Some people sleep for only 5-6 hours a night. That is not enough. Adults should try to get at least 7-8 hours of sleep each night.
+                - generic [ref=e176]: Changing unhealthy habits can be hard, but small steps can make a big difference. Try to eat more fruits and vegetables, walk or exercise for at least 30 minutes a day, and set a regular bedtime. Making these changes can lead to a healthier and happier life.
+          - generic [ref=e178]:
+            - list [ref=e182]:
+              - listitem [ref=e183]: Many people are aware of their unhealthy habits
+            - list [ref=e187]:
+              - listitem [ref=e188]: Eating fast food is often unhealthy due to its high fat, sugar, and salt content
+            - list [ref=e192]:
+              - listitem [ref=e193]: Regular exercise can help improve both physical and mental health
+            - list [ref=e197]:
+              - listitem [ref=e198]: Adults should aim for 5-6 hours of sleep
+      - generic [ref=e200]:
+        - heading "Правильный ответ" [level=1] [ref=e201]
+        - generic [ref=e204]:
+          - generic [ref=e205]:
+            - generic [ref=e206]:
+              - img [ref=e210]
+              - heading "Read the text and choose the true statements. Прочитай текст и выбери верные утверждения." [level=4] [ref=e212]:
+                - generic [ref=e214]: Read the text and choose the true statements. Прочитай текст и выбери верные утверждения.
+            - generic [ref=e216]:
+              - img "decore" [ref=e219]
+              - generic [ref=e224]:
+                - generic [ref=e225]: Many people have unhealthy habits without even noticing them. Some common unhealthy habits include eating too much junk food, not exercising enough, and not getting enough sleep. Eating fast food might be convenient, but it usually contains a lot of fat, sugar, and salt. This can lead to health problems like obesity, heart disease, and diabetes.
+                - generic [ref=e226]: Another unhealthy habit is not exercising regularly. Many people spend too much time sitting in front of the TV or computer. Exercise helps our bodies stay strong and healthy. It also makes our minds feel better and reduces stress.
+                - generic [ref=e227]: Not getting enough sleep is also a problem. When we don’t sleep well, we feel tired and can’t concentrate. Sleep helps our bodies repair and grow. Some people sleep for only 5-6 hours a night. That is not enough. Adults should try to get at least 7-8 hours of sleep each night.
+                - generic [ref=e228]: Changing unhealthy habits can be hard, but small steps can make a big difference. Try to eat more fruits and vegetables, walk or exercise for at least 30 minutes a day, and set a regular bedtime. Making these changes can lead to a healthier and happier life.
+          - generic [ref=e230]:
+            - list [ref=e234]:
+              - listitem [ref=e235]: Many people are aware of their unhealthy habits
+            - list [ref=e239]:
+              - listitem [ref=e240]: Eating fast food is often unhealthy due to its high fat, sugar, and salt content
+            - list [ref=e244]:
+              - listitem [ref=e245]: Regular exercise can help improve both physical and mental health
+            - list [ref=e249]:
+              - listitem [ref=e250]: Adults should aim for 5-6 hours of sleep
+      - button "Продолжить решение" [ref=e253] [cursor=pointer]:
+        - generic [ref=e254] [cursor=pointer]: Продолжить решение
+        - img [ref=e257] [cursor=pointer]
+```

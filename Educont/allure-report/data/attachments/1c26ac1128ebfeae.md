@@ -1,0 +1,88 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e23]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e32]:
+            - generic [ref=e34]:
+              - img [ref=e38]
+              - heading "Отметь текст." [level=4] [ref=e40]:
+                - generic [ref=e42]: Отметь текст.
+            - img "decore" [ref=e47]
+            - generic [ref=e51]:
+              - generic [ref=e55] [cursor=pointer]: Заяц спустился к реке. Река медленно уводила за поворот тяжёлую, тёмную воду. Заяц встал столбиком и пошевелил ушами.
+              - generic [ref=e59] [cursor=pointer]: Цветик-семицветик, царевна-лягушка.
+              - generic [ref=e63] [cursor=pointer]: Зоопарк открывается утром. Мама работает учителем. Сегодня мы гуляли в парке.
+        - button "2 Показать подсказку" [ref=e71] [cursor=pointer]:
+          - generic [ref=e74] [cursor=pointer]: "2"
+          - generic [ref=e75] [cursor=pointer]: Показать подсказку
+      - generic [ref=e76]:
+        - generic [ref=e79]: Интеллектуальный тренажер
+        - generic [ref=e83]:
+          - generic [ref=e88]: 0%
+          - generic [ref=e90]:
+            - generic [ref=e91]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e93] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e96]:
+          - generic [ref=e98]:
+            - button "Пройти опрос" [ref=e99] [cursor=pointer]:
+              - generic [ref=e101] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e102] [cursor=pointer]:
+              - img [ref=e105] [cursor=pointer]
+              - text: Черновик
+            - button "Информация об уроке" [ref=e109] [cursor=pointer]:
+              - img [ref=e112] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e114]:
+            - generic [ref=e115]:
+              - img [ref=e117]
+              - generic [ref=e119]: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [active] [ref=e120] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e123] [cursor=pointer]
+    - generic [ref=e126]:
+      - generic [ref=e128]:
+        - heading "К сожалению, ошибка" [level=4] [ref=e129]
+        - generic [ref=e130]: Давай разбираться вместе
+      - generic [ref=e132]:
+        - heading "Твой ответ" [level=1] [ref=e133]
+        - generic [ref=e136]:
+          - generic [ref=e137]:
+            - generic [ref=e138]:
+              - img [ref=e142]
+              - heading "Отметь текст." [level=4] [ref=e144]:
+                - generic [ref=e146]: Отметь текст.
+            - img "decore" [ref=e151]
+          - generic [ref=e154]:
+            - generic [ref=e158]: Заяц спустился к реке. Река медленно уводила за поворот тяжёлую, тёмную воду. Заяц встал столбиком и пошевелил ушами.
+            - generic [ref=e162]: Цветик-семицветик, царевна-лягушка.
+            - generic [ref=e166]: Зоопарк открывается утром. Мама работает учителем. Сегодня мы гуляли в парке.
+      - generic [ref=e168]:
+        - heading "Правильный ответ" [level=1] [ref=e169]
+        - generic [ref=e172]:
+          - generic [ref=e173]:
+            - generic [ref=e174]:
+              - img [ref=e178]
+              - heading "Отметь текст." [level=4] [ref=e180]:
+                - generic [ref=e182]: Отметь текст.
+            - img "decore" [ref=e187]
+          - generic [ref=e190]:
+            - generic [ref=e194]: Заяц спустился к реке. Река медленно уводила за поворот тяжёлую, тёмную воду. Заяц встал столбиком и пошевелил ушами.
+            - generic [ref=e198]: Цветик-семицветик, царевна-лягушка.
+            - generic [ref=e202]: Зоопарк открывается утром. Мама работает учителем. Сегодня мы гуляли в парке.
+      - button "Продолжить решение" [ref=e205] [cursor=pointer]:
+        - generic [ref=e206] [cursor=pointer]: Продолжить решение
+        - img [ref=e209] [cursor=pointer]
+```

@@ -1,0 +1,67 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e32]:
+          - generic [ref=e34]:
+            - generic [ref=e35] [cursor=pointer]:
+              - generic:
+                - img
+            - heading "Распредели слова." [level=4] [ref=e36]:
+              - generic [ref=e38]: Распредели слова.
+          - img "decore" [ref=e43]
+          - generic [ref=e45]:
+            - generic [ref=e46]:
+              - generic [ref=e50]: Имена существительные
+              - generic [ref=e55]: Имена прилагательные
+            - generic [ref=e57]:
+              - img [ref=e63] [cursor=pointer]
+              - img [ref=e85] [cursor=pointer]
+              - img [ref=e107] [cursor=pointer]
+              - img [ref=e129] [cursor=pointer]
+              - img [ref=e151] [cursor=pointer]
+              - img [ref=e173] [cursor=pointer]
+              - img [ref=e195] [cursor=pointer]
+              - img [ref=e217] [cursor=pointer]
+              - img [ref=e239] [cursor=pointer]
+              - img [ref=e261] [cursor=pointer]
+      - generic [ref=e285]:
+        - img [ref=e287]
+        - generic [ref=e304]: Загрузка подсказок...
+    - generic [ref=e305]:
+      - generic [ref=e308]: Интеллектуальный тренажер
+      - generic [ref=e312]:
+        - generic [ref=e318]: 20%
+        - generic [ref=e320]:
+          - generic [ref=e321]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e323] [cursor=pointer]: Ввести код от учителя
+      - generic [ref=e326]:
+        - generic [ref=e328]:
+          - button "Пройти опрос" [ref=e329] [cursor=pointer]:
+            - generic [ref=e331] [cursor=pointer]: Пройти опрос
+          - button "Черновик" [ref=e332] [cursor=pointer]:
+            - img [ref=e335] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e339] [cursor=pointer]:
+            - img [ref=e342] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e344]:
+          - generic [ref=e345]:
+            - img [ref=e347]
+            - generic [ref=e349]: Реши задание, прежде чем подтвердить
+          - button "Подтвердить" [active] [ref=e350] [cursor=pointer]:
+            - text: Подтвердить
+            - img [ref=e353] [cursor=pointer]
+```
