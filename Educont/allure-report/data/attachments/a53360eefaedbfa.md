@@ -1,0 +1,112 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e23]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e32]:
+            - generic [ref=e34]:
+              - img [ref=e38]
+              - heading "Выберите верный вариант ответа." [level=4] [ref=e40]:
+                - generic [ref=e42]: Выберите верный вариант ответа.
+            - generic [ref=e44]:
+              - img "decore" [ref=e47]
+              - generic [ref=e53]:
+                - text: Определите метод.
+                - text: Для изучения состава веществ в химии используют экспериментальные методы — анализ и синтез веществ.
+                - text: Из предложенного перечня выбери метод
+                - strong [ref=e54]: анализа
+                - text: состава воды.
+            - generic [ref=e57]:
+              - generic [ref=e61] [cursor=pointer]: Измерение плотности воды
+              - generic [ref=e65] [cursor=pointer]: Гидролиз
+              - generic [ref=e69] [cursor=pointer]: Дистилляция воды
+              - generic [ref=e73] [cursor=pointer]: Электролиз
+        - button "2 Показать подсказку" [ref=e81] [cursor=pointer]:
+          - generic [ref=e84] [cursor=pointer]: "2"
+          - generic [ref=e85] [cursor=pointer]: Показать подсказку
+      - generic [ref=e86]:
+        - generic [ref=e89]: Интеллектуальный тренажер
+        - generic [ref=e93]:
+          - generic [ref=e99]: 9%
+          - generic [ref=e101]:
+            - generic [ref=e102]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e104] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e107]:
+          - generic [ref=e109]:
+            - button "Пройти опрос" [ref=e110] [cursor=pointer]:
+              - generic [ref=e112] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e113] [cursor=pointer]:
+              - img [ref=e116] [cursor=pointer]
+              - text: Черновик
+            - button "Информация об уроке" [ref=e120] [cursor=pointer]:
+              - img [ref=e123] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e125]:
+            - generic [ref=e126]:
+              - img [ref=e128]
+              - generic [ref=e130]: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [active] [ref=e131] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e134] [cursor=pointer]
+    - generic [ref=e137]:
+      - generic [ref=e139]:
+        - heading "К сожалению, ошибка" [level=4] [ref=e140]
+        - generic [ref=e141]: Давай разбираться вместе
+      - generic [ref=e143]:
+        - heading "Твой ответ" [level=1] [ref=e144]
+        - generic [ref=e147]:
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - img [ref=e153]
+              - heading "Выберите верный вариант ответа." [level=4] [ref=e155]:
+                - generic [ref=e157]: Выберите верный вариант ответа.
+            - generic [ref=e159]:
+              - img "decore" [ref=e162]
+              - generic [ref=e168]:
+                - text: Определите метод.
+                - text: Для изучения состава веществ в химии используют экспериментальные методы — анализ и синтез веществ.
+                - text: Из предложенного перечня выбери метод
+                - strong [ref=e169]: анализа
+                - text: состава воды.
+          - generic [ref=e171]:
+            - generic [ref=e175]: Измерение плотности воды
+            - generic [ref=e179]: Гидролиз
+            - generic [ref=e183]: Дистилляция воды
+            - generic [ref=e187]: Электролиз
+      - generic [ref=e189]:
+        - heading "Правильный ответ" [level=1] [ref=e190]
+        - generic [ref=e193]:
+          - generic [ref=e194]:
+            - generic [ref=e195]:
+              - img [ref=e199]
+              - heading "Выберите верный вариант ответа." [level=4] [ref=e201]:
+                - generic [ref=e203]: Выберите верный вариант ответа.
+            - generic [ref=e205]:
+              - img "decore" [ref=e208]
+              - generic [ref=e214]:
+                - text: Определите метод.
+                - text: Для изучения состава веществ в химии используют экспериментальные методы — анализ и синтез веществ.
+                - text: Из предложенного перечня выбери метод
+                - strong [ref=e215]: анализа
+                - text: состава воды.
+          - generic [ref=e217]:
+            - generic [ref=e221]: Измерение плотности воды
+            - generic [ref=e225]: Гидролиз
+            - generic [ref=e229]: Дистилляция воды
+            - generic [ref=e233]: Электролиз
+      - button "Продолжить решение" [ref=e236] [cursor=pointer]:
+        - generic [ref=e237] [cursor=pointer]: Продолжить решение
+        - img [ref=e240] [cursor=pointer]
+```
