@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://beta.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query TeacherClassrooms($teacherId: String) {\n  teacherClassrooms(teacherId: $teacherId) {\n    id\n    name\n    digit\n    grade\n    gradeName\n    schoolShortName\n    schoolUuid\n    students {\n      ...classroomStudentFragment\n    }\n    isEducont\n  }\n}\n\nfragment classroomStudentFragment on ClassroomStudent {\n  id\n  invitationAccepted\n  invitationCode\n  name\n  studentUserId\n  educontUid\n}\n"
+    },
+    "timestap": "04.12.2025, 11:27:59"
+  },
+  {
+    "url": "https://beta.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query ClassroomStudents($classroomId: String!) {\n  classroomStudents(classroomId: $classroomId) {\n    ...classroomStudentFragment\n  }\n}\n\nfragment classroomStudentFragment on ClassroomStudent {\n  id\n  invitationAccepted\n  invitationCode\n  name\n  studentUserId\n  educontUid\n}\n",
+      "variables": {
+        "classroomId": "693145e151dc500007600d6d"
+      }
+    },
+    "timestap": "04.12.2025, 11:28:00"
+  },
+  {
+    "url": "https://beta.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "mutation ClassroomDelete($classroomId: String!) {\n  classroomDelete(classroomId: $classroomId)\n}\n",
+      "variables": {
+        "classroomId": "693145e151dc500007600d6d"
+      }
+    },
+    "timestap": "04.12.2025, 11:28:01"
+  },
+  {
+    "url": "https://beta.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query ClassroomStudents($classroomId: String!) {\n  classroomStudents(classroomId: $classroomId) {\n    ...classroomStudentFragment\n  }\n}\n\nfragment classroomStudentFragment on ClassroomStudent {\n  id\n  invitationAccepted\n  invitationCode\n  name\n  studentUserId\n  educontUid\n}\n",
+      "variables": {
+        "classroomId": "693145ea51dc500007600f77"
+      }
+    },
+    "timestap": "04.12.2025, 11:28:01"
+  },
+  {
+    "url": "https://beta.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query ClassroomStudents($classroomId: String!) {\n  classroomStudents(classroomId: $classroomId) {\n    ...classroomStudentFragment\n  }\n}\n\nfragment classroomStudentFragment on ClassroomStudent {\n  id\n  invitationAccepted\n  invitationCode\n  name\n  studentUserId\n  educontUid\n}\n",
+      "variables": {
+        "classroomId": "693145e151dc500007600d6d"
+      }
+    },
+    "timestap": "04.12.2025, 11:28:02"
+  },
+  {
+    "url": "https://beta.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "mutation ClassroomDelete($classroomId: String!) {\n  classroomDelete(classroomId: $classroomId)\n}\n",
+      "variables": {
+        "classroomId": "693145e151dc500007600d6d"
+      }
+    },
+    "timestap": "04.12.2025, 11:28:02"
+  }
+]
