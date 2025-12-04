@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://beta.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query ParentStudentStatistics($studentId: String) {\n  parentStudentStatistics(studentId: $studentId) {\n    totalNumberOfIncorrectAnswers\n    totalNumberOfSolvedTasks\n    usedTimeInSeconds\n    experience\n    rating\n    level\n    levelName\n    levelGrade\n    levelProgress\n  }\n}\n"
+    },
+    "timestap": "04.12.2025, 15:03:30"
+  }
+]
