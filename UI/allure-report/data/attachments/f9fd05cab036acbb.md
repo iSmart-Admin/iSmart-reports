@@ -1,0 +1,74 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e12]:
+    - generic [ref=e17]:
+      - generic [ref=e20]:
+        - link "Каталог заданий" [ref=e22] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e25] [cursor=pointer]: Каталог заданий
+        - link "Кабинет учителя" [ref=e28] [cursor=pointer]:
+          - /url: /teacher/dashboard
+          - generic [ref=e31] [cursor=pointer]: Кабинет учителя
+        - link "Рейтинг" [ref=e34] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e37] [cursor=pointer]: Рейтинг
+        - link "Помощник" [ref=e40] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e43] [cursor=pointer]: Помощник
+        - link "Школы" [ref=e46] [cursor=pointer]:
+          - /url: /schools
+          - generic [ref=e49] [cursor=pointer]: Школы
+      - generic [ref=e52] [cursor=pointer]:
+        - generic [ref=e56] [cursor=pointer]: А
+        - generic [ref=e57] [cursor=pointer]:
+          - paragraph [ref=e58] [cursor=pointer]: Учитель
+          - paragraph [ref=e59] [cursor=pointer]: АвтотестыУчитель1
+        - img [ref=e61] [cursor=pointer]
+    - generic [ref=e66]:
+      - generic [ref=e67]:
+        - generic [ref=e68]:
+          - button "Ученики и расписание" [ref=e69] [cursor=pointer]:
+            - img [ref=e72] [cursor=pointer]
+            - text: Ученики и расписание
+          - button "Профиль учителя" [ref=e74] [cursor=pointer]:
+            - img [ref=e77] [cursor=pointer]
+            - text: Профиль учителя
+          - button "Чат с учениками" [ref=e79] [cursor=pointer]:
+            - img [ref=e82] [cursor=pointer]
+            - text: Чат с учениками
+          - button "Управление классами" [active] [ref=e84] [cursor=pointer]:
+            - img [ref=e87] [cursor=pointer]
+            - text: Управление классами
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - generic [ref=e91]:
+              - generic [ref=e92]:
+                - img [ref=e93]
+                - generic [ref=e98]: 80%
+              - paragraph [ref=e99]: Ваш профиль еще не заполнен полностью.
+            - button [ref=e100] [cursor=pointer]:
+              - img [ref=e102] [cursor=pointer]
+            - paragraph [ref=e104]: Завершите процесс настройки, чтобы воспользоваться всеми возможностями, которые предлагает платформа.
+            - button "Завершить" [ref=e105] [cursor=pointer]
+          - generic [ref=e106]:
+            - button "Полезная информация" [ref=e107] [cursor=pointer]:
+              - img [ref=e110] [cursor=pointer]
+              - text: Полезная информация
+            - button "Поддержка" [ref=e112] [cursor=pointer]:
+              - img [ref=e115] [cursor=pointer]
+              - text: Поддержка
+      - generic [ref=e119]:
+        - img [ref=e121]
+        - generic [ref=e138]: Загрузка классов...
+  - generic [ref=e139]:
+    - img [ref=e142] [cursor=pointer]
+    - generic [ref=e144]: v.7.10.3
+```
