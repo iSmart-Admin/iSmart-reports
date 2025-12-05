@@ -1,0 +1,239 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e12]:
+    - generic [ref=e17]:
+      - generic [ref=e20]:
+        - link "Каталог заданий" [ref=e22] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e25] [cursor=pointer]: Каталог заданий
+        - link "Кабинет ученика" [ref=e28] [cursor=pointer]:
+          - /url: /student/
+          - generic [ref=e31] [cursor=pointer]: Кабинет ученика
+        - link "Рейтинг" [ref=e34] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e37] [cursor=pointer]: Рейтинг
+        - link "Магазин" [ref=e40] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e43] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e46] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e49] [cursor=pointer]: Помощник
+        - link "Игра" [ref=e52] [cursor=pointer]:
+          - /url: /game
+          - generic [ref=e55] [cursor=pointer]: Игра
+        - link "Хогвартс Хогвартс" [ref=e58] [cursor=pointer]:
+          - /url: /hogwarts
+          - generic [ref=e61] [cursor=pointer]:
+            - img "Хогвартс" [ref=e63] [cursor=pointer]
+            - generic [ref=e64] [cursor=pointer]: Хогвартс
+      - generic [ref=e66]:
+        - generic [ref=e67]:
+          - generic [ref=e70] [cursor=pointer]: "485"
+          - generic [ref=e73]: "457"
+        - generic [ref=e74]:
+          - button [ref=e75] [cursor=pointer]:
+            - img [ref=e77] [cursor=pointer]
+          - img [ref=e82] [cursor=pointer]
+        - generic [ref=e84] [cursor=pointer]:
+          - generic [ref=e87] [cursor=pointer]:
+            - paragraph [ref=e88] [cursor=pointer]: Ученик
+            - paragraph [ref=e89] [cursor=pointer]: h
+          - img [ref=e91] [cursor=pointer]
+    - generic [ref=e95]:
+      - generic [ref=e96]:
+        - generic [ref=e97]:
+          - button [ref=e98] [cursor=pointer]:
+            - img [ref=e100] [cursor=pointer]
+          - generic [ref=e103]:
+            - generic [ref=e104]: Геометрия
+            - generic [ref=e105]: Школьная программа
+        - generic [ref=e109] [cursor=pointer]:
+          - img [ref=e111] [cursor=pointer]
+          - generic [ref=e113] [cursor=pointer]: Нашли ошибку?
+      - generic [ref=e117]:
+        - generic [ref=e118]:
+          - heading "Купить со скидкой" [level=1] [ref=e119]
+          - heading "-70%" [level=1] [ref=e120]
+        - button "В магазин" [ref=e122] [cursor=pointer]:
+          - text: В магазин
+          - img [ref=e125] [cursor=pointer]
+      - generic [ref=e127]:
+        - generic [ref=e131]:
+          - button "7" [ref=e132] [cursor=pointer]:
+            - img [ref=e136] [cursor=pointer]
+            - text: "7"
+          - button "8" [active] [ref=e138]:
+            - img [ref=e142]
+            - text: "8"
+          - button "9" [ref=e144] [cursor=pointer]:
+            - img [ref=e148] [cursor=pointer]
+            - text: "9"
+          - button "10" [ref=e150] [cursor=pointer]:
+            - img [ref=e154] [cursor=pointer]
+            - text: "10"
+          - button "11" [ref=e156] [cursor=pointer]:
+            - img [ref=e160] [cursor=pointer]
+            - text: "11"
+        - generic [ref=e164]:
+          - generic [ref=e165]:
+            - generic [ref=e166] [cursor=pointer]:
+              - generic [ref=e168] [cursor=pointer]: Темы
+              - button [ref=e170] [cursor=pointer]:
+                - img [ref=e172] [cursor=pointer]
+            - generic [ref=e175] [cursor=pointer]:
+              - generic [ref=e176] [cursor=pointer]:
+                - generic [ref=e178] [cursor=pointer]: Четырёхугольники
+                - generic [ref=e182] [cursor=pointer]: 0 %
+              - img [ref=e184] [cursor=pointer]
+            - generic [ref=e186] [cursor=pointer]:
+              - generic [ref=e187] [cursor=pointer]:
+                - generic [ref=e189] [cursor=pointer]: Подобие треугольников
+                - generic [ref=e193] [cursor=pointer]: 0 %
+              - img [ref=e195] [cursor=pointer]
+            - generic [ref=e197] [cursor=pointer]:
+              - generic [ref=e198] [cursor=pointer]:
+                - generic [ref=e200] [cursor=pointer]: Площадь
+                - generic [ref=e204] [cursor=pointer]: 0 %
+              - img [ref=e206] [cursor=pointer]
+            - generic [ref=e208] [cursor=pointer]:
+              - generic [ref=e209] [cursor=pointer]:
+                - generic [ref=e211] [cursor=pointer]: Прямоугольный треугольник
+                - generic [ref=e215] [cursor=pointer]: 0 %
+              - img [ref=e217] [cursor=pointer]
+            - generic [ref=e219] [cursor=pointer]:
+              - generic [ref=e220] [cursor=pointer]:
+                - generic [ref=e222] [cursor=pointer]: Окружность
+                - generic [ref=e226] [cursor=pointer]: 0 %
+              - img [ref=e228] [cursor=pointer]
+          - generic [ref=e234]:
+            - link "1. Классификация простейших геометрических фигур" [ref=e235] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/675f061db028c100075dbc9f/
+              - generic [ref=e236] [cursor=pointer]:
+                - generic [ref=e237] [cursor=pointer]:
+                  - generic [ref=e238] [cursor=pointer]:
+                    - generic [ref=e240] [cursor=pointer]: "1."
+                    - paragraph [ref=e242] [cursor=pointer]: Классификация простейших геометрических фигур
+                  - img [ref=e246] [cursor=pointer]
+                - img [ref=e251] [cursor=pointer]
+            - link "1. Ломаная и её элементы" [ref=e253] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/675f06fcb028c100075dbd1b/
+              - generic [ref=e254] [cursor=pointer]:
+                - generic [ref=e255] [cursor=pointer]:
+                  - generic [ref=e256] [cursor=pointer]:
+                    - generic [ref=e258] [cursor=pointer]: "1."
+                    - paragraph [ref=e260] [cursor=pointer]: Ломаная и её элементы
+                  - img [ref=e264] [cursor=pointer]
+                - img [ref=e269] [cursor=pointer]
+            - link "2. Угол, виды углов. Измерение и сравнение углов" [ref=e271] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/675f0679b028c100075dbccf/
+              - generic [ref=e272] [cursor=pointer]:
+                - generic [ref=e273] [cursor=pointer]:
+                  - generic [ref=e274] [cursor=pointer]:
+                    - generic [ref=e276] [cursor=pointer]: "2."
+                    - paragraph [ref=e278] [cursor=pointer]: Угол, виды углов. Измерение и сравнение углов
+                  - img [ref=e282] [cursor=pointer]
+                - img [ref=e287] [cursor=pointer]
+            - link "2. Понятие многоугольника, периметр" [ref=e289] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/675f0718b028c100075dbd32/
+              - generic [ref=e290] [cursor=pointer]:
+                - generic [ref=e291] [cursor=pointer]:
+                  - generic [ref=e292] [cursor=pointer]:
+                    - generic [ref=e294] [cursor=pointer]: "2."
+                    - paragraph [ref=e296] [cursor=pointer]: Понятие многоугольника, периметр
+                  - img [ref=e300] [cursor=pointer]
+                - img [ref=e305] [cursor=pointer]
+            - link "3. Биссектриса угла" [ref=e307] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/65ff0af8643c050006c52408/
+              - generic [ref=e308] [cursor=pointer]:
+                - generic [ref=e309] [cursor=pointer]:
+                  - generic [ref=e310] [cursor=pointer]:
+                    - generic [ref=e312] [cursor=pointer]: "3."
+                    - paragraph [ref=e314] [cursor=pointer]: Биссектриса угла
+                  - img [ref=e318] [cursor=pointer]
+                - img [ref=e323] [cursor=pointer]
+            - link "4. Смежные углы" [ref=e325] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/65ff0aea643c050006c523d3/
+              - generic [ref=e326] [cursor=pointer]:
+                - generic [ref=e327] [cursor=pointer]:
+                  - generic [ref=e328] [cursor=pointer]:
+                    - generic [ref=e330] [cursor=pointer]: "4."
+                    - paragraph [ref=e332] [cursor=pointer]: Смежные углы
+                  - img [ref=e336] [cursor=pointer]
+                - img [ref=e341] [cursor=pointer]
+            - link "5. Вертикальные углы" [ref=e343] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/65ff0adc643c050006c5235c/
+              - generic [ref=e344] [cursor=pointer]:
+                - generic [ref=e345] [cursor=pointer]:
+                  - generic [ref=e346] [cursor=pointer]:
+                    - generic [ref=e348] [cursor=pointer]: "5."
+                    - paragraph [ref=e350] [cursor=pointer]: Вертикальные углы
+                  - img [ref=e354] [cursor=pointer]
+                - img [ref=e359] [cursor=pointer]
+            - link "6. Паркеты" [ref=e361] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/67bce084b7044b0007b65d04/
+              - generic [ref=e362] [cursor=pointer]:
+                - generic [ref=e364] [cursor=pointer]:
+                  - generic [ref=e366] [cursor=pointer]: "6."
+                  - paragraph [ref=e368] [cursor=pointer]: Паркеты
+                - img [ref=e371] [cursor=pointer]
+    - generic [ref=e374]:
+      - generic [ref=e375]:
+        - generic [ref=e376]:
+          - generic [ref=e380]:
+            - img [ref=e382]
+            - link "8 (800) 600-44-02" [ref=e384] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e385]:
+            - generic [ref=e386]: "@"
+            - link "info@ismart.org" [ref=e387] [cursor=pointer]:
+              - /url: mailto:info@ismart.org
+          - generic [ref=e388]:
+            - img [ref=e390]
+            - generic [ref=e392]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e393]:
+          - link "Наш сайт" [ref=e396] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e398] [cursor=pointer]
+          - generic [ref=e400]:
+            - link "Лицензия" [ref=e402] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Liczenziya_84a663fa84.pdf
+            - link "Политика конфиденциальности" [ref=e404] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/politika-konfidencialnosti
+            - link "Пользовательское соглашение" [ref=e406] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e408] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e410] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e412]:
+        - generic [ref=e413]:
+          - link [ref=e414] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e418] [cursor=pointer]
+          - generic [ref=e421]:
+            - link "okIcon" [ref=e422] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e423] [cursor=pointer]
+            - link "dzenIcon" [ref=e424] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e425] [cursor=pointer]
+            - link "vkIcon" [ref=e426] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e427] [cursor=pointer]
+        - generic [ref=e429]:
+          - generic [ref=e431]: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись №22517 от 14.05.2024.
+          - generic [ref=e432]:
+            - generic [ref=e433]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e434] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e435]: © iSmart, 2018-2025
+```
