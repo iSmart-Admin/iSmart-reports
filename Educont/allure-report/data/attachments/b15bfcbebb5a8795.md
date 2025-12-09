@@ -1,0 +1,72 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - generic [ref=e25]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - button "1" [ref=e35] [cursor=pointer]
+              - button "2" [ref=e38] [cursor=pointer]
+              - button "3" [ref=e41] [cursor=pointer]
+              - button "4" [ref=e44] [cursor=pointer]
+              - button "5" [ref=e47] [cursor=pointer]
+              - button "6" [ref=e50] [cursor=pointer]
+              - button "7" [ref=e53] [cursor=pointer]
+            - generic [ref=e54]:
+              - button [disabled] [ref=e55]:
+                - img [ref=e57]
+              - button [disabled] [ref=e60]:
+                - img [ref=e62]
+        - generic [ref=e65]:
+          - generic [ref=e67]:
+            - img [ref=e71]
+            - heading "Выбери верный вариант ответа." [level=4] [ref=e73]:
+              - generic [ref=e75]: Выбери верный вариант ответа.
+          - generic [ref=e77]:
+            - img "decore" [ref=e80]
+            - generic [ref=e82]:
+              - generic [ref=e86]: Назови термин по его определению.
+              - img "приказ" [ref=e89]
+          - generic [ref=e93]:
+            - generic [ref=e94]: Органы центрального управления в России в конце XV – начале XVIII в., которые имели преимущественно судебную функцию. Некоторые из них контролировали конкретные территории.
+            - generic [ref=e95]:
+              - strong [ref=e96]: "Ответ:"
+              - text: .
+      - button "1 Показать подсказку" [ref=e106] [cursor=pointer]:
+        - generic [ref=e109] [cursor=pointer]: "1"
+        - generic [ref=e110] [cursor=pointer]: Показать подсказку
+    - generic [ref=e111]:
+      - generic [ref=e114]: Интеллектуальный тренажер
+      - generic [ref=e120]:
+        - button "Войти как учитель" [ref=e122] [cursor=pointer]:
+          - img [ref=e125] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e127]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e128]:
+        - generic [ref=e130]:
+          - button "Черновик" [ref=e131] [cursor=pointer]:
+            - img [ref=e134] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e139] [cursor=pointer]:
+            - img [ref=e142] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e144]:
+          - generic [ref=e145]:
+            - img [ref=e147]
+            - generic [ref=e149]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e150] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e153] [cursor=pointer]
+```
