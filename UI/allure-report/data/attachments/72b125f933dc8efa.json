@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://beta.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query limitData {\n  limitData {\n    limitUsage\n    limitMax\n  }\n}\n"
+    },
+    "timestap": "10.12.2025, 14:06:30"
+  }
+]
