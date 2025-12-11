@@ -1,0 +1,66 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e32]:
+          - generic [ref=e34]:
+            - img [ref=e38]
+            - heading "Прочитайте текст и ответьте на вопрос." [level=4] [ref=e40]:
+              - generic [ref=e42]: Прочитайте текст и ответьте на вопрос.
+          - generic [ref=e44]:
+            - img "decore" [ref=e47]
+            - generic [ref=e49]:
+              - heading "Ребята решили отыскать самый лучший дом. Оказалось — не так просто решить, какой дом лучше всех других." [level=3] [ref=e51]
+              - heading "Самое большое гнездо у орла. Оно сделано из толстых сучьев и помещается на громадной толстой сосне. Самое маленькое гнездо у желтоголового королька. У него весь дом с кулачок, да и сам-то он ростом меньше стрекозы." [level=3] [ref=e52]
+              - heading "Самый хитрый дом у крота. У него столько запасных ходов и выходов, что никак его не накроешь в его подземной норе." [level=3] [ref=e53]
+              - heading "Самый красивый домик у пеночки-пересмешки. Она свила себе гнёздышко на берёзовой ветке, убрала его лишайником и лёгкой берёзовой кожуркой и вплела для украшения кусочки разноцветной бумаги, что валялись в саду какой-то дачи." [level=3] [ref=e54]
+              - heading "(В. Бианки)" [level=4] [ref=e56]:
+                - emphasis [ref=e57]: (В. Бианки)
+              - separator [ref=e58]
+              - heading "Почему, по мнению автора, у крота самый хитрый дом?" [level=3] [ref=e59]:
+                - strong [ref=e60]: Почему, по мнению автора, у крота самый хитрый дом?
+          - generic [ref=e63]:
+            - generic [ref=e67] [cursor=pointer]: Дом крота сделан из толстых сучьев.
+            - generic [ref=e71] [cursor=pointer]: Дом крота имеет много запасных ходов и выходов.
+            - generic [ref=e75] [cursor=pointer]: Дом крота самый красивый.
+            - generic [ref=e79] [cursor=pointer]: Самый хитрый дом у орла.
+      - button "2 Показать подсказку" [ref=e87] [cursor=pointer]:
+        - generic [ref=e90] [cursor=pointer]: "2"
+        - generic [ref=e91] [cursor=pointer]: Показать подсказку
+    - generic [ref=e92]:
+      - generic [ref=e95]: Интеллектуальный тренажер
+      - generic [ref=e99]:
+        - generic [ref=e105]: 90%
+        - generic [ref=e107]:
+          - generic [ref=e108]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e110] [cursor=pointer]: Ввести код от учителя
+      - generic [ref=e113]:
+        - generic [ref=e115]:
+          - button "Пройти опрос" [ref=e116] [cursor=pointer]:
+            - generic [ref=e118] [cursor=pointer]: Пройти опрос
+          - button "Черновик" [ref=e119] [cursor=pointer]:
+            - img [ref=e122] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e126] [cursor=pointer]:
+            - img [ref=e129] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - img [ref=e134]
+            - generic [ref=e136]: Реши задание, прежде чем подтвердить
+          - button "Подтвердить" [active] [ref=e137] [cursor=pointer]:
+            - text: Подтвердить
+            - img [ref=e140] [cursor=pointer]
+```

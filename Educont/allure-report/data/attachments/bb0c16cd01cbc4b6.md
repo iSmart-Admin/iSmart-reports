@@ -1,0 +1,60 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e32]:
+          - generic [ref=e34]:
+            - img [ref=e38]
+            - heading "Распредели слова." [level=4] [ref=e40]:
+              - generic [ref=e42]: Распредели слова.
+          - img "decore" [ref=e47]
+          - generic [ref=e49]:
+            - generic [ref=e50]:
+              - generic [ref=e54]: Самостоятельные части речи
+              - generic [ref=e59]: Служебные части речи
+            - generic [ref=e61]:
+              - generic [ref=e66] [cursor=pointer]: ласковый
+              - generic [ref=e71] [cursor=pointer]: но
+              - generic [ref=e76] [cursor=pointer]: ловить
+              - generic [ref=e81] [cursor=pointer]: светофор
+              - generic [ref=e86] [cursor=pointer]: при
+      - button "2 Показать подсказку" [ref=e94] [cursor=pointer]:
+        - generic [ref=e97] [cursor=pointer]: "2"
+        - generic [ref=e98] [cursor=pointer]: Показать подсказку
+    - generic [ref=e99]:
+      - generic [ref=e102]: Интеллектуальный тренажер
+      - generic [ref=e106]:
+        - generic [ref=e112]: 90%
+        - generic [ref=e114]:
+          - generic [ref=e115]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e117] [cursor=pointer]: Ввести код от учителя
+      - generic [ref=e120]:
+        - generic [ref=e122]:
+          - button "Пройти опрос" [ref=e123] [cursor=pointer]:
+            - generic [ref=e125] [cursor=pointer]: Пройти опрос
+          - button "Черновик" [ref=e126] [cursor=pointer]:
+            - img [ref=e129] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e133] [cursor=pointer]:
+            - img [ref=e136] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e138]:
+          - generic [ref=e139]:
+            - img [ref=e141]
+            - generic [ref=e143]: Реши задание, прежде чем подтвердить
+          - button "Подтвердить" [active] [ref=e144] [cursor=pointer]:
+            - text: Подтвердить
+            - img [ref=e147] [cursor=pointer]
+```
