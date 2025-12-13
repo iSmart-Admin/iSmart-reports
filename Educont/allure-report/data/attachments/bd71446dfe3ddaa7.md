@@ -1,0 +1,128 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - generic [ref=e25]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - button "1" [ref=e35] [cursor=pointer]
+              - button "2" [ref=e38] [cursor=pointer]
+              - button "3" [ref=e41] [cursor=pointer]
+            - generic [ref=e42]:
+              - button [disabled] [ref=e43]:
+                - img [ref=e45]
+              - button [disabled] [ref=e48]:
+                - img [ref=e50]
+        - generic [ref=e53]:
+          - generic [ref=e55]:
+            - img [ref=e59]
+            - heading "Внеси числовой ответ в специально предназначенное поле." [level=4] [ref=e61]:
+              - generic [ref=e63]: Внеси числовой ответ в специально предназначенное поле.
+          - generic [ref=e65]:
+            - img "decore" [ref=e68]
+            - generic [ref=e74]:
+              - text: Определи электрическое сопротивление провода длиной
+              - generic [ref=e76]:
+                - math [ref=e78]:
+                  - generic [ref=e80]:
+                    - generic [ref=e81]: "50"
+                    - generic [ref=e82]: м
+                - generic [ref=e84]:
+                  - generic [ref=e85]: "50"
+                  - generic [ref=e87]: м
+              - text: с площадью поперечного сечения
+              - generic [ref=e89]:
+                - math [ref=e91]:
+                  - generic [ref=e93]:
+                    - generic [ref=e94]: "1"
+                    - generic [ref=e95]: м
+                    - generic [ref=e96]:
+                      - generic [ref=e97]: м
+                      - generic [ref=e98]: "2"
+                - generic [ref=e100]:
+                  - generic [ref=e101]: "1"
+                  - generic [ref=e103]: м
+                  - generic [ref=e104]:
+                    - generic [ref=e105]: м
+                    - generic [ref=e111]: "2"
+              - text: . Удельное сопротивление проволоки
+              - generic [ref=e113]:
+                - math [ref=e115]:
+                  - generic [ref=e117]:
+                    - generic [ref=e118]: ρ
+                    - generic [ref=e119]: =
+                    - generic [ref=e120]: "0"
+                    - generic [ref=e121]: ","
+                    - generic [ref=e122]: "17"
+                - generic [ref=e123]:
+                  - generic [ref=e124]:
+                    - generic [ref=e125]: ρ
+                    - generic [ref=e126]: =
+                  - generic [ref=e127]:
+                    - generic [ref=e128]: "0"
+                    - generic [ref=e129]: ","
+                    - generic [ref=e130]: "17"
+              - generic [ref=e132]:
+                - math [ref=e134]:
+                  - generic [ref=e138]:
+                    - generic [ref=e139]:
+                      - generic [ref=e140]: Ом
+                      - generic [ref=e141]: ⋅
+                      - generic [ref=e142]: м
+                      - generic [ref=e143]:
+                        - generic [ref=e144]: м
+                        - generic [ref=e145]: "2"
+                    - generic [ref=e146]: м
+                - generic [ref=e153]:
+                  - generic [ref=e155]: м
+                  - generic [ref=e157]:
+                    - generic [ref=e158]: Ом
+                    - generic [ref=e159]: ⋅
+                    - generic [ref=e160]: м
+                    - generic [ref=e161]:
+                      - generic [ref=e162]: м
+                      - generic [ref=e168]: "2"
+              - text: .
+          - generic [ref=e176]:
+            - strong [ref=e177]: "Ответ:"
+            - text: электрическое сопротивление провода
+            - textbox [active] [ref=e178]
+            - text: Ом.
+      - button "2 Показать подсказку" [ref=e187] [cursor=pointer]:
+        - generic [ref=e190] [cursor=pointer]: "2"
+        - generic [ref=e191] [cursor=pointer]: Показать подсказку
+    - generic [ref=e192]:
+      - generic [ref=e195]: Интеллектуальный тренажер
+      - generic [ref=e201]:
+        - button "Войти как учитель" [ref=e203] [cursor=pointer]:
+          - img [ref=e206] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e208]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e209]:
+        - generic [ref=e211]:
+          - button "Черновик" [ref=e212] [cursor=pointer]:
+            - img [ref=e215] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e220] [cursor=pointer]:
+            - img [ref=e223] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e225]:
+          - generic [ref=e226]:
+            - img [ref=e228]
+            - generic [ref=e230]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e231] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e234] [cursor=pointer]
+```

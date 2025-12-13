@@ -1,0 +1,60 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e32]:
+          - generic [ref=e34]:
+            - generic [ref=e35] [cursor=pointer]:
+              - generic:
+                - img
+            - heading "Нажми на лишнее слово." [level=4] [ref=e36]:
+              - generic [ref=e38]:
+                - text: Нажми на
+                - strong [ref=e39]: лишнее
+                - text: слово.
+          - img "decore" [ref=e44]
+          - generic [ref=e48]:
+            - generic [ref=e52] [cursor=pointer]: прилежный
+            - generic [ref=e56] [cursor=pointer]: богатый
+            - generic [ref=e60] [cursor=pointer]: трудолюбивый
+            - generic [ref=e64] [cursor=pointer]: старательный
+      - button "2 Показать подсказку" [ref=e72] [cursor=pointer]:
+        - generic [ref=e75] [cursor=pointer]: "2"
+        - generic [ref=e76] [cursor=pointer]: Показать подсказку
+    - generic [ref=e77]:
+      - generic [ref=e80]: Интеллектуальный тренажер
+      - generic [ref=e84]:
+        - generic [ref=e90]: 20%
+        - generic [ref=e92]:
+          - generic [ref=e93]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e95] [cursor=pointer]: Ввести код от учителя
+      - generic [ref=e98]:
+        - generic [ref=e100]:
+          - button "Пройти опрос" [ref=e101] [cursor=pointer]:
+            - generic [ref=e103] [cursor=pointer]: Пройти опрос
+          - button "Черновик" [ref=e104] [cursor=pointer]:
+            - img [ref=e107] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e111] [cursor=pointer]:
+            - img [ref=e114] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e116]:
+          - generic [ref=e117]:
+            - img [ref=e119]
+            - generic [ref=e121]: Реши задание, прежде чем подтвердить
+          - button "Подтвердить" [active] [ref=e122] [cursor=pointer]:
+            - text: Подтвердить
+            - img [ref=e125] [cursor=pointer]
+```
