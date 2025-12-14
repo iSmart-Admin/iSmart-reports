@@ -1,0 +1,130 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e32]:
+          - generic [ref=e34]:
+            - img [ref=e38]
+            - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e40]:
+              - generic [ref=e42]: Внеси ответ в специально предназначенное поле.
+          - generic [ref=e44]:
+            - img "decore" [ref=e47]
+            - generic [ref=e53]:
+              - text: В стальной котел массой
+              - generic [ref=e55]:
+                - math [ref=e57]:
+                  - generic [ref=e59]:
+                    - generic [ref=e60]: "5"
+                    - generic [ref=e61]: кг
+                - generic [ref=e63]:
+                  - generic [ref=e64]: "5"
+                  - generic [ref=e65]: кг
+              - text: налита вода массой
+              - generic [ref=e67]:
+                - math [ref=e69]:
+                  - generic [ref=e71]:
+                    - generic [ref=e72]: "3"
+                    - generic [ref=e73]: кг
+                - generic [ref=e75]:
+                  - generic [ref=e76]: "3"
+                  - generic [ref=e77]: кг
+              - text: . Какое количество теплоты необходимо передать котлу для изменения их температуры от
+              - generic [ref=e79]:
+                - math [ref=e81]:
+                  - generic [ref=e84]: "10"
+                - generic [ref=e87]: "10"
+              - text: до
+              - generic [ref=e89]:
+                - math [ref=e91]:
+                  - generic [ref=e93]:
+                    - generic [ref=e94]: "100"
+                    - generic [ref=e95]: °
+                    - generic [ref=e96]: С
+                - generic [ref=e98]:
+                  - generic [ref=e99]: "100"
+                  - generic [ref=e100]: °
+                  - generic [ref=e101]: С
+              - text: "?"
+              - text: "Удельная теплоёмкость стали:"
+              - generic [ref=e103]:
+                - math [ref=e105]:
+                  - generic [ref=e107]:
+                    - generic [ref=e108]: "500"
+                    - generic [ref=e109]: Дж
+                    - generic [ref=e110]: /
+                    - generic [ref=e111]: кг
+                - generic [ref=e113]:
+                  - generic [ref=e114]: "500"
+                  - generic [ref=e115]: Дж
+                  - generic [ref=e116]: /
+                  - generic [ref=e117]: кг
+              - text: .
+              - text: "Удельная теплоёмкость воды:"
+              - generic [ref=e119]:
+                - math [ref=e121]:
+                  - generic [ref=e123]:
+                    - generic [ref=e124]: "4200"
+                    - generic [ref=e125]: Дж
+                    - generic [ref=e126]: /
+                    - generic [ref=e127]: (
+                    - generic [ref=e128]: кг
+                    - generic [ref=e129]: ⋅
+                    - generic [ref=e130]: °
+                    - generic [ref=e131]: С
+                    - generic [ref=e132]: )
+                - generic [ref=e134]:
+                  - generic [ref=e135]: "4200"
+                  - generic [ref=e136]: Дж
+                  - generic [ref=e137]: /
+                  - generic [ref=e138]: (
+                  - generic [ref=e139]: кг
+                  - generic [ref=e141]: ⋅
+                  - generic [ref=e142]: °
+                  - generic [ref=e143]: С
+                  - generic [ref=e144]: )
+              - text: .
+          - generic [ref=e149]:
+            - strong [ref=e150]: "Ответ:"
+            - text: котлу необходимо передать
+            - textbox [active] [ref=e151]
+            - text: кДж.
+      - button "2 Показать подсказку" [ref=e160] [cursor=pointer]:
+        - generic [ref=e163] [cursor=pointer]: "2"
+        - generic [ref=e164] [cursor=pointer]: Показать подсказку
+    - generic [ref=e165]:
+      - generic [ref=e168]: Интеллектуальный тренажер
+      - generic [ref=e172]:
+        - generic [ref=e178]: 17%
+        - generic [ref=e180]:
+          - generic [ref=e181]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e183] [cursor=pointer]: Ввести код от учителя
+      - generic [ref=e186]:
+        - generic [ref=e188]:
+          - button "Пройти опрос" [ref=e189] [cursor=pointer]:
+            - generic [ref=e191] [cursor=pointer]: Пройти опрос
+          - button "Черновик" [ref=e192] [cursor=pointer]:
+            - img [ref=e195] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e199] [cursor=pointer]:
+            - img [ref=e202] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e204]:
+          - generic [ref=e205]:
+            - img [ref=e207]
+            - generic [ref=e209]: Реши задание, прежде чем подтвердить
+          - button "Подтвердить" [ref=e210] [cursor=pointer]:
+            - text: Подтвердить
+            - img [ref=e213] [cursor=pointer]
+```

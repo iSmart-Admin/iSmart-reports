@@ -1,0 +1,53 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e32]:
+          - generic [ref=e34]:
+            - img [ref=e38]
+            - heading "Нажми на пару антонимов." [level=4] [ref=e40]:
+              - generic [ref=e42]: Нажми на пару антонимов.
+          - img "decore" [ref=e47]
+          - generic [ref=e51]:
+            - generic [ref=e55] [cursor=pointer]: громкий – тихий
+            - generic [ref=e59] [cursor=pointer]: старый – пожилой
+      - button "2 Показать подсказку" [ref=e67] [cursor=pointer]:
+        - generic [ref=e70] [cursor=pointer]: "2"
+        - generic [ref=e71] [cursor=pointer]: Показать подсказку
+    - generic [ref=e72]:
+      - generic [ref=e75]: Интеллектуальный тренажер
+      - generic [ref=e79]:
+        - generic [ref=e85]: 20%
+        - generic [ref=e87]:
+          - generic [ref=e88]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e90] [cursor=pointer]: Ввести код от учителя
+      - generic [ref=e93]:
+        - generic [ref=e95]:
+          - button "Пройти опрос" [ref=e96] [cursor=pointer]:
+            - generic [ref=e98] [cursor=pointer]: Пройти опрос
+          - button "Черновик" [ref=e99] [cursor=pointer]:
+            - img [ref=e102] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e106] [cursor=pointer]:
+            - img [ref=e109] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e111]:
+          - generic [ref=e112]:
+            - img [ref=e114]
+            - generic [ref=e116]: Реши задание, прежде чем подтвердить
+          - button "Подтвердить" [active] [ref=e117] [cursor=pointer]:
+            - text: Подтвердить
+            - img [ref=e120] [cursor=pointer]
+```
