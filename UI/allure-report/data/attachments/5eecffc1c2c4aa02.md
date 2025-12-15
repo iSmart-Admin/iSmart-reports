@@ -1,0 +1,113 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img "Cookie consent" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - text: Данный сайт использует файлы cookies. Часть из них обязательны с технической точки зрения и не могут быть отключены. Если вы хотите продолжить пользоваться сайтом, то вы соглашаетесь с их обработкой. Часть файлов cookies осуществляет сбор аналитической информации для улучшения сайта и формирования индивидуальных предложений. Вы можете согласиться с их сбором или отказаться. Подробнее об обработке cookies вы можете узнать в
+          - link "Политике обработки" [ref=e9] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - text: персональных данных. Изменить настройки обработки cookies вы всегда можете в своем браузере.
+        - generic [ref=e10]:
+          - button "Обработка только необходимых cookies" [ref=e11] [cursor=pointer]
+          - button "Обработка всех cookies" [ref=e12] [cursor=pointer]
+    - generic [ref=e18]:
+      - button "Вернуться обратно" [ref=e20] [cursor=pointer]:
+        - img [ref=e23] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]: курс
+          - heading "Программирование на языке Python" [level=1] [ref=e30]
+        - button "Войти как учитель" [ref=e31] [cursor=pointer]:
+          - img [ref=e34] [cursor=pointer]
+          - generic [ref=e36] [cursor=pointer]: Войти как учитель
+      - generic [ref=e38]:
+        - generic [ref=e40]:
+          - button "Типы данных. Переменные":
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - generic: Типы данных. Переменные
+          - button "Строки" [ref=e41] [cursor=pointer]:
+            - generic [ref=e43] [cursor=pointer]:
+              - img [ref=e45] [cursor=pointer]
+              - generic [ref=e47] [cursor=pointer]: Строки
+          - button "Условный оператор" [ref=e48] [cursor=pointer]:
+            - generic [ref=e50] [cursor=pointer]:
+              - img [ref=e52] [cursor=pointer]
+              - generic [ref=e54] [cursor=pointer]: Условный оператор
+          - button "Списки" [ref=e55] [cursor=pointer]:
+            - generic [ref=e57] [cursor=pointer]:
+              - img [ref=e59] [cursor=pointer]
+              - generic [ref=e61] [cursor=pointer]: Списки
+          - button "Оператор цикла" [ref=e62] [cursor=pointer]:
+            - generic [ref=e64] [cursor=pointer]:
+              - img [ref=e66] [cursor=pointer]
+              - generic [ref=e68] [cursor=pointer]: Оператор цикла
+          - button "Функции" [ref=e69] [cursor=pointer]:
+            - generic [ref=e71] [cursor=pointer]:
+              - img [ref=e73] [cursor=pointer]
+              - generic [ref=e75] [cursor=pointer]: Функции
+        - generic [ref=e81]:
+          - generic [ref=e82]:
+            - button "Вывод данных" [ref=e83] [cursor=pointer]:
+              - generic [ref=e84] [cursor=pointer]:
+                - generic [ref=e85] [cursor=pointer]:
+                  - img [ref=e87] [cursor=pointer]
+                  - generic [ref=e89] [cursor=pointer]: Вывод данных
+                - img [ref=e93] [cursor=pointer]
+            - button "Переменная" [ref=e95] [cursor=pointer]:
+              - generic [ref=e96] [cursor=pointer]:
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99] [cursor=pointer]
+                  - generic [ref=e101] [cursor=pointer]: Переменная
+                - img [ref=e105] [cursor=pointer]
+            - button "Ввод данных" [ref=e107] [cursor=pointer]:
+              - generic [ref=e108] [cursor=pointer]:
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111] [cursor=pointer]
+                  - generic [ref=e113] [cursor=pointer]: Ввод данных
+                - img [ref=e117] [cursor=pointer]
+            - button "Целые числа" [ref=e119] [cursor=pointer]:
+              - generic [ref=e120] [cursor=pointer]:
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123] [cursor=pointer]
+                  - generic [ref=e125] [cursor=pointer]: Целые числа
+                - img [ref=e129] [cursor=pointer]
+            - button "Целые числа. Анализ цифр числа" [ref=e131] [cursor=pointer]:
+              - generic [ref=e132] [cursor=pointer]:
+                - generic [ref=e133] [cursor=pointer]:
+                  - img [ref=e135] [cursor=pointer]
+                  - generic [ref=e137] [cursor=pointer]: Целые числа. Анализ цифр числа
+                - img [ref=e141] [cursor=pointer]
+            - button "Вещественные числа" [ref=e143] [cursor=pointer]:
+              - generic [ref=e144] [cursor=pointer]:
+                - generic [ref=e145] [cursor=pointer]:
+                  - img [ref=e147] [cursor=pointer]
+                  - generic [ref=e149] [cursor=pointer]: Вещественные числа
+                - img [ref=e153] [cursor=pointer]
+            - button "Итоговый тест" [ref=e155] [cursor=pointer]:
+              - generic [ref=e156] [cursor=pointer]:
+                - generic [ref=e157] [cursor=pointer]:
+                  - img [ref=e159] [cursor=pointer]
+                  - generic [ref=e161] [cursor=pointer]: Итоговый тест
+                - img [ref=e165] [cursor=pointer]
+          - paragraph [ref=e168]: В этом разделе 47 материалов - 19 практик, 21 вопрос, 7 задач по теории.
+  - generic [ref=e177]:
+    - generic [ref=e178]:
+      - generic [ref=e179]:
+        - generic [ref=e182]:
+          - text: "Курс:"
+          - generic [ref=e183]: Программирование на языке Python
+        - button [active] [ref=e184] [cursor=pointer]:
+          - img [ref=e186] [cursor=pointer]
+      - heading "Разбор курса" [level=1] [ref=e195]
+    - generic [ref=e198]:
+      - button "<- Назад" [disabled] [ref=e199]
+      - button "Подробнее о курсе ->" [ref=e200] [cursor=pointer]
+```

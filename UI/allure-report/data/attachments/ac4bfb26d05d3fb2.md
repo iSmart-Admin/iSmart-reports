@@ -1,0 +1,887 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]:
+        - text: Данный сайт использует файлы cookies. Часть из них обязательны с технической точки зрения и не могут быть отключены. Если вы хотите продолжить пользоваться сайтом, то вы соглашаетесь с их обработкой. Часть файлов cookies осуществляет сбор аналитической информации для улучшения сайта и формирования индивидуальных предложений. Вы можете согласиться с их сбором или отказаться. Подробнее об обработке cookies вы можете узнать в
+        - link "Политике обработки" [ref=e9] [cursor=pointer]:
+          - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+        - text: персональных данных. Изменить настройки обработки cookies вы всегда можете в своем браузере.
+      - generic [ref=e10]:
+        - button "Обработка только необходимых cookies" [ref=e11] [cursor=pointer]
+        - button "Обработка всех cookies" [ref=e12] [cursor=pointer]
+  - generic [ref=e14]:
+    - generic [ref=e19]:
+      - generic [ref=e22]:
+        - link "Каталог заданий" [ref=e24] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e27] [cursor=pointer]: Каталог заданий
+        - link "Кабинет ученика" [ref=e30] [cursor=pointer]:
+          - /url: /student/
+          - generic [ref=e33] [cursor=pointer]: Кабинет ученика
+        - link "Рейтинг" [ref=e36] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e39] [cursor=pointer]: Рейтинг
+        - link "Помощник" [ref=e42] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e45] [cursor=pointer]: Помощник
+        - link "Игра" [ref=e48] [cursor=pointer]:
+          - /url: /game
+          - generic [ref=e51] [cursor=pointer]: Игра
+        - link "Хогвартс Хогвартс" [ref=e54] [cursor=pointer]:
+          - /url: /hogwarts
+          - generic [ref=e57] [cursor=pointer]:
+            - img "Хогвартс" [ref=e59] [cursor=pointer]
+            - generic [ref=e60] [cursor=pointer]: Хогвартс
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - generic [ref=e66] [cursor=pointer]: "116"
+          - generic [ref=e69]: "213"
+        - button [ref=e71] [cursor=pointer]:
+          - img [ref=e73] [cursor=pointer]
+        - generic [ref=e75] [cursor=pointer]:
+          - generic [ref=e78] [cursor=pointer]: В
+          - generic [ref=e80] [cursor=pointer]:
+            - paragraph [ref=e81] [cursor=pointer]: Ученик
+            - paragraph [ref=e82] [cursor=pointer]: Валера
+          - img [ref=e84] [cursor=pointer]
+    - generic [ref=e88]:
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - button [ref=e91] [cursor=pointer]:
+            - img [ref=e93] [cursor=pointer]
+          - generic [ref=e96]:
+            - generic [ref=e97]: Русский язык
+            - generic [ref=e99]: Школьная программа
+        - generic [ref=e101]:
+          - button "Методические рекомендации" [ref=e102] [cursor=pointer]
+          - generic [ref=e104] [cursor=pointer]:
+            - img [ref=e106] [cursor=pointer]
+            - generic [ref=e108] [cursor=pointer]: Нашли ошибку?
+      - generic [ref=e112]:
+        - generic [ref=e113]:
+          - heading "Купить со скидкой" [level=1] [ref=e114]
+          - heading "-70%" [level=1] [ref=e115]
+        - button "В магазин" [ref=e117] [cursor=pointer]:
+          - text: В магазин
+          - img [ref=e120] [cursor=pointer]
+      - generic [ref=e122]:
+        - generic [ref=e126]:
+          - button "1" [ref=e127]:
+            - img [ref=e131]
+            - text: "1"
+          - button "2" [ref=e133] [cursor=pointer]:
+            - img [ref=e137] [cursor=pointer]
+            - text: "2"
+          - button "3" [ref=e139] [cursor=pointer]:
+            - img [ref=e142] [cursor=pointer]
+            - text: "3"
+          - button "4" [ref=e144] [cursor=pointer]:
+            - img [ref=e148] [cursor=pointer]
+            - text: "4"
+          - button "5" [ref=e150] [cursor=pointer]:
+            - img [ref=e154] [cursor=pointer]
+            - text: "5"
+          - button "6" [ref=e156] [cursor=pointer]:
+            - img [ref=e160] [cursor=pointer]
+            - text: "6"
+          - button "7" [ref=e162] [cursor=pointer]:
+            - img [ref=e166] [cursor=pointer]
+            - text: "7"
+          - button "8" [ref=e168] [cursor=pointer]:
+            - img [ref=e172] [cursor=pointer]
+            - text: "8"
+          - button "9" [ref=e174] [cursor=pointer]:
+            - img [ref=e178] [cursor=pointer]
+            - text: "9"
+          - button "10" [ref=e180] [cursor=pointer]:
+            - img [ref=e184] [cursor=pointer]
+            - text: "10"
+          - button "11" [ref=e186] [cursor=pointer]:
+            - img [ref=e189] [cursor=pointer]
+            - text: "11"
+        - generic [ref=e193]:
+          - generic [ref=e194]:
+            - generic [ref=e195] [cursor=pointer]:
+              - generic [ref=e197] [cursor=pointer]: Темы
+              - button [ref=e199] [cursor=pointer]:
+                - img [ref=e201] [cursor=pointer]
+            - generic [ref=e204] [cursor=pointer]:
+              - generic [ref=e205] [cursor=pointer]:
+                - generic [ref=e207] [cursor=pointer]: Что мы знаем о звуках и буквах?
+                - generic [ref=e211] [cursor=pointer]: 0 %
+              - img [ref=e213] [cursor=pointer]
+            - generic [ref=e215] [cursor=pointer]:
+              - generic [ref=e216] [cursor=pointer]:
+                - generic [ref=e218] [cursor=pointer]: Что мы знаем о словах?
+                - generic [ref=e222] [cursor=pointer]: 0 %
+              - img [ref=e224] [cursor=pointer]
+            - generic [ref=e226] [cursor=pointer]:
+              - generic [ref=e227] [cursor=pointer]:
+                - generic [ref=e229] [cursor=pointer]: Что мы знаем о предложении?
+                - generic [ref=e233] [cursor=pointer]: 0 %
+              - img [ref=e235] [cursor=pointer]
+            - generic [ref=e237] [cursor=pointer]:
+              - generic [ref=e238] [cursor=pointer]:
+                - generic [ref=e240] [cursor=pointer]: Что мы знаем о правописании слов и предложений?
+                - generic [ref=e244] [cursor=pointer]: 0 %
+              - img [ref=e246] [cursor=pointer]
+            - generic [ref=e248] [cursor=pointer]:
+              - generic [ref=e249] [cursor=pointer]:
+                - generic [ref=e251] [cursor=pointer]: Какой бывает наша речь?
+                - generic [ref=e255] [cursor=pointer]: 0 %
+              - img [ref=e257] [cursor=pointer]
+            - generic [ref=e259] [cursor=pointer]:
+              - generic [ref=e260] [cursor=pointer]:
+                - generic [ref=e262] [cursor=pointer]: Словарные слова
+                - generic [ref=e266] [cursor=pointer]: 0 %
+              - img [ref=e268] [cursor=pointer]
+            - generic [ref=e270] [cursor=pointer]:
+              - generic [ref=e271] [cursor=pointer]:
+                - generic [ref=e273] [cursor=pointer]: Словарные слова (повышенный уровень)
+                - generic [ref=e277] [cursor=pointer]: 0 %
+              - img [ref=e279] [cursor=pointer]
+            - generic [ref=e281] [cursor=pointer]:
+              - generic [ref=e282] [cursor=pointer]:
+                - generic [ref=e284] [cursor=pointer]: Подготовка к Итоговой контрольной работе
+                - generic [ref=e288] [cursor=pointer]: 0 %
+              - img [ref=e290] [cursor=pointer]
+            - generic [ref=e292] [cursor=pointer]:
+              - generic [ref=e293] [cursor=pointer]:
+                - generic [ref=e295] [cursor=pointer]: Подготовка к ВПР
+                - generic [ref=e299] [cursor=pointer]: 0 %
+              - img [ref=e301] [cursor=pointer]
+          - generic [ref=e307]:
+            - link "1. Как обозначаются звуки в схеме слова? (ч. 1)" [ref=e308] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60aa9fc52e31001a4fcdad/
+              - generic [ref=e309] [cursor=pointer]:
+                - generic [ref=e310] [cursor=pointer]:
+                  - generic [ref=e311] [cursor=pointer]:
+                    - generic [ref=e313] [cursor=pointer]: "1."
+                    - paragraph [ref=e315] [cursor=pointer]: Как обозначаются звуки в схеме слова? (ч. 1)
+                  - img [ref=e319] [cursor=pointer]
+                - img [ref=e324] [cursor=pointer]
+            - link "2. Как обозначаются звуки в схеме слова? (ч. 2)" [ref=e326] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60ac35c52e31001a4fcdb9/
+              - generic [ref=e327] [cursor=pointer]:
+                - generic [ref=e328] [cursor=pointer]:
+                  - generic [ref=e329] [cursor=pointer]:
+                    - generic [ref=e331] [cursor=pointer]: "2."
+                    - paragraph [ref=e333] [cursor=pointer]: Как обозначаются звуки в схеме слова? (ч. 2)
+                  - img [ref=e337] [cursor=pointer]
+                - img [ref=e342] [cursor=pointer]
+            - link "3. Как обозначаются звуки на письме? (ч. 1)" [ref=e344] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5cdedde71da9d9001b75ca15/
+              - generic [ref=e345] [cursor=pointer]:
+                - generic [ref=e346] [cursor=pointer]:
+                  - generic [ref=e347] [cursor=pointer]:
+                    - generic [ref=e349] [cursor=pointer]: "3."
+                    - paragraph [ref=e351] [cursor=pointer]: Как обозначаются звуки на письме? (ч. 1)
+                  - img [ref=e355] [cursor=pointer]
+                - img [ref=e360] [cursor=pointer]
+            - link "4. Как обозначаются звуки на письме? (ч. 2)" [ref=e362] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5cdeddfe1959be001ba3ad70/
+              - generic [ref=e363] [cursor=pointer]:
+                - generic [ref=e364] [cursor=pointer]:
+                  - generic [ref=e365] [cursor=pointer]:
+                    - generic [ref=e367] [cursor=pointer]: "4."
+                    - paragraph [ref=e369] [cursor=pointer]: Как обозначаются звуки на письме? (ч. 2)
+                  - img [ref=e373] [cursor=pointer]
+                - img [ref=e378] [cursor=pointer]
+            - link "5. Какие буквы обозначают гласные звуки? (ч. 1)" [ref=e380] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a5f05744fa83b001a3264a0/
+              - generic [ref=e381] [cursor=pointer]:
+                - generic [ref=e382] [cursor=pointer]:
+                  - generic [ref=e383] [cursor=pointer]:
+                    - generic [ref=e385] [cursor=pointer]: "5."
+                    - paragraph [ref=e387] [cursor=pointer]: Какие буквы обозначают гласные звуки? (ч. 1)
+                  - img [ref=e391] [cursor=pointer]
+                - img [ref=e396] [cursor=pointer]
+            - link "6. Какие буквы обозначают гласные звуки? (ч. 2)" [ref=e398] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a5f23b54fa83b001a3264d5/
+              - generic [ref=e399] [cursor=pointer]:
+                - generic [ref=e400] [cursor=pointer]:
+                  - generic [ref=e401] [cursor=pointer]:
+                    - generic [ref=e403] [cursor=pointer]: "6."
+                    - paragraph [ref=e405] [cursor=pointer]: Какие буквы обозначают гласные звуки? (ч. 2)
+                  - img [ref=e409] [cursor=pointer]
+                - img [ref=e414] [cursor=pointer]
+            - 'link "7. Выбери: О или Ё?" [ref=e416] [cursor=pointer]':
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60aeffc52e31001a4fcdce/
+              - generic [ref=e417] [cursor=pointer]:
+                - generic [ref=e418] [cursor=pointer]:
+                  - generic [ref=e419] [cursor=pointer]:
+                    - generic [ref=e421] [cursor=pointer]: "7."
+                    - paragraph [ref=e423] [cursor=pointer]: "Выбери: О или Ё?"
+                  - img [ref=e427] [cursor=pointer]
+                - img [ref=e432] [cursor=pointer]
+            - 'link "8. Выбери: У или Ю?" [ref=e434] [cursor=pointer]':
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60af1fc52e31001a4fcdd0/
+              - generic [ref=e435] [cursor=pointer]:
+                - generic [ref=e436] [cursor=pointer]:
+                  - generic [ref=e437] [cursor=pointer]:
+                    - generic [ref=e439] [cursor=pointer]: "8."
+                    - paragraph [ref=e441] [cursor=pointer]: "Выбери: У или Ю?"
+                  - img [ref=e445] [cursor=pointer]
+                - img [ref=e450] [cursor=pointer]
+            - 'link "9. Выбери: Э или Е?" [ref=e452] [cursor=pointer]':
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60af4ac52e31001a4fcdd2/
+              - generic [ref=e453] [cursor=pointer]:
+                - generic [ref=e454] [cursor=pointer]:
+                  - generic [ref=e455] [cursor=pointer]:
+                    - generic [ref=e457] [cursor=pointer]: "9."
+                    - paragraph [ref=e459] [cursor=pointer]: "Выбери: Э или Е?"
+                  - img [ref=e463] [cursor=pointer]
+                - img [ref=e468] [cursor=pointer]
+            - link "10. Выбери Ы или И?" [ref=e470] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60af66c52e31001a4fcdd4/
+              - generic [ref=e471] [cursor=pointer]:
+                - generic [ref=e472] [cursor=pointer]:
+                  - generic [ref=e473] [cursor=pointer]:
+                    - generic [ref=e475] [cursor=pointer]: "10."
+                    - paragraph [ref=e477] [cursor=pointer]: Выбери Ы или И?
+                  - img [ref=e481] [cursor=pointer]
+                - img [ref=e486] [cursor=pointer]
+            - 'link "11. Выбери: А или Я?" [ref=e488] [cursor=pointer]':
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60aee1c52e31001a4fcdcc/
+              - generic [ref=e489] [cursor=pointer]:
+                - generic [ref=e490] [cursor=pointer]:
+                  - generic [ref=e491] [cursor=pointer]:
+                    - generic [ref=e493] [cursor=pointer]: "11."
+                    - paragraph [ref=e495] [cursor=pointer]: "Выбери: А или Я?"
+                  - img [ref=e499] [cursor=pointer]
+                - img [ref=e504] [cursor=pointer]
+            - link "12. Как влияет гласный звук и буква, которая его обозначает, на лексическое значение слова?" [ref=e506] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/611e3926469664601f19fbbe/
+              - generic [ref=e507] [cursor=pointer]:
+                - generic [ref=e508] [cursor=pointer]:
+                  - generic [ref=e509] [cursor=pointer]:
+                    - generic [ref=e511] [cursor=pointer]: "12."
+                    - paragraph [ref=e513] [cursor=pointer]: Как влияет гласный звук и буква, которая его обозначает, на лексическое значение слова?
+                  - img [ref=e517] [cursor=pointer]
+                - img [ref=e522] [cursor=pointer]
+            - link "13. Как «работают» буквы, обозначающие гласные звуки? (ч. 1)" [ref=e524] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60adcfc52e31001a4fcdbf/
+              - generic [ref=e525] [cursor=pointer]:
+                - generic [ref=e526] [cursor=pointer]:
+                  - generic [ref=e527] [cursor=pointer]:
+                    - generic [ref=e529] [cursor=pointer]: "13."
+                    - paragraph [ref=e531] [cursor=pointer]: Как «работают» буквы, обозначающие гласные звуки? (ч. 1)
+                  - img [ref=e535] [cursor=pointer]
+                - img [ref=e540] [cursor=pointer]
+            - link "14. Как «работают» буквы, обозначающие гласные звуки? (ч. 2)" [ref=e542] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60ade1c52e31001a4fcdc0/
+              - generic [ref=e543] [cursor=pointer]:
+                - generic [ref=e544] [cursor=pointer]:
+                  - generic [ref=e545] [cursor=pointer]:
+                    - generic [ref=e547] [cursor=pointer]: "14."
+                    - paragraph [ref=e549] [cursor=pointer]: Как «работают» буквы, обозначающие гласные звуки? (ч. 2)
+                  - img [ref=e553] [cursor=pointer]
+                - img [ref=e558] [cursor=pointer]
+            - link "15. Как «работают» буквы, обозначающие гласные звуки, после согласных? (ч. 1)" [ref=e560] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60af0fc52e31001a4fcdcf/
+              - generic [ref=e561] [cursor=pointer]:
+                - generic [ref=e562] [cursor=pointer]:
+                  - generic [ref=e563] [cursor=pointer]:
+                    - generic [ref=e565] [cursor=pointer]: "15."
+                    - paragraph [ref=e567] [cursor=pointer]: Как «работают» буквы, обозначающие гласные звуки, после согласных? (ч. 1)
+                  - img [ref=e571] [cursor=pointer]
+                - img [ref=e576] [cursor=pointer]
+            - link "16. Как «работают» буквы, обозначающие гласные звуки, после согласных? (ч. 2)" [ref=e578] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60af39c52e31001a4fcdd1/
+              - generic [ref=e579] [cursor=pointer]:
+                - generic [ref=e580] [cursor=pointer]:
+                  - generic [ref=e581] [cursor=pointer]:
+                    - generic [ref=e583] [cursor=pointer]: "16."
+                    - paragraph [ref=e585] [cursor=pointer]: Как «работают» буквы, обозначающие гласные звуки, после согласных? (ч. 2)
+                  - img [ref=e589] [cursor=pointer]
+                - img [ref=e594] [cursor=pointer]
+            - link "17. Как «работают» буквы, обозначающие гласные звуки, после согласных? (ч. 3)" [ref=e596] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60aef1c52e31001a4fcdcd/
+              - generic [ref=e597] [cursor=pointer]:
+                - generic [ref=e598] [cursor=pointer]:
+                  - generic [ref=e599] [cursor=pointer]:
+                    - generic [ref=e601] [cursor=pointer]: "17."
+                    - paragraph [ref=e603] [cursor=pointer]: Как «работают» буквы, обозначающие гласные звуки, после согласных? (ч. 3)
+                  - img [ref=e607] [cursor=pointer]
+                - img [ref=e612] [cursor=pointer]
+            - link "18. Как «работают» буквы, обозначающие гласные звуки, в начале слова и после гласных? (ч. 1)" [ref=e614] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60af58c52e31001a4fcdd3/
+              - generic [ref=e615] [cursor=pointer]:
+                - generic [ref=e616] [cursor=pointer]:
+                  - generic [ref=e617] [cursor=pointer]:
+                    - generic [ref=e619] [cursor=pointer]: "18."
+                    - paragraph [ref=e621] [cursor=pointer]: Как «работают» буквы, обозначающие гласные звуки, в начале слова и после гласных? (ч. 1)
+                  - img [ref=e625] [cursor=pointer]
+                - img [ref=e630] [cursor=pointer]
+            - link "19. Как «работают» буквы, обозначающие гласные звуки, в начале слова и после гласных? (ч. 2)" [ref=e632] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60af75c52e31001a4fcdd5/
+              - generic [ref=e633] [cursor=pointer]:
+                - generic [ref=e634] [cursor=pointer]:
+                  - generic [ref=e635] [cursor=pointer]:
+                    - generic [ref=e637] [cursor=pointer]: "19."
+                    - paragraph [ref=e639] [cursor=pointer]: Как «работают» буквы, обозначающие гласные звуки, в начале слова и после гласных? (ч. 2)
+                  - img [ref=e643] [cursor=pointer]
+                - img [ref=e648] [cursor=pointer]
+            - link "20. Как «работают» буквы Е, Ё, Ю, Я в начале слова и после гласных?" [ref=e650] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60adf0c52e31001a4fcdc1/
+              - generic [ref=e651] [cursor=pointer]:
+                - generic [ref=e652] [cursor=pointer]:
+                  - generic [ref=e653] [cursor=pointer]:
+                    - generic [ref=e655] [cursor=pointer]: "20."
+                    - paragraph [ref=e657] [cursor=pointer]: Как «работают» буквы Е, Ё, Ю, Я в начале слова и после гласных?
+                  - img [ref=e661] [cursor=pointer]
+                - img [ref=e666] [cursor=pointer]
+            - link "21. Как «работают» буквы Е, Ё, Ю, Я после Ъ и Ь?" [ref=e668] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60ae00c52e31001a4fcdc2/
+              - generic [ref=e669] [cursor=pointer]:
+                - generic [ref=e670] [cursor=pointer]:
+                  - generic [ref=e671] [cursor=pointer]:
+                    - generic [ref=e673] [cursor=pointer]: "21."
+                    - paragraph [ref=e675] [cursor=pointer]: Как «работают» буквы Е, Ё, Ю, Я после Ъ и Ь?
+                  - img [ref=e679] [cursor=pointer]
+                - img [ref=e684] [cursor=pointer]
+            - link "22. Какие «работы» выполняют буквы Е, Ё, Ю, Я?" [ref=e686] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5cdee0c6bad15d001b70b3a4/
+              - generic [ref=e687] [cursor=pointer]:
+                - generic [ref=e688] [cursor=pointer]:
+                  - generic [ref=e689] [cursor=pointer]:
+                    - generic [ref=e691] [cursor=pointer]: "22."
+                    - paragraph [ref=e693] [cursor=pointer]: Какие «работы» выполняют буквы Е, Ё, Ю, Я?
+                  - img [ref=e697] [cursor=pointer]
+                - img [ref=e702] [cursor=pointer]
+            - link "23. Как определить ударный звук в слове? (ч. 1)" [ref=e704] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5b66a4ed08cf21001df9c633/
+              - generic [ref=e705] [cursor=pointer]:
+                - generic [ref=e706] [cursor=pointer]:
+                  - generic [ref=e707] [cursor=pointer]:
+                    - generic [ref=e709] [cursor=pointer]: "23."
+                    - paragraph [ref=e711] [cursor=pointer]: Как определить ударный звук в слове? (ч. 1)
+                  - img [ref=e715] [cursor=pointer]
+                - img [ref=e720] [cursor=pointer]
+            - link "24. Как определить ударный звук в слове? (ч. 2)" [ref=e722] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60abc5c52e31001a4fcdb7/
+              - generic [ref=e723] [cursor=pointer]:
+                - generic [ref=e724] [cursor=pointer]:
+                  - generic [ref=e725] [cursor=pointer]:
+                    - generic [ref=e727] [cursor=pointer]: "24."
+                    - paragraph [ref=e729] [cursor=pointer]: Как определить ударный звук в слове? (ч. 2)
+                  - img [ref=e733] [cursor=pointer]
+                - img [ref=e738] [cursor=pointer]
+            - link "25. Как ударение влияет на лексическое значение слова?" [ref=e740] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60abb6c52e31001a4fcdb5/
+              - generic [ref=e741] [cursor=pointer]:
+                - generic [ref=e742] [cursor=pointer]:
+                  - generic [ref=e743] [cursor=pointer]:
+                    - generic [ref=e745] [cursor=pointer]: "25."
+                    - paragraph [ref=e747] [cursor=pointer]: Как ударение влияет на лексическое значение слова?
+                  - img [ref=e751] [cursor=pointer]
+                - img [ref=e756] [cursor=pointer]
+            - link "26. Когда гласный звук и буква не совпадают?" [ref=e758] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/61f8dde8f13be155d1d0d121/
+              - generic [ref=e759] [cursor=pointer]:
+                - generic [ref=e760] [cursor=pointer]:
+                  - generic [ref=e761] [cursor=pointer]:
+                    - generic [ref=e763] [cursor=pointer]: "26."
+                    - paragraph [ref=e765] [cursor=pointer]: Когда гласный звук и буква не совпадают?
+                  - img [ref=e769] [cursor=pointer]
+                - img [ref=e774] [cursor=pointer]
+            - link "27. Как обозначаются на письме ударные и безударные звуки? (ч. 1)" [ref=e776] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60ab99c52e31001a4fcdb3/
+              - generic [ref=e777] [cursor=pointer]:
+                - generic [ref=e778] [cursor=pointer]:
+                  - generic [ref=e779] [cursor=pointer]:
+                    - generic [ref=e781] [cursor=pointer]: "27."
+                    - paragraph [ref=e783] [cursor=pointer]: Как обозначаются на письме ударные и безударные звуки? (ч. 1)
+                  - img [ref=e787] [cursor=pointer]
+                - img [ref=e792] [cursor=pointer]
+            - link "28. Как обозначаются на письме ударные и безударные звуки? (ч. 2)" [ref=e794] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60aba8c52e31001a4fcdb4/
+              - generic [ref=e795] [cursor=pointer]:
+                - generic [ref=e796] [cursor=pointer]:
+                  - generic [ref=e797] [cursor=pointer]:
+                    - generic [ref=e799] [cursor=pointer]: "28."
+                    - paragraph [ref=e801] [cursor=pointer]: Как обозначаются на письме ударные и безударные звуки? (ч. 2)
+                  - img [ref=e805] [cursor=pointer]
+                - img [ref=e810] [cursor=pointer]
+            - link "29. Как обозначаются на письме ударный и безударный звуки? (ч. 3)" [ref=e812] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5cdede571da9d9001b75ca16/
+              - generic [ref=e813] [cursor=pointer]:
+                - generic [ref=e814] [cursor=pointer]:
+                  - generic [ref=e815] [cursor=pointer]:
+                    - generic [ref=e817] [cursor=pointer]: "29."
+                    - paragraph [ref=e819] [cursor=pointer]: Как обозначаются на письме ударный и безударный звуки? (ч. 3)
+                  - img [ref=e823] [cursor=pointer]
+                - img [ref=e828] [cursor=pointer]
+            - link "30. Как определить количество слогов в слове? (ч. 1)" [ref=e830] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/60f6b4ffe2e65e35932dab32/
+              - generic [ref=e831] [cursor=pointer]:
+                - generic [ref=e832] [cursor=pointer]:
+                  - generic [ref=e833] [cursor=pointer]:
+                    - generic [ref=e835] [cursor=pointer]: "30."
+                    - paragraph [ref=e837] [cursor=pointer]: Как определить количество слогов в слове? (ч. 1)
+                  - img [ref=e841] [cursor=pointer]
+                - img [ref=e846] [cursor=pointer]
+            - link "31. Как определить количество слогов в слове? (ч. 2)" [ref=e848] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/60f6b510e2e65ed2a42dab33/
+              - generic [ref=e849] [cursor=pointer]:
+                - generic [ref=e850] [cursor=pointer]:
+                  - generic [ref=e851] [cursor=pointer]:
+                    - generic [ref=e853] [cursor=pointer]: "31."
+                    - paragraph [ref=e855] [cursor=pointer]: Как определить количество слогов в слове? (ч. 2)
+                  - img [ref=e859] [cursor=pointer]
+                - img [ref=e864] [cursor=pointer]
+            - link "32. Как разделить слова на слоги? (ч. 1)" [ref=e866] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/60f6b53fdb14ee65ab966515/
+              - generic [ref=e867] [cursor=pointer]:
+                - generic [ref=e868] [cursor=pointer]:
+                  - generic [ref=e869] [cursor=pointer]:
+                    - generic [ref=e871] [cursor=pointer]: "32."
+                    - paragraph [ref=e873] [cursor=pointer]: Как разделить слова на слоги? (ч. 1)
+                  - img [ref=e877] [cursor=pointer]
+                - img [ref=e882] [cursor=pointer]
+            - link "33. Как разделить слова на слоги? (ч. 2)" [ref=e884] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/60f6b556e2e65e78f22dab34/
+              - generic [ref=e885] [cursor=pointer]:
+                - generic [ref=e886] [cursor=pointer]:
+                  - generic [ref=e887] [cursor=pointer]:
+                    - generic [ref=e889] [cursor=pointer]: "33."
+                    - paragraph [ref=e891] [cursor=pointer]: Как разделить слова на слоги? (ч. 2)
+                  - img [ref=e895] [cursor=pointer]
+                - img [ref=e900] [cursor=pointer]
+            - link "34. Как разделить слова на слоги? (ч. 3)" [ref=e902] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/60f6b5c4db14eeb77c966516/
+              - generic [ref=e903] [cursor=pointer]:
+                - generic [ref=e904] [cursor=pointer]:
+                  - generic [ref=e905] [cursor=pointer]:
+                    - generic [ref=e907] [cursor=pointer]: "34."
+                    - paragraph [ref=e909] [cursor=pointer]: Как разделить слова на слоги? (ч. 3)
+                  - img [ref=e913] [cursor=pointer]
+                - img [ref=e918] [cursor=pointer]
+            - link "35. Как разделить слова на слоги? (ч. 4)" [ref=e920] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/60f6b5dce2e65e2ad12dab35/
+              - generic [ref=e921] [cursor=pointer]:
+                - generic [ref=e922] [cursor=pointer]:
+                  - generic [ref=e923] [cursor=pointer]:
+                    - generic [ref=e925] [cursor=pointer]: "35."
+                    - paragraph [ref=e927] [cursor=pointer]: Как разделить слова на слоги? (ч. 4)
+                  - img [ref=e931] [cursor=pointer]
+                - img [ref=e936] [cursor=pointer]
+            - link "36. Как разделить на слоги слова с Ъ, Ь, Й?" [ref=e938] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/60f6b5f5828107c629b8ab7d/
+              - generic [ref=e939] [cursor=pointer]:
+                - generic [ref=e940] [cursor=pointer]:
+                  - generic [ref=e941] [cursor=pointer]:
+                    - generic [ref=e943] [cursor=pointer]: "36."
+                    - paragraph [ref=e945] [cursor=pointer]: Как разделить на слоги слова с Ъ, Ь, Й?
+                  - img [ref=e949] [cursor=pointer]
+                - img [ref=e954] [cursor=pointer]
+            - link "37. Как составить слогоударную модель слова?" [ref=e956] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/6128941ddb16cd18fb952635/
+              - generic [ref=e957] [cursor=pointer]:
+                - generic [ref=e958] [cursor=pointer]:
+                  - generic [ref=e959] [cursor=pointer]:
+                    - generic [ref=e961] [cursor=pointer]: "37."
+                    - paragraph [ref=e963] [cursor=pointer]: Как составить слогоударную модель слова?
+                  - img [ref=e967] [cursor=pointer]
+                - img [ref=e972] [cursor=pointer]
+            - link "38. Как определить ударный и безударный слог? (ч. 1)" [ref=e974] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/60f6b84be2e65e1ece2dab3e/
+              - generic [ref=e975] [cursor=pointer]:
+                - generic [ref=e976] [cursor=pointer]:
+                  - generic [ref=e977] [cursor=pointer]:
+                    - generic [ref=e979] [cursor=pointer]: "38."
+                    - paragraph [ref=e981] [cursor=pointer]: Как определить ударный и безударный слог? (ч. 1)
+                  - img [ref=e985] [cursor=pointer]
+                - img [ref=e990] [cursor=pointer]
+            - link "39. Как определить ударный и безударный слог? (ч. 2)" [ref=e992] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/60f6b8608281078bf9b8ab89/
+              - generic [ref=e993] [cursor=pointer]:
+                - generic [ref=e994] [cursor=pointer]:
+                  - generic [ref=e995] [cursor=pointer]:
+                    - generic [ref=e997] [cursor=pointer]: "39."
+                    - paragraph [ref=e999] [cursor=pointer]: Как определить ударный и безударный слог? (ч. 2)
+                  - img [ref=e1003] [cursor=pointer]
+                - img [ref=e1008] [cursor=pointer]
+            - link "40. Как «работают» буквы, обозначающие согласные звуки?" [ref=e1010] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60ba77c52e31001a4fcdd8/
+              - generic [ref=e1011] [cursor=pointer]:
+                - generic [ref=e1012] [cursor=pointer]:
+                  - generic [ref=e1013] [cursor=pointer]:
+                    - generic [ref=e1015] [cursor=pointer]: "40."
+                    - paragraph [ref=e1017] [cursor=pointer]: Как «работают» буквы, обозначающие согласные звуки?
+                  - img [ref=e1021] [cursor=pointer]
+                - img [ref=e1026] [cursor=pointer]
+            - link "41. Как влияет согласный звук и буква, которая его обозначает, на лексическое значение слова?" [ref=e1028] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/62037850d9db9e72f23031f2/
+              - generic [ref=e1029] [cursor=pointer]:
+                - generic [ref=e1030] [cursor=pointer]:
+                  - generic [ref=e1031] [cursor=pointer]:
+                    - generic [ref=e1033] [cursor=pointer]: "41."
+                    - paragraph [ref=e1035] [cursor=pointer]: Как влияет согласный звук и буква, которая его обозначает, на лексическое значение слова?
+                  - img [ref=e1039] [cursor=pointer]
+                - img [ref=e1044] [cursor=pointer]
+            - 'link "42. Как обозначается звук [й`] на письме?" [ref=e1046] [cursor=pointer]':
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/62061357b3b29c7c25488987/
+              - generic [ref=e1047] [cursor=pointer]:
+                - generic [ref=e1048] [cursor=pointer]:
+                  - generic [ref=e1049] [cursor=pointer]:
+                    - generic [ref=e1051] [cursor=pointer]: "42."
+                    - paragraph [ref=e1053] [cursor=pointer]: "Как обозначается звук [й`] на письме?"
+                  - img [ref=e1057] [cursor=pointer]
+                - img [ref=e1062] [cursor=pointer]
+            - 'link "43. Выбери: И или Й?" [ref=e1064] [cursor=pointer]':
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60bc1dc52e31001a4fcdf5/
+              - generic [ref=e1065] [cursor=pointer]:
+                - generic [ref=e1066] [cursor=pointer]:
+                  - generic [ref=e1067] [cursor=pointer]:
+                    - generic [ref=e1069] [cursor=pointer]: "43."
+                    - paragraph [ref=e1071] [cursor=pointer]: "Выбери: И или Й?"
+                  - img [ref=e1075] [cursor=pointer]
+                - img [ref=e1080] [cursor=pointer]
+            - link "44. Как обозначаются на письме твёрдые и мягкие согласные звуки? (ч. 1)" [ref=e1082] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60ba88c52e31001a4fcdd9/
+              - generic [ref=e1083] [cursor=pointer]:
+                - generic [ref=e1084] [cursor=pointer]:
+                  - generic [ref=e1085] [cursor=pointer]:
+                    - generic [ref=e1087] [cursor=pointer]: "44."
+                    - paragraph [ref=e1089] [cursor=pointer]: Как обозначаются на письме твёрдые и мягкие согласные звуки? (ч. 1)
+                  - img [ref=e1093] [cursor=pointer]
+                - img [ref=e1098] [cursor=pointer]
+            - link "45. Как обозначаются на письме твёрдые и мягкие согласные? (ч. 2)" [ref=e1100] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a5c6afde46b60001a00b783/
+              - generic [ref=e1101] [cursor=pointer]:
+                - generic [ref=e1102] [cursor=pointer]:
+                  - generic [ref=e1103] [cursor=pointer]:
+                    - generic [ref=e1105] [cursor=pointer]: "45."
+                    - paragraph [ref=e1107] [cursor=pointer]: Как обозначаются на письме твёрдые и мягкие согласные? (ч. 2)
+                  - img [ref=e1111] [cursor=pointer]
+                - img [ref=e1116] [cursor=pointer]
+            - link "46. Как обозначаются на письме твёрдые и мягкие согласные звуки?" [ref=e1118] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60bab5c52e31001a4fcddc/
+              - generic [ref=e1119] [cursor=pointer]:
+                - generic [ref=e1120] [cursor=pointer]:
+                  - generic [ref=e1121] [cursor=pointer]:
+                    - generic [ref=e1123] [cursor=pointer]: "46."
+                    - paragraph [ref=e1125] [cursor=pointer]: Как обозначаются на письме твёрдые и мягкие согласные звуки?
+                  - img [ref=e1129] [cursor=pointer]
+                - img [ref=e1134] [cursor=pointer]
+            - link "47. Какие буквы обозначают твёрдые или мягкие согласные звуки?" [ref=e1136] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5cdee0b01da9d9001b75ca19/
+              - generic [ref=e1137] [cursor=pointer]:
+                - generic [ref=e1138] [cursor=pointer]:
+                  - generic [ref=e1139] [cursor=pointer]:
+                    - generic [ref=e1141] [cursor=pointer]: "47."
+                    - paragraph [ref=e1143] [cursor=pointer]: Какие буквы обозначают твёрдые или мягкие согласные звуки?
+                  - img [ref=e1147] [cursor=pointer]
+                - img [ref=e1152] [cursor=pointer]
+            - link "48. Какие согласные звуки образуют пары по твёрдости-мягкости?" [ref=e1154] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60bac2c52e31001a4fcddd/
+              - generic [ref=e1155] [cursor=pointer]:
+                - generic [ref=e1156] [cursor=pointer]:
+                  - generic [ref=e1157] [cursor=pointer]:
+                    - generic [ref=e1159] [cursor=pointer]: "48."
+                    - paragraph [ref=e1161] [cursor=pointer]: Какие согласные звуки образуют пары по твёрдости-мягкости?
+                  - img [ref=e1165] [cursor=pointer]
+                - img [ref=e1170] [cursor=pointer]
+            - link "49. Как обозначаются на письме звонкие и глухие согласные звуки? (ч. 1)" [ref=e1172] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5cdee09c1da9d9001b75ca18/
+              - generic [ref=e1173] [cursor=pointer]:
+                - generic [ref=e1174] [cursor=pointer]:
+                  - generic [ref=e1175] [cursor=pointer]:
+                    - generic [ref=e1177] [cursor=pointer]: "49."
+                    - paragraph [ref=e1179] [cursor=pointer]: Как обозначаются на письме звонкие и глухие согласные звуки? (ч. 1)
+                  - img [ref=e1183] [cursor=pointer]
+                - img [ref=e1188] [cursor=pointer]
+            - link "50. Как обозначаются на письме звонкие и глухие согласные звуки? (ч. 2)" [ref=e1190] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5cdee15dbad15d001b70b3a6/
+              - generic [ref=e1191] [cursor=pointer]:
+                - generic [ref=e1192] [cursor=pointer]:
+                  - generic [ref=e1193] [cursor=pointer]:
+                    - generic [ref=e1195] [cursor=pointer]: "50."
+                    - paragraph [ref=e1197] [cursor=pointer]: Как обозначаются на письме звонкие и глухие согласные звуки? (ч. 2)
+                  - img [ref=e1201] [cursor=pointer]
+                - img [ref=e1206] [cursor=pointer]
+            - link "51. Какие согласные звуки образуют пары по глухости-звонкости?" [ref=e1208] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/60d5c5f3bc72f7c787d21651/
+              - generic [ref=e1209] [cursor=pointer]:
+                - generic [ref=e1210] [cursor=pointer]:
+                  - generic [ref=e1211] [cursor=pointer]:
+                    - generic [ref=e1213] [cursor=pointer]: "51."
+                    - paragraph [ref=e1215] [cursor=pointer]: Какие согласные звуки образуют пары по глухости-звонкости?
+                  - img [ref=e1219] [cursor=pointer]
+                - img [ref=e1224] [cursor=pointer]
+            - link "52. Какие звонкие согласные звуки не образуют пары?" [ref=e1226] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60bae3c52e31001a4fcddf/
+              - generic [ref=e1227] [cursor=pointer]:
+                - generic [ref=e1228] [cursor=pointer]:
+                  - generic [ref=e1229] [cursor=pointer]:
+                    - generic [ref=e1231] [cursor=pointer]: "52."
+                    - paragraph [ref=e1233] [cursor=pointer]: Какие звонкие согласные звуки не образуют пары?
+                  - img [ref=e1237] [cursor=pointer]
+                - img [ref=e1242] [cursor=pointer]
+            - link "53. Какие глухие согласные звуки не образуют пары?" [ref=e1244] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60baf2c52e31001a4fcde0/
+              - generic [ref=e1245] [cursor=pointer]:
+                - generic [ref=e1246] [cursor=pointer]:
+                  - generic [ref=e1247] [cursor=pointer]:
+                    - generic [ref=e1249] [cursor=pointer]: "53."
+                    - paragraph [ref=e1251] [cursor=pointer]: Какие глухие согласные звуки не образуют пары?
+                  - img [ref=e1255] [cursor=pointer]
+                - img [ref=e1260] [cursor=pointer]
+            - link "54. Что такое шипящие согласные звуки и какие буквы их обозначают?" [ref=e1262] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a619768c52e31001a4fcdfd/
+              - generic [ref=e1263] [cursor=pointer]:
+                - generic [ref=e1264] [cursor=pointer]:
+                  - generic [ref=e1265] [cursor=pointer]:
+                    - generic [ref=e1267] [cursor=pointer]: "54."
+                    - paragraph [ref=e1269] [cursor=pointer]: Что такое шипящие согласные звуки и какие буквы их обозначают?
+                  - img [ref=e1273] [cursor=pointer]
+                - img [ref=e1278] [cursor=pointer]
+            - link "55. Как определить количество звуков в слове?" [ref=e1280] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a5c7e85e46b60001a00b7aa/
+              - generic [ref=e1281] [cursor=pointer]:
+                - generic [ref=e1282] [cursor=pointer]:
+                  - generic [ref=e1283] [cursor=pointer]:
+                    - generic [ref=e1285] [cursor=pointer]: "55."
+                    - paragraph [ref=e1287] [cursor=pointer]: Как определить количество звуков в слове?
+                  - img [ref=e1291] [cursor=pointer]
+                - img [ref=e1296] [cursor=pointer]
+            - link "56. Как звуки обозначаются буквами? (ч. 1)" [ref=e1298] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5cdee1471959be001ba3ad72/
+              - generic [ref=e1299] [cursor=pointer]:
+                - generic [ref=e1300] [cursor=pointer]:
+                  - generic [ref=e1301] [cursor=pointer]:
+                    - generic [ref=e1303] [cursor=pointer]: "56."
+                    - paragraph [ref=e1305] [cursor=pointer]: Как звуки обозначаются буквами? (ч. 1)
+                  - img [ref=e1309] [cursor=pointer]
+                - img [ref=e1314] [cursor=pointer]
+            - link "57. Как звуки обозначаются буквами? (ч. 2)" [ref=e1316] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a5db907e46b60001a00b801/
+              - generic [ref=e1317] [cursor=pointer]:
+                - generic [ref=e1318] [cursor=pointer]:
+                  - generic [ref=e1319] [cursor=pointer]:
+                    - generic [ref=e1321] [cursor=pointer]: "57."
+                    - paragraph [ref=e1323] [cursor=pointer]: Как звуки обозначаются буквами? (ч. 2)
+                  - img [ref=e1327] [cursor=pointer]
+                - img [ref=e1332] [cursor=pointer]
+            - link "58. Как звуки обозначаются буквами? (ч. 3)" [ref=e1334] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a5dd638cf168e0019a90301/
+              - generic [ref=e1335] [cursor=pointer]:
+                - generic [ref=e1336] [cursor=pointer]:
+                  - generic [ref=e1337] [cursor=pointer]:
+                    - generic [ref=e1339] [cursor=pointer]: "58."
+                    - paragraph [ref=e1341] [cursor=pointer]: Как звуки обозначаются буквами? (ч. 3)
+                  - img [ref=e1345] [cursor=pointer]
+                - img [ref=e1350] [cursor=pointer]
+            - link "59. Как звуки обозначаются буквами? (ч. 4)" [ref=e1352] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a5df04514827d001afb562f/
+              - generic [ref=e1353] [cursor=pointer]:
+                - generic [ref=e1354] [cursor=pointer]:
+                  - generic [ref=e1355] [cursor=pointer]:
+                    - generic [ref=e1357] [cursor=pointer]: "59."
+                    - paragraph [ref=e1359] [cursor=pointer]: Как звуки обозначаются буквами? (ч. 4)
+                  - img [ref=e1363] [cursor=pointer]
+                - img [ref=e1368] [cursor=pointer]
+            - link "60. Как обозначают буквами звуки и звуками буквы? (ч. 1)" [ref=e1370] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5d739b1c68c9a7001b4604a9/
+              - generic [ref=e1371] [cursor=pointer]:
+                - generic [ref=e1372] [cursor=pointer]:
+                  - generic [ref=e1373] [cursor=pointer]:
+                    - generic [ref=e1375] [cursor=pointer]: "60."
+                    - paragraph [ref=e1377] [cursor=pointer]: Как обозначают буквами звуки и звуками буквы? (ч. 1)
+                  - img [ref=e1381] [cursor=pointer]
+                - img [ref=e1386] [cursor=pointer]
+            - link "61. Как обозначают буквами звуки и звуками буквы? (ч. 2)" [ref=e1388] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5d739b3b0ff627001b369a0a/
+              - generic [ref=e1389] [cursor=pointer]:
+                - generic [ref=e1390] [cursor=pointer]:
+                  - generic [ref=e1391] [cursor=pointer]:
+                    - generic [ref=e1393] [cursor=pointer]: "61."
+                    - paragraph [ref=e1395] [cursor=pointer]: Как обозначают буквами звуки и звуками буквы? (ч. 2)
+                  - img [ref=e1399] [cursor=pointer]
+                - img [ref=e1404] [cursor=pointer]
+            - link "62. Как определить количество звуков и букв в слове? (ч. 1)" [ref=e1406] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a619904c52e31001a4fce08/
+              - generic [ref=e1407] [cursor=pointer]:
+                - generic [ref=e1408] [cursor=pointer]:
+                  - generic [ref=e1409] [cursor=pointer]:
+                    - generic [ref=e1411] [cursor=pointer]: "62."
+                    - paragraph [ref=e1413] [cursor=pointer]: Как определить количество звуков и букв в слове? (ч. 1)
+                  - img [ref=e1417] [cursor=pointer]
+                - img [ref=e1422] [cursor=pointer]
+            - link "63. Как определить количество звуков и букв в слове? (ч. 2)" [ref=e1424] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a619923c52e31001a4fce09/
+              - generic [ref=e1425] [cursor=pointer]:
+                - generic [ref=e1426] [cursor=pointer]:
+                  - generic [ref=e1427] [cursor=pointer]:
+                    - generic [ref=e1429] [cursor=pointer]: "63."
+                    - paragraph [ref=e1431] [cursor=pointer]: Как определить количество звуков и букв в слове? (ч. 2)
+                  - img [ref=e1435] [cursor=pointer]
+                - img [ref=e1440] [cursor=pointer]
+            - link "64. Всегда ли в слове количество звуков и букв совпадает? (ч. 1)" [ref=e1442] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5b69e87508cf21001df9ca4f/
+              - generic [ref=e1443] [cursor=pointer]:
+                - generic [ref=e1444] [cursor=pointer]:
+                  - generic [ref=e1445] [cursor=pointer]:
+                    - generic [ref=e1447] [cursor=pointer]: "64."
+                    - paragraph [ref=e1449] [cursor=pointer]: Всегда ли в слове количество звуков и букв совпадает? (ч. 1)
+                  - img [ref=e1453] [cursor=pointer]
+                - img [ref=e1458] [cursor=pointer]
+            - link "65. Всегда ли в слове количество звуков и букв совпадает? (ч. 2)" [ref=e1460] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5b69e88e08cf21001df9ca50/
+              - generic [ref=e1461] [cursor=pointer]:
+                - generic [ref=e1462] [cursor=pointer]:
+                  - generic [ref=e1463] [cursor=pointer]:
+                    - generic [ref=e1465] [cursor=pointer]: "65."
+                    - paragraph [ref=e1467] [cursor=pointer]: Всегда ли в слове количество звуков и букв совпадает? (ч. 2)
+                  - img [ref=e1471] [cursor=pointer]
+                - img [ref=e1476] [cursor=pointer]
+            - link "66. Всегда ли слове количество звуков и букв совпадает? (ч. 3)" [ref=e1478] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5d48409c06363b001b39bad6/
+              - generic [ref=e1479] [cursor=pointer]:
+                - generic [ref=e1480] [cursor=pointer]:
+                  - generic [ref=e1481] [cursor=pointer]:
+                    - generic [ref=e1483] [cursor=pointer]: "66."
+                    - paragraph [ref=e1485] [cursor=pointer]: Всегда ли слове количество звуков и букв совпадает? (ч. 3)
+                  - img [ref=e1489] [cursor=pointer]
+                - img [ref=e1494] [cursor=pointer]
+            - link "67. Что мы знаем о звуках? (ч. 1)" [ref=e1496] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5d765cca0a3046001b182016/
+              - generic [ref=e1497] [cursor=pointer]:
+                - generic [ref=e1498] [cursor=pointer]:
+                  - generic [ref=e1499] [cursor=pointer]:
+                    - generic [ref=e1501] [cursor=pointer]: "67."
+                    - paragraph [ref=e1503] [cursor=pointer]: Что мы знаем о звуках? (ч. 1)
+                  - img [ref=e1507] [cursor=pointer]
+                - img [ref=e1512] [cursor=pointer]
+            - link "68. Что мы знаем о звуках? (ч. 2)" [ref=e1514] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5d765ce7845954001b71cb52/
+              - generic [ref=e1515] [cursor=pointer]:
+                - generic [ref=e1516] [cursor=pointer]:
+                  - generic [ref=e1517] [cursor=pointer]:
+                    - generic [ref=e1519] [cursor=pointer]: "68."
+                    - paragraph [ref=e1521] [cursor=pointer]: Что мы знаем о звуках? (ч. 2)
+                  - img [ref=e1525] [cursor=pointer]
+                - img [ref=e1530] [cursor=pointer]
+            - link "69. Что такое алфавит?" [ref=e1532] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5abbc12bf18d36001b1a8461/
+              - generic [ref=e1533] [cursor=pointer]:
+                - generic [ref=e1534] [cursor=pointer]:
+                  - generic [ref=e1535] [cursor=pointer]:
+                    - generic [ref=e1537] [cursor=pointer]: "69."
+                    - paragraph [ref=e1539] [cursor=pointer]: Что такое алфавит?
+                  - img [ref=e1543] [cursor=pointer]
+                - img [ref=e1548] [cursor=pointer]
+            - link "70. Как расположить слова в алфавитном порядке?" [ref=e1550] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5b69e8a708cf21001df9ca53/
+              - generic [ref=e1551] [cursor=pointer]:
+                - generic [ref=e1552] [cursor=pointer]:
+                  - generic [ref=e1553] [cursor=pointer]:
+                    - generic [ref=e1555] [cursor=pointer]: "70."
+                    - paragraph [ref=e1557] [cursor=pointer]: Как расположить слова в алфавитном порядке?
+                  - img [ref=e1561] [cursor=pointer]
+                - img [ref=e1566] [cursor=pointer]
+            - link "71. Как составить слово из слогов?" [ref=e1568] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/60f6b82edb14eeec6f96651b/
+              - generic [ref=e1569] [cursor=pointer]:
+                - generic [ref=e1570] [cursor=pointer]:
+                  - generic [ref=e1571] [cursor=pointer]:
+                    - generic [ref=e1573] [cursor=pointer]: "71."
+                    - paragraph [ref=e1575] [cursor=pointer]: Как составить слово из слогов?
+                  - img [ref=e1579] [cursor=pointer]
+                - img [ref=e1584] [cursor=pointer]
+            - link "72. Что такое рифма?" [ref=e1586] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5a60a9b0c52e31001a4fcda7/
+              - generic [ref=e1587] [cursor=pointer]:
+                - generic [ref=e1588] [cursor=pointer]:
+                  - generic [ref=e1589] [cursor=pointer]:
+                    - generic [ref=e1591] [cursor=pointer]: "72."
+                    - paragraph [ref=e1593] [cursor=pointer]: Что такое рифма?
+                  - img [ref=e1597] [cursor=pointer]
+                - img [ref=e1602] [cursor=pointer]
+            - link "73. Как составить слово из букв?" [ref=e1604] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/5b222e956943dc001b9f25de/
+              - generic [ref=e1605] [cursor=pointer]:
+                - generic [ref=e1606] [cursor=pointer]:
+                  - generic [ref=e1607] [cursor=pointer]:
+                    - generic [ref=e1609] [cursor=pointer]: "73."
+                    - paragraph [ref=e1611] [cursor=pointer]: Как составить слово из букв?
+                  - img [ref=e1615] [cursor=pointer]
+                - img [ref=e1620] [cursor=pointer]
+            - link "74. Как правильно произносить слова?" [ref=e1622] [cursor=pointer]:
+              - /url: /learn/6113811337e0442b7db5a4cc/5a33b10acefdee00198efa13/5a3cef0b8409440019b57b36/62a714cd3ab1f52be8cb7223/
+              - generic [ref=e1623] [cursor=pointer]:
+                - generic [ref=e1624] [cursor=pointer]:
+                  - generic [ref=e1625] [cursor=pointer]:
+                    - generic [ref=e1627] [cursor=pointer]: "74."
+                    - paragraph [ref=e1629] [cursor=pointer]: Как правильно произносить слова?
+                  - img [ref=e1633] [cursor=pointer]
+                - img [ref=e1638] [cursor=pointer]
+    - generic [ref=e1641]:
+      - generic [ref=e1642]:
+        - generic [ref=e1643]:
+          - generic [ref=e1647]:
+            - img [ref=e1649]
+            - link "8 (800) 600-44-02" [ref=e1651] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e1652]:
+            - generic [ref=e1653]: "@"
+            - link "info@ismart.org" [ref=e1654] [cursor=pointer]:
+              - /url: mailto:info@ismart.org
+          - generic [ref=e1655]:
+            - img [ref=e1657]
+            - generic [ref=e1659]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e1660]:
+          - link "Наш сайт" [ref=e1663] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e1665] [cursor=pointer]
+          - generic [ref=e1667]:
+            - link "Лицензия" [ref=e1669] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика конфиденциальности" [ref=e1671] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e1673] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e1675] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e1677] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e1679]:
+        - generic [ref=e1680]:
+          - link [ref=e1681] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e1685] [cursor=pointer]
+          - generic [ref=e1688]:
+            - link "okIcon" [ref=e1689] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e1690] [cursor=pointer]
+            - link "dzenIcon" [ref=e1691] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e1692] [cursor=pointer]
+            - link "vkIcon" [ref=e1693] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e1694] [cursor=pointer]
+        - generic [ref=e1696]:
+          - generic [ref=e1698]:
+            - generic [ref=e1699]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e1700] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e1701]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e1702] [cursor=pointer]:
+                - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e1703]:
+            - generic [ref=e1704]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e1705] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e1706]: © iSmart, 2018-2025
+  - generic [ref=e1707]:
+    - img [ref=e1710] [cursor=pointer]
+    - generic [ref=e1712]: v.7.10.3
+```

@@ -1,0 +1,370 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]:
+        - text: Данный сайт использует файлы cookies. Часть из них обязательны с технической точки зрения и не могут быть отключены. Если вы хотите продолжить пользоваться сайтом, то вы соглашаетесь с их обработкой. Часть файлов cookies осуществляет сбор аналитической информации для улучшения сайта и формирования индивидуальных предложений. Вы можете согласиться с их сбором или отказаться. Подробнее об обработке cookies вы можете узнать в
+        - link "Политике обработки" [ref=e9] [cursor=pointer]:
+          - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+        - text: персональных данных. Изменить настройки обработки cookies вы всегда можете в своем браузере.
+      - generic [ref=e10]:
+        - button "Обработка только необходимых cookies" [ref=e11] [cursor=pointer]
+        - button "Обработка всех cookies" [ref=e12] [cursor=pointer]
+  - generic [ref=e14]:
+    - generic [ref=e19]:
+      - generic [ref=e22]:
+        - link "Каталог заданий" [ref=e24] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e27] [cursor=pointer]: Каталог заданий
+        - link "Кабинет ученика" [ref=e30] [cursor=pointer]:
+          - /url: /student/
+          - generic [ref=e33] [cursor=pointer]: Кабинет ученика
+        - link "Рейтинг" [ref=e36] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e39] [cursor=pointer]: Рейтинг
+        - link "Магазин" [ref=e42] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e45] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e48] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e51] [cursor=pointer]: Помощник
+        - link "Игра" [ref=e54] [cursor=pointer]:
+          - /url: /game
+          - generic [ref=e57] [cursor=pointer]: Игра
+        - link "Хогвартс Хогвартс" [ref=e60] [cursor=pointer]:
+          - /url: /hogwarts
+          - generic [ref=e63] [cursor=pointer]:
+            - img "Хогвартс" [ref=e65] [cursor=pointer]
+            - generic [ref=e66] [cursor=pointer]: Хогвартс
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - generic [ref=e72] [cursor=pointer]: "495"
+          - generic [ref=e75]: "457"
+        - generic [ref=e76]:
+          - button [ref=e77] [cursor=pointer]:
+            - img [ref=e79] [cursor=pointer]
+          - img [ref=e84] [cursor=pointer]
+        - generic [ref=e86] [cursor=pointer]:
+          - generic [ref=e89] [cursor=pointer]:
+            - paragraph [ref=e90] [cursor=pointer]: Ученик
+            - paragraph [ref=e91] [cursor=pointer]: h
+          - img [ref=e93] [cursor=pointer]
+    - generic [ref=e97]:
+      - generic [ref=e98]:
+        - generic [ref=e99]:
+          - button [ref=e100] [cursor=pointer]:
+            - img [ref=e102] [cursor=pointer]
+          - generic [ref=e105]:
+            - generic [ref=e106]: Математика
+            - generic [ref=e108]: Школьная программа
+        - generic [ref=e110]:
+          - button "Методические рекомендации" [ref=e111] [cursor=pointer]
+          - generic [ref=e113] [cursor=pointer]:
+            - img [ref=e115] [cursor=pointer]
+            - generic [ref=e117] [cursor=pointer]: Нашли ошибку?
+      - generic [ref=e121]:
+        - generic [ref=e122]:
+          - heading "Купить со скидкой" [level=1] [ref=e123]
+          - heading "-70%" [level=1] [ref=e124]
+        - button "В магазин" [ref=e126] [cursor=pointer]:
+          - text: В магазин
+          - img [ref=e129] [cursor=pointer]
+      - generic [ref=e131]:
+        - generic [ref=e135]:
+          - button "1" [ref=e136]:
+            - img [ref=e140]
+            - text: "1"
+          - button "2" [ref=e142] [cursor=pointer]:
+            - img [ref=e146] [cursor=pointer]
+            - text: "2"
+          - button "3" [ref=e148] [cursor=pointer]:
+            - img [ref=e152] [cursor=pointer]
+            - text: "3"
+          - button "4" [ref=e154] [cursor=pointer]:
+            - img [ref=e158] [cursor=pointer]
+            - text: "4"
+          - button "5" [ref=e160] [cursor=pointer]:
+            - img [ref=e164] [cursor=pointer]
+            - text: "5"
+          - button "6" [ref=e166] [cursor=pointer]:
+            - img [ref=e170] [cursor=pointer]
+            - text: "6"
+        - generic [ref=e174]:
+          - generic [ref=e175]:
+            - generic [ref=e176] [cursor=pointer]:
+              - generic [ref=e178] [cursor=pointer]: Темы
+              - button [ref=e180] [cursor=pointer]:
+                - img [ref=e182] [cursor=pointer]
+            - generic [ref=e185] [cursor=pointer]:
+              - generic [ref=e186] [cursor=pointer]:
+                - generic [ref=e188] [cursor=pointer]: Числа и величины. Числа от 1 до 9
+                - generic [ref=e193] [cursor=pointer]: 20 %
+              - img [ref=e195] [cursor=pointer]
+            - generic [ref=e197] [cursor=pointer]:
+              - generic [ref=e198] [cursor=pointer]:
+                - generic [ref=e200] [cursor=pointer]: Числа и величины. Числа от 0 до 10
+                - generic [ref=e204] [cursor=pointer]: 0 %
+              - img [ref=e206] [cursor=pointer]
+            - generic [ref=e208] [cursor=pointer]:
+              - generic [ref=e209] [cursor=pointer]:
+                - generic [ref=e211] [cursor=pointer]: Числа и величины. Числа от 11 до 20
+                - generic [ref=e215] [cursor=pointer]: 0 %
+              - img [ref=e217] [cursor=pointer]
+            - generic [ref=e219] [cursor=pointer]:
+              - generic [ref=e220] [cursor=pointer]:
+                - generic [ref=e222] [cursor=pointer]: Числа и величины. Длина
+                - generic [ref=e226] [cursor=pointer]: 0 %
+              - img [ref=e228] [cursor=pointer]
+            - generic [ref=e230] [cursor=pointer]:
+              - generic [ref=e231] [cursor=pointer]:
+                - generic [ref=e233] [cursor=pointer]: Арифметические операции. Сложение в пределах 10
+                - generic [ref=e237] [cursor=pointer]: 0 %
+              - img [ref=e239] [cursor=pointer]
+            - generic [ref=e241] [cursor=pointer]:
+              - generic [ref=e242] [cursor=pointer]:
+                - generic [ref=e244] [cursor=pointer]: Арифметические операции. Вычитание в пределах 10
+                - generic [ref=e248] [cursor=pointer]: 0 %
+              - img [ref=e250] [cursor=pointer]
+            - generic [ref=e252] [cursor=pointer]:
+              - generic [ref=e253] [cursor=pointer]:
+                - generic [ref=e255] [cursor=pointer]: Арифметические операции. Сложение и вычитание в пределах 10
+                - generic [ref=e259] [cursor=pointer]: 0 %
+              - img [ref=e261] [cursor=pointer]
+            - generic [ref=e263] [cursor=pointer]:
+              - generic [ref=e264] [cursor=pointer]:
+                - generic [ref=e266] [cursor=pointer]: Арифметические операции. Сложение в пределах 20 без перехода через десяток
+                - generic [ref=e270] [cursor=pointer]: 0 %
+              - img [ref=e272] [cursor=pointer]
+            - generic [ref=e274] [cursor=pointer]:
+              - generic [ref=e275] [cursor=pointer]:
+                - generic [ref=e277] [cursor=pointer]: Арифметические операции. Вычитание в пределах 20 без перехода через десяток
+                - generic [ref=e281] [cursor=pointer]: 0 %
+              - img [ref=e283] [cursor=pointer]
+            - generic [ref=e285] [cursor=pointer]:
+              - generic [ref=e286] [cursor=pointer]:
+                - generic [ref=e288] [cursor=pointer]: Арифметические операции. Сложение и вычитание в пределах 20 с переходом через десяток
+                - generic [ref=e292] [cursor=pointer]: 0 %
+              - img [ref=e294] [cursor=pointer]
+            - generic [ref=e296] [cursor=pointer]:
+              - generic [ref=e297] [cursor=pointer]:
+                - generic [ref=e299] [cursor=pointer]: Арифметические операции. Табличное сложение и вычитание
+                - generic [ref=e303] [cursor=pointer]: 0 %
+              - img [ref=e305] [cursor=pointer]
+            - generic [ref=e307] [cursor=pointer]:
+              - generic [ref=e308] [cursor=pointer]:
+                - generic [ref=e310] [cursor=pointer]: Текстовые задачи. Структурные элементы
+                - generic [ref=e314] [cursor=pointer]: 0 %
+              - img [ref=e316] [cursor=pointer]
+            - generic [ref=e318] [cursor=pointer]:
+              - generic [ref=e319] [cursor=pointer]:
+                - generic [ref=e321] [cursor=pointer]: Текстовые задачи. Сложение
+                - generic [ref=e325] [cursor=pointer]: 0 %
+              - img [ref=e327] [cursor=pointer]
+            - generic [ref=e329] [cursor=pointer]:
+              - generic [ref=e330] [cursor=pointer]:
+                - generic [ref=e332] [cursor=pointer]: Текстовые задачи. Вычитание
+                - generic [ref=e336] [cursor=pointer]: 0 %
+              - img [ref=e338] [cursor=pointer]
+            - generic [ref=e340] [cursor=pointer]:
+              - generic [ref=e341] [cursor=pointer]:
+                - generic [ref=e343] [cursor=pointer]: Текстовые задачи. Сложение и вычитание
+                - generic [ref=e347] [cursor=pointer]: 0 %
+              - img [ref=e349] [cursor=pointer]
+            - generic [ref=e351] [cursor=pointer]:
+              - generic [ref=e352] [cursor=pointer]:
+                - generic [ref=e354] [cursor=pointer]: Текстовые задачи. Разностное сравнение
+                - generic [ref=e358] [cursor=pointer]: 0 %
+              - img [ref=e360] [cursor=pointer]
+            - generic [ref=e362] [cursor=pointer]:
+              - generic [ref=e363] [cursor=pointer]:
+                - generic [ref=e365] [cursor=pointer]: Тестовые задачи. Длина
+                - generic [ref=e369] [cursor=pointer]: 0 %
+              - img [ref=e371] [cursor=pointer]
+            - generic [ref=e373] [cursor=pointer]:
+              - generic [ref=e374] [cursor=pointer]:
+                - generic [ref=e376] [cursor=pointer]: Пространственные отношения
+                - generic [ref=e380] [cursor=pointer]: 0 %
+              - img [ref=e382] [cursor=pointer]
+            - generic [ref=e384] [cursor=pointer]:
+              - generic [ref=e385] [cursor=pointer]:
+                - generic [ref=e387] [cursor=pointer]: Геометрические фигуры и измерения
+                - generic [ref=e391] [cursor=pointer]: 0 %
+              - img [ref=e393] [cursor=pointer]
+            - generic [ref=e395] [cursor=pointer]:
+              - generic [ref=e396] [cursor=pointer]:
+                - generic [ref=e398] [cursor=pointer]: Математическая информация. Характеристика объекта, группы объектов
+                - generic [ref=e402] [cursor=pointer]: 0 %
+              - img [ref=e404] [cursor=pointer]
+            - generic [ref=e406] [cursor=pointer]:
+              - generic [ref=e407] [cursor=pointer]:
+                - generic [ref=e409] [cursor=pointer]: Математическая информация. Таблицы
+                - generic [ref=e413] [cursor=pointer]: 0 %
+              - img [ref=e415] [cursor=pointer]
+            - generic [ref=e417] [cursor=pointer]:
+              - generic [ref=e418] [cursor=pointer]:
+                - generic [ref=e420] [cursor=pointer]: Дополнительный материал. Римская нумерация
+                - generic [ref=e424] [cursor=pointer]: 0 %
+              - img [ref=e426] [cursor=pointer]
+            - generic [ref=e428] [cursor=pointer]:
+              - generic [ref=e429] [cursor=pointer]:
+                - generic [ref=e431] [cursor=pointer]: Дополнительный материал. Текстовые задачи в несколько действий
+                - generic [ref=e435] [cursor=pointer]: 0 %
+              - img [ref=e437] [cursor=pointer]
+          - generic [ref=e443]:
+            - link "1. Порядковый номер объекта при заданном порядке счёта 5" [ref=e444] [cursor=pointer]:
+              - /url: /learn/611380e4ff7dc61d355e4ac4/5a439fcfe4952e0019d5913c/5a3cef0b8409440019b57b36/675855dad516f50007bc2f42/
+              - generic [ref=e445] [cursor=pointer]:
+                - generic [ref=e446] [cursor=pointer]:
+                  - generic [ref=e447] [cursor=pointer]:
+                    - generic [ref=e449] [cursor=pointer]: "1."
+                    - paragraph [ref=e451] [cursor=pointer]: Порядковый номер объекта при заданном порядке счёта
+                  - generic [ref=e456] [cursor=pointer]: "5"
+                - img [ref=e459] [cursor=pointer]
+            - link "2. Название чисел 1" [ref=e461] [cursor=pointer]:
+              - /url: /learn/611380e4ff7dc61d355e4ac4/5a439fcfe4952e0019d5913c/5a3cef0b8409440019b57b36/675856eed516f50007bc3d74/
+              - generic [ref=e462] [cursor=pointer]:
+                - generic [ref=e463] [cursor=pointer]:
+                  - generic [ref=e464] [cursor=pointer]:
+                    - generic [ref=e466] [cursor=pointer]: "2."
+                    - paragraph [ref=e468] [cursor=pointer]: Название чисел
+                  - generic [ref=e473] [cursor=pointer]: "1"
+                - img [ref=e476] [cursor=pointer]
+            - link "3. Выбрать изображение, на котором один/много предметов" [ref=e478] [cursor=pointer]:
+              - /url: /learn/611380e4ff7dc61d355e4ac4/5a439fcfe4952e0019d5913c/5a3cef0b8409440019b57b36/5a60877aff08d3001999eac4/
+              - generic [ref=e479] [cursor=pointer]:
+                - generic [ref=e480] [cursor=pointer]:
+                  - generic [ref=e481] [cursor=pointer]:
+                    - generic [ref=e483] [cursor=pointer]: "3."
+                    - paragraph [ref=e485] [cursor=pointer]: Выбрать изображение, на котором один/много предметов
+                  - img [ref=e489] [cursor=pointer]
+                - img [ref=e494] [cursor=pointer]
+            - link "4. Счёт предметов, запись результата цифрами" [ref=e496] [cursor=pointer]:
+              - /url: /learn/611380e4ff7dc61d355e4ac4/5a439fcfe4952e0019d5913c/5a3cef0b8409440019b57b36/676182a008efeb0007aa27dc/
+              - generic [ref=e497] [cursor=pointer]:
+                - generic [ref=e498] [cursor=pointer]:
+                  - generic [ref=e499] [cursor=pointer]:
+                    - generic [ref=e501] [cursor=pointer]: "4."
+                    - paragraph [ref=e503] [cursor=pointer]: Счёт предметов, запись результата цифрами
+                  - img [ref=e507] [cursor=pointer]
+                - img [ref=e512] [cursor=pointer]
+            - link "5. Счёт фигур, запись результата цифрами" [ref=e514] [cursor=pointer]:
+              - /url: /learn/611380e4ff7dc61d355e4ac4/5a439fcfe4952e0019d5913c/5a3cef0b8409440019b57b36/676182b708efeb0007aa27e3/
+              - generic [ref=e515] [cursor=pointer]:
+                - generic [ref=e516] [cursor=pointer]:
+                  - generic [ref=e517] [cursor=pointer]:
+                    - generic [ref=e519] [cursor=pointer]: "5."
+                    - paragraph [ref=e521] [cursor=pointer]: Счёт фигур, запись результата цифрами
+                  - img [ref=e525] [cursor=pointer]
+                - img [ref=e530] [cursor=pointer]
+            - 'link "6. Сравнение групп предметов по количеству: больше, меньше, столько же" [ref=e532] [cursor=pointer]':
+              - /url: /learn/611380e4ff7dc61d355e4ac4/5a439fcfe4952e0019d5913c/5a3cef0b8409440019b57b36/676182c808efeb0007aa27ea/
+              - generic [ref=e533] [cursor=pointer]:
+                - generic [ref=e534] [cursor=pointer]:
+                  - generic [ref=e535] [cursor=pointer]:
+                    - generic [ref=e537] [cursor=pointer]: "6."
+                    - paragraph [ref=e539] [cursor=pointer]: "Сравнение групп предметов по количеству: больше, меньше, столько же"
+                  - img [ref=e543] [cursor=pointer]
+                - img [ref=e548] [cursor=pointer]
+            - link "7. Одинаковое количество предметов" [ref=e550] [cursor=pointer]:
+              - /url: /learn/611380e4ff7dc61d355e4ac4/5a439fcfe4952e0019d5913c/5a3cef0b8409440019b57b36/676182d908efeb0007aa27f1/
+              - generic [ref=e551] [cursor=pointer]:
+                - generic [ref=e552] [cursor=pointer]:
+                  - generic [ref=e553] [cursor=pointer]:
+                    - generic [ref=e555] [cursor=pointer]: "7."
+                    - paragraph [ref=e557] [cursor=pointer]: Одинаковое количество предметов
+                  - img [ref=e561] [cursor=pointer]
+                - img [ref=e566] [cursor=pointer]
+            - 'link "8. Сравнение количества фигур: больше, меньше" [ref=e568] [cursor=pointer]':
+              - /url: /learn/611380e4ff7dc61d355e4ac4/5a439fcfe4952e0019d5913c/5a3cef0b8409440019b57b36/676182e808efeb0007aa27f8/
+              - generic [ref=e569] [cursor=pointer]:
+                - generic [ref=e570] [cursor=pointer]:
+                  - generic [ref=e571] [cursor=pointer]:
+                    - generic [ref=e573] [cursor=pointer]: "8."
+                    - paragraph [ref=e575] [cursor=pointer]: "Сравнение количества фигур: больше, меньше"
+                  - img [ref=e579] [cursor=pointer]
+                - img [ref=e584] [cursor=pointer]
+            - link "9. Сравнение чисел" [ref=e586] [cursor=pointer]:
+              - /url: /learn/611380e4ff7dc61d355e4ac4/5a439fcfe4952e0019d5913c/5a3cef0b8409440019b57b36/6761830708efeb0007aa2806/
+              - generic [ref=e587] [cursor=pointer]:
+                - generic [ref=e588] [cursor=pointer]:
+                  - generic [ref=e589] [cursor=pointer]:
+                    - generic [ref=e591] [cursor=pointer]: "9."
+                    - paragraph [ref=e593] [cursor=pointer]: Сравнение чисел
+                  - img [ref=e597] [cursor=pointer]
+                - img [ref=e602] [cursor=pointer]
+            - link "10. Состав чисел от 1 до 9" [ref=e604] [cursor=pointer]:
+              - /url: /learn/611380e4ff7dc61d355e4ac4/5a439fcfe4952e0019d5913c/5a3cef0b8409440019b57b36/5a609502ff08d3001999eb4f/
+              - generic [ref=e605] [cursor=pointer]:
+                - generic [ref=e606] [cursor=pointer]:
+                  - generic [ref=e607] [cursor=pointer]:
+                    - generic [ref=e609] [cursor=pointer]: "10."
+                    - paragraph [ref=e611] [cursor=pointer]: Состав чисел от 1 до 9
+                  - img [ref=e615] [cursor=pointer]
+                - img [ref=e620] [cursor=pointer]
+    - generic [ref=e623]:
+      - generic [ref=e624]:
+        - generic [ref=e625]:
+          - generic [ref=e629]:
+            - img [ref=e631]
+            - link "8 (800) 600-44-02" [ref=e633] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e634]:
+            - generic [ref=e635]: "@"
+            - link "info@ismart.org" [ref=e636] [cursor=pointer]:
+              - /url: mailto:info@ismart.org
+          - generic [ref=e637]:
+            - img [ref=e639]
+            - generic [ref=e641]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e642]:
+          - link "Наш сайт" [ref=e645] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e647] [cursor=pointer]
+          - generic [ref=e649]:
+            - link "Лицензия" [ref=e651] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика конфиденциальности" [ref=e653] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e655] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e657] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e659] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e661]:
+        - generic [ref=e662]:
+          - link [ref=e663] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e667] [cursor=pointer]
+          - generic [ref=e670]:
+            - link "okIcon" [ref=e671] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e672] [cursor=pointer]
+            - link "dzenIcon" [ref=e673] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e674] [cursor=pointer]
+            - link "vkIcon" [ref=e675] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e676] [cursor=pointer]
+        - generic [ref=e678]:
+          - generic [ref=e680]:
+            - generic [ref=e681]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e682] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e683]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e684] [cursor=pointer]:
+                - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e685]:
+            - generic [ref=e686]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e687] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e688]: © iSmart, 2018-2025
+  - generic [ref=e689]:
+    - img [ref=e692] [cursor=pointer]
+    - generic [ref=e694]: v.7.10.3
+```
