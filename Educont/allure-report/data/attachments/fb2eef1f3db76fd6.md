@@ -1,0 +1,66 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - generic [ref=e25]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - button "1" [ref=e35] [cursor=pointer]
+              - button "2" [ref=e38] [cursor=pointer]
+              - button "3" [ref=e41] [cursor=pointer]
+            - generic [ref=e42]:
+              - button [disabled] [ref=e43]:
+                - img [ref=e45]
+              - button [disabled] [ref=e48]:
+                - img [ref=e50]
+        - generic [ref=e53]:
+          - generic [ref=e55]:
+            - img [ref=e59]
+            - heading "Выбери верный вариант ответа." [level=4] [ref=e61]:
+              - generic [ref=e63]: Выбери верный вариант ответа.
+          - generic [ref=e65]:
+            - img "decore" [ref=e68]
+            - generic [ref=e74]: Кто был первым известным самозванцем в России XVII века?
+          - generic [ref=e77]:
+            - generic [ref=e81] [cursor=pointer]: Василий Шуйский
+            - generic [ref=e85] [cursor=pointer]: Лжедмитрий I
+            - generic [ref=e89] [cursor=pointer]: Иван Болотников
+            - generic [ref=e93] [cursor=pointer]: Степан Разин
+      - button "2 Показать подсказку" [ref=e101] [cursor=pointer]:
+        - generic [ref=e104] [cursor=pointer]: "2"
+        - generic [ref=e105] [cursor=pointer]: Показать подсказку
+    - generic [ref=e106]:
+      - generic [ref=e109]: Интеллектуальный тренажер
+      - generic [ref=e115]:
+        - button "Войти как учитель" [ref=e117] [cursor=pointer]:
+          - img [ref=e120] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e122]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e123]:
+        - generic [ref=e125]:
+          - button "Черновик" [ref=e126] [cursor=pointer]:
+            - img [ref=e129] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e134] [cursor=pointer]:
+            - img [ref=e137] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e139]:
+          - generic [ref=e140]:
+            - img [ref=e142]
+            - generic [ref=e144]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e145] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e148] [cursor=pointer]
+```

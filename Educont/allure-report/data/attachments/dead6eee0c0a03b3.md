@@ -1,0 +1,244 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - generic [ref=e25]:
+          - button "Вернуться обратно" [ref=e26] [cursor=pointer]:
+            - img [ref=e29] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - button "1" [ref=e35] [cursor=pointer]
+              - button "2" [ref=e38] [cursor=pointer]
+              - button "3" [ref=e41] [cursor=pointer]
+              - button "4" [ref=e44] [cursor=pointer]
+              - button "5" [ref=e47] [cursor=pointer]
+              - button "6" [ref=e50] [cursor=pointer]
+              - button "7" [ref=e53] [cursor=pointer]
+              - button "8" [ref=e56] [cursor=pointer]
+              - button "9" [ref=e59] [cursor=pointer]
+              - button "10" [ref=e62] [cursor=pointer]
+            - generic [ref=e63]:
+              - button [disabled] [ref=e64]:
+                - img [ref=e66]
+              - button [ref=e69] [cursor=pointer]:
+                - img [ref=e71] [cursor=pointer]
+        - generic [ref=e73]:
+          - generic [ref=e74]:
+            - heading "Современный язык программирования - Python" [level=4] [ref=e75]
+            - button [ref=e76] [cursor=pointer]:
+              - img [ref=e78] [cursor=pointer]
+          - generic [ref=e80]:
+            - generic [ref=e81]:
+              - generic [ref=e82]: Откройте мир Python вместе с вашими учениками!
+              - generic [ref=e83]: Один клик — и вы узнаете, какие задания по программированию ждут ваших учеников!
+            - link "Посмотреть курс" [ref=e84] [cursor=pointer]:
+              - /url: https://edu.ismart.org/educont/6aafc7b529815920d31b07dc
+              - button "Посмотреть курс" [ref=e85] [cursor=pointer]:
+                - img [ref=e88] [cursor=pointer]
+                - text: Посмотреть курс
+        - generic [ref=e91]:
+          - generic [ref=e93]:
+            - img [ref=e97]
+            - heading "Выбери все верные варианты ответа." [level=4] [ref=e99]:
+              - generic [ref=e101]: Выбери все верные варианты ответа.
+          - generic [ref=e103]:
+            - img "decore" [ref=e106]
+            - generic [ref=e109]:
+              - generic [ref=e112]:
+                - text: "На таинственной пятой планете в системе Медузы существуют три вида животных: Акулы (А), Бобры (Б) и Верблюды (В)."
+                - text: Из-за необычных условий они все вырастают до разных размеров.
+                - text: Размеры животных могут быть не больше
+                - generic [ref=e114]:
+                  - math [ref=e116]:
+                    - generic [ref=e119]: "5"
+                  - generic [ref=e122]: "5"
+                - text: и не меньше
+                - generic [ref=e124]:
+                  - math [ref=e126]:
+                    - generic [ref=e129]: "2"
+                  - generic [ref=e132]: "2"
+                - text: метров и всегда кратны целому числу.
+                - text: На
+                - strong [ref=e133]: Диаграмме
+                - generic [ref=e135]:
+                  - math [ref=e137]:
+                    - generic [ref=e141]:
+                      - generic [ref=e142]: №
+                      - generic [ref=e143]: "1"
+                  - generic [ref=e147]:
+                    - generic [ref=e148]: №
+                    - generic [ref=e149]: "1"
+                - text: отражено количество изучаемых животных с различными размерами.
+                - text: На
+                - strong [ref=e150]: Диаграмме
+                - generic [ref=e152]:
+                  - math [ref=e154]:
+                    - generic [ref=e158]:
+                      - generic [ref=e159]: №
+                      - generic [ref=e160]: "2"
+                  - generic [ref=e164]:
+                    - generic [ref=e165]: №
+                    - generic [ref=e166]: "2"
+                - text: отражено распределение изучаемых животных по видам.
+                - text: Каждое животное принадлежит только одному виду и имеет только один размер.
+              - generic [ref=e169]:
+                - strong [ref=e170]: Диаграмма
+                - generic [ref=e172]:
+                  - math [ref=e174]:
+                    - generic [ref=e178]:
+                      - generic [ref=e179]: №
+                      - generic [ref=e180]: "1"
+                  - generic [ref=e184]:
+                    - generic [ref=e185]: №
+                    - generic [ref=e186]: "1"
+              - img "inf_7_text_visual_d1" [ref=e188]
+              - generic [ref=e191]:
+                - strong [ref=e192]: Диаграмма
+                - generic [ref=e194]:
+                  - math [ref=e196]:
+                    - generic [ref=e200]:
+                      - generic [ref=e201]: №
+                      - generic [ref=e202]: "2"
+                  - generic [ref=e206]:
+                    - generic [ref=e207]: №
+                    - generic [ref=e208]: "2"
+              - emphasis [ref=e209]:
+                - img "inf_7_text_visual_d2" [ref=e211]
+              - generic [ref=e214]:
+                - text: "Отметь номера истинных высказываний:"
+                - generic [ref=e216]:
+                  - math [ref=e218]:
+                    - generic [ref=e221]: "1."
+                  - generic [ref=e224]: "1."
+                - text: Изучается
+                - generic [ref=e226]:
+                  - math [ref=e228]:
+                    - generic [ref=e231]: "100"
+                  - generic [ref=e234]: "100"
+                - text: животных.
+                - generic [ref=e236]:
+                  - math [ref=e238]:
+                    - generic [ref=e241]: "2."
+                  - generic [ref=e244]: "2."
+                - text: Изучается
+                - generic [ref=e246]:
+                  - math [ref=e248]:
+                    - generic [ref=e251]: "50"
+                  - generic [ref=e254]: "50"
+                - text: бобров.
+                - generic [ref=e256]:
+                  - math [ref=e258]:
+                    - generic [ref=e261]: "3."
+                  - generic [ref=e264]: "3."
+                - text: Изучается
+                - generic [ref=e266]:
+                  - math [ref=e268]:
+                    - generic [ref=e271]: "25"
+                  - generic [ref=e274]: "25"
+                - text: верблюдов.
+                - generic [ref=e276]:
+                  - math [ref=e278]:
+                    - generic [ref=e281]: "4."
+                  - generic [ref=e284]: "4."
+                - text: Все акулы могут быть размером
+                - generic [ref=e286]:
+                  - math [ref=e288]:
+                    - generic [ref=e291]: "3"
+                  - generic [ref=e294]: "3"
+                - text: метра.
+                - generic [ref=e296]:
+                  - math [ref=e298]:
+                    - generic [ref=e301]: "5."
+                  - generic [ref=e304]: "5."
+                - text: Все животные размером
+                - generic [ref=e306]:
+                  - math [ref=e308]:
+                    - generic [ref=e311]: "3"
+                  - generic [ref=e314]: "3"
+                - text: метра могут быть акулами.
+                - generic [ref=e316]:
+                  - math [ref=e318]:
+                    - generic [ref=e321]: "6."
+                  - generic [ref=e324]: "6."
+                - text: Все животные размером
+                - generic [ref=e326]:
+                  - math [ref=e328]:
+                    - generic [ref=e331]: "3"
+                  - generic [ref=e334]: "3"
+                - text: метра могут быть бобрами.
+                - generic [ref=e336]:
+                  - math [ref=e338]:
+                    - generic [ref=e341]: "7."
+                  - generic [ref=e344]: "7."
+                - text: Все верблюды могут быть размером
+                - generic [ref=e346]:
+                  - math [ref=e348]:
+                    - generic [ref=e351]: "5"
+                  - generic [ref=e354]: "5"
+                - text: метров.
+                - generic [ref=e356]:
+                  - math [ref=e358]:
+                    - generic [ref=e361]: "8."
+                  - generic [ref=e364]: "8."
+                - text: Все акулы могут быть размером
+                - generic [ref=e366]:
+                  - math [ref=e368]:
+                    - generic [ref=e371]: "4"
+                  - generic [ref=e374]: "4"
+                - text: метра.
+                - generic [ref=e376]:
+                  - math [ref=e378]:
+                    - generic [ref=e381]: "9."
+                  - generic [ref=e384]: "9."
+                - text: Все животные размером
+                - generic [ref=e386]:
+                  - math [ref=e388]:
+                    - generic [ref=e391]: "2"
+                  - generic [ref=e394]: "2"
+                - text: метра могут быть верблюдами.
+          - generic [ref=e399]:
+            - generic [ref=e401] [cursor=pointer]: "1"
+            - generic [ref=e403] [cursor=pointer]: "2"
+            - generic [ref=e405] [cursor=pointer]: "3"
+            - generic [ref=e407] [cursor=pointer]: "4"
+            - generic [ref=e409] [cursor=pointer]: "5"
+            - generic [ref=e411] [cursor=pointer]: "6"
+            - generic [ref=e413] [cursor=pointer]: "7"
+            - generic [ref=e415] [cursor=pointer]: "8"
+            - generic [ref=e417] [cursor=pointer]: "9"
+      - button "2 Показать подсказку" [ref=e425] [cursor=pointer]:
+        - generic [ref=e428] [cursor=pointer]: "2"
+        - generic [ref=e429] [cursor=pointer]: Показать подсказку
+    - generic [ref=e430]:
+      - generic [ref=e433]: Интеллектуальный тренажер
+      - generic [ref=e439]:
+        - button "Войти как учитель" [ref=e441] [cursor=pointer]:
+          - img [ref=e444] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e446]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e447]:
+        - generic [ref=e449]:
+          - button "Черновик" [ref=e450] [cursor=pointer]:
+            - img [ref=e453] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e458] [cursor=pointer]:
+            - img [ref=e461] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e463]:
+          - generic [ref=e464]:
+            - img [ref=e466]
+            - generic [ref=e468]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e469] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e472] [cursor=pointer]
+```
