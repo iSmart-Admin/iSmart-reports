@@ -1,0 +1,90 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]:
+        - text: Данный сайт использует файлы cookies. Часть из них обязательны с технической точки зрения и не могут быть отключены. Если вы хотите продолжить пользоваться сайтом, то вы соглашаетесь с их обработкой. Часть файлов cookies осуществляет сбор аналитической информации для улучшения сайта и формирования индивидуальных предложений. Вы можете согласиться с их сбором или отказаться. Подробнее об обработке cookies вы можете узнать в
+        - link "Политике обработки" [ref=e9] [cursor=pointer]:
+          - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+        - text: персональных данных. Изменить настройки обработки cookies вы всегда можете в своем браузере.
+      - generic [ref=e10]:
+        - button "Обработка только необходимых cookies" [ref=e11] [cursor=pointer]
+        - button "Обработка всех cookies" [ref=e12] [cursor=pointer]
+  - generic [ref=e14]:
+    - generic [ref=e19]:
+      - generic [ref=e22]:
+        - link "Каталог заданий" [ref=e24] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e27] [cursor=pointer]: Каталог заданий
+        - link "Кабинет учителя" [ref=e30] [cursor=pointer]:
+          - /url: /teacher/dashboard
+          - generic [ref=e33] [cursor=pointer]: Кабинет учителя
+        - link "Рейтинг" [ref=e36] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e39] [cursor=pointer]: Рейтинг
+        - link "Помощник" [ref=e42] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e45] [cursor=pointer]: Помощник
+        - link "Школы" [ref=e48] [cursor=pointer]:
+          - /url: /schools
+          - generic [ref=e51] [cursor=pointer]: Школы
+      - generic [ref=e54] [cursor=pointer]:
+        - generic [ref=e57] [cursor=pointer]: У
+        - generic [ref=e58] [cursor=pointer]:
+          - paragraph [ref=e59] [cursor=pointer]: Учитель
+          - paragraph [ref=e60] [cursor=pointer]: Учитель
+        - img [ref=e62] [cursor=pointer]
+    - generic [ref=e67]:
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - button "Ученики и расписание" [active] [ref=e70] [cursor=pointer]:
+            - img [ref=e73] [cursor=pointer]
+            - text: Ученики и расписание
+          - button "Профиль учителя" [ref=e75] [cursor=pointer]:
+            - img [ref=e78] [cursor=pointer]
+            - text: Профиль учителя
+          - button "Чат с учениками" [ref=e80] [cursor=pointer]:
+            - img [ref=e83] [cursor=pointer]
+            - text: Чат с учениками
+          - button "Управление классами" [ref=e85] [cursor=pointer]:
+            - img [ref=e88] [cursor=pointer]
+            - text: Управление классами
+        - generic [ref=e90]:
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - generic [ref=e93]:
+                - img [ref=e94]
+                - generic [ref=e99]: 80%
+              - paragraph [ref=e100]: Ваш профиль еще не заполнен полностью.
+            - button [ref=e101] [cursor=pointer]:
+              - img [ref=e103] [cursor=pointer]
+            - paragraph [ref=e105]: Завершите процесс настройки, чтобы воспользоваться всеми возможностями, которые предлагает платформа.
+            - button "Завершить" [ref=e106] [cursor=pointer]
+          - generic [ref=e107]:
+            - button "Полезная информация" [ref=e108] [cursor=pointer]:
+              - img [ref=e111] [cursor=pointer]
+              - text: Полезная информация
+            - button "Поддержка" [ref=e113] [cursor=pointer]:
+              - img [ref=e116] [cursor=pointer]
+              - text: Поддержка
+      - generic [ref=e118]:
+        - generic [ref=e121]:
+          - generic [ref=e122] [cursor=pointer]:
+            - button [ref=e123] [cursor=pointer]:
+              - img [ref=e125] [cursor=pointer]
+            - generic [ref=e127] [cursor=pointer]:
+              - generic [ref=e128] [cursor=pointer]: 7 класс «Ы»
+              - generic [ref=e130] [cursor=pointer]: Личный класс
+          - button "Создать задание" [ref=e131] [cursor=pointer]:
+            - img [ref=e134] [cursor=pointer]
+            - text: Создать задание
+        - generic [ref=e138]:
+          - heading "В классе еще нет учеников" [level=1] [ref=e139]
+          - generic [ref=e140]: Добавьте учеников, чтобы назначать задания и следить за успехами учеников
+          - button "Добавить учеников" [ref=e142] [cursor=pointer]:
+            - img [ref=e145] [cursor=pointer]
+            - text: Добавить учеников
+```
