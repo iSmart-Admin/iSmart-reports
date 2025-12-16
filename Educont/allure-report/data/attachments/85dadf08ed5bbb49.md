@@ -1,0 +1,72 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]:
+        - text: Данный сайт использует файлы cookies. Часть из них обязательны с технической точки зрения и не могут быть отключены. Если вы хотите продолжить пользоваться сайтом, то вы соглашаетесь с их обработкой. Часть файлов cookies осуществляет сбор аналитической информации для улучшения сайта и формирования индивидуальных предложений. Вы можете согласиться с их сбором или отказаться. Подробнее об обработке cookies вы можете узнать в
+        - link "Политике обработки" [ref=e9] [cursor=pointer]:
+          - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+        - text: персональных данных. Изменить настройки обработки cookies вы всегда можете в своем браузере.
+      - generic [ref=e10]:
+        - button "Обработка только необходимых cookies" [ref=e11] [cursor=pointer]
+        - button "Обработка всех cookies" [ref=e12] [cursor=pointer]
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - generic [ref=e25]:
+        - button "Вернуться обратно" [ref=e28] [cursor=pointer]:
+          - img [ref=e31] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e34]:
+          - generic [ref=e36]:
+            - generic [ref=e37] [cursor=pointer]:
+              - generic:
+                - img
+            - heading "Какие слоги может обозначать данный прямоугольник?" [level=4] [ref=e38]:
+              - generic [ref=e40]: Какие слоги может обозначать данный прямоугольник?
+          - generic [ref=e42]:
+            - img "decore" [ref=e45]
+            - img [ref=e51]
+          - generic [ref=e62]:
+            - generic [ref=e64] [cursor=pointer]: ЩА
+            - generic [ref=e66] [cursor=pointer]: РЫ
+            - generic [ref=e68] [cursor=pointer]: ПЯ
+            - generic [ref=e70] [cursor=pointer]: СО
+            - generic [ref=e72] [cursor=pointer]: ПА
+            - generic [ref=e74] [cursor=pointer]: МЫ
+            - generic [ref=e76] [cursor=pointer]: КА
+            - generic [ref=e78] [cursor=pointer]: ЛИ
+            - generic [ref=e80] [cursor=pointer]: РИ
+            - generic [ref=e82] [cursor=pointer]: НУ
+            - generic [ref=e84] [cursor=pointer]: ЦИ
+            - generic [ref=e86] [cursor=pointer]: ВЭ
+      - button "2 Показать подсказку" [ref=e94] [cursor=pointer]:
+        - generic [ref=e97] [cursor=pointer]: "2"
+        - generic [ref=e98] [cursor=pointer]: Показать подсказку
+    - generic [ref=e99]:
+      - generic [ref=e102]: Интеллектуальный тренажер
+      - generic [ref=e106]:
+        - generic [ref=e112]: 20%
+        - generic [ref=e114]:
+          - generic [ref=e115]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e117] [cursor=pointer]: Ввести код от учителя
+      - generic [ref=e120]:
+        - generic [ref=e122]:
+          - button "Пройти опрос" [ref=e123] [cursor=pointer]:
+            - generic [ref=e125] [cursor=pointer]: Пройти опрос
+          - button "Черновик" [ref=e126] [cursor=pointer]:
+            - img [ref=e129] [cursor=pointer]
+            - text: Черновик
+          - button "Информация об уроке" [ref=e133] [cursor=pointer]:
+            - img [ref=e136] [cursor=pointer]
+            - text: Информация об уроке
+        - generic [ref=e138]:
+          - generic [ref=e139]:
+            - img [ref=e141]
+            - generic [ref=e143]: Реши задание, прежде чем подтвердить
+          - button "Подтвердить" [active] [ref=e144] [cursor=pointer]:
+            - text: Подтвердить
+            - img [ref=e147] [cursor=pointer]
+```
