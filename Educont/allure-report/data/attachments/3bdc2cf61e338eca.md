@@ -1,0 +1,83 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - generic [ref=e18]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - button "1" [ref=e28] [cursor=pointer]
+            - button "2" [ref=e31] [cursor=pointer]
+            - button "3" [ref=e34] [cursor=pointer]
+          - generic [ref=e35]:
+            - button [disabled] [ref=e36]:
+              - img [ref=e38]
+            - button [disabled] [ref=e41]:
+              - img [ref=e43]
+      - generic [ref=e46]:
+        - generic [ref=e48]:
+          - img [ref=e52]
+          - heading "Внеси числовой ответ в специально предназначенное поле." [level=4] [ref=e54]:
+            - generic [ref=e56]: Внеси числовой ответ в специально предназначенное поле.
+        - generic [ref=e58]:
+          - img "decore" [ref=e61]
+          - generic [ref=e67]:
+            - text: Два проводника с сопротивлением
+            - generic [ref=e69]:
+              - math [ref=e71]:
+                - generic [ref=e74]: "2"
+              - generic [ref=e77]: "2"
+            - text: и
+            - generic [ref=e79]:
+              - math [ref=e81]:
+                - generic [ref=e83]:
+                  - generic [ref=e84]: "3"
+                  - generic [ref=e85]: Ом
+              - generic [ref=e87]:
+                - generic [ref=e88]: "3"
+                - generic [ref=e89]: Ом
+            - text: соединены параллельно. Сила тока в цепи
+            - generic [ref=e91]:
+              - math [ref=e93]:
+                - generic [ref=e95]:
+                  - generic [ref=e96]: "10"
+                  - generic [ref=e97]: А
+              - generic [ref=e99]:
+                - generic [ref=e100]: "10"
+                - generic [ref=e101]: А
+            - text: . Найди общее сопротивление.
+        - generic [ref=e106]:
+          - strong [ref=e107]: "Ответ:"
+          - text: общее сопротивление
+          - textbox [ref=e108]
+          - text: Ом.
+    - button "2 Показать подсказку" [ref=e117] [cursor=pointer]:
+      - generic [ref=e120] [cursor=pointer]: "2"
+      - generic [ref=e121] [cursor=pointer]: Показать подсказку
+  - generic [ref=e122]:
+    - generic [ref=e125]: Интеллектуальный тренажер
+    - generic [ref=e131]:
+      - button "Войти как учитель" [ref=e133] [cursor=pointer]:
+        - img [ref=e136] [cursor=pointer]
+        - text: Войти как учитель
+      - generic [ref=e138]: Для создания собственной версии урока войдите как учитель.
+    - generic [ref=e139]:
+      - generic [ref=e141]:
+        - button "Черновик" [ref=e142] [cursor=pointer]:
+          - img [ref=e145] [cursor=pointer]
+          - text: Черновик
+        - button "Информация об уроке" [ref=e150] [cursor=pointer]:
+          - img [ref=e153] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e155]:
+        - generic [ref=e156]:
+          - img [ref=e158]
+          - generic [ref=e160]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e161] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e164] [cursor=pointer]
+```

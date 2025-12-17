@@ -1,0 +1,46 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Нажми на пару антонимов." [level=4] [ref=e33]:
+            - generic [ref=e35]: Нажми на пару антонимов.
+        - img "decore" [ref=e40]
+        - generic [ref=e44]:
+          - generic [ref=e48] [cursor=pointer]: громкий – тихий
+          - generic [ref=e52] [cursor=pointer]: старый – пожилой
+    - button "2 Показать подсказку" [ref=e60] [cursor=pointer]:
+      - generic [ref=e63] [cursor=pointer]: "2"
+      - generic [ref=e64] [cursor=pointer]: Показать подсказку
+  - generic [ref=e65]:
+    - generic [ref=e68]: Интеллектуальный тренажер
+    - generic [ref=e72]:
+      - generic [ref=e78]: 20%
+      - generic [ref=e80]:
+        - generic [ref=e81]: Для выполнения версии урока от учителя введите полученный код
+        - button "Ввести код от учителя" [ref=e83] [cursor=pointer]: Ввести код от учителя
+    - generic [ref=e86]:
+      - generic [ref=e88]:
+        - button "Пройти опрос" [ref=e89] [cursor=pointer]:
+          - generic [ref=e91] [cursor=pointer]: Пройти опрос
+        - button "Черновик" [ref=e92] [cursor=pointer]:
+          - img [ref=e95] [cursor=pointer]
+          - text: Черновик
+        - button "Информация об уроке" [ref=e99] [cursor=pointer]:
+          - img [ref=e102] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e104]:
+        - generic [ref=e105]:
+          - img [ref=e107]
+          - generic [ref=e109]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [active] [ref=e110] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e113] [cursor=pointer]
+```
