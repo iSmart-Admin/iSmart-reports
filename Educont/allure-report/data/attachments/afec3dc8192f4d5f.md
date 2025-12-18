@@ -1,0 +1,144 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e8]:
+    - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+      - img [ref=e14] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e18]:
+      - generic [ref=e22]: Английский язык
+      - generic [ref=e26] [cursor=pointer]:
+        - img [ref=e28] [cursor=pointer]
+        - generic [ref=e30] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - generic [ref=e35] [cursor=pointer]:
+          - generic [ref=e37] [cursor=pointer]: Темы
+          - button [ref=e39] [cursor=pointer]:
+            - img [ref=e41] [cursor=pointer]
+        - generic [ref=e44] [cursor=pointer]:
+          - generic [ref=e47] [cursor=pointer]: Мир моего «я»
+          - img [ref=e49] [cursor=pointer]
+        - generic [ref=e51] [cursor=pointer]:
+          - generic [ref=e54] [cursor=pointer]: Мир моих увлечений
+          - img [ref=e56] [cursor=pointer]
+        - generic [ref=e58] [cursor=pointer]:
+          - generic [ref=e61] [cursor=pointer]: Мир вокруг меня
+          - img [ref=e63] [cursor=pointer]
+        - generic [ref=e65] [cursor=pointer]:
+          - generic [ref=e68] [cursor=pointer]: Родная страна и страны изучаемого языка
+          - img [ref=e70] [cursor=pointer]
+        - generic [ref=e72] [cursor=pointer]:
+          - generic [ref=e75] [cursor=pointer]: Vocabulary
+          - img [ref=e77] [cursor=pointer]
+        - generic [ref=e79] [cursor=pointer]:
+          - generic [ref=e82] [cursor=pointer]: Comprehension
+          - img [ref=e84] [cursor=pointer]
+        - generic [ref=e86] [cursor=pointer]:
+          - generic [ref=e89] [cursor=pointer]: Повторение. Грамматика
+          - img [ref=e91] [cursor=pointer]
+        - generic [ref=e93] [cursor=pointer]:
+          - generic [ref=e96] [cursor=pointer]: Диалог этикетного характера
+          - img [ref=e98] [cursor=pointer]
+        - generic [ref=e100] [cursor=pointer]:
+          - generic [ref=e103] [cursor=pointer]: Listening
+          - img [ref=e105] [cursor=pointer]
+        - generic [ref=e107] [cursor=pointer]:
+          - generic [ref=e110] [cursor=pointer]: Правила чтения
+          - img [ref=e112] [cursor=pointer]
+        - generic [ref=e114] [cursor=pointer]:
+          - generic [ref=e117] [cursor=pointer]: Повторение. Лексика
+          - img [ref=e119] [cursor=pointer]
+      - generic [ref=e125]:
+        - generic [ref=e127] [cursor=pointer]:
+          - generic [ref=e129] [cursor=pointer]:
+            - generic [ref=e131] [cursor=pointer]: "1."
+            - paragraph [ref=e133] [cursor=pointer]: Моя семья
+          - img [ref=e136] [cursor=pointer]
+        - generic [ref=e139] [cursor=pointer]:
+          - generic [ref=e141] [cursor=pointer]:
+            - generic [ref=e143] [cursor=pointer]: "2."
+            - paragraph [ref=e145] [cursor=pointer]: Профессии. Словообразование -er/-or, -ist
+          - img [ref=e148] [cursor=pointer]
+        - generic [ref=e151] [cursor=pointer]:
+          - generic [ref=e153] [cursor=pointer]:
+            - generic [ref=e155] [cursor=pointer]: 3.1.
+            - paragraph [ref=e157] [cursor=pointer]: Мой день рождения, подарки. Vocabulary
+          - img [ref=e160] [cursor=pointer]
+        - generic [ref=e163] [cursor=pointer]:
+          - generic [ref=e165] [cursor=pointer]:
+            - generic [ref=e167] [cursor=pointer]: 3.2.
+            - paragraph [ref=e169] [cursor=pointer]: Мой день рождения, подарки. Spelling
+          - img [ref=e172] [cursor=pointer]
+        - generic [ref=e175] [cursor=pointer]:
+          - generic [ref=e177] [cursor=pointer]:
+            - generic [ref=e179] [cursor=pointer]: 3.3.
+            - paragraph [ref=e181] [cursor=pointer]: Мой день рождения, подарки. Reading
+          - img [ref=e184] [cursor=pointer]
+        - generic [ref=e187] [cursor=pointer]:
+          - generic [ref=e189] [cursor=pointer]:
+            - generic [ref=e191] [cursor=pointer]: "4."
+            - paragraph [ref=e193] [cursor=pointer]: Количественные числительные 1-1000
+          - img [ref=e196] [cursor=pointer]
+        - generic [ref=e199] [cursor=pointer]:
+          - generic [ref=e201] [cursor=pointer]:
+            - generic [ref=e203] [cursor=pointer]: "5."
+            - paragraph [ref=e205] [cursor=pointer]: Дата
+          - img [ref=e208] [cursor=pointer]
+        - generic [ref=e211] [cursor=pointer]:
+          - generic [ref=e213] [cursor=pointer]:
+            - generic [ref=e215] [cursor=pointer]: "6."
+            - paragraph [ref=e217] [cursor=pointer]: Грамматика. Present Simple. Утвердительные, отрицательные и вопросительные предложения
+          - img [ref=e220] [cursor=pointer]
+        - generic [ref=e223] [cursor=pointer]:
+          - generic [ref=e225] [cursor=pointer]:
+            - generic [ref=e227] [cursor=pointer]: "7."
+            - paragraph [ref=e229] [cursor=pointer]: Моя любимая еда. Диалог
+          - img [ref=e232] [cursor=pointer]
+        - generic [ref=e235] [cursor=pointer]:
+          - generic [ref=e237] [cursor=pointer]:
+            - generic [ref=e239] [cursor=pointer]: "8."
+            - paragraph [ref=e241] [cursor=pointer]: Грамматика. Some/ no/ any
+          - img [ref=e244] [cursor=pointer]
+        - generic [ref=e247] [cursor=pointer]:
+          - generic [ref=e249] [cursor=pointer]:
+            - generic [ref=e251] [cursor=pointer]: "9."
+            - paragraph [ref=e253] [cursor=pointer]: Грамматика. Much/ many/ a lot
+          - img [ref=e256] [cursor=pointer]
+        - generic [ref=e259] [cursor=pointer]:
+          - generic [ref=e261] [cursor=pointer]:
+            - generic [ref=e263] [cursor=pointer]: 10.1.
+            - paragraph [ref=e265] [cursor=pointer]: Мой день (распорядок дня, домашние обязанности). Vocabulary
+          - img [ref=e268] [cursor=pointer]
+        - generic [ref=e271] [cursor=pointer]:
+          - generic [ref=e273] [cursor=pointer]:
+            - generic [ref=e275] [cursor=pointer]: 10.2.
+            - paragraph [ref=e277] [cursor=pointer]: Мой день (распорядок дня, домашние обязанности). Spelling
+          - img [ref=e280] [cursor=pointer]
+        - generic [ref=e283] [cursor=pointer]:
+          - generic [ref=e285] [cursor=pointer]:
+            - generic [ref=e287] [cursor=pointer]: 11.1.
+            - paragraph [ref=e289] [cursor=pointer]: Грамматика. Объектные местоимения
+          - img [ref=e292] [cursor=pointer]
+        - generic [ref=e295] [cursor=pointer]:
+          - generic [ref=e297] [cursor=pointer]:
+            - generic [ref=e299] [cursor=pointer]: 11.2.
+            - paragraph [ref=e301] [cursor=pointer]: Грамматика. Притяжательные местоимения
+          - img [ref=e304] [cursor=pointer]
+        - generic [ref=e307] [cursor=pointer]:
+          - generic [ref=e309] [cursor=pointer]:
+            - generic [ref=e311] [cursor=pointer]: 11.3.
+            - paragraph [ref=e313] [cursor=pointer]: Грамматика. Личные, объектные, притяжательные местоимения
+          - img [ref=e316] [cursor=pointer]
+        - generic [ref=e319] [cursor=pointer]:
+          - generic [ref=e321] [cursor=pointer]:
+            - generic [ref=e323] [cursor=pointer]: "12."
+            - paragraph [ref=e325] [cursor=pointer]: Грамматика. Модальный глагол Must
+          - img [ref=e328] [cursor=pointer]
+  - generic [ref=e331]:
+    - generic [ref=e332]:
+      - heading "Мета-данные" [level=5] [ref=e333]
+      - generic [ref=e334]: Unexpected token 'C', "Cannot rea"... is not valid JSON
+    - img [ref=e337] [cursor=pointer]
+```

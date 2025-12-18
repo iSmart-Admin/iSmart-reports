@@ -1,0 +1,67 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - generic [ref=e18]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - button "1" [ref=e28] [cursor=pointer]
+            - button "2" [ref=e31] [cursor=pointer]
+            - button "3" [ref=e34] [cursor=pointer]
+            - button "4" [ref=e37] [cursor=pointer]
+            - button "5" [ref=e40] [cursor=pointer]
+            - button "6" [ref=e43] [cursor=pointer]
+            - button "7" [ref=e46] [cursor=pointer]
+            - button "8" [ref=e49] [cursor=pointer]
+            - button "9" [ref=e52] [cursor=pointer]
+            - button "10" [ref=e55] [cursor=pointer]
+          - generic [ref=e56]:
+            - button [disabled] [ref=e57]:
+              - img [ref=e59]
+            - button [disabled] [ref=e62]:
+              - img [ref=e64]
+      - generic [ref=e67]:
+        - generic [ref=e69]:
+          - img [ref=e73]
+          - heading "В каком слове первый звук — твёрдый шипящий?" [level=4] [ref=e75]:
+            - generic [ref=e77]:
+              - text: В каком слове
+              - strong [ref=e78]: первый
+              - text: звук —
+              - strong [ref=e79]: твёрдый шипящий
+              - text: "?"
+        - img "decore" [ref=e84]
+        - generic [ref=e87]:
+          - generic [ref=e91] [cursor=pointer]: чудо
+          - generic [ref=e95] [cursor=pointer]: жар
+    - button "2 Показать подсказку" [ref=e103] [cursor=pointer]:
+      - generic [ref=e106] [cursor=pointer]: "2"
+      - generic [ref=e107] [cursor=pointer]: Показать подсказку
+  - generic [ref=e108]:
+    - generic [ref=e111]: Интеллектуальный тренажер
+    - generic [ref=e117]:
+      - button "Войти как учитель" [ref=e119] [cursor=pointer]:
+        - img [ref=e122] [cursor=pointer]
+        - text: Войти как учитель
+      - generic [ref=e124]: Для создания собственной версии урока войдите как учитель.
+    - generic [ref=e125]:
+      - generic [ref=e127]:
+        - button "Черновик" [ref=e128] [cursor=pointer]:
+          - img [ref=e131] [cursor=pointer]
+          - text: Черновик
+        - button "Информация об уроке" [ref=e136] [cursor=pointer]:
+          - img [ref=e139] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e141]:
+        - generic [ref=e142]:
+          - img [ref=e144]
+          - generic [ref=e146]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e147] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e150] [cursor=pointer]
+```

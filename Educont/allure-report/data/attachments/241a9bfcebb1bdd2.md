@@ -1,0 +1,66 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - generic [ref=e18]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - button "1" [ref=e28] [cursor=pointer]
+            - button "2" [ref=e31] [cursor=pointer]
+            - button "3" [ref=e34] [cursor=pointer]
+            - button "4" [ref=e37] [cursor=pointer]
+            - button "5" [ref=e40] [cursor=pointer]
+            - button "6" [ref=e43] [cursor=pointer]
+            - button "7" [ref=e46] [cursor=pointer]
+            - button "8" [ref=e49] [cursor=pointer]
+            - button "9" [ref=e52] [cursor=pointer]
+          - generic [ref=e53]:
+            - button [disabled] [ref=e54]:
+              - img [ref=e56]
+            - button [disabled] [ref=e59]:
+              - img [ref=e61]
+      - generic [ref=e64]:
+        - generic [ref=e66]:
+          - img [ref=e70]
+          - heading "Выберите все верные варианты ответа." [level=4] [ref=e72]:
+            - generic [ref=e74]: Выберите все верные варианты ответа.
+        - generic [ref=e76]:
+          - img "decore" [ref=e79]
+          - generic [ref=e85]: Выберите факторы, оказывающие влияние на формирование политической культуры.
+        - generic [ref=e90]:
+          - generic [ref=e92] [cursor=pointer]: Природные ресурсы
+          - generic [ref=e94] [cursor=pointer]: Политическая система
+          - generic [ref=e96] [cursor=pointer]: Исторический опыт страны
+          - generic [ref=e98] [cursor=pointer]: Экологическая ситуация
+          - generic [ref=e100] [cursor=pointer]: Религиозные убеждения
+    - button "2 Показать подсказку" [ref=e108] [cursor=pointer]:
+      - generic [ref=e111] [cursor=pointer]: "2"
+      - generic [ref=e112] [cursor=pointer]: Показать подсказку
+  - generic [ref=e113]:
+    - generic [ref=e116]: Интеллектуальный тренажер
+    - generic [ref=e122]:
+      - button "Войти как учитель" [ref=e124] [cursor=pointer]:
+        - img [ref=e127] [cursor=pointer]
+        - text: Войти как учитель
+      - generic [ref=e129]: Для создания собственной версии урока войдите как учитель.
+    - generic [ref=e130]:
+      - generic [ref=e132]:
+        - button "Черновик" [ref=e133] [cursor=pointer]:
+          - img [ref=e136] [cursor=pointer]
+          - text: Черновик
+        - button "Информация об уроке" [ref=e141] [cursor=pointer]:
+          - img [ref=e144] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e146]:
+        - generic [ref=e147]:
+          - img [ref=e149]
+          - generic [ref=e151]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e152] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e155] [cursor=pointer]
+```
