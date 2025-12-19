@@ -1,0 +1,50 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+    - img [ref=e14] [cursor=pointer]
+    - text: Вернуться обратно
+  - generic [ref=e18]:
+    - generic [ref=e21]:
+      - generic [ref=e22]: Литература
+      - generic [ref=e24]: Подготовка к ВПР
+    - generic [ref=e28] [cursor=pointer]:
+      - img [ref=e30] [cursor=pointer]
+      - generic [ref=e32] [cursor=pointer]: Нашли ошибку?
+  - generic [ref=e35]:
+    - generic [ref=e36]:
+      - generic [ref=e37] [cursor=pointer]:
+        - generic [ref=e39] [cursor=pointer]: Темы
+        - button [ref=e41] [cursor=pointer]:
+          - img [ref=e43] [cursor=pointer]
+      - generic [ref=e46] [cursor=pointer]:
+        - generic [ref=e49] [cursor=pointer]: Задание №1
+        - img [ref=e51] [cursor=pointer]
+      - generic [ref=e53] [cursor=pointer]:
+        - generic [ref=e56] [cursor=pointer]: Задание №2
+        - img [ref=e58] [cursor=pointer]
+      - generic [ref=e60] [cursor=pointer]:
+        - generic [ref=e63] [cursor=pointer]: Задание №3
+        - img [ref=e65] [cursor=pointer]
+      - generic [ref=e67] [cursor=pointer]:
+        - generic [ref=e70] [cursor=pointer]: Задание №4
+        - img [ref=e72] [cursor=pointer]
+      - generic [ref=e74] [cursor=pointer]:
+        - generic [ref=e77] [cursor=pointer]: Задание №5
+        - img [ref=e79] [cursor=pointer]
+      - generic [ref=e81] [cursor=pointer]:
+        - generic [ref=e84] [cursor=pointer]: Задание №6
+        - img [ref=e86] [cursor=pointer]
+    - generic [ref=e92]:
+      - generic [ref=e94] [cursor=pointer]:
+        - generic [ref=e96] [cursor=pointer]:
+          - generic [ref=e98] [cursor=pointer]: "1."
+          - paragraph [ref=e100] [cursor=pointer]: "Теоретико-литературные понятия: содержательная и идейно-художественная сторона произведения"
+        - img [ref=e103] [cursor=pointer]
+      - generic [ref=e106] [cursor=pointer]:
+        - generic [ref=e108] [cursor=pointer]:
+          - generic [ref=e110] [cursor=pointer]: "2."
+          - paragraph [ref=e112] [cursor=pointer]: "Теоретико-литературные понятия: структура и форма произведения. Литературные направления, роды и жанры"
+        - img [ref=e115] [cursor=pointer]
+```
