@@ -1,0 +1,85 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - generic [ref=e18]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - button "1" [ref=e28] [cursor=pointer]
+            - button "2" [ref=e31] [cursor=pointer]
+            - button "3" [ref=e34] [cursor=pointer]
+            - button "4" [ref=e37] [cursor=pointer]
+            - button "5" [ref=e40] [cursor=pointer]
+            - button "6" [ref=e43] [cursor=pointer]
+            - button "7" [ref=e46] [cursor=pointer]
+            - button "8" [ref=e49] [cursor=pointer]
+            - button "9" [ref=e52] [cursor=pointer]
+          - generic [ref=e53]:
+            - button [disabled] [ref=e54]:
+              - img [ref=e56]
+            - button [disabled] [ref=e59]:
+              - img [ref=e61]
+      - generic [ref=e64]:
+        - generic [ref=e66]:
+          - img [ref=e70]
+          - heading "Выбери все верные варианты ответа." [level=4] [ref=e72]:
+            - generic [ref=e74]: Выбери все верные варианты ответа.
+        - generic [ref=e76]:
+          - img "decore" [ref=e79]
+          - generic [ref=e85]: Укажи, какие из следующих чисел могут быть вероятностью события.
+        - generic [ref=e88]:
+          - generic [ref=e94] [cursor=pointer]:
+            - math [ref=e96] [cursor=pointer]:
+              - generic [ref=e98] [cursor=pointer]:
+                - generic [ref=e99] [cursor=pointer]: –
+                - generic [ref=e100] [cursor=pointer]: "1"
+            - generic [ref=e103] [cursor=pointer]: –1
+          - generic [ref=e109] [cursor=pointer]:
+            - math [ref=e111] [cursor=pointer]:
+              - generic [ref=e114] [cursor=pointer]: "0"
+            - generic [ref=e117] [cursor=pointer]: "0"
+          - generic [ref=e123] [cursor=pointer]:
+            - math [ref=e125] [cursor=pointer]:
+              - generic [ref=e127] [cursor=pointer]:
+                - generic [ref=e128] [cursor=pointer]: "0"
+                - generic [ref=e129] [cursor=pointer]: ","
+                - generic [ref=e130] [cursor=pointer]: "4"
+            - generic [ref=e132] [cursor=pointer]:
+              - generic [ref=e133] [cursor=pointer]: "0"
+              - generic [ref=e134] [cursor=pointer]: ","
+              - generic [ref=e135] [cursor=pointer]: "4"
+          - generic [ref=e141] [cursor=pointer]:
+            - math [ref=e143] [cursor=pointer]:
+              - generic [ref=e146] [cursor=pointer]: "2"
+            - generic [ref=e149] [cursor=pointer]: "2"
+    - button "2 Показать подсказку" [ref=e157] [cursor=pointer]:
+      - generic [ref=e160] [cursor=pointer]: "2"
+      - generic [ref=e161] [cursor=pointer]: Показать подсказку
+  - generic [ref=e162]:
+    - generic [ref=e165]: Интеллектуальный тренажер
+    - generic [ref=e171]:
+      - button "Войти как учитель" [ref=e173] [cursor=pointer]:
+        - img [ref=e176] [cursor=pointer]
+        - text: Войти как учитель
+      - generic [ref=e178]: Для создания собственной версии урока войдите как учитель.
+    - generic [ref=e179]:
+      - generic [ref=e181]:
+        - button "Черновик" [ref=e182] [cursor=pointer]:
+          - img [ref=e185] [cursor=pointer]
+          - text: Черновик
+        - button "Информация об уроке" [ref=e190] [cursor=pointer]:
+          - img [ref=e193] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e195]:
+        - generic [ref=e196]:
+          - img [ref=e198]
+          - generic [ref=e200]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e201] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e204] [cursor=pointer]
+```

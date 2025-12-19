@@ -1,0 +1,67 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - generic [ref=e18]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - button "1" [ref=e28] [cursor=pointer]
+            - button "2" [ref=e31] [cursor=pointer]
+            - button "3" [ref=e34] [cursor=pointer]
+            - button "4" [ref=e37] [cursor=pointer]
+            - button "5" [ref=e40] [cursor=pointer]
+            - button "6" [ref=e43] [cursor=pointer]
+            - button "7" [ref=e46] [cursor=pointer]
+            - button "8" [ref=e49] [cursor=pointer]
+            - button "9" [ref=e52] [cursor=pointer]
+            - button "10" [ref=e55] [cursor=pointer]
+          - generic [ref=e56]:
+            - button [disabled] [ref=e57]:
+              - img [ref=e59]
+            - button [ref=e62] [cursor=pointer]:
+              - img [ref=e64] [cursor=pointer]
+      - generic [ref=e67]:
+        - generic [ref=e69]:
+          - img [ref=e73]
+          - heading "Выберите верный вариант ответа." [level=4] [ref=e75]:
+            - generic [ref=e77]: Выберите верный вариант ответа.
+        - generic [ref=e79]:
+          - img "decore" [ref=e82]
+          - generic [ref=e88]: Выберите наиболее полное и верное определение экологии.
+        - generic [ref=e93]:
+          - generic [ref=e95] [cursor=pointer]: Наука о сохранении окружающей среды
+          - generic [ref=e97] [cursor=pointer]: Наука об изменениях окружающей среды
+          - generic [ref=e99] [cursor=pointer]: Наука о влиянии человека на окружающую среду
+          - generic [ref=e101] [cursor=pointer]: Наука о живых организмах в разных местообитаниях
+          - generic [ref=e103] [cursor=pointer]: Наука о живых организмах и их взаимодействии со средой
+    - button "2 Показать подсказку" [ref=e111] [cursor=pointer]:
+      - generic [ref=e114] [cursor=pointer]: "2"
+      - generic [ref=e115] [cursor=pointer]: Показать подсказку
+  - generic [ref=e116]:
+    - generic [ref=e119]: Интеллектуальный тренажер
+    - generic [ref=e125]:
+      - button "Войти как учитель" [ref=e127] [cursor=pointer]:
+        - img [ref=e130] [cursor=pointer]
+        - text: Войти как учитель
+      - generic [ref=e132]: Для создания собственной версии урока войдите как учитель.
+    - generic [ref=e133]:
+      - generic [ref=e135]:
+        - button "Черновик" [ref=e136] [cursor=pointer]:
+          - img [ref=e139] [cursor=pointer]
+          - text: Черновик
+        - button "Информация об уроке" [ref=e144] [cursor=pointer]:
+          - img [ref=e147] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e149]:
+        - generic [ref=e150]:
+          - img [ref=e152]
+          - generic [ref=e154]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e155] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e158] [cursor=pointer]
+```
