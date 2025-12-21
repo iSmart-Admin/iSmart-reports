@@ -1,0 +1,96 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - generic [ref=e18]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - button "1" [ref=e28] [cursor=pointer]
+            - button "2" [ref=e31] [cursor=pointer]
+            - button "3" [ref=e34] [cursor=pointer]
+            - button "4" [ref=e37] [cursor=pointer]
+            - button "5" [ref=e40] [cursor=pointer]
+            - button "6" [ref=e43] [cursor=pointer]
+            - button "7" [ref=e46] [cursor=pointer]
+            - button "8" [ref=e49] [cursor=pointer]
+            - button "9" [ref=e52] [cursor=pointer]
+            - button "10" [ref=e55] [cursor=pointer]
+          - generic [ref=e56]:
+            - button [disabled] [ref=e57]:
+              - img [ref=e59]
+            - button [ref=e62] [cursor=pointer]:
+              - img [ref=e64] [cursor=pointer]
+      - generic [ref=e67]:
+        - generic [ref=e69]:
+          - img [ref=e73]
+          - heading "Выберите буквы, обозначающие в словах ударные гласные звуки." [level=4] [ref=e75]:
+            - generic [ref=e77]: Выберите буквы, обозначающие в словах ударные гласные звуки.
+        - img "decore" [ref=e82]
+        - generic [ref=e85]:
+          - generic [ref=e86] [cursor=pointer]: У
+          - generic [ref=e87] [cursor=pointer]: б
+          - generic [ref=e88] [cursor=pointer]: р
+          - generic [ref=e89] [cursor=pointer]: а
+          - generic [ref=e90] [cursor=pointer]: л
+          - generic [ref=e91] [cursor=pointer]: а
+          - generic [ref=e92]: ","
+          - generic [ref=e93] [cursor=pointer]: м
+          - generic [ref=e94] [cursor=pointer]: у
+          - generic [ref=e95] [cursor=pointer]: с
+          - generic [ref=e96] [cursor=pointer]: о
+          - generic [ref=e97] [cursor=pointer]: р
+          - generic [ref=e98] [cursor=pointer]: о
+          - generic [ref=e99] [cursor=pointer]: п
+          - generic [ref=e100] [cursor=pointer]: р
+          - generic [ref=e101] [cursor=pointer]: о
+          - generic [ref=e102] [cursor=pointer]: в
+          - generic [ref=e103] [cursor=pointer]: о
+          - generic [ref=e104] [cursor=pointer]: д
+          - generic [ref=e105]: ","
+          - generic [ref=e106] [cursor=pointer]: д
+          - generic [ref=e107] [cursor=pointer]: о
+          - generic [ref=e108] [cursor=pointer]: г
+          - generic [ref=e109] [cursor=pointer]: о
+          - generic [ref=e110] [cursor=pointer]: в
+          - generic [ref=e111] [cursor=pointer]: о
+          - generic [ref=e112] [cursor=pointer]: р
+          - generic [ref=e113] [cursor=pointer]: ы
+          - generic [ref=e114]: ","
+          - generic [ref=e115] [cursor=pointer]: с
+          - generic [ref=e116] [cursor=pointer]: т
+          - generic [ref=e117] [cursor=pointer]: а
+          - generic [ref=e118] [cursor=pointer]: т
+          - generic [ref=e119] [cursor=pointer]: у
+          - generic [ref=e120] [cursor=pointer]: я
+          - generic [ref=e121]: .
+    - button "2 Показать подсказку" [ref=e129] [cursor=pointer]:
+      - generic [ref=e132] [cursor=pointer]: "2"
+      - generic [ref=e133] [cursor=pointer]: Показать подсказку
+  - generic [ref=e134]:
+    - generic [ref=e137]: Интеллектуальный тренажер
+    - generic [ref=e143]:
+      - button "Войти как учитель" [ref=e145] [cursor=pointer]:
+        - img [ref=e148] [cursor=pointer]
+        - text: Войти как учитель
+      - generic [ref=e150]: Для создания собственной версии урока войдите как учитель.
+    - generic [ref=e151]:
+      - generic [ref=e153]:
+        - button "Черновик" [ref=e154] [cursor=pointer]:
+          - img [ref=e157] [cursor=pointer]
+          - text: Черновик
+        - button "Информация об уроке" [ref=e162] [cursor=pointer]:
+          - img [ref=e165] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e167]:
+        - generic [ref=e168]:
+          - img [ref=e170]
+          - generic [ref=e172]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e173] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e176] [cursor=pointer]
+```
