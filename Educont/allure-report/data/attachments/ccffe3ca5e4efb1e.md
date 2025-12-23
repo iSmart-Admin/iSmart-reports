@@ -1,0 +1,62 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e16]:
+    - generic [ref=e18]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - button "1" [ref=e28] [cursor=pointer]
+          - button "2" [ref=e31] [cursor=pointer]
+          - button "3" [ref=e34] [cursor=pointer]
+          - button "4" [ref=e37] [cursor=pointer]
+          - button "5" [ref=e40] [cursor=pointer]
+          - button "6" [ref=e43] [cursor=pointer]
+          - button "7" [ref=e46] [cursor=pointer]
+          - button "8" [ref=e49] [cursor=pointer]
+          - button "9" [ref=e52] [cursor=pointer]
+          - button "10" [ref=e55] [cursor=pointer]
+        - generic [ref=e56]:
+          - button [disabled] [ref=e57]:
+            - img [ref=e59]
+          - button [disabled] [ref=e62]:
+            - img [ref=e64]
+    - generic [ref=e67]:
+      - generic [ref=e69]:
+        - img [ref=e73]
+        - heading "Выбери верные высказывания." [level=4] [ref=e75]:
+          - generic [ref=e77]: Выбери верные высказывания.
+      - generic [ref=e79]:
+        - img "decore" [ref=e82]
+        - generic [ref=e88]: 67 14 32 55 28
+      - generic [ref=e92]:
+        - generic [ref=e95] [cursor=pointer]: В ряду только нечётные числа.
+        - generic [ref=e98] [cursor=pointer]: Все числа в ряду двузначные.
+        - generic [ref=e101] [cursor=pointer]: Все числа в ряду меньше, чем 90.
+        - generic [ref=e104] [cursor=pointer]: В ряду есть однозначное число.
+  - generic [ref=e108]:
+    - generic [ref=e111]: Интеллектуальный тренажер
+    - generic [ref=e117]:
+      - button "Войти как учитель" [ref=e119] [cursor=pointer]:
+        - img [ref=e122] [cursor=pointer]
+        - text: Войти как учитель
+      - generic [ref=e124]: Для создания собственной версии урока войдите как учитель.
+    - generic [ref=e125]:
+      - generic [ref=e127]:
+        - button "Черновик" [ref=e128] [cursor=pointer]:
+          - img [ref=e131] [cursor=pointer]
+          - text: Черновик
+        - button "Информация об уроке" [ref=e136] [cursor=pointer]:
+          - img [ref=e139] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e141]:
+        - generic [ref=e142]:
+          - img [ref=e144]
+          - generic [ref=e146]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e147] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e150] [cursor=pointer]
+```
