@@ -1,0 +1,111 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e10]:
+      - generic [ref=e13]:
+        - link "Пользователи" [ref=e15] [cursor=pointer]:
+          - /url: /admin/users
+          - generic [ref=e18] [cursor=pointer]: Пользователи
+        - link "ПС" [ref=e21] [cursor=pointer]:
+          - /url: /admin/paymentSystem
+          - generic [ref=e24] [cursor=pointer]: ПС
+        - link "Геймификация" [ref=e27] [cursor=pointer]:
+          - /url: /admin/game
+          - generic [ref=e30] [cursor=pointer]: Геймификация
+        - link "Черновики" [ref=e33] [cursor=pointer]:
+          - /url: /admin/userDraws
+          - generic [ref=e36] [cursor=pointer]: Черновики
+        - link "Каталог заданий" [ref=e39] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e42] [cursor=pointer]: Каталог заданий
+        - link "Диагностика" [ref=e45] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e48] [cursor=pointer]: Диагностика
+        - link "Задания" [ref=e51] [cursor=pointer]:
+          - /url: /design/tasks
+          - generic [ref=e54] [cursor=pointer]: Задания
+        - link "Классы" [ref=e57] [cursor=pointer]:
+          - /url: /admin/classes
+          - generic [ref=e60] [cursor=pointer]: Классы
+        - link "Предметы" [ref=e63] [cursor=pointer]:
+          - /url: /admin/subjects
+          - generic [ref=e66] [cursor=pointer]: Предметы
+        - link "Темы" [ref=e69] [cursor=pointer]:
+          - /url: /admin/themes
+          - generic [ref=e72] [cursor=pointer]: Темы
+        - link "Подтемы" [ref=e75] [cursor=pointer]:
+          - /url: /admin/subthemes
+          - generic [ref=e78] [cursor=pointer]: Подтемы
+        - link "Файлы" [ref=e81] [cursor=pointer]:
+          - /url: /design/fs
+          - generic [ref=e84] [cursor=pointer]: Файлы
+        - link "Школы" [ref=e87] [cursor=pointer]:
+          - /url: /schools
+          - generic [ref=e90] [cursor=pointer]: Школы
+      - generic [ref=e93] [cursor=pointer]:
+        - generic [ref=e96] [cursor=pointer]: Н
+        - generic [ref=e97] [cursor=pointer]:
+          - paragraph [ref=e98] [cursor=pointer]: Суперпользователь
+          - paragraph [ref=e99] [cursor=pointer]: Николай
+        - img [ref=e101] [cursor=pointer]
+    - generic [ref=e104]:
+      - generic [ref=e105]:
+        - generic [ref=e106]:
+          - heading "Пользователи" [level=2] [ref=e108]
+          - generic [ref=e109]: Администрирование
+        - button "Фильтр" [active] [ref=e110] [cursor=pointer]:
+          - img [ref=e113] [cursor=pointer]
+          - text: Фильтр
+        - button "Добавить" [ref=e115] [cursor=pointer]:
+          - img [ref=e118] [cursor=pointer]
+          - text: Добавить
+      - generic [ref=e120]:
+        - table [ref=e121]:
+          - rowgroup [ref=e122]:
+            - row "Роль Имя Контакты Дата создания" [ref=e123]:
+              - cell "Роль" [ref=e124]
+              - cell "Имя" [ref=e125]
+              - cell "Контакты" [ref=e126]
+              - cell "Дата создания" [ref=e127]
+              - cell [ref=e128]
+          - rowgroup
+        - img [ref=e130]
+  - generic [ref=e152]:
+    - generic [ref=e154]:
+      - generic [ref=e155]:
+        - heading "Фильтр" [level=1] [ref=e156]
+        - paragraph [ref=e157]: Найти
+      - button [ref=e158] [cursor=pointer]:
+        - img [ref=e160] [cursor=pointer]
+    - generic [ref=e162]:
+      - checkbox "Точный поиск" [ref=e163] [cursor=pointer]:
+        - img [ref=e166] [cursor=pointer]
+        - generic [ref=e168] [cursor=pointer]: Точный поиск
+      - img [ref=e170] [cursor=pointer]
+    - generic [ref=e172]:
+      - generic [ref=e173]:
+        - generic [ref=e174]: Роль
+        - generic [ref=e175]:
+          - textbox [ref=e178]
+          - img [ref=e181] [cursor=pointer]
+      - generic [ref=e183]:
+        - generic [ref=e184]: Эл.Почта
+        - generic [ref=e185]:
+          - textbox [ref=e187]
+          - img [ref=e190] [cursor=pointer]
+      - generic [ref=e192]:
+        - generic [ref=e193]: Телефон
+        - generic [ref=e194]:
+          - textbox [ref=e196]
+          - img [ref=e199] [cursor=pointer]
+      - generic [ref=e201]:
+        - generic [ref=e202]: Имя
+        - generic [ref=e203]:
+          - textbox [ref=e205]
+          - img [ref=e208] [cursor=pointer]
+    - generic [ref=e210]:
+      - button "Сбросить фильтр" [disabled] [ref=e211]
+      - button "Применить" [ref=e212] [cursor=pointer]
+```
