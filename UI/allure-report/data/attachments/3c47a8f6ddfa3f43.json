@@ -1,0 +1,13 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "\n      query FaqGroups($location: FaqLocation) {\n        faqGroups(location: $location) {\n          id\n          title\n          icon\n          weight\n          location\n          faqArticles {\n            id\n            title\n            body\n            weight\n            createDate\n            updateDate\n          }\n        }\n      }\n    ",
+      "variables": {
+        "location": "LessonRunner"
+      }
+    },
+    "timestap": "23.12.2025, 14:12:03"
+  }
+]
