@@ -1,0 +1,95 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e33]:
+            - generic [ref=e35]: Внесите ответ в специально предназначенное поле.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]:
+            - text: В жидкость с показателем преломления
+            - generic [ref=e48]:
+              - math [ref=e50]:
+                - generic [ref=e52]:
+                  - generic [ref=e53]: "n"
+                  - generic [ref=e54]: =
+                  - generic [ref=e55]: "1"
+                  - generic [ref=e56]: ","
+                  - generic [ref=e57]: "8"
+              - generic [ref=e58]:
+                - generic [ref=e59]:
+                  - generic [ref=e60]: "n"
+                  - generic [ref=e61]: =
+                - generic [ref=e62]:
+                  - generic [ref=e63]: "1"
+                  - generic [ref=e64]: ","
+                  - generic [ref=e65]: "8"
+            - text: помещён источник света. На каком максимальном расстоянии над источником надо поместить диск диаметром
+            - generic [ref=e67]:
+              - math [ref=e69]:
+                - generic [ref=e71]:
+                  - generic [ref=e72]: D
+                  - generic [ref=e73]: =
+                  - generic [ref=e74]: "4"
+                  - generic [ref=e75]: см
+              - generic [ref=e76]:
+                - generic [ref=e77]:
+                  - generic [ref=e78]: D
+                  - generic [ref=e79]: =
+                - generic [ref=e80]:
+                  - generic [ref=e81]: "4"
+                  - generic [ref=e82]: см
+            - text: ", чтобы свет не вышел из жидкости в воздух? Глубина погружения источника"
+            - generic [ref=e84]:
+              - math [ref=e86]:
+                - generic [ref=e88]:
+                  - generic [ref=e89]: H
+                  - generic [ref=e90]: =
+                  - generic [ref=e91]: "4"
+                  - generic [ref=e92]: см
+              - generic [ref=e93]:
+                - generic [ref=e94]:
+                  - generic [ref=e95]: H
+                  - generic [ref=e96]: =
+                - generic [ref=e97]:
+                  - generic [ref=e98]: "4"
+                  - generic [ref=e99]: см
+            - text: .
+        - generic [ref=e104]:
+          - strong [ref=e105]: "Ответ:"
+          - text: расстояние над источником
+          - textbox [ref=e106]
+          - text: см.
+    - button "2 Показать подсказку" [ref=e115] [cursor=pointer]:
+      - generic [ref=e118] [cursor=pointer]: "2"
+      - generic [ref=e119] [cursor=pointer]: Показать подсказку
+  - generic [ref=e120]:
+    - generic [ref=e123]: Интеллектуальный тренажер
+    - generic [ref=e127]:
+      - generic [ref=e132]: 1 из 7
+      - generic [ref=e133]:
+        - generic [ref=e134]:
+          - generic [ref=e135]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e137] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e141] [cursor=pointer]:
+          - generic [ref=e143] [cursor=pointer]: Пройти опрос
+    - generic [ref=e144]:
+      - button "Информация об уроке" [ref=e149] [cursor=pointer]:
+        - img [ref=e152] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e154]:
+        - generic [ref=e155]:
+          - img [ref=e157]
+          - generic [ref=e159]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e160] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e163] [cursor=pointer]
+```

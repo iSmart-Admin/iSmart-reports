@@ -1,0 +1,55 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Внесите ответы в специально предназначенные поля." [level=4] [ref=e33]:
+            - generic [ref=e35]: Внесите ответы в специально предназначенные поля.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]: Даны числа x и y. Выведите число, равное x-y, если x<=y, и 1 - х — y в противном случае. Следующая программа решает эту задачу, но в представленной программе пропущены 2 строки.
+        - generic [ref=e50]:
+          - generic [ref=e51]: Необходимо вписать пропущенные команды без пробелов и других лишних символов.
+          - generic [ref=e52]:
+            - text: x=int(input())
+            - text: y=int(input())
+            - text: "if x<=y:"
+            - text: print(
+            - textbox [ref=e53]
+            - text: );
+            - text: "else:"
+            - text: print(
+            - textbox [ref=e54]
+            - text: );
+    - button "2 Показать подсказку" [ref=e63] [cursor=pointer]:
+      - generic [ref=e66] [cursor=pointer]: "2"
+      - generic [ref=e67] [cursor=pointer]: Показать подсказку
+  - generic [ref=e68]:
+    - generic [ref=e71]: Интеллектуальный тренажер
+    - generic [ref=e75]:
+      - generic [ref=e80]: 1 из 6
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - generic [ref=e83]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e85] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e89] [cursor=pointer]:
+          - generic [ref=e91] [cursor=pointer]: Пройти опрос
+    - generic [ref=e92]:
+      - button "Информация об уроке" [ref=e97] [cursor=pointer]:
+        - img [ref=e100] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - img [ref=e105]
+          - generic [ref=e107]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e108] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e111] [cursor=pointer]
+```

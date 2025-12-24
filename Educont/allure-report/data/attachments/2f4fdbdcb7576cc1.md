@@ -1,0 +1,48 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Расставь элементы в верной последовательности." [level=4] [ref=e33]:
+            - generic [ref=e35]: Расставь элементы в верной последовательности.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]: Укажи верный порядок прохождения пищей отделов пищеварительной системы.
+        - generic [ref=e49]:
+          - generic [ref=e54] [cursor=pointer]: Желудок
+          - generic [ref=e59] [cursor=pointer]: Толстая кишка
+          - generic [ref=e64] [cursor=pointer]: Тонкая кишка
+          - generic [ref=e69] [cursor=pointer]: Пищевод
+          - generic [ref=e74] [cursor=pointer]: Ротовая полость
+    - button "2 Показать подсказку" [ref=e82] [cursor=pointer]:
+      - generic [ref=e85] [cursor=pointer]: "2"
+      - generic [ref=e86] [cursor=pointer]: Показать подсказку
+  - generic [ref=e87]:
+    - generic [ref=e90]: Интеллектуальный тренажер
+    - generic [ref=e94]:
+      - generic [ref=e99]: 1 из 6
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - generic [ref=e102]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e104] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e108] [cursor=pointer]:
+          - generic [ref=e110] [cursor=pointer]: Пройти опрос
+    - generic [ref=e111]:
+      - button "Информация об уроке" [ref=e116] [cursor=pointer]:
+        - img [ref=e119] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e121]:
+        - generic [ref=e122]:
+          - img [ref=e124]
+          - generic [ref=e126]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e127] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e130] [cursor=pointer]
+```

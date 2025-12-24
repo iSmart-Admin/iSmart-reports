@@ -1,0 +1,62 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Fill the gaps. Заполни пробелы." [level=4] [ref=e33]:
+            - generic [ref=e35]: Fill the gaps. Заполни пробелы.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e43]: Read the sentences and choose the correct modal verb. Write it in the gap.
+        - generic [ref=e47]:
+          - generic [ref=e48]:
+            - text: Teenagers
+            - textbox [ref=e49]
+            - text: be encouraged to explore their interests and passions. (should or might)
+          - generic [ref=e50]:
+            - text: Parents
+            - textbox [ref=e51]
+            - text: provide guidance and support, but also allow for independence.(shall or ought to)
+          - generic [ref=e52]:
+            - text: Young people
+            - textbox [ref=e53]
+            - text: learn to make responsible decisions and face the consequences of their actions.(should or shouldn't)
+          - generic [ref=e54]:
+            - text: Adults
+            - textbox [ref=e55]
+            - text: listen to teenagers' concerns and perspectives without judgment.(ought to or have to)
+          - generic [ref=e56]:
+            - textbox [ref=e57]
+            - text: we talk more openly about the challenges of adolescence? (Shall or Must)
+    - button "2 Показать подсказку" [ref=e66] [cursor=pointer]:
+      - generic [ref=e69] [cursor=pointer]: "2"
+      - generic [ref=e70] [cursor=pointer]: Показать подсказку
+  - generic [ref=e71]:
+    - generic [ref=e74]: Интеллектуальный тренажер
+    - generic [ref=e78]:
+      - generic [ref=e83]: 1 из 3
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - generic [ref=e86]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e88] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e92] [cursor=pointer]:
+          - generic [ref=e94] [cursor=pointer]: Пройти опрос
+    - generic [ref=e95]:
+      - button "Информация об уроке" [ref=e100] [cursor=pointer]:
+        - img [ref=e103] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e105]:
+        - generic [ref=e106]:
+          - img [ref=e108]
+          - generic [ref=e110]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e111] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e114] [cursor=pointer]
+```

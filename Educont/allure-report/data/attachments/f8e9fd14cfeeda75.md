@@ -1,0 +1,44 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e16]:
+    - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+      - img [ref=e22] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e25]:
+      - generic [ref=e27]:
+        - img [ref=e31]
+        - heading "Впиши ответ." [level=4] [ref=e33]:
+          - generic [ref=e35]: Впиши ответ.
+      - generic [ref=e37]:
+        - img "decore" [ref=e40]
+        - generic [ref=e43]:
+          - generic [ref=e46]: Из двух прямоугольников составили фигуру. Найди периметр данной фигуры.
+          - img [ref=e48]
+      - generic [ref=e56]:
+        - strong [ref=e57]: "Ответ:"
+        - textbox [ref=e58]
+        - text: .
+  - generic [ref=e64]:
+    - generic [ref=e67]: Интеллектуальный тренажер
+    - generic [ref=e71]:
+      - generic [ref=e76]: 1 из 9
+      - generic [ref=e77]:
+        - generic [ref=e78]:
+          - generic [ref=e79]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e81] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e85] [cursor=pointer]:
+          - generic [ref=e87] [cursor=pointer]: Пройти опрос
+    - generic [ref=e88]:
+      - button "Информация об уроке" [ref=e93] [cursor=pointer]:
+        - img [ref=e96] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e98]:
+        - generic [ref=e99]:
+          - img [ref=e101]
+          - generic [ref=e103]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e104] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e107] [cursor=pointer]
+```

@@ -1,0 +1,73 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Внесите числовой ответ в специально предназначенное поле." [level=4] [ref=e33]:
+            - generic [ref=e35]: Внесите числовой ответ в специально предназначенное поле.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]: Выберите все правильные утверждения о свойствах металлов IA группы.
+        - generic [ref=e50]:
+          - list [ref=e51]:
+            - listitem [ref=e52]: Электроотрицательность у калия меньше, чем у цезия.
+            - listitem [ref=e53]: Металлы IA группы называются щелочные металлы.
+            - listitem [ref=e54]: Радиус атома у натрия больше, чем у лития.
+            - listitem [ref=e55]: Металлы IA группы называются щелочно-земельные металлы.
+            - listitem [ref=e56]: Металлические свойства у франция выражены сильнее, чем у калия.
+            - listitem [ref=e57]: Восстановительные свойства натрия выше, чем у рубидия.
+            - listitem [ref=e58]:
+              - text: Электронная конфигурация внешнего слоя металлов IA группы –
+              - generic [ref=e60]:
+                - math [ref=e62]:
+                  - generic [ref=e64]:
+                    - generic [ref=e65]: "n"
+                    - generic [ref=e66]:
+                      - generic [ref=e67]: s
+                      - generic [ref=e68]: "2"
+                - generic [ref=e71]:
+                  - generic [ref=e72]: "n"
+                  - generic [ref=e73]:
+                    - generic [ref=e74]: s
+                    - generic [ref=e80]: "2"
+              - text: .
+            - listitem [ref=e81]: Все металлы IA группы при взаимодействии с кислородом дают оксиды.
+            - listitem [ref=e82]: Металлы IA группы мягкие и имеют небольшую плотность по сравнению с другими.
+            - listitem [ref=e83]:
+              - text: В природе металлы IA группы встречаются в чистом виде.
+              - text: Запишите ответ в виде последовательности цифр в порядке возрастания.
+          - generic [ref=e84]:
+            - strong [ref=e85]: "Ответ:"
+            - textbox [ref=e86]
+    - button "2 Показать подсказку" [ref=e95] [cursor=pointer]:
+      - generic [ref=e98] [cursor=pointer]: "2"
+      - generic [ref=e99] [cursor=pointer]: Показать подсказку
+  - generic [ref=e100]:
+    - generic [ref=e103]: Интеллектуальный тренажер
+    - generic [ref=e107]:
+      - generic [ref=e112]: 1 из 15
+      - generic [ref=e113]:
+        - generic [ref=e114]:
+          - generic [ref=e115]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e117] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e121] [cursor=pointer]:
+          - generic [ref=e123] [cursor=pointer]: Пройти опрос
+    - generic [ref=e124]:
+      - button "Информация об уроке" [ref=e129] [cursor=pointer]:
+        - img [ref=e132] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e134]:
+        - generic [ref=e135]:
+          - img [ref=e137]
+          - generic [ref=e139]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e140] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e143] [cursor=pointer]
+```

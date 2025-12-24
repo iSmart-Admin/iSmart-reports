@@ -1,0 +1,139 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выберите верный вариант ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выберите верный вариант ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]:
+            - text: Выберите верный состав атома селена
+            - generic [ref=e48]:
+              - math [ref=e50]:
+                - generic [ref=e52]:
+                  - generic [ref=e53]:
+                    - generic [ref=e54]: "34"
+                    - generic [ref=e55]: "79"
+                  - generic [ref=e56]: S
+                  - generic [ref=e57]: e
+              - generic [ref=e59]:
+                - generic [ref=e64]:
+                  - generic [ref=e67]: "34"
+                  - generic [ref=e70]: "79"
+                - generic [ref=e74]: S
+                - generic [ref=e75]: e
+            - text: .
+        - generic [ref=e78]:
+          - generic [ref=e84] [cursor=pointer]:
+            - math [ref=e86] [cursor=pointer]:
+              - generic [ref=e88] [cursor=pointer]:
+                - generic [ref=e89] [cursor=pointer]: "34"
+                - generic [ref=e90] [cursor=pointer]: e
+                - generic [ref=e91] [cursor=pointer]: ","
+                - generic [ref=e92] [cursor=pointer]: "34"
+                - generic [ref=e93] [cursor=pointer]: p
+                - generic [ref=e94] [cursor=pointer]: ","
+                - generic [ref=e95] [cursor=pointer]: "45"
+                - generic [ref=e96] [cursor=pointer]: "n"
+            - generic [ref=e98] [cursor=pointer]:
+              - generic [ref=e99] [cursor=pointer]: "34"
+              - generic [ref=e100] [cursor=pointer]: e
+              - generic [ref=e101] [cursor=pointer]: ","
+              - generic [ref=e102] [cursor=pointer]: "34"
+              - generic [ref=e103] [cursor=pointer]: p
+              - generic [ref=e104] [cursor=pointer]: ","
+              - generic [ref=e105] [cursor=pointer]: "45"
+              - generic [ref=e106] [cursor=pointer]: "n"
+          - generic [ref=e112] [cursor=pointer]:
+            - math [ref=e114] [cursor=pointer]:
+              - generic [ref=e116] [cursor=pointer]:
+                - generic [ref=e117] [cursor=pointer]: "34"
+                - generic [ref=e118] [cursor=pointer]: e
+                - generic [ref=e119] [cursor=pointer]: ","
+                - generic [ref=e120] [cursor=pointer]: "35"
+                - generic [ref=e121] [cursor=pointer]: p
+                - generic [ref=e122] [cursor=pointer]: ","
+                - generic [ref=e123] [cursor=pointer]: "45"
+                - generic [ref=e124] [cursor=pointer]: "n"
+            - generic [ref=e126] [cursor=pointer]:
+              - generic [ref=e127] [cursor=pointer]: "34"
+              - generic [ref=e128] [cursor=pointer]: e
+              - generic [ref=e129] [cursor=pointer]: ","
+              - generic [ref=e130] [cursor=pointer]: "35"
+              - generic [ref=e131] [cursor=pointer]: p
+              - generic [ref=e132] [cursor=pointer]: ","
+              - generic [ref=e133] [cursor=pointer]: "45"
+              - generic [ref=e134] [cursor=pointer]: "n"
+          - generic [ref=e140] [cursor=pointer]:
+            - math [ref=e142] [cursor=pointer]:
+              - generic [ref=e144] [cursor=pointer]:
+                - generic [ref=e145] [cursor=pointer]: "34"
+                - generic [ref=e146] [cursor=pointer]: e
+                - generic [ref=e147] [cursor=pointer]: ","
+                - generic [ref=e148] [cursor=pointer]: "34"
+                - generic [ref=e149] [cursor=pointer]: p
+                - generic [ref=e150] [cursor=pointer]: ","
+                - generic [ref=e151] [cursor=pointer]: "44"
+                - generic [ref=e152] [cursor=pointer]: "n"
+            - generic [ref=e154] [cursor=pointer]:
+              - generic [ref=e155] [cursor=pointer]: "34"
+              - generic [ref=e156] [cursor=pointer]: e
+              - generic [ref=e157] [cursor=pointer]: ","
+              - generic [ref=e158] [cursor=pointer]: "34"
+              - generic [ref=e159] [cursor=pointer]: p
+              - generic [ref=e160] [cursor=pointer]: ","
+              - generic [ref=e161] [cursor=pointer]: "44"
+              - generic [ref=e162] [cursor=pointer]: "n"
+          - generic [ref=e168] [cursor=pointer]:
+            - math [ref=e170] [cursor=pointer]:
+              - generic [ref=e172] [cursor=pointer]:
+                - generic [ref=e173] [cursor=pointer]: "35"
+                - generic [ref=e174] [cursor=pointer]: e
+                - generic [ref=e175] [cursor=pointer]: ","
+                - generic [ref=e176] [cursor=pointer]: "34"
+                - generic [ref=e177] [cursor=pointer]: p
+                - generic [ref=e178] [cursor=pointer]: ","
+                - generic [ref=e179] [cursor=pointer]: "45"
+                - generic [ref=e180] [cursor=pointer]: "n"
+            - generic [ref=e182] [cursor=pointer]:
+              - generic [ref=e183] [cursor=pointer]: "35"
+              - generic [ref=e184] [cursor=pointer]: e
+              - generic [ref=e185] [cursor=pointer]: ","
+              - generic [ref=e186] [cursor=pointer]: "34"
+              - generic [ref=e187] [cursor=pointer]: p
+              - generic [ref=e188] [cursor=pointer]: ","
+              - generic [ref=e189] [cursor=pointer]: "45"
+              - generic [ref=e190] [cursor=pointer]: "n"
+    - button "2 Показать подсказку" [ref=e198] [cursor=pointer]:
+      - generic [ref=e201] [cursor=pointer]: "2"
+      - generic [ref=e202] [cursor=pointer]: Показать подсказку
+  - generic [ref=e203]:
+    - generic [ref=e206]: Интеллектуальный тренажер
+    - generic [ref=e210]:
+      - generic [ref=e215]: 1 из 15
+      - generic [ref=e216]:
+        - generic [ref=e217]:
+          - generic [ref=e218]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e220] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e224] [cursor=pointer]:
+          - generic [ref=e226] [cursor=pointer]: Пройти опрос
+    - generic [ref=e227]:
+      - button "Информация об уроке" [ref=e232] [cursor=pointer]:
+        - img [ref=e235] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e237]:
+        - generic [ref=e238]:
+          - img [ref=e240]
+          - generic [ref=e242]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e243] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e246] [cursor=pointer]
+```

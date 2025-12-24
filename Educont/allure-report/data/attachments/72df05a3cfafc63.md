@@ -1,0 +1,154 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выберите верный вариант ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выберите верный вариант ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e42]:
+            - img "смеш соед проводников рис1" [ref=e45]
+            - generic [ref=e49]:
+              - text: Чему равно общее сопротивление участка цепи, изображённого на рисунке, если
+              - generic [ref=e51]:
+                - math [ref=e53]:
+                  - generic [ref=e56]:
+                    - generic [ref=e57]: R
+                    - generic [ref=e58]: "1"
+                - generic [ref=e61]:
+                  - generic [ref=e62]: R
+                  - generic [ref=e68]: "1"
+              - text: =
+              - generic [ref=e73]:
+                - math [ref=e75]:
+                  - generic [ref=e77]:
+                    - generic [ref=e78]: "2"
+                    - generic [ref=e79]: Ом
+                - generic [ref=e81]:
+                  - generic [ref=e82]: "2"
+                  - generic [ref=e83]: Ом
+              - text: ","
+              - generic [ref=e85]:
+                - math [ref=e87]:
+                  - generic [ref=e90]:
+                    - generic [ref=e91]: R
+                    - generic [ref=e92]: "2"
+                - generic [ref=e95]:
+                  - generic [ref=e96]: R
+                  - generic [ref=e102]: "2"
+              - text: =
+              - generic [ref=e107]:
+                - math [ref=e109]:
+                  - generic [ref=e111]:
+                    - generic [ref=e112]: "3"
+                    - generic [ref=e113]: Ом
+                - generic [ref=e115]:
+                  - generic [ref=e116]: "3"
+                  - generic [ref=e117]: Ом
+              - text: ","
+              - generic [ref=e119]:
+                - math [ref=e121]:
+                  - generic [ref=e124]:
+                    - generic [ref=e125]: R
+                    - generic [ref=e126]: "3"
+                - generic [ref=e129]:
+                  - generic [ref=e130]: R
+                  - generic [ref=e136]: "3"
+              - text: =
+              - generic [ref=e141]:
+                - math [ref=e143]:
+                  - generic [ref=e145]:
+                    - generic [ref=e146]: "3"
+                    - generic [ref=e147]: Ом
+                - generic [ref=e149]:
+                  - generic [ref=e150]: "3"
+                  - generic [ref=e151]: Ом
+              - text: ","
+              - generic [ref=e153]:
+                - math [ref=e155]:
+                  - generic [ref=e158]:
+                    - generic [ref=e159]: R
+                    - generic [ref=e160]: "4"
+                - generic [ref=e163]:
+                  - generic [ref=e164]: R
+                  - generic [ref=e170]: "4"
+              - text: =
+              - generic [ref=e175]:
+                - math [ref=e177]:
+                  - generic [ref=e179]:
+                    - generic [ref=e180]: "8"
+                    - generic [ref=e181]: Ом
+                - generic [ref=e183]:
+                  - generic [ref=e184]: "8"
+                  - generic [ref=e185]: Ом
+              - text: "?"
+        - generic [ref=e188]:
+          - generic [ref=e194] [cursor=pointer]:
+            - math [ref=e196] [cursor=pointer]:
+              - generic [ref=e198] [cursor=pointer]:
+                - generic [ref=e199] [cursor=pointer]: "12"
+                - generic [ref=e200] [cursor=pointer]: Ом
+            - generic [ref=e202] [cursor=pointer]:
+              - generic [ref=e203] [cursor=pointer]: "12"
+              - generic [ref=e205] [cursor=pointer]: Ом
+          - generic [ref=e211] [cursor=pointer]:
+            - math [ref=e213] [cursor=pointer]:
+              - generic [ref=e215] [cursor=pointer]:
+                - generic [ref=e216] [cursor=pointer]: "10"
+                - generic [ref=e217] [cursor=pointer]: Ом
+            - generic [ref=e219] [cursor=pointer]:
+              - generic [ref=e220] [cursor=pointer]: "10"
+              - generic [ref=e222] [cursor=pointer]: Ом
+          - generic [ref=e228] [cursor=pointer]:
+            - math [ref=e230] [cursor=pointer]:
+              - generic [ref=e232] [cursor=pointer]:
+                - generic [ref=e233] [cursor=pointer]: "8"
+                - generic [ref=e234] [cursor=pointer]: Ом
+            - generic [ref=e236] [cursor=pointer]:
+              - generic [ref=e237] [cursor=pointer]: "8"
+              - generic [ref=e239] [cursor=pointer]: Ом
+          - generic [ref=e245] [cursor=pointer]:
+            - math [ref=e247] [cursor=pointer]:
+              - generic [ref=e249] [cursor=pointer]:
+                - generic [ref=e250] [cursor=pointer]: "11"
+                - generic [ref=e251] [cursor=pointer]: ","
+                - generic [ref=e252] [cursor=pointer]: "5"
+                - generic [ref=e253] [cursor=pointer]: Ом
+            - generic [ref=e255] [cursor=pointer]:
+              - generic [ref=e256] [cursor=pointer]: "11"
+              - generic [ref=e257] [cursor=pointer]: ","
+              - generic [ref=e258] [cursor=pointer]: "5"
+              - generic [ref=e260] [cursor=pointer]: Ом
+    - button "1 Показать подсказку" [ref=e268] [cursor=pointer]:
+      - generic [ref=e271] [cursor=pointer]: "1"
+      - generic [ref=e272] [cursor=pointer]: Показать подсказку
+  - generic [ref=e273]:
+    - generic [ref=e276]: Интеллектуальный тренажер
+    - generic [ref=e280]:
+      - generic [ref=e285]: 1 из 9
+      - generic [ref=e286]:
+        - generic [ref=e287]:
+          - generic [ref=e288]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e290] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e294] [cursor=pointer]:
+          - generic [ref=e296] [cursor=pointer]: Пройти опрос
+    - generic [ref=e297]:
+      - button "Информация об уроке" [ref=e302] [cursor=pointer]:
+        - img [ref=e305] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e307]:
+        - generic [ref=e308]:
+          - img [ref=e310]
+          - generic [ref=e312]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e313] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e316] [cursor=pointer]
+```

@@ -1,0 +1,51 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выберите верный вариант ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выберите верный вариант ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e43]:
+            - text: Для выполнения задания необходимо выбрать один правильный вариант ответа
+            - generic [ref=e46]:
+              - text: После окончания юридического факультета ЛГУ с 1977 по 1991 год служил в КГБ СССР. Затем до 1996 года работал в администрации Санкт-Петербурга, после чего был переведён в Москву. Занимал должности заместителя управляющего делами Президента России, директора ФСБ России, секретаря Совета безопасности РФ. С августа 1999 года — Председатель Правительства России.
+              - text: Как зовут человека, о котором повествуется в данном тексте?
+        - generic [ref=e49]:
+          - generic [ref=e53] [cursor=pointer]: Владимир Путин
+          - generic [ref=e57] [cursor=pointer]: Борис Ельцин
+          - generic [ref=e61] [cursor=pointer]: Дмитрий Медведев
+          - generic [ref=e65] [cursor=pointer]: Евгений Примаков
+    - button "2 Показать подсказку" [ref=e73] [cursor=pointer]:
+      - generic [ref=e76] [cursor=pointer]: "2"
+      - generic [ref=e77] [cursor=pointer]: Показать подсказку
+  - generic [ref=e78]:
+    - generic [ref=e81]: Интеллектуальный тренажер
+    - generic [ref=e85]:
+      - generic [ref=e90]: 1 из 3
+      - generic [ref=e91]:
+        - generic [ref=e92]:
+          - generic [ref=e93]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e95] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e99] [cursor=pointer]:
+          - generic [ref=e101] [cursor=pointer]: Пройти опрос
+    - generic [ref=e102]:
+      - button "Информация об уроке" [ref=e107] [cursor=pointer]:
+        - img [ref=e110] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e112]:
+        - generic [ref=e113]:
+          - img [ref=e115]
+          - generic [ref=e117]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e118] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e121] [cursor=pointer]
+```

@@ -1,0 +1,52 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Расставь элементы в верной последовательности." [level=4] [ref=e33]:
+            - generic [ref=e35]: Расставь элементы в верной последовательности.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e43]:
+            - img "Quercus_robur_JPG_(d1)" [ref=e45]
+            - generic [ref=e48]: Расставь таксоны в правильном порядке, начиная с наибольшего ранга таксона на примере Дуба Черешчатого.
+        - generic [ref=e51]:
+          - generic [ref=e56] [cursor=pointer]: порядок Букоцветные
+          - generic [ref=e61] [cursor=pointer]: вид Дуб Черешчатый
+          - generic [ref=e66] [cursor=pointer]: царство Растения
+          - generic [ref=e71] [cursor=pointer]: отдел Цветковые
+          - generic [ref=e76] [cursor=pointer]: семейство Буковые
+          - generic [ref=e81] [cursor=pointer]: домен Эукариоты
+          - generic [ref=e86] [cursor=pointer]: род Дуб
+    - button "2 Показать подсказку" [ref=e94] [cursor=pointer]:
+      - generic [ref=e97] [cursor=pointer]: "2"
+      - generic [ref=e98] [cursor=pointer]: Показать подсказку
+  - generic [ref=e99]:
+    - generic [ref=e102]: Интеллектуальный тренажер
+    - generic [ref=e106]:
+      - generic [ref=e111]: 1 из 12
+      - generic [ref=e112]:
+        - generic [ref=e113]:
+          - generic [ref=e114]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e116] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e120] [cursor=pointer]:
+          - generic [ref=e122] [cursor=pointer]: Пройти опрос
+    - generic [ref=e123]:
+      - button "Информация об уроке" [ref=e128] [cursor=pointer]:
+        - img [ref=e131] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e133]:
+        - generic [ref=e134]:
+          - img [ref=e136]
+          - generic [ref=e138]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e139] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e142] [cursor=pointer]
+```

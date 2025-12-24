@@ -1,0 +1,47 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Запиши числовое выражение к задаче." [level=4] [ref=e33]:
+            - generic [ref=e35]: Запиши числовое выражение к задаче.
+        - img "decore" [ref=e40]
+        - generic [ref=e44]:
+          - generic [ref=e45]: В школьную столовую привезли 10 ящиков с огурцами. В каждом ящике было по 2 кг огурцов.
+          - generic [ref=e46]: Сколько всего килограммов огурцов привезли в столовую?
+          - generic [ref=e47]:
+            - strong [ref=e48]: "Решение:"
+            - textbox [ref=e49]
+            - textbox [ref=e51]
+    - button "2 Показать подсказку" [ref=e60] [cursor=pointer]:
+      - generic [ref=e63] [cursor=pointer]: "2"
+      - generic [ref=e64] [cursor=pointer]: Показать подсказку
+  - generic [ref=e65]:
+    - generic [ref=e68]: Интеллектуальный тренажер
+    - generic [ref=e72]:
+      - generic [ref=e77]: 1 из 5
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - generic [ref=e80]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e82] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e86] [cursor=pointer]:
+          - generic [ref=e88] [cursor=pointer]: Пройти опрос
+    - generic [ref=e89]:
+      - button "Информация об уроке" [ref=e94] [cursor=pointer]:
+        - img [ref=e97] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e99]:
+        - generic [ref=e100]:
+          - img [ref=e102]
+          - generic [ref=e104]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e105] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e108] [cursor=pointer]
+```

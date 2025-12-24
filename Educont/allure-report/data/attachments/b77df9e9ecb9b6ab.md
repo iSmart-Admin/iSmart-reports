@@ -1,0 +1,49 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - 'heading "Распредели предложения на две группы: простые и сложные." [level=4] [ref=e33]':
+            - generic [ref=e35]: "Распредели предложения на две группы: простые и сложные."
+        - img "decore" [ref=e40]
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - generic [ref=e47]: Простые предложения
+            - generic [ref=e52]: Сложные предложения
+          - generic [ref=e54]:
+            - generic [ref=e59] [cursor=pointer]: Ветер прогнал тучку, и выглянуло ясное солнышко.
+            - generic [ref=e64] [cursor=pointer]: В чаще соснового леса подготовила медведица к зиме огромную берлогу.
+            - generic [ref=e69] [cursor=pointer]: На лугу громко трещат сороки, а в роще заливается жаворонок.
+            - generic [ref=e74] [cursor=pointer]: Хитрая ворона давно заметила на опушке леса лисичку.
+    - button "2 Показать подсказку" [ref=e82] [cursor=pointer]:
+      - generic [ref=e85] [cursor=pointer]: "2"
+      - generic [ref=e86] [cursor=pointer]: Показать подсказку
+  - generic [ref=e87]:
+    - generic [ref=e90]: Интеллектуальный тренажер
+    - generic [ref=e94]:
+      - generic [ref=e99]: 1 из 15
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - generic [ref=e102]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e104] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e108] [cursor=pointer]:
+          - generic [ref=e110] [cursor=pointer]: Пройти опрос
+    - generic [ref=e111]:
+      - button "Информация об уроке" [ref=e116] [cursor=pointer]:
+        - img [ref=e119] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e121]:
+        - generic [ref=e122]:
+          - img [ref=e124]
+          - generic [ref=e126]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e127] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e130] [cursor=pointer]
+```

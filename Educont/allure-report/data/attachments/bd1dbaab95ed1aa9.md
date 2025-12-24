@@ -1,0 +1,70 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - generic [ref=e18]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - button "1" [ref=e28] [cursor=pointer]
+            - button "2" [ref=e31] [cursor=pointer]
+            - button "3" [ref=e34] [cursor=pointer]
+            - button "4" [ref=e37] [cursor=pointer]
+            - button "5" [ref=e40] [cursor=pointer]
+            - button "6" [ref=e43] [cursor=pointer]
+            - button "7" [ref=e46] [cursor=pointer]
+            - button "8" [ref=e49] [cursor=pointer]
+            - button "9" [ref=e52] [cursor=pointer]
+            - button "10" [ref=e55] [cursor=pointer]
+          - generic [ref=e56]:
+            - button [disabled] [ref=e57]:
+              - img [ref=e59]
+            - button [disabled] [ref=e62]:
+              - img [ref=e64]
+      - generic [ref=e67]:
+        - generic [ref=e69]:
+          - img [ref=e73]
+          - heading "Распредели имена числительные в два столбика." [level=4] [ref=e75]:
+            - generic [ref=e77]: Распредели имена числительные в два столбика.
+        - img "decore" [ref=e82]
+        - generic [ref=e84]:
+          - generic [ref=e85]:
+            - generic [ref=e89]: Количественные имена числительные
+            - generic [ref=e94]: Порядковые имена числительные
+          - generic [ref=e96]:
+            - generic [ref=e101] [cursor=pointer]: двухсотый
+            - generic [ref=e106] [cursor=pointer]: восьмой
+            - generic [ref=e111] [cursor=pointer]: пять
+            - generic [ref=e116] [cursor=pointer]: тринадцать
+            - generic [ref=e121] [cursor=pointer]: тридцать
+            - generic [ref=e126] [cursor=pointer]: одиннадцатый
+    - button "2 Показать подсказку" [ref=e134] [cursor=pointer]:
+      - generic [ref=e137] [cursor=pointer]: "2"
+      - generic [ref=e138] [cursor=pointer]: Показать подсказку
+  - generic [ref=e139]:
+    - generic [ref=e142]: Интеллектуальный тренажер
+    - button "Управление учениками" [ref=e148] [cursor=pointer]:
+      - img [ref=e151] [cursor=pointer]
+      - text: Управление учениками
+    - generic [ref=e153]:
+      - generic [ref=e156]:
+        - button "Часто задаваемые вопросы" [ref=e158] [cursor=pointer]:
+          - img [ref=e161] [cursor=pointer]
+          - text: Часто задаваемые вопросы
+        - generic [ref=e163]:
+          - button "Информация об уроке" [ref=e165] [cursor=pointer]:
+            - img [ref=e168] [cursor=pointer]
+            - text: Информация об уроке
+          - generic [ref=e170]: Вы привязаны к школе Тест Коммунар_эдуконт
+      - generic [ref=e171]:
+        - generic [ref=e172]:
+          - img [ref=e174]
+          - generic [ref=e176]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e177] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e180] [cursor=pointer]
+```

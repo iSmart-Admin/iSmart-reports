@@ -1,0 +1,224 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выберите все верные варианты ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выберите все верные варианты ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]: Выберите реакции, с помощью которых можно получить этиловый спирт.
+        - generic [ref=e50]:
+          - generic [ref=e56] [cursor=pointer]:
+            - math [ref=e58] [cursor=pointer]:
+              - generic [ref=e60] [cursor=pointer]:
+                - generic [ref=e61] [cursor=pointer]:
+                  - generic [ref=e62] [cursor=pointer]: С
+                  - generic [ref=e63] [cursor=pointer]: "2"
+                - generic [ref=e64] [cursor=pointer]:
+                  - generic [ref=e65] [cursor=pointer]: H
+                  - generic [ref=e66] [cursor=pointer]: "5"
+                - generic [ref=e67] [cursor=pointer]: B
+                - generic [ref=e68] [cursor=pointer]: r
+                - generic [ref=e69] [cursor=pointer]: +
+                - generic [ref=e70] [cursor=pointer]: "N"
+                - generic [ref=e71] [cursor=pointer]: a
+                - generic [ref=e72] [cursor=pointer]: O
+                - generic [ref=e73] [cursor=pointer]:
+                  - generic [ref=e74] [cursor=pointer]: H
+                  - generic [ref=e75] [cursor=pointer]:
+                    - generic [ref=e76] [cursor=pointer]: (
+                    - generic [ref=e77] [cursor=pointer]: спирт
+                    - generic [ref=e78] [cursor=pointer]: )
+            - generic [ref=e79] [cursor=pointer]:
+              - generic [ref=e80] [cursor=pointer]:
+                - generic [ref=e81] [cursor=pointer]:
+                  - generic [ref=e82] [cursor=pointer]: С
+                  - generic [ref=e88] [cursor=pointer]: "2"
+                - generic [ref=e92] [cursor=pointer]:
+                  - generic [ref=e93] [cursor=pointer]: H
+                  - generic [ref=e99] [cursor=pointer]: "5"
+                - generic [ref=e103] [cursor=pointer]: B
+                - generic [ref=e104] [cursor=pointer]: r
+                - generic [ref=e105] [cursor=pointer]: +
+              - generic [ref=e106] [cursor=pointer]:
+                - generic [ref=e107] [cursor=pointer]: "N"
+                - generic [ref=e108] [cursor=pointer]: a
+                - generic [ref=e109] [cursor=pointer]: O
+                - generic [ref=e110] [cursor=pointer]:
+                  - generic [ref=e111] [cursor=pointer]: H
+                  - generic [ref=e117] [cursor=pointer]:
+                    - generic [ref=e118] [cursor=pointer]: (
+                    - generic [ref=e119] [cursor=pointer]: спирт
+                    - generic [ref=e120] [cursor=pointer]: )
+          - generic [ref=e129] [cursor=pointer]:
+            - math [ref=e131] [cursor=pointer]:
+              - generic [ref=e133] [cursor=pointer]:
+                - generic [ref=e134] [cursor=pointer]:
+                  - generic [ref=e135] [cursor=pointer]: C
+                  - generic [ref=e136] [cursor=pointer]: "2"
+                - generic [ref=e137] [cursor=pointer]:
+                  - generic [ref=e138] [cursor=pointer]: H
+                  - generic [ref=e139] [cursor=pointer]: "4"
+                - generic [ref=e140] [cursor=pointer]: +
+                - generic [ref=e141] [cursor=pointer]:
+                  - generic [ref=e142] [cursor=pointer]: H
+                  - generic [ref=e143] [cursor=pointer]: "2"
+                - generic [ref=e144] [cursor=pointer]: O
+            - generic [ref=e145] [cursor=pointer]:
+              - generic [ref=e146] [cursor=pointer]:
+                - generic [ref=e147] [cursor=pointer]:
+                  - generic [ref=e148] [cursor=pointer]: C
+                  - generic [ref=e154] [cursor=pointer]: "2"
+                - generic [ref=e158] [cursor=pointer]:
+                  - generic [ref=e159] [cursor=pointer]: H
+                  - generic [ref=e165] [cursor=pointer]: "4"
+                - generic [ref=e169] [cursor=pointer]: +
+              - generic [ref=e170] [cursor=pointer]:
+                - generic [ref=e171] [cursor=pointer]:
+                  - generic [ref=e172] [cursor=pointer]: H
+                  - generic [ref=e178] [cursor=pointer]: "2"
+                - generic [ref=e182] [cursor=pointer]: O
+          - generic [ref=e188] [cursor=pointer]:
+            - math [ref=e190] [cursor=pointer]:
+              - generic [ref=e192] [cursor=pointer]:
+                - generic [ref=e193] [cursor=pointer]:
+                  - generic [ref=e194] [cursor=pointer]: C
+                  - generic [ref=e195] [cursor=pointer]: "2"
+                - generic [ref=e196] [cursor=pointer]:
+                  - generic [ref=e197] [cursor=pointer]: H
+                  - generic [ref=e198] [cursor=pointer]: "5"
+                - generic [ref=e199] [cursor=pointer]: B
+                - generic [ref=e200] [cursor=pointer]: r
+                - generic [ref=e201] [cursor=pointer]: +
+                - generic [ref=e202] [cursor=pointer]: "N"
+                - generic [ref=e203] [cursor=pointer]: a
+                - generic [ref=e204] [cursor=pointer]: O
+                - generic [ref=e205] [cursor=pointer]:
+                  - generic [ref=e206] [cursor=pointer]: H
+                  - generic [ref=e207] [cursor=pointer]:
+                    - generic [ref=e208] [cursor=pointer]: (
+                    - generic [ref=e209] [cursor=pointer]: водн
+                    - generic [ref=e210] [cursor=pointer]: .
+                    - generic [ref=e211] [cursor=pointer]: )
+            - generic [ref=e212] [cursor=pointer]:
+              - generic [ref=e213] [cursor=pointer]:
+                - generic [ref=e214] [cursor=pointer]:
+                  - generic [ref=e215] [cursor=pointer]: C
+                  - generic [ref=e221] [cursor=pointer]: "2"
+                - generic [ref=e225] [cursor=pointer]:
+                  - generic [ref=e226] [cursor=pointer]: H
+                  - generic [ref=e232] [cursor=pointer]: "5"
+                - generic [ref=e236] [cursor=pointer]: B
+                - generic [ref=e237] [cursor=pointer]: r
+                - generic [ref=e238] [cursor=pointer]: +
+              - generic [ref=e239] [cursor=pointer]:
+                - generic [ref=e240] [cursor=pointer]: "N"
+                - generic [ref=e241] [cursor=pointer]: a
+                - generic [ref=e242] [cursor=pointer]: O
+                - generic [ref=e243] [cursor=pointer]:
+                  - generic [ref=e244] [cursor=pointer]: H
+                  - generic [ref=e250] [cursor=pointer]:
+                    - generic [ref=e251] [cursor=pointer]: (
+                    - generic [ref=e252] [cursor=pointer]: водн
+                    - generic [ref=e253] [cursor=pointer]: .
+                    - generic [ref=e254] [cursor=pointer]: )
+          - generic [ref=e263] [cursor=pointer]:
+            - math [ref=e265] [cursor=pointer]:
+              - generic [ref=e267] [cursor=pointer]:
+                - generic [ref=e268] [cursor=pointer]: C
+                - generic [ref=e269] [cursor=pointer]:
+                  - generic [ref=e270] [cursor=pointer]: H
+                  - generic [ref=e271] [cursor=pointer]: "3"
+                - generic [ref=e272] [cursor=pointer]: C
+                - generic [ref=e273] [cursor=pointer]: O
+                - generic [ref=e274] [cursor=pointer]: O
+                - generic [ref=e275] [cursor=pointer]: H
+                - generic [ref=e276] [cursor=pointer]: +
+                - generic [ref=e277] [cursor=pointer]:
+                  - generic [ref=e278] [cursor=pointer]: H
+                  - generic [ref=e279] [cursor=pointer]: "2"
+            - generic [ref=e280] [cursor=pointer]:
+              - generic [ref=e281] [cursor=pointer]:
+                - generic [ref=e282] [cursor=pointer]: C
+                - generic [ref=e283] [cursor=pointer]:
+                  - generic [ref=e284] [cursor=pointer]: H
+                  - generic [ref=e290] [cursor=pointer]: "3"
+                - generic [ref=e294] [cursor=pointer]: COO
+                - generic [ref=e295] [cursor=pointer]: H
+                - generic [ref=e296] [cursor=pointer]: +
+              - generic [ref=e298] [cursor=pointer]:
+                - generic [ref=e299] [cursor=pointer]: H
+                - generic [ref=e305] [cursor=pointer]: "2"
+          - generic [ref=e314] [cursor=pointer]:
+            - math [ref=e316] [cursor=pointer]:
+              - generic [ref=e318] [cursor=pointer]:
+                - generic [ref=e319] [cursor=pointer]: C
+                - generic [ref=e320] [cursor=pointer]:
+                  - generic [ref=e321] [cursor=pointer]: H
+                  - generic [ref=e322] [cursor=pointer]: "3"
+                - generic [ref=e323] [cursor=pointer]: C
+                - generic [ref=e324] [cursor=pointer]: O
+                - generic [ref=e325] [cursor=pointer]: O
+                - generic [ref=e326] [cursor=pointer]:
+                  - generic [ref=e327] [cursor=pointer]: C
+                  - generic [ref=e328] [cursor=pointer]: "2"
+                - generic [ref=e329] [cursor=pointer]:
+                  - generic [ref=e330] [cursor=pointer]: H
+                  - generic [ref=e331] [cursor=pointer]: "5"
+                - generic [ref=e332] [cursor=pointer]: +
+                - generic [ref=e333] [cursor=pointer]:
+                  - generic [ref=e334] [cursor=pointer]: H
+                  - generic [ref=e335] [cursor=pointer]: "2"
+                - generic [ref=e336] [cursor=pointer]: O
+            - generic [ref=e337] [cursor=pointer]:
+              - generic [ref=e338] [cursor=pointer]:
+                - generic [ref=e339] [cursor=pointer]: C
+                - generic [ref=e340] [cursor=pointer]:
+                  - generic [ref=e341] [cursor=pointer]: H
+                  - generic [ref=e347] [cursor=pointer]: "3"
+                - generic [ref=e351] [cursor=pointer]: COO
+                - generic [ref=e352] [cursor=pointer]:
+                  - generic [ref=e353] [cursor=pointer]: C
+                  - generic [ref=e359] [cursor=pointer]: "2"
+                - generic [ref=e363] [cursor=pointer]:
+                  - generic [ref=e364] [cursor=pointer]: H
+                  - generic [ref=e370] [cursor=pointer]: "5"
+                - generic [ref=e374] [cursor=pointer]: +
+              - generic [ref=e375] [cursor=pointer]:
+                - generic [ref=e376] [cursor=pointer]:
+                  - generic [ref=e377] [cursor=pointer]: H
+                  - generic [ref=e383] [cursor=pointer]: "2"
+                - generic [ref=e387] [cursor=pointer]: O
+    - button "2 Показать подсказку" [ref=e395] [cursor=pointer]:
+      - generic [ref=e398] [cursor=pointer]: "2"
+      - generic [ref=e399] [cursor=pointer]: Показать подсказку
+  - generic [ref=e400]:
+    - generic [ref=e403]: Интеллектуальный тренажер
+    - generic [ref=e407]:
+      - generic [ref=e412]: 1 из 15
+      - generic [ref=e413]:
+        - generic [ref=e414]:
+          - generic [ref=e415]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e417] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e421] [cursor=pointer]:
+          - generic [ref=e423] [cursor=pointer]: Пройти опрос
+    - generic [ref=e424]:
+      - button "Информация об уроке" [ref=e429] [cursor=pointer]:
+        - img [ref=e432] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e434]:
+        - generic [ref=e435]:
+          - img [ref=e437]
+          - generic [ref=e439]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e440] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e443] [cursor=pointer]
+```

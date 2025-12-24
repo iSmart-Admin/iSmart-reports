@@ -1,0 +1,62 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Составь письмо начальнику от коллеги из командировки." [level=4] [ref=e33]:
+            - generic [ref=e35]:
+              - text: Составь письмо
+              - strong [ref=e36]: начальнику от коллеги из командировки
+              - text: .
+        - img "decore" [ref=e41]
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - strong [ref=e57]: Приветствие
+            - strong [ref=e76]: Вступление
+            - strong [ref=e95]: Основная часть
+            - strong [ref=e114]: Заключение
+          - generic [ref=e121]:
+            - generic [ref=e130] [cursor=pointer]: Здравствуйте, Егор Петрович!
+            - generic [ref=e139] [cursor=pointer]: Привет, Петя!
+            - generic [ref=e148] [cursor=pointer]: Добрый день, Петя!
+            - generic [ref=e157] [cursor=pointer]: Как ты поживаешь? Что ты решил насчёт поездки?
+            - generic [ref=e166] [cursor=pointer]: Какие у тебя планы на следующий месяц? Могу я рассчитывать на твой визит?
+            - generic [ref=e175] [cursor=pointer]: Что нового происходит в офисе? План посещения поставщиков остаётся прежним?
+            - generic [ref=e184] [cursor=pointer]: Я взял билеты на 20-е число. Поэтому, если ты не сможешь приехать, предупреди заранее.
+            - generic [ref=e193] [cursor=pointer]: Обещают хорошую погоду, поэтому мы сможем сплавиться по реке.
+            - generic [ref=e202] [cursor=pointer]: У меня всё в порядке. Долетел хорошо. В гостиницу заселили быстро.
+            - generic [ref=e211] [cursor=pointer]: Твой друг Витя.
+            - generic [ref=e220] [cursor=pointer]: С глубоким уважением, Виктор.
+            - generic [ref=e229] [cursor=pointer]: С любовью, Виктор.
+    - button "2 Показать подсказку" [ref=e237] [cursor=pointer]:
+      - generic [ref=e240] [cursor=pointer]: "2"
+      - generic [ref=e241] [cursor=pointer]: Показать подсказку
+  - generic [ref=e242]:
+    - generic [ref=e245]: Интеллектуальный тренажер
+    - generic [ref=e249]:
+      - generic [ref=e254]: 1 из 10
+      - generic [ref=e255]:
+        - generic [ref=e256]:
+          - generic [ref=e257]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e259] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e263] [cursor=pointer]:
+          - generic [ref=e265] [cursor=pointer]: Пройти опрос
+    - generic [ref=e266]:
+      - button "Информация об уроке" [ref=e271] [cursor=pointer]:
+        - img [ref=e274] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e276]:
+        - generic [ref=e277]:
+          - img [ref=e279]
+          - generic [ref=e281]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e282] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e285] [cursor=pointer]
+```

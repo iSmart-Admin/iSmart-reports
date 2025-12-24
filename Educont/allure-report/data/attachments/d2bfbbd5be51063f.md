@@ -1,0 +1,50 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выбери все верные варианты ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выбери все верные варианты ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e42]:
+            - generic [ref=e46]: Какие электроприборы включены в эту цепь?
+            - img "Ф8.2.9.6Z" [ref=e49]
+        - generic [ref=e52]:
+          - generic [ref=e58] [cursor=pointer]: Звонок
+          - generic [ref=e64] [cursor=pointer]: Нагревательный элемент
+          - generic [ref=e70] [cursor=pointer]: Две электролампы
+          - generic [ref=e76] [cursor=pointer]: Два звонка
+          - generic [ref=e82] [cursor=pointer]: Источник тока
+    - button "2 Показать подсказку" [ref=e90] [cursor=pointer]:
+      - generic [ref=e93] [cursor=pointer]: "2"
+      - generic [ref=e94] [cursor=pointer]: Показать подсказку
+  - generic [ref=e95]:
+    - generic [ref=e98]: Интеллектуальный тренажер
+    - generic [ref=e102]:
+      - generic [ref=e107]: 1 из 8
+      - generic [ref=e108]:
+        - generic [ref=e109]:
+          - generic [ref=e110]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e112] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e116] [cursor=pointer]:
+          - generic [ref=e118] [cursor=pointer]: Пройти опрос
+    - generic [ref=e119]:
+      - button "Информация об уроке" [ref=e124] [cursor=pointer]:
+        - img [ref=e127] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e129]:
+        - generic [ref=e130]:
+          - img [ref=e132]
+          - generic [ref=e134]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e135] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e138] [cursor=pointer]
+```

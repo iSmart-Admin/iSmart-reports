@@ -1,0 +1,49 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выберите все верные варианты ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выберите все верные варианты ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]: Выберите специфические черты и признаки современной науки.
+        - generic [ref=e51]:
+          - generic [ref=e53] [cursor=pointer]: Современная наука сосредоточена на изучении фундаментальных законов природы и общества.
+          - generic [ref=e55] [cursor=pointer]: Современные исследования сложно представить без использования специализированного оборудования и программ.
+          - generic [ref=e57] [cursor=pointer]: Обмен научной информацией происходит мгновенно благодаря интернету и другим средствам коммуникации.
+          - generic [ref=e59] [cursor=pointer]: Учёные полагаются на наблюдения и эксперименты как на основной источник знаний, а теоретические построения играют второстепенную роль.
+          - generic [ref=e61] [cursor=pointer]: Современные научные исследования носят описательный характер, так как учёные собирают и систематизируют факты, но не пытаются объяснить их с помощью теорий или гипотез.
+          - generic [ref=e63] [cursor=pointer]: С развитием науки возникают новые этические вопросы, связанные с использованием научных достижений, например, клонирование, искусственный интеллект.
+    - button "2 Показать подсказку" [ref=e71] [cursor=pointer]:
+      - generic [ref=e74] [cursor=pointer]: "2"
+      - generic [ref=e75] [cursor=pointer]: Показать подсказку
+  - generic [ref=e76]:
+    - generic [ref=e79]: Интеллектуальный тренажер
+    - generic [ref=e83]:
+      - generic [ref=e88]: 1 из 15
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - generic [ref=e91]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e93] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e97] [cursor=pointer]:
+          - generic [ref=e99] [cursor=pointer]: Пройти опрос
+    - generic [ref=e100]:
+      - button "Информация об уроке" [ref=e105] [cursor=pointer]:
+        - img [ref=e108] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e110]:
+        - generic [ref=e111]:
+          - img [ref=e113]
+          - generic [ref=e115]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e116] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e119] [cursor=pointer]
+```

@@ -1,0 +1,48 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выбери верный вариант ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выбери верный вариант ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e45]:
+            - generic [ref=e46]: Мифы — древние сказания о богах и героях. Из создавал ………… на протяжении многих веков.
+            - generic [ref=e47]: Какое слово пропущено?
+        - generic [ref=e50]:
+          - generic [ref=e54] [cursor=pointer]: Гомер
+          - generic [ref=e58] [cursor=pointer]: Рапсод
+          - generic [ref=e62] [cursor=pointer]: Народ
+    - button "2 Показать подсказку" [ref=e70] [cursor=pointer]:
+      - generic [ref=e73] [cursor=pointer]: "2"
+      - generic [ref=e74] [cursor=pointer]: Показать подсказку
+  - generic [ref=e75]:
+    - generic [ref=e78]: Интеллектуальный тренажер
+    - generic [ref=e82]:
+      - generic [ref=e87]: 1 из 6
+      - generic [ref=e88]:
+        - generic [ref=e89]:
+          - generic [ref=e90]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e92] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e96] [cursor=pointer]:
+          - generic [ref=e98] [cursor=pointer]: Пройти опрос
+    - generic [ref=e99]:
+      - button "Информация об уроке" [ref=e104] [cursor=pointer]:
+        - img [ref=e107] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e109]:
+        - generic [ref=e110]:
+          - img [ref=e112]
+          - generic [ref=e114]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e115] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e118] [cursor=pointer]
+```

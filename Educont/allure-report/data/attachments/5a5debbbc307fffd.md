@@ -1,0 +1,58 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выбери все верные варианты ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выбери все верные варианты ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]: Укажи принципы, которые относятся к построению дерева случайного опыта.
+        - generic [ref=e49]:
+          - generic [ref=e53] [cursor=pointer]:
+            - text: из каждой вершины должно выходить только
+            - generic [ref=e55] [cursor=pointer]:
+              - math [ref=e57] [cursor=pointer]:
+                - generic [ref=e60] [cursor=pointer]: "2"
+              - generic [ref=e63] [cursor=pointer]: "2"
+            - text: ребра
+          - generic [ref=e67] [cursor=pointer]: к каждой конечной вершине ведёт единственный путь от корня
+          - generic [ref=e71] [cursor=pointer]:
+            - text: сумма вероятностей около всех рёбер равна
+            - generic [ref=e73] [cursor=pointer]:
+              - math [ref=e75] [cursor=pointer]:
+                - generic [ref=e78] [cursor=pointer]: "1"
+              - generic [ref=e81] [cursor=pointer]: "1"
+          - generic [ref=e85] [cursor=pointer]: элементарным событиям соответствуют конечные вершины дерева
+    - button "2 Показать подсказку" [ref=e93] [cursor=pointer]:
+      - generic [ref=e96] [cursor=pointer]: "2"
+      - generic [ref=e97] [cursor=pointer]: Показать подсказку
+  - generic [ref=e98]:
+    - generic [ref=e101]: Интеллектуальный тренажер
+    - generic [ref=e105]:
+      - generic [ref=e110]: 1 из 6
+      - generic [ref=e111]:
+        - generic [ref=e112]:
+          - generic [ref=e113]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e115] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e119] [cursor=pointer]:
+          - generic [ref=e121] [cursor=pointer]: Пройти опрос
+    - generic [ref=e122]:
+      - button "Информация об уроке" [ref=e127] [cursor=pointer]:
+        - img [ref=e130] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e132]:
+        - generic [ref=e133]:
+          - img [ref=e135]
+          - generic [ref=e137]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e138] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e141] [cursor=pointer]
+```

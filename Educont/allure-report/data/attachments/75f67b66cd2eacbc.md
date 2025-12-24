@@ -1,0 +1,53 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Установи соответствие между элементами." [level=4] [ref=e33]:
+            - generic [ref=e35]: Установи соответствие между элементами.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]: Соотнеси героя и цитату.
+        - generic [ref=e49]:
+          - img [ref=e50]
+          - generic [ref=e51]:
+            - generic [ref=e57] [cursor=pointer]: Моди Эткинсон
+            - generic [ref=e64] [cursor=pointer]: Мужество — это когда заранее знаешь, что ты проиграл, и всё-таки берёшься за дело и наперекор всему на свете идешь до конца. Побеждаешь очень редко, но иногда всё-таки побеждаешь.
+          - generic [ref=e65]:
+            - generic [ref=e71] [cursor=pointer]: Аттикус Финч
+            - generic [ref=e78] [cursor=pointer]: Пока я не испугалась, что мне это запретят, я вовсе не любила читать. Дышать ведь не любишь, а попробуй не дышать…
+          - generic [ref=e79]:
+            - generic [ref=e85] [cursor=pointer]: Джин Луиза Финч
+            - generic [ref=e92] [cursor=pointer]: Одни только дураки гордятся своими талантами
+    - button "2 Показать подсказку" [ref=e100] [cursor=pointer]:
+      - generic [ref=e103] [cursor=pointer]: "2"
+      - generic [ref=e104] [cursor=pointer]: Показать подсказку
+  - generic [ref=e105]:
+    - generic [ref=e108]: Интеллектуальный тренажер
+    - generic [ref=e112]:
+      - generic [ref=e117]: 1 из 4
+      - generic [ref=e118]:
+        - generic [ref=e119]:
+          - generic [ref=e120]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e122] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e126] [cursor=pointer]:
+          - generic [ref=e128] [cursor=pointer]: Пройти опрос
+    - generic [ref=e129]:
+      - button "Информация об уроке" [ref=e134] [cursor=pointer]:
+        - img [ref=e137] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e139]:
+        - generic [ref=e140]:
+          - img [ref=e142]
+          - generic [ref=e144]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e145] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e148] [cursor=pointer]
+```

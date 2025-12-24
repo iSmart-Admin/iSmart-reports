@@ -1,0 +1,129 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Внеси ответы в специально предназначенные поля." [level=4] [ref=e33]:
+            - generic [ref=e35]: Внеси ответы в специально предназначенные поля.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]:
+            - text: Запиши десятичное число
+            - generic [ref=e48]:
+              - math [ref=e50]:
+                - generic [ref=e52]:
+                  - generic [ref=e53]: "208"
+                  - generic [ref=e54]: ","
+                  - generic [ref=e55]: "4"
+              - generic [ref=e57]:
+                - generic [ref=e58]: "208"
+                - generic [ref=e59]: ","
+                - generic [ref=e60]: "4"
+            - text: в развёрнутой форме.
+        - generic [ref=e65]:
+          - strong [ref=e66]: Ответ
+          - text: ":"
+          - textbox [ref=e67]
+          - generic [ref=e69]:
+            - math [ref=e71]:
+              - generic [ref=e73]:
+                - generic [ref=e74]: ⋅
+                - generic [ref=e75]: "1"
+                - generic [ref=e76]:
+                  - generic [ref=e77]: "0"
+                  - generic [ref=e78]: "2"
+                - generic [ref=e79]: +
+            - generic [ref=e81]:
+              - generic [ref=e82]: ⋅
+              - generic [ref=e83]: "1"
+              - generic [ref=e84]:
+                - generic [ref=e85]: "0"
+                - generic [ref=e92]: "2"
+              - generic [ref=e93]: +
+          - textbox [ref=e94]
+          - generic [ref=e96]:
+            - math [ref=e98]:
+              - generic [ref=e100]:
+                - generic [ref=e101]: ⋅
+                - generic [ref=e102]: "1"
+                - generic [ref=e103]:
+                  - generic [ref=e104]: "0"
+                  - generic [ref=e105]: "1"
+                - generic [ref=e106]: +
+            - generic [ref=e108]:
+              - generic [ref=e109]: ⋅
+              - generic [ref=e110]: "1"
+              - generic [ref=e111]:
+                - generic [ref=e112]: "0"
+                - generic [ref=e119]: "1"
+              - generic [ref=e120]: +
+          - textbox [ref=e121]
+          - generic [ref=e123]:
+            - math [ref=e125]:
+              - generic [ref=e127]:
+                - generic [ref=e128]: ⋅
+                - generic [ref=e129]: "1"
+                - generic [ref=e130]:
+                  - generic [ref=e131]: "0"
+                  - generic [ref=e132]: "0"
+                - generic [ref=e133]: +
+            - generic [ref=e135]:
+              - generic [ref=e136]: ⋅
+              - generic [ref=e137]: "1"
+              - generic [ref=e138]:
+                - generic [ref=e139]: "0"
+                - generic [ref=e146]: "0"
+              - generic [ref=e147]: +
+          - textbox [ref=e148]
+          - generic [ref=e150]:
+            - math [ref=e152]:
+              - generic [ref=e154]:
+                - generic [ref=e155]: ⋅
+                - generic [ref=e156]: "1"
+                - generic [ref=e157]:
+                  - generic [ref=e158]: "0"
+                  - generic [ref=e159]:
+                    - generic [ref=e160]: −
+                    - generic [ref=e161]: "1"
+                - generic [ref=e162]: .
+            - generic [ref=e164]:
+              - generic [ref=e165]: ⋅
+              - generic [ref=e166]: "1"
+              - generic [ref=e167]:
+                - generic [ref=e168]: "0"
+                - generic [ref=e174]:
+                  - generic [ref=e175]: −
+                  - generic [ref=e176]: "1"
+              - generic [ref=e177]: .
+    - button "2 Показать подсказку" [ref=e186] [cursor=pointer]:
+      - generic [ref=e189] [cursor=pointer]: "2"
+      - generic [ref=e190] [cursor=pointer]: Показать подсказку
+  - generic [ref=e191]:
+    - generic [ref=e194]: Интеллектуальный тренажер
+    - generic [ref=e198]:
+      - generic [ref=e203]: 1 из 5
+      - generic [ref=e204]:
+        - generic [ref=e205]:
+          - generic [ref=e206]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e208] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e212] [cursor=pointer]:
+          - generic [ref=e214] [cursor=pointer]: Пройти опрос
+    - generic [ref=e215]:
+      - button "Информация об уроке" [ref=e220] [cursor=pointer]:
+        - img [ref=e223] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e225]:
+        - generic [ref=e226]:
+          - img [ref=e228]
+          - generic [ref=e230]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e231] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e234] [cursor=pointer]
+```

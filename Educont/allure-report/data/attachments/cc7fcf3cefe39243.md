@@ -1,0 +1,55 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Распредели имена числительные в три столбика." [level=4] [ref=e33]:
+            - generic [ref=e35]: Распредели имена числительные в три столбика.
+        - img "decore" [ref=e40]
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - generic [ref=e47]: целые
+            - generic [ref=e52]: дробные
+            - generic [ref=e57]: собирательные
+          - generic [ref=e59]:
+            - generic [ref=e64] [cursor=pointer]: семеро
+            - generic [ref=e69] [cursor=pointer]: шесть восьмых
+            - generic [ref=e74] [cursor=pointer]: двести
+            - generic [ref=e79] [cursor=pointer]: две пятых
+            - generic [ref=e84] [cursor=pointer]: восемь
+            - generic [ref=e89] [cursor=pointer]: двое
+            - generic [ref=e94] [cursor=pointer]: четверо
+            - generic [ref=e99] [cursor=pointer]: пять целых три десятых
+            - generic [ref=e104] [cursor=pointer]: пятнадцать
+    - button "2 Показать подсказку" [ref=e112] [cursor=pointer]:
+      - generic [ref=e115] [cursor=pointer]: "2"
+      - generic [ref=e116] [cursor=pointer]: Показать подсказку
+  - generic [ref=e117]:
+    - generic [ref=e120]: Интеллектуальный тренажер
+    - generic [ref=e124]:
+      - generic [ref=e129]: 1 из 10
+      - generic [ref=e130]:
+        - generic [ref=e131]:
+          - generic [ref=e132]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e134] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e138] [cursor=pointer]:
+          - generic [ref=e140] [cursor=pointer]: Пройти опрос
+    - generic [ref=e141]:
+      - button "Информация об уроке" [ref=e146] [cursor=pointer]:
+        - img [ref=e149] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e151]:
+        - generic [ref=e152]:
+          - img [ref=e154]
+          - generic [ref=e156]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e157] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e160] [cursor=pointer]
+```

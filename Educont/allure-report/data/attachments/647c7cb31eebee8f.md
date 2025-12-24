@@ -1,0 +1,51 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выберите верный вариант ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выберите верный вариант ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]: Какой текст может носить заголовок «Элонгация»?
+        - generic [ref=e49]:
+          - generic [ref=e53] [cursor=pointer]:
+            - generic [ref=e54] [cursor=pointer]: К рибосоме подходит вторая тРНК с новой аминокислотой. Её антикодон комплементарен второму кодону иРНК.
+            - generic [ref=e55] [cursor=pointer]: Первая аминокислота переносится к соседней, с помощью ферментов возникает пептидная связь, первая тРНК освобождается и выходит из рибосомы.
+            - generic [ref=e56] [cursor=pointer]: Рибосома продвигается на один триплет в том же направлении (к 3'-концу), подходят новые тРНК и удлиняют полипептидную цепочку новыми аминокислотами.
+          - generic [ref=e60] [cursor=pointer]:
+            - generic [ref=e61] [cursor=pointer]: Синтез белка начинается не с самого начала 5’-конца иРНК, а спустя несколько нуклеотидов. Малая субъединица рибосомы движется по иРНК и ищет стартовый триплет — инициирующий кодон (АУГ), с которого начинается синтез белка. Когда она его узнаёт, подходит тРНК с аминокислотой и присоединяется к кодону иРНК.
+            - generic [ref=e62] [cursor=pointer]: Тут в процесс включается большая субъединица рибосомы – она присоединяется к малой так, что иРНК оказывается заключённой между ними.
+            - generic [ref=e63] [cursor=pointer]: В каждый момент времени внутри рибосомы находится два кодона иРНК.
+    - button "2 Показать подсказку" [ref=e71] [cursor=pointer]:
+      - generic [ref=e74] [cursor=pointer]: "2"
+      - generic [ref=e75] [cursor=pointer]: Показать подсказку
+  - generic [ref=e76]:
+    - generic [ref=e79]: Интеллектуальный тренажер
+    - generic [ref=e83]:
+      - generic [ref=e88]: 1 из 15
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - generic [ref=e91]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e93] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e97] [cursor=pointer]:
+          - generic [ref=e99] [cursor=pointer]: Пройти опрос
+    - generic [ref=e100]:
+      - button "Информация об уроке" [ref=e105] [cursor=pointer]:
+        - img [ref=e108] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e110]:
+        - generic [ref=e111]:
+          - img [ref=e113]
+          - generic [ref=e115]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e116] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e119] [cursor=pointer]
+```

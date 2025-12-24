@@ -1,0 +1,85 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e16]:
+    - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+      - img [ref=e22] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e25]:
+      - generic [ref=e27]:
+        - img [ref=e31]
+        - heading "Выполните морфологический разбор выделенного слова." [level=4] [ref=e33]:
+          - generic [ref=e35]: Выполните морфологический разбор выделенного слова.
+      - generic [ref=e37]:
+        - img "decore" [ref=e40]
+        - generic [ref=e42]:
+          - generic [ref=e46]:
+            - text: Он любил по утрам обходить заросший чистотелом сад, гонять со
+            - strong [ref=e47]: старых
+            - text: яблонь воробьёв, ловить жёлтых бабочек-капустниц и точить когти на сгнившей скамье.
+          - heading "(К. Паустовский «Жильцы старого дома»)" [level=4] [ref=e48]:
+            - emphasis [ref=e49]: (К. Паустовский «Жильцы старого дома»)
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - strong [ref=e58]: Выпишите слово
+          - textbox [ref=e59]
+          - text: .
+        - generic [ref=e60]:
+          - strong [ref=e61]: Часть речи
+          - text: .
+        - generic [ref=e63]:
+          - strong [ref=e64]: Общее грамматическое значение
+          - text: .
+        - generic [ref=e66]:
+          - text: "1."
+          - strong [ref=e67]: Начальная форма
+          - text: —
+          - textbox [ref=e68]
+          - text: .
+        - generic [ref=e69]:
+          - text: "2."
+          - strong [ref=e70]: "Постоянные морфологические признаки:"
+        - generic [ref=e71]:
+          - text: а)
+          - text: .
+          - text: "3."
+          - strong [ref=e73]: "Непостоянные морфологические признаки:"
+        - generic [ref=e74]:
+          - text: а)
+          - text: ","
+        - generic [ref=e76]:
+          - text: б)
+          - text: ","
+        - generic [ref=e78]:
+          - text: в)
+          - text: ","
+        - generic [ref=e80]:
+          - text: г)
+          - text: .
+          - text: "4."
+          - strong [ref=e82]: "Синтаксическая роль:"
+          - text: в предложении является
+          - text: .
+  - generic [ref=e88]:
+    - generic [ref=e91]: Интеллектуальный тренажер
+    - generic [ref=e95]:
+      - generic [ref=e100]: 1 из 4
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - generic [ref=e103]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e105] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e109] [cursor=pointer]:
+          - generic [ref=e111] [cursor=pointer]: Пройти опрос
+    - generic [ref=e112]:
+      - button "Информация об уроке" [ref=e117] [cursor=pointer]:
+        - img [ref=e120] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e122]:
+        - generic [ref=e123]:
+          - img [ref=e125]
+          - generic [ref=e127]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e128] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e131] [cursor=pointer]
+```

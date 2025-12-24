@@ -1,0 +1,58 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выбери ться или тся." [level=4] [ref=e33]:
+            - generic [ref=e35]:
+              - text: Выбери
+              - strong [ref=e36]: ться
+              - text: или
+              - strong [ref=e37]: тся
+              - text: .
+        - img "decore" [ref=e42]
+        - generic [ref=e46]:
+          - heading "Миша обязательно понрави новым одноклассникам." [level=3] [ref=e47]:
+            - text: Миша обязательно понрави
+            - text: новым одноклассникам.
+          - heading "Мише должна понрави увлекательная поездка." [level=3] [ref=e49]:
+            - text: Мише должна понрави
+            - text: увлекательная поездка.
+          - heading "Серёжа качае на качелях в городском парке." [level=3] [ref=e51]:
+            - text: Серёжа качае
+            - text: на качелях в городском парке.
+          - heading "Малыши любят кача на качелях." [level=3] [ref=e53]:
+            - text: Малыши любят кача
+            - text: на качелях.
+    - button "2 Показать подсказку" [ref=e63] [cursor=pointer]:
+      - generic [ref=e66] [cursor=pointer]: "2"
+      - generic [ref=e67] [cursor=pointer]: Показать подсказку
+  - generic [ref=e68]:
+    - generic [ref=e71]: Интеллектуальный тренажер
+    - generic [ref=e75]:
+      - generic [ref=e80]: 1 из 10
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - generic [ref=e83]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e85] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e89] [cursor=pointer]:
+          - generic [ref=e91] [cursor=pointer]: Пройти опрос
+    - generic [ref=e92]:
+      - button "Информация об уроке" [ref=e97] [cursor=pointer]:
+        - img [ref=e100] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - img [ref=e105]
+          - generic [ref=e107]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e108] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e111] [cursor=pointer]
+```

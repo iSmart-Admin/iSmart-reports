@@ -1,0 +1,47 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - generic [ref=e28] [cursor=pointer]:
+            - generic:
+              - img
+          - heading "Выбери существительное в правильной форме." [level=4] [ref=e29]:
+            - generic [ref=e31]: Выбери существительное в правильной форме.
+        - generic [ref=e34] [cursor=pointer]:
+          - generic:
+            - img
+        - heading "Из похода мы возвращались поздним вечером. Никогда дорога к мне не казалась такой длинной." [level=3] [ref=e40]:
+          - text: Из похода мы возвращались поздним вечером. Никогда дорога к
+          - text: мне не казалась такой длинной.
+    - button "2 Показать подсказку" [ref=e50] [cursor=pointer]:
+      - generic [ref=e53] [cursor=pointer]: "2"
+      - generic [ref=e54] [cursor=pointer]: Показать подсказку
+  - generic [ref=e55]:
+    - generic [ref=e58]: Интеллектуальный тренажер
+    - generic [ref=e62]:
+      - generic [ref=e67]: 1 из 10
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - generic [ref=e70]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e72] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e76] [cursor=pointer]:
+          - generic [ref=e78] [cursor=pointer]: Пройти опрос
+    - generic [ref=e79]:
+      - button "Информация об уроке" [ref=e84] [cursor=pointer]:
+        - img [ref=e87] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - img [ref=e92]
+          - generic [ref=e94]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e95] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e98] [cursor=pointer]
+```

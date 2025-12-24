@@ -1,0 +1,67 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Реши задачу." [level=4] [ref=e33]:
+            - generic [ref=e35]: Реши задачу.
+        - img "decore" [ref=e40]
+        - generic [ref=e44]:
+          - generic [ref=e45]: В галерее было 284 картины, художники принесли ещё 108 картин.
+          - generic [ref=e46]:
+            - text: Сколько всего картин стало в галерее?
+            - strong [ref=e47]: "Дано:"
+            - text: Было —
+            - textbox [ref=e48]
+            - text: карт.
+          - generic [ref=e49]:
+            - text: Принесли —
+            - textbox [ref=e50]
+            - text: карт.
+          - generic [ref=e51]:
+            - text: Стало —
+            - strong [ref=e52]:
+              - generic [ref=e54]: "?"
+            - text: карт.
+            - strong [ref=e55]: "Решение:"
+            - textbox [ref=e56]
+            - textbox [ref=e58]
+            - text: =
+            - textbox [ref=e59]
+            - text: (карт.)
+            - strong [ref=e60]: "Ответ:"
+            - text: всего в галерее стало
+            - textbox [ref=e61]
+            - text: картины.
+    - button "2 Показать подсказку" [ref=e70] [cursor=pointer]:
+      - generic [ref=e73] [cursor=pointer]: "2"
+      - generic [ref=e74] [cursor=pointer]: Показать подсказку
+  - generic [ref=e75]:
+    - generic [ref=e78]: Интеллектуальный тренажер
+    - generic [ref=e82]:
+      - generic [ref=e87]: 1 из 10
+      - generic [ref=e88]:
+        - generic [ref=e89]:
+          - generic [ref=e90]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e92] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e96] [cursor=pointer]:
+          - generic [ref=e98] [cursor=pointer]: Пройти опрос
+    - generic [ref=e99]:
+      - button "Информация об уроке" [ref=e104] [cursor=pointer]:
+        - img [ref=e107] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e109]:
+        - generic [ref=e110]:
+          - img [ref=e112]
+          - generic [ref=e114]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e115] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e118] [cursor=pointer]
+```

@@ -1,0 +1,53 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Установи соответствие между элементами." [level=4] [ref=e33]:
+            - generic [ref=e35]: Установи соответствие между элементами.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]: Установи соответствие между понятием и его описанием.
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - generic [ref=e56]: Локальная вычислительная сеть (LAN)
+            - generic [ref=e69]: Глобальная вычислительная сеть (WAN)
+            - generic [ref=e82]: Компьютерная сеть
+            - generic [ref=e95]: Интернет
+          - generic [ref=e102]:
+            - generic [ref=e106] [cursor=pointer]: связывает компьютеры и другие устройства, находящиеся на больших расстояниях друг от друга.
+            - generic [ref=e110] [cursor=pointer]: объединяет компьютеры, расположенные в пределах одного здания, офиса, школы или дома.
+            - generic [ref=e114] [cursor=pointer]: совокупность компьютеров и других устройств, связанных между собой для обмена данными и совместного использования ресурсов.
+            - generic [ref=e118] [cursor=pointer]: коммуникационная сеть и всемирная система объединённых компьютерных сетей для хранения и передачи информации.
+    - button "2 Показать подсказку" [ref=e126] [cursor=pointer]:
+      - generic [ref=e129] [cursor=pointer]: "2"
+      - generic [ref=e130] [cursor=pointer]: Показать подсказку
+  - generic [ref=e131]:
+    - generic [ref=e134]: Интеллектуальный тренажер
+    - generic [ref=e138]:
+      - generic [ref=e143]: 1 из 4
+      - generic [ref=e144]:
+        - generic [ref=e145]:
+          - generic [ref=e146]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e148] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e152] [cursor=pointer]:
+          - generic [ref=e154] [cursor=pointer]: Пройти опрос
+    - generic [ref=e155]:
+      - button "Информация об уроке" [ref=e160] [cursor=pointer]:
+        - img [ref=e163] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e165]:
+        - generic [ref=e166]:
+          - img [ref=e168]
+          - generic [ref=e170]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e171] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e174] [cursor=pointer]
+```

@@ -1,0 +1,68 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - generic [ref=e28] [cursor=pointer]:
+            - generic:
+              - img
+          - heading "Найди массу 2 грузов в мешках." [level=4] [ref=e29]:
+            - generic [ref=e31]: Найди массу 2 грузов в мешках.
+        - generic [ref=e33]:
+          - img "decore" [ref=e36]
+          - generic [ref=e40]:
+            - generic [ref=e41]:
+              - generic [ref=e42]:
+                - generic [ref=e45]:
+                  - generic [ref=e47]:
+                    - img
+                  - generic [ref=e49]:
+                    - img
+                - generic [ref=e52]:
+                  - generic [ref=e54]:
+                    - img
+                  - generic [ref=e56]:
+                    - img
+                  - generic [ref=e58]:
+                    - img
+                  - generic [ref=e60]:
+                    - img
+                  - generic [ref=e62]:
+                    - img
+              - img [ref=e65]
+            - separator [ref=e113]
+        - heading "Масса 2 грузов равна массе мешков." [level=2] [ref=e118]:
+          - text: Масса 2 грузов равна массе
+          - textbox [ref=e119]
+          - text: мешков.
+    - button "1 Показать подсказку" [ref=e128] [cursor=pointer]:
+      - generic [ref=e131] [cursor=pointer]: "1"
+      - generic [ref=e132] [cursor=pointer]: Показать подсказку
+  - generic [ref=e133]:
+    - generic [ref=e136]: Интеллектуальный тренажер
+    - generic [ref=e140]:
+      - generic [ref=e145]: 1 из 5
+      - generic [ref=e146]:
+        - generic [ref=e147]:
+          - generic [ref=e148]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e150] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e154] [cursor=pointer]:
+          - generic [ref=e156] [cursor=pointer]: Пройти опрос
+    - generic [ref=e157]:
+      - button "Информация об уроке" [ref=e162] [cursor=pointer]:
+        - img [ref=e165] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e167]:
+        - generic [ref=e168]:
+          - img [ref=e170]
+          - generic [ref=e172]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e173] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e176] [cursor=pointer]
+```

@@ -1,0 +1,56 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Чему равен периметр квадрата?" [level=4] [ref=e33]:
+            - generic [ref=e35]: Чему равен периметр квадрата?
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - img [ref=e45]:
+            - generic [ref=e51]: 9 дм
+        - generic [ref=e59]:
+          - text: =
+          - textbox [ref=e61]
+          - generic [ref=e63]:
+            - math [ref=e65]:
+              - generic [ref=e67]:
+                - generic [ref=e68]: (
+                - generic [ref=e69]: дм
+                - generic [ref=e70]: )
+            - generic [ref=e72]:
+              - generic [ref=e73]: (
+              - generic [ref=e74]: дм
+              - generic [ref=e75]: )
+    - button "1 Показать подсказку" [ref=e84] [cursor=pointer]:
+      - generic [ref=e87] [cursor=pointer]: "1"
+      - generic [ref=e88] [cursor=pointer]: Показать подсказку
+  - generic [ref=e89]:
+    - generic [ref=e92]: Интеллектуальный тренажер
+    - generic [ref=e96]:
+      - generic [ref=e101]: 1 из 7
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - generic [ref=e104]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e106] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e110] [cursor=pointer]:
+          - generic [ref=e112] [cursor=pointer]: Пройти опрос
+    - generic [ref=e113]:
+      - button "Информация об уроке" [ref=e118] [cursor=pointer]:
+        - img [ref=e121] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e123]:
+        - generic [ref=e124]:
+          - img [ref=e126]
+          - generic [ref=e128]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e129] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e132] [cursor=pointer]
+```

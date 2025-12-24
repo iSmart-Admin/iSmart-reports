@@ -1,0 +1,59 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выберите все верные варианты ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выберите все верные варианты ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e42]:
+            - img "10663" [ref=e45]
+            - generic [ref=e49]: Определите, какое из теплопроводных тел, изображённых на рисунке, самое горячее и самое холодное, если энергия перемещается в направлениях, указанных стрелками.
+        - generic [ref=e54]:
+          - generic [ref=e57]: Самое горячее
+          - text: —
+          - generic [ref=e59] [cursor=pointer]: "1"
+          - generic [ref=e61] [cursor=pointer]: "2"
+          - generic [ref=e63] [cursor=pointer]: "3"
+          - generic [ref=e65] [cursor=pointer]: "4"
+          - generic [ref=e67] [cursor=pointer]: "5"
+          - generic [ref=e70]: Самое холодное
+          - text: —
+          - generic [ref=e72] [cursor=pointer]: "1"
+          - generic [ref=e74] [cursor=pointer]: "2"
+          - generic [ref=e76] [cursor=pointer]: "3"
+          - generic [ref=e78] [cursor=pointer]: "4"
+          - generic [ref=e80] [cursor=pointer]: "5"
+    - button "2 Показать подсказку" [ref=e88] [cursor=pointer]:
+      - generic [ref=e91] [cursor=pointer]: "2"
+      - generic [ref=e92] [cursor=pointer]: Показать подсказку
+  - generic [ref=e93]:
+    - generic [ref=e96]: Интеллектуальный тренажер
+    - generic [ref=e100]:
+      - generic [ref=e105]: 1 из 3
+      - generic [ref=e106]:
+        - generic [ref=e107]:
+          - generic [ref=e108]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e110] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e114] [cursor=pointer]:
+          - generic [ref=e116] [cursor=pointer]: Пройти опрос
+    - generic [ref=e117]:
+      - button "Информация об уроке" [ref=e122] [cursor=pointer]:
+        - img [ref=e125] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e127]:
+        - generic [ref=e128]:
+          - img [ref=e130]
+          - generic [ref=e132]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e133] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e136] [cursor=pointer]
+```

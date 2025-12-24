@@ -1,0 +1,123 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выбери верный вариант ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выбери верный вариант ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]:
+            - text: Спортсмен во время тренировки подбросил мяч вверх и поймал его. Мяч поднялся на высоту
+            - generic [ref=e48]:
+              - math [ref=e50]:
+                - generic [ref=e52]:
+                  - generic [ref=e53]: "3"
+                  - generic [ref=e54]: ","
+                  - generic [ref=e55]: "5"
+                  - generic [ref=e56]: м
+              - generic [ref=e58]:
+                - generic [ref=e59]: "3"
+                - generic [ref=e60]: ","
+                - generic [ref=e61]: "5"
+                - generic [ref=e62]: м
+            - text: . Найди путь и перемещение мяча.
+        - generic [ref=e65]:
+          - generic [ref=e69] [cursor=pointer]:
+            - text: Путь
+            - generic [ref=e71] [cursor=pointer]:
+              - math [ref=e73] [cursor=pointer]:
+                - generic [ref=e75] [cursor=pointer]:
+                  - generic [ref=e76] [cursor=pointer]: "3"
+                  - generic [ref=e77] [cursor=pointer]: ","
+                  - generic [ref=e78] [cursor=pointer]: "5"
+              - generic [ref=e80] [cursor=pointer]:
+                - generic [ref=e81] [cursor=pointer]: "3"
+                - generic [ref=e82] [cursor=pointer]: ","
+                - generic [ref=e83] [cursor=pointer]: "5"
+            - text: м, перемещение
+            - generic [ref=e85] [cursor=pointer]:
+              - math [ref=e87] [cursor=pointer]:
+                - generic [ref=e89] [cursor=pointer]:
+                  - generic [ref=e90] [cursor=pointer]: "3"
+                  - generic [ref=e91] [cursor=pointer]: ","
+                  - generic [ref=e92] [cursor=pointer]: "5"
+              - generic [ref=e94] [cursor=pointer]:
+                - generic [ref=e95] [cursor=pointer]: "3"
+                - generic [ref=e96] [cursor=pointer]: ","
+                - generic [ref=e97] [cursor=pointer]: "5"
+            - text: м.
+          - generic [ref=e101] [cursor=pointer]:
+            - text: Путь
+            - generic [ref=e103] [cursor=pointer]:
+              - math [ref=e105] [cursor=pointer]:
+                - generic [ref=e108] [cursor=pointer]: "7"
+              - generic [ref=e111] [cursor=pointer]: "7"
+            - text: м, перемещение
+            - generic [ref=e113] [cursor=pointer]:
+              - math [ref=e115] [cursor=pointer]:
+                - generic [ref=e117] [cursor=pointer]:
+                  - generic [ref=e118] [cursor=pointer]: "3"
+                  - generic [ref=e119] [cursor=pointer]: ","
+                  - generic [ref=e120] [cursor=pointer]: "5"
+              - generic [ref=e122] [cursor=pointer]:
+                - generic [ref=e123] [cursor=pointer]: "3"
+                - generic [ref=e124] [cursor=pointer]: ","
+                - generic [ref=e125] [cursor=pointer]: "5"
+            - text: м.
+          - generic [ref=e129] [cursor=pointer]:
+            - text: Путь
+            - generic [ref=e131] [cursor=pointer]:
+              - math [ref=e133] [cursor=pointer]:
+                - generic [ref=e136] [cursor=pointer]: "7"
+              - generic [ref=e139] [cursor=pointer]: "7"
+            - text: м, перемещение
+            - generic [ref=e141] [cursor=pointer]:
+              - math [ref=e143] [cursor=pointer]:
+                - generic [ref=e146] [cursor=pointer]: "0"
+              - generic [ref=e149] [cursor=pointer]: "0"
+            - text: м.
+          - generic [ref=e153] [cursor=pointer]:
+            - text: Путь
+            - generic [ref=e155] [cursor=pointer]:
+              - math [ref=e157] [cursor=pointer]:
+                - generic [ref=e160] [cursor=pointer]: "7"
+              - generic [ref=e163] [cursor=pointer]: "7"
+            - text: м, перемещение
+            - generic [ref=e165] [cursor=pointer]:
+              - math [ref=e167] [cursor=pointer]:
+                - generic [ref=e170] [cursor=pointer]: "7"
+              - generic [ref=e173] [cursor=pointer]: "7"
+            - text: м.
+    - button "2 Показать подсказку" [ref=e181] [cursor=pointer]:
+      - generic [ref=e184] [cursor=pointer]: "2"
+      - generic [ref=e185] [cursor=pointer]: Показать подсказку
+  - generic [ref=e186]:
+    - generic [ref=e189]: Интеллектуальный тренажер
+    - generic [ref=e193]:
+      - generic [ref=e198]: 1 из 11
+      - generic [ref=e199]:
+        - generic [ref=e200]:
+          - generic [ref=e201]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e203] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e207] [cursor=pointer]:
+          - generic [ref=e209] [cursor=pointer]: Пройти опрос
+    - generic [ref=e210]:
+      - button "Информация об уроке" [ref=e215] [cursor=pointer]:
+        - img [ref=e218] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e220]:
+        - generic [ref=e221]:
+          - img [ref=e223]
+          - generic [ref=e225]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e226] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e229] [cursor=pointer]
+```

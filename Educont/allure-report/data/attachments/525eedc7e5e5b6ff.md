@@ -1,0 +1,48 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выбери верный вариант ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выбери верный вариант ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e42]:
+            - img [ref=e45]
+            - generic [ref=e49]: Какой эпизод показан на данной иллюстрации?
+        - generic [ref=e54]:
+          - generic [ref=e56] [cursor=pointer]: Чтение условий, на которых Гулливер получил свободу.
+          - generic [ref=e58] [cursor=pointer]: Чтение описи найденного в карманах Гулливера.
+          - generic [ref=e60] [cursor=pointer]: Оглашение смертного приговора Гулливеру.
+    - button "1 Показать подсказку" [ref=e68] [cursor=pointer]:
+      - generic [ref=e71] [cursor=pointer]: "1"
+      - generic [ref=e72] [cursor=pointer]: Показать подсказку
+  - generic [ref=e73]:
+    - generic [ref=e76]: Интеллектуальный тренажер
+    - generic [ref=e80]:
+      - generic [ref=e85]: 1 из 6
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - generic [ref=e88]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e90] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e94] [cursor=pointer]:
+          - generic [ref=e96] [cursor=pointer]: Пройти опрос
+    - generic [ref=e97]:
+      - button "Информация об уроке" [ref=e102] [cursor=pointer]:
+        - img [ref=e105] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e107]:
+        - generic [ref=e108]:
+          - img [ref=e110]
+          - generic [ref=e112]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e113] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e116] [cursor=pointer]
+```

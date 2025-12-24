@@ -1,0 +1,50 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Расставь элементы в верной последовательности." [level=4] [ref=e33]:
+            - generic [ref=e35]: Расставь элементы в верной последовательности.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]: Расположи в правильном порядке ранги таксонов, начиная с наименьшего.
+        - generic [ref=e49]:
+          - generic [ref=e54] [cursor=pointer]: царство
+          - generic [ref=e59] [cursor=pointer]: семейство
+          - generic [ref=e64] [cursor=pointer]: отряд
+          - generic [ref=e69] [cursor=pointer]: вид
+          - generic [ref=e74] [cursor=pointer]: класс
+          - generic [ref=e79] [cursor=pointer]: род
+          - generic [ref=e84] [cursor=pointer]: тип
+    - button "2 Показать подсказку" [ref=e92] [cursor=pointer]:
+      - generic [ref=e95] [cursor=pointer]: "2"
+      - generic [ref=e96] [cursor=pointer]: Показать подсказку
+  - generic [ref=e97]:
+    - generic [ref=e100]: Интеллектуальный тренажер
+    - generic [ref=e104]:
+      - generic [ref=e109]: 1 из 11
+      - generic [ref=e110]:
+        - generic [ref=e111]:
+          - generic [ref=e112]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e114] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e118] [cursor=pointer]:
+          - generic [ref=e120] [cursor=pointer]: Пройти опрос
+    - generic [ref=e121]:
+      - button "Информация об уроке" [ref=e126] [cursor=pointer]:
+        - img [ref=e129] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e131]:
+        - generic [ref=e132]:
+          - img [ref=e134]
+          - generic [ref=e136]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e137] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e140] [cursor=pointer]
+```

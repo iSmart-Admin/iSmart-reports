@@ -1,0 +1,68 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - generic [ref=e18]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - button "1" [ref=e28] [cursor=pointer]
+            - button "2" [ref=e31] [cursor=pointer]
+            - button "3" [ref=e34] [cursor=pointer]
+            - button "4" [ref=e37] [cursor=pointer]
+            - button "5" [ref=e40] [cursor=pointer]
+            - button "6" [ref=e43] [cursor=pointer]
+            - button "7" [ref=e46] [cursor=pointer]
+            - button "8" [ref=e49] [cursor=pointer]
+            - button "9" [ref=e52] [cursor=pointer]
+            - button "10" [ref=e55] [cursor=pointer]
+          - generic [ref=e56]:
+            - button [disabled] [ref=e57]:
+              - img [ref=e59]
+            - button [ref=e62] [cursor=pointer]:
+              - img [ref=e64] [cursor=pointer]
+      - generic [ref=e67]:
+        - generic [ref=e69]:
+          - img [ref=e73]
+          - heading "Выбери верный вариант ответа." [level=4] [ref=e75]:
+            - generic [ref=e77]: Выбери верный вариант ответа.
+        - generic [ref=e79]:
+          - img "decore" [ref=e82]
+          - generic [ref=e84]:
+            - img "800px-Kutuzov_by_Volkov" [ref=e87]
+            - generic [ref=e91]: Кто из генералов возглавил русскую армию в Бородинском сражении в 1812 году?
+        - generic [ref=e94]:
+          - generic [ref=e98] [cursor=pointer]: П. И. Багратион
+          - generic [ref=e102] [cursor=pointer]: М. Б. Барклай-де-Толли
+          - generic [ref=e106] [cursor=pointer]: М. И. Кутузов
+          - generic [ref=e110] [cursor=pointer]: П. В. Чичагов
+    - button "2 Показать подсказку" [ref=e118] [cursor=pointer]:
+      - generic [ref=e121] [cursor=pointer]: "2"
+      - generic [ref=e122] [cursor=pointer]: Показать подсказку
+  - generic [ref=e123]:
+    - generic [ref=e126]: Интеллектуальный тренажер
+    - button "Управление учениками" [ref=e132] [cursor=pointer]:
+      - img [ref=e135] [cursor=pointer]
+      - text: Управление учениками
+    - generic [ref=e137]:
+      - generic [ref=e140]:
+        - button "Часто задаваемые вопросы" [ref=e142] [cursor=pointer]:
+          - img [ref=e145] [cursor=pointer]
+          - text: Часто задаваемые вопросы
+        - generic [ref=e147]:
+          - button "Информация об уроке" [ref=e149] [cursor=pointer]:
+            - img [ref=e152] [cursor=pointer]
+            - text: Информация об уроке
+          - generic [ref=e154]: Вы привязаны к школе Тест educont 2
+      - generic [ref=e155]:
+        - generic [ref=e156]:
+          - img [ref=e158]
+          - generic [ref=e160]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e161] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e164] [cursor=pointer]
+```

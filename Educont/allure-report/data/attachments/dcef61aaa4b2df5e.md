@@ -1,0 +1,79 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e33]:
+            - generic [ref=e35]: Внесите ответ в специально предназначенное поле.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]:
+            - text: С высоты
+            - generic [ref=e48]:
+              - math [ref=e50]:
+                - generic [ref=e52]:
+                  - generic [ref=e53]: "45"
+                  - generic [ref=e54]: м
+              - generic [ref=e56]:
+                - generic [ref=e57]: "45"
+                - generic [ref=e58]: м
+            - text: свободно, без начальной скорости падает камень массой
+            - generic [ref=e60]:
+              - math [ref=e62]:
+                - generic [ref=e64]:
+                  - generic [ref=e65]: "500"
+                  - generic [ref=e66]: г
+              - generic [ref=e68]:
+                - generic [ref=e69]: "500"
+                - generic [ref=e70]: г
+            - text: . Чему будет равна его потенциальная энергия через
+            - generic [ref=e72]:
+              - math [ref=e74]:
+                - generic [ref=e76]:
+                  - generic [ref=e77]: "2"
+                  - generic [ref=e78]: с
+              - generic [ref=e80]:
+                - generic [ref=e81]: "2"
+                - generic [ref=e82]: с
+            - text: . после начала падения, если за нулевой уровень принять поверхность Земли?
+        - generic [ref=e87]:
+          - strong [ref=e88]: "Ответ:"
+          - text: потенциальная энергия будет равна
+          - textbox [ref=e89]
+          - generic [ref=e91]:
+            - math [ref=e93]:
+              - generic [ref=e96]: Дж
+            - generic [ref=e99]: Дж
+          - text: .
+    - button "2 Показать подсказку" [ref=e108] [cursor=pointer]:
+      - generic [ref=e111] [cursor=pointer]: "2"
+      - generic [ref=e112] [cursor=pointer]: Показать подсказку
+  - generic [ref=e113]:
+    - generic [ref=e116]: Интеллектуальный тренажер
+    - generic [ref=e120]:
+      - generic [ref=e125]: 1 из 3
+      - generic [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e128]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e130] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e134] [cursor=pointer]:
+          - generic [ref=e136] [cursor=pointer]: Пройти опрос
+    - generic [ref=e137]:
+      - button "Информация об уроке" [ref=e142] [cursor=pointer]:
+        - img [ref=e145] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e147]:
+        - generic [ref=e148]:
+          - img [ref=e150]
+          - generic [ref=e152]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e153] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e156] [cursor=pointer]
+```

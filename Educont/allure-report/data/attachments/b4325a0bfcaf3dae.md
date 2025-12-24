@@ -1,0 +1,125 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выбери верный вариант ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выбери верный вариант ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]:
+            - text: Сила
+            - generic [ref=e48]:
+              - math [ref=e50]:
+                - generic [ref=e52]:
+                  - generic [ref=e53]: "60"
+                  - generic [ref=e54]: Н
+              - generic [ref=e56]:
+                - generic [ref=e57]: "60"
+                - generic [ref=e58]: Н
+            - text: сообщает мячу ускорение
+            - generic [ref=e60]:
+              - math [ref=e62]:
+                - generic [ref=e64]:
+                  - generic [ref=e65]: "0"
+                  - generic [ref=e66]: ","
+                  - generic [ref=e67]: "8"
+                  - generic [ref=e68]: м
+                  - generic [ref=e69]: /
+                  - generic [ref=e70]: с²
+              - generic [ref=e72]:
+                - generic [ref=e73]: "0"
+                - generic [ref=e74]: ","
+                - generic [ref=e75]: "8"
+                - generic [ref=e76]: м
+                - generic [ref=e77]: /
+                - generic [ref=e78]: с
+                - generic [ref=e79]: ²
+            - text: . Какая сила сообщит этому мячу ускорение
+            - generic [ref=e81]:
+              - math [ref=e83]:
+                - generic [ref=e85]:
+                  - generic [ref=e86]: "2"
+                  - generic [ref=e87]: м
+                  - generic [ref=e88]: /
+                  - generic [ref=e89]: с²
+              - generic [ref=e91]:
+                - generic [ref=e92]: "2"
+                - generic [ref=e93]: м
+                - generic [ref=e94]: /
+                - generic [ref=e95]: с
+                - generic [ref=e96]: ²
+            - text: "?"
+        - generic [ref=e99]:
+          - generic [ref=e105] [cursor=pointer]:
+            - math [ref=e107] [cursor=pointer]:
+              - generic [ref=e109] [cursor=pointer]:
+                - generic [ref=e110] [cursor=pointer]: "150"
+                - generic [ref=e111] [cursor=pointer]: Н
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e114] [cursor=pointer]: "150"
+              - generic [ref=e115] [cursor=pointer]: Н
+          - generic [ref=e121] [cursor=pointer]:
+            - math [ref=e123] [cursor=pointer]:
+              - generic [ref=e125] [cursor=pointer]:
+                - generic [ref=e126] [cursor=pointer]: "96"
+                - generic [ref=e127] [cursor=pointer]: Н
+            - generic [ref=e129] [cursor=pointer]:
+              - generic [ref=e130] [cursor=pointer]: "96"
+              - generic [ref=e131] [cursor=pointer]: Н
+          - generic [ref=e137] [cursor=pointer]:
+            - math [ref=e139] [cursor=pointer]:
+              - generic [ref=e141] [cursor=pointer]:
+                - generic [ref=e142] [cursor=pointer]: "24"
+                - generic [ref=e143] [cursor=pointer]: Н
+            - generic [ref=e145] [cursor=pointer]:
+              - generic [ref=e146] [cursor=pointer]: "24"
+              - generic [ref=e147] [cursor=pointer]: Н
+          - generic [ref=e153] [cursor=pointer]:
+            - math [ref=e155] [cursor=pointer]:
+              - generic [ref=e157] [cursor=pointer]:
+                - generic [ref=e158] [cursor=pointer]: "10"
+                - generic [ref=e159] [cursor=pointer]: Н
+            - generic [ref=e161] [cursor=pointer]:
+              - generic [ref=e162] [cursor=pointer]: "10"
+              - generic [ref=e163] [cursor=pointer]: Н
+          - generic [ref=e169] [cursor=pointer]:
+            - math [ref=e171] [cursor=pointer]:
+              - generic [ref=e173] [cursor=pointer]:
+                - generic [ref=e174] [cursor=pointer]: "5"
+                - generic [ref=e175] [cursor=pointer]: Н
+            - generic [ref=e177] [cursor=pointer]:
+              - generic [ref=e178] [cursor=pointer]: "5"
+              - generic [ref=e179] [cursor=pointer]: Н
+    - button "2 Показать подсказку" [ref=e187] [cursor=pointer]:
+      - generic [ref=e190] [cursor=pointer]: "2"
+      - generic [ref=e191] [cursor=pointer]: Показать подсказку
+  - generic [ref=e192]:
+    - generic [ref=e195]: Интеллектуальный тренажер
+    - generic [ref=e199]:
+      - generic [ref=e204]: 1 из 3
+      - generic [ref=e205]:
+        - generic [ref=e206]:
+          - generic [ref=e207]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e209] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e213] [cursor=pointer]:
+          - generic [ref=e215] [cursor=pointer]: Пройти опрос
+    - generic [ref=e216]:
+      - button "Информация об уроке" [ref=e221] [cursor=pointer]:
+        - img [ref=e224] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e226]:
+        - generic [ref=e227]:
+          - img [ref=e229]
+          - generic [ref=e231]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e232] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e235] [cursor=pointer]
+```

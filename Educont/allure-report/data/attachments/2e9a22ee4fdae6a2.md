@@ -1,0 +1,48 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выберите все верные варианты ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выберите все верные варианты ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]: Выберите утверждения о строении и характеристиках Солнца.
+        - generic [ref=e50]:
+          - generic [ref=e57] [cursor=pointer]: Солнце относится к спектральному классу G2.
+          - generic [ref=e64] [cursor=pointer]: Радиус Солнца составляет более 800000 км.
+          - generic [ref=e71] [cursor=pointer]: Возраст Солнца порядка 7 млрд лет.
+          - generic [ref=e78] [cursor=pointer]: Температура фотосферы 5770 К.
+          - generic [ref=e85] [cursor=pointer]: Солнце и звезды светят потому, что в их недрах происходят термоядерные реакции превращения ядер атомов водорода в ядра атомов гелия.
+    - button "2 Показать подсказку" [ref=e93] [cursor=pointer]:
+      - generic [ref=e96] [cursor=pointer]: "2"
+      - generic [ref=e97] [cursor=pointer]: Показать подсказку
+  - generic [ref=e98]:
+    - generic [ref=e101]: Интеллектуальный тренажер
+    - generic [ref=e105]:
+      - generic [ref=e110]: 1 из 11
+      - generic [ref=e111]:
+        - generic [ref=e112]:
+          - generic [ref=e113]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e115] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e119] [cursor=pointer]:
+          - generic [ref=e121] [cursor=pointer]: Пройти опрос
+    - generic [ref=e122]:
+      - button "Информация об уроке" [ref=e127] [cursor=pointer]:
+        - img [ref=e130] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e132]:
+        - generic [ref=e133]:
+          - img [ref=e135]
+          - generic [ref=e137]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e138] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e141] [cursor=pointer]
+```
