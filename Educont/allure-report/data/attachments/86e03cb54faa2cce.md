@@ -1,0 +1,64 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Перенесите элементы в соответствующие ячейки." [level=4] [ref=e33]:
+            - generic [ref=e35]: Перенесите элементы в соответствующие ячейки.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]: Сопоставьте теорию происхождения жизни на Земле, её описание и основные тезисы.
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - generic [ref=e53]: Креационизм
+            - generic [ref=e58]: Панспермия
+            - generic [ref=e63]: Теория стационарного состояния
+            - generic [ref=e68]: Самозарождение жизни
+            - generic [ref=e73]: Теория коацерватных капель
+            - generic [ref=e78]: Теория РНК мира
+          - generic [ref=e80]:
+            - generic [ref=e85] [cursor=pointer]: жизнь существует вечно
+            - generic [ref=e90] [cursor=pointer]: жизнь занесена с других планет
+            - generic [ref=e95] [cursor=pointer]: жизнь возникла в ходе постепенной эволюции химических молекул
+            - generic [ref=e100] [cursor=pointer]: мы находим органические молекулы на метеоритах, а значит в космосе возможна жизнь
+            - generic [ref=e105] [cursor=pointer]: жизнь возникла в ходе образования самовоспроизводящихся комплексов информационных молекул
+            - generic [ref=e110] [cursor=pointer]: изначально была РНК и она научилась себя копировать в комплексе с белками
+            - generic [ref=e115] [cursor=pointer]: всё живое было создано и не менялось с тех пор
+            - generic [ref=e120] [cursor=pointer]: жизнь была создана
+            - generic [ref=e125] [cursor=pointer]: живое может зародится из неживого
+            - generic [ref=e130] [cursor=pointer]: всё живое было создано со своими предшествующими формами в виде ископаемых
+            - generic [ref=e135] [cursor=pointer]: самоорганизация сгустков органических молекул в водах древнего океана привела к появлению первых примитивных одноклеточных существ
+            - generic [ref=e140] [cursor=pointer]: всё живое может произойти только от живого
+            - generic [ref=e145] [cursor=pointer]: в далеком прошлом имелись условия для зарождения жизни из неживого
+    - button "2 Показать подсказку" [ref=e153] [cursor=pointer]:
+      - generic [ref=e156] [cursor=pointer]: "2"
+      - generic [ref=e157] [cursor=pointer]: Показать подсказку
+  - generic [ref=e158]:
+    - generic [ref=e161]: Интеллектуальный тренажер
+    - generic [ref=e165]:
+      - generic [ref=e170]: 1 из 15
+      - generic [ref=e171]:
+        - generic [ref=e172]:
+          - generic [ref=e173]: Для выполнения версии урока от учителя введите полученный код
+          - button "Ввести код от учителя" [ref=e175] [cursor=pointer]: Ввести код от учителя
+        - button "Пройти опрос" [ref=e179] [cursor=pointer]:
+          - generic [ref=e181] [cursor=pointer]: Пройти опрос
+    - generic [ref=e182]:
+      - button "Информация об уроке" [ref=e187] [cursor=pointer]:
+        - img [ref=e190] [cursor=pointer]
+        - text: Информация об уроке
+      - generic [ref=e192]:
+        - generic [ref=e193]:
+          - img [ref=e195]
+          - generic [ref=e197]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e198] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e201] [cursor=pointer]
+```

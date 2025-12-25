@@ -1,0 +1,77 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - generic [ref=e18]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - button "1" [ref=e28] [cursor=pointer]
+            - button "2" [ref=e31] [cursor=pointer]
+            - button "3" [ref=e34] [cursor=pointer]
+            - button "4" [ref=e37] [cursor=pointer]
+            - button "5" [ref=e40] [cursor=pointer]
+            - button "6" [ref=e43] [cursor=pointer]
+            - button "7" [ref=e46] [cursor=pointer]
+            - button "8" [ref=e49] [cursor=pointer]
+            - button "9" [ref=e52] [cursor=pointer]
+          - generic [ref=e53]:
+            - button [disabled] [ref=e54]:
+              - img [ref=e56]
+            - button [disabled] [ref=e59]:
+              - img [ref=e61]
+      - generic [ref=e64]:
+        - generic [ref=e66]:
+          - img [ref=e70]
+          - heading "Внеси числовой ответ в специально предназначенное поле." [level=4] [ref=e72]:
+            - generic [ref=e74]: Внеси числовой ответ в специально предназначенное поле.
+        - generic [ref=e76]:
+          - img "decore" [ref=e79]
+          - generic [ref=e84]:
+            - generic [ref=e85]: "На рисунке изображено дерево случайного эксперимента. Эксперимент заключается в следующем: стрелок стреляет по мишени (П — промах, Ц — поражение цели); если в результате первого выстрела стрелок промахивается, то ему даётся ещё один выстрел; если же в результате первого выстрела стрелок поражает цель, то ему даётся ещё два выстрела."
+            - img [ref=e88]
+            - generic [ref=e89]: Найди вероятность того, что стрелок промахнулся не более одного раза (ответ представь десятичной дробью и запиши только дробную часть).
+        - generic [ref=e93]:
+          - generic [ref=e94]:
+            - strong [ref=e95]: "Ответ:"
+            - generic [ref=e97]:
+              - math [ref=e99]:
+                - generic [ref=e101]:
+                  - generic [ref=e102]: "0"
+                  - generic [ref=e103]: ","
+              - generic [ref=e105]:
+                - generic [ref=e106]: "0"
+                - generic [ref=e107]: ","
+            - textbox [active] [ref=e108]
+            - text: .
+          - generic [ref=e111]: бывшая картинка files.ismart.org/ismart.storage/fs/a43658d2726d4da66fa53dbdc7861e3a-original.webp
+    - button "2 Показать подсказку" [ref=e120] [cursor=pointer]:
+      - generic [ref=e123] [cursor=pointer]: "2"
+      - generic [ref=e124] [cursor=pointer]: Показать подсказку
+  - generic [ref=e125]:
+    - generic [ref=e128]: Интеллектуальный тренажер
+    - button "Управление учениками" [ref=e134] [cursor=pointer]:
+      - img [ref=e137] [cursor=pointer]
+      - text: Управление учениками
+    - generic [ref=e139]:
+      - generic [ref=e142]:
+        - button "Часто задаваемые вопросы" [ref=e144] [cursor=pointer]:
+          - img [ref=e147] [cursor=pointer]
+          - text: Часто задаваемые вопросы
+        - generic [ref=e149]:
+          - button "Информация об уроке" [ref=e151] [cursor=pointer]:
+            - img [ref=e154] [cursor=pointer]
+            - text: Информация об уроке
+          - generic [ref=e156]: Вы привязаны к школе Тест educont 2
+      - generic [ref=e157]:
+        - generic [ref=e158]:
+          - img [ref=e160]
+          - generic [ref=e162]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e163] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e166] [cursor=pointer]
+```
