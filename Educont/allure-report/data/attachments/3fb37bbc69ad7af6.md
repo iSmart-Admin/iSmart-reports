@@ -1,0 +1,55 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выбери верный вариант ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выбери верный вариант ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]: Что является основными признаками абсолютизма?
+        - generic [ref=e50]:
+          - generic [ref=e57] [cursor=pointer]: Появление большого количества чиновников, через которых монарх осуществляет управление государством.
+          - generic [ref=e64] [cursor=pointer]: Подчинение церкви королевской власти.
+          - generic [ref=e71] [cursor=pointer]: Введение налоговой системы для пополнения казны.
+          - generic [ref=e78] [cursor=pointer]: Создание постоянной армии как опоры для монарха в регулировании вопросов безопасности.
+          - generic [ref=e85] [cursor=pointer]: Всё вышеперечисленное.
+    - button "1 Показать подсказку" [ref=e93] [cursor=pointer]:
+      - generic [ref=e96] [cursor=pointer]: "1"
+      - generic [ref=e97] [cursor=pointer]: Показать подсказку
+  - generic [ref=e98]:
+    - generic [ref=e101]: Интеллектуальный тренажер
+    - generic [ref=e105]:
+      - generic [ref=e111]: 2 из 15
+      - generic [ref=e113]:
+        - generic [ref=e114]: Для выполнения версии урока от учителя введите полученный код
+        - button "Ввести код от учителя" [ref=e116] [cursor=pointer]: Ввести код от учителя
+    - generic [ref=e119]:
+      - generic [ref=e121]:
+        - button "Пройти опрос" [ref=e122] [cursor=pointer]:
+          - generic [ref=e124] [cursor=pointer]: Пройти опрос
+        - button "Черновик" [ref=e125] [cursor=pointer]:
+          - img [ref=e128] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e131] [cursor=pointer]:
+          - img [ref=e134] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - button "Информация об уроке" [ref=e138] [cursor=pointer]:
+          - img [ref=e141] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e143]:
+        - generic [ref=e144]:
+          - img [ref=e146]
+          - generic [ref=e148]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [active] [ref=e149] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e152] [cursor=pointer]
+        - generic [ref=e155]: 695dc66a408bda0007c8a732
+```
