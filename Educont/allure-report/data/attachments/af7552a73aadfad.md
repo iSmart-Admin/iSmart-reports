@@ -1,0 +1,57 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Внеси ответы в специально предназначенные поля." [level=4] [ref=e33]:
+            - generic [ref=e35]: Внеси ответы в специально предназначенные поля.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e42]:
+            - img "Ф9.4.2.8Z" [ref=e45]
+            - generic [ref=e49]: На зеркало падает свет. Чему равны углы падения и отражения?
+        - generic [ref=e54]:
+          - text: "Угол падения:"
+          - textbox [active] [ref=e55]
+          - text: "°, угол отражения:"
+          - textbox [ref=e56]
+          - text: °.
+    - button "2 Показать подсказку" [ref=e65] [cursor=pointer]:
+      - generic [ref=e68] [cursor=pointer]: "2"
+      - generic [ref=e69] [cursor=pointer]: Показать подсказку
+  - generic [ref=e70]:
+    - generic [ref=e73]: Интеллектуальный тренажер
+    - generic [ref=e77]:
+      - generic [ref=e83]: 2 из 6
+      - generic [ref=e85]:
+        - generic [ref=e86]: Для выполнения версии урока от учителя введите полученный код
+        - button "Ввести код от учителя" [ref=e88] [cursor=pointer]: Ввести код от учителя
+    - generic [ref=e91]:
+      - generic [ref=e93]:
+        - button "Пройти опрос" [ref=e94] [cursor=pointer]:
+          - generic [ref=e96] [cursor=pointer]: Пройти опрос
+        - button "Черновик" [ref=e97] [cursor=pointer]:
+          - img [ref=e100] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e103] [cursor=pointer]:
+          - img [ref=e106] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - button "Информация об уроке" [ref=e110] [cursor=pointer]:
+          - img [ref=e113] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e115]:
+        - generic [ref=e116]:
+          - img [ref=e118]
+          - generic [ref=e120]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e121] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e124] [cursor=pointer]
+        - generic [ref=e127]: 695f2b71408bda0007f425e0
+```

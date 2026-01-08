@@ -1,0 +1,55 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выбери верный вариант ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выбери верный вариант ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e45]:
+            - generic [ref=e46]: Рассказ называется «Самый счасливый день», тема рассказа — что такое счастье.
+            - generic [ref=e47]: Как главный герой понимает счастье?
+        - generic [ref=e50]:
+          - generic [ref=e54] [cursor=pointer]: Самый счастливый день — день, когда все удается.
+          - generic [ref=e58] [cursor=pointer]: Самое большое счастье — мир и любовь в семье.
+          - generic [ref=e62] [cursor=pointer]: Главное в рассказе — отношения с друзьями.
+    - button "2 Показать подсказку" [ref=e70] [cursor=pointer]:
+      - generic [ref=e73] [cursor=pointer]: "2"
+      - generic [ref=e74] [cursor=pointer]: Показать подсказку
+  - generic [ref=e75]:
+    - generic [ref=e78]: Интеллектуальный тренажер
+    - generic [ref=e82]:
+      - generic [ref=e88]: 2 из 3
+      - generic [ref=e90]:
+        - generic [ref=e91]: Для выполнения версии урока от учителя введите полученный код
+        - button "Ввести код от учителя" [ref=e93] [cursor=pointer]: Ввести код от учителя
+    - generic [ref=e96]:
+      - generic [ref=e98]:
+        - button "Пройти опрос" [ref=e99] [cursor=pointer]:
+          - generic [ref=e101] [cursor=pointer]: Пройти опрос
+        - button "Черновик" [ref=e102] [cursor=pointer]:
+          - img [ref=e105] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e108] [cursor=pointer]:
+          - img [ref=e111] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - button "Информация об уроке" [ref=e115] [cursor=pointer]:
+          - img [ref=e118] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e120]:
+        - generic [ref=e121]:
+          - img [ref=e123]
+          - generic [ref=e125]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [active] [ref=e126] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e129] [cursor=pointer]
+        - generic [ref=e132]: 695f1bc9408bda0007f2d70e
+```
