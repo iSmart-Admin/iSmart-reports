@@ -1,0 +1,74 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - generic [ref=e18]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - button "1" [ref=e28] [cursor=pointer]
+            - button "2" [ref=e31] [cursor=pointer]
+            - button "3" [ref=e34] [cursor=pointer]
+            - button "4" [ref=e37] [cursor=pointer]
+            - button "5" [ref=e40] [cursor=pointer]
+            - button "6" [ref=e43] [cursor=pointer]
+            - button "7" [ref=e46] [cursor=pointer]
+            - button "8" [ref=e49] [cursor=pointer]
+            - button "9" [ref=e52] [cursor=pointer]
+            - button "10" [ref=e55] [cursor=pointer]
+          - generic [ref=e56]:
+            - button [disabled] [ref=e57]:
+              - img [ref=e59]
+            - button [disabled] [ref=e62]:
+              - img [ref=e64]
+      - generic [ref=e67]:
+        - generic [ref=e69]:
+          - img [ref=e73]
+          - heading "Выбери все верные варианты ответа." [level=4] [ref=e75]:
+            - generic [ref=e77]: Выбери все верные варианты ответа.
+        - generic [ref=e79]:
+          - img "decore" [ref=e82]
+          - generic [ref=e88]: В каких местах Крымского полуострова разворачивается действие рассказа А.И. Куприна «Белый пудель»?
+        - generic [ref=e93]:
+          - generic [ref=e95] [cursor=pointer]: Севастополь
+          - generic [ref=e97] [cursor=pointer]: Ялта
+          - generic [ref=e99] [cursor=pointer]: Мисхор
+          - generic [ref=e101] [cursor=pointer]: Форос
+          - generic [ref=e103] [cursor=pointer]: Алупка
+    - button "1 Показать подсказку" [ref=e111] [cursor=pointer]:
+      - generic [ref=e114] [cursor=pointer]: "1"
+      - generic [ref=e115] [cursor=pointer]: Показать подсказку
+  - generic [ref=e116]:
+    - generic [ref=e119]: Интеллектуальный тренажер
+    - button "Управление учениками" [ref=e125] [cursor=pointer]:
+      - img [ref=e128] [cursor=pointer]
+      - text: Управление учениками
+    - generic [ref=e130]:
+      - generic [ref=e132]:
+        - button "Черновик" [ref=e133] [cursor=pointer]:
+          - img [ref=e136] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e139] [cursor=pointer]:
+          - img [ref=e142] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - generic [ref=e144]:
+          - button "Часто задаваемые вопросы" [ref=e146] [cursor=pointer]:
+            - img [ref=e149] [cursor=pointer]
+            - text: Часто задаваемые вопросы
+          - generic [ref=e151]:
+            - button "Информация об уроке" [ref=e153] [cursor=pointer]:
+              - img [ref=e156] [cursor=pointer]
+              - text: Информация об уроке
+            - generic [ref=e158]: Вы привязаны к школе Тест educont 2
+      - generic [ref=e159]:
+        - generic [ref=e160]:
+          - img [ref=e162]
+          - generic [ref=e164]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e165] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e168] [cursor=pointer]
+```

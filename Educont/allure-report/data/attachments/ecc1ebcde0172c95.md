@@ -1,0 +1,78 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e12]:
+    - generic [ref=e13]:
+      - generic [ref=e16]:
+        - generic [ref=e18]:
+          - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+            - img [ref=e22] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e24]:
+            - generic [ref=e25]:
+              - button "1" [ref=e28] [cursor=pointer]
+              - button "2" [ref=e31] [cursor=pointer]
+              - button "3" [ref=e34] [cursor=pointer]
+              - button "4" [ref=e37] [cursor=pointer]
+              - button "5" [ref=e40] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e46] [cursor=pointer]
+              - button "8" [ref=e49] [cursor=pointer]
+              - button "9" [ref=e52] [cursor=pointer]
+            - generic [ref=e53]:
+              - button [disabled] [ref=e54]:
+                - img [ref=e56]
+              - button [disabled] [ref=e59]:
+                - img [ref=e61]
+        - generic [ref=e64]:
+          - generic [ref=e66]:
+            - img [ref=e70]
+            - heading "Выбери верный вариант ответа." [level=4] [ref=e72]:
+              - generic [ref=e74]: Выбери верный вариант ответа.
+          - generic [ref=e76]:
+            - img "decore" [ref=e79]
+            - generic [ref=e85]: Укажи годы правления Петра III.
+          - generic [ref=e88]:
+            - generic [ref=e92] [cursor=pointer]: 1740-1741
+            - generic [ref=e96] [cursor=pointer]: 1741-1761
+            - generic [ref=e100] [cursor=pointer]: 1761-1762
+            - generic [ref=e104] [cursor=pointer]: 1762-1796
+      - button "2 Показать подсказку" [ref=e112] [cursor=pointer]:
+        - generic [ref=e115] [cursor=pointer]: "2"
+        - generic [ref=e116] [cursor=pointer]: Показать подсказку
+    - generic [ref=e117]:
+      - generic [ref=e120]: Интеллектуальный тренажер
+      - button "Управление учениками" [ref=e126] [cursor=pointer]:
+        - img [ref=e129] [cursor=pointer]
+        - text: Управление учениками
+      - generic [ref=e131]:
+        - generic [ref=e133]:
+          - button "Черновик" [ref=e134] [cursor=pointer]:
+            - img [ref=e137] [cursor=pointer]
+            - text: Черновик
+          - button "Сообщить об ошибке" [ref=e140] [cursor=pointer]:
+            - img [ref=e143] [cursor=pointer]
+            - text: Сообщить об ошибке
+          - generic [ref=e145]:
+            - button "Часто задаваемые вопросы" [ref=e147] [cursor=pointer]:
+              - img [ref=e150] [cursor=pointer]
+              - text: Часто задаваемые вопросы
+            - generic [ref=e152]:
+              - button "Информация об уроке" [ref=e154] [cursor=pointer]:
+                - img [ref=e157] [cursor=pointer]
+                - text: Информация об уроке
+              - generic [ref=e159]: Вы привязаны к школе Тест educont 2
+        - generic [ref=e160]:
+          - generic [ref=e161]:
+            - img [ref=e163]
+            - generic [ref=e165]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e166] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e169] [cursor=pointer]
+  - generic [ref=e172]:
+    - generic [ref=e173]:
+      - heading "Мета-данные" [level=5] [ref=e174]
+      - generic [ref=e175]: Unexpected token 'C', "Cannot rea"... is not valid JSON
+    - img [ref=e178] [cursor=pointer]
+```
