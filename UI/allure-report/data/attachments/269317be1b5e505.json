@@ -1,0 +1,51 @@
+[
+  {
+    "url": "https://beta.ismart.org/graphql",
+    "status": 503,
+    "payload": {
+      "query": "query UserInfo {\n  userInfo {\n    ...userFields\n  }\n}\n\nfragment userFields on User {\n  id\n  role\n  login\n  email\n  firstName\n  lastName\n  phoneNumber\n  avatar\n  avatarSkin\n  isActive\n  isConfirmEmail\n  isRegistrationComplete\n  canReceiveConfirmationEmail\n  coins\n  createDate\n  firstGradeDate\n  freeAIQueries\n  cards {\n    createDate\n    id\n    pan\n    mainCard\n  }\n  subscriptions {\n    ...userSubscriptionFields\n  }\n  students {\n    id\n    firstName\n    avatar\n    attributes\n    classRooms {\n      id\n      grade\n      name\n      studentName\n      teacherName\n      schoolName\n      isClassrep\n    }\n    bitConfig\n    firstGradeDate\n    accessabilitySettings {\n      themeName\n      fontFamily\n      fontSizeInPx\n      letterSpacingIncreasingInPercent\n      isClearScreen\n    }\n  }\n  school {\n    address\n    name\n    place\n  }\n  schoolPermissions {\n    canEditSchool\n  }\n  attributes\n  contractType\n  externalUserSource\n  limitUsage\n  isGuest\n  hasNewAuth\n  educontSchoolName\n  educontSchoolId\n  educont {\n    educontUid\n    isActive\n    role\n    allowedCourses\n    educationalInstitutions {\n      approvedStatus\n      isActual\n      educationalInstitution {\n        id\n        shortName\n        inn\n        kpp\n        address\n        region\n        typeEducationalInstitution\n      }\n    }\n  }\n  parentId\n  parent {\n    _id\n    email\n    isConfirmEmail\n  }\n  godMode\n  permissions {\n    id\n    slug\n    description\n  }\n  isFutureCode\n  bitConfig\n  disableBillings\n  accessabilitySettings {\n    themeName\n    fontFamily\n    fontSizeInPx\n    letterSpacingIncreasingInPercent\n    isClearScreen\n  }\n  codeOfFuturePermissions\n  showAIHints\n  coursesFavourites {\n    courses\n    modules\n    units\n    elements\n  }\n  isEducont\n  hasSchoolsAccess\n  educontSchool {\n    schoolEmployeeId\n    shortName\n    schoolUuid\n  }\n  shouldShowEducontCodeErrorNotification\n}\n\nfragment userSubscriptionFields on UserSubscription {\n  id\n  allowRecurring\n  cardId\n  orderId\n  classroomId\n  status\n  isActive\n  activeDate\n  endDate\n  deleteDate\n  plan {\n    ...subscriptionPlanFields\n  }\n  nextPlan {\n    ...subscriptionPlanFields\n  }\n  subscription {\n    ...subscriptionFields\n  }\n}\n\nfragment subscriptionFields on Subscription {\n  id\n  name\n  role\n  type\n  description\n  weight\n  createDate\n  updateDate\n  deleteDate\n  labels\n  displayCardIcon\n  displayCardSize\n  plans {\n    ...subscriptionPlanFields\n  }\n  discounts {\n    id\n    type\n  }\n  configuration {\n    subjectIds\n    categoryIds\n    chatRequests\n    giftChatRequests\n    tasksCount\n    studentsQuantityInClassroom\n    unlimitedAccessToTeachersTasks\n    hintsForTeachersTasks\n  }\n  classObjectId\n  specialLabel\n}\n\nfragment subscriptionPlanFields on SubscriptionPlan {\n  id\n  numberOfStudents\n  pricingPolicy\n  period\n  price\n  timeline\n  priceBefore\n  pricePerMonth\n  pricePerMonthBefore\n  discount\n  quotaOfTasks\n  coins\n  subjectPrices {\n    id\n    subjectId\n    name\n    priceBefore\n    pricePerMonth\n    pricePerMonthBefore\n    discount\n  }\n  categoryPrices {\n    id\n    categoryId\n    name\n    priceBefore\n    pricePerMonth\n    pricePerMonthBefore\n    discount\n  }\n}\n"
+    },
+    "timestap": "13.01.2026, 16:13:28"
+  },
+  {
+    "url": "https://beta.ismart.org/graphql",
+    "status": 503,
+    "payload": {
+      "query": "mutation userSignOut {\n  userSignOut\n}\n"
+    },
+    "timestap": "13.01.2026, 16:13:28"
+  },
+  {
+    "url": "https://beta.ismart.org/graphql",
+    "status": 503,
+    "payload": {
+      "query": "query Meta {\n  meta {\n    categoryTags {\n      id\n      tag\n      type\n      textColor\n      backgroundColor\n      activeColor\n      icon\n      chips\n    }\n    classes {\n      id\n      isActive\n      name\n      weight\n      code\n      digit\n      isSchoolProgram\n    }\n    subjects {\n      id\n      isActive\n      lockedClasses\n      name\n      weight\n      color\n      code\n      isSchoolProgram\n      isEducontTeacher\n    }\n    customDiagnostics {\n      id\n      name\n      classId\n      subjectId\n    }\n    marketItems {\n      ...gameItemFragment\n    }\n    links {\n      id\n      href\n      icon\n      label\n    }\n    sortVariants {\n      id\n      name\n      type\n      subjectId\n      classId\n      code\n    }\n    labels {\n      _id\n      name\n      icon\n      isGroup\n      parentId\n    }\n    directorClassrooms {\n      text\n      value\n    }\n  }\n}\n\nfragment gameItemFragment on GameItem {\n  id\n  objectId\n  type\n  name\n  price\n  payload {\n    value\n    items {\n      objectId\n      chance\n    }\n    image\n    inStore\n    inGameStore\n    color1\n    color2\n    background\n    borderColor\n  }\n  description\n  purchaseDate\n  group\n  weight\n  isReward\n  isLimited\n}\n"
+    },
+    "timestap": "13.01.2026, 16:13:28"
+  },
+  {
+    "url": "https://o271089.ingest.sentry.io/api/4505314407022592/envelope/?sentry_key=4a8e266f70be4d47affea7c6a2dc99d5&sentry_version=7&sentry_client=sentry.javascript.react%2F7.54.0",
+    "status": 429,
+    "payload": "{\"event_id\":\"bc3072e96f39414baccc4f44aeb6d8cc\",\"sent_at\":\"2026-01-13T13:13:28.146Z\",\"sdk\":{\"name\":\"sentry.javascript.react\",\"version\":\"7.54.0\"}}\n{\"type\":\"event\"}\n{\"message\":\"Action failed\",\"exception\":{\"values\":[{\"value\":\"Action failed\",\"type\":\"Error\",\"mechanism\":{\"type\":\"generic\",\"handled\":true,\"synthetic\":true}}]},\"level\":\"error\",\"event_id\":\"bc3072e96f39414baccc4f44aeb6d8cc\",\"platform\":\"javascript\",\"timestamp\":1768310008.141,\"environment\":\"ismart-beta\",\"release\":\"7.10.3\",\"sdk\":{\"integrations\":[\"InboundFilters\",\"FunctionToString\",\"TryCatch\",\"Breadcrumbs\",\"GlobalHandlers\",\"LinkedErrors\",\"Dedupe\",\"HttpContext\",\"Replay\"],\"name\":\"sentry.javascript.react\",\"version\":\"7.54.0\",\"packages\":[{\"name\":\"npm:@sentry/react\",\"version\":\"7.54.0\"}]},\"extra\":{\"actionName\":\"fetchUserInfo\"},\"tags\":{\"type\":\"action\",\"scope\":\"anywhere\",\"replayId\":\"20ca1f8755ac443a98d92d3d84958ae8\"},\"request\":{\"url\":\"https://beta.ismart.org/catalog/\",\"headers\":{\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36\"}}}",
+    "timestap": "13.01.2026, 16:13:28"
+  },
+  {
+    "url": "https://beta.ismart.org/graphql",
+    "status": 503,
+    "payload": {
+      "query": "query shopCatalog {\n  shopCatalog {\n    groups {\n      ...subscriptionGroupFlatFields\n    }\n    subscriptions {\n      ...subscriptionFields\n      design\n    }\n  }\n}\n\nfragment subscriptionGroupFlatFields on SubscriptionGroupFlat {\n  id\n  name\n  type\n  shortDescription\n  longDescription\n  iconUrl\n  backgroundColor\n  role\n  weight\n  subscriptions\n  subscriptionsImages {\n    id\n    imageUrl\n  }\n  parentId\n  bannerType\n  bannerPosition\n  specialLabel\n}\n\nfragment subscriptionFields on Subscription {\n  id\n  name\n  role\n  type\n  description\n  weight\n  createDate\n  updateDate\n  deleteDate\n  labels\n  displayCardIcon\n  displayCardSize\n  plans {\n    ...subscriptionPlanFields\n  }\n  discounts {\n    id\n    type\n  }\n  configuration {\n    subjectIds\n    categoryIds\n    chatRequests\n    giftChatRequests\n    tasksCount\n    studentsQuantityInClassroom\n    unlimitedAccessToTeachersTasks\n    hintsForTeachersTasks\n  }\n  classObjectId\n  specialLabel\n}\n\nfragment subscriptionPlanFields on SubscriptionPlan {\n  id\n  numberOfStudents\n  pricingPolicy\n  period\n  price\n  timeline\n  priceBefore\n  pricePerMonth\n  pricePerMonthBefore\n  discount\n  quotaOfTasks\n  coins\n  subjectPrices {\n    id\n    subjectId\n    name\n    priceBefore\n    pricePerMonth\n    pricePerMonthBefore\n    discount\n  }\n  categoryPrices {\n    id\n    categoryId\n    name\n    priceBefore\n    pricePerMonth\n    pricePerMonthBefore\n    discount\n  }\n}\n"
+    },
+    "timestap": "13.01.2026, 16:13:28"
+  },
+  {
+    "url": "https://beta.ismart.org/graphql",
+    "status": 503,
+    "payload": {
+      "query": "query catalogCategories($showAll: Boolean, $categoryId: String) {\n  catalogCategories(showAll: $showAll, categoryId: $categoryId) {\n    ...catalogCategoryFields\n  }\n}\n\nfragment catalogCategoryFields on Category {\n  id\n  parentId\n  parentCode\n  name\n  shortDescription\n  description\n  fullDescription\n  image\n  lottie\n  imageOffsetX\n  imageOffsetY\n  imageScale\n  color\n  weight\n  code\n  size\n  type\n  availabilityType\n  tags\n  classId\n  subjectId\n  coursesObjectIds\n  externalMaterial\n  hidden\n  isActive\n  practiceId\n  durationMinutes\n  validFromDate\n  validToDate\n  practiceId\n  bannerComponent\n  updatedAt\n  educont\n  educontOnly\n  iconUrl\n  educontCourses {\n    externalId\n    label\n    link\n  }\n  randomizedContent {\n    classId\n    subjectId\n    taskQuantity\n  }\n  showKeys\n  teacherThemeGroupMode\n  eor\n  isPurchased\n  tariffTitle\n}\n",
+      "variables": {
+        "showAll": false
+      }
+    },
+    "timestap": "13.01.2026, 16:13:28"
+  }
+]
