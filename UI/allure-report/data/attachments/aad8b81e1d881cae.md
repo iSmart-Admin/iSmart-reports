@@ -1,0 +1,112 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e9]:
+    - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+      - img [ref=e14] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]: курс
+        - heading "Программирование на языке Python" [level=1] [ref=e21]
+      - generic [ref=e22]:
+        - button "Часто задаваемые вопросы" [ref=e24] [cursor=pointer]:
+          - img [ref=e27] [cursor=pointer]
+          - text: Часто задаваемые вопросы
+        - button "Войти как учитель" [active] [ref=e29] [cursor=pointer]:
+          - img [ref=e32] [cursor=pointer]
+          - generic [ref=e34] [cursor=pointer]: Войти как учитель
+    - generic [ref=e36]:
+      - generic [ref=e38]:
+        - button "Типы данных. Переменные":
+          - generic:
+            - generic:
+              - generic:
+                - img
+              - generic: Типы данных. Переменные
+        - button "Строки" [ref=e39] [cursor=pointer]:
+          - generic [ref=e41] [cursor=pointer]:
+            - img [ref=e43] [cursor=pointer]
+            - generic [ref=e45] [cursor=pointer]: Строки
+        - button "Условный оператор" [ref=e46] [cursor=pointer]:
+          - generic [ref=e48] [cursor=pointer]:
+            - img [ref=e50] [cursor=pointer]
+            - generic [ref=e52] [cursor=pointer]: Условный оператор
+        - button "Списки" [ref=e53] [cursor=pointer]:
+          - generic [ref=e55] [cursor=pointer]:
+            - img [ref=e57] [cursor=pointer]
+            - generic [ref=e59] [cursor=pointer]: Списки
+        - button "Оператор цикла" [ref=e60] [cursor=pointer]:
+          - generic [ref=e62] [cursor=pointer]:
+            - img [ref=e64] [cursor=pointer]
+            - generic [ref=e66] [cursor=pointer]: Оператор цикла
+        - button "Функции" [ref=e67] [cursor=pointer]:
+          - generic [ref=e69] [cursor=pointer]:
+            - img [ref=e71] [cursor=pointer]
+            - generic [ref=e73] [cursor=pointer]: Функции
+      - generic [ref=e79]:
+        - generic [ref=e80]:
+          - button "Вывод данных" [ref=e81] [cursor=pointer]:
+            - generic [ref=e82] [cursor=pointer]:
+              - generic [ref=e83] [cursor=pointer]:
+                - img [ref=e85] [cursor=pointer]
+                - generic [ref=e87] [cursor=pointer]: Вывод данных
+              - img [ref=e91] [cursor=pointer]
+          - button "Переменная" [ref=e93] [cursor=pointer]:
+            - generic [ref=e94] [cursor=pointer]:
+              - generic [ref=e95] [cursor=pointer]:
+                - img [ref=e97] [cursor=pointer]
+                - generic [ref=e99] [cursor=pointer]: Переменная
+              - img [ref=e103] [cursor=pointer]
+          - button "Ввод данных" [ref=e105] [cursor=pointer]:
+            - generic [ref=e106] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]:
+                - img [ref=e109] [cursor=pointer]
+                - generic [ref=e111] [cursor=pointer]: Ввод данных
+              - img [ref=e115] [cursor=pointer]
+          - button "Целые числа" [ref=e117] [cursor=pointer]:
+            - generic [ref=e118] [cursor=pointer]:
+              - generic [ref=e119] [cursor=pointer]:
+                - img [ref=e121] [cursor=pointer]
+                - generic [ref=e123] [cursor=pointer]: Целые числа
+              - img [ref=e127] [cursor=pointer]
+          - button "Целые числа. Анализ цифр числа" [ref=e129] [cursor=pointer]:
+            - generic [ref=e130] [cursor=pointer]:
+              - generic [ref=e131] [cursor=pointer]:
+                - img [ref=e133] [cursor=pointer]
+                - generic [ref=e135] [cursor=pointer]: Целые числа. Анализ цифр числа
+              - img [ref=e139] [cursor=pointer]
+          - button "Вещественные числа" [ref=e141] [cursor=pointer]:
+            - generic [ref=e142] [cursor=pointer]:
+              - generic [ref=e143] [cursor=pointer]:
+                - img [ref=e145] [cursor=pointer]
+                - generic [ref=e147] [cursor=pointer]: Вещественные числа
+              - img [ref=e151] [cursor=pointer]
+          - button "Итоговый тест" [ref=e153] [cursor=pointer]:
+            - generic [ref=e154] [cursor=pointer]:
+              - generic [ref=e155] [cursor=pointer]:
+                - img [ref=e157] [cursor=pointer]
+                - generic [ref=e159] [cursor=pointer]: Итоговый тест
+              - img [ref=e163] [cursor=pointer]
+        - paragraph [ref=e166]: В этом разделе 47 материалов - 19 практик, 21 вопрос, 7 задач по теории.
+  - generic [ref=e175]:
+    - button [ref=e177] [cursor=pointer]:
+      - img [ref=e179] [cursor=pointer]
+    - generic [ref=e182]:
+      - heading "Вход для учителя" [level=4] [ref=e184]
+      - generic [ref=e185]:
+        - generic [ref=e186]:
+          - generic [ref=e187]: Логин
+          - textbox "Email или логин" [ref=e191]
+        - button "Далее" [disabled] [ref=e192]:
+          - generic [ref=e193]: Далее
+        - generic [ref=e194]:
+          - generic [ref=e197]: или
+          - generic [ref=e198]:
+            - button "Зарегестрироваться" [ref=e199] [cursor=pointer]
+            - generic [ref=e200]:
+              - text: "Если у Вас возникли вопросы, вы можете обратиться в службу поддержки iSmart:"
+              - link "support@ismart.org" [ref=e201] [cursor=pointer]:
+                - /url: mailto:support@ismart.org
+```
