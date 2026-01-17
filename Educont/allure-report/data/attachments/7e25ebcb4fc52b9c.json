@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "query Meta {\n  meta {\n    categoryTags {\n      id\n      tag\n      type\n      textColor\n      backgroundColor\n      activeColor\n      icon\n      chips\n    }\n    classes {\n      id\n      isActive\n      name\n      weight\n      code\n      digit\n      isSchoolProgram\n    }\n    subjects {\n      id\n      isActive\n      lockedClasses\n      name\n      weight\n      color\n      code\n      isSchoolProgram\n      isEducontTeacher\n    }\n    customDiagnostics {\n      id\n      name\n      classId\n      subjectId\n    }\n    marketItems {\n      ...gameItemFragment\n    }\n    links {\n      id\n      href\n      icon\n      label\n    }\n    sortVariants {\n      id\n      name\n      type\n      subjectId\n      classId\n      code\n    }\n    labels {\n      _id\n      name\n      icon\n      isGroup\n      parentId\n    }\n    directorClassrooms {\n      text\n      value\n    }\n  }\n}\n\nfragment gameItemFragment on GameItem {\n  id\n  objectId\n  type\n  name\n  price\n  payload {\n    value\n    items {\n      objectId\n      chance\n    }\n    image\n    inStore\n    inGameStore\n    color1\n    color2\n    background\n    borderColor\n  }\n  description\n  purchaseDate\n  group\n  weight\n  isReward\n  isLimited\n}\n"
+    },
+    "timestap": "17.01.2026, 05:22:54"
+  },
+  {
+    "url": "https://edu.ismart.org/trpc/educont.checkAndParseToken?batch=1&input=%7B%220%22%3A%7B%22token%22%3A%22eyJhbGciOiJHT1NUMzQxMF8yMDEyXzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6ImI5YWI3NGY4LTRmNDktNDlmZS05ZWIyLTZkZjA5NjdkMDMxZiIsImlzVGVhY2hlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjY4YzAzYjYwYTdmYWI4MDAwNzZmZGI4MCIsInNlY3Rpb25Qcm92aWRlcklkIjoiNjhjMDNiNjBhN2ZhYjgwMDA3NmZkYjgxIiwidGhlbWVQcm92aWRlcklkIjoiNjhjMDNiMDFhN2ZhYjgwMDA3NmZkNzdjIiwibGVzc29uUHJvdmlkZXJJZCI6IjY4YjZkZDcyOWExNTliNDExODJiZjBiYiJ9.wi8nBoqLBhJQ4MlgfFMWRuKJk-Zx1ZkdXShr8CxVufaW-bOQUn2q4lQ-UVEOVdU2-dUrNcj6YQkULeHzv3eQ%22%2C%22lessonId%22%3A%2268b6dd429a159b41182beec2%22%7D%7D",
+    "status": 500,
+    "payload": null,
+    "timestap": "17.01.2026, 05:22:54"
+  }
+]
