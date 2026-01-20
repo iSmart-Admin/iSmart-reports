@@ -1,0 +1,167 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Кабинет родителя" [active] [ref=e21] [cursor=pointer]:
+        - /url: /parent/dashboard
+        - generic [ref=e24] [cursor=pointer]: Кабинет родителя
+      - link "Рейтинг" [ref=e27] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e30] [cursor=pointer]: Рейтинг
+      - link "Магазин" [ref=e33] [cursor=pointer]:
+        - /url: /shop/offers
+        - generic [ref=e36] [cursor=pointer]: Магазин
+      - link "Помощник" [ref=e39] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e42] [cursor=pointer]: Помощник
+    - generic [ref=e44]:
+      - generic [ref=e45]:
+        - button [ref=e46] [cursor=pointer]:
+          - img [ref=e48] [cursor=pointer]
+        - img [ref=e53] [cursor=pointer]
+      - generic [ref=e55] [cursor=pointer]:
+        - generic [ref=e58] [cursor=pointer]: В
+        - generic [ref=e59] [cursor=pointer]:
+          - paragraph [ref=e60] [cursor=pointer]: Родитель
+          - paragraph [ref=e61] [cursor=pointer]: Вера
+        - img [ref=e63] [cursor=pointer]
+  - generic [ref=e68]:
+    - generic [ref=e69]:
+      - generic [ref=e70]:
+        - button "Мои дети" [ref=e71] [cursor=pointer]
+        - button "Профиль родителя" [ref=e72] [cursor=pointer]
+        - button "Кошелек" [ref=e73] [cursor=pointer]
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - generic [ref=e76]:
+            - generic [ref=e77]:
+              - img [ref=e78]
+              - generic [ref=e83]: 83%
+            - paragraph [ref=e84]: Ваш профиль еще не заполнен полностью.
+          - button [ref=e85] [cursor=pointer]:
+            - img [ref=e87] [cursor=pointer]
+          - paragraph [ref=e89]: Завершите процесс настройки, чтобы воспользоваться всеми возможностями, которые предлагает платформа.
+          - button "Завершить" [ref=e90] [cursor=pointer]
+        - generic [ref=e91]:
+          - button "Полезная информация" [ref=e92] [cursor=pointer]
+          - button "Поддержка" [ref=e93] [cursor=pointer]
+    - generic [ref=e94]:
+      - generic [ref=e96]:
+        - generic [ref=e97] [cursor=pointer]:
+          - img [ref=e100] [cursor=pointer]
+          - generic [ref=e103] [cursor=pointer]: В
+          - generic [ref=e104] [cursor=pointer]:
+            - generic [ref=e105] [cursor=pointer]: Валера
+            - generic [ref=e106] [cursor=pointer]: Ученик
+        - generic [ref=e107]:
+          - button "Войти в кабинет ученика" [ref=e108] [cursor=pointer]
+          - button "Все дети" [ref=e109] [cursor=pointer]
+      - generic [ref=e110]:
+        - generic [ref=e113]:
+          - link "Обучение" [ref=e115]:
+            - /url: /parent/dashboard/childrens/learning
+            - generic [ref=e118]: Обучение
+          - link "Расписание" [ref=e120] [cursor=pointer]:
+            - /url: /parent/dashboard/childrens/schedules
+            - generic [ref=e123] [cursor=pointer]: Расписание
+          - link "Награды" [ref=e125] [cursor=pointer]:
+            - /url: /parent/dashboard/childrens/rewards
+            - generic [ref=e128] [cursor=pointer]: Награды
+          - link "Доступность для ребенка" [ref=e130] [cursor=pointer]:
+            - /url: /parent/dashboard/childrens/availability
+            - generic [ref=e132] [cursor=pointer]:
+              - img [ref=e135] [cursor=pointer]
+              - generic [ref=e137] [cursor=pointer]: Доступность для ребенка
+        - generic [ref=e138]:
+          - generic [ref=e139]:
+            - generic [ref=e141]:
+              - generic [ref=e142]:
+                - generic [ref=e144]: Автоматическое обучение
+                - generic [ref=e145]: Не выбрана программа обучения
+                - button "Настройки" [ref=e146] [cursor=pointer]
+                - checkbox [ref=e148] [cursor=pointer]:
+                  - img [ref=e153] [cursor=pointer]
+              - generic [ref=e155]:
+                - generic [ref=e157]: Ваш AI помощник
+                - generic [ref=e159]: Готов помогать
+                - button "Спросить" [ref=e160] [cursor=pointer]
+            - generic [ref=e162]:
+              - generic [ref=e163]:
+                - img [ref=e166]
+                - paragraph [ref=e168]: Вы можете улучшить успеваемость вашего ребёнка, включив автоматическое обучение.
+              - button "Настроить бесплатно" [ref=e169] [cursor=pointer]
+          - generic [ref=e170]:
+            - generic [ref=e171]:
+              - generic [ref=e173]: Школа
+              - button "Добавить класс" [ref=e175] [cursor=pointer]
+            - table [ref=e178]:
+              - rowgroup [ref=e179]:
+                - row "Класс Учитель Школа" [ref=e180]:
+                  - cell "Класс" [ref=e181]:
+                    - generic [ref=e182]: Класс
+                  - cell "Учитель" [ref=e183]:
+                    - generic [ref=e184]: Учитель
+                  - cell "Школа" [ref=e185]:
+                    - generic [ref=e186]: Школа
+              - rowgroup [ref=e187]:
+                - row "1 «Р» Мария Ивановна Рассказова -" [ref=e188]:
+                  - cell "1 «Р»" [ref=e189]:
+                    - generic [ref=e190]: 1 «Р»
+                  - cell "Мария Ивановна Рассказова" [ref=e191]:
+                    - generic [ref=e193]: Мария Ивановна Рассказова
+                  - cell "-" [ref=e194]:
+                    - generic [ref=e195]: "-"
+                - row "3 «И» Мария Ивановна Рассказова -" [ref=e196]:
+                  - cell "3 «И»" [ref=e197]:
+                    - generic [ref=e198]: 3 «И»
+                  - cell "Мария Ивановна Рассказова" [ref=e199]:
+                    - generic [ref=e201]: Мария Ивановна Рассказова
+                  - cell "-" [ref=e202]:
+                    - generic [ref=e203]: "-"
+          - generic [ref=e204]:
+            - generic [ref=e205]:
+              - generic [ref=e207]: Статистика успеваемости
+              - generic [ref=e210]:
+                - img [ref=e213]
+                - generic [ref=e216]:
+                  - textbox "Период" [disabled]: за неделю
+                - img [ref=e219] [cursor=pointer]
+            - generic [ref=e221]:
+              - generic [ref=e222]:
+                - generic [ref=e223]:
+                  - generic [ref=e225]: Заданий решено
+                  - generic [ref=e228]: "52"
+                - generic [ref=e229]:
+                  - img [ref=e230]
+                  - generic [ref=e232]: 15 мин.
+              - generic [ref=e233]:
+                - generic [ref=e235]:
+                  - generic [ref=e237]: Предметы
+                  - generic [ref=e238]: Решено верно
+                  - generic [ref=e239]: Ошибок
+                - generic [ref=e241]:
+                  - generic [ref=e242] [cursor=pointer]:
+                    - generic [ref=e245] [cursor=pointer]: Русский язык
+                    - generic [ref=e246] [cursor=pointer]:
+                      - generic [ref=e247] [cursor=pointer]: "50"
+                      - generic [ref=e248] [cursor=pointer]: баллов
+                    - generic [ref=e249] [cursor=pointer]: "30"
+                    - generic [ref=e250] [cursor=pointer]: "17"
+                  - generic [ref=e251] [cursor=pointer]:
+                    - generic [ref=e254] [cursor=pointer]: Математика
+                    - generic [ref=e255] [cursor=pointer]:
+                      - generic [ref=e256] [cursor=pointer]: "40"
+                      - generic [ref=e257] [cursor=pointer]: баллов
+                    - generic [ref=e258] [cursor=pointer]: "5"
+                    - generic [ref=e259] [cursor=pointer]: "0"
+          - generic [ref=e260]:
+            - generic [ref=e261]:
+              - generic [ref=e263]: Рекомендации
+              - img "ai" [ref=e265]
+            - paragraph [ref=e266]: Наша учебная платформа тщательно анализирует работу и ответы вашего ребенка, чтобы вскоре предложить индивидуальные рекомендации. Ожидайте персонализированные предложения в ближайшее время.
+```

@@ -1,0 +1,231 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Кабинет родителя" [ref=e21] [cursor=pointer]:
+        - /url: /parent/dashboard
+        - generic [ref=e24] [cursor=pointer]: Кабинет родителя
+      - link "Рейтинг" [ref=e27] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e30] [cursor=pointer]: Рейтинг
+      - link "Магазин" [ref=e33] [cursor=pointer]:
+        - /url: /shop/offers
+        - generic [ref=e36] [cursor=pointer]: Магазин
+      - link "Помощник" [ref=e39] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e42] [cursor=pointer]: Помощник
+    - generic [ref=e44]:
+      - generic [ref=e45]:
+        - button [ref=e46] [cursor=pointer]:
+          - img [ref=e48] [cursor=pointer]
+        - img [ref=e53] [cursor=pointer]
+      - generic [ref=e55] [cursor=pointer]:
+        - generic [ref=e58] [cursor=pointer]: В
+        - generic [ref=e59] [cursor=pointer]:
+          - paragraph [ref=e60] [cursor=pointer]: Родитель
+          - paragraph [ref=e61] [cursor=pointer]: Вера
+        - img [ref=e63] [cursor=pointer]
+  - generic [ref=e67]:
+    - generic [ref=e68]:
+      - generic [ref=e69]:
+        - button [ref=e70] [cursor=pointer]:
+          - img [ref=e72] [cursor=pointer]
+        - generic [ref=e75]:
+          - generic [ref=e76]: Русский язык
+          - generic [ref=e78]: Школьная программа
+      - generic [ref=e80]:
+        - button "Методические рекомендации" [ref=e81] [cursor=pointer]
+        - generic [ref=e83] [cursor=pointer]:
+          - img [ref=e85] [cursor=pointer]
+          - generic [ref=e87] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e91]:
+      - generic [ref=e92]:
+        - heading "Купить со скидкой" [level=1] [ref=e93]
+        - heading "-70%" [level=1] [ref=e94]
+      - button "В магазин" [ref=e96] [cursor=pointer]
+    - generic [ref=e97]:
+      - generic [ref=e101]:
+        - button "1" [ref=e102] [cursor=pointer]
+        - button "2" [ref=e103] [cursor=pointer]
+        - button "3" [ref=e104] [cursor=pointer]
+        - button "4" [active] [ref=e105]
+        - button "5" [ref=e106] [cursor=pointer]
+        - button "6" [ref=e107] [cursor=pointer]
+        - button "7" [ref=e108] [cursor=pointer]
+        - button "8" [ref=e109] [cursor=pointer]
+        - button "9" [ref=e110] [cursor=pointer]
+        - button "10" [ref=e111] [cursor=pointer]
+        - button "11" [ref=e112] [cursor=pointer]
+      - generic [ref=e115]:
+        - generic [ref=e116]:
+          - generic [ref=e117] [cursor=pointer]:
+            - generic [ref=e119] [cursor=pointer]: Темы
+            - button [ref=e121] [cursor=pointer]:
+              - img [ref=e123] [cursor=pointer]
+          - generic [ref=e126] [cursor=pointer]:
+            - generic [ref=e129] [cursor=pointer]: Что мы знаем о звуках и буквах?
+            - img [ref=e131] [cursor=pointer]
+          - generic [ref=e133] [cursor=pointer]:
+            - generic [ref=e136] [cursor=pointer]: Что мы знаем о словах?
+            - img [ref=e138] [cursor=pointer]
+          - generic [ref=e140] [cursor=pointer]:
+            - generic [ref=e143] [cursor=pointer]: Что мы знаем о составе слова?
+            - img [ref=e145] [cursor=pointer]
+          - generic [ref=e147] [cursor=pointer]:
+            - generic [ref=e150] [cursor=pointer]: Что мы знаем об имени существительном?
+            - img [ref=e152] [cursor=pointer]
+          - generic [ref=e154] [cursor=pointer]:
+            - generic [ref=e157] [cursor=pointer]: Что мы знаем об имени прилагательном?
+            - img [ref=e159] [cursor=pointer]
+          - generic [ref=e161] [cursor=pointer]:
+            - generic [ref=e164] [cursor=pointer]: Что мы знаем о местоимении?
+            - img [ref=e166] [cursor=pointer]
+          - generic [ref=e168] [cursor=pointer]:
+            - generic [ref=e171] [cursor=pointer]: Что мы знаем о глаголе?
+            - img [ref=e173] [cursor=pointer]
+          - generic [ref=e175] [cursor=pointer]:
+            - generic [ref=e178] [cursor=pointer]: Что мы знаем о наречии?
+            - img [ref=e180] [cursor=pointer]
+          - generic [ref=e182] [cursor=pointer]:
+            - generic [ref=e185] [cursor=pointer]: Что мы знаем об имени числительном?
+            - img [ref=e187] [cursor=pointer]
+          - generic [ref=e189] [cursor=pointer]:
+            - generic [ref=e192] [cursor=pointer]: Что мы знаем о предлогах и союзах?
+            - img [ref=e194] [cursor=pointer]
+          - generic [ref=e196] [cursor=pointer]:
+            - generic [ref=e199] [cursor=pointer]: Что мы знаем о предложении и словосочетании?
+            - img [ref=e201] [cursor=pointer]
+          - generic [ref=e203] [cursor=pointer]:
+            - generic [ref=e206] [cursor=pointer]: Что мы знаем о правописании слов и предложений?
+            - img [ref=e208] [cursor=pointer]
+          - generic [ref=e210] [cursor=pointer]:
+            - generic [ref=e213] [cursor=pointer]: Какой бывает наша речь?
+            - img [ref=e215] [cursor=pointer]
+          - generic [ref=e217] [cursor=pointer]:
+            - generic [ref=e220] [cursor=pointer]: Словарные слова
+            - img [ref=e222] [cursor=pointer]
+          - generic [ref=e224] [cursor=pointer]:
+            - generic [ref=e227] [cursor=pointer]: Словарные слова (повышенный уровень)
+            - img [ref=e229] [cursor=pointer]
+          - generic [ref=e231] [cursor=pointer]:
+            - generic [ref=e234] [cursor=pointer]: Подготовка к контрольной 1 четверть
+            - img [ref=e236] [cursor=pointer]
+          - generic [ref=e238] [cursor=pointer]:
+            - generic [ref=e241] [cursor=pointer]: Подготовка к контрольной 2 четверть
+            - img [ref=e243] [cursor=pointer]
+          - generic [ref=e245] [cursor=pointer]:
+            - generic [ref=e248] [cursor=pointer]: Подготовка к контрольной 3 четверть
+            - img [ref=e250] [cursor=pointer]
+          - generic [ref=e252] [cursor=pointer]:
+            - generic [ref=e255] [cursor=pointer]: Подготовка к контрольной 4 четверть
+            - img [ref=e257] [cursor=pointer]
+          - generic [ref=e259] [cursor=pointer]:
+            - generic [ref=e262] [cursor=pointer]: Подготовка к контрольной I полугодие
+            - img [ref=e264] [cursor=pointer]
+          - generic [ref=e266] [cursor=pointer]:
+            - generic [ref=e269] [cursor=pointer]: Подготовка к контрольной II полугодие
+            - img [ref=e271] [cursor=pointer]
+          - generic [ref=e273] [cursor=pointer]:
+            - generic [ref=e276] [cursor=pointer]: Подготовка к Итоговой контрольной работе
+            - img [ref=e278] [cursor=pointer]
+          - generic [ref=e280] [cursor=pointer]:
+            - generic [ref=e283] [cursor=pointer]: Подготовка к ВПР
+            - img [ref=e285] [cursor=pointer]
+          - generic [ref=e287] [cursor=pointer]:
+            - generic [ref=e290] [cursor=pointer]: Части речи (сложные темы)
+            - img [ref=e292] [cursor=pointer]
+          - generic [ref=e294] [cursor=pointer]:
+            - generic [ref=e297] [cursor=pointer]: Предложение (сложные темы)
+            - img [ref=e299] [cursor=pointer]
+          - generic [ref=e301] [cursor=pointer]:
+            - generic [ref=e304] [cursor=pointer]: Слово в речи и языке (сложные темы)
+            - img [ref=e306] [cursor=pointer]
+          - generic [ref=e308] [cursor=pointer]:
+            - generic [ref=e311] [cursor=pointer]: Орфография (сложные темы)
+            - img [ref=e313] [cursor=pointer]
+          - generic [ref=e315] [cursor=pointer]:
+            - generic [ref=e318] [cursor=pointer]: Проверочные работы (1 полугодие)
+            - img [ref=e320] [cursor=pointer]
+        - generic [ref=e326]:
+          - generic [ref=e329] [cursor=pointer]:
+            - generic [ref=e330] [cursor=pointer]:
+              - generic [ref=e332] [cursor=pointer]: "1."
+              - paragraph [ref=e334] [cursor=pointer]: Как звуки обозначаются буквами?
+            - button [ref=e337] [cursor=pointer]:
+              - img [ref=e339] [cursor=pointer]
+          - generic [ref=e343] [cursor=pointer]:
+            - generic [ref=e344] [cursor=pointer]:
+              - generic [ref=e346] [cursor=pointer]: "2."
+              - paragraph [ref=e348] [cursor=pointer]: Какие буквы обозначают гласные звуки?
+            - button [ref=e351] [cursor=pointer]:
+              - img [ref=e353] [cursor=pointer]
+          - generic [ref=e357] [cursor=pointer]:
+            - generic [ref=e358] [cursor=pointer]:
+              - generic [ref=e360] [cursor=pointer]: "3."
+              - paragraph [ref=e362] [cursor=pointer]: Какие буквы обозначают согласные звуки?
+            - button [ref=e365] [cursor=pointer]:
+              - img [ref=e367] [cursor=pointer]
+          - generic [ref=e371] [cursor=pointer]:
+            - generic [ref=e372] [cursor=pointer]:
+              - generic [ref=e374] [cursor=pointer]: "4."
+              - paragraph [ref=e376] [cursor=pointer]: Какие согласные звуки образуют пары по твёрдости-мягкости?
+            - button [ref=e379] [cursor=pointer]:
+              - img [ref=e381] [cursor=pointer]
+          - generic [ref=e385] [cursor=pointer]:
+            - generic [ref=e386] [cursor=pointer]:
+              - generic [ref=e388] [cursor=pointer]: "5."
+              - paragraph [ref=e390] [cursor=pointer]: Какие согласные звуки образуют пары по глухости-звонкости?
+            - button [ref=e393] [cursor=pointer]:
+              - img [ref=e395] [cursor=pointer]
+          - generic [ref=e399] [cursor=pointer]:
+            - generic [ref=e400] [cursor=pointer]:
+              - generic [ref=e402] [cursor=pointer]: "6."
+              - paragraph [ref=e404] [cursor=pointer]: Какие звонкие согласные звуки не образуют пары?
+            - button [ref=e407] [cursor=pointer]:
+              - img [ref=e409] [cursor=pointer]
+          - generic [ref=e413] [cursor=pointer]:
+            - generic [ref=e414] [cursor=pointer]:
+              - generic [ref=e416] [cursor=pointer]: "7."
+              - paragraph [ref=e418] [cursor=pointer]: Какие глухие согласные звуки не образуют пары?
+            - button [ref=e421] [cursor=pointer]:
+              - img [ref=e423] [cursor=pointer]
+          - generic [ref=e427] [cursor=pointer]:
+            - generic [ref=e428] [cursor=pointer]:
+              - generic [ref=e430] [cursor=pointer]: "8."
+              - paragraph [ref=e432] [cursor=pointer]: Как определить количество звуков и букв в слове?
+            - button [ref=e435] [cursor=pointer]:
+              - img [ref=e437] [cursor=pointer]
+          - generic [ref=e441] [cursor=pointer]:
+            - generic [ref=e442] [cursor=pointer]:
+              - generic [ref=e444] [cursor=pointer]: 9.*
+              - paragraph [ref=e446] [cursor=pointer]: Всегда ли в слове количество звуков и букв совпадает?
+            - button [ref=e449] [cursor=pointer]:
+              - img [ref=e451] [cursor=pointer]
+          - generic [ref=e455] [cursor=pointer]:
+            - generic [ref=e456] [cursor=pointer]:
+              - generic [ref=e458] [cursor=pointer]: "10."
+              - paragraph [ref=e460] [cursor=pointer]: Что мы знаем о звуках? (ч. 1)
+            - button [ref=e463] [cursor=pointer]:
+              - img [ref=e465] [cursor=pointer]
+          - generic [ref=e469] [cursor=pointer]:
+            - generic [ref=e470] [cursor=pointer]:
+              - generic [ref=e472] [cursor=pointer]: "11."
+              - paragraph [ref=e474] [cursor=pointer]: Что мы знаем о звуках? (ч. 2)
+            - button [ref=e477] [cursor=pointer]:
+              - img [ref=e479] [cursor=pointer]
+          - generic [ref=e483] [cursor=pointer]:
+            - generic [ref=e484] [cursor=pointer]:
+              - generic [ref=e486] [cursor=pointer]: "12."
+              - paragraph [ref=e488] [cursor=pointer]: Как правильно произносить слова?
+            - button [ref=e491] [cursor=pointer]:
+              - img [ref=e493] [cursor=pointer]
+  - button "Показать футер" [ref=e496] [cursor=pointer]:
+    - generic [ref=e497] [cursor=pointer]:
+      - img [ref=e500] [cursor=pointer]
+      - generic [ref=e502] [cursor=pointer]: Показать футер
+```
