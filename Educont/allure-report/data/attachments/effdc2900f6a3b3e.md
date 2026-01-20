@@ -1,0 +1,84 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - generic [ref=e18]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - button "1" [ref=e28] [cursor=pointer]
+            - button "2" [ref=e31] [cursor=pointer]
+            - button "3" [ref=e34] [cursor=pointer]
+            - button "4" [ref=e37] [cursor=pointer]
+            - button "5" [ref=e40] [cursor=pointer]
+            - button "6" [ref=e43] [cursor=pointer]
+            - button "7" [ref=e46] [cursor=pointer]
+            - button "8" [ref=e49] [cursor=pointer]
+            - button "9" [ref=e52] [cursor=pointer]
+            - button "10" [ref=e55] [cursor=pointer]
+          - generic [ref=e56]:
+            - button [disabled] [ref=e57]:
+              - img [ref=e59]
+            - button [ref=e62] [cursor=pointer]:
+              - img [ref=e64] [cursor=pointer]
+      - generic [ref=e67]:
+        - generic [ref=e69]:
+          - img [ref=e73]
+          - heading "Впиши пропущенные буквы в суффиксы глаголов." [level=4] [ref=e75]:
+            - generic [ref=e77]: Впиши пропущенные буквы в суффиксы глаголов.
+        - img "decore" [ref=e82]
+        - heading "учу ть, выгляд ть, отрез ть, высажив ть, выпровод ть, ответ ть, вылет ть, леле ть" [level=3] [ref=e87]:
+          - text: учу
+          - textbox [ref=e88]
+          - text: ть, выгляд
+          - textbox [ref=e89]
+          - text: ть, отрез
+          - textbox [ref=e90]
+          - text: ть, высажив
+          - textbox [ref=e91]
+          - text: ть, выпровод
+          - textbox [ref=e92]
+          - text: ть, ответ
+          - textbox [ref=e93]
+          - text: ть, вылет
+          - textbox [ref=e94]
+          - text: ть, леле
+          - textbox [ref=e95]
+          - text: ть
+    - button "2 Показать подсказку" [ref=e104] [cursor=pointer]:
+      - generic [ref=e107] [cursor=pointer]: "2"
+      - generic [ref=e108] [cursor=pointer]: Показать подсказку
+  - generic [ref=e109]:
+    - generic [ref=e112]: Интеллектуальный тренажер
+    - button "Управление учениками" [ref=e118] [cursor=pointer]:
+      - img [ref=e121] [cursor=pointer]
+      - text: Управление учениками
+    - generic [ref=e123]:
+      - generic [ref=e125]:
+        - button "Черновик" [ref=e126] [cursor=pointer]:
+          - img [ref=e129] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e132] [cursor=pointer]:
+          - img [ref=e135] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - generic [ref=e137]:
+          - button "Часто задаваемые вопросы" [ref=e139] [cursor=pointer]:
+            - img [ref=e142] [cursor=pointer]
+            - text: Часто задаваемые вопросы
+          - generic [ref=e144]:
+            - button "Информация об уроке" [ref=e146] [cursor=pointer]:
+              - img [ref=e149] [cursor=pointer]
+              - text: Информация об уроке
+            - generic [ref=e151]: Вы привязаны к школе Тест educont 2
+      - generic [ref=e152]:
+        - generic [ref=e153]:
+          - img [ref=e155]
+          - generic [ref=e157]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e158] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e161] [cursor=pointer]
+```
