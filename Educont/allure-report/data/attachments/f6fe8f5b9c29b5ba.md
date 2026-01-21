@@ -1,0 +1,50 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выбери верный вариант ответа в выпадающем списке." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выбери верный вариант ответа в выпадающем списке.
+        - img "decore" [ref=e40]
+        - generic [ref=e45]:
+          - text: В 1571 г. турки потерпели серьёзное поражение от объединённого флота европейских держав в битве при
+          - text: .
+    - button "2 Показать подсказку" [ref=e55] [cursor=pointer]:
+      - generic [ref=e58] [cursor=pointer]: "2"
+      - generic [ref=e59] [cursor=pointer]: Показать подсказку
+  - generic [ref=e60]:
+    - generic [ref=e63]: Интеллектуальный тренажер
+    - generic [ref=e67]:
+      - generic [ref=e73]: 2 из 15
+      - generic [ref=e75]:
+        - generic [ref=e76]: Для выполнения версии урока от учителя введите полученный код
+        - button "Ввести код от учителя" [ref=e78] [cursor=pointer]: Ввести код от учителя
+    - generic [ref=e81]:
+      - generic [ref=e83]:
+        - button "Пройти опрос" [ref=e84] [cursor=pointer]:
+          - generic [ref=e86] [cursor=pointer]: Пройти опрос
+        - button "Черновик" [ref=e87] [cursor=pointer]:
+          - img [ref=e90] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e93] [cursor=pointer]:
+          - img [ref=e96] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - button "Информация об уроке" [ref=e100] [cursor=pointer]:
+          - img [ref=e103] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e105]:
+        - generic [ref=e106]:
+          - img [ref=e108]
+          - generic [ref=e110]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [active] [ref=e111] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e114] [cursor=pointer]
+        - generic [ref=e117]: 69704f44a99b980007d3689a
+```
