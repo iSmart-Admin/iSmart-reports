@@ -1,0 +1,54 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e16]:
+      - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+        - img [ref=e22] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - img [ref=e31]
+          - heading "Выбери верный вариант ответа." [level=4] [ref=e33]:
+            - generic [ref=e35]: Выбери верный вариант ответа.
+        - generic [ref=e37]:
+          - img "decore" [ref=e40]
+          - generic [ref=e46]: Какой польский король и Великий князь Литовский начал войну с Россией в 1534 году?
+        - generic [ref=e50]:
+          - generic [ref=e54] [cursor=pointer]: Ольгерд
+          - generic [ref=e58] [cursor=pointer]: Владислав II
+          - generic [ref=e62] [cursor=pointer]: Сигизмунд I
+          - generic [ref=e66] [cursor=pointer]: Казимир II
+    - button "2 Показать подсказку" [ref=e74] [cursor=pointer]:
+      - generic [ref=e77] [cursor=pointer]: "2"
+      - generic [ref=e78] [cursor=pointer]: Показать подсказку
+  - generic [ref=e79]:
+    - generic [ref=e82]: Интеллектуальный тренажер
+    - generic [ref=e86]:
+      - generic [ref=e92]: 2 из 15
+      - generic [ref=e94]:
+        - generic [ref=e95]: Для выполнения версии урока от учителя введите полученный код
+        - button "Ввести код от учителя" [ref=e97] [cursor=pointer]: Ввести код от учителя
+    - generic [ref=e100]:
+      - generic [ref=e102]:
+        - button "Пройти опрос" [ref=e103] [cursor=pointer]:
+          - generic [ref=e105] [cursor=pointer]: Пройти опрос
+        - button "Черновик" [ref=e106] [cursor=pointer]:
+          - img [ref=e109] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e112] [cursor=pointer]:
+          - img [ref=e115] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - button "Информация об уроке" [ref=e119] [cursor=pointer]:
+          - img [ref=e122] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e124]:
+        - generic [ref=e125]:
+          - img [ref=e127]
+          - generic [ref=e129]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [active] [ref=e130] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e133] [cursor=pointer]
+        - generic [ref=e136]: 6971a880a99b980007293af7
+```
