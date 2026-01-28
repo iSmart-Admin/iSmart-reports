@@ -1,0 +1,63 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - region "Задача для решения" [ref=e15] [cursor=pointer]:
+      - generic [ref=e16] [cursor=pointer]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e25]:
+          - generic [ref=e27]:
+            - img [ref=e31]
+            - heading "Выберите верный вариант ответа." [level=4] [ref=e33]:
+              - generic [ref=e35]: Выберите верный вариант ответа.
+          - generic [ref=e37]:
+            - img "decore" [ref=e40]
+            - generic [ref=e42]:
+              - generic [ref=e45]:
+                - generic [ref=e46]: Прочитайте рассказ Михаила Зощенко «Спешное дело» и определите, в какие годы мог родиться сюжет данного произведения.
+                - generic [ref=e47]: Чтобы выполнить задание — откройте PDF-файл.
+              - generic [ref=e50] [cursor=pointer]:
+                - img [ref=e52] [cursor=pointer]
+                - paragraph [ref=e54] [cursor=pointer]: Файл pdf
+          - generic [ref=e57]:
+            - button "10-е годы XX в." [ref=e59] [cursor=pointer]:
+              - generic [ref=e61] [cursor=pointer]: 10-е годы XX в.
+            - button "20-е годы XX в." [ref=e63] [cursor=pointer]:
+              - generic [ref=e65] [cursor=pointer]: 20-е годы XX в.
+            - button "30-е годы XX в." [active] [ref=e67] [cursor=pointer]:
+              - generic [ref=e69] [cursor=pointer]: 30-е годы XX в.
+    - button "2 Показать подсказку" [ref=e77] [cursor=pointer]:
+      - generic [ref=e80] [cursor=pointer]: "2"
+      - generic [ref=e81] [cursor=pointer]: Показать подсказку
+  - generic [ref=e85]:
+    - generic [ref=e88]: Интеллектуальный тренажер
+    - generic [ref=e92]:
+      - generic [ref=e97]: 1 из 4
+      - generic [ref=e99]:
+        - generic [ref=e100]: Для выполнения версии урока от учителя введите полученный код
+        - button "Ввести код от учителя" [ref=e102] [cursor=pointer]: Ввести код от учителя
+    - generic [ref=e105]:
+      - generic [ref=e107]:
+        - button "Пройти опрос" [ref=e108] [cursor=pointer]:
+          - generic [ref=e110] [cursor=pointer]: Пройти опрос
+        - button "Черновик" [ref=e111] [cursor=pointer]:
+          - img [ref=e114] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e117] [cursor=pointer]:
+          - img [ref=e120] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - button "Информация об уроке" [ref=e124] [cursor=pointer]:
+          - img [ref=e127] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e129]:
+        - generic [ref=e130]:
+          - img [ref=e132]
+          - generic [ref=e134]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e135] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e138] [cursor=pointer]
+        - generic [ref=e141]: 69797b552869c9000741b99f
+```

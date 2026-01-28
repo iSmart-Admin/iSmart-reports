@@ -1,0 +1,64 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - region "Задача для решения" [ref=e15] [cursor=pointer]:
+      - generic [ref=e16] [cursor=pointer]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e25]:
+          - generic [ref=e27]:
+            - img [ref=e31]
+            - heading "Выберите верный вариант ответа." [level=4] [ref=e33]:
+              - generic [ref=e35]: Выберите верный вариант ответа.
+          - generic [ref=e37]:
+            - img "decore" [ref=e40]
+            - generic [ref=e46]:
+              - text: Верны ли следующие суждения о методах познания в химии?
+              - strong [ref=e47]: А
+              - text: . Индикаторы — вещества, используемые в качественном анализе.
+              - strong [ref=e48]: Б
+              - text: . Изучить химическое строение углеводородов можно методом моделирования.
+          - generic [ref=e51]:
+            - button "Верны оба суждения" [ref=e53] [cursor=pointer]:
+              - generic [ref=e55] [cursor=pointer]: Верны оба суждения
+            - button "Оба суждения неверны" [ref=e57] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]: Оба суждения неверны
+            - button "Верно только А" [active] [ref=e61] [cursor=pointer]:
+              - generic [ref=e63] [cursor=pointer]: Верно только А
+            - button "Верно только Б" [ref=e65] [cursor=pointer]:
+              - generic [ref=e67] [cursor=pointer]: Верно только Б
+    - button "2 Показать подсказку" [ref=e75] [cursor=pointer]:
+      - generic [ref=e78] [cursor=pointer]: "2"
+      - generic [ref=e79] [cursor=pointer]: Показать подсказку
+  - generic [ref=e83]:
+    - generic [ref=e86]: Интеллектуальный тренажер
+    - generic [ref=e90]:
+      - generic [ref=e95]: 1 из 11
+      - generic [ref=e97]:
+        - generic [ref=e98]: Для выполнения версии урока от учителя введите полученный код
+        - button "Ввести код от учителя" [ref=e100] [cursor=pointer]: Ввести код от учителя
+    - generic [ref=e103]:
+      - generic [ref=e105]:
+        - button "Пройти опрос" [ref=e106] [cursor=pointer]:
+          - generic [ref=e108] [cursor=pointer]: Пройти опрос
+        - button "Черновик" [ref=e109] [cursor=pointer]:
+          - img [ref=e112] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e115] [cursor=pointer]:
+          - img [ref=e118] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - button "Информация об уроке" [ref=e122] [cursor=pointer]:
+          - img [ref=e125] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e127]:
+        - generic [ref=e128]:
+          - img [ref=e130]
+          - generic [ref=e132]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [ref=e133] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e136] [cursor=pointer]
+        - generic [ref=e139]: 697991a3f9452e0007eb7d90
+```

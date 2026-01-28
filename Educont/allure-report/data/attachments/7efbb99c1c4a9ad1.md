@@ -1,0 +1,80 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - region "Задача для решения" [active] [ref=e15] [cursor=pointer]:
+      - generic [ref=e16] [cursor=pointer]:
+        - generic [ref=e18]:
+          - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+            - img [ref=e22] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e24]:
+            - generic [ref=e25]:
+              - button "1" [ref=e28] [cursor=pointer]
+              - button "2" [ref=e31] [cursor=pointer]
+              - button "3" [ref=e34] [cursor=pointer]
+              - button "4" [ref=e37] [cursor=pointer]
+              - button "5" [ref=e40] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e46] [cursor=pointer]
+              - button "8" [ref=e49] [cursor=pointer]
+              - button "9" [ref=e52] [cursor=pointer]
+              - button "10" [ref=e55] [cursor=pointer]
+            - generic [ref=e56]:
+              - button [disabled] [ref=e57]:
+                - img [ref=e59]
+              - button [ref=e62] [cursor=pointer]:
+                - img [ref=e64] [cursor=pointer]
+        - generic [ref=e67]:
+          - generic [ref=e69]:
+            - img [ref=e73]
+            - heading "Установите соответствие между элементами." [level=4] [ref=e75]:
+              - generic [ref=e77]: Установите соответствие между элементами.
+          - generic [ref=e79]:
+            - img "decore" [ref=e82]
+            - generic [ref=e88]: Сопоставьте белки и их функции.
+          - generic [ref=e91]:
+            - img [ref=e92]
+            - generic [ref=e93]:
+              - generic [ref=e99] [cursor=pointer]: Транспортная функция
+              - generic [ref=e106] [cursor=pointer]: Гемоглобин
+            - generic [ref=e107]:
+              - generic [ref=e113] [cursor=pointer]: Регуляторная функция
+              - generic [ref=e120] [cursor=pointer]: Инсулин
+            - generic [ref=e121]:
+              - generic [ref=e127] [cursor=pointer]: Защитная функция
+              - generic [ref=e134] [cursor=pointer]: Интерферон
+    - button "2 Показать подсказку" [ref=e142] [cursor=pointer]:
+      - generic [ref=e145] [cursor=pointer]: "2"
+      - generic [ref=e146] [cursor=pointer]: Показать подсказку
+  - generic [ref=e150]:
+    - generic [ref=e153]: Интеллектуальный тренажер
+    - button "Управление учениками" [ref=e159] [cursor=pointer]:
+      - img [ref=e162] [cursor=pointer]
+      - text: Управление учениками
+    - generic [ref=e164]:
+      - generic [ref=e166]:
+        - button "Черновик" [ref=e167] [cursor=pointer]:
+          - img [ref=e170] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e173] [cursor=pointer]:
+          - img [ref=e176] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - generic [ref=e178]:
+          - button "Часто задаваемые вопросы" [ref=e180] [cursor=pointer]:
+            - img [ref=e183] [cursor=pointer]
+            - text: Часто задаваемые вопросы
+          - generic [ref=e185]:
+            - button "Информация об уроке" [ref=e187] [cursor=pointer]:
+              - img [ref=e190] [cursor=pointer]
+              - text: Информация об уроке
+            - generic [ref=e192]: Вы привязаны к школе Тест Коммунар_эдуконт
+      - generic [ref=e193]:
+        - generic [ref=e194]:
+          - img [ref=e196]
+          - generic [ref=e198]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e199] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e202] [cursor=pointer]
+```
