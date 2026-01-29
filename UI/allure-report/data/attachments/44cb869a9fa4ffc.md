@@ -1,0 +1,94 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e12]:
+    - generic [ref=e13]:
+      - region "Задача для решения" [ref=e15] [cursor=pointer]:
+        - generic [ref=e16] [cursor=pointer]:
+          - generic [ref=e18]:
+            - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+              - img [ref=e22] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e24]:
+              - generic [ref=e25]:
+                - button "1" [ref=e28] [cursor=pointer]
+                - button "2" [ref=e31] [cursor=pointer]
+                - button "3" [ref=e34] [cursor=pointer]
+                - button "4" [ref=e37] [cursor=pointer]
+                - button "5" [ref=e40] [cursor=pointer]
+                - button "6" [ref=e43] [cursor=pointer]
+                - button "7" [ref=e46] [cursor=pointer]
+                - button "8" [ref=e49] [cursor=pointer]
+                - button "9" [ref=e52] [cursor=pointer]
+                - button "10" [ref=e55] [cursor=pointer]
+              - generic [ref=e56]:
+                - button [disabled] [ref=e57]:
+                  - img [ref=e59]
+                - button [ref=e62] [cursor=pointer]:
+                  - img [ref=e64] [cursor=pointer]
+          - generic [ref=e67]:
+            - generic [ref=e69]:
+              - img [ref=e73]
+              - heading "Выбери верный вариант ответа." [level=4] [ref=e75]:
+                - generic [ref=e77]: Выбери верный вариант ответа.
+            - generic [ref=e79]:
+              - img "decore" [ref=e82]
+              - generic [ref=e88]: Как называвались специальные военные отряды, которые на протяжении XV-XVIII вв. были основой военной мощи Османской империи?
+            - generic [ref=e91]:
+              - generic [ref=e95] [cursor=pointer]: Кирасиры
+              - generic [ref=e99] [cursor=pointer]: Янычары
+              - generic [ref=e103] [cursor=pointer]: Уланы
+              - generic [ref=e107] [cursor=pointer]: Рыцари
+      - button "2 Показать подсказку" [ref=e115] [cursor=pointer]:
+        - generic [ref=e118] [cursor=pointer]: "2"
+        - generic [ref=e119] [cursor=pointer]: Показать подсказку
+    - generic [ref=e123]:
+      - generic [ref=e126]: Интеллектуальный тренажер
+      - generic [ref=e132]:
+        - button "Войти как учитель" [active] [ref=e134] [cursor=pointer]:
+          - img [ref=e137] [cursor=pointer]
+          - text: Войти как учитель
+        - generic [ref=e139]: Для создания собственной версии урока войдите как учитель.
+      - generic [ref=e140]:
+        - generic [ref=e142]:
+          - button "Черновик" [ref=e143] [cursor=pointer]:
+            - img [ref=e146] [cursor=pointer]
+            - text: Черновик
+          - button "Сообщить об ошибке" [ref=e149] [cursor=pointer]:
+            - img [ref=e152] [cursor=pointer]
+            - text: Сообщить об ошибке
+          - generic [ref=e154]:
+            - button "Часто задаваемые вопросы" [ref=e156] [cursor=pointer]:
+              - img [ref=e159] [cursor=pointer]
+              - text: Часто задаваемые вопросы
+            - button "Информация об уроке" [ref=e163] [cursor=pointer]:
+              - img [ref=e166] [cursor=pointer]
+              - text: Информация об уроке
+        - generic [ref=e168]:
+          - generic [ref=e169]:
+            - img [ref=e171]
+            - generic [ref=e173]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e174] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e177] [cursor=pointer]
+  - generic [ref=e187]:
+    - button [ref=e189] [cursor=pointer]:
+      - img [ref=e191] [cursor=pointer]
+    - generic [ref=e194]:
+      - heading "Вход для учителя" [level=4] [ref=e196]
+      - generic [ref=e197]:
+        - generic [ref=e198]:
+          - generic [ref=e199]: Логин
+          - textbox "Email или логин" [ref=e203]
+        - button "Далее" [disabled] [ref=e204]:
+          - generic [ref=e205]: Далее
+        - generic [ref=e206]:
+          - generic [ref=e209]: или
+          - generic [ref=e210]:
+            - button "Зарегистрироваться" [ref=e211] [cursor=pointer]
+            - generic [ref=e212]:
+              - text: "Если у Вас возникли вопросы, вы можете обратиться в службу поддержки iSmart:"
+              - link "support@ismart.org" [ref=e213] [cursor=pointer]:
+                - /url: mailto:support@ismart.org
+```
