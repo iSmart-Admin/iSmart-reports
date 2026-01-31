@@ -1,0 +1,89 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - region "Задача для решения" [ref=e15] [cursor=pointer]:
+      - generic [ref=e16] [cursor=pointer]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e25]:
+          - generic [ref=e27]:
+            - img [ref=e31]
+            - heading "Найди в тексте глаголы в настоящем времени." [level=4] [ref=e33]:
+              - generic [ref=e35]: Найди в тексте глаголы в настоящем времени.
+          - img "decore" [ref=e40]
+          - generic [ref=e44]:
+            - heading "Золотистыми пуховками распустились кустики ивы . Под деревьями зеленеют обросшие брусничником кочки ." [level=4] [ref=e45]:
+              - generic [ref=e47] [cursor=pointer]: Золотистыми
+              - generic [ref=e49] [cursor=pointer]: пуховками
+              - generic [ref=e51] [cursor=pointer]: распустились
+              - generic [ref=e53] [cursor=pointer]: кустики
+              - generic [ref=e55] [cursor=pointer]: ивы
+              - text: .
+              - generic [ref=e57] [cursor=pointer]: Под
+              - generic [ref=e59] [cursor=pointer]: деревьями
+              - generic [ref=e61] [cursor=pointer]: зеленеют
+              - generic [ref=e63] [cursor=pointer]: обросшие
+              - generic [ref=e65] [cursor=pointer]: брусничником
+              - generic [ref=e67] [cursor=pointer]: кочки
+              - text: .
+            - heading "Хорошо пахнет в весеннем лесу !" [level=4] [ref=e68]:
+              - generic [ref=e70] [cursor=pointer]: Хорошо
+              - generic [ref=e72] [cursor=pointer]: пахнет
+              - generic [ref=e74] [cursor=pointer]: в
+              - generic [ref=e76] [cursor=pointer]: весеннем
+              - generic [ref=e78] [cursor=pointer]: лесу
+              - text: "!"
+            - heading "Задремала на солнышке старая лосиха . Чутко слышит она каждый шорох , каждый тревожный звук ." [level=4] [ref=e79]:
+              - generic [ref=e81] [cursor=pointer]: Задремала
+              - generic [ref=e83] [cursor=pointer]: на
+              - generic [ref=e85] [cursor=pointer]: солнышке
+              - generic [ref=e87] [cursor=pointer]: старая
+              - generic [ref=e89] [cursor=pointer]: лосиха
+              - text: .
+              - generic [ref=e91] [cursor=pointer]: Чутко
+              - generic [ref=e93] [cursor=pointer]: слышит
+              - generic [ref=e95] [cursor=pointer]: она
+              - generic [ref=e97] [cursor=pointer]: каждый
+              - generic [ref=e99] [cursor=pointer]: шорох
+              - text: ","
+              - generic [ref=e101] [cursor=pointer]: каждый
+              - generic [ref=e103] [cursor=pointer]: тревожный
+              - generic [ref=e105] [cursor=pointer]: звук
+              - text: .
+            - heading "(И. Соколов-Микитов)" [level=4] [ref=e106]:
+              - emphasis [ref=e107]: (И. Соколов-Микитов)
+    - button "2 Показать подсказку" [ref=e115] [cursor=pointer]:
+      - generic [ref=e118] [cursor=pointer]: "2"
+      - generic [ref=e119] [cursor=pointer]: Показать подсказку
+  - generic [ref=e123]:
+    - generic [ref=e126]: Интеллектуальный тренажер
+    - generic [ref=e130]:
+      - generic [ref=e136]: 2 из 15
+      - generic [ref=e138]:
+        - generic [ref=e139]: Для выполнения версии урока от учителя введите полученный код
+        - button "Ввести код от учителя" [ref=e141] [cursor=pointer]: Ввести код от учителя
+    - generic [ref=e144]:
+      - generic [ref=e146]:
+        - button "Пройти опрос" [ref=e147] [cursor=pointer]:
+          - generic [ref=e149] [cursor=pointer]: Пройти опрос
+        - button "Черновик" [ref=e150] [cursor=pointer]:
+          - img [ref=e153] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e156] [cursor=pointer]:
+          - img [ref=e159] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - button "Информация об уроке" [ref=e163] [cursor=pointer]:
+          - img [ref=e166] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e168]:
+        - generic [ref=e169]:
+          - img [ref=e171]
+          - generic [ref=e173]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [active] [ref=e174] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e177] [cursor=pointer]
+        - generic [ref=e180]: 697d64c8ce7d97000739bdb3
+```

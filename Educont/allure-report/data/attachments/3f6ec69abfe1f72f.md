@@ -1,0 +1,54 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - region "Задача для решения" [ref=e15] [cursor=pointer]:
+      - generic [ref=e16] [cursor=pointer]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e25]:
+          - generic [ref=e27]:
+            - img [ref=e31]
+            - heading "Выбери верный вариант ответа." [level=4] [ref=e33]:
+              - generic [ref=e35]: Выбери верный вариант ответа.
+          - generic [ref=e37]:
+            - img "decore" [ref=e40]
+            - generic [ref=e46]: Как назвать наименьшее расстояние между частицами, совершающими колебание с одинаковой фазой?
+          - generic [ref=e49]:
+            - generic [ref=e53] [cursor=pointer]: Путём, пройденным колеблющейся частицей
+            - generic [ref=e57] [cursor=pointer]: Путём, пройденным волной
+            - generic [ref=e61] [cursor=pointer]: Длиной волны
+    - button "2 Показать подсказку" [ref=e69] [cursor=pointer]:
+      - generic [ref=e72] [cursor=pointer]: "2"
+      - generic [ref=e73] [cursor=pointer]: Показать подсказку
+  - generic [ref=e77]:
+    - generic [ref=e80]: Интеллектуальный тренажер
+    - generic [ref=e84]:
+      - generic [ref=e90]: 2 из 4
+      - generic [ref=e92]:
+        - generic [ref=e93]: Для выполнения версии урока от учителя введите полученный код
+        - button "Ввести код от учителя" [ref=e95] [cursor=pointer]: Ввести код от учителя
+    - generic [ref=e98]:
+      - generic [ref=e100]:
+        - button "Пройти опрос" [ref=e101] [cursor=pointer]:
+          - generic [ref=e103] [cursor=pointer]: Пройти опрос
+        - button "Черновик" [ref=e104] [cursor=pointer]:
+          - img [ref=e107] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e110] [cursor=pointer]:
+          - img [ref=e113] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - button "Информация об уроке" [ref=e117] [cursor=pointer]:
+          - img [ref=e120] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e122]:
+        - generic [ref=e123]:
+          - img [ref=e125]
+          - generic [ref=e127]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [active] [ref=e128] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e131] [cursor=pointer]
+        - generic [ref=e134]: 697d6f76ce7d9700073af468
+```
