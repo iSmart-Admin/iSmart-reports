@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query UserBalance {\n  userBalance\n}\n"
+    },
+    "timestap": "02.02.2026, 14:03:39"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query UserBalance {\n  userBalance\n}\n"
+    },
+    "timestap": "02.02.2026, 14:03:39"
+  },
+  {
+    "url": "https://o271089.ingest.sentry.io/api/4505314407022592/envelope/?sentry_key=4a8e266f70be4d47affea7c6a2dc99d5&sentry_version=7&sentry_client=sentry.javascript.react%2F7.54.0",
+    "status": 429,
+    "payload": "{\"event_id\":\"716c425e78c34924ae688f6845c221bf\",\"sent_at\":\"2026-02-02T11:03:38.963Z\",\"sdk\":{\"name\":\"sentry.javascript.react\",\"version\":\"7.54.0\"}}\n{\"type\":\"event\"}\n{\"message\":\"Action failed\",\"exception\":{\"values\":[{\"value\":\"Action failed\",\"type\":\"Error\",\"mechanism\":{\"type\":\"generic\",\"handled\":true,\"synthetic\":true}}]},\"level\":\"error\",\"event_id\":\"716c425e78c34924ae688f6845c221bf\",\"platform\":\"javascript\",\"timestamp\":1770030218.946,\"environment\":\"ismart-edu\",\"release\":\"7.10.3\",\"sdk\":{\"integrations\":[\"InboundFilters\",\"FunctionToString\",\"TryCatch\",\"Breadcrumbs\",\"GlobalHandlers\",\"LinkedErrors\",\"Dedupe\",\"HttpContext\",\"Replay\"],\"name\":\"sentry.javascript.react\",\"version\":\"7.54.0\",\"packages\":[{\"name\":\"npm:@sentry/react\",\"version\":\"7.54.0\"}]},\"extra\":{\"actionName\":\"userBalance\"},\"tags\":{\"type\":\"action\",\"scope\":\"anywhere\",\"replayId\":\"3dc8d5e7a93e46b089bf4332884045d2\"},\"breadcrumbs\":[{\"timestamp\":1770030218.338,\"category\":\"fetch\",\"data\":{\"method\":\"POST\",\"url\":\"https://privacy-cs.mail.ru/fp/?id=meDOmMH9Y9VnQTukm6DoB\",\"status_code\":200,\"request_body_size\":785},\"type\":\"http\"},{\"timestamp\":1770030218.34,\"category\":\"console\",\"data\":{\"arguments\":[\"socket connected!\"],\"logger\":\"console\"},\"level\":\"log\",\"message\":\"socket connected!\"}],\"request\":{\"url\":\"https://edu.ismart.org/catalog/\",\"headers\":{\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36\"}}}",
+    "timestap": "02.02.2026, 14:03:39"
+  }
+]
