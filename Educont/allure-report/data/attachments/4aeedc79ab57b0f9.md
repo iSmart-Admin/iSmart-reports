@@ -1,0 +1,53 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - region "Задача для решения" [ref=e15] [cursor=pointer]:
+      - generic [ref=e16] [cursor=pointer]:
+        - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+          - img [ref=e22] [cursor=pointer]
+          - text: Вернуться обратно
+        - generic [ref=e25]:
+          - generic [ref=e27]:
+            - img [ref=e31]
+            - heading "Какое словосочетание написано правильно?" [level=4] [ref=e33]:
+              - generic [ref=e35]: Какое словосочетание написано правильно?
+          - img "decore" [ref=e40]
+          - generic [ref=e44]:
+            - button "озеро байкал" [ref=e46] [cursor=pointer]:
+              - generic [ref=e48] [cursor=pointer]: озеро байкал
+            - button "Чёрное море" [ref=e50] [cursor=pointer]:
+              - generic [ref=e52] [cursor=pointer]: Чёрное море
+    - button "2 Показать подсказку" [ref=e60] [cursor=pointer]:
+      - generic [ref=e63] [cursor=pointer]: "2"
+      - generic [ref=e64] [cursor=pointer]: Показать подсказку
+  - generic [ref=e68]:
+    - generic [ref=e71]: Интеллектуальный тренажер
+    - generic [ref=e75]:
+      - generic [ref=e81]: 2 из 5
+      - generic [ref=e83]:
+        - generic [ref=e84]: Для выполнения версии урока от учителя введите полученный код
+        - button "Ввести код от учителя" [ref=e86] [cursor=pointer]: Ввести код от учителя
+    - generic [ref=e89]:
+      - generic [ref=e91]:
+        - button "Пройти опрос" [ref=e92] [cursor=pointer]:
+          - generic [ref=e94] [cursor=pointer]: Пройти опрос
+        - button "Черновик" [ref=e95] [cursor=pointer]:
+          - img [ref=e98] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e101] [cursor=pointer]:
+          - img [ref=e104] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - button "Информация об уроке" [ref=e108] [cursor=pointer]:
+          - img [ref=e111] [cursor=pointer]
+          - text: Информация об уроке
+      - generic [ref=e113]:
+        - generic [ref=e114]:
+          - img [ref=e116]
+          - generic [ref=e118]: Реши задание, прежде чем подтвердить
+        - button "Подтвердить" [active] [ref=e119] [cursor=pointer]:
+          - text: Подтвердить
+          - img [ref=e122] [cursor=pointer]
+        - generic [ref=e125]: 69815a80365be10007e344f5
+```
