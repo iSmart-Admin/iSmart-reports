@@ -1,0 +1,70 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - region "Задача для решения" [active] [ref=e15] [cursor=pointer]:
+      - generic [ref=e16] [cursor=pointer]:
+        - generic [ref=e18]:
+          - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+            - img [ref=e22] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e24]:
+            - generic [ref=e25]:
+              - button "1" [ref=e28] [cursor=pointer]
+              - button "2" [ref=e31] [cursor=pointer]
+              - button "3" [ref=e34] [cursor=pointer]
+              - button "4" [ref=e37] [cursor=pointer]
+              - button "5" [ref=e40] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+            - generic [ref=e44]:
+              - button [disabled] [ref=e45]:
+                - img [ref=e47]
+              - button [disabled] [ref=e50]:
+                - img [ref=e52]
+        - generic [ref=e55]:
+          - generic [ref=e57]:
+            - img [ref=e61]
+            - heading "Выбери верный вариант ответа." [level=4] [ref=e63]:
+              - generic [ref=e65]: Выбери верный вариант ответа.
+          - generic [ref=e67]:
+            - img "decore" [ref=e70]
+            - generic [ref=e76]: Учитель, которого не было у господина Журдена.
+          - generic [ref=e79]:
+            - generic [ref=e83] [cursor=pointer]: учитель фехтования
+            - generic [ref=e87] [cursor=pointer]: учитель философии
+            - generic [ref=e91] [cursor=pointer]: учитель музыки
+            - generic [ref=e95] [cursor=pointer]: учитель этикета
+    - button "2 Показать подсказку" [ref=e103] [cursor=pointer]:
+      - generic [ref=e106] [cursor=pointer]: "2"
+      - generic [ref=e107] [cursor=pointer]: Показать подсказку
+  - generic [ref=e111]:
+    - generic [ref=e114]: Интеллектуальный тренажер
+    - button "Управление учениками" [ref=e120] [cursor=pointer]:
+      - img [ref=e123] [cursor=pointer]
+      - text: Управление учениками
+    - generic [ref=e125]:
+      - generic [ref=e127]:
+        - button "Черновик" [ref=e128] [cursor=pointer]:
+          - img [ref=e131] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e134] [cursor=pointer]:
+          - img [ref=e137] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - generic [ref=e139]:
+          - button "Часто задаваемые вопросы" [ref=e141] [cursor=pointer]:
+            - img [ref=e144] [cursor=pointer]
+            - text: Часто задаваемые вопросы
+          - generic [ref=e146]:
+            - button "Информация об уроке" [ref=e148] [cursor=pointer]:
+              - img [ref=e151] [cursor=pointer]
+              - text: Информация об уроке
+            - generic [ref=e153]: Вы привязаны к школе Тест educont 2
+      - generic [ref=e154]:
+        - generic [ref=e155]:
+          - img [ref=e157]
+          - generic [ref=e159]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e160] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e163] [cursor=pointer]
+```
