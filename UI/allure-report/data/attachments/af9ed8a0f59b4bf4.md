@@ -1,0 +1,105 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e12]:
+    - generic [ref=e13]:
+      - region "Задача для решения" [ref=e15] [cursor=pointer]:
+        - generic [ref=e16] [cursor=pointer]:
+          - generic [ref=e18]:
+            - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+              - img [ref=e22] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e24]:
+              - generic [ref=e25]:
+                - button "1" [ref=e28] [cursor=pointer]
+                - button "2" [ref=e31] [cursor=pointer]
+                - button "3" [ref=e34] [cursor=pointer]
+              - generic [ref=e35]:
+                - button [disabled] [ref=e36]:
+                  - img [ref=e38]
+                - button [disabled] [ref=e41]:
+                  - img [ref=e43]
+          - generic [ref=e46]:
+            - generic [ref=e48]:
+              - img [ref=e52]
+              - heading "Выбери все верные варианты ответа." [level=4] [ref=e54]:
+                - generic [ref=e56]: Выбери все верные варианты ответа.
+            - generic [ref=e58]:
+              - img "decore" [ref=e61]
+              - generic [ref=e67]: Какую роль в жизни человека играют природные экосистемы?
+            - generic [ref=e70]:
+              - button "Добыча еды" [ref=e72] [cursor=pointer]:
+                - generic [ref=e74] [cursor=pointer]: Добыча еды
+              - button "Искусственное выращивание еды" [ref=e76] [cursor=pointer]:
+                - generic [ref=e78] [cursor=pointer]: Искусственное выращивание еды
+              - button "Регуляция климата" [ref=e80] [cursor=pointer]:
+                - generic [ref=e82] [cursor=pointer]: Регуляция климата
+      - button "2 Показать подсказку" [ref=e90] [cursor=pointer]:
+        - generic [ref=e93] [cursor=pointer]: "2"
+        - generic [ref=e94] [cursor=pointer]: Показать подсказку
+    - generic [ref=e98]:
+      - generic [ref=e101]: Интеллектуальный тренажер
+      - button "Управление учениками" [ref=e107] [cursor=pointer]:
+        - img [ref=e110] [cursor=pointer]
+        - text: Управление учениками
+      - generic [ref=e112]:
+        - generic [ref=e114]:
+          - button "Черновик" [ref=e115] [cursor=pointer]:
+            - img [ref=e118] [cursor=pointer]
+            - text: Черновик
+          - button "Сообщить об ошибке" [ref=e121] [cursor=pointer]:
+            - img [ref=e124] [cursor=pointer]
+            - text: Сообщить об ошибке
+          - generic [ref=e126]:
+            - button "Часто задаваемые вопросы" [ref=e128] [cursor=pointer]:
+              - img [ref=e131] [cursor=pointer]
+              - text: Часто задаваемые вопросы
+            - generic [ref=e133]:
+              - button "Информация об уроке" [active] [ref=e135] [cursor=pointer]:
+                - img [ref=e138] [cursor=pointer]
+                - text: Информация об уроке
+              - generic [ref=e140]: Вы привязаны к школе Тест educont 2
+        - generic [ref=e141]:
+          - generic [ref=e142]:
+            - img [ref=e144]
+            - generic [ref=e146]: Реши задание, прежде чем подтвердить
+          - button "Далее" [ref=e147] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e150] [cursor=pointer]
+  - generic [ref=e159]:
+    - generic [ref=e161]:
+      - generic [ref=e162]:
+        - generic [ref=e163]: Разнообразие природных сообществ. Искусственные сообщества
+        - button [ref=e164] [cursor=pointer]:
+          - img [ref=e166] [cursor=pointer]
+      - generic [ref=e168]:
+        - generic [ref=e169]: Выберите задания из подтемы
+        - button "Вернуть стандартные настройки" [ref=e170] [cursor=pointer]:
+          - img [ref=e173] [cursor=pointer]
+          - text: Вернуть стандартные настройки
+    - generic [ref=e175]:
+      - generic [ref=e176]:
+        - checkbox [checked] [ref=e177] [cursor=pointer]:
+          - img [ref=e180] [cursor=pointer]
+        - generic [ref=e182]: Выбрать все подтемы
+      - generic [ref=e185]:
+        - checkbox [checked] [ref=e187] [cursor=pointer]:
+          - img [ref=e190] [cursor=pointer]
+        - generic [ref=e193]: "4."
+        - generic [ref=e194]: Значение природных и искусственных сообществ
+        - button "3 задания" [ref=e195] [cursor=pointer]:
+          - text: 3 задания
+          - img [ref=e198] [cursor=pointer]
+    - generic [ref=e200]:
+      - generic [ref=e201]:
+        - generic [ref=e202]: "Изменено подтем: 0"
+        - generic [ref=e203]:
+          - generic [ref=e204]: "Выбрано задания: 3"
+          - img [ref=e206]
+      - generic [ref=e209]:
+        - button "Отмена" [ref=e210] [cursor=pointer]
+        - button "Сохранить" [disabled] [ref=e211]:
+          - text: Сохранить
+          - img [ref=e214]
+```
