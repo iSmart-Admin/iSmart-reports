@@ -1,0 +1,67 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - region "Задача для решения" [active] [ref=e15] [cursor=pointer]:
+      - generic [ref=e16] [cursor=pointer]:
+        - generic [ref=e18]:
+          - button "Вернуться обратно" [ref=e19] [cursor=pointer]:
+            - img [ref=e22] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e24]:
+            - generic [ref=e25]:
+              - button "1" [ref=e28] [cursor=pointer]
+              - button "2" [ref=e31] [cursor=pointer]
+              - button "3" [ref=e34] [cursor=pointer]
+              - button "4" [ref=e37] [cursor=pointer]
+            - generic [ref=e38]:
+              - button [disabled] [ref=e39]:
+                - img [ref=e41]
+              - button [disabled] [ref=e44]:
+                - img [ref=e46]
+        - generic [ref=e49]:
+          - generic [ref=e51]:
+            - img [ref=e55]
+            - heading "Read the description and identify the type of school. Прочитай описание и определи тип школы." [level=4] [ref=e57]:
+              - generic [ref=e59]: Read the description and identify the type of school. Прочитай описание и определи тип школы.
+          - generic [ref=e61]:
+            - img "decore" [ref=e64]
+            - generic [ref=e70]: In many countries, there are different types of schools where students can learn and grow. These schools are free for students to attend because the government pays for them. They are open to everyone, and they have large classes. Most children in Russia go to such schools.
+          - generic [ref=e73]:
+            - generic [ref=e77] [cursor=pointer]: private schools
+            - generic [ref=e81] [cursor=pointer]: public schools
+            - generic [ref=e85] [cursor=pointer]: online schools
+    - button "2 Показать подсказку" [ref=e93] [cursor=pointer]:
+      - generic [ref=e96] [cursor=pointer]: "2"
+      - generic [ref=e97] [cursor=pointer]: Показать подсказку
+  - generic [ref=e101]:
+    - generic [ref=e104]: Интеллектуальный тренажер
+    - button "Управление учениками" [ref=e110] [cursor=pointer]:
+      - img [ref=e113] [cursor=pointer]
+      - text: Управление учениками
+    - generic [ref=e115]:
+      - generic [ref=e117]:
+        - button "Черновик" [ref=e118] [cursor=pointer]:
+          - img [ref=e121] [cursor=pointer]
+          - text: Черновик
+        - button "Сообщить об ошибке" [ref=e124] [cursor=pointer]:
+          - img [ref=e127] [cursor=pointer]
+          - text: Сообщить об ошибке
+        - generic [ref=e129]:
+          - button "Часто задаваемые вопросы" [ref=e131] [cursor=pointer]:
+            - img [ref=e134] [cursor=pointer]
+            - text: Часто задаваемые вопросы
+          - generic [ref=e136]:
+            - button "Информация об уроке" [ref=e138] [cursor=pointer]:
+              - img [ref=e141] [cursor=pointer]
+              - text: Информация об уроке
+            - generic [ref=e143]: Вы привязаны к школе Тест educont 2
+      - generic [ref=e144]:
+        - generic [ref=e145]:
+          - img [ref=e147]
+          - generic [ref=e149]: Реши задание, прежде чем подтвердить
+        - button "Далее" [ref=e150] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e153] [cursor=pointer]
+```

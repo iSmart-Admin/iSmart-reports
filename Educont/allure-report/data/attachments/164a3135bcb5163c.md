@@ -1,0 +1,177 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+    - img [ref=e14] [cursor=pointer]
+    - text: Вернуться обратно
+  - generic [ref=e18]:
+    - generic [ref=e22]: Эрзянский язык!
+    - generic [ref=e26] [cursor=pointer]:
+      - img [ref=e28] [cursor=pointer]
+      - generic [ref=e30] [cursor=pointer]: Нашли ошибку?
+  - generic [ref=e33]:
+    - generic [ref=e34]:
+      - generic [ref=e35] [cursor=pointer]:
+        - generic [ref=e37] [cursor=pointer]: Темы
+        - button [ref=e39] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+      - generic [ref=e44] [cursor=pointer]:
+        - generic [ref=e47] [cursor=pointer]: Будем знакомы / Теевтяно содавиксэкс
+        - img [ref=e49] [cursor=pointer]
+      - generic [ref=e51] [cursor=pointer]:
+        - generic [ref=e54] [cursor=pointer]: Я и мои друзья. Игрушки / Мон ды монь ялгатне. Налкшкеть
+        - img [ref=e56] [cursor=pointer]
+      - generic [ref=e58] [cursor=pointer]:
+        - generic [ref=e61] [cursor=pointer]: Кто это? Что это? (Те кие? Те мезе?)
+        - img [ref=e63] [cursor=pointer]
+      - generic [ref=e65] [cursor=pointer]:
+        - generic [ref=e68] [cursor=pointer]: Я и моя семья / Мон ды монь кудораськем
+        - img [ref=e70] [cursor=pointer]
+      - generic [ref=e72] [cursor=pointer]:
+        - generic [ref=e75] [cursor=pointer]: Мой дом. / Монь кудозе. / Монь кудом
+        - img [ref=e77] [cursor=pointer]
+      - generic [ref=e79] [cursor=pointer]:
+        - generic [ref=e82] [cursor=pointer]: В школе / Школасо
+        - img [ref=e84] [cursor=pointer]
+      - generic [ref=e86] [cursor=pointer]:
+        - generic [ref=e89] [cursor=pointer]: Учебные предметы и школьные принадлежности / Школань предметтнэ ды кедъёнкстнэ
+        - img [ref=e91] [cursor=pointer]
+      - generic [ref=e93] [cursor=pointer]:
+        - generic [ref=e96] [cursor=pointer]: Природа вокруг нас / Пертьпельксэсь эрямосонок
+        - img [ref=e98] [cursor=pointer]
+      - generic [ref=e100] [cursor=pointer]:
+        - generic [ref=e103] [cursor=pointer]: Времена года / Иень шкатне
+        - img [ref=e105] [cursor=pointer]
+      - generic [ref=e107] [cursor=pointer]:
+        - generic [ref=e110] [cursor=pointer]: Овощи и фрукты / Эмежть ды фруктат
+        - img [ref=e112] [cursor=pointer]
+      - generic [ref=e114] [cursor=pointer]:
+        - generic [ref=e117] [cursor=pointer]: Животный и растительный мир / Ракшатне и перьфпяльсь. / Ракшатне и касыксне. / Ракшатне ды пертьпельксэсь
+        - img [ref=e119] [cursor=pointer]
+      - generic [ref=e121] [cursor=pointer]:
+        - generic [ref=e124] [cursor=pointer]: Домашние животные / Кудонь ракшат
+        - img [ref=e126] [cursor=pointer]
+      - generic [ref=e128] [cursor=pointer]:
+        - generic [ref=e131] [cursor=pointer]: Дикие животные (нашего края) / Идем ракшат
+        - img [ref=e133] [cursor=pointer]
+      - generic [ref=e135] [cursor=pointer]:
+        - generic [ref=e138] [cursor=pointer]: Птицы / Нармунть
+        - img [ref=e140] [cursor=pointer]
+      - generic [ref=e142] [cursor=pointer]:
+        - generic [ref=e145] [cursor=pointer]: Гигиена, здоровье / Шумбрачи, Ваньксчи
+        - img [ref=e147] [cursor=pointer]
+      - generic [ref=e149] [cursor=pointer]:
+        - generic [ref=e152] [cursor=pointer]: Дни недели / Недлянь читне
+        - img [ref=e154] [cursor=pointer]
+      - generic [ref=e156] [cursor=pointer]:
+        - generic [ref=e159] [cursor=pointer]: Когда? / Зярдо?
+        - img [ref=e161] [cursor=pointer]
+      - generic [ref=e163] [cursor=pointer]:
+        - generic [ref=e166] [cursor=pointer]: Распорядок дня / Чинть ютавтомась
+        - img [ref=e168] [cursor=pointer]
+      - generic [ref=e170] [cursor=pointer]:
+        - generic [ref=e173] [cursor=pointer]: Пища / Ярсамопельтне ды симемапельтне
+        - img [ref=e175] [cursor=pointer]
+      - generic [ref=e177] [cursor=pointer]:
+        - generic [ref=e180] [cursor=pointer]: Посуда / Кедьгетне
+        - img [ref=e182] [cursor=pointer]
+      - generic [ref=e184] [cursor=pointer]:
+        - generic [ref=e187] [cursor=pointer]: Национальная еда и напитки эрзи и мокши / Эрзятнень ярсамопелесь ды симемапелесь
+        - img [ref=e189] [cursor=pointer]
+      - generic [ref=e191] [cursor=pointer]:
+        - generic [ref=e194] [cursor=pointer]: Человек. Характер и внешние данные — Ломанесь. Ломаненть обуцясь ды лангс ваномась
+        - img [ref=e196] [cursor=pointer]
+      - generic [ref=e198] [cursor=pointer]:
+        - generic [ref=e201] [cursor=pointer]: Части тела человека / Ломанень рунгонь пелькстнэ
+        - img [ref=e203] [cursor=pointer]
+      - generic [ref=e205] [cursor=pointer]:
+        - generic [ref=e208] [cursor=pointer]: Одежда и обувь / Оршамопельтне ды карсемапельтне
+        - img [ref=e210] [cursor=pointer]
+      - generic [ref=e212] [cursor=pointer]:
+        - generic [ref=e215] [cursor=pointer]: Спорт / Спортось
+        - img [ref=e217] [cursor=pointer]
+      - generic [ref=e219] [cursor=pointer]:
+        - generic [ref=e222] [cursor=pointer]: Родина / Тиринь мастор
+        - img [ref=e224] [cursor=pointer]
+      - generic [ref=e226] [cursor=pointer]:
+        - generic [ref=e229] [cursor=pointer]: Профессии / Профессият / Профессиятне
+        - img [ref=e231] [cursor=pointer]
+      - generic [ref=e233] [cursor=pointer]:
+        - generic [ref=e236] [cursor=pointer]: Насекомые. Пресмыкающие / Сукст-унжат. Пресмыкающейтне
+        - img [ref=e238] [cursor=pointer]
+      - generic [ref=e240] [cursor=pointer]:
+        - generic [ref=e243] [cursor=pointer]: Одежда и обувь эрзянского народа / Эрзянь ломантнень оршамопельтне ды карсемапельтне
+        - img [ref=e245] [cursor=pointer]
+      - generic [ref=e247] [cursor=pointer]:
+        - generic [ref=e250] [cursor=pointer]: Мокшэрзянь раськенть покшчитне / Праздники мордовского народа
+        - img [ref=e252] [cursor=pointer]
+      - generic [ref=e254] [cursor=pointer]:
+        - generic [ref=e257] [cursor=pointer]: Касыкстнэ. Умартне / Растения. Плоды
+        - img [ref=e259] [cursor=pointer]
+      - generic [ref=e261] [cursor=pointer]:
+        - generic [ref=e264] [cursor=pointer]: Счёт / Ловомась
+        - img [ref=e266] [cursor=pointer]
+      - generic [ref=e268] [cursor=pointer]:
+        - generic [ref=e271] [cursor=pointer]: Божества мордовского фольклора / Мокшэрзянь фольклорсонть пазтнэ
+        - img [ref=e273] [cursor=pointer]
+      - generic [ref=e275] [cursor=pointer]:
+        - generic [ref=e278] [cursor=pointer]: Зерновые культуры / Сюротне
+        - img [ref=e280] [cursor=pointer]
+      - generic [ref=e282] [cursor=pointer]:
+        - generic [ref=e285] [cursor=pointer]: Чувтотне / Деревья
+        - img [ref=e287] [cursor=pointer]
+      - generic [ref=e289] [cursor=pointer]:
+        - generic [ref=e292] [cursor=pointer]: Музыкальные инструменты / Морамонь инструменттнэ
+        - img [ref=e294] [cursor=pointer]
+      - generic [ref=e296] [cursor=pointer]:
+        - generic [ref=e299] [cursor=pointer]: Кардазось. Инвентаресь. / Двор. Инвентарь
+        - img [ref=e301] [cursor=pointer]
+      - generic [ref=e303] [cursor=pointer]:
+        - generic [ref=e306] [cursor=pointer]: Склонение существительного / Существительноенть полавтнеманзо
+        - img [ref=e308] [cursor=pointer]
+      - generic [ref=e310] [cursor=pointer]:
+        - generic [ref=e313] [cursor=pointer]: Лично-притяжательные суффиксы существительного / Существительноенть лично-притяжательной суффиксонзо
+        - img [ref=e315] [cursor=pointer]
+      - generic [ref=e317] [cursor=pointer]:
+        - generic [ref=e320] [cursor=pointer]: Прилагательные. Цвет / Кодамо? (Какой? Какая? Какое?). Тюс (Цвет)
+        - img [ref=e322] [cursor=pointer]
+      - generic [ref=e324] [cursor=pointer]:
+        - generic [ref=e327] [cursor=pointer]: Кодамо? (Какой? Какая? Какое?). (Вкус)
+        - img [ref=e329] [cursor=pointer]
+      - generic [ref=e331] [cursor=pointer]:
+        - generic [ref=e334] [cursor=pointer]: Кодамо? (Какой? Какая? Какое?). (Размер)
+        - img [ref=e336] [cursor=pointer]
+      - generic [ref=e338] [cursor=pointer]:
+        - generic [ref=e341] [cursor=pointer]: Кодамо? (Какой? Какая? Какое?). (Качество, свойство)
+        - img [ref=e343] [cursor=pointer]
+      - generic [ref=e345] [cursor=pointer]:
+        - generic [ref=e348] [cursor=pointer]: Кодамо? (Какой? Какая? Какое?). (Материал. Время. Место. Принадлежность.)
+        - img [ref=e350] [cursor=pointer]
+      - generic [ref=e352] [cursor=pointer]:
+        - generic [ref=e355] [cursor=pointer]: Глаголы неопределённой формы (Инфинитив)
+        - img [ref=e357] [cursor=pointer]
+      - generic [ref=e359] [cursor=pointer]:
+        - generic [ref=e362] [cursor=pointer]: Мезе теян? Мезе теят? Мезе теи? (Что делаю? Что делаешь? Что делает?). Глагол. Настоящее время. 1-е, 2-е, 3-е лицо единственное число
+        - img [ref=e364] [cursor=pointer]
+      - generic [ref=e366] [cursor=pointer]:
+        - generic [ref=e369] [cursor=pointer]: Мезе тейтяно? Мезе тейтядо? Мезе теить? / (Что делаем? Что делаете? Что делают?). Глагол. Настоящее время. 1-е, 2-е, 3-е лицо множественное число
+        - img [ref=e371] [cursor=pointer]
+      - generic [ref=e373] [cursor=pointer]:
+        - generic [ref=e376] [cursor=pointer]: Мезе теинь? Мезе теить? Мезе тейсь? (Что я делал?, Что ты делал?, Что он делал? Что она делала? Что оно делало?). Глагол. Прошедшее время. 1-е, 2-е, 3-е лицо единственное число
+        - img [ref=e378] [cursor=pointer]
+      - generic [ref=e380] [cursor=pointer]:
+        - generic [ref=e383] [cursor=pointer]: Мезе теинек? Мезе теиде? Мезе тейсть? (Что мы делали?, Что вы делали?, Что они делали? ). Глагол. Прошедшее время. 1-е, 2-е, 3-е лицо множественное число
+        - img [ref=e385] [cursor=pointer]
+      - generic [ref=e387] [cursor=pointer]:
+        - generic [ref=e390] [cursor=pointer]: Глагол. Будущее время. 1-е, 2-е, 3-е лицо единственное число
+        - img [ref=e392] [cursor=pointer]
+      - generic [ref=e394] [cursor=pointer]:
+        - generic [ref=e397] [cursor=pointer]: Глагол. Будущее время. 1-е, 2-е, 3-е лицо множественное число
+        - img [ref=e399] [cursor=pointer]
+    - generic [ref=e407] [cursor=pointer]:
+      - generic [ref=e409] [cursor=pointer]:
+        - generic [ref=e411] [cursor=pointer]: "1.1"
+        - paragraph [ref=e413] [cursor=pointer]: Теевтяно содавиксэкс / Будем знакомы
+      - img [ref=e416] [cursor=pointer]
+```
