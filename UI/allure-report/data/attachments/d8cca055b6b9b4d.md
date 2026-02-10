@@ -1,0 +1,193 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Кабинет ученика" [ref=e21] [cursor=pointer]:
+        - /url: /student/
+        - generic [ref=e24] [cursor=pointer]: Кабинет ученика
+      - link "Рейтинг" [ref=e27] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e30] [cursor=pointer]: Рейтинг
+      - link "Магазин" [ref=e33] [cursor=pointer]:
+        - /url: /shop/offers
+        - generic [ref=e36] [cursor=pointer]: Магазин
+      - link "Помощник" [ref=e39] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e42] [cursor=pointer]: Помощник
+      - link "Игра" [ref=e45] [cursor=pointer]:
+        - /url: /game
+        - generic [ref=e48] [cursor=pointer]: Игра
+      - link "Хогвартс Хогвартс" [ref=e51] [cursor=pointer]:
+        - /url: /hogwarts
+        - generic [ref=e54] [cursor=pointer]:
+          - img "Хогвартс" [ref=e56] [cursor=pointer]
+          - generic [ref=e57] [cursor=pointer]: Хогвартс
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - generic [ref=e64] [cursor=pointer]: "625"
+        - generic [ref=e67]: "457"
+      - generic [ref=e68]:
+        - button [ref=e69] [cursor=pointer]:
+          - img [ref=e71] [cursor=pointer]
+        - img [ref=e76] [cursor=pointer]
+      - generic [ref=e78] [cursor=pointer]:
+        - generic [ref=e81] [cursor=pointer]:
+          - paragraph [ref=e82] [cursor=pointer]: Ученик
+          - paragraph [ref=e83] [cursor=pointer]: h
+        - img [ref=e85] [cursor=pointer]
+  - generic [ref=e91]:
+    - generic [ref=e92]:
+      - region "Задача для решения" [active] [ref=e94] [cursor=pointer]:
+        - generic [ref=e95] [cursor=pointer]:
+          - button "Закрыть" [ref=e98] [cursor=pointer]:
+            - img [ref=e101] [cursor=pointer]
+            - text: Закрыть
+          - generic [ref=e103]:
+            - generic [ref=e104]:
+              - generic [ref=e106]:
+                - button [ref=e107] [cursor=pointer]:
+                  - img [ref=e109] [cursor=pointer]
+                - heading "Какой элемент обозначает твёрдый согласный звук?" [level=4] [ref=e111]:
+                  - generic [ref=e113]:
+                    - text: Какой элемент обозначает
+                    - strong [ref=e114]: твёрдый согласный
+                    - text: звук?
+              - img "decore" [ref=e119]
+              - generic [ref=e123]:
+                - img [ref=e130] [cursor=pointer]
+                - img [ref=e141] [cursor=pointer]
+                - img [ref=e152] [cursor=pointer]
+            - generic [ref=e157]:
+              - generic [ref=e160]:
+                - generic [ref=e166]:
+                  - generic [ref=e167]: Подсказка
+                  - generic [ref=e168]: "1"
+                - generic [ref=e173]:
+                  - strong [ref=e174]: Запомни!
+                  - strong [ref=e175]:
+                    - generic [ref=e177]: Звуковая схема слова
+                  - text: — это
+                  - strong [ref=e178]: модель слова
+                  - text: .
+                  - text: В звуковой схеме для обозначения звуков используются
+                  - strong [ref=e179]: цветные карточки
+                  - text: ":"
+                  - text: квадраты обозначают гласные и согласные звуки,
+                  - text: прямоугольники обозначают слияние согласного и гласного звуков (согласный и стоящий за ним гласный звучат как единое целое).
+                  - table [ref=e181]:
+                    - rowgroup [ref=e182]:
+                      - row "Мягкий согласный" [ref=e183]:
+                        - cell [ref=e184]:
+                          - img [ref=e189]
+                        - cell "Мягкий согласный" [ref=e194]:
+                          - generic [ref=e196]: Мягкий согласный
+                      - row "Твёрдый согласный" [ref=e197]:
+                        - cell [ref=e198]:
+                          - img [ref=e203]
+                        - cell "Твёрдый согласный" [ref=e208]:
+                          - generic [ref=e210]: Твёрдый согласный
+                      - row "Гласный" [ref=e211]:
+                        - cell [ref=e212]:
+                          - img [ref=e217]
+                        - cell "Гласный" [ref=e222]:
+                          - generic [ref=e224]: Гласный
+                      - row "Слияние твёрдого согласного и гласного" [ref=e225]:
+                        - cell [ref=e226]:
+                          - img [ref=e231]
+                        - cell "Слияние твёрдого согласного и гласного" [ref=e238]:
+                          - generic [ref=e240]: Слияние твёрдого согласного и гласного
+                      - row "Слияние мягкого согласного и гласного" [ref=e241]:
+                        - cell [ref=e242]:
+                          - img [ref=e247]
+                        - cell "Слияние мягкого согласного и гласного" [ref=e254]:
+                          - generic [ref=e256]: Слияние мягкого согласного и гласного
+              - generic [ref=e259]:
+                - generic [ref=e265]:
+                  - generic [ref=e266]: Подсказка
+                  - generic [ref=e267]: "2"
+                - generic [ref=e272]:
+                  - strong [ref=e273]: Обрати внимание!
+                  - text: Простые правила, чтобы правильно составить
+                  - strong [ref=e274]:
+                    - generic [ref=e276]: звуковую схему
+                  - text: ":"
+                  - text: буквы
+                  - strong [ref=e277]: Е, Ё, Ю, Я
+                  - text: в начале слова, после гласных,
+                  - strong [ref=e278]: Ь
+                  - text: и
+                  - strong [ref=e279]: Ъ
+                  - text: обозначаются
+                  - strong [ref=e280]: зелёно-красными
+                  - text: прямоугольниками,
+                  - text: буква
+                  - strong [ref=e281]: И
+                  - text: после
+                  - strong [ref=e282]: Ь
+                  - text: обозначается
+                  - strong [ref=e283]: зелёно-красным
+                  - text: прямоугольником,
+                  - text: согласные перед
+                  - strong [ref=e284]: Е, Ё, Ю, Я, И, Ь
+                  - text: ; а также буквы
+                  - strong [ref=e285]: Ч, Щ, Й
+                  - text: обозначают
+                  - strong [ref=e286]: мягкие
+                  - text: звуки,
+                  - text: согласные перед
+                  - strong [ref=e287]: А, О, У, Ы, Э
+                  - text: ; а также буквы
+                  - strong [ref=e288]: Ц, Ж, Ш
+                  - text: обозначают
+                  - strong [ref=e289]: твёрдые
+                  - text: звуки,
+                  - text: буквы
+                  - strong [ref=e290]: Ь
+                  - text: и
+                  - strong [ref=e291]: Ъ
+                  - text: звуков не обозначают.
+      - generic [ref=e295]:
+        - button "Подсказка (ответ)" [ref=e299] [cursor=pointer]:
+          - img [ref=e302] [cursor=pointer]
+          - generic [ref=e304] [cursor=pointer]: Подсказка (ответ)
+        - button "помощник Смарти Задай вопрос сейчас" [ref=e308] [cursor=pointer]:
+          - img [ref=e309] [cursor=pointer]
+          - generic [ref=e310] [cursor=pointer]:
+            - generic [ref=e312] [cursor=pointer]: помощник Смарти
+            - generic [ref=e314] [cursor=pointer]: Задай вопрос сейчас
+          - img [ref=e317] [cursor=pointer]
+    - generic [ref=e322]:
+      - generic [ref=e323]:
+        - generic [ref=e324]:
+          - button "00:02" [ref=e325] [cursor=pointer]:
+            - generic [ref=e326] [cursor=pointer]:
+              - generic:
+                - img
+            - generic [ref=e327] [cursor=pointer]: 00:02
+          - button "9" [ref=e328] [cursor=pointer]:
+            - img [ref=e330] [cursor=pointer]
+            - generic [ref=e332] [cursor=pointer]: "9"
+            - img [ref=e335] [cursor=pointer]
+        - button [ref=e338] [cursor=pointer]:
+          - img [ref=e340] [cursor=pointer]
+      - generic [ref=e349]:
+        - generic [ref=e351]:
+          - button "Черновик" [ref=e352] [cursor=pointer]:
+            - img [ref=e355] [cursor=pointer]
+            - text: Черновик
+          - button "Сообщить об ошибке" [ref=e358] [cursor=pointer]:
+            - img [ref=e361] [cursor=pointer]
+            - text: Сообщить об ошибке
+        - generic [ref=e363]:
+          - generic [ref=e364]:
+            - img [ref=e366]
+            - generic [ref=e368]: Реши задание, прежде чем подтвердить
+          - button "Подтвердить" [ref=e369] [cursor=pointer]:
+            - text: Подтвердить
+            - img [ref=e372] [cursor=pointer]
+```
