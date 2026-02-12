@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "mutation subscriptionPay($input: [PayInput!]!, $allowRecurring: Boolean, $callbackUrlTemplate: String, $amount: Float, $byCard: Boolean, $newCard: Boolean, $instantRefund: Boolean, $saveCard: Boolean, $orderObjectId: String, $userEmail: String) {\n  subscriptionPay(\n    input: $input\n    allowRecurring: $allowRecurring\n    callbackUrlTemplate: $callbackUrlTemplate\n    amount: $amount\n    byCard: $byCard\n    newCard: $newCard\n    instantRefund: $instantRefund\n    saveCard: $saveCard\n    orderObjectId: $orderObjectId\n    userEmail: $userEmail\n  ) {\n    ...orderDataFields\n  }\n}\n\nfragment orderDataFields on OrderData {\n  Amount\n  CardId\n  Details\n  ErrorCode\n  ExpDate\n  Message\n  OrderId\n  Pan\n  PaymentId\n  PaymentURL\n  RebillId\n  Status\n  TerminalKey\n}\n",
+      "variables": {
+        "allowRecurring": false,
+        "input": [
+          {
+            "subscriptionId": "67a620a52d25700007be29fe",
+            "planId": "67a620a52d25700007be29fd"
+          }
+        ],
+        "callbackUrlTemplate": "/processing/?order={{id}}&type=UNKNOWN&refetch=0"
+      }
+    },
+    "timestap": "12.02.2026, 18:47:10"
+  }
+]

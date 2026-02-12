@@ -1,0 +1,101 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - generic [ref=e28]:
+                - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                  - img [ref=e32] [cursor=pointer]
+                  - text: Вернуться обратно
+                - generic [ref=e34]:
+                  - generic [ref=e35]:
+                    - button "1" [ref=e38] [cursor=pointer]
+                    - button "2" [ref=e41] [cursor=pointer]
+                    - button "3" [ref=e44] [cursor=pointer]
+                    - button "4" [ref=e47] [cursor=pointer]
+                    - button "5" [ref=e50] [cursor=pointer]
+                    - button "6" [ref=e53] [cursor=pointer]
+                  - generic [ref=e54]:
+                    - button [disabled] [ref=e55]:
+                      - img [ref=e57]
+                    - button [disabled] [ref=e60]:
+                      - img [ref=e62]
+              - generic [ref=e65]:
+                - generic [ref=e67]:
+                  - img [ref=e71]
+                  - heading "Выбери все верные варианты ответа." [level=4] [ref=e73]:
+                    - generic [ref=e75]: Выбери все верные варианты ответа.
+                - generic [ref=e77]:
+                  - img "decore" [ref=e80]
+                  - generic [ref=e86]: Почему атом не излучает всё время?
+                - generic [ref=e91]:
+                  - generic [ref=e93] [cursor=pointer]: В соответствии с классической теорией электрон, находясь на стационарной орбите, не излучает.
+                  - generic [ref=e95] [cursor=pointer]: В соответствии с постулатами Бора электрон излучает при переходе с низкой орбиты на более высокую.
+                  - generic [ref=e97] [cursor=pointer]: В соответствии с постулатами Бора электрон излучает при переходе с высокой орбиты на более низкую.
+                  - generic [ref=e99] [cursor=pointer]: В соответствии с классической теорией электрон, двигаясь по окружности, не должен излучать.
+          - button "2 Показать подсказку" [ref=e107] [cursor=pointer]:
+            - generic [ref=e110] [cursor=pointer]: "2"
+            - generic [ref=e111] [cursor=pointer]: Показать подсказку
+        - generic [ref=e115]:
+          - generic [ref=e118]: Интеллектуальный тренажер
+          - generic [ref=e124]:
+            - button "Войти как учитель" [active] [ref=e126] [cursor=pointer]:
+              - img [ref=e129] [cursor=pointer]
+              - text: Войти как учитель
+            - generic [ref=e131]: Для создания собственной версии урока войдите как учитель.
+          - generic [ref=e132]:
+            - generic [ref=e134]:
+              - button "Черновик" [ref=e135] [cursor=pointer]:
+                - img [ref=e138] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e141] [cursor=pointer]:
+                - img [ref=e144] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - generic [ref=e146]:
+                - button "Часто задаваемые вопросы" [ref=e148] [cursor=pointer]:
+                  - img [ref=e151] [cursor=pointer]
+                  - text: Часто задаваемые вопросы
+                - button "Информация об уроке" [ref=e155] [cursor=pointer]:
+                  - img [ref=e158] [cursor=pointer]
+                  - text: Информация об уроке
+            - generic [ref=e160]:
+              - generic [ref=e161]:
+                - img [ref=e163]
+                - generic [ref=e165]: Реши задание, прежде чем подтвердить
+              - button "Далее" [ref=e166] [cursor=pointer]:
+                - text: Далее
+                - img [ref=e169] [cursor=pointer]
+  - generic [ref=e179]:
+    - button [ref=e181] [cursor=pointer]:
+      - img [ref=e183] [cursor=pointer]
+    - generic [ref=e186]:
+      - heading "Вход для учителя" [level=4] [ref=e188]
+      - generic [ref=e189]:
+        - generic [ref=e190]:
+          - generic [ref=e191]: Логин
+          - textbox "Email или логин" [ref=e195]
+        - button "Далее" [disabled] [ref=e196]:
+          - generic [ref=e197]: Далее
+        - generic [ref=e198]:
+          - generic [ref=e201]: или
+          - generic [ref=e202]:
+            - button "Зарегистрироваться" [ref=e203] [cursor=pointer]
+            - generic [ref=e204]:
+              - text: "Если у Вас возникли вопросы, вы можете обратиться в службу поддержки iSmart:"
+              - link "support@ismart.org" [ref=e205] [cursor=pointer]:
+                - /url: mailto:support@ismart.org
+```
