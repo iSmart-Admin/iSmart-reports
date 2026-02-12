@@ -1,8 +1,0 @@
-[
-  {
-    "url": "https://edu.ismart.org/trpc/educont.checkAndParseToken?batch=1&input=%7B%220%22%3A%7B%22token%22%3A%22eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6ImM5YmMwOWYxLTQwMjktMDViZy0zZWM1LTFhZzQxODBkOTUzZy10ZWFjaGVyYXV0b3Rlc3QiLCJpc1RlYWNoZXIiOnRydWUsImNvdXJzZVByb3ZpZGVySWQiOiI2OGMwM2I2MGE3ZmFiODAwMDc2ZmRiODAiLCJzZWN0aW9uUHJvdmlkZXJJZCI6IjY4YzAzYjYwYTdmYWI4MDAwNzZmZGI4MSIsInRoZW1lUHJvdmlkZXJJZCI6IjY4YzAzYjAxYTdmYWI4MDAwNzZmZDc3YyIsImxlc3NvblByb3ZpZGVySWQiOiI2OGI2ZGQ3MjlhMTU5YjQxMTgyYmYwYmIiLCJpYXQiOjE3NzA4MTkzOTJ9.3EF3_wSdeeFy2Rjech2bhnWkt0o_2IF9e_vDwhVnksI%22%2C%22lessonId%22%3A%2268b6daea9a159b41182bd8d1%22%7D%7D",
-    "status": 400,
-    "payload": null,
-    "timestap": "11.02.2026, 17:16:35"
-  }
-]
