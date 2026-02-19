@@ -1,0 +1,118 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [active] [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                - generic [ref=e46]:
+                  - button [disabled] [ref=e47]:
+                    - img [ref=e49]
+                  - button [disabled] [ref=e52]:
+                    - img [ref=e54]
+            - generic [ref=e56] [cursor=pointer]:
+              - generic [ref=e57] [cursor=pointer]:
+                - heading "Современный язык программирования - Python" [level=4] [ref=e58] [cursor=pointer]
+                - button [ref=e59] [cursor=pointer]:
+                  - img [ref=e61] [cursor=pointer]
+              - generic [ref=e63] [cursor=pointer]:
+                - generic [ref=e64] [cursor=pointer]:
+                  - generic [ref=e65] [cursor=pointer]: Откройте мир Python вместе с вашими учениками!
+                  - generic [ref=e66] [cursor=pointer]: Один клик — и вы узнаете, какие задания по программированию ждут ваших учеников!
+                - link "Посмотреть курс" [ref=e67] [cursor=pointer]:
+                  - /url: https://edu.ismart.org/educont/f4bbc15632dd0d4631a44442
+                  - button "Посмотреть курс" [ref=e68] [cursor=pointer]:
+                    - img [ref=e71] [cursor=pointer]
+                    - text: Посмотреть курс
+            - generic [ref=e74]:
+              - generic [ref=e76]:
+                - img [ref=e80]
+                - heading "Установи соответствие между элементами." [level=4] [ref=e82]:
+                  - generic [ref=e84]: Установи соответствие между элементами.
+              - generic [ref=e86]:
+                - img "decore" [ref=e89]
+                - generic [ref=e95]: Поставь в соответствие название профессии и её описание.
+              - generic [ref=e97]:
+                - generic [ref=e98]:
+                  - generic [ref=e99]:
+                    - generic [ref=e105]: Системный администратор
+                    - button [ref=e111] [cursor=pointer]
+                  - generic [ref=e112]:
+                    - generic [ref=e118]: Специалист по анализу данных
+                    - button [ref=e124] [cursor=pointer]
+                  - generic [ref=e125]:
+                    - generic [ref=e131]: Тестировщик
+                    - button [ref=e137] [cursor=pointer]
+                  - generic [ref=e138]:
+                    - generic [ref=e144]: Архитектор программного обеспечения
+                    - button [ref=e150] [cursor=pointer]
+                - generic [ref=e151]:
+                  - button "Отвечает за поддержку и управление компьютерной сетью и серверами организации, обеспечивает безопасность, доступность и производительность систем." [ref=e154] [cursor=pointer]:
+                    - generic [ref=e155] [cursor=pointer]: Отвечает за поддержку и управление компьютерной сетью и серверами организации, обеспечивает безопасность, доступность и производительность систем.
+                  - button "Собирает, обрабатывает и анализирует большие объёмы информации для выявления закономерностей и принятия решений; работает с данными из различных источников, таких как базы данных, социальные сети, сенсоры и т.д." [ref=e158] [cursor=pointer]:
+                    - generic [ref=e159] [cursor=pointer]: Собирает, обрабатывает и анализирует большие объёмы информации для выявления закономерностей и принятия решений; работает с данными из различных источников, таких как базы данных, социальные сети, сенсоры и т.д.
+                  - button "Проверяет качество программного обеспечения перед его выпуском; ищет баги, проверяет функциональность и соответствие требованиям заказчика." [ref=e162] [cursor=pointer]:
+                    - generic [ref=e163] [cursor=pointer]: Проверяет качество программного обеспечения перед его выпуском; ищет баги, проверяет функциональность и соответствие требованиям заказчика.
+                  - button "Проектирует структуру и архитектуру крупных программных систем; определяет, какие компоненты будут использоваться, как они взаимодействуют друг с другом и как система будет развиваться в будущем." [ref=e166] [cursor=pointer]:
+                    - generic [ref=e167] [cursor=pointer]: Проектирует структуру и архитектуру крупных программных систем; определяет, какие компоненты будут использоваться, как они взаимодействуют друг с другом и как система будет развиваться в будущем.
+        - generic [ref=e172]:
+          - generic [ref=e175]:
+            - button [disabled] [ref=e177]:
+              - img [ref=e179]
+            - generic [ref=e182]: 100%
+            - button [ref=e184] [cursor=pointer]:
+              - img [ref=e186] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e191] [cursor=pointer]:
+            - generic [ref=e194] [cursor=pointer]: "2"
+            - generic [ref=e195] [cursor=pointer]: Показать подсказку
+      - generic [ref=e199]:
+        - generic [ref=e202]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e208] [cursor=pointer]:
+          - img [ref=e211] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e213]:
+          - generic [ref=e215]:
+            - button "Черновик" [ref=e216] [cursor=pointer]:
+              - img [ref=e219] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e222] [cursor=pointer]:
+              - img [ref=e225] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e227]:
+              - button "Часто задаваемые вопросы" [ref=e229] [cursor=pointer]:
+                - img [ref=e232] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e234]:
+                - button "Информация об уроке" [ref=e236] [cursor=pointer]:
+                  - img [ref=e239] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e241]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e242]:
+            - generic [ref=e243]:
+              - img [ref=e245]
+              - generic [ref=e247]: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e248] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e251] [cursor=pointer]
+```

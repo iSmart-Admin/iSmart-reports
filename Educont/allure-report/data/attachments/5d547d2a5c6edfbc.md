@@ -1,0 +1,97 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [active] [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                  - button "4" [ref=e48] [cursor=pointer]
+                  - button "5" [ref=e51] [cursor=pointer]
+                - generic [ref=e52]:
+                  - button [disabled] [ref=e53]:
+                    - img [ref=e55]
+                  - button [disabled] [ref=e58]:
+                    - img [ref=e60]
+            - generic [ref=e63]:
+              - generic [ref=e65]:
+                - img [ref=e69]
+                - heading "Установите соответствие между элементами." [level=4] [ref=e71]:
+                  - generic [ref=e73]: Установите соответствие между элементами.
+              - generic [ref=e75]:
+                - img "decore" [ref=e78]
+                - generic [ref=e84]: Сопоставьте методам научного познания их определения.
+              - generic [ref=e87]:
+                - img [ref=e88]
+                - generic [ref=e89]:
+                  - generic [ref=e95] [cursor=pointer]: Выявление главного и отбрасывание второстепенного в физическом исследовании.
+                  - generic [ref=e102] [cursor=pointer]: Гипотеза
+                - generic [ref=e103]:
+                  - generic [ref=e109] [cursor=pointer]: Теоретическое предположение, сделанное на основе наблюдений и экспериментов.
+                  - generic [ref=e116] [cursor=pointer]: Наблюдение
+                - generic [ref=e117]:
+                  - generic [ref=e123] [cursor=pointer]: Проверка гипотезы и её следствий на практике в специально созданных условиях.
+                  - generic [ref=e130] [cursor=pointer]: Эксперимент
+                - generic [ref=e131]:
+                  - generic [ref=e137] [cursor=pointer]: Изучение явлений в естественных условиях.
+                  - generic [ref=e144] [cursor=pointer]: Моделирование
+        - generic [ref=e149]:
+          - generic [ref=e152]:
+            - button [disabled] [ref=e154]:
+              - img [ref=e156]
+            - generic [ref=e159]: 100%
+            - button [ref=e161] [cursor=pointer]:
+              - img [ref=e163] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e168] [cursor=pointer]:
+            - generic [ref=e171] [cursor=pointer]: "2"
+            - generic [ref=e172] [cursor=pointer]: Показать подсказку
+      - generic [ref=e176]:
+        - generic [ref=e179]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e185] [cursor=pointer]:
+          - img [ref=e188] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e190]:
+          - generic [ref=e192]:
+            - button "Черновик" [ref=e193] [cursor=pointer]:
+              - img [ref=e196] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e199] [cursor=pointer]:
+              - img [ref=e202] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e204]:
+              - button "Часто задаваемые вопросы" [ref=e206] [cursor=pointer]:
+                - img [ref=e209] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e211]:
+                - button "Информация об уроке" [ref=e213] [cursor=pointer]:
+                  - img [ref=e216] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e218]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e219]:
+            - generic [ref=e220]:
+              - img [ref=e222]
+              - generic [ref=e224]: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e225] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e228] [cursor=pointer]
+```
