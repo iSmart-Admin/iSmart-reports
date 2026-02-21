@@ -1,0 +1,87 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [active] [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                - generic [ref=e46]:
+                  - button [disabled] [ref=e47]:
+                    - img [ref=e49]
+                  - button [disabled] [ref=e52]:
+                    - img [ref=e54]
+            - generic [ref=e57]:
+              - generic [ref=e59]:
+                - img [ref=e63]
+                - heading "Выбери верный вариант ответа." [level=4] [ref=e65]:
+                  - generic [ref=e67]: Выбери верный вариант ответа.
+              - generic [ref=e69]:
+                - img "decore" [ref=e72]
+                - generic [ref=e74]:
+                  - generic [ref=e78]: Что означает древнерусское фразеологическое выражение «сидя на санях» из вступительной части «Поучения» Владимира Мономаха?
+                  - generic [ref=e82]: «Сидя на санях, помыслил я в душе своей и воздал хвалу Богу, который меня до этих дней, грешного, сохранил».
+              - generic [ref=e85]:
+                - generic [ref=e89] [cursor=pointer]: Собираясь в военный поход
+                - generic [ref=e93] [cursor=pointer]: Собираясь в путешествие
+                - generic [ref=e97] [cursor=pointer]: Находясь на пороге смерти
+        - generic [ref=e102]:
+          - generic [ref=e105]:
+            - button [disabled] [ref=e107]:
+              - img [ref=e109]
+            - generic [ref=e112]: 100%
+            - button [ref=e114] [cursor=pointer]:
+              - img [ref=e116] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e121] [cursor=pointer]:
+            - generic [ref=e124] [cursor=pointer]: "2"
+            - generic [ref=e125] [cursor=pointer]: Показать подсказку
+      - generic [ref=e129]:
+        - generic [ref=e132]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e138] [cursor=pointer]:
+          - img [ref=e141] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e143]:
+          - generic [ref=e145]:
+            - button "Черновик" [ref=e146] [cursor=pointer]:
+              - img [ref=e149] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e152] [cursor=pointer]:
+              - img [ref=e155] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e157]:
+              - button "Часто задаваемые вопросы" [ref=e159] [cursor=pointer]:
+                - img [ref=e162] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e164]:
+                - button "Информация об уроке" [ref=e166] [cursor=pointer]:
+                  - img [ref=e169] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e171]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e172]:
+            - generic [ref=e173]:
+              - img [ref=e175]
+              - generic [ref=e177]: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e178] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e181] [cursor=pointer]
+```

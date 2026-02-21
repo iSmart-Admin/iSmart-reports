@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "644a944000843dc688450d3e",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 1,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "21.02.2026, 06:34:55"
+  }
+]
