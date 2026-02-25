@@ -1,0 +1,80 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e35]:
+              - generic [ref=e36]:
+                - generic [ref=e38]:
+                  - img [ref=e42]
+                  - heading "Установи соответствие между элементами." [level=4] [ref=e44]:
+                    - generic [ref=e46]: Установи соответствие между элементами.
+                - generic [ref=e48]:
+                  - img "decore" [ref=e51]
+                  - generic [ref=e57]: Сопоставь тип побега и длину междоузлий.
+                - generic [ref=e60]:
+                  - img [ref=e61]
+                  - generic [ref=e62]:
+                    - generic [ref=e68] [cursor=pointer]: Укороченный
+                    - generic [ref=e75] [cursor=pointer]: Междоузлия хорошо развиты
+                  - generic [ref=e76]:
+                    - generic [ref=e82] [cursor=pointer]: Удлинённый
+                    - generic [ref=e89] [cursor=pointer]: Междоузлия не развиты
+              - generic [ref=e93]:
+                - generic [ref=e99]:
+                  - generic [ref=e100]: Подсказка
+                  - generic [ref=e101]: "1"
+                - generic [ref=e106]:
+                  - strong [ref=e107]: Запомни!
+                  - strong [ref=e110]: Междоузлия
+                  - text: — это часть стебля между узлами, точками, к которым прикрепляются листья.
+        - generic [ref=e117]:
+          - button [disabled] [ref=e119]:
+            - img [ref=e121]
+          - generic [ref=e124]: 100%
+          - button [ref=e126] [cursor=pointer]:
+            - img [ref=e128] [cursor=pointer]
+      - generic [ref=e133]:
+        - generic [ref=e136]: Интеллектуальный тренажер
+        - generic [ref=e140]:
+          - generic [ref=e145]: 1 из 15
+          - generic [ref=e149]:
+            - img [ref=e150]
+            - generic [ref=e152]: Вы вошли как ученик 4 «В»
+        - generic [ref=e153]:
+          - generic [ref=e155]:
+            - button "Пройти опрос" [ref=e156] [cursor=pointer]:
+              - generic [ref=e158] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e159] [cursor=pointer]:
+              - img [ref=e162] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e165] [cursor=pointer]:
+              - img [ref=e168] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e172] [cursor=pointer]:
+              - img [ref=e175] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e177]:
+            - generic [ref=e178]:
+              - img [ref=e180]
+              - generic [ref=e182]: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e183] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e186] [cursor=pointer]
+            - generic [ref=e189]: 699e6de4c2b64b00074527e0
+```

@@ -1,0 +1,99 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [active] [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                  - button "4" [ref=e48] [cursor=pointer]
+                  - button "5" [ref=e51] [cursor=pointer]
+                  - button "6" [ref=e54] [cursor=pointer]
+                  - button "7" [ref=e57] [cursor=pointer]
+                  - button "8" [ref=e60] [cursor=pointer]
+                  - button "9" [ref=e63] [cursor=pointer]
+                  - button "10" [ref=e66] [cursor=pointer]
+                - generic [ref=e67]:
+                  - button [disabled] [ref=e68]:
+                    - img [ref=e70]
+                  - button [ref=e73] [cursor=pointer]:
+                    - img [ref=e75] [cursor=pointer]
+            - generic [ref=e78]:
+              - generic [ref=e80]:
+                - img [ref=e84]
+                - heading "Выбери верный вариант ответа." [level=4] [ref=e86]:
+                  - generic [ref=e88]: Выбери верный вариант ответа.
+              - generic [ref=e90]:
+                - img "decore" [ref=e93]
+                - generic [ref=e95]:
+                  - img "hist_8_Поход Олега на Царьград" [ref=e98]
+                  - generic [ref=e102]: На фрагменте карты изображён поход князя Олега против этого государства.
+              - generic [ref=e105]:
+                - button "Польша" [ref=e107] [cursor=pointer]:
+                  - generic [ref=e109] [cursor=pointer]: Польша
+                - button "Хазария" [ref=e111] [cursor=pointer]:
+                  - generic [ref=e113] [cursor=pointer]: Хазария
+                - button "Византия" [ref=e115] [cursor=pointer]:
+                  - generic [ref=e117] [cursor=pointer]: Византия
+                - button "Волжская Булгария" [ref=e119] [cursor=pointer]:
+                  - generic [ref=e121] [cursor=pointer]: Волжская Булгария
+        - generic [ref=e126]:
+          - generic [ref=e129]:
+            - button [disabled] [ref=e131]:
+              - img [ref=e133]
+            - generic [ref=e136]: 100%
+            - button [ref=e138] [cursor=pointer]:
+              - img [ref=e140] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e145] [cursor=pointer]:
+            - generic [ref=e148] [cursor=pointer]: "2"
+            - generic [ref=e149] [cursor=pointer]: Показать подсказку
+      - generic [ref=e153]:
+        - generic [ref=e156]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e162] [cursor=pointer]:
+          - img [ref=e165] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e167]:
+          - generic [ref=e169]:
+            - button "Черновик" [ref=e170] [cursor=pointer]:
+              - img [ref=e173] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e176] [cursor=pointer]:
+              - img [ref=e179] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e181]:
+              - button "Часто задаваемые вопросы" [ref=e183] [cursor=pointer]:
+                - img [ref=e186] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e188]:
+                - button "Информация об уроке" [ref=e190] [cursor=pointer]:
+                  - img [ref=e193] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e195]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e196]:
+            - generic [ref=e197]:
+              - img [ref=e199]
+              - generic [ref=e201]: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e202] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e205] [cursor=pointer]
+```
