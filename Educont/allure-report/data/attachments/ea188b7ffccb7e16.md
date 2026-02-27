@@ -1,0 +1,129 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Заданий в уроке
+              - 'img "Название урока: Сложение и умножение вероятностей. Условная вероятность" [ref=e32] [cursor=pointer]':
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+            - button "Редактировать урок" [ref=e45] [cursor=pointer]
+          - generic [ref=e46]:
+            - generic [ref=e47]:
+              - generic [ref=e48]: Отчёты и аналитика
+              - img "Для учителей" [ref=e49] [cursor=pointer]:
+                - img [ref=e51] [cursor=pointer]
+            - generic [ref=e53]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e54] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e55] [cursor=pointer]:
+              - generic [ref=e56] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e57]:
+            - button "Заметки к уроку видны только вам" [ref=e58] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]:
+                - img [ref=e61] [cursor=pointer]
+                - generic [ref=e63] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e64] [cursor=pointer]:
+                - img [ref=e66] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e68] [cursor=pointer]:
+              - generic [ref=e69] [cursor=pointer]:
+                - img [ref=e71] [cursor=pointer]
+                - generic [ref=e73] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e74] [cursor=pointer]:
+              - generic [ref=e75] [cursor=pointer]:
+                - img [ref=e77] [cursor=pointer]
+                - generic [ref=e79] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e80] [cursor=pointer]:
+          - generic [ref=e81] [cursor=pointer]:
+            - img "schoolIcon" [ref=e82] [cursor=pointer]
+            - generic [ref=e83] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e84] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e86] [cursor=pointer]
+      - generic [ref=e90]:
+        - region "Задача для решения" [ref=e92] [cursor=pointer]:
+          - generic [ref=e95]:
+            - generic [ref=e97]:
+              - img [ref=e101]
+              - heading "Внеси числовой ответ в специально предназначенное поле." [level=4] [ref=e103]:
+                - generic [ref=e105]: Внеси числовой ответ в специально предназначенное поле.
+            - generic [ref=e107]:
+              - img "decore" [ref=e110]
+              - generic [ref=e116]:
+                - text: Пусть события
+                - generic [ref=e118]:
+                  - math [ref=e120]:
+                    - generic [ref=e123]: A
+                  - generic [ref=e126]: A
+                - text: и
+                - generic [ref=e128]:
+                  - math [ref=e130]:
+                    - generic [ref=e133]: B
+                  - generic [ref=e136]: B
+                - text: несовместны. Найди вероятность их объединения, если вероятность появления события
+                - generic [ref=e138]:
+                  - math [ref=e140]:
+                    - generic [ref=e143]: A
+                  - generic [ref=e146]: A
+                - text: равна
+                - generic [ref=e148]:
+                  - math [ref=e150]:
+                    - generic [ref=e152]:
+                      - generic [ref=e153]: "0"
+                      - generic [ref=e154]: ","
+                      - generic [ref=e155]: "24"
+                  - generic [ref=e157]:
+                    - generic [ref=e158]: "0"
+                    - generic [ref=e160]: ","
+                    - generic [ref=e161]: "24"
+                - text: ", а вероятность появления события"
+                - generic [ref=e163]:
+                  - math [ref=e165]:
+                    - generic [ref=e168]: B
+                  - generic [ref=e171]: B
+                - text: равна
+                - generic [ref=e173]:
+                  - math [ref=e175]:
+                    - generic [ref=e177]:
+                      - generic [ref=e178]: "0"
+                      - generic [ref=e179]: ","
+                      - generic [ref=e180]: "37"
+                  - generic [ref=e182]:
+                    - generic [ref=e183]: "0"
+                    - generic [ref=e185]: ","
+                    - generic [ref=e186]: "37"
+                - text: .
+            - generic [ref=e191]:
+              - strong [ref=e192]: "Ответ:"
+              - textbox [active] [ref=e193]
+              - text: .
+        - button "2 Взять 1 подсказку" [ref=e203] [cursor=pointer]:
+          - generic [ref=e206] [cursor=pointer]: "2"
+          - generic [ref=e207] [cursor=pointer]: Взять 1 подсказку
+        - button "Подтвердить и продолжить" [ref=e209] [cursor=pointer]:
+          - text: Подтвердить и продолжить
+          - img [ref=e212] [cursor=pointer]
+```

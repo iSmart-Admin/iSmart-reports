@@ -1,0 +1,125 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Заданий в уроке
+              - 'img "Название урока: Пишем поздравительную открытку к празднику 8 Марта" [ref=e32] [cursor=pointer]':
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+            - button "Редактировать урок" [ref=e48] [cursor=pointer]
+          - generic [ref=e49]:
+            - generic [ref=e50]:
+              - generic [ref=e51]: Отчёты и аналитика
+              - img "Для учителей" [ref=e52] [cursor=pointer]:
+                - img [ref=e54] [cursor=pointer]
+            - generic [ref=e56]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e57] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e58] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e60]:
+            - button "Заметки к уроку видны только вам" [ref=e61] [cursor=pointer]:
+              - generic [ref=e62] [cursor=pointer]:
+                - img [ref=e64] [cursor=pointer]
+                - generic [ref=e66] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e67] [cursor=pointer]:
+                - img [ref=e69] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e71] [cursor=pointer]:
+              - generic [ref=e72] [cursor=pointer]:
+                - img [ref=e74] [cursor=pointer]
+                - generic [ref=e76] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e77] [cursor=pointer]:
+              - generic [ref=e78] [cursor=pointer]:
+                - img [ref=e80] [cursor=pointer]
+                - generic [ref=e82] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e83] [cursor=pointer]:
+          - generic [ref=e84] [cursor=pointer]:
+            - img "schoolIcon" [ref=e85] [cursor=pointer]
+            - generic [ref=e86] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e87] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e89] [cursor=pointer]
+      - generic [ref=e93]:
+        - region "Задача для решения" [ref=e95] [cursor=pointer]:
+          - generic [ref=e98]:
+            - generic [ref=e100]:
+              - img [ref=e104]
+              - heading "Составь новогоднюю поздравительную открытку для мамы." [level=4] [ref=e106]:
+                - generic [ref=e108]:
+                  - text: Составь
+                  - strong [ref=e109]: новогоднюю поздравительную открытку для мамы
+                  - text: .
+            - img "decore" [ref=e114]
+            - generic [ref=e116]:
+              - generic [ref=e117]:
+                - generic [ref=e118]:
+                  - strong [ref=e130]: Обращение
+                  - button [ref=e136] [cursor=pointer]
+                - generic [ref=e137]:
+                  - strong [ref=e149]: Информация о том, с чем поздравляют
+                  - button [ref=e155] [cursor=pointer]
+                - generic [ref=e156]:
+                  - strong [ref=e168]: Пожелание
+                  - button [ref=e174] [cursor=pointer]
+                - generic [ref=e175]:
+                  - strong [ref=e187]: Подпись и дата
+                  - button [ref=e193] [cursor=pointer]
+              - generic [ref=e194]:
+                - button "Здравствуй, мама!" [ref=e197] [cursor=pointer]:
+                  - generic [ref=e203] [cursor=pointer]: Здравствуй, мама!
+                - button "Милая мамочка!" [ref=e206] [cursor=pointer]:
+                  - generic [ref=e212] [cursor=pointer]: Милая мамочка!
+                - button "Привет, мам!" [ref=e215] [cursor=pointer]:
+                  - generic [ref=e221] [cursor=pointer]: Привет, мам!
+                - button "Здоровья, счастья!" [ref=e224] [cursor=pointer]:
+                  - generic [ref=e230] [cursor=pointer]: Здоровья, счастья!
+                - button "Поздравляю тебя с наступающим Новым годом!" [ref=e233] [cursor=pointer]:
+                  - generic [ref=e239] [cursor=pointer]: Поздравляю тебя с наступающим Новым годом!
+                - button "Поздравляем!" [ref=e242] [cursor=pointer]:
+                  - generic [ref=e248] [cursor=pointer]: Поздравляем!
+                - button "Желаю тебе счастья, крепкого здоровья и радостных событий в Новом году." [ref=e251] [cursor=pointer]:
+                  - generic [ref=e257] [cursor=pointer]: Желаю тебе счастья, крепкого здоровья и радостных событий в Новом году.
+                - button "Будь здорова!" [ref=e260] [cursor=pointer]:
+                  - generic [ref=e266] [cursor=pointer]: Будь здорова!
+                - button "Будьте здоровы и счастливы в Новом году" [ref=e269] [cursor=pointer]:
+                  - generic [ref=e275] [cursor=pointer]: Будьте здоровы и счастливы в Новом году
+                - button "Рома Иванов. 29.12.2019" [ref=e278] [cursor=pointer]:
+                  - generic [ref=e284] [cursor=pointer]: Рома Иванов. 29.12.2019
+                - button "Твой любящий сын Рома. 29.12.2019" [ref=e287] [cursor=pointer]:
+                  - generic [ref=e293] [cursor=pointer]: Твой любящий сын Рома. 29.12.2019
+                - button "Роман Игоревич." [ref=e296] [cursor=pointer]:
+                  - generic [ref=e302] [cursor=pointer]: Роман Игоревич.
+        - button "2 Взять 1 подсказку" [ref=e311] [cursor=pointer]:
+          - generic [ref=e314] [cursor=pointer]: "2"
+          - generic [ref=e315] [cursor=pointer]: Взять 1 подсказку
+        - button "Подтвердить и продолжить" [ref=e317] [cursor=pointer]:
+          - text: Подтвердить и продолжить
+          - img [ref=e320] [cursor=pointer]
+```

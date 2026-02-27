@@ -1,0 +1,103 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Заданий в уроке
+              - 'img "Название урока: Соотношение «больше/меньше на/в»" [ref=e32] [cursor=pointer]':
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+            - button "Редактировать урок" [ref=e47] [cursor=pointer]
+          - generic [ref=e48]:
+            - generic [ref=e49]:
+              - generic [ref=e50]: Отчёты и аналитика
+              - img "Для учителей" [ref=e51] [cursor=pointer]:
+                - img [ref=e53] [cursor=pointer]
+            - generic [ref=e55]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e56] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e57] [cursor=pointer]:
+              - generic [ref=e58] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e59]:
+            - button "Заметки к уроку видны только вам" [ref=e60] [cursor=pointer]:
+              - generic [ref=e61] [cursor=pointer]:
+                - img [ref=e63] [cursor=pointer]
+                - generic [ref=e65] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e66] [cursor=pointer]:
+                - img [ref=e68] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e70] [cursor=pointer]:
+              - generic [ref=e71] [cursor=pointer]:
+                - img [ref=e73] [cursor=pointer]
+                - generic [ref=e75] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e76] [cursor=pointer]:
+              - generic [ref=e77] [cursor=pointer]:
+                - img [ref=e79] [cursor=pointer]
+                - generic [ref=e81] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e82] [cursor=pointer]:
+          - generic [ref=e83] [cursor=pointer]:
+            - img "schoolIcon" [ref=e84] [cursor=pointer]
+            - generic [ref=e85] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e86] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e88] [cursor=pointer]
+      - generic [ref=e92]:
+        - region "Задача для решения" [ref=e94] [cursor=pointer]:
+          - generic [ref=e97]:
+            - generic [ref=e99]:
+              - img [ref=e103]
+              - heading "Прочитай текст и заполни пропуски." [level=4] [ref=e105]:
+                - generic [ref=e107]: Прочитай текст и заполни пропуски.
+            - img "decore" [ref=e112]
+            - generic [ref=e120]:
+              - text: Если масса кошки равна
+              - generic [ref=e122]:
+                - math [ref=e124]:
+                  - generic [ref=e126]:
+                    - generic [ref=e127]: "4"
+                    - generic [ref=e128]: кг
+                - generic [ref=e130]:
+                  - generic [ref=e131]: "4"
+                  - generic [ref=e132]: кг
+              - text: ", а масса собаки равна"
+              - generic [ref=e134]:
+                - math [ref=e136]:
+                  - generic [ref=e138]:
+                    - generic [ref=e139]: "20"
+                    - generic [ref=e140]: кг
+                - generic [ref=e142]:
+                  - generic [ref=e143]: "20"
+                  - generic [ref=e144]: кг
+              - text: ", то кошка"
+              - button [ref=e146] [cursor=pointer]
+              - text: собаки в
+              - textbox [active] [ref=e147]
+              - text: раз.
+        - button "Подтвердить и продолжить" [ref=e153] [cursor=pointer]:
+          - text: Подтвердить и продолжить
+          - img [ref=e156] [cursor=pointer]
+```

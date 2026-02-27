@@ -1,0 +1,140 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Заданий в уроке
+              - 'img "Название урока: СССР в 30-е годы. Тенденции внутриполитического и культурного развития" [ref=e32] [cursor=pointer]':
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+              - button "11" [ref=e48] [cursor=pointer]
+              - button "12" [ref=e49] [cursor=pointer]
+              - button "13" [ref=e50] [cursor=pointer]
+              - button "14" [ref=e51] [cursor=pointer]
+              - button "15" [ref=e52] [cursor=pointer]
+              - button "16" [ref=e53] [cursor=pointer]
+              - button "17" [ref=e54] [cursor=pointer]
+              - button "18" [ref=e55] [cursor=pointer]
+              - button "19" [ref=e56] [cursor=pointer]
+              - button "20" [ref=e57] [cursor=pointer]
+              - button "21" [ref=e58] [cursor=pointer]
+              - button "22" [ref=e59] [cursor=pointer]
+              - button "23" [ref=e60] [cursor=pointer]
+              - button "24" [ref=e61] [cursor=pointer]
+              - button "25" [ref=e62] [cursor=pointer]
+              - button "26" [ref=e63] [cursor=pointer]
+              - button "27" [ref=e64] [cursor=pointer]
+              - button "28" [ref=e65] [cursor=pointer]
+              - button "29" [ref=e66] [cursor=pointer]
+              - button "30" [ref=e67] [cursor=pointer]
+              - button "31" [ref=e68] [cursor=pointer]
+              - button "32" [ref=e69] [cursor=pointer]
+              - button "33" [ref=e70] [cursor=pointer]
+              - button "34" [ref=e71] [cursor=pointer]
+              - button "35" [ref=e72] [cursor=pointer]
+              - button "36" [ref=e73] [cursor=pointer]
+              - button "37" [ref=e74] [cursor=pointer]
+              - button "38" [ref=e75] [cursor=pointer]
+              - button "39" [ref=e76] [cursor=pointer]
+              - button "40" [ref=e77] [cursor=pointer]
+              - button "41" [ref=e78] [cursor=pointer]
+              - button "42" [ref=e79] [cursor=pointer]
+              - button "43" [ref=e80] [cursor=pointer]
+              - button "44" [ref=e81] [cursor=pointer]
+              - button "45" [ref=e82] [cursor=pointer]
+              - button "46" [ref=e83] [cursor=pointer]
+              - button "47" [ref=e84] [cursor=pointer]
+              - button "48" [ref=e85] [cursor=pointer]
+              - button "49" [ref=e86] [cursor=pointer]
+              - button "50" [ref=e87] [cursor=pointer]
+              - button "51" [ref=e88] [cursor=pointer]
+              - button "52" [ref=e89] [cursor=pointer]
+              - button "53" [ref=e90] [cursor=pointer]
+              - button "54" [ref=e91] [cursor=pointer]
+              - button "55" [ref=e92] [cursor=pointer]
+              - button "56" [ref=e93] [cursor=pointer]
+              - button "57" [ref=e94] [cursor=pointer]
+              - button "58" [ref=e95] [cursor=pointer]
+              - button "59" [ref=e96] [cursor=pointer]
+              - button "60" [ref=e97] [cursor=pointer]
+              - button "61" [ref=e98] [cursor=pointer]
+            - button "Редактировать урок" [ref=e99] [cursor=pointer]
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - generic [ref=e102]: Отчёты и аналитика
+              - img "Для учителей" [ref=e103] [cursor=pointer]:
+                - img [ref=e105] [cursor=pointer]
+            - generic [ref=e107]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e108] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e109] [cursor=pointer]:
+              - generic [ref=e110] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e111]:
+            - button "Заметки к уроку видны только вам" [ref=e112] [cursor=pointer]:
+              - generic [ref=e113] [cursor=pointer]:
+                - img [ref=e115] [cursor=pointer]
+                - generic [ref=e117] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e118] [cursor=pointer]:
+                - img [ref=e120] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e122] [cursor=pointer]:
+              - generic [ref=e123] [cursor=pointer]:
+                - img [ref=e125] [cursor=pointer]
+                - generic [ref=e127] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e128] [cursor=pointer]:
+              - generic [ref=e129] [cursor=pointer]:
+                - img [ref=e131] [cursor=pointer]
+                - generic [ref=e133] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e134] [cursor=pointer]:
+          - generic [ref=e135] [cursor=pointer]:
+            - img "schoolIcon" [ref=e136] [cursor=pointer]
+            - generic [ref=e137] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e138] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e140] [cursor=pointer]
+      - generic [ref=e144]:
+        - region "Задача для решения" [ref=e146] [cursor=pointer]:
+          - generic [ref=e149]:
+            - generic [ref=e151]:
+              - img [ref=e155]
+              - heading "Выберите верный вариант ответа." [level=4] [ref=e157]:
+                - generic [ref=e159]: Выберите верный вариант ответа.
+            - generic [ref=e161]:
+              - img "decore" [ref=e164]
+              - generic [ref=e170]: Что было провозглашено в качестве экономической основы СССР по Конституции 1936 года?
+            - generic [ref=e173]:
+              - generic [ref=e177] [cursor=pointer]: Признание роли коммунистической партии в экономике
+              - generic [ref=e181] [cursor=pointer]: Социалистическая система хозяйства и социалистическая собственность на орудия и средства производства
+              - generic [ref=e185] [cursor=pointer]: Переход к новой экономической политике
+        - button "2 Взять 1 подсказку" [ref=e194] [cursor=pointer]:
+          - generic [ref=e197] [cursor=pointer]: "2"
+          - generic [ref=e198] [cursor=pointer]: Взять 1 подсказку
+        - button "Подтвердить и продолжить" [ref=e200] [cursor=pointer]:
+          - text: Подтвердить и продолжить
+          - img [ref=e203] [cursor=pointer]
+```

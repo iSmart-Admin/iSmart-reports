@@ -1,0 +1,94 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Заданий в уроке
+              - 'img "Название урока: Папоротникообразные. Особенности строения и жизнедеятельности плаунов, хвощей и папоротников" [ref=e32] [cursor=pointer]':
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+            - button "Редактировать урок" [ref=e41] [cursor=pointer]
+          - generic [ref=e42]:
+            - generic [ref=e43]:
+              - generic [ref=e44]: Отчёты и аналитика
+              - img "Для учителей" [ref=e45] [cursor=pointer]:
+                - img [ref=e47] [cursor=pointer]
+            - generic [ref=e49]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e50] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e51] [cursor=pointer]:
+              - generic [ref=e52] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e53]:
+            - button "Заметки к уроку видны только вам" [ref=e54] [cursor=pointer]:
+              - generic [ref=e55] [cursor=pointer]:
+                - img [ref=e57] [cursor=pointer]
+                - generic [ref=e59] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e60] [cursor=pointer]:
+                - img [ref=e62] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e64] [cursor=pointer]:
+              - generic [ref=e65] [cursor=pointer]:
+                - img [ref=e67] [cursor=pointer]
+                - generic [ref=e69] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e70] [cursor=pointer]:
+              - generic [ref=e71] [cursor=pointer]:
+                - img [ref=e73] [cursor=pointer]
+                - generic [ref=e75] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e76] [cursor=pointer]:
+          - generic [ref=e77] [cursor=pointer]:
+            - img "schoolIcon" [ref=e78] [cursor=pointer]
+            - generic [ref=e79] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e80] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e82] [cursor=pointer]
+      - generic [ref=e86]:
+        - region "Задача для решения" [ref=e88] [cursor=pointer]:
+          - generic [ref=e91]:
+            - generic [ref=e93]:
+              - img [ref=e97]
+              - heading "Установи соответствие между элементами." [level=4] [ref=e99]:
+                - generic [ref=e101]: Установи соответствие между элементами.
+            - generic [ref=e103]:
+              - img "decore" [ref=e106]
+              - generic [ref=e109]:
+                - img "b7.11.1t_жизненный _цикл_папоротника" [ref=e111]
+                - generic [ref=e114]: Это картинка строения папоротника. На ней отмечены разными цифрами структуры папоротника. Соотнеси цифру и структуру, которой она соответствует.
+            - generic [ref=e117]:
+              - img [ref=e118]
+              - generic [ref=e119]:
+                - generic [ref=e125] [cursor=pointer]: Вайя
+                - generic [ref=e132] [cursor=pointer]: "1"
+              - generic [ref=e133]:
+                - generic [ref=e139] [cursor=pointer]: Корневище
+                - generic [ref=e146] [cursor=pointer]: "2"
+              - generic [ref=e147]:
+                - generic [ref=e153] [cursor=pointer]: Молодой побег
+                - generic [ref=e160] [cursor=pointer]: "3"
+              - generic [ref=e161]:
+                - generic [ref=e167] [cursor=pointer]: Сорусы
+                - generic [ref=e174] [cursor=pointer]: "4"
+        - button "2 Взять 1 подсказку" [ref=e183] [cursor=pointer]:
+          - generic [ref=e186] [cursor=pointer]: "2"
+          - generic [ref=e187] [cursor=pointer]: Взять 1 подсказку
+        - button "Подтвердить и продолжить" [ref=e189] [cursor=pointer]:
+          - text: Подтвердить и продолжить
+          - img [ref=e192] [cursor=pointer]
+```

@@ -1,0 +1,124 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Заданий в уроке
+              - 'img "Название урока: Повторительно-обобщающий урок по теме «Человек в обществе»" [ref=e32] [cursor=pointer]':
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+              - button "11" [ref=e48] [cursor=pointer]
+              - button "12" [ref=e49] [cursor=pointer]
+              - button "13" [ref=e50] [cursor=pointer]
+              - button "14" [ref=e51] [cursor=pointer]
+              - button "15" [ref=e52] [cursor=pointer]
+              - button "16" [ref=e53] [cursor=pointer]
+              - button "17" [ref=e54] [cursor=pointer]
+              - button "18" [ref=e55] [cursor=pointer]
+              - button "19" [ref=e56] [cursor=pointer]
+              - button "20" [ref=e57] [cursor=pointer]
+              - button "21" [ref=e58] [cursor=pointer]
+              - button "22" [ref=e59] [cursor=pointer]
+              - button "23" [ref=e60] [cursor=pointer]
+              - button "24" [ref=e61] [cursor=pointer]
+              - button "25" [ref=e62] [cursor=pointer]
+              - button "26" [ref=e63] [cursor=pointer]
+              - button "27" [ref=e64] [cursor=pointer]
+              - button "28" [ref=e65] [cursor=pointer]
+              - button "29" [ref=e66] [cursor=pointer]
+              - button "30" [ref=e67] [cursor=pointer]
+              - button "31" [ref=e68] [cursor=pointer]
+              - button "32" [ref=e69] [cursor=pointer]
+              - button "33" [ref=e70] [cursor=pointer]
+              - button "34" [ref=e71] [cursor=pointer]
+              - button "35" [ref=e72] [cursor=pointer]
+              - button "36" [ref=e73] [cursor=pointer]
+              - button "37" [ref=e74] [cursor=pointer]
+              - button "38" [ref=e75] [cursor=pointer]
+              - button "39" [ref=e76] [cursor=pointer]
+              - button "40" [ref=e77] [cursor=pointer]
+              - button "41" [ref=e78] [cursor=pointer]
+              - button "42" [ref=e79] [cursor=pointer]
+              - button "43" [ref=e80] [cursor=pointer]
+            - button "Редактировать урок" [ref=e81] [cursor=pointer]
+          - generic [ref=e82]:
+            - generic [ref=e83]:
+              - generic [ref=e84]: Отчёты и аналитика
+              - img "Для учителей" [ref=e85] [cursor=pointer]:
+                - img [ref=e87] [cursor=pointer]
+            - generic [ref=e89]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e90] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e91] [cursor=pointer]:
+              - generic [ref=e92] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e93]:
+            - button "Заметки к уроку видны только вам" [ref=e94] [cursor=pointer]:
+              - generic [ref=e95] [cursor=pointer]:
+                - img [ref=e97] [cursor=pointer]
+                - generic [ref=e99] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e100] [cursor=pointer]:
+                - img [ref=e102] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e104] [cursor=pointer]:
+              - generic [ref=e105] [cursor=pointer]:
+                - img [ref=e107] [cursor=pointer]
+                - generic [ref=e109] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e110] [cursor=pointer]:
+              - generic [ref=e111] [cursor=pointer]:
+                - img [ref=e113] [cursor=pointer]
+                - generic [ref=e115] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e116] [cursor=pointer]:
+          - generic [ref=e117] [cursor=pointer]:
+            - img "schoolIcon" [ref=e118] [cursor=pointer]
+            - generic [ref=e119] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e120] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e122] [cursor=pointer]
+      - generic [ref=e126]:
+        - region "Задача для решения" [ref=e128] [cursor=pointer]:
+          - generic [ref=e131]:
+            - generic [ref=e133]:
+              - img [ref=e137]
+              - heading "Выберите все верные варианты ответа." [level=4] [ref=e139]:
+                - generic [ref=e141]: Выберите все верные варианты ответа.
+            - generic [ref=e143]:
+              - img "decore" [ref=e146]
+              - generic [ref=e152]: Выберите все признаки, которые характеризуют общество как систему?
+            - generic [ref=e157]:
+              - generic [ref=e159] [cursor=pointer]: Открытость
+              - generic [ref=e161] [cursor=pointer]: Автономность
+              - generic [ref=e163] [cursor=pointer]: Целостность
+              - generic [ref=e165] [cursor=pointer]: Завершённость
+              - generic [ref=e167] [cursor=pointer]: Динамичность
+        - button "2 Взять 1 подсказку" [ref=e176] [cursor=pointer]:
+          - generic [ref=e179] [cursor=pointer]: "2"
+          - generic [ref=e180] [cursor=pointer]: Взять 1 подсказку
+        - button "Подтвердить и продолжить" [ref=e182] [cursor=pointer]:
+          - text: Подтвердить и продолжить
+          - img [ref=e185] [cursor=pointer]
+```

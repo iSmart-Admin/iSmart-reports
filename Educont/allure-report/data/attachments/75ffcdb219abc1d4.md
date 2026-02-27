@@ -1,0 +1,261 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Геометрия
+      - generic [ref=e21]: Раздел для обучающихся по геометрии
+    - generic [ref=e22]:
+      - generic [ref=e26]:
+        - button "7" [ref=e27] [cursor=pointer]:
+          - img [ref=e31] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e33] [cursor=pointer]:
+          - img [ref=e37] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e39] [cursor=pointer]:
+          - img [ref=e43] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e45] [cursor=pointer]:
+          - img [ref=e49] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e51]:
+          - img [ref=e55]
+          - text: "11"
+      - generic [ref=e58]:
+        - generic [ref=e62]:
+          - img [ref=e65]
+          - textbox "Поиск по подтемам" [ref=e68]
+        - generic [ref=e69]:
+          - generic [ref=e70]:
+            - generic [ref=e71] [cursor=pointer]:
+              - generic [ref=e73] [cursor=pointer]: Темы
+              - button [ref=e75] [cursor=pointer]:
+                - img [ref=e77] [cursor=pointer]
+            - generic [ref=e80] [cursor=pointer]:
+              - generic [ref=e83] [cursor=pointer]: Тела вращения
+              - img [ref=e85] [cursor=pointer]
+            - generic [ref=e87] [cursor=pointer]:
+              - generic [ref=e90] [cursor=pointer]: Объёмы тел
+              - img [ref=e92] [cursor=pointer]
+            - generic [ref=e94] [cursor=pointer]:
+              - generic [ref=e97] [cursor=pointer]: Векторы и координаты в пространстве
+              - img [ref=e99] [cursor=pointer]
+            - generic [ref=e101] [cursor=pointer]:
+              - generic [ref=e104] [cursor=pointer]: Повторение, обобщение, систематизация знаний
+              - img [ref=e106] [cursor=pointer]
+          - generic [ref=e111]:
+            - generic [ref=e112]:
+              - generic [ref=e113]: Скачайте методическую презентацию к теме
+              - link "Скачать" [ref=e114] [cursor=pointer]:
+                - /url: https://ismart-files.storage.yandexcloud.net/documents/11-klass-Geometriya-Razdel-Tela-vrasheniya-Sfera-i-shar-centr-radius-diametr-ploshad-poverhnosti-sfe.pdf
+                - button "Скачать" [ref=e115] [cursor=pointer]:
+                  - text: Скачать
+                  - img [ref=e118] [cursor=pointer]
+            - generic [ref=e120]:
+              - link "1. Сфера и шар" [ref=e121] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/660ea63adc111a00071abb38/
+                - generic [ref=e122] [cursor=pointer]:
+                  - generic [ref=e124] [cursor=pointer]:
+                    - generic [ref=e126] [cursor=pointer]: "1."
+                    - paragraph [ref=e128] [cursor=pointer]: Сфера и шар
+                  - img [ref=e131] [cursor=pointer]
+              - link "2. Взаимное расположение сферы и плоскости" [ref=e133] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/660ea6d9dc111a00071abb75/
+                - generic [ref=e134] [cursor=pointer]:
+                  - generic [ref=e136] [cursor=pointer]:
+                    - generic [ref=e138] [cursor=pointer]: "2."
+                    - paragraph [ref=e140] [cursor=pointer]: Взаимное расположение сферы и плоскости
+                  - img [ref=e143] [cursor=pointer]
+              - link "3. Касательная плоскость к сфере" [ref=e145] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/69109fa430c7290007d280c1/
+                - generic [ref=e146] [cursor=pointer]:
+                  - generic [ref=e148] [cursor=pointer]:
+                    - generic [ref=e150] [cursor=pointer]: "3."
+                    - paragraph [ref=e152] [cursor=pointer]: Касательная плоскость к сфере
+                  - img [ref=e155] [cursor=pointer]
+              - link "4. Сечения шара и сферы" [ref=e157] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/660ea6e2dc111a00071abb85/
+                - generic [ref=e158] [cursor=pointer]:
+                  - generic [ref=e160] [cursor=pointer]:
+                    - generic [ref=e162] [cursor=pointer]: "4."
+                    - paragraph [ref=e164] [cursor=pointer]: Сечения шара и сферы
+                  - img [ref=e167] [cursor=pointer]
+              - link "5. Площадь поверхности сферы" [ref=e169] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/660ea64adc111a00071abb67/
+                - generic [ref=e170] [cursor=pointer]:
+                  - generic [ref=e172] [cursor=pointer]:
+                    - generic [ref=e174] [cursor=pointer]: "5."
+                    - paragraph [ref=e176] [cursor=pointer]: Площадь поверхности сферы
+                  - img [ref=e179] [cursor=pointer]
+              - link "6. Цилиндр" [ref=e181] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/660ea6ecdc111a00071abb95/
+                - generic [ref=e182] [cursor=pointer]:
+                  - generic [ref=e184] [cursor=pointer]:
+                    - generic [ref=e186] [cursor=pointer]: "6."
+                    - paragraph [ref=e188] [cursor=pointer]: Цилиндр
+                  - img [ref=e191] [cursor=pointer]
+              - link "7. Сечения цилиндра" [ref=e193] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/660ea798dc111a00071abbe8/
+                - generic [ref=e194] [cursor=pointer]:
+                  - generic [ref=e196] [cursor=pointer]:
+                    - generic [ref=e198] [cursor=pointer]: "7."
+                    - paragraph [ref=e200] [cursor=pointer]: Сечения цилиндра
+                  - img [ref=e203] [cursor=pointer]
+              - link "8. Развёртка цилиндра" [ref=e205] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/69109ff030c7290007d2855b/
+                - generic [ref=e206] [cursor=pointer]:
+                  - generic [ref=e208] [cursor=pointer]:
+                    - generic [ref=e210] [cursor=pointer]: "8."
+                    - paragraph [ref=e212] [cursor=pointer]: Развёртка цилиндра
+                  - img [ref=e215] [cursor=pointer]
+              - link "9. Площади боковой и полной поверхностей цилиндра" [ref=e217] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/660ea6f6dc111a00071abba5/
+                - generic [ref=e218] [cursor=pointer]:
+                  - generic [ref=e220] [cursor=pointer]:
+                    - generic [ref=e222] [cursor=pointer]: "9."
+                    - paragraph [ref=e224] [cursor=pointer]: Площади боковой и полной поверхностей цилиндра
+                  - img [ref=e227] [cursor=pointer]
+              - link "10. Конус" [ref=e229] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/660ea7a7dc111a00071abbf8/
+                - generic [ref=e230] [cursor=pointer]:
+                  - generic [ref=e232] [cursor=pointer]:
+                    - generic [ref=e234] [cursor=pointer]: "10."
+                    - paragraph [ref=e236] [cursor=pointer]: Конус
+                  - img [ref=e239] [cursor=pointer]
+              - link "11. Сечения конуса" [ref=e241] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/660ea7bbdc111a00071abc18/
+                - generic [ref=e242] [cursor=pointer]:
+                  - generic [ref=e244] [cursor=pointer]:
+                    - generic [ref=e246] [cursor=pointer]: "11."
+                    - paragraph [ref=e248] [cursor=pointer]: Сечения конуса
+                  - img [ref=e251] [cursor=pointer]
+              - link "12. Развёртка конуса" [ref=e253] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/6910a1ac30c7290007d2b736/
+                - generic [ref=e254] [cursor=pointer]:
+                  - generic [ref=e256] [cursor=pointer]:
+                    - generic [ref=e258] [cursor=pointer]: "12."
+                    - paragraph [ref=e260] [cursor=pointer]: Развёртка конуса
+                  - img [ref=e263] [cursor=pointer]
+              - link "13. Площади боковой и полной поверхностей конуса" [ref=e265] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/660ea7b1dc111a00071abc08/
+                - generic [ref=e266] [cursor=pointer]:
+                  - generic [ref=e268] [cursor=pointer]:
+                    - generic [ref=e270] [cursor=pointer]: "13."
+                    - paragraph [ref=e272] [cursor=pointer]: Площади боковой и полной поверхностей конуса
+                  - img [ref=e275] [cursor=pointer]
+              - link "14. Усечённый конус" [ref=e277] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/6927f25be3fc150007ffe6d1/
+                - generic [ref=e278] [cursor=pointer]:
+                  - generic [ref=e280] [cursor=pointer]:
+                    - generic [ref=e282] [cursor=pointer]: "14."
+                    - paragraph [ref=e284] [cursor=pointer]: Усечённый конус
+                  - img [ref=e287] [cursor=pointer]
+              - link "15. Многогранник, вписанные в сферу" [ref=e289] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/674da4ac398b220008963308/
+                - generic [ref=e290] [cursor=pointer]:
+                  - generic [ref=e292] [cursor=pointer]:
+                    - generic [ref=e294] [cursor=pointer]: "15."
+                    - paragraph [ref=e296] [cursor=pointer]: Многогранник, вписанные в сферу
+                  - img [ref=e299] [cursor=pointer]
+              - link "16. Многогранник, описанный около сферы" [ref=e301] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/69455d7218d48f0006a89c21/
+                - generic [ref=e302] [cursor=pointer]:
+                  - generic [ref=e304] [cursor=pointer]:
+                    - generic [ref=e306] [cursor=pointer]: "16."
+                    - paragraph [ref=e308] [cursor=pointer]: Многогранник, описанный около сферы
+                  - img [ref=e311] [cursor=pointer]
+              - link "17. Комбинация тел вращения и многогранников" [ref=e313] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/697486829962f80007dcc12e/
+                - generic [ref=e314] [cursor=pointer]:
+                  - generic [ref=e316] [cursor=pointer]:
+                    - generic [ref=e318] [cursor=pointer]: "17."
+                    - paragraph [ref=e320] [cursor=pointer]: Комбинация тел вращения и многогранников
+                  - img [ref=e323] [cursor=pointer]
+              - link "18. Сфера, вписанная в тело вращения" [ref=e325] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/69455d8c18d48f0006a8a433/
+                - generic [ref=e326] [cursor=pointer]:
+                  - generic [ref=e328] [cursor=pointer]:
+                    - generic [ref=e330] [cursor=pointer]: "18."
+                    - paragraph [ref=e332] [cursor=pointer]: Сфера, вписанная в тело вращения
+                  - img [ref=e335] [cursor=pointer]
+              - link "19. Сфера, описанная около тела вращения" [ref=e337] [cursor=pointer]:
+                - /url: /learn/662e9ec92ad9330007b1b572/662bb8cfa471430007e0064d/61890fee84e9f601793b0348/697764f09ab8120007448fca/
+                - generic [ref=e338] [cursor=pointer]:
+                  - generic [ref=e340] [cursor=pointer]:
+                    - generic [ref=e342] [cursor=pointer]: "19."
+                    - paragraph [ref=e344] [cursor=pointer]: Сфера, описанная около тела вращения
+                  - img [ref=e347] [cursor=pointer]
+  - generic [ref=e350]:
+    - generic [ref=e351]:
+      - generic [ref=e352]:
+        - generic [ref=e356]:
+          - img [ref=e358]
+          - link "8 (800) 600-44-02" [ref=e360] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e361]:
+          - generic [ref=e362]: "@"
+          - link "info@ismart.org" [ref=e363] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e364]:
+          - img [ref=e366]
+          - generic [ref=e368]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e369]:
+        - link "Наш сайт" [ref=e372] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e374] [cursor=pointer]
+        - generic [ref=e376]:
+          - link "Лицензия" [ref=e378] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e380] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e382] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e384] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e386] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e388]:
+      - generic [ref=e389]:
+        - link [ref=e390] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e394] [cursor=pointer]
+        - generic [ref=e397]:
+          - link "okIcon" [ref=e398] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e399] [cursor=pointer]
+          - link "dzenIcon" [ref=e400] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e401] [cursor=pointer]
+          - link "vkIcon" [ref=e402] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e403] [cursor=pointer]
+      - generic [ref=e405]:
+        - generic [ref=e407]:
+          - generic [ref=e408]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e409] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e410]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e411] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e412]:
+          - generic [ref=e413]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e414] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e415]: © iSmart, 2018-2026
+```

@@ -1,0 +1,145 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Заданий в уроке
+              - 'img "Название урока: Морфологический разбор имени существительного" [ref=e32] [cursor=pointer]':
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+            - button "Редактировать урок" [ref=e48] [cursor=pointer]
+          - generic [ref=e49]:
+            - generic [ref=e50]:
+              - generic [ref=e51]: Отчёты и аналитика
+              - img "Для учителей" [ref=e52] [cursor=pointer]:
+                - img [ref=e54] [cursor=pointer]
+            - generic [ref=e56]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e57] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e58] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e60]:
+            - button "Заметки к уроку видны только вам" [ref=e61] [cursor=pointer]:
+              - generic [ref=e62] [cursor=pointer]:
+                - img [ref=e64] [cursor=pointer]
+                - generic [ref=e66] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e67] [cursor=pointer]:
+                - img [ref=e69] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e71] [cursor=pointer]:
+              - generic [ref=e72] [cursor=pointer]:
+                - img [ref=e74] [cursor=pointer]
+                - generic [ref=e76] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e77] [cursor=pointer]:
+              - generic [ref=e78] [cursor=pointer]:
+                - img [ref=e80] [cursor=pointer]
+                - generic [ref=e82] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e83] [cursor=pointer]:
+          - generic [ref=e84] [cursor=pointer]:
+            - img "schoolIcon" [ref=e85] [cursor=pointer]
+            - generic [ref=e86] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e87] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e89] [cursor=pointer]
+      - generic [ref=e93]:
+        - region "Задача для решения" [ref=e95] [cursor=pointer]:
+          - generic [ref=e98]:
+            - generic [ref=e100]:
+              - img [ref=e104]
+              - heading "Сделай морфологический разбор имени существительного." [level=4] [ref=e106]:
+                - generic [ref=e108]: Сделай морфологический разбор имени существительного.
+            - generic [ref=e110]:
+              - img "decore" [ref=e113]
+              - heading "На лесной полянке ребята нашли душистую землянику." [level=3] [ref=e116]:
+                - text: На лесной полянке ребята нашли душистую
+                - strong [ref=e117]: землянику
+                - text: .
+            - table [ref=e124]:
+              - rowgroup [ref=e125]:
+                - row "1) Выпиши имя существительное." [ref=e126]:
+                  - cell "1) Выпиши имя существительное." [ref=e127]:
+                    - generic [ref=e129]: 1) Выпиши имя существительное.
+                  - cell [ref=e130]:
+                    - textbox [active] [ref=e133]
+                - row "2) Поставь его в начальную форму (единственное число, именительный падеж)." [ref=e134]:
+                  - cell "2) Поставь его в начальную форму (единственное число, именительный падеж)." [ref=e135]:
+                    - generic [ref=e137]: 2) Поставь его в начальную форму (единственное число, именительный падеж).
+                  - cell [ref=e138]:
+                    - textbox [ref=e141]
+                - row "3) Определи его постоянные признаки." [ref=e142]:
+                  - cell "3) Определи его постоянные признаки." [ref=e143]:
+                    - generic [ref=e145]: 3) Определи его постоянные признаки.
+                  - cell [ref=e146]
+                - row "одушевлённое или неодушевлённое" [ref=e147]:
+                  - cell "одушевлённое или неодушевлённое" [ref=e148]:
+                    - generic [ref=e150]: одушевлённое или неодушевлённое
+                  - cell [ref=e151]:
+                    - button [ref=e155] [cursor=pointer]
+                - row "собственное или нарицательное" [ref=e156]:
+                  - cell "собственное или нарицательное" [ref=e157]:
+                    - generic [ref=e159]: собственное или нарицательное
+                  - cell [ref=e160]:
+                    - button [ref=e164] [cursor=pointer]
+                - row "род" [ref=e165]:
+                  - cell "род" [ref=e166]:
+                    - generic [ref=e168]: род
+                  - cell [ref=e169]:
+                    - button [ref=e173] [cursor=pointer]
+                - row "склонение" [ref=e174]:
+                  - cell "склонение" [ref=e175]:
+                    - generic [ref=e177]: склонение
+                  - cell [ref=e178]:
+                    - button [ref=e182] [cursor=pointer]
+                - row "4) Употреблено в форме" [ref=e183]:
+                  - cell "4) Употреблено в форме" [ref=e184]:
+                    - generic [ref=e186]: 4) Употреблено в форме
+                  - cell [ref=e187]
+                - row "падеж" [ref=e188]:
+                  - cell "падеж" [ref=e189]:
+                    - generic [ref=e191]: падеж
+                  - cell [ref=e192]:
+                    - button [ref=e196] [cursor=pointer]
+                - row "число" [ref=e197]:
+                  - cell "число" [ref=e198]:
+                    - generic [ref=e200]: число
+                  - cell [ref=e201]:
+                    - button [ref=e205] [cursor=pointer]
+                - row "5) Определи, каким членом предложения является." [ref=e206]:
+                  - cell "5) Определи, каким членом предложения является." [ref=e207]:
+                    - generic [ref=e209]:
+                      - text: 5) Определи, каким членом
+                      - text: предложения является.
+                  - cell [ref=e210]:
+                    - button [ref=e214] [cursor=pointer]
+        - button "2 Взять 1 подсказку" [ref=e224] [cursor=pointer]:
+          - generic [ref=e227] [cursor=pointer]: "2"
+          - generic [ref=e228] [cursor=pointer]: Взять 1 подсказку
+        - button "Подтвердить и продолжить" [ref=e230] [cursor=pointer]:
+          - text: Подтвердить и продолжить
+          - img [ref=e233] [cursor=pointer]
+```

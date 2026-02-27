@@ -1,0 +1,219 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Заданий в уроке
+              - 'img "Название урока: Ускорение. Равноускоренное прямолинейное движение." [ref=e32] [cursor=pointer]':
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+              - button "11" [ref=e48] [cursor=pointer]
+              - button "12" [ref=e49] [cursor=pointer]
+              - button "13" [ref=e50] [cursor=pointer]
+            - button "Редактировать урок" [ref=e51] [cursor=pointer]
+          - generic [ref=e52]:
+            - generic [ref=e53]:
+              - generic [ref=e54]: Отчёты и аналитика
+              - img "Для учителей" [ref=e55] [cursor=pointer]:
+                - img [ref=e57] [cursor=pointer]
+            - generic [ref=e59]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e60] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e61] [cursor=pointer]:
+              - generic [ref=e62] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e63]:
+            - button "Заметки к уроку видны только вам" [ref=e64] [cursor=pointer]:
+              - generic [ref=e65] [cursor=pointer]:
+                - img [ref=e67] [cursor=pointer]
+                - generic [ref=e69] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e70] [cursor=pointer]:
+                - img [ref=e72] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e74] [cursor=pointer]:
+              - generic [ref=e75] [cursor=pointer]:
+                - img [ref=e77] [cursor=pointer]
+                - generic [ref=e79] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e80] [cursor=pointer]:
+              - generic [ref=e81] [cursor=pointer]:
+                - img [ref=e83] [cursor=pointer]
+                - generic [ref=e85] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e86] [cursor=pointer]:
+          - generic [ref=e87] [cursor=pointer]:
+            - img "schoolIcon" [ref=e88] [cursor=pointer]
+            - generic [ref=e89] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e90] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e92] [cursor=pointer]
+      - generic [ref=e96]:
+        - region "Задача для решения" [ref=e98] [cursor=pointer]:
+          - generic [ref=e101]:
+            - generic [ref=e103]:
+              - img [ref=e107]
+              - heading "Выбери верный вариант ответа." [level=4] [ref=e109]:
+                - generic [ref=e111]: Выбери верный вариант ответа.
+            - generic [ref=e113]:
+              - img "decore" [ref=e116]
+              - generic [ref=e122]:
+                - text: При посадке реактивного самолёта на пути
+                - generic [ref=e124]:
+                  - math [ref=e126]:
+                    - generic [ref=e128]:
+                      - generic [ref=e129]: "30"
+                      - generic [ref=e130]: м
+                  - generic [ref=e132]:
+                    - generic [ref=e133]: "30"
+                    - generic [ref=e134]: м
+                - text: его скорость уменьшилась от
+                - generic [ref=e136]:
+                  - math [ref=e138]:
+                    - generic [ref=e140]:
+                      - generic [ref=e141]: "20"
+                      - generic [ref=e142]: м
+                      - generic [ref=e143]: /
+                      - generic [ref=e144]: с
+                  - generic [ref=e146]:
+                    - generic [ref=e147]: "20"
+                    - generic [ref=e148]: м
+                    - generic [ref=e149]: /
+                    - generic [ref=e150]: с
+                - text: до
+                - generic [ref=e152]:
+                  - math [ref=e154]:
+                    - generic [ref=e156]:
+                      - generic [ref=e157]: "10"
+                      - generic [ref=e158]: м
+                      - generic [ref=e159]: /
+                      - generic [ref=e160]: с
+                  - generic [ref=e162]:
+                    - generic [ref=e163]: "10"
+                    - generic [ref=e164]: м
+                    - generic [ref=e165]: /
+                    - generic [ref=e166]: с
+                - text: . Чему равен модуль ускорения самолёта при торможении?
+            - generic [ref=e169]:
+              - generic [ref=e175] [cursor=pointer]:
+                - math [ref=e177] [cursor=pointer]:
+                  - generic [ref=e179] [cursor=pointer]:
+                    - generic [ref=e180] [cursor=pointer]: "3"
+                    - generic [ref=e181] [cursor=pointer]: ","
+                    - generic [ref=e182] [cursor=pointer]: "6"
+                    - generic [ref=e183] [cursor=pointer]: м
+                    - generic [ref=e184] [cursor=pointer]: /
+                    - generic [ref=e185] [cursor=pointer]:
+                      - generic [ref=e186] [cursor=pointer]: с
+                      - generic [ref=e187] [cursor=pointer]: "2"
+                - generic [ref=e189] [cursor=pointer]:
+                  - generic [ref=e190] [cursor=pointer]: "3"
+                  - generic [ref=e191] [cursor=pointer]: ","
+                  - generic [ref=e192] [cursor=pointer]: "6"
+                  - generic [ref=e194] [cursor=pointer]: м
+                  - generic [ref=e195] [cursor=pointer]: /
+                  - generic [ref=e196] [cursor=pointer]:
+                    - generic [ref=e197] [cursor=pointer]: с
+                    - generic [ref=e203] [cursor=pointer]: "2"
+              - generic [ref=e209] [cursor=pointer]:
+                - math [ref=e211] [cursor=pointer]:
+                  - generic [ref=e213] [cursor=pointer]:
+                    - generic [ref=e214] [cursor=pointer]: "0"
+                    - generic [ref=e215] [cursor=pointer]: ","
+                    - generic [ref=e216] [cursor=pointer]: "4"
+                    - generic [ref=e217] [cursor=pointer]: м
+                    - generic [ref=e218] [cursor=pointer]: /
+                    - generic [ref=e219] [cursor=pointer]:
+                      - generic [ref=e220] [cursor=pointer]: с
+                      - generic [ref=e221] [cursor=pointer]: "2"
+                - generic [ref=e223] [cursor=pointer]:
+                  - generic [ref=e224] [cursor=pointer]: "0"
+                  - generic [ref=e225] [cursor=pointer]: ","
+                  - generic [ref=e226] [cursor=pointer]: "4"
+                  - generic [ref=e228] [cursor=pointer]: м
+                  - generic [ref=e229] [cursor=pointer]: /
+                  - generic [ref=e230] [cursor=pointer]:
+                    - generic [ref=e231] [cursor=pointer]: с
+                    - generic [ref=e237] [cursor=pointer]: "2"
+              - generic [ref=e243] [cursor=pointer]:
+                - math [ref=e245] [cursor=pointer]:
+                  - generic [ref=e247] [cursor=pointer]:
+                    - generic [ref=e248] [cursor=pointer]: "5"
+                    - generic [ref=e249] [cursor=pointer]: м
+                    - generic [ref=e250] [cursor=pointer]: /
+                    - generic [ref=e251] [cursor=pointer]:
+                      - generic [ref=e252] [cursor=pointer]: с
+                      - generic [ref=e253] [cursor=pointer]: "2"
+                - generic [ref=e255] [cursor=pointer]:
+                  - generic [ref=e256] [cursor=pointer]: "5"
+                  - generic [ref=e258] [cursor=pointer]: м
+                  - generic [ref=e259] [cursor=pointer]: /
+                  - generic [ref=e260] [cursor=pointer]:
+                    - generic [ref=e261] [cursor=pointer]: с
+                    - generic [ref=e267] [cursor=pointer]: "2"
+              - generic [ref=e273] [cursor=pointer]:
+                - math [ref=e275] [cursor=pointer]:
+                  - generic [ref=e277] [cursor=pointer]:
+                    - generic [ref=e278] [cursor=pointer]: "18"
+                    - generic [ref=e279] [cursor=pointer]: м
+                    - generic [ref=e280] [cursor=pointer]: /
+                    - generic [ref=e281] [cursor=pointer]:
+                      - generic [ref=e282] [cursor=pointer]: с
+                      - generic [ref=e283] [cursor=pointer]: "2"
+                - generic [ref=e285] [cursor=pointer]:
+                  - generic [ref=e286] [cursor=pointer]: "18"
+                  - generic [ref=e288] [cursor=pointer]: м
+                  - generic [ref=e289] [cursor=pointer]: /
+                  - generic [ref=e290] [cursor=pointer]:
+                    - generic [ref=e291] [cursor=pointer]: с
+                    - generic [ref=e297] [cursor=pointer]: "2"
+              - generic [ref=e301] [cursor=pointer]:
+                - generic [ref=e303] [cursor=pointer]:
+                  - math [ref=e305] [cursor=pointer]:
+                    - generic [ref=e307] [cursor=pointer]:
+                      - generic [ref=e308] [cursor=pointer]: "1"
+                      - generic [ref=e309] [cursor=pointer]: ","
+                      - generic [ref=e310] [cursor=pointer]: "7"
+                      - generic [ref=e311] [cursor=pointer]: м
+                      - generic [ref=e312] [cursor=pointer]: /
+                      - generic [ref=e313] [cursor=pointer]:
+                        - generic [ref=e314] [cursor=pointer]: с
+                        - generic [ref=e315] [cursor=pointer]: "2"
+                  - generic [ref=e317] [cursor=pointer]:
+                    - generic [ref=e318] [cursor=pointer]: "1"
+                    - generic [ref=e319] [cursor=pointer]: ","
+                    - generic [ref=e320] [cursor=pointer]: "7"
+                    - generic [ref=e322] [cursor=pointer]: м
+                    - generic [ref=e323] [cursor=pointer]: /
+                    - generic [ref=e324] [cursor=pointer]:
+                      - generic [ref=e325] [cursor=pointer]: с
+                      - generic [ref=e331] [cursor=pointer]: "2"
+                - text: .
+        - button "2 Взять 1 подсказку" [ref=e340] [cursor=pointer]:
+          - generic [ref=e343] [cursor=pointer]: "2"
+          - generic [ref=e344] [cursor=pointer]: Взять 1 подсказку
+        - button "Подтвердить и продолжить" [ref=e346] [cursor=pointer]:
+          - text: Подтвердить и продолжить
+          - img [ref=e349] [cursor=pointer]
+```

@@ -1,0 +1,264 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [active] [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                  - button "4" [ref=e48] [cursor=pointer]
+                  - button "5" [ref=e51] [cursor=pointer]
+                  - button "6" [ref=e54] [cursor=pointer]
+                  - button "7" [ref=e57] [cursor=pointer]
+                  - button "8" [ref=e60] [cursor=pointer]
+                  - button "9" [ref=e63] [cursor=pointer]
+                  - button "10" [ref=e66] [cursor=pointer]
+                - generic [ref=e67]:
+                  - button [disabled] [ref=e68]:
+                    - img [ref=e70]
+                  - button [ref=e73] [cursor=pointer]:
+                    - img [ref=e75] [cursor=pointer]
+            - generic [ref=e77] [cursor=pointer]:
+              - generic [ref=e78] [cursor=pointer]:
+                - heading "Современный язык программирования - Python" [level=4] [ref=e79] [cursor=pointer]
+                - button [ref=e80] [cursor=pointer]:
+                  - img [ref=e82] [cursor=pointer]
+              - generic [ref=e84] [cursor=pointer]:
+                - generic [ref=e85] [cursor=pointer]:
+                  - generic [ref=e86] [cursor=pointer]: Откройте мир Python вместе с вашими учениками!
+                  - generic [ref=e87] [cursor=pointer]: Один клик — и вы узнаете, какие задания по программированию ждут ваших учеников!
+                - link "Посмотреть курс" [ref=e88] [cursor=pointer]:
+                  - /url: https://edu.ismart.org/educont/6aafc7b529815920d31b07dc
+                  - button "Посмотреть курс" [ref=e89] [cursor=pointer]:
+                    - img [ref=e92] [cursor=pointer]
+                    - text: Посмотреть курс
+            - generic [ref=e95]:
+              - generic [ref=e97]:
+                - img [ref=e101]
+                - heading "Выбери все верные варианты ответа." [level=4] [ref=e103]:
+                  - generic [ref=e105]: Выбери все верные варианты ответа.
+              - generic [ref=e107]:
+                - img "decore" [ref=e110]
+                - generic [ref=e113]:
+                  - generic [ref=e116]:
+                    - text: "На таинственной пятой планете в системе Медузы существуют три вида животных: Акулы (А), Бобры (Б) и Верблюды (В)."
+                    - text: Из-за необычных условий они все вырастают до разных размеров.
+                    - text: Размеры животных могут быть не больше
+                    - generic [ref=e118]:
+                      - math [ref=e120]:
+                        - generic [ref=e123]: "5"
+                      - generic [ref=e126]: "5"
+                    - text: и не меньше
+                    - generic [ref=e128]:
+                      - math [ref=e130]:
+                        - generic [ref=e133]: "2"
+                      - generic [ref=e136]: "2"
+                    - text: метров и всегда кратны целому числу.
+                    - text: На
+                    - strong [ref=e137]: Диаграмме
+                    - generic [ref=e139]:
+                      - math [ref=e141]:
+                        - generic [ref=e145]:
+                          - generic [ref=e146]: №
+                          - generic [ref=e147]: "1"
+                      - generic [ref=e151]:
+                        - generic [ref=e152]: №
+                        - generic [ref=e153]: "1"
+                    - text: отражено количество изучаемых животных с различными размерами.
+                    - text: На
+                    - strong [ref=e154]: Диаграмме
+                    - generic [ref=e156]:
+                      - math [ref=e158]:
+                        - generic [ref=e162]:
+                          - generic [ref=e163]: №
+                          - generic [ref=e164]: "2"
+                      - generic [ref=e168]:
+                        - generic [ref=e169]: №
+                        - generic [ref=e170]: "2"
+                    - text: отражено распределение изучаемых животных по видам.
+                    - text: Каждое животное принадлежит только одному виду и имеет только один размер.
+                  - generic [ref=e173]:
+                    - strong [ref=e174]: Диаграмма
+                    - generic [ref=e176]:
+                      - math [ref=e178]:
+                        - generic [ref=e182]:
+                          - generic [ref=e183]: №
+                          - generic [ref=e184]: "1"
+                      - generic [ref=e188]:
+                        - generic [ref=e189]: №
+                        - generic [ref=e190]: "1"
+                  - img "inf_7_text_visual_d1" [ref=e192]
+                  - generic [ref=e195]:
+                    - strong [ref=e196]: Диаграмма
+                    - generic [ref=e198]:
+                      - math [ref=e200]:
+                        - generic [ref=e204]:
+                          - generic [ref=e205]: №
+                          - generic [ref=e206]: "2"
+                      - generic [ref=e210]:
+                        - generic [ref=e211]: №
+                        - generic [ref=e212]: "2"
+                  - emphasis [ref=e213]:
+                    - img "inf_7_text_visual_d2" [ref=e215]
+                  - generic [ref=e218]:
+                    - text: "Отметь номера истинных высказываний:"
+                    - generic [ref=e220]:
+                      - math [ref=e222]:
+                        - generic [ref=e225]: "1."
+                      - generic [ref=e228]: "1."
+                    - text: Изучается
+                    - generic [ref=e230]:
+                      - math [ref=e232]:
+                        - generic [ref=e235]: "100"
+                      - generic [ref=e238]: "100"
+                    - text: животных.
+                    - generic [ref=e240]:
+                      - math [ref=e242]:
+                        - generic [ref=e245]: "2."
+                      - generic [ref=e248]: "2."
+                    - text: Изучается
+                    - generic [ref=e250]:
+                      - math [ref=e252]:
+                        - generic [ref=e255]: "50"
+                      - generic [ref=e258]: "50"
+                    - text: бобров.
+                    - generic [ref=e260]:
+                      - math [ref=e262]:
+                        - generic [ref=e265]: "3."
+                      - generic [ref=e268]: "3."
+                    - text: Изучается
+                    - generic [ref=e270]:
+                      - math [ref=e272]:
+                        - generic [ref=e275]: "25"
+                      - generic [ref=e278]: "25"
+                    - text: верблюдов.
+                    - generic [ref=e280]:
+                      - math [ref=e282]:
+                        - generic [ref=e285]: "4."
+                      - generic [ref=e288]: "4."
+                    - text: Все акулы могут быть размером
+                    - generic [ref=e290]:
+                      - math [ref=e292]:
+                        - generic [ref=e295]: "3"
+                      - generic [ref=e298]: "3"
+                    - text: метра.
+                    - generic [ref=e300]:
+                      - math [ref=e302]:
+                        - generic [ref=e305]: "5."
+                      - generic [ref=e308]: "5."
+                    - text: Все животные размером
+                    - generic [ref=e310]:
+                      - math [ref=e312]:
+                        - generic [ref=e315]: "3"
+                      - generic [ref=e318]: "3"
+                    - text: метра могут быть акулами.
+                    - generic [ref=e320]:
+                      - math [ref=e322]:
+                        - generic [ref=e325]: "6."
+                      - generic [ref=e328]: "6."
+                    - text: Все животные размером
+                    - generic [ref=e330]:
+                      - math [ref=e332]:
+                        - generic [ref=e335]: "3"
+                      - generic [ref=e338]: "3"
+                    - text: метра могут быть бобрами.
+                    - generic [ref=e340]:
+                      - math [ref=e342]:
+                        - generic [ref=e345]: "7."
+                      - generic [ref=e348]: "7."
+                    - text: Все верблюды могут быть размером
+                    - generic [ref=e350]:
+                      - math [ref=e352]:
+                        - generic [ref=e355]: "5"
+                      - generic [ref=e358]: "5"
+                    - text: метров.
+                    - generic [ref=e360]:
+                      - math [ref=e362]:
+                        - generic [ref=e365]: "8."
+                      - generic [ref=e368]: "8."
+                    - text: Все акулы могут быть размером
+                    - generic [ref=e370]:
+                      - math [ref=e372]:
+                        - generic [ref=e375]: "4"
+                      - generic [ref=e378]: "4"
+                    - text: метра.
+                    - generic [ref=e380]:
+                      - math [ref=e382]:
+                        - generic [ref=e385]: "9."
+                      - generic [ref=e388]: "9."
+                    - text: Все животные размером
+                    - generic [ref=e390]:
+                      - math [ref=e392]:
+                        - generic [ref=e395]: "2"
+                      - generic [ref=e398]: "2"
+                    - text: метра могут быть верблюдами.
+              - generic [ref=e403]:
+                - generic [ref=e405] [cursor=pointer]: "1"
+                - generic [ref=e407] [cursor=pointer]: "2"
+                - generic [ref=e409] [cursor=pointer]: "3"
+                - generic [ref=e411] [cursor=pointer]: "4"
+                - generic [ref=e413] [cursor=pointer]: "5"
+                - generic [ref=e415] [cursor=pointer]: "6"
+                - generic [ref=e417] [cursor=pointer]: "7"
+                - generic [ref=e419] [cursor=pointer]: "8"
+                - generic [ref=e421] [cursor=pointer]: "9"
+        - generic [ref=e426]:
+          - generic [ref=e429]:
+            - button [disabled] [ref=e431]:
+              - img [ref=e433]
+            - generic [ref=e436]: 100%
+            - button [ref=e438] [cursor=pointer]:
+              - img [ref=e440] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e445] [cursor=pointer]:
+            - generic [ref=e448] [cursor=pointer]: "2"
+            - generic [ref=e449] [cursor=pointer]: Показать подсказку
+      - generic [ref=e453]:
+        - generic [ref=e456]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e462] [cursor=pointer]:
+          - img [ref=e465] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e467]:
+          - generic [ref=e469]:
+            - button "Черновик" [ref=e470] [cursor=pointer]:
+              - img [ref=e473] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e476] [cursor=pointer]:
+              - img [ref=e479] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e481]:
+              - button "Часто задаваемые вопросы" [ref=e483] [cursor=pointer]:
+                - img [ref=e486] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e488]:
+                - button "Информация об уроке" [ref=e490] [cursor=pointer]:
+                  - img [ref=e493] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e495]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e496]:
+            - generic [ref=e497]:
+              - img [ref=e499]
+              - generic [ref=e501]: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e502] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e505] [cursor=pointer]
+```

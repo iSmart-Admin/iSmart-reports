@@ -1,0 +1,143 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Заданий в уроке
+              - 'img "Название урока: Свободное падение. Опыты Галилея." [ref=e32] [cursor=pointer]':
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+            - button "Редактировать урок" [ref=e47] [cursor=pointer]
+          - generic [ref=e48]:
+            - generic [ref=e49]:
+              - generic [ref=e50]: Отчёты и аналитика
+              - img "Для учителей" [ref=e51] [cursor=pointer]:
+                - img [ref=e53] [cursor=pointer]
+            - generic [ref=e55]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e56] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e57] [cursor=pointer]:
+              - generic [ref=e58] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e59]:
+            - button "Заметки к уроку видны только вам" [ref=e60] [cursor=pointer]:
+              - generic [ref=e61] [cursor=pointer]:
+                - img [ref=e63] [cursor=pointer]
+                - generic [ref=e65] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e66] [cursor=pointer]:
+                - img [ref=e68] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e70] [cursor=pointer]:
+              - generic [ref=e71] [cursor=pointer]:
+                - img [ref=e73] [cursor=pointer]
+                - generic [ref=e75] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e76] [cursor=pointer]:
+              - generic [ref=e77] [cursor=pointer]:
+                - img [ref=e79] [cursor=pointer]
+                - generic [ref=e81] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e82] [cursor=pointer]:
+          - generic [ref=e83] [cursor=pointer]:
+            - img "schoolIcon" [ref=e84] [cursor=pointer]
+            - generic [ref=e85] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e86] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e88] [cursor=pointer]
+      - generic [ref=e92]:
+        - region "Задача для решения" [ref=e94] [cursor=pointer]:
+          - generic [ref=e97]:
+            - generic [ref=e99]:
+              - img [ref=e103]
+              - heading "Выбери верный вариант ответа." [level=4] [ref=e105]:
+                - generic [ref=e107]: Выбери верный вариант ответа.
+            - generic [ref=e109]:
+              - img "decore" [ref=e112]
+              - generic [ref=e118]:
+                - text: От высокой скалы откололся и стал свободно падать камень. Какую скорость он будет иметь через
+                - generic [ref=e120]:
+                  - math [ref=e122]:
+                    - generic [ref=e124]:
+                      - generic [ref=e125]: "3"
+                      - generic [ref=e126]: с
+                  - generic [ref=e128]:
+                    - generic [ref=e129]: "3"
+                    - generic [ref=e130]: с
+                - text: от начала падения?
+            - generic [ref=e133]:
+              - generic [ref=e139] [cursor=pointer]:
+                - math [ref=e141] [cursor=pointer]:
+                  - generic [ref=e143] [cursor=pointer]:
+                    - generic [ref=e144] [cursor=pointer]: "30"
+                    - generic [ref=e145] [cursor=pointer]: м
+                    - generic [ref=e146] [cursor=pointer]: /
+                    - generic [ref=e147] [cursor=pointer]: с
+                - generic [ref=e149] [cursor=pointer]:
+                  - generic [ref=e150] [cursor=pointer]: "30"
+                  - generic [ref=e151] [cursor=pointer]: м
+                  - generic [ref=e152] [cursor=pointer]: /
+                  - generic [ref=e153] [cursor=pointer]: с
+              - generic [ref=e159] [cursor=pointer]:
+                - math [ref=e161] [cursor=pointer]:
+                  - generic [ref=e163] [cursor=pointer]:
+                    - generic [ref=e164] [cursor=pointer]: "10"
+                    - generic [ref=e165] [cursor=pointer]: м
+                    - generic [ref=e166] [cursor=pointer]: /
+                    - generic [ref=e167] [cursor=pointer]: с
+                - generic [ref=e169] [cursor=pointer]:
+                  - generic [ref=e170] [cursor=pointer]: "10"
+                  - generic [ref=e171] [cursor=pointer]: м
+                  - generic [ref=e172] [cursor=pointer]: /
+                  - generic [ref=e173] [cursor=pointer]: с
+              - generic [ref=e179] [cursor=pointer]:
+                - math [ref=e181] [cursor=pointer]:
+                  - generic [ref=e183] [cursor=pointer]:
+                    - generic [ref=e184] [cursor=pointer]: "3"
+                    - generic [ref=e185] [cursor=pointer]: м
+                    - generic [ref=e186] [cursor=pointer]: /
+                    - generic [ref=e187] [cursor=pointer]: с
+                - generic [ref=e189] [cursor=pointer]:
+                  - generic [ref=e190] [cursor=pointer]: "3"
+                  - generic [ref=e191] [cursor=pointer]: м
+                  - generic [ref=e192] [cursor=pointer]: /
+                  - generic [ref=e193] [cursor=pointer]: с
+              - generic [ref=e199] [cursor=pointer]:
+                - math [ref=e201] [cursor=pointer]:
+                  - generic [ref=e203] [cursor=pointer]:
+                    - generic [ref=e204] [cursor=pointer]: "2"
+                    - generic [ref=e205] [cursor=pointer]: м
+                    - generic [ref=e206] [cursor=pointer]: /
+                    - generic [ref=e207] [cursor=pointer]: с
+                - generic [ref=e209] [cursor=pointer]:
+                  - generic [ref=e210] [cursor=pointer]: "2"
+                  - generic [ref=e211] [cursor=pointer]: м
+                  - generic [ref=e212] [cursor=pointer]: /
+                  - generic [ref=e213] [cursor=pointer]: с
+        - button "2 Взять 1 подсказку" [ref=e222] [cursor=pointer]:
+          - generic [ref=e225] [cursor=pointer]: "2"
+          - generic [ref=e226] [cursor=pointer]: Взять 1 подсказку
+        - button "Подтвердить и продолжить" [ref=e228] [cursor=pointer]:
+          - text: Подтвердить и продолжить
+          - img [ref=e231] [cursor=pointer]
+```
