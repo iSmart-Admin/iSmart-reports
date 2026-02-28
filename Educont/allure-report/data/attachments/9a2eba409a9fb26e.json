@@ -1,0 +1,8 @@
+[
+  {
+    "url": "https://edu.ismart.org/trpc/educont.checkAndParseToken?batch=1&input=%7B%220%22%3A%7B%22token%22%3A%22eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6IjI2YWIyYjg5LWFlZzQtNmQ2Ny1kNmhjLTU5MDc2OTA3YjFkNi1zdHVkZW50YXV0b3Rlc3QiLCJyZWdpb24iOiI0MiIsInNjaG9vbElkIjoiNDIxNTAwMS05MjkiLCJzaG9ydFNjaG9vbE5hbWUiOiLQnNCR0J7QoyDCq9Ch0J7QqCDihJYgNzDCuyIsIm9rdG1vIjoiMzI3MDEwMDAiLCJvcmRlcklkIjoiXyIsImlzRWR1Y29udERldmVsb3BlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjVkMGJkM2Y1MWY1ZmZkYmVjNWIwMGRjNiIsInNlY3Rpb25Qcm92aWRlcklkIjoiMjRhMTAzN2QzOTY2MmJlZTU5ZjkxOGJkIiwidGhlbWVQcm92aWRlcklkIjoiMGNlYmY4OGM5YTZhNDE3YjdiMzdhZWVjIiwibGVzc29uUHJvdmlkZXJJZCI6ImU2Y2M0YzhkZDQyNmQzNGM0NDYwNTViOCIsImlhdCI6MTc3MjI1MDQ2Nn0.tUhE6NN4Qn1NX0h_yrjI1AcV_o24Ao3yPwT2h9OAHXM%22%2C%22lessonId%22%3A%22e6cc4c8dd426d34c446055b8%22%7D%7D",
+    "status": 500,
+    "payload": null,
+    "timestap": "28.02.2026, 06:47:49"
+  }
+]

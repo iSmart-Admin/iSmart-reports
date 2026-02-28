@@ -1,0 +1,684 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementProgressSave($elementId: String!, $practiceId: String, $code: String!, $signatures: [String!], $answer: String, $educontLessonId: String) {\n  courseElementProgressSave(\n    elementId: $elementId\n    practiceId: $practiceId\n    code: $code\n    signatures: $signatures\n    answer: $answer\n    educontLessonId: $educontLessonId\n  ) {\n    passed\n    recomendation\n  }\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "code": "",
+        "answer": "",
+        "signatures": null,
+        "educontLessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:37"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 4,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:38"
+  },
+  {
+    "url": "https://o271089.ingest.sentry.io/api/4505314407022592/envelope/?sentry_key=4a8e266f70be4d47affea7c6a2dc99d5&sentry_version=7&sentry_client=sentry.javascript.react%2F7.54.0",
+    "status": 429,
+    "payload": "{\"event_id\":\"c03d0d1ee35245fe95f29c83454f2542\",\"sent_at\":\"2026-02-28T03:45:38.248Z\",\"sdk\":{\"name\":\"sentry.javascript.react\",\"version\":\"7.54.0\"}}\n{\"type\":\"event\"}\n{\"exception\":{\"values\":[{\"type\":\"UnhandledRejection\",\"value\":\"Non-Error promise rejection captured with keys: code, message, service\",\"mechanism\":{\"type\":\"onunhandledrejection\",\"handled\":false,\"synthetic\":true}}]},\"extra\":{\"__serialized__\":{\"service\":\"GraphQL\",\"code\":500,\"message\":\"cannot execute UPDATE in a read-only transaction\"}},\"level\":\"error\",\"platform\":\"javascript\",\"event_id\":\"c03d0d1ee35245fe95f29c83454f2542\",\"timestamp\":1772250338.245,\"environment\":\"ismart-edu\",\"release\":\"7.10.3\",\"sdk\":{\"integrations\":[\"InboundFilters\",\"FunctionToString\",\"TryCatch\",\"Breadcrumbs\",\"GlobalHandlers\",\"LinkedErrors\",\"Dedupe\",\"HttpContext\",\"Replay\"],\"name\":\"sentry.javascript.react\",\"version\":\"7.54.0\",\"packages\":[{\"name\":\"npm:@sentry/react\",\"version\":\"7.54.0\"}]},\"breadcrumbs\":[{\"timestamp\":1772250334.714,\"category\":\"navigation\",\"data\":{\"from\":\"/educont/f4bbc15632dd0d4631a44442?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6IjY0YWQyYzIwLTBpZzYtOWI5OC1kODBiLTA3NjgxODgzZjNkMS1zdHVkZW50YXV0b3Rlc3QiLCJyZWdpb24iOiI0MiIsInNjaG9vbElkIjoiNDIxNTAwMS05MjkiLCJzaG9ydFNjaG9vbE5hbWUiOiLQnNCR0J7QoyDCq9Ch0J7QqCDihJYgNzDCuyIsIm9rdG1vIjoiMzI3MDEwMDAiLCJvcmRlcklkIjoiXyIsImlzRWR1Y29udERldmVsb3BlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjY2MzYwMTQ0ZmRjNzkzNWI4Mzg3ZGU0NyIsInNlY3Rpb25Qcm92aWRlcklkIjoiNzQzNWVjOTgwMGUyNjhkYWYwZDdmOWVjIiwidGhlbWVQcm92aWRlcklkIjoiYTU4MjNiNzg4NzA2ZDkyMTBlMjdhZTI5IiwibGVzc29uUHJvdmlkZXJJZCI6ImY0YmJjMTU2MzJkZDBkNDYzMWE0NDQ0MiIsImlhdCI6MTc3MjI1MDMzMn0.JCLRW26JV4LQNUn8rX-Mc8c6DkxMNqQAySq_vFw7dRE\",\"to\":\"/educont/f4bbc15632dd0d4631a44442\"}},{\"timestamp\":1772250334.883,\"category\":\"console\",\"data\":{\"arguments\":[\"socket connected!\"],\"logger\":\"console\"},\"level\":\"log\",\"message\":\"socket connected!\"},{\"timestamp\":1772250334.947,\"category\":\"fetch\",\"data\":{\"method\":\"POST\",\"url\":\"https://privacy-cs.mail.ru/fp/?id=7RoTkbuOHp4ZdhgYmAt46\",\"status_code\":200,\"request_body_size\":413},\"type\":\"http\"},{\"timestamp\":1772250335.023,\"category\":\"fetch\",\"data\":{\"method\":\"GET\",\"url\":\"/trpc/educont.checkAndParseToken?batch=1&input=%7B%220%22%3A%7B%22token%22%3A%22eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6IjY0YWQyYzIwLTBpZzYtOWI5OC1kODBiLTA3NjgxODgzZjNkMS1zdHVkZW50YXV0b3Rlc3QiLCJyZWdpb24iOiI0MiIsInNjaG9vbElkIjoiNDIxNTAwMS05MjkiLCJzaG9ydFNjaG9vbE5hbWUiOiLQnNCR0J7QoyDCq9Ch0J7QqCDihJYgNzDCuyIsIm9rdG1vIjoiMzI3MDEwMDAiLCJvcmRlcklkIjoiXyIsImlzRWR1Y29udERldmVsb3BlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjY2MzYwMTQ0ZmRjNzkzNWI4Mzg3ZGU0NyIsInNlY3Rpb25Qcm92aWRlcklkIjoiNzQzNWVjOTgwMGUyNjhkYWYwZDdmOWVjIiwidGhlbWVQcm92aWRlcklkIjoiYTU4MjNiNzg4NzA2ZDkyMTBlMjdhZTI5IiwibGVzc29uUHJvdmlkZXJJZCI6ImY0YmJjMTU2MzJkZDBkNDYzMWE0NDQ0MiIsImlhdCI6MTc3MjI1MDMzMn0.JCLRW26JV4LQNUn8rX-Mc8c6DkxMNqQAySq_vFw7dRE%22%2C%22lessonId%22%3A%22f4bbc15632dd0d4631a44442%22%7D%7D\",\"status_code\":200},\"type\":\"http\"},{\"timestamp\":1772250335.25,\"category\":\"fetch\",\"data\":{\"method\":\"GET\",\"url\":\"/trpc/educont.getLessonModulesWithStats?batch=1&input=%7B%220%22%3A%7B%22lessonId%22%3A%22f4bbc15632dd0d4631a44442%22%2C%22isPreview%22%3Afalse%7D%7D\",\"status_code\":200},\"type\":\"http\"},{\"timestamp\":1772250335.353,\"category\":\"navigation\",\"data\":{\"from\":\"/educont/f4bbc15632dd0d4631a44442\",\"to\":\"/educont/f4bbc15632dd0d4631a44442?moduleId=64467d88ca734de4d3e87716\"}},{\"timestamp\":1772250335.586,\"category\":\"ui.click\",\"message\":\"div.ismart-1maji07-Flexbox-container > button.ismart-1xgsq8b-Button-container\"},{\"timestamp\":1772250335.644,\"category\":\"fetch\",\"data\":{\"method\":\"GET\",\"url\":\"https://mc.yandex.ru/clmap/55346662?page-url=https%3A%2F%2Fedu.ismart.org%2Feducont%2Ff4bbc15632dd0d4631a44442%3FmoduleId%3D64467d88ca734de4d3e87716&pointer-click=rn%3A678069405%3Ax%3A32767%3Ay%3A31402%3At%3A21%3Ap%3A%3FAAAAAAA3%3AX%3A960%3AY%3A666&hidv2=886868127355240533&browser-info=u%3A1772250333371146486%3Av%3A2392%3Avf%3Acw41qwg7gq0rlp3zxxkvdzh0wk1jz%3Arqnl%3A1%3Ast%3A1772250336&t=gdpr(14)ti(1)\",\"status_code\":200,\"response_body_size\":43},\"type\":\"http\"},{\"timestamp\":1772250335.91,\"category\":\"ui.click\",\"message\":\"button.ismart-rqi6lk-Button-container > div.ismart-19ofc05-Flexbox-container\"},{\"timestamp\":1772250336.006,\"category\":\"navigation\",\"data\":{\"from\":\"/educont/f4bbc15632dd0d4631a44442?moduleId=64467d88ca734de4d3e87716\",\"to\":\"/educont/f4bbc15632dd0d4631a44442?moduleId=64467d88ca734de4d3e87716&unitId=64467d9cca734de4d3e87717\"}},{\"timestamp\":1772250336.06,\"category\":\"fetch\",\"data\":{\"method\":\"GET\",\"url\":\"https://mc.yandex.ru/clmap/55346662?page-url=https%3A%2F%2Fedu.ismart.org%2Feducont%2Ff4bbc15632dd0d4631a44442%3FmoduleId%3D64467d88ca734de4d3e87716&pointer-click=rn%3A605949000%3Ax%3A32778%3Ay%3A32767%3At%3A25%3Ap%3AA%3FAAAAAAA1AA2A1AA2AAAA%3AX%3A1114%3AY%3A269&hidv2=886868127355240533&browser-info=u%3A1772250333371146486%3Av%3A2392%3Avf%3Acw41qwg7gq0rlp3zxxkvdzh0wk1jz%3Arqnl%3A1%3Ast%3A1772250336&t=gdpr(14)ti(1)\",\"status_code\":200,\"response_body_size\":43},\"type\":\"http\"},{\"timestamp\":1772250336.103,\"category\":\"fetch\",\"data\":{\"method\":\"POST\",\"url\":\"https://privacy-cs.mail.ru/fp/?id=7RoTkbuOHp4ZdhgYmAt46\",\"status_code\":200,\"request_body_size\":785},\"type\":\"http\"},{\"timestamp\":1772250337.036,\"category\":\"ui.click\",\"message\":\"div.ismart-13yl031-Flexbox-container > span.ismart-acfdm2-Text-container\"},{\"timestamp\":1772250337.055,\"category\":\"navigation\",\"data\":{\"from\":\"/educont/f4bbc15632dd0d4631a44442?moduleId=64467d88ca734de4d3e87716&unitId=64467d9cca734de4d3e87717\",\"to\":\"/educont/f4bbc15632dd0d4631a44442?view=article&moduleId=64467d88ca734de4d3e87716&unitId=64467d9cca734de4d3e87717&elementId=64467dbeca734de4d3e87718\"}},{\"timestamp\":1772250337.083,\"category\":\"navigation\",\"data\":{\"from\":\"/educont/f4bbc15632dd0d4631a44442?view=article&moduleId=64467d88ca734de4d3e87716&unitId=64467d9cca734de4d3e87717&elementId=64467dbeca734de4d3e87718\",\"to\":\"/educont/f4bbc15632dd0d4631a44442?view=article&moduleId=64467d88ca734de4d3e87716&unitId=64467d9cca734de4d3e87717&elementId=64467dbeca734de4d3e87718\"}},{\"timestamp\":1772250337.091,\"category\":\"fetch\",\"data\":{\"method\":\"GET\",\"url\":\"https://mc.yandex.ru/clmap/55346662?page-url=https%3A%2F%2Fedu.ismart.org%2Feducont%2Ff4bbc15632dd0d4631a44442%3FmoduleId%3D64467d88ca734de4d3e87716%26unitId%3D64467d9cca734de4d3e87717&pointer-click=rn%3A543179736%3Ax%3A32149%3Ay%3A30036%3At%3A36%3Ap%3AWAA%3FAAAAAAA2A1AA2AAAA%3AX%3A234%3AY%3A256&hidv2=886868127355240533&browser-info=u%3A1772250333371146486%3Av%3A2392%3Avf%3Acw41qwg7gq0rlp3zxxkvdzh0wk1jz%3Arqnl%3A1%3Ast%3A1772250337&t=gdpr(14)ti(1)\",\"status_code\":200,\"response_body_size\":43},\"type\":\"http\"},{\"timestamp\":1772250337.156,\"category\":\"fetch\",\"data\":{\"method\":\"GET\",\"url\":\"/trpc/course.courseUnits,course.getCourseElementTask?batch=1&input=%7B%220%22%3A%7B%22objectId%22%3A%2264467d9cca734de4d3e87717%22%7D%2C%221%22%3A%7B%22elementObjectId%22%3A%2264467dbeca734de4d3e87718%22%7D%7D\",\"status_code\":200},\"type\":\"http\"},{\"timestamp\":1772250337.282,\"category\":\"fetch\",\"data\":{\"method\":\"GET\",\"url\":\"/trpc/course.courseUnits?batch=1&input=%7B%220%22%3A%7B%22objectId%22%3A%2264467d9cca734de4d3e87717%22%7D%7D\",\"status_code\":200},\"type\":\"http\"},{\"timestamp\":1772250337.473,\"category\":\"fetch\",\"data\":{\"method\":\"GET\",\"url\":\"https://mc.yandex.ru/watch/55346662?wmode=8\",\"status_code\":200,\"response_body_size\":157},\"type\":\"http\"},{\"timestamp\":1772250337.685,\"category\":\"ui.click\",\"message\":\"div.ismart-1sns66u-Flexbox-container > button.ismart-x88f6n-Button-container\"},{\"timestamp\":1772250337.694,\"category\":\"fetch\",\"data\":{\"method\":\"GET\",\"url\":\"https://mc.yandex.ru/clmap/55346662?page-url=https%3A%2F%2Fedu.ismart.org%2Feducont%2Ff4bbc15632dd0d4631a44442%3Fview%3Darticle%26moduleId%3D64467d88ca734de4d3e87716%26unitId%3D64467d9cca734de4d3e87717%26elementId%3D64467dbeca734de4d3e87718&pointer-click=rn%3A723784141%3Ax%3A32767%3Ay%3A32767%3At%3A42%3Ap%3A%3FA1AAAA1AA2AAAA%3AX%3A1801%3AY%3A64&hidv2=886868127355240533&browser-info=u%3A1772250333371146486%3Av%3A2392%3Avf%3Acw41qwg7gq0rlp3zxxkvdzh0wk1jz%3Arqnl%3A1%3Ast%3A1772250338&t=gdpr(14)ti(1)\",\"status_code\":200,\"response_body_size\":43},\"type\":\"http\"},{\"timestamp\":1772250337.762,\"category\":\"console\",\"data\":{\"arguments\":[{\"message\":\"\\nInvalid `DB_1.prisma.courseElementProgress.update()` invocation in\\n/usr/src/server/dist/resolvers/course/courseElementProgressSave.js:219:57\\n\\n  216     return code;\\n  217 };\\n  218 if (progressRes) {\\n→ 219     await DB_1.prisma.courseElementProgress.update(\\nError occurred during query execution:\\nConnectorError(ConnectorError { user_facing_error: None, kind: QueryError(PostgresError { code: \\\"25006\\\", message: \\\"cannot execute UPDATE in a read-only transaction\\\", severity: \\\"ERROR\\\", detail: None, column: None, hint: None }), transient: false }): {\\\"response\\\":{\\\"errors\\\":[{\\\"message\\\":\\\"\\\\nInvalid `DB_1.prisma.courseElementProgress.update()` invocation in\\\\n/usr/src/server/dist/resolvers/course/courseElementProgressSave.js:219:57\\\\n\\\\n  216     return code;\\\\n  217 };\\\\n  218 if (progressRes) {\\\\n→ 219     await DB_1.prisma.courseElementProgress.update(\\\\nError occurred during query execution:\\\\nConnectorError(ConnectorError { user_facing_error: None, kind: QueryError(PostgresError { code: \\\\\\\"25006\\\\\\\", message: \\\\\\\"cannot execute UPDATE in a read-only transaction\\\\\\\", severity: \\\\\\\"ERROR\\\\\\\", detail: None, column: None, hint: None }), transient: false })\\\",\\\"locations\\\":[{\\\"line\\\":2,\\\"column\\\":3}],\\\"path\\\":[\\\"courseElementProgressSave\\\"]}],\\\"data\\\":null,\\\"extensions\\\":{},\\\"status\\\":500},\\\"request\\\":{\\\"query\\\":\\\"mutation courseElementProgressSave($elementId: String!, $practiceId: String, $code: String!, $signatures: [String!], $answer: String, $educontLessonId: String) {\\\\n  courseElementProgressSave(\\\\n    elementId: $elementId\\\\n    practiceId: $practiceId\\\\n    code: $code\\\\n    signatures: $signatures\\\\n    answer: $answer\\\\n    educontLessonId: $educontLessonId\\\\n  ) {\\\\n    passed\\\\n    recomendation\\\\n  }\\\\n}\\\\n\\\",\\\"variables\\\":{\\\"elementId\\\":\\\"64467dbeca734de4d3e87718\\\",\\\"practiceId\\\":\\\"0\\\",\\\"code\\\":\\\"\\\",\\\"answer\\\":\\\"\\\",\\\"signatures\\\":null,\\\"educontLessonId\\\":\\\"f4bbc15632dd0d4631a44442\\\"}}}\",\"name\":\"Error\",\"stack\":\"Error: \\nInvalid `DB_1.prisma.courseElementProgress.update()` invocation in\\n/usr/src/server/dist/resolvers/course/courseElementProgressSave.js:219:57\\n\\n  216     return code;\\n  217 };\\n  218 if (progressRes) {\\n→ 219     await DB_1.prisma.courseElementProgress.update(\\nError occurred during query execution:\\nConnectorError(ConnectorError { user_facing_error: None, kind: QueryError(PostgresError { code: \\\"25006\\\", message: \\\"cannot execute UPDATE in a read-only transaction\\\", severity: \\\"ERROR\\\", detail: None, column: None, hint: None }), transient: false }): {\\\"response\\\":{\\\"errors\\\":[{\\\"message\\\":\\\"\\\\nInvalid `DB_1.prisma.courseElementProgress.update()` invocation in\\\\n/usr/src/server/dist/resolvers/course/courseElementProgressSave.js:219:57\\\\n\\\\n  216     return code;\\\\n  217 };\\\\n  218 if (progressRes) {\\\\n→ 219     await DB_1.prisma.courseElementProgress.update(\\\\nError occurred during query execution:\\\\nConnectorError(ConnectorError { user_facing_error: None, kind: QueryError(PostgresError { code: \\\\\\\"25006\\\\\\\", message: \\\\\\\"cannot execute UPDATE in a read-only transaction\\\\\\\", severity: \\\\\\\"ERROR\\\\\\\", detail: None, column: None, hint: None }), transient: false })\\\",\\\"locations\\\":[{\\\"line\\\":2,\\\"column\\\":3}],\\\"path\\\":[\\\"courseElementProgressSave\\\"]}],\\\"data\\\":null,\\\"extensions\\\":{},\\\"status\\\":500},\\\"request\\\":{\\\"query\\\":\\\"mutation courseElementProgressSave($elementId: String!, $practiceId: String, $code: String!, $signatures: [String!], $answer: String, $educontLessonId: String) {\\\\n  courseElementProgressSave(\\\\n    elementId: $elementId\\\\n    practiceId: $practiceId\\\\n    code: $code\\\\n    signatures: $signatures\\\\n    answer: $answer\\\\n    educontLessonId: $educontLessonId\\\\n  ) {\\\\n    passed\\\\n    recomendation\\\\n  }\\\\n}\\\\n\\\",\\\"variables\\\":{\\\"elementId\\\":\\\"64467dbeca734de4d3e87718\\\",\\\"practiceId\\\":\\\"0\\\",\\\"code\\\":\\\"\\\",\\\"answer\\\":\\\"\\\",\\\"signatures\\\":null,\\\"educontLessonId\\\":\\\"f4bbc15632dd0d4631a44442\\\"}}}\\n    at us.<anonymous> (https://edu.ismart.org/chunks/vendor-Dqui27qg.js:361:8422)\\n    at bs (https://edu.ismart.org/chunks/vendor-Dqui27qg.js:361:5835)\\n    at Object.next (https://edu.ismart.org/chunks/vendor-Dqui27qg.js:361:5062)\\n    at As (https://edu.ismart.org/chunks/vendor-Dqui27qg.js:361:4547)\",\"response\":\"[Object]\",\"request\":\"[Object]\"}],\"logger\":\"console\"},\"level\":\"log\",\"message\":\"Error: \\nInvalid `DB_1.prisma.courseElementProgress.update()` invocation in\\n/usr/src/server/dist/resolvers/course/courseElementProgressSave.js:219:57\\n\\n  216     return code;\\n  217 };\\n  218 if (progressRes) {\\n→ 219     await DB_1.prisma.courseElementProgress.update(\\nError occurred during query execution:\\nConnectorError(ConnectorError { user_facing_error: None, kind: QueryError(PostgresError { code: \\\"25006\\\", message: \\\"cannot execute UPDATE in a read-only transaction\\\", severity: \\\"ERROR\\\", detail: None, column: None, hint: None }), transient: false }): {\\\"response\\\":{\\\"errors\\\":[{\\\"message\\\":\\\"\\\\nInvalid `DB_1.prisma.courseElementProgress.update()` invocation in\\\\n/usr/src/server/dist/resolvers/course/courseElementProgressSave.js:219:57\\\\n\\\\n  216     return code;\\\\n  217 };\\\\n  218 if (progressRes) {\\\\n→ 219     await DB_1.prisma.courseElementProgress.update(\\\\nError occurred during query execution:\\\\nConnectorError(ConnectorError { user_facing_error: None, kind: QueryError(PostgresError { code: \\\\\\\"25006\\\\\\\", message: \\\\\\\"cannot execute UPDATE in a read-only transaction\\\\\\\", severity: \\\\\\\"ERROR\\\\\\\", detail: None, column: None, hint: None }), transient: false })\\\",\\\"locations\\\":[{\\\"line\\\":2,\\\"column\\\":3}],\\\"path\\\":[\\\"courseElementProgressSave\\\"]}],\\\"data\\\":null,\\\"extensions\\\":{},\\\"status\\\":500},\\\"request\\\":{\\\"query\\\":\\\"mutation courseElementProgressSave($elementId: String!, $practiceId: String, $code: String!, $signatures: [String!], $answer: String, $educontLessonId: String) {\\\\n  courseElementProgressSave(\\\\n    elementId: $elementId\\\\n    practiceId: $practiceId\\\\n    code: $code\\\\n    signatures: $signatures\\\\n    answer: $answer\\\\n    educontLessonId: $educontLessonId\\\\n  ) {\\\\n    passed\\\\n    recomendation\\\\n  }\\\\n}\\\\n\\\",\\\"variables\\\":{\\\"elementId\\\":\\\"64467dbeca734de4d3e87718\\\",\\\"practiceId\\\":\\\"0\\\",\\\"code\\\":\\\"\\\",\\\"answer\\\":\\\"\\\",\\\"signatures\\\":null,\\\"educontLessonId\\\":\\\"f4bbc15632dd0d4631a44442\\\"}}}\"},{\"timestamp\":1772250337.925,\"category\":\"fetch\",\"data\":{\"method\":\"GET\",\"url\":\"https://files.ismart.org/ismart.storage/assets/lottie/questionMark.json\",\"status_code\":200},\"type\":\"http\"},{\"timestamp\":1772250338.243,\"category\":\"console\",\"data\":{\"arguments\":[{\"message\":\"cannot execute UPDATE in a read-only transaction: {\\\"response\\\":{\\\"errors\\\":[{\\\"message\\\":\\\"cannot execute UPDATE in a read-only transaction\\\",\\\"locations\\\":[{\\\"line\\\":2,\\\"column\\\":3}],\\\"path\\\":[\\\"courseElementTimeSave\\\"]}],\\\"data\\\":null,\\\"extensions\\\":{},\\\"status\\\":500},\\\"request\\\":{\\\"query\\\":\\\"mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\\\\n  courseElementTimeSave(\\\\n    unitId: $unitId\\\\n    elementId: $elementId\\\\n    practiceId: $practiceId\\\\n    usedTime: $usedTime\\\\n    lessonId: $lessonId\\\\n  )\\\\n}\\\\n\\\",\\\"variables\\\":{\\\"elementId\\\":\\\"64467dbeca734de4d3e87718\\\",\\\"practiceId\\\":\\\"0\\\",\\\"unitId\\\":\\\"64467d9cca734de4d3e87717\\\",\\\"usedTime\\\":4,\\\"lessonId\\\":\\\"f4bbc15632dd0d4631a44442\\\"}}}\",\"name\":\"Error\",\"stack\":\"Error: cannot execute UPDATE in a read-only transaction: {\\\"response\\\":{\\\"errors\\\":[{\\\"message\\\":\\\"cannot execute UPDATE in a read-only transaction\\\",\\\"locations\\\":[{\\\"line\\\":2,\\\"column\\\":3}],\\\"path\\\":[\\\"courseElementTimeSave\\\"]}],\\\"data\\\":null,\\\"extensions\\\":{},\\\"status\\\":500},\\\"request\\\":{\\\"query\\\":\\\"mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\\\\n  courseElementTimeSave(\\\\n    unitId: $unitId\\\\n    elementId: $elementId\\\\n    practiceId: $practiceId\\\\n    usedTime: $usedTime\\\\n    lessonId: $lessonId\\\\n  )\\\\n}\\\\n\\\",\\\"variables\\\":{\\\"elementId\\\":\\\"64467dbeca734de4d3e87718\\\",\\\"practiceId\\\":\\\"0\\\",\\\"unitId\\\":\\\"64467d9cca734de4d3e87717\\\",\\\"usedTime\\\":4,\\\"lessonId\\\":\\\"f4bbc15632dd0d4631a44442\\\"}}}\\n    at us.<anonymous> (https://edu.ismart.org/chunks/vendor-Dqui27qg.js:361:8422)\\n    at bs (https://edu.ismart.org/chunks/vendor-Dqui27qg.js:361:5835)\\n    at Object.next (https://edu.ismart.org/chunks/vendor-Dqui27qg.js:361:5062)\\n    at As (https://edu.ismart.org/chunks/vendor-Dqui27qg.js:361:4547)\",\"response\":\"[Object]\",\"request\":\"[Object]\"}],\"logger\":\"console\"},\"level\":\"log\",\"message\":\"Error: cannot execute UPDATE in a read-only transaction: {\\\"response\\\":{\\\"errors\\\":[{\\\"message\\\":\\\"cannot execute UPDATE in a read-only transaction\\\",\\\"locations\\\":[{\\\"line\\\":2,\\\"column\\\":3}],\\\"path\\\":[\\\"courseElementTimeSave\\\"]}],\\\"data\\\":null,\\\"extensions\\\":{},\\\"status\\\":500},\\\"request\\\":{\\\"query\\\":\\\"mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\\\\n  courseElementTimeSave(\\\\n    unitId: $unitId\\\\n    elementId: $elementId\\\\n    practiceId: $practiceId\\\\n    usedTime: $usedTime\\\\n    lessonId: $lessonId\\\\n  )\\\\n}\\\\n\\\",\\\"variables\\\":{\\\"elementId\\\":\\\"64467dbeca734de4d3e87718\\\",\\\"practiceId\\\":\\\"0\\\",\\\"unitId\\\":\\\"64467d9cca734de4d3e87717\\\",\\\"usedTime\\\":4,\\\"lessonId\\\":\\\"f4bbc15632dd0d4631a44442\\\"}}}\"}],\"request\":{\"url\":\"https://edu.ismart.org/educont/f4bbc15632dd0d4631a44442?view=article&moduleId=64467d88ca734de4d3e87716&unitId=64467d9cca734de4d3e87717&elementId=64467dbeca734de4d3e87718\",\"headers\":{\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36\"}},\"tags\":{\"replayId\":\"0e0c87cdfa44432184a207bfdf0d4a44\"}}",
+    "timestap": "28.02.2026, 06:45:38"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 5,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:39"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 6,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:40"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 7,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:41"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 8,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:42"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 9,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:43"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 10,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:44"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 11,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:45"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 12,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:46"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 13,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:47"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 14,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:48"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 15,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:49"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 16,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:50"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 17,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:51"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 18,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:52"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 19,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:53"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 20,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:54"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 21,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:55"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 22,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:56"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 23,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:57"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 24,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:58"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 25,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:45:59"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 26,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:00"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 27,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:01"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 28,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:02"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 29,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:03"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 30,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:04"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 31,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:05"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 32,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:06"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 33,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:07"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 34,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:08"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 35,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:09"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 36,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:10"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 37,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:11"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 38,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:12"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 39,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:13"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 40,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:14"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 41,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:15"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 42,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:16"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 43,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:17"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 44,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:18"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 45,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:19"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 46,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:20"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementTimeSave($unitId: String!, $elementId: String!, $practiceId: String!, $usedTime: Float!, $lessonId: String) {\n  courseElementTimeSave(\n    unitId: $unitId\n    elementId: $elementId\n    practiceId: $practiceId\n    usedTime: $usedTime\n    lessonId: $lessonId\n  )\n}\n",
+      "variables": {
+        "elementId": "64467dbeca734de4d3e87718",
+        "practiceId": "0",
+        "unitId": "64467d9cca734de4d3e87717",
+        "usedTime": 47,
+        "lessonId": "f4bbc15632dd0d4631a44442"
+      }
+    },
+    "timestap": "28.02.2026, 06:46:21"
+  }
+]

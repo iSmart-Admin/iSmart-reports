@@ -1,0 +1,72 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - region "Задача для решения" [active] [ref=e25] [cursor=pointer]:
+          - generic [ref=e26] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e35]:
+              - generic [ref=e37]:
+                - img [ref=e41]
+                - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e43]:
+                  - generic [ref=e45]: Внеси ответ в специально предназначенное поле.
+              - generic [ref=e47]:
+                - img "decore" [ref=e50]
+                - generic [ref=e56]: Какая стилистическая фигура помогает автору создать образ пробуждающейся души в последней строфе стихотворения «Я помню чудное мгновенье…»?
+              - generic [ref=e61]:
+                - generic [ref=e62]: а
+                - textbox [ref=e64]
+                - textbox [ref=e66]
+                - textbox [ref=e68]
+                - textbox [ref=e70]
+                - textbox [ref=e72]
+                - generic [ref=e73]: а
+        - generic [ref=e78]:
+          - generic [ref=e81]:
+            - button [disabled] [ref=e83]:
+              - img [ref=e85]
+            - generic [ref=e88]: 100%
+            - button [ref=e90] [cursor=pointer]:
+              - img [ref=e92] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e97] [cursor=pointer]:
+            - generic [ref=e100] [cursor=pointer]: "2"
+            - generic [ref=e101] [cursor=pointer]: Показать подсказку
+      - generic [ref=e105]:
+        - generic [ref=e108]: Интеллектуальный тренажер
+        - generic [ref=e112]:
+          - generic [ref=e117]: 2 из 3
+          - generic [ref=e119]:
+            - generic [ref=e120]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e122] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - button "Черновик" [ref=e128] [cursor=pointer]:
+              - img [ref=e131] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e134] [cursor=pointer]:
+              - img [ref=e137] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e141] [cursor=pointer]:
+              - img [ref=e144] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e146]:
+            - generic [ref=e147]:
+              - img [ref=e149]
+              - generic [ref=e151]: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e152] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e155] [cursor=pointer]
+            - generic [ref=e158]: 69a2631b7e413700072a6a5e
+```
