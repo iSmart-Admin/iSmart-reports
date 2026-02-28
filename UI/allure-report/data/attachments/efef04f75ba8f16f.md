@@ -1,0 +1,190 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e8]:
+    - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+      - img [ref=e14] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e18]:
+      - generic [ref=e21]:
+        - generic [ref=e22]: Биология
+        - generic [ref=e24]: Подготовка к ВПР
+      - generic [ref=e28] [cursor=pointer]:
+        - img [ref=e30] [cursor=pointer]
+        - generic [ref=e32] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e34]:
+      - generic [ref=e38]:
+        - img [ref=e41]
+        - textbox "Поиск по подтемам" [ref=e44]
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - generic [ref=e47] [cursor=pointer]:
+            - generic [ref=e49] [cursor=pointer]: Темы
+            - button [ref=e51] [cursor=pointer]:
+              - img [ref=e53] [cursor=pointer]
+          - generic [ref=e56] [cursor=pointer]:
+            - generic [ref=e57] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]: Задание 1. Признаки растений. Разделы ботаники
+              - generic [ref=e63] [cursor=pointer]: 0 %
+            - img [ref=e65] [cursor=pointer]
+          - generic [ref=e67] [cursor=pointer]:
+            - generic [ref=e68] [cursor=pointer]:
+              - generic [ref=e70] [cursor=pointer]: Задание 2. Определение структур растений и их функции
+              - generic [ref=e74] [cursor=pointer]: 0 %
+            - img [ref=e76] [cursor=pointer]
+          - generic [ref=e78] [cursor=pointer]:
+            - generic [ref=e79] [cursor=pointer]:
+              - generic [ref=e81] [cursor=pointer]: Задание 3. Основные процессы жизнедеятельности растений. Работа с текстом
+              - generic [ref=e85] [cursor=pointer]: 0 %
+            - img [ref=e87] [cursor=pointer]
+          - generic [ref=e89] [cursor=pointer]:
+            - generic [ref=e90] [cursor=pointer]:
+              - generic [ref=e92] [cursor=pointer]: Задание 4. Строение и функции частей растения
+              - generic [ref=e96] [cursor=pointer]: 0 %
+            - img [ref=e98] [cursor=pointer]
+          - generic [ref=e100] [cursor=pointer]:
+            - generic [ref=e101] [cursor=pointer]:
+              - generic [ref=e103] [cursor=pointer]: Задание 5. Описание растений по схеме
+              - generic [ref=e107] [cursor=pointer]: 0 %
+            - img [ref=e109] [cursor=pointer]
+          - generic [ref=e111] [cursor=pointer]:
+            - generic [ref=e112] [cursor=pointer]:
+              - generic [ref=e114] [cursor=pointer]: Задание 6. Строение и жизнедеятельность растений. Эксперимент и предсказание результатов эксперимента
+              - generic [ref=e118] [cursor=pointer]: 0 %
+            - img [ref=e120] [cursor=pointer]
+          - generic [ref=e122] [cursor=pointer]:
+            - generic [ref=e123] [cursor=pointer]:
+              - generic [ref=e125] [cursor=pointer]: Задание 7. Строение и функции тканей и органов растений. Работа с микроскопическими объектами
+              - generic [ref=e129] [cursor=pointer]: 0 %
+            - img [ref=e131] [cursor=pointer]
+          - generic [ref=e133] [cursor=pointer]:
+            - generic [ref=e134] [cursor=pointer]:
+              - generic [ref=e136] [cursor=pointer]: Задание 8. Работа с информацией, представленной в табличной форме
+              - generic [ref=e140] [cursor=pointer]: 0 %
+            - img [ref=e142] [cursor=pointer]
+          - generic [ref=e144] [cursor=pointer]:
+            - generic [ref=e145] [cursor=pointer]:
+              - generic [ref=e147] [cursor=pointer]: Задание 9. Классификация растений
+              - generic [ref=e151] [cursor=pointer]: 0 %
+            - img [ref=e153] [cursor=pointer]
+          - generic [ref=e155] [cursor=pointer]:
+            - generic [ref=e156] [cursor=pointer]:
+              - generic [ref=e158] [cursor=pointer]: Задание 10. Органы растения и их классификация
+              - generic [ref=e162] [cursor=pointer]: 0 %
+            - img [ref=e164] [cursor=pointer]
+          - generic [ref=e166] [cursor=pointer]:
+            - generic [ref=e167] [cursor=pointer]:
+              - generic [ref=e169] [cursor=pointer]: Задание 11. Описание органов растений по схеме
+              - generic [ref=e173] [cursor=pointer]: 0 %
+            - img [ref=e175] [cursor=pointer]
+          - generic [ref=e177] [cursor=pointer]:
+            - generic [ref=e178] [cursor=pointer]:
+              - generic [ref=e180] [cursor=pointer]: Задание 12. Сравнение тканей растений
+              - generic [ref=e184] [cursor=pointer]: 0 %
+            - img [ref=e186] [cursor=pointer]
+          - generic [ref=e188] [cursor=pointer]:
+            - generic [ref=e189] [cursor=pointer]:
+              - generic [ref=e191] [cursor=pointer]: Задание 13. Строение и функции тканей и органов растения
+              - generic [ref=e195] [cursor=pointer]: 0 %
+            - img [ref=e197] [cursor=pointer]
+          - generic [ref=e199] [cursor=pointer]:
+            - generic [ref=e200] [cursor=pointer]:
+              - generic [ref=e202] [cursor=pointer]: Задание 14. Сравнение и сопоставление тканей и органов растения
+              - generic [ref=e206] [cursor=pointer]: 0 %
+            - img [ref=e208] [cursor=pointer]
+          - generic [ref=e210] [cursor=pointer]:
+            - generic [ref=e211] [cursor=pointer]:
+              - generic [ref=e213] [cursor=pointer]: Задание 15. Строение и связь органов растения между собой
+              - generic [ref=e217] [cursor=pointer]: 0 %
+            - img [ref=e219] [cursor=pointer]
+          - generic [ref=e221] [cursor=pointer]:
+            - generic [ref=e222] [cursor=pointer]:
+              - generic [ref=e224] [cursor=pointer]: Задание 16. Процессы жизнедеятельности растений
+              - generic [ref=e228] [cursor=pointer]: 0 %
+            - img [ref=e230] [cursor=pointer]
+        - generic [ref=e236]:
+          - generic [ref=e238] [cursor=pointer]:
+            - generic [ref=e239] [cursor=pointer]:
+              - generic [ref=e240] [cursor=pointer]:
+                - generic [ref=e242] [cursor=pointer]: "1."
+                - paragraph [ref=e244] [cursor=pointer]: Общие признаки растений
+              - img [ref=e248] [cursor=pointer]
+            - img [ref=e253] [cursor=pointer]
+          - generic [ref=e256] [cursor=pointer]:
+            - generic [ref=e257] [cursor=pointer]:
+              - generic [ref=e258] [cursor=pointer]:
+                - generic [ref=e260] [cursor=pointer]: "2."
+                - paragraph [ref=e262] [cursor=pointer]: Разделы ботаники
+              - img [ref=e266] [cursor=pointer]
+            - img [ref=e271] [cursor=pointer]
+          - generic [ref=e274] [cursor=pointer]:
+            - generic [ref=e275] [cursor=pointer]:
+              - generic [ref=e276] [cursor=pointer]:
+                - generic [ref=e278] [cursor=pointer]: "3."
+                - paragraph [ref=e280] [cursor=pointer]: Процессы жизнедеятельности растений
+              - img [ref=e284] [cursor=pointer]
+            - img [ref=e289] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e291]:
+        - generic [ref=e292]:
+          - generic [ref=e293]: Меню разработчика
+          - button [ref=e295] [cursor=pointer]:
+            - img [ref=e297] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e299] [cursor=pointer]
+        - button "Финальная статистика" [ref=e300] [cursor=pointer]
+      - generic [ref=e304]:
+        - generic [ref=e305]:
+          - region "Задача для решения" [ref=e307] [cursor=pointer]:
+            - generic [ref=e308] [cursor=pointer]:
+              - button "Вернуться обратно к подборке" [ref=e311] [cursor=pointer]:
+                - img [ref=e314] [cursor=pointer]
+                - text: Вернуться обратно к подборке
+              - generic [ref=e317]:
+                - generic [ref=e319]:
+                  - img [ref=e323]
+                  - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e325]:
+                    - generic [ref=e327]: Внесите ответ в специально предназначенное поле.
+                - generic [ref=e329]:
+                  - img "decore" [ref=e332]
+                  - generic [ref=e334]:
+                    - generic [ref=e338]: На представленной ниже схеме ученик зафиксировал один из процессов жизнедеятельности растений.
+                    - img "bio.v6.1.1u_Дыхание растений" [ref=e341]
+                    - generic [ref=e345]: Знание в области какой ботанической науки позволит ученику изучить данный процесс?
+                - generic [ref=e350]:
+                  - strong [ref=e351]: Ответ
+                  - text: ":"
+                  - textbox [active] [ref=e352]
+          - generic [ref=e358]:
+            - generic [ref=e361]:
+              - button [disabled] [ref=e363]:
+                - img [ref=e365]
+              - generic [ref=e368]: 100%
+              - button [ref=e370] [cursor=pointer]:
+                - img [ref=e372] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e377] [cursor=pointer]:
+              - generic [ref=e380] [cursor=pointer]: "2"
+              - generic [ref=e381] [cursor=pointer]: Показать подсказку
+        - generic [ref=e385]:
+          - generic [ref=e388]: Интеллектуальный тренажер
+          - generic [ref=e392]:
+            - generic [ref=e397]: 1 из 7
+            - button "Ввести код от учителя" [ref=e401] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e404]:
+            - generic [ref=e406]:
+              - button "Черновик" [ref=e407] [cursor=pointer]:
+                - img [ref=e410] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e413] [cursor=pointer]:
+                - img [ref=e416] [cursor=pointer]
+                - text: Сообщить об ошибке
+            - generic [ref=e418]:
+              - generic [ref=e419]:
+                - img [ref=e421]
+                - generic [ref=e423]: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e424] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e427] [cursor=pointer]
+              - generic [ref=e430]: 69a314db02390a0007f8f8a4
+```
