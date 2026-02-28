@@ -1,0 +1,128 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Кабинет ученика" [ref=e21] [cursor=pointer]:
+        - /url: /student/
+        - generic [ref=e24] [cursor=pointer]: Кабинет ученика
+      - link "Рейтинг" [ref=e27] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e30] [cursor=pointer]: Рейтинг
+      - link "Помощник" [ref=e33] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e36] [cursor=pointer]: Помощник
+      - link "Игра" [ref=e39] [cursor=pointer]:
+        - /url: /game
+        - generic [ref=e42] [cursor=pointer]: Игра
+      - link "Хогвартс Хогвартс" [ref=e45] [cursor=pointer]:
+        - /url: /hogwarts
+        - generic [ref=e48] [cursor=pointer]:
+          - img "Хогвартс" [ref=e50] [cursor=pointer]
+          - generic [ref=e51] [cursor=pointer]: Хогвартс
+    - generic [ref=e54]:
+      - generic [ref=e55]:
+        - generic [ref=e58] [cursor=pointer]: "911"
+        - generic [ref=e61]: "1560"
+      - button [ref=e63] [cursor=pointer]:
+        - img [ref=e65] [cursor=pointer]
+      - generic [ref=e67] [cursor=pointer]:
+        - generic [ref=e70] [cursor=pointer]: В
+        - generic [ref=e71] [cursor=pointer]:
+          - paragraph [ref=e72] [cursor=pointer]: Ученик
+          - paragraph [ref=e73] [cursor=pointer]: Валера
+        - img [ref=e75] [cursor=pointer]
+  - generic [ref=e79]:
+    - generic [ref=e80]:
+      - generic [ref=e82]:
+        - generic [ref=e85]: Валера
+        - generic [ref=e86]:
+          - generic [ref=e88] [cursor=pointer]:
+            - generic [ref=e89] [cursor=pointer]: 1 Р
+            - img [ref=e91] [cursor=pointer]
+          - generic [ref=e94]:
+            - generic [ref=e95] [cursor=pointer]:
+              - generic [ref=e96] [cursor=pointer]: Сезонный рейтинг
+              - img [ref=e98] [cursor=pointer]
+            - paragraph [ref=e100]: Рейтинг от 01 Сентября 2023
+      - generic [ref=e101]:
+        - generic [ref=e103]:
+          - button "Одноклассники" [ref=e104] [cursor=pointer]
+          - button "Параллельные классы" [ref=e105] [cursor=pointer]
+          - button "Школы" [ref=e106] [cursor=pointer]
+          - button "Топ-100" [ref=e107] [cursor=pointer]
+        - generic [ref=e108]:
+          - img [ref=e111] [cursor=pointer]
+          - generic [ref=e113]:
+            - button [ref=e114] [cursor=pointer]:
+              - img [ref=e116] [cursor=pointer]
+            - button [ref=e118] [cursor=pointer]:
+              - img [ref=e120] [cursor=pointer]
+    - generic [ref=e122]:
+      - heading "Рейтинги" [level=1] [ref=e124]
+      - paragraph [ref=e125]: Недостаточно данных. Рейтинг строится на результатах выполнения домашних и проверочных работ учениками государственных школ
+  - generic [ref=e127]:
+    - generic [ref=e128]:
+      - generic [ref=e129]:
+        - generic [ref=e133]:
+          - img [ref=e135]
+          - link "8 (800) 600-44-02" [ref=e137] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e138]:
+          - generic [ref=e139]: "@"
+          - link "info@ismart.org" [ref=e140] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e141]:
+          - img [ref=e143]
+          - generic [ref=e145]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e146]:
+        - link "Наш сайт" [ref=e149] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e151] [cursor=pointer]
+        - generic [ref=e153]:
+          - link "Лицензия" [ref=e155] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e157] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e159] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e161] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e163] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e165]:
+      - generic [ref=e166]:
+        - link [ref=e167] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e171] [cursor=pointer]
+        - generic [ref=e174]:
+          - link "okIcon" [ref=e175] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e176] [cursor=pointer]
+          - link "dzenIcon" [ref=e177] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e178] [cursor=pointer]
+          - link "vkIcon" [ref=e179] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e180] [cursor=pointer]
+      - generic [ref=e182]:
+        - generic [ref=e184]:
+          - generic [ref=e185]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e186] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e187]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e188] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e189]:
+          - generic [ref=e190]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e191] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e192]: © iSmart, 2018-2026
+```
