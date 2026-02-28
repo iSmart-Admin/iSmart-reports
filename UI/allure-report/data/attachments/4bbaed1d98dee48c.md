@@ -1,0 +1,126 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                  - button "4" [ref=e48] [cursor=pointer]
+                - generic [ref=e49]:
+                  - button [disabled] [ref=e50]:
+                    - img [ref=e52]
+                  - button [disabled] [ref=e55]:
+                    - img [ref=e57]
+            - generic [ref=e60]:
+              - generic [ref=e62]:
+                - img [ref=e66]
+                - heading "Внеси числовой ответ в специально предназначенное поле." [level=4] [ref=e68]:
+                  - generic [ref=e70]: Внеси числовой ответ в специально предназначенное поле.
+              - generic [ref=e72]:
+                - img "decore" [ref=e75]
+                - generic [ref=e81]:
+                  - text: Найди дисперсию числового набора
+                  - generic [ref=e83]:
+                    - math [ref=e85]:
+                      - generic [ref=e87]:
+                        - generic [ref=e88]: −
+                        - generic [ref=e89]: "1"
+                        - generic [ref=e90]: ","
+                        - generic [ref=e91]: "5"
+                        - generic [ref=e92]: ","
+                        - generic [ref=e93]: "0"
+                        - generic [ref=e94]: ","
+                        - generic [ref=e95]: "4"
+                        - generic [ref=e96]: ","
+                        - generic [ref=e97]: "2"
+                        - generic [ref=e98]: ","
+                        - generic [ref=e99]: −
+                        - generic [ref=e100]: "2"
+                        - generic [ref=e101]: ","
+                        - generic [ref=e102]: "2"
+                        - generic [ref=e103]: ","
+                        - generic [ref=e104]: "6"
+                    - generic [ref=e106]:
+                      - generic [ref=e107]: −
+                      - generic [ref=e108]: "1"
+                      - generic [ref=e109]: ","
+                      - generic [ref=e110]: "5"
+                      - generic [ref=e111]: ","
+                      - generic [ref=e112]: "0"
+                      - generic [ref=e113]: ","
+                      - generic [ref=e114]: "4"
+                      - generic [ref=e115]: ","
+                      - generic [ref=e116]: "2"
+                      - generic [ref=e117]: ","
+                      - generic [ref=e118]: −
+                      - generic [ref=e119]: "2"
+                      - generic [ref=e120]: ","
+                      - generic [ref=e121]: "2"
+                      - generic [ref=e122]: ","
+                      - generic [ref=e123]: "6"
+                  - text: .
+              - generic [ref=e128]:
+                - strong [ref=e129]: "Ответ:"
+                - textbox [active] [ref=e130]
+                - text: .
+        - generic [ref=e136]:
+          - generic [ref=e139]:
+            - button [disabled] [ref=e141]:
+              - img [ref=e143]
+            - generic [ref=e146]: 100%
+            - button [ref=e148] [cursor=pointer]:
+              - img [ref=e150] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e155] [cursor=pointer]:
+            - generic [ref=e158] [cursor=pointer]: "2"
+            - generic [ref=e159] [cursor=pointer]: Показать подсказку
+      - generic [ref=e163]:
+        - generic [ref=e166]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e172] [cursor=pointer]:
+          - img [ref=e175] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e177]:
+          - generic [ref=e179]:
+            - button "Черновик" [ref=e180] [cursor=pointer]:
+              - img [ref=e183] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e186] [cursor=pointer]:
+              - img [ref=e189] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e191]:
+              - button "Часто задаваемые вопросы" [ref=e193] [cursor=pointer]:
+                - img [ref=e196] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e198]:
+                - button "Информация об уроке" [ref=e200] [cursor=pointer]:
+                  - img [ref=e203] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e205]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e206]:
+            - generic [ref=e207]:
+              - img [ref=e209]
+              - generic [ref=e211]: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e212] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e215] [cursor=pointer]
+```
