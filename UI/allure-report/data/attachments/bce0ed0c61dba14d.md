@@ -1,0 +1,98 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - region "Задача для решения" [active] [ref=e25] [cursor=pointer]:
+          - generic [ref=e26] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e35]:
+              - generic [ref=e37]:
+                - img [ref=e41]
+                - heading "Заполни пропуски и выбери знак." [level=4] [ref=e43]:
+                  - generic [ref=e45]: Заполни пропуски и выбери знак.
+              - generic [ref=e47]:
+                - img "decore" [ref=e50]
+                - generic [ref=e53]:
+                  - generic [ref=e56]: Посчитай белок и бабочек и выбери верный знак сравнения.
+                  - table [ref=e58]:
+                    - rowgroup [ref=e59]:
+                      - row [ref=e60]:
+                        - cell [ref=e61]:
+                          - img [ref=e65]
+                        - cell [ref=e66]:
+                          - img [ref=e70]
+                        - cell [ref=e71]:
+                          - img [ref=e75]
+                        - cell [ref=e76]:
+                          - img [ref=e80]
+                        - cell [ref=e81]:
+                          - img [ref=e85]
+                        - cell [ref=e86]:
+                          - img [ref=e90]
+                      - row [ref=e91]:
+                        - cell [ref=e92]:
+                          - img [ref=e96]
+                        - cell [ref=e97]:
+                          - img [ref=e101]
+                        - cell [ref=e102]:
+                          - img [ref=e106]
+                        - cell [ref=e107]:
+                          - img [ref=e111]
+                        - cell [ref=e112]:
+                          - img [ref=e116]
+                        - cell [ref=e117]
+              - generic [ref=e125]:
+                - textbox [ref=e126]
+                - text: белок
+                - button [ref=e128] [cursor=pointer]
+                - textbox [ref=e129]
+                - text: бабочек
+        - generic [ref=e135]:
+          - generic [ref=e138]:
+            - button [disabled] [ref=e140]:
+              - img [ref=e142]
+            - generic [ref=e145]: 100%
+            - button [ref=e147] [cursor=pointer]:
+              - img [ref=e149] [cursor=pointer]
+          - button "1 Показать подсказку" [ref=e154] [cursor=pointer]:
+            - generic [ref=e157] [cursor=pointer]: "1"
+            - generic [ref=e158] [cursor=pointer]: Показать подсказку
+      - generic [ref=e162]:
+        - generic [ref=e165]: Интеллектуальный тренажер
+        - generic [ref=e169]:
+          - generic [ref=e174]: 1 из 5
+          - generic [ref=e176]:
+            - generic [ref=e177]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e179] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e182]:
+          - generic [ref=e184]:
+            - button "Черновик" [ref=e185] [cursor=pointer]:
+              - img [ref=e188] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e191] [cursor=pointer]:
+              - img [ref=e194] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e198] [cursor=pointer]:
+              - img [ref=e201] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e203]:
+            - generic [ref=e204]:
+              - img [ref=e206]
+              - generic [ref=e208]: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e209] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e212] [cursor=pointer]
+            - generic [ref=e215]: 69a312c99c341e0007dad562
+```
