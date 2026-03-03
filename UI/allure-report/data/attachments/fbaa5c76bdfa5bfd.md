@@ -1,0 +1,72 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - region "Задача для решения" [active] [ref=e25] [cursor=pointer]:
+          - generic [ref=e26] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e35]:
+              - generic [ref=e37]:
+                - img [ref=e41]
+                - heading "Установите соответствие между элементами." [level=4] [ref=e43]:
+                  - generic [ref=e45]: Установите соответствие между элементами.
+              - generic [ref=e47]:
+                - img "decore" [ref=e50]
+                - generic [ref=e56]: Соотнесите события в экономической политике СССР с изображениями.
+              - generic [ref=e59]:
+                - generic [ref=e60]:
+                  - img [ref=e66] [cursor=pointer]
+                  - generic [ref=e73] [cursor=pointer]: Новая экономическая политика
+                - generic [ref=e74]:
+                  - img [ref=e80] [cursor=pointer]
+                  - generic [ref=e87] [cursor=pointer]: Индустриализация
+                - generic [ref=e99] [cursor=pointer]: Коллективизация
+        - generic [ref=e104]:
+          - generic [ref=e107]:
+            - button [disabled] [ref=e109]:
+              - img [ref=e111]
+            - generic [ref=e114]: 100%
+            - button [ref=e116] [cursor=pointer]:
+              - img [ref=e118] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e123] [cursor=pointer]:
+            - generic [ref=e126] [cursor=pointer]: "2"
+            - generic [ref=e127] [cursor=pointer]: Показать подсказку
+      - generic [ref=e131]:
+        - generic [ref=e134]: Интеллектуальный тренажер
+        - generic [ref=e138]:
+          - generic [ref=e143]: 2 из 4
+          - generic [ref=e145]:
+            - generic [ref=e146]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e148] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e151]:
+          - generic [ref=e153]:
+            - button "Черновик" [ref=e154] [cursor=pointer]:
+              - img [ref=e157] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e160] [cursor=pointer]:
+              - img [ref=e163] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e167] [cursor=pointer]:
+              - img [ref=e170] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e172]:
+            - generic [ref=e173]:
+              - img [ref=e175]
+              - generic [ref=e177]: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e178] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e181] [cursor=pointer]
+            - generic [ref=e184]: 69a707ccb809e00007907368
+```

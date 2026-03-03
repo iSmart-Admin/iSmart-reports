@@ -1,0 +1,219 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e8]:
+    - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+      - img [ref=e14] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e18]:
+      - generic [ref=e21]:
+        - generic [ref=e22]: Биология
+        - generic [ref=e24]: Подготовка к ВПР
+      - generic [ref=e28] [cursor=pointer]:
+        - img [ref=e30] [cursor=pointer]
+        - generic [ref=e32] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e34]:
+      - generic [ref=e38]:
+        - img [ref=e41]
+        - textbox "Поиск по подтемам" [ref=e44]
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - generic [ref=e47] [cursor=pointer]:
+            - generic [ref=e49] [cursor=pointer]: Темы
+            - button [ref=e51] [cursor=pointer]:
+              - img [ref=e53] [cursor=pointer]
+          - generic [ref=e56] [cursor=pointer]:
+            - generic [ref=e57] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]: Задание 1. Систематические группы растений и принципы классификаций
+              - generic [ref=e63] [cursor=pointer]: 0 %
+            - img [ref=e65] [cursor=pointer]
+          - generic [ref=e67] [cursor=pointer]:
+            - generic [ref=e68] [cursor=pointer]:
+              - generic [ref=e70] [cursor=pointer]: Задание 2. Значение растений, бактерий и грибов в природе и жизни человека
+              - generic [ref=e74] [cursor=pointer]: 0 %
+            - img [ref=e76] [cursor=pointer]
+          - generic [ref=e78] [cursor=pointer]:
+            - generic [ref=e79] [cursor=pointer]:
+              - generic [ref=e81] [cursor=pointer]: Задание 3. Классификация растений
+              - generic [ref=e85] [cursor=pointer]: 0 %
+            - img [ref=e87] [cursor=pointer]
+          - generic [ref=e89] [cursor=pointer]:
+            - generic [ref=e90] [cursor=pointer]:
+              - generic [ref=e92] [cursor=pointer]: "Задание 4. Грибы, бактерии и лишайники: строение и основные процессы жизнедеятельности"
+              - generic [ref=e96] [cursor=pointer]: 0 %
+            - img [ref=e98] [cursor=pointer]
+          - generic [ref=e100] [cursor=pointer]:
+            - generic [ref=e101] [cursor=pointer]:
+              - generic [ref=e103] [cursor=pointer]: "Задание 5. Работа с текстом. Грибы, бактерии и лишайники: строение и основные процессы жизнедеятельности"
+              - generic [ref=e107] [cursor=pointer]: 0 %
+            - img [ref=e109] [cursor=pointer]
+          - generic [ref=e111] [cursor=pointer]:
+            - generic [ref=e112] [cursor=pointer]:
+              - generic [ref=e114] [cursor=pointer]: "Задание 6. Работа с изображением: выделение признаков объекта и определение его функций"
+              - generic [ref=e118] [cursor=pointer]: 0 %
+            - img [ref=e120] [cursor=pointer]
+          - generic [ref=e122] [cursor=pointer]:
+            - generic [ref=e123] [cursor=pointer]:
+              - generic [ref=e125] [cursor=pointer]: Задание 7. Систематические группы растений. Растения и среда обитания
+              - generic [ref=e129] [cursor=pointer]: 0 %
+            - img [ref=e131] [cursor=pointer]
+          - generic [ref=e133] [cursor=pointer]:
+            - generic [ref=e134] [cursor=pointer]:
+              - generic [ref=e136] [cursor=pointer]: Задание 8. Оценка достоверности биологической информации
+              - generic [ref=e140] [cursor=pointer]: 0 %
+            - img [ref=e142] [cursor=pointer]
+          - generic [ref=e144] [cursor=pointer]:
+            - generic [ref=e145] [cursor=pointer]:
+              - generic [ref=e147] [cursor=pointer]: Задание 9. Классификация организмов по разным основаниям
+              - generic [ref=e151] [cursor=pointer]: 0 %
+            - img [ref=e153] [cursor=pointer]
+          - generic [ref=e155] [cursor=pointer]:
+            - generic [ref=e156] [cursor=pointer]:
+              - generic [ref=e158] [cursor=pointer]: Задание 10. Среды обитания растений и развитие растительного мира
+              - generic [ref=e162] [cursor=pointer]: 0 %
+            - img [ref=e164] [cursor=pointer]
+          - generic [ref=e166] [cursor=pointer]:
+            - generic [ref=e167] [cursor=pointer]:
+              - generic [ref=e169] [cursor=pointer]: Задание 11. Систематические группы растений. Определение признаков отделов растений, классов и семейств цветковых растений
+              - generic [ref=e173] [cursor=pointer]: 0 %
+            - img [ref=e175] [cursor=pointer]
+          - generic [ref=e177] [cursor=pointer]:
+            - generic [ref=e178] [cursor=pointer]:
+              - generic [ref=e180] [cursor=pointer]: Задание 12. Определение признаков классов и семейств цветковых растений
+              - generic [ref=e184] [cursor=pointer]: 0 %
+            - img [ref=e186] [cursor=pointer]
+          - generic [ref=e188] [cursor=pointer]:
+            - generic [ref=e189] [cursor=pointer]:
+              - generic [ref=e191] [cursor=pointer]: Задание 13. Описание цветка растений
+              - generic [ref=e195] [cursor=pointer]: 0 %
+            - img [ref=e197] [cursor=pointer]
+          - generic [ref=e199] [cursor=pointer]:
+            - generic [ref=e200] [cursor=pointer]:
+              - generic [ref=e202] [cursor=pointer]: Задание 14. Определение признаков классов и семейств цветковых растений
+              - generic [ref=e206] [cursor=pointer]: 0 %
+            - img [ref=e208] [cursor=pointer]
+          - generic [ref=e210] [cursor=pointer]:
+            - generic [ref=e211] [cursor=pointer]:
+              - generic [ref=e213] [cursor=pointer]: Задание 15. Определение признаков классов и семейств цветковых растений
+              - generic [ref=e217] [cursor=pointer]: 0 %
+            - img [ref=e219] [cursor=pointer]
+          - generic [ref=e221] [cursor=pointer]:
+            - generic [ref=e222] [cursor=pointer]:
+              - generic [ref=e224] [cursor=pointer]: Задание 16. Определение признаков классов и семейств цветковых растений. Растения и человек
+              - generic [ref=e228] [cursor=pointer]: 0 %
+            - img [ref=e230] [cursor=pointer]
+          - generic [ref=e232] [cursor=pointer]:
+            - generic [ref=e233] [cursor=pointer]:
+              - generic [ref=e235] [cursor=pointer]: Задание 17. Растения и человек
+              - generic [ref=e239] [cursor=pointer]: 0 %
+            - img [ref=e241] [cursor=pointer]
+          - generic [ref=e243] [cursor=pointer]:
+            - generic [ref=e244] [cursor=pointer]:
+              - generic [ref=e246] [cursor=pointer]: Задание 18. Растения и человек
+              - generic [ref=e250] [cursor=pointer]: 0 %
+            - img [ref=e252] [cursor=pointer]
+          - generic [ref=e254] [cursor=pointer]:
+            - generic [ref=e255] [cursor=pointer]:
+              - generic [ref=e257] [cursor=pointer]: Задание 19. Растения и человек
+              - generic [ref=e261] [cursor=pointer]: 0 %
+            - img [ref=e263] [cursor=pointer]
+        - generic [ref=e269]:
+          - generic [ref=e271] [cursor=pointer]:
+            - generic [ref=e272] [cursor=pointer]:
+              - generic [ref=e273] [cursor=pointer]:
+                - generic [ref=e275] [cursor=pointer]: "1."
+                - paragraph [ref=e277] [cursor=pointer]: Классификация растений
+              - img [ref=e281] [cursor=pointer]
+            - img [ref=e286] [cursor=pointer]
+          - generic [ref=e289] [cursor=pointer]:
+            - generic [ref=e290] [cursor=pointer]:
+              - generic [ref=e291] [cursor=pointer]:
+                - generic [ref=e293] [cursor=pointer]: "2."
+                - paragraph [ref=e295] [cursor=pointer]: Принципы классификации растений
+              - img [ref=e299] [cursor=pointer]
+            - img [ref=e304] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e306]:
+        - generic [ref=e307]:
+          - generic [ref=e308]: Меню разработчика
+          - button [ref=e310] [cursor=pointer]:
+            - img [ref=e312] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e314] [cursor=pointer]
+        - button "Финальная статистика" [ref=e315] [cursor=pointer]
+        - button "Выйти из кода учителя" [ref=e316] [cursor=pointer]
+      - generic [ref=e320]:
+        - generic [ref=e321]:
+          - region "Задача для решения" [ref=e323] [cursor=pointer]:
+            - generic [ref=e324] [cursor=pointer]:
+              - button "Вернуться обратно к подборке" [ref=e327] [cursor=pointer]:
+                - img [ref=e330] [cursor=pointer]
+                - text: Вернуться обратно к подборке
+              - generic [ref=e333]:
+                - generic [ref=e335]:
+                  - img [ref=e339]
+                  - heading "Выберите верный вариант ответа в каждом выпадающем списке." [level=4] [ref=e341]:
+                    - generic [ref=e343]: Выберите верный вариант ответа в каждом выпадающем списке.
+                - generic [ref=e345]:
+                  - img "decore" [ref=e348]
+                  - generic [ref=e354]: Рассмотрите изображения представителей различных объектов живой природы. Укажите их названия, используя слова из выпадающего списка.
+                - generic [ref=e359]:
+                  - table [ref=e361]:
+                    - rowgroup [ref=e362]:
+                      - row "сосна хвощ" [ref=e363]:
+                        - cell "сосна" [ref=e364]:
+                          - img "сосна" [ref=e367]
+                        - cell "хвощ" [ref=e368]:
+                          - img "хвощ" [ref=e371]
+                      - row [ref=e372]:
+                        - cell [ref=e373]:
+                          - button [ref=e377] [cursor=pointer]
+                        - cell [ref=e378]:
+                          - button [ref=e382] [cursor=pointer]
+                  - table [ref=e384]:
+                    - rowgroup [ref=e385]:
+                      - row "водоросль вишня" [ref=e386]:
+                        - cell "водоросль" [ref=e387]:
+                          - img "водоросль" [ref=e390]
+                        - cell "вишня" [ref=e391]:
+                          - img "вишня" [ref=e394]
+                      - row [ref=e395]:
+                        - cell [ref=e396]:
+                          - button [ref=e400] [cursor=pointer]
+                        - cell [ref=e401]:
+                          - button [ref=e405] [cursor=pointer]
+          - generic [ref=e411]:
+            - generic [ref=e414]:
+              - button [disabled] [ref=e416]:
+                - img [ref=e418]
+              - generic [ref=e421]: 100%
+              - button [ref=e423] [cursor=pointer]:
+                - img [ref=e425] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e430] [cursor=pointer]:
+              - generic [ref=e433] [cursor=pointer]: "2"
+              - generic [ref=e434] [cursor=pointer]: Показать подсказку
+        - generic [ref=e438]:
+          - generic [ref=e441]: Интеллектуальный тренажер
+          - generic [ref=e445]:
+            - generic [ref=e450]: 1 из 4
+            - generic [ref=e454]:
+              - img [ref=e455]
+              - generic [ref=e457]: Вы вошли как ученик 9 «А»
+          - generic [ref=e458]:
+            - generic [ref=e460]:
+              - button "Черновик" [ref=e461] [cursor=pointer]:
+                - img [ref=e464] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e467] [cursor=pointer]:
+                - img [ref=e470] [cursor=pointer]
+                - text: Сообщить об ошибке
+            - generic [ref=e472]:
+              - generic [ref=e473]:
+                - img [ref=e475]
+                - generic [ref=e477]: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e478] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e481] [cursor=pointer]
+              - generic [ref=e484]: 69a70a4c7c6b540007f37638
+```

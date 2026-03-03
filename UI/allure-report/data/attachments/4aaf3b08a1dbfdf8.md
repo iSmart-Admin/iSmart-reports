@@ -1,0 +1,65 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - region "Задача для решения" [ref=e25] [cursor=pointer]:
+          - generic [ref=e26] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e35]:
+              - generic [ref=e37]:
+                - img [ref=e41]
+                - heading "Реши пример." [level=4] [ref=e43]:
+                  - generic [ref=e45]: Реши пример.
+              - img "decore" [ref=e50]
+              - heading "2 • 9 =" [level=2] [ref=e55]:
+                - text: 2 • 9 =
+                - textbox [active] [ref=e56]
+        - generic [ref=e62]:
+          - generic [ref=e65]:
+            - button [disabled] [ref=e67]:
+              - img [ref=e69]
+            - generic [ref=e72]: 100%
+            - button [ref=e74] [cursor=pointer]:
+              - img [ref=e76] [cursor=pointer]
+          - button "1 Показать подсказку" [ref=e81] [cursor=pointer]:
+            - generic [ref=e84] [cursor=pointer]: "1"
+            - generic [ref=e85] [cursor=pointer]: Показать подсказку
+      - generic [ref=e89]:
+        - generic [ref=e92]: Интеллектуальный тренажер
+        - generic [ref=e96]:
+          - generic [ref=e101]: 1 из 5
+          - generic [ref=e103]:
+            - generic [ref=e104]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e106] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e109]:
+          - generic [ref=e111]:
+            - button "Черновик" [ref=e112] [cursor=pointer]:
+              - img [ref=e115] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e118] [cursor=pointer]:
+              - img [ref=e121] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e125] [cursor=pointer]:
+              - img [ref=e128] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e130]:
+            - generic [ref=e131]:
+              - img [ref=e133]
+              - generic [ref=e135]: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e136] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e139] [cursor=pointer]
+            - generic [ref=e142]: 69a709f77c6b540007f34547
+```
