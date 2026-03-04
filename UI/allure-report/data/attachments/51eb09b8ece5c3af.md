@@ -1,0 +1,172 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Диагностика для 5 класса
+    - generic [ref=e22]:
+      - generic [ref=e26]:
+        - img [ref=e29]
+        - textbox "Поиск по подтемам" [ref=e32]
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - generic [ref=e35] [cursor=pointer]:
+            - generic [ref=e37] [cursor=pointer]: Темы
+            - button [ref=e39] [cursor=pointer]:
+              - img [ref=e41] [cursor=pointer]
+          - generic [ref=e43] [cursor=pointer]:
+            - generic [ref=e46] [cursor=pointer]: Кейс № 1
+            - img [ref=e48] [cursor=pointer]
+          - generic [ref=e50] [cursor=pointer]:
+            - generic [ref=e53] [cursor=pointer]: Кейс № 2
+            - img [ref=e55] [cursor=pointer]
+          - generic [ref=e57] [cursor=pointer]:
+            - generic [ref=e60] [cursor=pointer]: Кейс № 3
+            - img [ref=e62] [cursor=pointer]
+          - generic [ref=e64] [cursor=pointer]:
+            - generic [ref=e67] [cursor=pointer]: Кейс № 4
+            - img [ref=e69] [cursor=pointer]
+          - generic [ref=e71] [cursor=pointer]:
+            - generic [ref=e74] [cursor=pointer]: Кейс № 5
+            - img [ref=e76] [cursor=pointer]
+          - generic [ref=e78] [cursor=pointer]:
+            - generic [ref=e81] [cursor=pointer]: Кейс № 6
+            - img [ref=e83] [cursor=pointer]
+          - generic [ref=e85] [cursor=pointer]:
+            - generic [ref=e88] [cursor=pointer]: Кейс № 7
+            - img [ref=e90] [cursor=pointer]
+          - generic [ref=e92] [cursor=pointer]:
+            - generic [ref=e95] [cursor=pointer]: Кейс № 8
+            - img [ref=e97] [cursor=pointer]
+          - generic [ref=e100] [cursor=pointer]:
+            - generic [ref=e103] [cursor=pointer]: Кейс № 9
+            - img [ref=e105] [cursor=pointer]
+        - generic [ref=e111]:
+          - link "1. Нахождение площади геометрических фигур" [ref=e112] [cursor=pointer]:
+            - /url: /learn/6985a4d91f47540007c8222d/69835fb71e00ce0007543603/5ef1b652250d56001b4f771b/637a10da6f0a53e500835b3a/
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e115] [cursor=pointer]:
+                - generic [ref=e117] [cursor=pointer]: "1."
+                - paragraph [ref=e119] [cursor=pointer]: Нахождение площади геометрических фигур
+              - img [ref=e122] [cursor=pointer]
+          - link "2. Умножение и деление различных единиц измерения площади на число" [ref=e124] [cursor=pointer]:
+            - /url: /learn/6985a4d91f47540007c8222d/69835fb71e00ce0007543603/5ef1b652250d56001b4f771b/637a10f36f0a53d875835ca0/
+            - generic [ref=e125] [cursor=pointer]:
+              - generic [ref=e127] [cursor=pointer]:
+                - generic [ref=e129] [cursor=pointer]: "2."
+                - paragraph [ref=e131] [cursor=pointer]: Умножение и деление различных единиц измерения площади на число
+              - img [ref=e134] [cursor=pointer]
+          - link "3. Как будет выглядеть фигура, если её повернуть?" [ref=e136] [cursor=pointer]:
+            - /url: /learn/6985a4d91f47540007c8222d/69835fb71e00ce0007543603/5ef1b652250d56001b4f771b/637a111256db8fe038e12f13/
+            - generic [ref=e137] [cursor=pointer]:
+              - generic [ref=e139] [cursor=pointer]:
+                - generic [ref=e141] [cursor=pointer]: "3."
+                - paragraph [ref=e143] [cursor=pointer]: Как будет выглядеть фигура, если её повернуть?
+              - img [ref=e146] [cursor=pointer]
+          - link "4. Какой шестиугольник пропущен?" [ref=e148] [cursor=pointer]:
+            - /url: /learn/6985a4d91f47540007c8222d/69835fb71e00ce0007543603/5ef1b652250d56001b4f771b/637a114b56db8f54f8e13186/
+            - generic [ref=e149] [cursor=pointer]:
+              - generic [ref=e151] [cursor=pointer]:
+                - generic [ref=e153] [cursor=pointer]: "4."
+                - paragraph [ref=e155] [cursor=pointer]: Какой шестиугольник пропущен?
+              - img [ref=e158] [cursor=pointer]
+          - link "5. Тире между подлежащим и сказуемым" [ref=e160] [cursor=pointer]:
+            - /url: /learn/6985a4d91f47540007c8222d/69835fb71e00ce0007543603/5ef1b652250d56001b4f771b/6435376d1c60941e9ccf6c0d/
+            - generic [ref=e161] [cursor=pointer]:
+              - generic [ref=e163] [cursor=pointer]:
+                - generic [ref=e165] [cursor=pointer]: "5."
+                - paragraph [ref=e167] [cursor=pointer]: Тире между подлежащим и сказуемым
+              - img [ref=e170] [cursor=pointer]
+          - link "6. Нераспространённые и распространённые предложения" [ref=e172] [cursor=pointer]:
+            - /url: /learn/6985a4d91f47540007c8222d/69835fb71e00ce0007543603/5ef1b652250d56001b4f771b/643537831c6094690acf6cce/
+            - generic [ref=e173] [cursor=pointer]:
+              - generic [ref=e175] [cursor=pointer]:
+                - generic [ref=e177] [cursor=pointer]: "6."
+                - paragraph [ref=e179] [cursor=pointer]: Нераспространённые и распространённые предложения
+              - img [ref=e182] [cursor=pointer]
+          - link "7. Второстепенные члены предложения" [ref=e184] [cursor=pointer]:
+            - /url: /learn/6985a4d91f47540007c8222d/69835fb71e00ce0007543603/5ef1b652250d56001b4f771b/6435379b1c60941e6dcf6de1/
+            - generic [ref=e185] [cursor=pointer]:
+              - generic [ref=e187] [cursor=pointer]:
+                - generic [ref=e189] [cursor=pointer]: "7."
+                - paragraph [ref=e191] [cursor=pointer]: Второстепенные члены предложения
+              - img [ref=e194] [cursor=pointer]
+          - link "8. Предложения с однородными членами" [active] [ref=e196] [cursor=pointer]:
+            - /url: /learn/6985a4d91f47540007c8222d/69835fb71e00ce0007543603/5ef1b652250d56001b4f771b/643537b45f3121f0ca5b23b9/
+            - generic [ref=e197] [cursor=pointer]:
+              - generic [ref=e199] [cursor=pointer]:
+                - generic [ref=e201] [cursor=pointer]: "8."
+                - paragraph [ref=e203] [cursor=pointer]: Предложения с однородными членами
+              - img [ref=e206] [cursor=pointer]
+  - generic [ref=e209]:
+    - generic [ref=e210]:
+      - generic [ref=e211]:
+        - generic [ref=e215]:
+          - img [ref=e217]
+          - link "8 (800) 600-44-02" [ref=e219] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e220]:
+          - generic [ref=e221]: "@"
+          - link "info@ismart.org" [ref=e222] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e223]:
+          - img [ref=e225]
+          - generic [ref=e227]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e228]:
+        - link "Наш сайт" [ref=e231] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e233] [cursor=pointer]
+        - generic [ref=e235]:
+          - link "Лицензия" [ref=e237] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e239] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e241] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e243] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e245] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e247]:
+      - generic [ref=e248]:
+        - link [ref=e249] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e253] [cursor=pointer]
+        - generic [ref=e256]:
+          - link "okIcon" [ref=e257] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e258] [cursor=pointer]
+          - link "dzenIcon" [ref=e259] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e260] [cursor=pointer]
+          - link "vkIcon" [ref=e261] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e262] [cursor=pointer]
+      - generic [ref=e264]:
+        - generic [ref=e266]:
+          - generic [ref=e267]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e268] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e269]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e270] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e271]:
+          - generic [ref=e272]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e273] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e274]: © iSmart, 2018-2026
+```

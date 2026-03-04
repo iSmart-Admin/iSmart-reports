@@ -1,0 +1,193 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Физика
+      - generic [ref=e21]: Задания для повторения и закрепления учебного материала
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - button "7" [ref=e28] [cursor=pointer]:
+          - img [ref=e32] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e34] [cursor=pointer]:
+          - img [ref=e38] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e40]:
+          - img [ref=e44]
+          - text: "9"
+        - button "10" [ref=e46] [cursor=pointer]:
+          - img [ref=e50] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e52] [cursor=pointer]:
+          - img [ref=e56] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e59]:
+        - generic [ref=e63]:
+          - img [ref=e66]
+          - textbox "Поиск по подтемам" [ref=e69]
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - generic [ref=e72] [cursor=pointer]:
+              - generic [ref=e74] [cursor=pointer]: Темы
+              - button [ref=e76] [cursor=pointer]:
+                - img [ref=e78] [cursor=pointer]
+            - generic [ref=e80] [cursor=pointer]:
+              - generic [ref=e83] [cursor=pointer]: "1 неделя: «Основы кинематики: движение и его характеристики»"
+              - img [ref=e85] [cursor=pointer]
+            - generic [ref=e87] [cursor=pointer]:
+              - generic [ref=e90] [cursor=pointer]: "2 неделя: «Равноускоренное движение и свободное падение»"
+              - img [ref=e92] [cursor=pointer]
+            - generic [ref=e94] [cursor=pointer]:
+              - generic [ref=e97] [cursor=pointer]: "3 неделя: «Законы Ньютона»"
+              - img [ref=e99] [cursor=pointer]
+            - generic [ref=e101] [cursor=pointer]:
+              - generic [ref=e104] [cursor=pointer]: "4 неделя: «Силы в природе: трение, вес, невесомость»"
+              - img [ref=e106] [cursor=pointer]
+            - generic [ref=e108] [cursor=pointer]:
+              - generic [ref=e111] [cursor=pointer]: "5 неделя: «Равновесие и законы сохранения»"
+              - img [ref=e113] [cursor=pointer]
+            - generic [ref=e115] [cursor=pointer]:
+              - generic [ref=e118] [cursor=pointer]: "6 неделя: «Работа, мощность и энергия»"
+              - img [ref=e120] [cursor=pointer]
+            - generic [ref=e122] [cursor=pointer]:
+              - generic [ref=e125] [cursor=pointer]: "7 неделя: «Механические колебания»"
+              - img [ref=e127] [cursor=pointer]
+            - generic [ref=e129] [cursor=pointer]:
+              - generic [ref=e132] [cursor=pointer]: "8 неделя: «Механические волны. Звук»"
+              - img [ref=e134] [cursor=pointer]
+            - generic [ref=e136] [cursor=pointer]:
+              - generic [ref=e139] [cursor=pointer]: "9 неделя: «Электромагнитное поле и волны. Свет»"
+              - img [ref=e141] [cursor=pointer]
+            - generic [ref=e144] [cursor=pointer]:
+              - generic [ref=e147] [cursor=pointer]: "10 неделя: «Геометрическая оптика: законы и приборы»"
+              - img [ref=e149] [cursor=pointer]
+            - generic [ref=e151] [cursor=pointer]:
+              - generic [ref=e154] [cursor=pointer]: "11 неделя: «Дисперсия света. Строение атома и ядра»"
+              - img [ref=e156] [cursor=pointer]
+            - generic [ref=e158] [cursor=pointer]:
+              - generic [ref=e161] [cursor=pointer]: "12 неделя: «Ядерная физика. Обобщающее повторение»"
+              - img [ref=e163] [cursor=pointer]
+          - generic [ref=e169]:
+            - link "1. Законы отражения света. Плоское зеркало" [ref=e170] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/67ac74678454a700073acce3/
+              - generic [ref=e171] [cursor=pointer]:
+                - generic [ref=e173] [cursor=pointer]:
+                  - generic [ref=e175] [cursor=pointer]: "1."
+                  - paragraph [ref=e177] [cursor=pointer]: Законы отражения света. Плоское зеркало
+                - img [ref=e180] [cursor=pointer]
+            - link "1. Дисперсия света. Опыты Ньютона" [ref=e182] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/67ac74fc8454a700073acda3/
+              - generic [ref=e183] [cursor=pointer]:
+                - generic [ref=e185] [cursor=pointer]:
+                  - generic [ref=e187] [cursor=pointer]: "1."
+                  - paragraph [ref=e189] [cursor=pointer]: Дисперсия света. Опыты Ньютона
+                - img [ref=e192] [cursor=pointer]
+            - link "3. Линзы. Оптическая сила линзы" [ref=e194] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/67ac748c8454a700073acd37/
+              - generic [ref=e195] [cursor=pointer]:
+                - generic [ref=e197] [cursor=pointer]:
+                  - generic [ref=e199] [cursor=pointer]: "3."
+                  - paragraph [ref=e201] [cursor=pointer]: Линзы. Оптическая сила линзы
+                - img [ref=e204] [cursor=pointer]
+            - link "4. Оптическая система фотоаппарата, микроскопа и телескопа" [ref=e206] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/67ac749b8454a700073acd67/
+              - generic [ref=e207] [cursor=pointer]:
+                - generic [ref=e209] [cursor=pointer]:
+                  - generic [ref=e211] [cursor=pointer]: "4."
+                  - paragraph [ref=e213] [cursor=pointer]: Оптическая система фотоаппарата, микроскопа и телескопа
+                - img [ref=e216] [cursor=pointer]
+            - link "5. Глаз как оптическая система" [ref=e218] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/67ac74eb8454a700073acd90/
+              - generic [ref=e219] [cursor=pointer]:
+                - generic [ref=e221] [cursor=pointer]:
+                  - generic [ref=e223] [cursor=pointer]: "5."
+                  - paragraph [ref=e225] [cursor=pointer]: Глаз как оптическая система
+                - img [ref=e228] [cursor=pointer]
+            - link "6. Световые явления" [ref=e230] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/6990aaed4e8e0d0008c0c6bc/
+              - generic [ref=e231] [cursor=pointer]:
+                - generic [ref=e233] [cursor=pointer]:
+                  - generic [ref=e235] [cursor=pointer]: "6."
+                  - paragraph [ref=e237] [cursor=pointer]: Световые явления
+                - img [ref=e240] [cursor=pointer]
+            - link "7. Обобщение по неделе 10" [ref=e242] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/67d7fc8b59c6d50007b0025d/
+              - generic [ref=e243] [cursor=pointer]:
+                - generic [ref=e245] [cursor=pointer]:
+                  - generic [ref=e247] [cursor=pointer]: "7."
+                  - paragraph [ref=e249] [cursor=pointer]: Обобщение по неделе 10
+                - img [ref=e252] [cursor=pointer]
+  - generic [ref=e255]:
+    - generic [ref=e256]:
+      - generic [ref=e257]:
+        - generic [ref=e261]:
+          - img [ref=e263]
+          - link "8 (800) 600-44-02" [ref=e265] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e266]:
+          - generic [ref=e267]: "@"
+          - link "info@ismart.org" [ref=e268] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e269]:
+          - img [ref=e271]
+          - generic [ref=e273]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e274]:
+        - link "Наш сайт" [ref=e277] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e279] [cursor=pointer]
+        - generic [ref=e281]:
+          - link "Лицензия" [ref=e283] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e285] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e287] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e289] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e291] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e293]:
+      - generic [ref=e294]:
+        - link [ref=e295] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e299] [cursor=pointer]
+        - generic [ref=e302]:
+          - link "okIcon" [ref=e303] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e304] [cursor=pointer]
+          - link "dzenIcon" [ref=e305] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e306] [cursor=pointer]
+          - link "vkIcon" [ref=e307] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e308] [cursor=pointer]
+      - generic [ref=e310]:
+        - generic [ref=e312]:
+          - generic [ref=e313]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e314] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e315]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e316] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e317]:
+          - generic [ref=e318]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e319] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e320]: © iSmart, 2018-2026
+```

@@ -1,0 +1,191 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e18]:
+        - generic [ref=e19]: Русский язык
+        - generic [ref=e21]: Раздел для обучающихся по русскому языку
+      - button "Методические рекомендации" [ref=e24] [cursor=pointer]
+    - generic [ref=e25]:
+      - generic [ref=e29]:
+        - button "1" [ref=e30] [cursor=pointer]:
+          - img [ref=e34] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e36] [cursor=pointer]:
+          - img [ref=e40] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e42] [cursor=pointer]:
+          - img [ref=e46] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e48] [cursor=pointer]:
+          - img [ref=e52] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e54] [cursor=pointer]:
+          - img [ref=e58] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e60] [cursor=pointer]:
+          - img [ref=e64] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e66] [cursor=pointer]:
+          - img [ref=e70] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e72] [cursor=pointer]:
+          - img [ref=e76] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e78] [cursor=pointer]:
+          - img [ref=e82] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e84]:
+          - img [ref=e88]
+          - text: "10"
+        - button "11" [ref=e90] [cursor=pointer]:
+          - img [ref=e94] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e97]:
+        - generic [ref=e101]:
+          - img [ref=e104]
+          - textbox "Поиск по подтемам" [ref=e107]
+        - generic [ref=e108]:
+          - generic [ref=e109]:
+            - generic [ref=e110] [cursor=pointer]:
+              - generic [ref=e112] [cursor=pointer]: Темы
+              - button [ref=e114] [cursor=pointer]:
+                - img [ref=e116] [cursor=pointer]
+            - generic [ref=e118] [cursor=pointer]:
+              - generic [ref=e121] [cursor=pointer]: Общие сведения о языке
+              - img [ref=e123] [cursor=pointer]
+            - generic [ref=e125] [cursor=pointer]:
+              - generic [ref=e128] [cursor=pointer]: Язык и речь. Культура речи
+              - img [ref=e130] [cursor=pointer]
+            - generic [ref=e132] [cursor=pointer]:
+              - generic [ref=e135] [cursor=pointer]: Фонетика. Орфоэпия. Орфоэпические нормы
+              - img [ref=e137] [cursor=pointer]
+            - generic [ref=e139] [cursor=pointer]:
+              - generic [ref=e142] [cursor=pointer]: Лексикология и фразеология. Лексические нормы
+              - img [ref=e144] [cursor=pointer]
+            - generic [ref=e146] [cursor=pointer]:
+              - generic [ref=e149] [cursor=pointer]: Морфемика и словообразование. Словообразовательные нормы
+              - img [ref=e151] [cursor=pointer]
+            - generic [ref=e153] [cursor=pointer]:
+              - generic [ref=e156] [cursor=pointer]: Морфология. Морфологические нормы
+              - img [ref=e158] [cursor=pointer]
+            - generic [ref=e160] [cursor=pointer]:
+              - generic [ref=e163] [cursor=pointer]: Орфография. Основные правила орфографии
+              - img [ref=e165] [cursor=pointer]
+            - generic [ref=e168] [cursor=pointer]:
+              - generic [ref=e171] [cursor=pointer]: Речь. Речевое общение
+              - img [ref=e173] [cursor=pointer]
+            - generic [ref=e175] [cursor=pointer]:
+              - generic [ref=e178] [cursor=pointer]: Текст. Информационно-смысловая переработка текста
+              - img [ref=e180] [cursor=pointer]
+          - generic [ref=e185]:
+            - generic [ref=e186]:
+              - generic [ref=e187]: Скачайте методическую презентацию к теме
+              - link "Скачать" [ref=e188] [cursor=pointer]:
+                - /url: https://ismart-files.storage.yandexcloud.net/documents/10-klass-Russkij-yazyk-Rechevoe-obshenie-i-ego-vidy (1).pdf
+                - button "Скачать" [ref=e189] [cursor=pointer]:
+                  - text: Скачать
+                  - img [ref=e192] [cursor=pointer]
+            - generic [ref=e194]:
+              - link "1. Речь как деятельность. Виды речевой деятельности" [ref=e195] [cursor=pointer]:
+                - /url: /learn/6659c2706ada2c000859b444/5a33b10acefdee00198efa13/64bfa63cd00b08794c3f8b29/65fc282ac4e7e2000688433e/
+                - generic [ref=e196] [cursor=pointer]:
+                  - generic [ref=e198] [cursor=pointer]:
+                    - generic [ref=e200] [cursor=pointer]: "1."
+                    - paragraph [ref=e202] [cursor=pointer]: Речь как деятельность. Виды речевой деятельности
+                  - img [ref=e205] [cursor=pointer]
+              - link "2. Речевое общение и его виды. Основные сферы речевого общения. Речевая ситуация и её компоненты" [ref=e207] [cursor=pointer]:
+                - /url: /learn/6659c2706ada2c000859b444/5a33b10acefdee00198efa13/64bfa63cd00b08794c3f8b29/65fc283ec4e7e20006884392/
+                - generic [ref=e208] [cursor=pointer]:
+                  - generic [ref=e210] [cursor=pointer]:
+                    - generic [ref=e212] [cursor=pointer]: "2."
+                    - paragraph [ref=e214] [cursor=pointer]: Речевое общение и его виды. Основные сферы речевого общения. Речевая ситуация и её компоненты
+                  - img [ref=e217] [cursor=pointer]
+              - link "3. Речевой этикет" [ref=e219] [cursor=pointer]:
+                - /url: /learn/6659c2706ada2c000859b444/5a33b10acefdee00198efa13/64bfa63cd00b08794c3f8b29/65fc2873c4e7e200068844b2/
+                - generic [ref=e220] [cursor=pointer]:
+                  - generic [ref=e222] [cursor=pointer]:
+                    - generic [ref=e224] [cursor=pointer]: "3."
+                    - paragraph [ref=e226] [cursor=pointer]: Речевой этикет
+                  - img [ref=e229] [cursor=pointer]
+              - link "4. Публичное выступление" [active] [ref=e231] [cursor=pointer]:
+                - /url: /learn/6659c2706ada2c000859b444/5a33b10acefdee00198efa13/64bfa63cd00b08794c3f8b29/65fc289dc4e7e20006884576/
+                - generic [ref=e232] [cursor=pointer]:
+                  - generic [ref=e234] [cursor=pointer]:
+                    - generic [ref=e236] [cursor=pointer]: "4."
+                    - paragraph [ref=e238] [cursor=pointer]: Публичное выступление
+                  - img [ref=e241] [cursor=pointer]
+  - generic [ref=e244]:
+    - generic [ref=e245]:
+      - generic [ref=e246]:
+        - generic [ref=e250]:
+          - img [ref=e252]
+          - link "8 (800) 600-44-02" [ref=e254] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e255]:
+          - generic [ref=e256]: "@"
+          - link "info@ismart.org" [ref=e257] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e258]:
+          - img [ref=e260]
+          - generic [ref=e262]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e263]:
+        - link "Наш сайт" [ref=e266] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e268] [cursor=pointer]
+        - generic [ref=e270]:
+          - link "Лицензия" [ref=e272] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e274] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e276] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e278] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e280] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e282]:
+      - generic [ref=e283]:
+        - link [ref=e284] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e288] [cursor=pointer]
+        - generic [ref=e291]:
+          - link "okIcon" [ref=e292] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e293] [cursor=pointer]
+          - link "dzenIcon" [ref=e294] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e295] [cursor=pointer]
+          - link "vkIcon" [ref=e296] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e297] [cursor=pointer]
+      - generic [ref=e299]:
+        - generic [ref=e301]:
+          - generic [ref=e302]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e303] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e304]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e305] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e306]:
+          - generic [ref=e307]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e308] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e309]: © iSmart, 2018-2026
+```

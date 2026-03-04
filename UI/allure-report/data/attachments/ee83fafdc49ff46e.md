@@ -1,0 +1,174 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Физика
+      - generic [ref=e21]: Подготовка к ВПР
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - button "7" [ref=e28] [cursor=pointer]:
+          - img [ref=e32] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e34]:
+          - img [ref=e38]
+          - text: "8"
+        - button "10" [ref=e40] [cursor=pointer]:
+          - img [ref=e44] [cursor=pointer]
+          - text: "10"
+      - generic [ref=e47]:
+        - generic [ref=e51]:
+          - img [ref=e54]
+          - textbox "Поиск по подтемам" [ref=e57]
+        - generic [ref=e58]:
+          - generic [ref=e59]:
+            - generic [ref=e60] [cursor=pointer]:
+              - generic [ref=e62] [cursor=pointer]: Темы
+              - button [ref=e64] [cursor=pointer]:
+                - img [ref=e66] [cursor=pointer]
+            - generic [ref=e68] [cursor=pointer]:
+              - generic [ref=e71] [cursor=pointer]: Задание №1 ВПР
+              - img [ref=e73] [cursor=pointer]
+            - generic [ref=e75] [cursor=pointer]:
+              - generic [ref=e78] [cursor=pointer]: Задание №2 ВПР
+              - img [ref=e80] [cursor=pointer]
+            - generic [ref=e82] [cursor=pointer]:
+              - generic [ref=e85] [cursor=pointer]: Задание №3 ВПР
+              - img [ref=e87] [cursor=pointer]
+            - generic [ref=e89] [cursor=pointer]:
+              - generic [ref=e92] [cursor=pointer]: Задание №4 ВПР
+              - img [ref=e94] [cursor=pointer]
+            - generic [ref=e96] [cursor=pointer]:
+              - generic [ref=e99] [cursor=pointer]: Задание №5 ВПР
+              - img [ref=e101] [cursor=pointer]
+            - generic [ref=e103] [cursor=pointer]:
+              - generic [ref=e106] [cursor=pointer]: Задание №6 ВПР
+              - img [ref=e108] [cursor=pointer]
+            - generic [ref=e110] [cursor=pointer]:
+              - generic [ref=e113] [cursor=pointer]: Задание №7 ВПР
+              - img [ref=e115] [cursor=pointer]
+            - generic [ref=e117] [cursor=pointer]:
+              - generic [ref=e120] [cursor=pointer]: Задание №8 ВПР
+              - img [ref=e122] [cursor=pointer]
+            - generic [ref=e124] [cursor=pointer]:
+              - generic [ref=e127] [cursor=pointer]: Задание №9 ВПР
+              - img [ref=e129] [cursor=pointer]
+            - generic [ref=e132] [cursor=pointer]:
+              - generic [ref=e135] [cursor=pointer]: Задание ВПР №10
+              - img [ref=e137] [cursor=pointer]
+          - generic [ref=e143]:
+            - link "1. Количество теплоты. Удельная теплоемкость вещества. Теплообмен и тепловое равновесие. Уравнение теплового баланса" [ref=e144] [cursor=pointer]:
+              - /url: /learn/69849f6154f5ed0007cc7cf0/67a4ae4cde03f20007f5596e/5f63090daee1af001b415303/697f9f7ce3db5b00070f6441/
+              - generic [ref=e145] [cursor=pointer]:
+                - generic [ref=e147] [cursor=pointer]:
+                  - generic [ref=e149] [cursor=pointer]: "1."
+                  - paragraph [ref=e151] [cursor=pointer]: Количество теплоты. Удельная теплоемкость вещества. Теплообмен и тепловое равновесие. Уравнение теплового баланса
+                - img [ref=e154] [cursor=pointer]
+            - link "2. Плавление и отвердевание кристаллических веществ. Удельная теплота плавления" [ref=e156] [cursor=pointer]:
+              - /url: /learn/69849f6154f5ed0007cc7cf0/67a4ae4cde03f20007f5596e/5f63090daee1af001b415303/697f9f97e3db5b00070f6b58/
+              - generic [ref=e157] [cursor=pointer]:
+                - generic [ref=e159] [cursor=pointer]:
+                  - generic [ref=e161] [cursor=pointer]: "2."
+                  - paragraph [ref=e163] [cursor=pointer]: Плавление и отвердевание кристаллических веществ. Удельная теплота плавления
+                - img [ref=e166] [cursor=pointer]
+            - link "3. Парообразование и конденсация. Испарение. Кипение. Удельная теплота парообразования. Зависимость температуры кипения от атмосферного давления" [ref=e168] [cursor=pointer]:
+              - /url: /learn/69849f6154f5ed0007cc7cf0/67a4ae4cde03f20007f5596e/5f63090daee1af001b415303/697f9fbee3db5b00070f75a2/
+              - generic [ref=e169] [cursor=pointer]:
+                - generic [ref=e171] [cursor=pointer]:
+                  - generic [ref=e173] [cursor=pointer]: "3."
+                  - paragraph [ref=e175] [cursor=pointer]: Парообразование и конденсация. Испарение. Кипение. Удельная теплота парообразования. Зависимость температуры кипения от атмосферного давления
+                - img [ref=e178] [cursor=pointer]
+            - link "4. Энергия топлива. Удельная теплота сгорания" [ref=e180] [cursor=pointer]:
+              - /url: /learn/69849f6154f5ed0007cc7cf0/67a4ae4cde03f20007f5596e/5f63090daee1af001b415303/697fa013e3db5b00070f8fd5/
+              - generic [ref=e181] [cursor=pointer]:
+                - generic [ref=e183] [cursor=pointer]:
+                  - generic [ref=e185] [cursor=pointer]: "4."
+                  - paragraph [ref=e187] [cursor=pointer]: Энергия топлива. Удельная теплота сгорания
+                - img [ref=e190] [cursor=pointer]
+            - link "5. Закон Ома для участка цепи" [ref=e192] [cursor=pointer]:
+              - /url: /learn/69849f6154f5ed0007cc7cf0/67a4ae4cde03f20007f5596e/5f63090daee1af001b415303/697fa02ee3db5b00070f9761/
+              - generic [ref=e193] [cursor=pointer]:
+                - generic [ref=e195] [cursor=pointer]:
+                  - generic [ref=e197] [cursor=pointer]: "5."
+                  - paragraph [ref=e199] [cursor=pointer]: Закон Ома для участка цепи
+                - img [ref=e202] [cursor=pointer]
+            - link "6. Работа и мощность электрического тока. Закон Джоуля-Ленца" [active] [ref=e204] [cursor=pointer]:
+              - /url: /learn/69849f6154f5ed0007cc7cf0/67a4ae4cde03f20007f5596e/5f63090daee1af001b415303/697fa047e3db5b00070f9f2f/
+              - generic [ref=e205] [cursor=pointer]:
+                - generic [ref=e207] [cursor=pointer]:
+                  - generic [ref=e209] [cursor=pointer]: "6."
+                  - paragraph [ref=e211] [cursor=pointer]: Работа и мощность электрического тока. Закон Джоуля-Ленца
+                - img [ref=e214] [cursor=pointer]
+  - generic [ref=e217]:
+    - generic [ref=e218]:
+      - generic [ref=e219]:
+        - generic [ref=e223]:
+          - img [ref=e225]
+          - link "8 (800) 600-44-02" [ref=e227] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e228]:
+          - generic [ref=e229]: "@"
+          - link "info@ismart.org" [ref=e230] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e231]:
+          - img [ref=e233]
+          - generic [ref=e235]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e236]:
+        - link "Наш сайт" [ref=e239] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e241] [cursor=pointer]
+        - generic [ref=e243]:
+          - link "Лицензия" [ref=e245] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e247] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e249] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e251] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e253] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e255]:
+      - generic [ref=e256]:
+        - link [ref=e257] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e261] [cursor=pointer]
+        - generic [ref=e264]:
+          - link "okIcon" [ref=e265] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e266] [cursor=pointer]
+          - link "dzenIcon" [ref=e267] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e268] [cursor=pointer]
+          - link "vkIcon" [ref=e269] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e270] [cursor=pointer]
+      - generic [ref=e272]:
+        - generic [ref=e274]:
+          - generic [ref=e275]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e276] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e277]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e278] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e279]:
+          - generic [ref=e280]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e281] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e282]: © iSmart, 2018-2026
+```

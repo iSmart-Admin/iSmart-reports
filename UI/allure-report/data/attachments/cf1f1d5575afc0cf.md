@@ -1,0 +1,211 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Окружающий мир
+      - generic [ref=e21]: Задания для повторения и закрепления учебного материала
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - button "1" [ref=e28] [cursor=pointer]:
+          - img [ref=e32] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e34] [cursor=pointer]:
+          - img [ref=e38] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e40] [cursor=pointer]:
+          - img [ref=e44] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e46]:
+          - img [ref=e50]
+          - text: "4"
+      - generic [ref=e53]:
+        - generic [ref=e57]:
+          - img [ref=e60]
+          - textbox "Поиск по подтемам" [ref=e63]
+        - generic [ref=e64]:
+          - generic [ref=e65]:
+            - generic [ref=e66] [cursor=pointer]:
+              - generic [ref=e68] [cursor=pointer]: Темы
+              - button [ref=e70] [cursor=pointer]:
+                - img [ref=e72] [cursor=pointer]
+            - generic [ref=e74] [cursor=pointer]:
+              - generic [ref=e77] [cursor=pointer]: 1 неделя «Наша Родина — Российская Федерация»
+              - img [ref=e79] [cursor=pointer]
+            - generic [ref=e81] [cursor=pointer]:
+              - generic [ref=e84] [cursor=pointer]: 2 неделя «История Отечества»
+              - img [ref=e86] [cursor=pointer]
+            - generic [ref=e88] [cursor=pointer]:
+              - generic [ref=e91] [cursor=pointer]: 3 неделя «История Отечества»
+              - img [ref=e93] [cursor=pointer]
+            - generic [ref=e95] [cursor=pointer]:
+              - generic [ref=e98] [cursor=pointer]: 4 неделя «Исторические эпохи»
+              - img [ref=e100] [cursor=pointer]
+            - generic [ref=e102] [cursor=pointer]:
+              - generic [ref=e105] [cursor=pointer]: 5 неделя «Исторические эпохи»
+              - img [ref=e107] [cursor=pointer]
+            - generic [ref=e110] [cursor=pointer]:
+              - generic [ref=e113] [cursor=pointer]: 6 неделя «Природные и культурные объекты Всемирного наследия»
+              - img [ref=e115] [cursor=pointer]
+            - generic [ref=e117] [cursor=pointer]:
+              - generic [ref=e120] [cursor=pointer]: 7 неделя «Методы познания окружающей природы. Солнечная система»
+              - img [ref=e122] [cursor=pointer]
+            - generic [ref=e124] [cursor=pointer]:
+              - generic [ref=e127] [cursor=pointer]: 8 неделя «Формы земной поверхности. Водоемы и их разнообразие»
+              - img [ref=e129] [cursor=pointer]
+            - generic [ref=e131] [cursor=pointer]:
+              - generic [ref=e134] [cursor=pointer]: 9 неделя «Природные зоны России»
+              - img [ref=e136] [cursor=pointer]
+            - generic [ref=e138] [cursor=pointer]:
+              - generic [ref=e141] [cursor=pointer]: 10 неделя «Полезные ископаемые»
+              - img [ref=e143] [cursor=pointer]
+            - generic [ref=e145] [cursor=pointer]:
+              - generic [ref=e148] [cursor=pointer]: 11 неделя «Отрасли растениеводства и животноводства»
+              - img [ref=e150] [cursor=pointer]
+            - generic [ref=e152] [cursor=pointer]:
+              - generic [ref=e155] [cursor=pointer]: 12 неделя «Правила безопасной жизнедеятельности»
+              - img [ref=e157] [cursor=pointer]
+          - generic [ref=e163]:
+            - link "1. Объекты Всемирного культурного наследия в России" [ref=e164] [cursor=pointer]:
+              - /url: /learn/628aa2b37f0cd395039c8106/5a33b11dcefdee00198efa14/5a3cef308409440019b57b39/67c84ab217ff9b0007149943/
+              - generic [ref=e165] [cursor=pointer]:
+                - generic [ref=e167] [cursor=pointer]:
+                  - generic [ref=e169] [cursor=pointer]: "1."
+                  - paragraph [ref=e171] [cursor=pointer]: Объекты Всемирного культурного наследия в России
+                - img [ref=e174] [cursor=pointer]
+            - link "2. Объекты Всемирного культурного наследия за рубежом" [ref=e176] [cursor=pointer]:
+              - /url: /learn/628aa2b37f0cd395039c8106/5a33b11dcefdee00198efa14/5a3cef308409440019b57b39/67c84ac617ff9b0007149959/
+              - generic [ref=e177] [cursor=pointer]:
+                - generic [ref=e179] [cursor=pointer]:
+                  - generic [ref=e181] [cursor=pointer]: "2."
+                  - paragraph [ref=e183] [cursor=pointer]: Объекты Всемирного культурного наследия за рубежом
+                - img [ref=e186] [cursor=pointer]
+            - link "3. Охрана памятников истории и культуры" [ref=e188] [cursor=pointer]:
+              - /url: /learn/628aa2b37f0cd395039c8106/5a33b11dcefdee00198efa14/5a3cef308409440019b57b39/67c84ad817ff9b0007149a52/
+              - generic [ref=e189] [cursor=pointer]:
+                - generic [ref=e191] [cursor=pointer]:
+                  - generic [ref=e193] [cursor=pointer]: "3."
+                  - paragraph [ref=e195] [cursor=pointer]: Охрана памятников истории и культуры
+                - img [ref=e198] [cursor=pointer]
+            - link "4. Правила нравственного поведения в социуме, отношение к людям независимо от их национальности, социального статуса, религиозной принадлежности" [ref=e200] [cursor=pointer]:
+              - /url: /learn/628aa2b37f0cd395039c8106/5a33b11dcefdee00198efa14/5a3cef308409440019b57b39/67c84ae91ed27a00079cec32/
+              - generic [ref=e201] [cursor=pointer]:
+                - generic [ref=e203] [cursor=pointer]:
+                  - generic [ref=e205] [cursor=pointer]: "4."
+                  - paragraph [ref=e207] [cursor=pointer]: Правила нравственного поведения в социуме, отношение к людям независимо от их национальности, социального статуса, религиозной принадлежности
+                - img [ref=e210] [cursor=pointer]
+            - link "5. Природные объекты списка Всемирного наследия в России" [ref=e212] [cursor=pointer]:
+              - /url: /learn/628aa2b37f0cd395039c8106/5a33b11dcefdee00198efa14/5a3cef308409440019b57b39/67c84b151ed27a00079ced58/
+              - generic [ref=e213] [cursor=pointer]:
+                - generic [ref=e215] [cursor=pointer]:
+                  - generic [ref=e217] [cursor=pointer]: "5."
+                  - paragraph [ref=e219] [cursor=pointer]: Природные объекты списка Всемирного наследия в России
+                - img [ref=e222] [cursor=pointer]
+            - link "6. Природные объекты списка Всемирного наследия за рубежом" [ref=e224] [cursor=pointer]:
+              - /url: /learn/628aa2b37f0cd395039c8106/5a33b11dcefdee00198efa14/5a3cef308409440019b57b39/67c84b261ed27a00079ced71/
+              - generic [ref=e225] [cursor=pointer]:
+                - generic [ref=e227] [cursor=pointer]:
+                  - generic [ref=e229] [cursor=pointer]: "6."
+                  - paragraph [ref=e231] [cursor=pointer]: Природные объекты списка Всемирного наследия за рубежом
+                - img [ref=e234] [cursor=pointer]
+            - link "7. Экологические проблемы взаимодействия человека и природы" [ref=e236] [cursor=pointer]:
+              - /url: /learn/628aa2b37f0cd395039c8106/5a33b11dcefdee00198efa14/5a3cef308409440019b57b39/67c84b371ed27a00079ced8b/
+              - generic [ref=e237] [cursor=pointer]:
+                - generic [ref=e239] [cursor=pointer]:
+                  - generic [ref=e241] [cursor=pointer]: "7."
+                  - paragraph [ref=e243] [cursor=pointer]: Экологические проблемы взаимодействия человека и природы
+                - img [ref=e246] [cursor=pointer]
+            - 'link "8. Охрана природных богатств: воды, воздуха, полезных ископаемых, растительного и животного мира" [ref=e248] [cursor=pointer]':
+              - /url: /learn/628aa2b37f0cd395039c8106/5a33b11dcefdee00198efa14/5a3cef308409440019b57b39/67c84b4c1ed27a00079cedb0/
+              - generic [ref=e249] [cursor=pointer]:
+                - generic [ref=e251] [cursor=pointer]:
+                  - generic [ref=e253] [cursor=pointer]: "8."
+                  - paragraph [ref=e255] [cursor=pointer]: "Охрана природных богатств: воды, воздуха, полезных ископаемых, растительного и животного мира"
+                - img [ref=e258] [cursor=pointer]
+            - link "9. Правила нравственного поведения в природе" [ref=e260] [cursor=pointer]:
+              - /url: /learn/628aa2b37f0cd395039c8106/5a33b11dcefdee00198efa14/5a3cef308409440019b57b39/67c84b6e1ed27a00079ceecf/
+              - generic [ref=e261] [cursor=pointer]:
+                - generic [ref=e263] [cursor=pointer]:
+                  - generic [ref=e265] [cursor=pointer]: "9."
+                  - paragraph [ref=e267] [cursor=pointer]: Правила нравственного поведения в природе
+                - img [ref=e270] [cursor=pointer]
+            - link "10. Международная Красная книга" [active] [ref=e272] [cursor=pointer]:
+              - /url: /learn/628aa2b37f0cd395039c8106/5a33b11dcefdee00198efa14/5a3cef308409440019b57b39/67c84b801ed27a00079ceefb/
+              - generic [ref=e273] [cursor=pointer]:
+                - generic [ref=e275] [cursor=pointer]:
+                  - generic [ref=e277] [cursor=pointer]: "10."
+                  - paragraph [ref=e279] [cursor=pointer]: Международная Красная книга
+                - img [ref=e282] [cursor=pointer]
+  - generic [ref=e285]:
+    - generic [ref=e286]:
+      - generic [ref=e287]:
+        - generic [ref=e291]:
+          - img [ref=e293]
+          - link "8 (800) 600-44-02" [ref=e295] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e296]:
+          - generic [ref=e297]: "@"
+          - link "info@ismart.org" [ref=e298] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e299]:
+          - img [ref=e301]
+          - generic [ref=e303]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e304]:
+        - link "Наш сайт" [ref=e307] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e309] [cursor=pointer]
+        - generic [ref=e311]:
+          - link "Лицензия" [ref=e313] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e315] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e317] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e319] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e321] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e323]:
+      - generic [ref=e324]:
+        - link [ref=e325] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e329] [cursor=pointer]
+        - generic [ref=e332]:
+          - link "okIcon" [ref=e333] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e334] [cursor=pointer]
+          - link "dzenIcon" [ref=e335] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e336] [cursor=pointer]
+          - link "vkIcon" [ref=e337] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e338] [cursor=pointer]
+      - generic [ref=e340]:
+        - generic [ref=e342]:
+          - generic [ref=e343]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e344] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e345]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e346] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e347]:
+          - generic [ref=e348]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e349] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e350]: © iSmart, 2018-2026
+```

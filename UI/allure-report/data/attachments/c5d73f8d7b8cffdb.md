@@ -1,0 +1,185 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e18]:
+        - generic [ref=e19]: Логика
+        - generic [ref=e21]: Раздел с заданиями на развитие логического мышления
+      - button "Методические рекомендации" [ref=e24] [cursor=pointer]
+    - generic [ref=e25]:
+      - generic [ref=e30]:
+        - button "Подготовка к школе" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: Подготовка к школе
+        - button "1" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e61]:
+          - img [ref=e65]
+          - text: "5"
+        - button "6" [ref=e67] [cursor=pointer]:
+          - img [ref=e71] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e73] [cursor=pointer]:
+          - img [ref=e77] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e79] [cursor=pointer]:
+          - img [ref=e83] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e85] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+          - text: "9"
+      - generic [ref=e92]:
+        - generic [ref=e96]:
+          - img [ref=e99]
+          - textbox "Поиск по подтемам" [ref=e102]
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - generic [ref=e105] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Темы
+              - button [ref=e109] [cursor=pointer]:
+                - img [ref=e111] [cursor=pointer]
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e116] [cursor=pointer]: Ребусы
+              - img [ref=e118] [cursor=pointer]
+            - generic [ref=e120] [cursor=pointer]:
+              - generic [ref=e123] [cursor=pointer]: Задачи со спичками
+              - img [ref=e125] [cursor=pointer]
+            - generic [ref=e127] [cursor=pointer]:
+              - generic [ref=e130] [cursor=pointer]: Геометрия на клеточной бумаге
+              - img [ref=e132] [cursor=pointer]
+            - generic [ref=e134] [cursor=pointer]:
+              - generic [ref=e137] [cursor=pointer]: Пространственные головоломки
+              - img [ref=e139] [cursor=pointer]
+            - generic [ref=e141] [cursor=pointer]:
+              - generic [ref=e144] [cursor=pointer]: Математические операции и дроби
+              - img [ref=e146] [cursor=pointer]
+            - generic [ref=e148] [cursor=pointer]:
+              - generic [ref=e151] [cursor=pointer]: Расписание
+              - img [ref=e153] [cursor=pointer]
+            - generic [ref=e155] [cursor=pointer]:
+              - generic [ref=e158] [cursor=pointer]: Логические задачи
+              - img [ref=e160] [cursor=pointer]
+            - generic [ref=e162] [cursor=pointer]:
+              - generic [ref=e165] [cursor=pointer]: Задачи на путь и лабиринты
+              - img [ref=e167] [cursor=pointer]
+            - generic [ref=e169] [cursor=pointer]:
+              - generic [ref=e172] [cursor=pointer]: Теория чисел
+              - img [ref=e174] [cursor=pointer]
+            - generic [ref=e176] [cursor=pointer]:
+              - generic [ref=e179] [cursor=pointer]: Задачи с отношениями
+              - img [ref=e181] [cursor=pointer]
+            - generic [ref=e183] [cursor=pointer]:
+              - generic [ref=e186] [cursor=pointer]: Закономерности
+              - img [ref=e188] [cursor=pointer]
+            - generic [ref=e191] [cursor=pointer]:
+              - generic [ref=e194] [cursor=pointer]: Отношения между понятиями
+              - img [ref=e196] [cursor=pointer]
+            - generic [ref=e198] [cursor=pointer]:
+              - generic [ref=e201] [cursor=pointer]: Лингвистические задачи
+              - img [ref=e203] [cursor=pointer]
+          - generic [ref=e209]:
+            - link "1. Круги Эйлера" [ref=e210] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5ef1b652250d56001b4f771b/65e6425fce0c9900073ebe6f/
+              - generic [ref=e211] [cursor=pointer]:
+                - generic [ref=e213] [cursor=pointer]:
+                  - generic [ref=e215] [cursor=pointer]: "1."
+                  - paragraph [ref=e217] [cursor=pointer]: Круги Эйлера
+                - img [ref=e220] [cursor=pointer]
+            - link "2. Элементы множеств" [ref=e222] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5ef1b652250d56001b4f771b/65e6426cce0c9900073ebe7a/
+              - generic [ref=e223] [cursor=pointer]:
+                - generic [ref=e225] [cursor=pointer]:
+                  - generic [ref=e227] [cursor=pointer]: "2."
+                  - paragraph [ref=e229] [cursor=pointer]: Элементы множеств
+                - img [ref=e232] [cursor=pointer]
+            - link "3. Упорядочивание" [active] [ref=e234] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5ef1b652250d56001b4f771b/65e64283ce0c9900073ebe85/
+              - generic [ref=e235] [cursor=pointer]:
+                - generic [ref=e237] [cursor=pointer]:
+                  - generic [ref=e239] [cursor=pointer]: "3."
+                  - paragraph [ref=e241] [cursor=pointer]: Упорядочивание
+                - img [ref=e244] [cursor=pointer]
+  - generic [ref=e247]:
+    - generic [ref=e248]:
+      - generic [ref=e249]:
+        - generic [ref=e253]:
+          - img [ref=e255]
+          - link "8 (800) 600-44-02" [ref=e257] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e258]:
+          - generic [ref=e259]: "@"
+          - link "info@ismart.org" [ref=e260] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e261]:
+          - img [ref=e263]
+          - generic [ref=e265]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e266]:
+        - link "Наш сайт" [ref=e269] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e271] [cursor=pointer]
+        - generic [ref=e273]:
+          - link "Лицензия" [ref=e275] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e277] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e279] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e281] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e283] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e285]:
+      - generic [ref=e286]:
+        - link [ref=e287] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e291] [cursor=pointer]
+        - generic [ref=e294]:
+          - link "okIcon" [ref=e295] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e296] [cursor=pointer]
+          - link "dzenIcon" [ref=e297] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e298] [cursor=pointer]
+          - link "vkIcon" [ref=e299] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e300] [cursor=pointer]
+      - generic [ref=e302]:
+        - generic [ref=e304]:
+          - generic [ref=e305]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e306] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e307]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e308] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e309]:
+          - generic [ref=e310]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e311] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e312]: © iSmart, 2018-2026
+```
