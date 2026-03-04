@@ -1,0 +1,108 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [active] [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                  - button "4" [ref=e48] [cursor=pointer]
+                  - button "5" [ref=e51] [cursor=pointer]
+                  - button "6" [ref=e54] [cursor=pointer]
+                  - button "7" [ref=e57] [cursor=pointer]
+                  - button "8" [ref=e60] [cursor=pointer]
+                  - button "9" [ref=e63] [cursor=pointer]
+                  - button "10" [ref=e66] [cursor=pointer]
+                - generic [ref=e67]:
+                  - button [disabled] [ref=e68]:
+                    - img [ref=e70]
+                  - button [ref=e73] [cursor=pointer]:
+                    - img [ref=e75] [cursor=pointer]
+            - generic [ref=e78]:
+              - generic [ref=e80]:
+                - img [ref=e84]
+                - heading "Найди в предложении имя существительное в именительном падеже и выдели его окончание." [level=4] [ref=e86]:
+                  - generic [ref=e88]: Найди в предложении имя существительное в именительном падеже и выдели его окончание.
+              - img "decore" [ref=e93]
+              - heading "К у к у ш к а подлетела к соседнему д е р е в у , села на с у ч о к и закуковала." [level=3] [ref=e98]:
+                - generic [ref=e100] [cursor=pointer]: К
+                - generic [ref=e102] [cursor=pointer]: у
+                - generic [ref=e104] [cursor=pointer]: к
+                - generic [ref=e106] [cursor=pointer]: у
+                - generic [ref=e108] [cursor=pointer]: ш
+                - generic [ref=e110] [cursor=pointer]: к
+                - generic [ref=e112] [cursor=pointer]: а
+                - text: подлетела к соседнему
+                - generic [ref=e114] [cursor=pointer]: д
+                - generic [ref=e116] [cursor=pointer]: е
+                - generic [ref=e118] [cursor=pointer]: р
+                - generic [ref=e120] [cursor=pointer]: е
+                - generic [ref=e122] [cursor=pointer]: в
+                - generic [ref=e124] [cursor=pointer]: у
+                - text: ", села на"
+                - generic [ref=e126] [cursor=pointer]: с
+                - generic [ref=e128] [cursor=pointer]: у
+                - generic [ref=e130] [cursor=pointer]: ч
+                - generic [ref=e132] [cursor=pointer]: о
+                - generic [ref=e134] [cursor=pointer]: к
+                - text: и закуковала.
+        - generic [ref=e139]:
+          - generic [ref=e142]:
+            - button [disabled] [ref=e144]:
+              - img [ref=e146]
+            - generic [ref=e149]: 100%
+            - button [ref=e151] [cursor=pointer]:
+              - img [ref=e153] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e158] [cursor=pointer]:
+            - generic [ref=e161] [cursor=pointer]: "2"
+            - generic [ref=e162] [cursor=pointer]: Показать подсказку
+      - generic [ref=e166]:
+        - generic [ref=e169]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e175] [cursor=pointer]:
+          - img [ref=e178] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e180]:
+          - generic [ref=e182]:
+            - button "Черновик" [ref=e183] [cursor=pointer]:
+              - img [ref=e186] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e189] [cursor=pointer]:
+              - img [ref=e192] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e194]:
+              - button "Часто задаваемые вопросы" [ref=e196] [cursor=pointer]:
+                - img [ref=e199] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e201]:
+                - button "Информация об уроке" [ref=e203] [cursor=pointer]:
+                  - img [ref=e206] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e208]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e209]:
+            - generic [ref=e210]:
+              - img [ref=e212]
+              - generic [ref=e214]: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e215] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e218] [cursor=pointer]
+```
