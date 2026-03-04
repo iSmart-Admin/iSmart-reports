@@ -1,0 +1,75 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e36]:
+              - generic [ref=e38]:
+                - img [ref=e42]
+                - heading "Выбери верный вариант ответа." [level=4] [ref=e44]:
+                  - generic [ref=e46]: Выбери верный вариант ответа.
+              - generic [ref=e48]:
+                - img "decore" [ref=e51]
+                - generic [ref=e57]: Кто занимался обучением Алексея Михайловича?
+              - generic [ref=e60]:
+                - button "Михаил Романов" [ref=e62] [cursor=pointer]:
+                  - generic [ref=e64] [cursor=pointer]: Михаил Романов
+                - button "Борис Морозов" [ref=e66] [cursor=pointer]:
+                  - generic [ref=e68] [cursor=pointer]: Борис Морозов
+                - button "Филарет" [ref=e70] [cursor=pointer]:
+                  - generic [ref=e72] [cursor=pointer]: Филарет
+        - generic [ref=e77]:
+          - generic [ref=e80]:
+            - button [disabled] [ref=e82]:
+              - img [ref=e84]
+            - generic [ref=e87]: 100%
+            - button [ref=e89] [cursor=pointer]:
+              - img [ref=e91] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e96] [cursor=pointer]:
+            - generic [ref=e99] [cursor=pointer]: "2"
+            - generic [ref=e100] [cursor=pointer]: Показать подсказку
+      - generic [ref=e104]:
+        - generic [ref=e107]: Интеллектуальный тренажер
+        - generic [ref=e111]:
+          - generic [ref=e116]: 1 из 15
+          - generic [ref=e120]:
+            - img [ref=e121]
+            - generic [ref=e123]: Вы вошли как ученик 9 «А»
+        - generic [ref=e124]:
+          - generic [ref=e126]:
+            - button "Пройти опрос" [ref=e127] [cursor=pointer]:
+              - generic [ref=e129] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e130] [cursor=pointer]:
+              - img [ref=e133] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e136] [cursor=pointer]:
+              - img [ref=e139] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e143] [cursor=pointer]:
+              - img [ref=e146] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e148]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e149] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e152] [cursor=pointer]
+            - generic [ref=e155]: 69a85fd1868504000715c316
+```
