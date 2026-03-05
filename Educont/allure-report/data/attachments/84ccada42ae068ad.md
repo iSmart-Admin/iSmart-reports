@@ -1,0 +1,126 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+              - button "11" [ref=e48] [cursor=pointer]
+              - button "12" [ref=e49] [cursor=pointer]
+              - button "13" [ref=e50] [cursor=pointer]
+              - button "14" [ref=e51] [cursor=pointer]
+              - button "15" [ref=e52] [cursor=pointer]
+              - button "+" [ref=e53] [cursor=pointer]
+            - button "Редактировать урок" [ref=e54] [cursor=pointer]
+          - generic [ref=e55]:
+            - generic [ref=e56]:
+              - generic [ref=e57]: Отчёты и аналитика
+              - img "Для учителей" [ref=e58] [cursor=pointer]:
+                - img [ref=e60] [cursor=pointer]
+            - generic [ref=e62]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e63] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e64] [cursor=pointer]:
+              - generic [ref=e65] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e66]:
+            - button "Заметки к уроку видны только вам" [ref=e67] [cursor=pointer]:
+              - generic [ref=e68] [cursor=pointer]:
+                - img [ref=e70] [cursor=pointer]
+                - generic [ref=e72] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e73] [cursor=pointer]:
+                - img [ref=e75] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e77] [cursor=pointer]:
+              - generic [ref=e78] [cursor=pointer]:
+                - img [ref=e80] [cursor=pointer]
+                - generic [ref=e82] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e83] [cursor=pointer]:
+              - generic [ref=e84] [cursor=pointer]:
+                - img [ref=e86] [cursor=pointer]
+                - generic [ref=e88] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e89] [cursor=pointer]:
+          - generic [ref=e90] [cursor=pointer]:
+            - img "schoolIcon" [ref=e91] [cursor=pointer]
+            - generic [ref=e92] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e93] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e95] [cursor=pointer]
+      - generic [ref=e99]:
+        - region "Задача для решения" [ref=e101] [cursor=pointer]:
+          - generic [ref=e104]:
+            - generic [ref=e106]:
+              - img [ref=e110]
+              - heading "Перенесите элементы в соответствующие ячейки." [level=4] [ref=e112]:
+                - generic [ref=e114]: Перенесите элементы в соответствующие ячейки.
+            - generic [ref=e116]:
+              - img "decore" [ref=e119]
+              - generic [ref=e125]: Сопоставьте теорию происхождения жизни на Земле, её описание и основные тезисы.
+            - generic [ref=e127]:
+              - generic [ref=e128]:
+                - generic [ref=e132]: Креационизм
+                - generic [ref=e139]: Панспермия
+                - generic [ref=e146]: Теория стационарного состояния
+                - generic [ref=e153]: Самозарождение жизни
+                - generic [ref=e160]: Теория коацерватных капель
+                - generic [ref=e167]: Теория РНК мира
+              - generic [ref=e171]:
+                - button "в далеком прошлом имелись условия для зарождения жизни из неживого" [ref=e175] [cursor=pointer]:
+                  - generic [ref=e177] [cursor=pointer]: в далеком прошлом имелись условия для зарождения жизни из неживого
+                - button "жизнь существует вечно" [ref=e181] [cursor=pointer]:
+                  - generic [ref=e183] [cursor=pointer]: жизнь существует вечно
+                - button "изначально была РНК и она научилась себя копировать в комплексе с белками" [ref=e187] [cursor=pointer]:
+                  - generic [ref=e189] [cursor=pointer]: изначально была РНК и она научилась себя копировать в комплексе с белками
+                - button "всё живое было создано со своими предшествующими формами в виде ископаемых" [ref=e193] [cursor=pointer]:
+                  - generic [ref=e195] [cursor=pointer]: всё живое было создано со своими предшествующими формами в виде ископаемых
+                - button "всё живое было создано и не менялось с тех пор" [ref=e199] [cursor=pointer]:
+                  - generic [ref=e201] [cursor=pointer]: всё живое было создано и не менялось с тех пор
+                - button "мы находим органические молекулы на метеоритах, а значит в космосе возможна жизнь" [ref=e205] [cursor=pointer]:
+                  - generic [ref=e207] [cursor=pointer]: мы находим органические молекулы на метеоритах, а значит в космосе возможна жизнь
+                - button "всё живое может произойти только от живого" [ref=e211] [cursor=pointer]:
+                  - generic [ref=e213] [cursor=pointer]: всё живое может произойти только от живого
+                - button "жизнь возникла в ходе образования самовоспроизводящихся комплексов информационных молекул" [ref=e217] [cursor=pointer]:
+                  - generic [ref=e219] [cursor=pointer]: жизнь возникла в ходе образования самовоспроизводящихся комплексов информационных молекул
+                - button "жизнь возникла в ходе постепенной эволюции химических молекул" [ref=e223] [cursor=pointer]:
+                  - generic [ref=e225] [cursor=pointer]: жизнь возникла в ходе постепенной эволюции химических молекул
+                - button "живое может зародится из неживого" [ref=e229] [cursor=pointer]:
+                  - generic [ref=e231] [cursor=pointer]: живое может зародится из неживого
+                - button "жизнь занесена с других планет" [ref=e235] [cursor=pointer]:
+                  - generic [ref=e237] [cursor=pointer]: жизнь занесена с других планет
+                - button "жизнь была создана" [ref=e241] [cursor=pointer]:
+                  - generic [ref=e243] [cursor=pointer]: жизнь была создана
+                - button "самоорганизация сгустков органических молекул в водах древнего океана привела к появлению первых примитивных одноклеточных существ" [ref=e247] [cursor=pointer]:
+                  - generic [ref=e249] [cursor=pointer]: самоорганизация сгустков органических молекул в водах древнего океана привела к появлению первых примитивных одноклеточных существ
+        - button "2 Взять 1 подсказку" [ref=e258] [cursor=pointer]:
+          - generic [ref=e261] [cursor=pointer]: "2"
+          - generic [ref=e262] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e264] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e267] [cursor=pointer]
+```

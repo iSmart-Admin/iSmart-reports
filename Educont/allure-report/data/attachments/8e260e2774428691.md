@@ -1,0 +1,134 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+              - button "11" [ref=e48] [cursor=pointer]
+              - button "12" [ref=e49] [cursor=pointer]
+              - button "13" [ref=e50] [cursor=pointer]
+              - button "14" [ref=e51] [cursor=pointer]
+              - button "15" [ref=e52] [cursor=pointer]
+              - button "+" [ref=e53] [cursor=pointer]
+            - button "Редактировать урок" [ref=e54] [cursor=pointer]
+          - generic [ref=e55]:
+            - generic [ref=e56]:
+              - generic [ref=e57]: Отчёты и аналитика
+              - img "Для учителей" [ref=e58] [cursor=pointer]:
+                - img [ref=e60] [cursor=pointer]
+            - generic [ref=e62]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e63] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e64] [cursor=pointer]:
+              - generic [ref=e65] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e66]:
+            - button "Заметки к уроку видны только вам" [ref=e67] [cursor=pointer]:
+              - generic [ref=e68] [cursor=pointer]:
+                - img [ref=e70] [cursor=pointer]
+                - generic [ref=e72] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e73] [cursor=pointer]:
+                - img [ref=e75] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e77] [cursor=pointer]:
+              - generic [ref=e78] [cursor=pointer]:
+                - img [ref=e80] [cursor=pointer]
+                - generic [ref=e82] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e83] [cursor=pointer]:
+              - generic [ref=e84] [cursor=pointer]:
+                - img [ref=e86] [cursor=pointer]
+                - generic [ref=e88] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e89] [cursor=pointer]:
+          - generic [ref=e90] [cursor=pointer]:
+            - img "schoolIcon" [ref=e91] [cursor=pointer]
+            - generic [ref=e92] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e93] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e95] [cursor=pointer]
+      - generic [ref=e99]:
+        - region "Задача для решения" [ref=e101] [cursor=pointer]:
+          - generic [ref=e104]:
+            - generic [ref=e106]:
+              - img [ref=e110]
+              - heading "Впиши пропущенные числа в таблицу." [level=4] [ref=e112]:
+                - generic [ref=e114]: Впиши пропущенные числа в таблицу.
+            - img "decore" [ref=e119]
+            - table [ref=e123]:
+              - rowgroup [ref=e124]:
+                - row "Делимое Делитель Частное" [ref=e125]:
+                  - cell "Делимое" [ref=e126]:
+                    - generic [ref=e128]: Делимое
+                  - cell "Делитель" [ref=e129]:
+                    - generic [ref=e131]: Делитель
+                  - cell "Частное" [ref=e132]:
+                    - generic [ref=e134]: Частное
+              - rowgroup [ref=e135]:
+                - row "6 3 2" [ref=e136]:
+                  - cell "6" [ref=e137]:
+                    - generic [ref=e139]: "6"
+                  - cell "3" [ref=e140]:
+                    - generic [ref=e142]: "3"
+                  - cell "2" [ref=e143]:
+                    - generic [ref=e145]: "2"
+                - row "8 4" [ref=e146]:
+                  - cell "8" [ref=e147]:
+                    - generic [ref=e149]: "8"
+                  - cell [ref=e150]:
+                    - textbox [ref=e152]
+                  - cell "4" [ref=e153]:
+                    - generic [ref=e155]: "4"
+                - row "21 3" [ref=e156]:
+                  - cell "21" [ref=e157]:
+                    - generic [ref=e159]: "21"
+                  - cell "3" [ref=e160]:
+                    - generic [ref=e162]: "3"
+                  - cell [ref=e163]:
+                    - textbox [ref=e165]
+                - row "8 5" [ref=e166]:
+                  - cell [ref=e167]:
+                    - textbox [ref=e169]
+                  - cell "8" [ref=e170]:
+                    - generic [ref=e172]: "8"
+                  - cell "5" [ref=e173]:
+                    - generic [ref=e175]: "5"
+                - row "72 8" [ref=e176]:
+                  - cell "72" [ref=e177]:
+                    - generic [ref=e179]: "72"
+                  - cell [ref=e180]:
+                    - textbox [ref=e182]
+                  - cell "8" [ref=e183]:
+                    - generic [ref=e185]: "8"
+        - button "2 Взять 1 подсказку" [ref=e194] [cursor=pointer]:
+          - generic [ref=e197] [cursor=pointer]: "2"
+          - generic [ref=e198] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e200] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e203] [cursor=pointer]
+```
