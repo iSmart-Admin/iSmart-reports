@@ -1,0 +1,190 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e8]:
+    - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+      - img [ref=e14] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e18]:
+      - generic [ref=e21]:
+        - generic [ref=e22]: Биология
+        - generic [ref=e24]: Подготовка к ВПР
+      - generic [ref=e28] [cursor=pointer]:
+        - img [ref=e30] [cursor=pointer]
+        - generic [ref=e32] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e34]:
+      - generic [ref=e38]:
+        - img [ref=e41]
+        - textbox "Поиск по подтемам" [ref=e44]
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - generic [ref=e47] [cursor=pointer]:
+            - generic [ref=e49] [cursor=pointer]: Темы
+            - button [ref=e51] [cursor=pointer]:
+              - img [ref=e53] [cursor=pointer]
+          - generic [ref=e56] [cursor=pointer]:
+            - generic [ref=e57] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]: Задание 1. Зоология как наука и связь зоологии с другими науками
+              - generic [ref=e63] [cursor=pointer]: 0 %
+            - img [ref=e65] [cursor=pointer]
+          - generic [ref=e67] [cursor=pointer]:
+            - generic [ref=e68] [cursor=pointer]:
+              - generic [ref=e70] [cursor=pointer]: "Задание 2. Животный организм: ткани и органы"
+              - generic [ref=e74] [cursor=pointer]: 0 %
+            - img [ref=e76] [cursor=pointer]
+          - generic [ref=e78] [cursor=pointer]:
+            - generic [ref=e79] [cursor=pointer]:
+              - generic [ref=e81] [cursor=pointer]: Задание 3. Строение и жизнедеятельность организма животного
+              - generic [ref=e85] [cursor=pointer]: 0 %
+            - img [ref=e87] [cursor=pointer]
+          - generic [ref=e89] [cursor=pointer]:
+            - generic [ref=e90] [cursor=pointer]:
+              - generic [ref=e92] [cursor=pointer]: Задание 4. Систематические группы животных
+              - generic [ref=e96] [cursor=pointer]: 0 %
+            - img [ref=e98] [cursor=pointer]
+          - generic [ref=e100] [cursor=pointer]:
+            - generic [ref=e101] [cursor=pointer]:
+              - generic [ref=e103] [cursor=pointer]: Задание 5. Строение и жизнедеятельность организма животного
+              - generic [ref=e107] [cursor=pointer]: 0 %
+            - img [ref=e109] [cursor=pointer]
+          - generic [ref=e111] [cursor=pointer]:
+            - generic [ref=e112] [cursor=pointer]:
+              - generic [ref=e114] [cursor=pointer]: Задание 6. Цикл развития животных
+              - generic [ref=e118] [cursor=pointer]: 0 %
+            - img [ref=e120] [cursor=pointer]
+          - generic [ref=e122] [cursor=pointer]:
+            - generic [ref=e123] [cursor=pointer]:
+              - generic [ref=e125] [cursor=pointer]: Задание 7. Строение и жизнедеятельность организма животного
+              - generic [ref=e129] [cursor=pointer]: 0 %
+            - img [ref=e131] [cursor=pointer]
+          - generic [ref=e133] [cursor=pointer]:
+            - generic [ref=e134] [cursor=pointer]:
+              - generic [ref=e136] [cursor=pointer]: Задание 8. Описание строения и процессов жизнедеятельности животных
+              - generic [ref=e140] [cursor=pointer]: 0 %
+            - img [ref=e142] [cursor=pointer]
+          - generic [ref=e144] [cursor=pointer]:
+            - generic [ref=e145] [cursor=pointer]:
+              - generic [ref=e147] [cursor=pointer]: Задание 9. Работа с данными, представленными в разной форме
+              - generic [ref=e151] [cursor=pointer]: 0 %
+            - img [ref=e153] [cursor=pointer]
+          - generic [ref=e155] [cursor=pointer]:
+            - generic [ref=e156] [cursor=pointer]:
+              - generic [ref=e158] [cursor=pointer]: "Задание 10. Строение и жизнедеятельность животных: описание животных"
+              - generic [ref=e162] [cursor=pointer]: 0 %
+            - img [ref=e164] [cursor=pointer]
+          - generic [ref=e166] [cursor=pointer]:
+            - generic [ref=e167] [cursor=pointer]:
+              - generic [ref=e169] [cursor=pointer]: "Задание 11. Строение и жизнедеятельность животных: выбор верных утверждений"
+              - generic [ref=e173] [cursor=pointer]: 0 %
+            - img [ref=e175] [cursor=pointer]
+          - generic [ref=e177] [cursor=pointer]:
+            - generic [ref=e178] [cursor=pointer]:
+              - generic [ref=e180] [cursor=pointer]: "Задание 12. Строение и жизнедеятельность животных: работа с изображением"
+              - generic [ref=e184] [cursor=pointer]: 0 %
+            - img [ref=e186] [cursor=pointer]
+          - generic [ref=e188] [cursor=pointer]:
+            - generic [ref=e189] [cursor=pointer]:
+              - generic [ref=e191] [cursor=pointer]: Задание 13. Строение и жизнедеятельность животных
+              - generic [ref=e195] [cursor=pointer]: 0 %
+            - img [ref=e197] [cursor=pointer]
+          - generic [ref=e199] [cursor=pointer]:
+            - generic [ref=e200] [cursor=pointer]:
+              - generic [ref=e202] [cursor=pointer]: Задание 14. Строение и жизнедеятельность животных
+              - generic [ref=e206] [cursor=pointer]: 0 %
+            - img [ref=e208] [cursor=pointer]
+          - generic [ref=e210] [cursor=pointer]:
+            - generic [ref=e211] [cursor=pointer]:
+              - generic [ref=e213] [cursor=pointer]: Задание 15. Строение и жизнедеятельность животных
+              - generic [ref=e217] [cursor=pointer]: 0 %
+            - img [ref=e219] [cursor=pointer]
+          - generic [ref=e221] [cursor=pointer]:
+            - generic [ref=e222] [cursor=pointer]:
+              - generic [ref=e224] [cursor=pointer]: "Задание 16. Строение и жизнедеятельность животных: строение и работа органов и систем органов животных"
+              - generic [ref=e228] [cursor=pointer]: 0 %
+            - img [ref=e230] [cursor=pointer]
+          - generic [ref=e232] [cursor=pointer]:
+            - generic [ref=e233] [cursor=pointer]:
+              - generic [ref=e235] [cursor=pointer]: Задание 17. Животные в природных сообществах
+              - generic [ref=e239] [cursor=pointer]: 0 %
+            - img [ref=e241] [cursor=pointer]
+        - generic [ref=e249] [cursor=pointer]:
+          - generic [ref=e250] [cursor=pointer]:
+            - generic [ref=e251] [cursor=pointer]:
+              - generic [ref=e253] [cursor=pointer]: "1."
+              - paragraph [ref=e255] [cursor=pointer]: Зоология как наука и связь зоологии с другими науками
+            - img [ref=e259] [cursor=pointer]
+          - img [ref=e264] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e266]:
+        - generic [ref=e267]:
+          - generic [ref=e268]: Меню разработчика
+          - button [ref=e270] [cursor=pointer]:
+            - img [ref=e272] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e274] [cursor=pointer]
+        - button "Финальная статистика" [ref=e275] [cursor=pointer]
+        - button "Выйти из кода учителя" [ref=e276] [cursor=pointer]
+      - generic [ref=e280]:
+        - generic [ref=e281]:
+          - region "Задача для решения" [ref=e283] [cursor=pointer]:
+            - generic [ref=e284] [cursor=pointer]:
+              - button "Вернуться обратно к подборке" [ref=e287] [cursor=pointer]:
+                - img [ref=e290] [cursor=pointer]
+                - text: Вернуться обратно к подборке
+              - generic [ref=e293]:
+                - generic [ref=e295]:
+                  - img [ref=e299]
+                  - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e301]:
+                    - generic [ref=e303]: Внесите ответ в специально предназначенное поле.
+                - generic [ref=e305]:
+                  - img "decore" [ref=e308]
+                  - generic [ref=e310]:
+                    - img "DALL·E 2025-02-24 18.47.32 - A scientist studying a mammal in the wild. The scientist, wearing outdoor research gear, is measuring a small mammal (such as a hamster or a rabbit) w" [ref=e313]
+                    - generic [ref=e316]:
+                      - generic [ref=e317]: 1 — орнитолог
+                      - generic [ref=e318]: 2 — териолог
+                      - generic [ref=e319]: 3 — герпетолог
+                      - generic [ref=e320]: 4 — энтомолог
+                      - generic [ref=e321]: Как называют специалиста-зоолога, объектом изучения которого является изображённое на фотографии животное?
+                - generic [ref=e325]:
+                  - generic [ref=e326]: Впишите номер подходящего утверждения в поле ввода ответов.
+                  - generic [ref=e327]:
+                    - strong [ref=e328]: Ответ
+                    - text: ":"
+                    - textbox [active] [ref=e329]
+          - generic [ref=e335]:
+            - generic [ref=e338]:
+              - button [disabled] [ref=e340]:
+                - img [ref=e342]
+              - generic [ref=e345]: 100%
+              - button [ref=e347] [cursor=pointer]:
+                - img [ref=e349] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e354] [cursor=pointer]:
+              - generic [ref=e357] [cursor=pointer]: "2"
+              - generic [ref=e358] [cursor=pointer]: Показать подсказку
+        - generic [ref=e362]:
+          - generic [ref=e365]: Интеллектуальный тренажер
+          - generic [ref=e369]:
+            - generic [ref=e374]: 1 из 7
+            - generic [ref=e378]:
+              - img [ref=e379]
+              - generic [ref=e381]: Вы вошли как ученик 9 «А»
+          - generic [ref=e382]:
+            - generic [ref=e384]:
+              - button "Черновик" [ref=e385] [cursor=pointer]:
+                - img [ref=e388] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e391] [cursor=pointer]:
+                - img [ref=e394] [cursor=pointer]
+                - text: Сообщить об ошибке
+            - generic [ref=e396]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e397] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e400] [cursor=pointer]
+              - generic [ref=e403]: 69a9a7e3b5ec3d0007abbc4f
+```

@@ -1,0 +1,122 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+              - button "11" [ref=e48] [cursor=pointer]
+              - button "12" [ref=e49] [cursor=pointer]
+              - button "13" [ref=e50] [cursor=pointer]
+              - button "14" [ref=e51] [cursor=pointer]
+              - button "15" [ref=e52] [cursor=pointer]
+              - button "+" [ref=e53] [cursor=pointer]
+            - button "Редактировать урок" [ref=e54] [cursor=pointer]
+          - generic [ref=e55]:
+            - generic [ref=e56]:
+              - generic [ref=e57]: Отчёты и аналитика
+              - img "Для учителей" [ref=e58] [cursor=pointer]:
+                - img [ref=e60] [cursor=pointer]
+            - generic [ref=e62]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e63] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e64] [cursor=pointer]:
+              - generic [ref=e65] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e66]:
+            - button "Заметки к уроку видны только вам" [ref=e67] [cursor=pointer]:
+              - generic [ref=e68] [cursor=pointer]:
+                - img [ref=e70] [cursor=pointer]
+                - generic [ref=e72] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e73] [cursor=pointer]:
+                - img [ref=e75] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e77] [cursor=pointer]:
+              - generic [ref=e78] [cursor=pointer]:
+                - img [ref=e80] [cursor=pointer]
+                - generic [ref=e82] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e83] [cursor=pointer]:
+              - generic [ref=e84] [cursor=pointer]:
+                - img [ref=e86] [cursor=pointer]
+                - generic [ref=e88] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e89] [cursor=pointer]:
+          - generic [ref=e90] [cursor=pointer]:
+            - img "schoolIcon" [ref=e91] [cursor=pointer]
+            - generic [ref=e92] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e93] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e95] [cursor=pointer]
+      - generic [ref=e99]:
+        - region "Задача для решения" [ref=e101] [cursor=pointer]:
+          - generic [ref=e104]:
+            - generic [ref=e106]:
+              - img [ref=e110]
+              - heading "Заполни таблицу данными из диаграммы." [level=4] [ref=e112]:
+                - generic [ref=e114]: Заполни таблицу данными из диаграммы.
+            - generic [ref=e116]:
+              - img "decore" [ref=e119]
+              - img [ref=e124]
+            - table [ref=e131]:
+              - rowgroup [ref=e132]:
+                - row "Количество участников соревнований 2018-2020 Годы Количество участников 2018 2019 60 2020" [ref=e133]:
+                  - cell "Количество участников соревнований 2018-2020 Годы Количество участников 2018 2019 60 2020" [ref=e134]:
+                    - table [ref=e137]:
+                      - rowgroup [ref=e138]:
+                        - row "Количество участников соревнований 2018-2020" [ref=e139]:
+                          - cell "Количество участников соревнований 2018-2020" [ref=e140]:
+                            - generic [ref=e142]:
+                              - text: Количество участников
+                              - text: соревнований
+                              - text: 2018-2020
+                        - row "Годы Количество участников" [ref=e143]:
+                          - cell "Годы" [ref=e144]:
+                            - generic [ref=e146]: Годы
+                          - cell "Количество участников" [ref=e147]:
+                            - generic [ref=e149]:
+                              - text: Количество
+                              - text: участников
+                        - row "2018" [ref=e150]:
+                          - cell "2018" [ref=e151]:
+                            - generic [ref=e153]: "2018"
+                          - cell [ref=e154]:
+                            - textbox [active] [ref=e157]
+                        - row "2019 60" [ref=e158]:
+                          - cell "2019" [ref=e159]:
+                            - generic [ref=e161]: "2019"
+                          - cell "60" [ref=e162]:
+                            - generic [ref=e164]: "60"
+                        - row "2020" [ref=e165]:
+                          - cell "2020" [ref=e166]:
+                            - generic [ref=e168]: "2020"
+                          - cell [ref=e169]:
+                            - textbox [ref=e172]
+        - button "Далее" [ref=e178] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e181] [cursor=pointer]
+```

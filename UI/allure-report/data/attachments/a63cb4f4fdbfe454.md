@@ -1,0 +1,46 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - link "educontIcon Перейти в \"Моя школа\"" [ref=e12] [cursor=pointer]:
+    - /url: https://www.gosuslugi.ru/school/schedule
+    - img "educontIcon" [ref=e14] [cursor=pointer]
+    - generic [ref=e15] [cursor=pointer]: Перейти в "Моя школа"
+    - img [ref=e17] [cursor=pointer]
+  - button "Назад к курсу" [ref=e19] [cursor=pointer]:
+    - img [ref=e22] [cursor=pointer]
+    - text: Назад к курсу
+  - generic [ref=e24]:
+    - generic [ref=e25]:
+      - img [ref=e27]
+      - generic [ref=e29]: Раздел
+      - generic [ref=e30]: (Только для ознакомления)
+    - generic [ref=e31]:
+      - heading "Случайная величина" [level=1] [ref=e32]
+      - button "Данные раздела" [ref=e33] [cursor=pointer]:
+        - img [ref=e36] [cursor=pointer]
+        - text: Данные раздела
+  - generic [ref=e39]:
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - img [ref=e45]
+        - generic [ref=e48]: Случайная величина
+      - button [ref=e51] [cursor=pointer]:
+        - img [ref=e55] [cursor=pointer]
+    - generic [ref=e58]:
+      - generic [ref=e62]: Математическое ожидание и дисперсия случайной величины
+      - button [ref=e64] [cursor=pointer]:
+        - img [ref=e66] [cursor=pointer]
+    - generic [ref=e69]:
+      - generic [ref=e73]: Случайная величина и распределение вероятностей
+      - generic [ref=e74]:
+        - button:
+          - generic:
+            - img
+    - generic [ref=e76]:
+      - generic [ref=e80]: Понятие о законе больших чисел
+      - generic [ref=e81]:
+        - button:
+          - generic:
+            - img
+```
