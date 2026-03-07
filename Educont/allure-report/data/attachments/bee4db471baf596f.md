@@ -1,0 +1,97 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "+" [ref=e42] [cursor=pointer]
+            - button "Редактировать урок" [ref=e43] [cursor=pointer]
+          - generic [ref=e44]:
+            - generic [ref=e45]:
+              - generic [ref=e46]: Отчёты и аналитика
+              - img "Для учителей" [ref=e47] [cursor=pointer]:
+                - img [ref=e49] [cursor=pointer]
+            - generic [ref=e51]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e52] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e53] [cursor=pointer]:
+              - generic [ref=e54] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e55]:
+            - button "Заметки к уроку видны только вам" [ref=e56] [cursor=pointer]:
+              - generic [ref=e57] [cursor=pointer]:
+                - img [ref=e59] [cursor=pointer]
+                - generic [ref=e61] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e62] [cursor=pointer]:
+                - img [ref=e64] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e66] [cursor=pointer]:
+              - generic [ref=e67] [cursor=pointer]:
+                - img [ref=e69] [cursor=pointer]
+                - generic [ref=e71] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e72] [cursor=pointer]:
+              - generic [ref=e73] [cursor=pointer]:
+                - img [ref=e75] [cursor=pointer]
+                - generic [ref=e77] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e78] [cursor=pointer]:
+          - generic [ref=e79] [cursor=pointer]:
+            - img "schoolIcon" [ref=e80] [cursor=pointer]
+            - generic [ref=e81] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e82] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e84] [cursor=pointer]
+      - generic [ref=e88]:
+        - region "Задача для решения" [ref=e90] [cursor=pointer]:
+          - generic [ref=e93]:
+            - generic [ref=e95]:
+              - img [ref=e99]
+              - heading "Внеси числовой ответ в специально предназначенное поле." [level=4] [ref=e101]:
+                - generic [ref=e103]: Внеси числовой ответ в специально предназначенное поле.
+            - generic [ref=e105]:
+              - img "decore" [ref=e108]
+              - generic [ref=e114]:
+                - text: Квадрат со стороной
+                - generic [ref=e116]:
+                  - math [ref=e118]:
+                    - generic [ref=e121]: "2"
+                  - generic [ref=e124]: "2"
+                - text: разделён на
+                - generic [ref=e126]:
+                  - math [ref=e128]:
+                    - generic [ref=e131]: "4"
+                  - generic [ref=e134]: "4"
+                - text: равные части, как показано на рисунке ниже. Какова вероятность, что случайно выбранная точка попадёт в синюю часть?
+            - generic [ref=e139]:
+              - img [ref=e141]
+              - strong [ref=e153]: Ответ
+              - text: ":"
+              - textbox [ref=e154]
+              - text: .
+        - button "2 Взять 1 подсказку" [ref=e164] [cursor=pointer]:
+          - generic [ref=e167] [cursor=pointer]: "2"
+          - generic [ref=e168] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e170] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e173] [cursor=pointer]
+```

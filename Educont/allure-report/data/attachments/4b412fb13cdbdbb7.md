@@ -1,0 +1,119 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+              - button "11" [ref=e48] [cursor=pointer]
+              - button "12" [ref=e49] [cursor=pointer]
+              - button "+" [ref=e50] [cursor=pointer]
+            - button "Редактировать урок" [ref=e51] [cursor=pointer]
+          - generic [ref=e52]:
+            - generic [ref=e53]:
+              - generic [ref=e54]: Отчёты и аналитика
+              - img "Для учителей" [ref=e55] [cursor=pointer]:
+                - img [ref=e57] [cursor=pointer]
+            - generic [ref=e59]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e60] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e61] [cursor=pointer]:
+              - generic [ref=e62] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e63]:
+            - button "Заметки к уроку видны только вам" [ref=e64] [cursor=pointer]:
+              - generic [ref=e65] [cursor=pointer]:
+                - img [ref=e67] [cursor=pointer]
+                - generic [ref=e69] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e70] [cursor=pointer]:
+                - img [ref=e72] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e74] [cursor=pointer]:
+              - generic [ref=e75] [cursor=pointer]:
+                - img [ref=e77] [cursor=pointer]
+                - generic [ref=e79] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e80] [cursor=pointer]:
+              - generic [ref=e81] [cursor=pointer]:
+                - img [ref=e83] [cursor=pointer]
+                - generic [ref=e85] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e86] [cursor=pointer]:
+          - generic [ref=e87] [cursor=pointer]:
+            - img "schoolIcon" [ref=e88] [cursor=pointer]
+            - generic [ref=e89] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e90] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e92] [cursor=pointer]
+      - generic [ref=e96]:
+        - region "Задача для решения" [ref=e98] [cursor=pointer]:
+          - generic [ref=e99] [cursor=pointer]:
+            - generic [ref=e100] [cursor=pointer]:
+              - generic [ref=e101] [cursor=pointer]:
+                - heading "Современный язык программирования - Python" [level=4] [ref=e102] [cursor=pointer]
+                - button [ref=e103] [cursor=pointer]:
+                  - img [ref=e105] [cursor=pointer]
+              - generic [ref=e107] [cursor=pointer]:
+                - generic [ref=e108] [cursor=pointer]:
+                  - generic [ref=e109] [cursor=pointer]: Откройте мир Python вместе с вашими учениками!
+                  - generic [ref=e110] [cursor=pointer]: Один клик — и вы узнаете, какие задания по программированию ждут ваших учеников!
+                - link "Посмотреть курс" [ref=e111] [cursor=pointer]:
+                  - /url: https://www.gosuslugi.ru/edu-content/lesson/76301
+                  - button "Посмотреть курс" [ref=e112] [cursor=pointer]:
+                    - img [ref=e115] [cursor=pointer]
+                    - text: Посмотреть курс
+            - generic [ref=e118]:
+              - generic [ref=e120]:
+                - img [ref=e124]
+                - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e126]:
+                  - generic [ref=e128]: Внеси ответ в специально предназначенное поле.
+              - generic [ref=e130]:
+                - img "decore" [ref=e133]
+                - generic [ref=e138]:
+                  - generic [ref=e139]: Переведи число в десятичную систему счисления.
+                  - generic [ref=e140]:
+                    - text: Число задано в шестнадцатеричной системе счисления и имеет следующий вид
+                    - generic [ref=e142]:
+                      - math [ref=e144]:
+                        - generic [ref=e146]:
+                          - generic [ref=e147]: "17"
+                          - generic [ref=e148]: АС
+                      - generic [ref=e150]:
+                        - generic [ref=e151]: "17"
+                        - generic [ref=e152]: АС
+                    - text: .
+              - generic [ref=e157]:
+                - strong [ref=e158]: Ответ
+                - text: ":"
+                - textbox [ref=e159]
+        - button "2 Взять 1 подсказку" [ref=e169] [cursor=pointer]:
+          - generic [ref=e172] [cursor=pointer]: "2"
+          - generic [ref=e173] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e175] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e178] [cursor=pointer]
+```
