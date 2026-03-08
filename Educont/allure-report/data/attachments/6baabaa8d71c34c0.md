@@ -1,0 +1,98 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading [level=4] [ref=e43]:
+                    - img [ref=e46]
+                - generic [ref=e64]:
+                  - generic [ref=e66]:
+                    - img "decore"
+                  - img [ref=e70]
+                - generic [ref=e88]:
+                  - generic [ref=e89]:
+                    - img [ref=e94]
+                    - img [ref=e118]
+                  - generic [ref=e138]:
+                    - button [ref=e142] [cursor=pointer]:
+                      - img [ref=e145] [cursor=pointer]
+                    - button [ref=e165] [cursor=pointer]:
+                      - img [ref=e168] [cursor=pointer]
+                    - button [ref=e188] [cursor=pointer]:
+                      - img [ref=e191] [cursor=pointer]
+                    - button [ref=e211] [cursor=pointer]:
+                      - img [ref=e214] [cursor=pointer]
+                    - button [ref=e234] [cursor=pointer]:
+                      - img [ref=e237] [cursor=pointer]
+                    - button [ref=e257] [cursor=pointer]:
+                      - img [ref=e260] [cursor=pointer]
+                    - button [ref=e280] [cursor=pointer]:
+                      - img [ref=e283] [cursor=pointer]
+                    - button [ref=e303] [cursor=pointer]:
+                      - img [ref=e306] [cursor=pointer]
+                    - button [ref=e326] [cursor=pointer]:
+                      - img [ref=e329] [cursor=pointer]
+                    - button [ref=e349] [cursor=pointer]:
+                      - img [ref=e352] [cursor=pointer]
+          - generic [ref=e373]:
+            - generic [ref=e376]:
+              - button [disabled] [ref=e378]:
+                - img [ref=e380]
+              - generic [ref=e383]: 100%
+              - button [ref=e385] [cursor=pointer]:
+                - img [ref=e387] [cursor=pointer]
+            - generic [ref=e392]:
+              - img [ref=e394]
+              - generic [ref=e411]: Загрузка подсказок...
+        - generic [ref=e415]:
+          - generic [ref=e418]: Интеллектуальный тренажер
+          - generic [ref=e422]:
+            - generic [ref=e427]: 1 из 15
+            - generic [ref=e429]:
+              - generic [ref=e430]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e432] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e435]:
+            - generic [ref=e437]:
+              - button "Пройти опрос" [ref=e438] [cursor=pointer]:
+                - generic [ref=e440] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e441] [cursor=pointer]:
+                - img [ref=e444] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e447] [cursor=pointer]:
+                - img [ref=e450] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e454] [cursor=pointer]:
+                - img [ref=e457] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e459]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e460] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e463] [cursor=pointer]
+              - generic [ref=e466]: 69ad0479a2db7b00070bc2f8
+  - generic [ref=e475]:
+    - generic [ref=e477]: Урок
+    - generic [ref=e478]: Низшие растения. Зеленые водоросли
+    - button "Приступить" [active] [ref=e479] [cursor=pointer]
+```

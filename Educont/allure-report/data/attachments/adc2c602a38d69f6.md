@@ -1,0 +1,245 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e18]:
+        - generic [ref=e19]: Логика
+        - generic [ref=e21]: Раздел с заданиями на развитие логического мышления
+      - button "Методические рекомендации" [ref=e24] [cursor=pointer]
+    - generic [ref=e25]:
+      - generic [ref=e30]:
+        - button "Подготовка к школе" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: Подготовка к школе
+        - button "1" [ref=e37]:
+          - img [ref=e41]
+          - text: "1"
+        - button "2" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e61] [cursor=pointer]:
+          - img [ref=e65] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e67] [cursor=pointer]:
+          - img [ref=e71] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e73] [cursor=pointer]:
+          - img [ref=e77] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e79] [cursor=pointer]:
+          - img [ref=e83] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e85] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+          - text: "9"
+      - generic [ref=e92]:
+        - generic [ref=e96]:
+          - img [ref=e99]
+          - textbox "Поиск по подтемам" [ref=e102]
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - generic [ref=e105] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Темы
+              - button [ref=e109] [cursor=pointer]:
+                - img [ref=e111] [cursor=pointer]
+            - generic [ref=e114] [cursor=pointer]:
+              - generic [ref=e117] [cursor=pointer]: Логические задачи 1 класс (часть 1)
+              - img [ref=e119] [cursor=pointer]
+            - generic [ref=e121] [cursor=pointer]:
+              - generic [ref=e124] [cursor=pointer]: Логические задачи 1 класс (часть 2)
+              - img [ref=e126] [cursor=pointer]
+            - generic [ref=e128] [cursor=pointer]:
+              - generic [ref=e131] [cursor=pointer]: Логические задачи 1 класс (часть 3)
+              - img [ref=e133] [cursor=pointer]
+            - generic [ref=e135] [cursor=pointer]:
+              - generic [ref=e138] [cursor=pointer]: Логические задачи 1 класс (часть 4)
+              - img [ref=e140] [cursor=pointer]
+            - generic [ref=e142] [cursor=pointer]:
+              - generic [ref=e145] [cursor=pointer]: Креативное мышление
+              - img [ref=e147] [cursor=pointer]
+          - generic [ref=e153]:
+            - link "1. Задачи на внимание" [ref=e154] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/60488c52f5cbde001d2886f0/
+              - generic [ref=e155] [cursor=pointer]:
+                - generic [ref=e157] [cursor=pointer]:
+                  - generic [ref=e159] [cursor=pointer]: "1."
+                  - paragraph [ref=e161] [cursor=pointer]: Задачи на внимание
+                - img [ref=e164] [cursor=pointer]
+            - link "2. Задачи на размещение предметов" [ref=e166] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/60488c6b741162001d04bfb4/
+              - generic [ref=e167] [cursor=pointer]:
+                - generic [ref=e169] [cursor=pointer]:
+                  - generic [ref=e171] [cursor=pointer]: "2."
+                  - paragraph [ref=e173] [cursor=pointer]: Задачи на размещение предметов
+                - img [ref=e176] [cursor=pointer]
+            - link "3. Размещение. Право-лево" [ref=e178] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/60488c8339b7e9001d91ae96/
+              - generic [ref=e179] [cursor=pointer]:
+                - generic [ref=e181] [cursor=pointer]:
+                  - generic [ref=e183] [cursor=pointer]: "3."
+                  - paragraph [ref=e185] [cursor=pointer]: Размещение. Право-лево
+                - img [ref=e188] [cursor=pointer]
+            - link "4. Количество объектов" [ref=e190] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/60488c9939b7e9001d91ae99/
+              - generic [ref=e191] [cursor=pointer]:
+                - generic [ref=e193] [cursor=pointer]:
+                  - generic [ref=e195] [cursor=pointer]: "4."
+                  - paragraph [ref=e197] [cursor=pointer]: Количество объектов
+                - img [ref=e200] [cursor=pointer]
+            - link "5. Задачи на разрезание" [ref=e202] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/60488cb039b7e9001d91ae9c/
+              - generic [ref=e203] [cursor=pointer]:
+                - generic [ref=e205] [cursor=pointer]:
+                  - generic [ref=e207] [cursor=pointer]: "5."
+                  - paragraph [ref=e209] [cursor=pointer]: Задачи на разрезание
+                - img [ref=e212] [cursor=pointer]
+            - link "6. Задачи про семью" [ref=e214] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/605d825664db07001d40fdda/
+              - generic [ref=e215] [cursor=pointer]:
+                - generic [ref=e217] [cursor=pointer]:
+                  - generic [ref=e219] [cursor=pointer]: "6."
+                  - paragraph [ref=e221] [cursor=pointer]: Задачи про семью
+                - img [ref=e224] [cursor=pointer]
+            - link "7. Сравнение свойств предметов" [ref=e226] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/6049fe61712840001e0ffd92/
+              - generic [ref=e227] [cursor=pointer]:
+                - generic [ref=e229] [cursor=pointer]:
+                  - generic [ref=e231] [cursor=pointer]: "7."
+                  - paragraph [ref=e233] [cursor=pointer]: Сравнение свойств предметов
+                - img [ref=e236] [cursor=pointer]
+            - link "8. Промежутки (интервалы). Счёт предметов" [ref=e238] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/605d82653f9ee0001cfc0c6a/
+              - generic [ref=e239] [cursor=pointer]:
+                - generic [ref=e241] [cursor=pointer]:
+                  - generic [ref=e243] [cursor=pointer]: "8."
+                  - paragraph [ref=e245] [cursor=pointer]: Промежутки (интервалы). Счёт предметов
+                - img [ref=e248] [cursor=pointer]
+            - link "9. Порядковый счёт. Счёт предметов" [ref=e250] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/605851f10427f8001ce1864d/
+              - generic [ref=e251] [cursor=pointer]:
+                - generic [ref=e253] [cursor=pointer]:
+                  - generic [ref=e255] [cursor=pointer]: "9."
+                  - paragraph [ref=e257] [cursor=pointer]: Порядковый счёт. Счёт предметов
+                - img [ref=e260] [cursor=pointer]
+            - link "10. Задачи на возраст" [ref=e262] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/60585205b99934001c4ded91/
+              - generic [ref=e263] [cursor=pointer]:
+                - generic [ref=e265] [cursor=pointer]:
+                  - generic [ref=e267] [cursor=pointer]: "10."
+                  - paragraph [ref=e269] [cursor=pointer]: Задачи на возраст
+                - img [ref=e272] [cursor=pointer]
+            - link "11. Решение проблемы" [ref=e274] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/6058521f0427f8001ce1869c/
+              - generic [ref=e275] [cursor=pointer]:
+                - generic [ref=e277] [cursor=pointer]:
+                  - generic [ref=e279] [cursor=pointer]: "11."
+                  - paragraph [ref=e281] [cursor=pointer]: Решение проблемы
+                - img [ref=e284] [cursor=pointer]
+            - link "12. Геометрия" [ref=e286] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/606350875b4f4f001df7bca0/
+              - generic [ref=e287] [cursor=pointer]:
+                - generic [ref=e289] [cursor=pointer]:
+                  - generic [ref=e291] [cursor=pointer]: "12."
+                  - paragraph [ref=e293] [cursor=pointer]: Геометрия
+                - img [ref=e296] [cursor=pointer]
+            - link "13. Предварительный тур 1" [ref=e298] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/606350789de3e8001d8266ff/
+              - generic [ref=e299] [cursor=pointer]:
+                - generic [ref=e301] [cursor=pointer]:
+                  - generic [ref=e303] [cursor=pointer]: "13."
+                  - paragraph [ref=e305] [cursor=pointer]: Предварительный тур 1
+                - img [ref=e308] [cursor=pointer]
+            - link "14. Предварительный тур 2" [ref=e310] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/60746cbdae78b5001dfe9341/
+              - generic [ref=e311] [cursor=pointer]:
+                - generic [ref=e313] [cursor=pointer]:
+                  - generic [ref=e315] [cursor=pointer]: "14."
+                  - paragraph [ref=e317] [cursor=pointer]: Предварительный тур 2
+                - img [ref=e320] [cursor=pointer]
+            - link "15. Предварительный тур 3" [active] [ref=e322] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef0b8409440019b57b36/60746cd0068ab3001da9e9e9/
+              - generic [ref=e323] [cursor=pointer]:
+                - generic [ref=e325] [cursor=pointer]:
+                  - generic [ref=e327] [cursor=pointer]: "15."
+                  - paragraph [ref=e329] [cursor=pointer]: Предварительный тур 3
+                - img [ref=e332] [cursor=pointer]
+  - generic [ref=e335]:
+    - generic [ref=e336]:
+      - generic [ref=e337]:
+        - generic [ref=e341]:
+          - img [ref=e343]
+          - link "8 (800) 600-44-02" [ref=e345] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e346]:
+          - generic [ref=e347]: "@"
+          - link "info@ismart.org" [ref=e348] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e349]:
+          - img [ref=e351]
+          - generic [ref=e353]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e354]:
+        - link "Наш сайт" [ref=e357] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e359] [cursor=pointer]
+        - generic [ref=e361]:
+          - link "Лицензия" [ref=e363] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e365] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e367] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e369] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e371] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e373]:
+      - generic [ref=e374]:
+        - link [ref=e375] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e379] [cursor=pointer]
+        - generic [ref=e382]:
+          - link "okIcon" [ref=e383] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e384] [cursor=pointer]
+          - link "dzenIcon" [ref=e385] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e386] [cursor=pointer]
+          - link "vkIcon" [ref=e387] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e388] [cursor=pointer]
+      - generic [ref=e390]:
+        - generic [ref=e392]:
+          - generic [ref=e393]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e394] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e395]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e396] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e397]:
+          - generic [ref=e398]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e399] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e400]: © iSmart, 2018-2026
+```

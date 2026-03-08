@@ -1,0 +1,363 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e18]:
+        - generic [ref=e19]: Русский язык
+        - generic [ref=e21]: Подготовка к контрольным работам
+      - button "Методические рекомендации" [ref=e24] [cursor=pointer]
+    - generic [ref=e25]:
+      - generic [ref=e30]:
+        - button "2" [ref=e31]:
+          - img [ref=e35]
+          - text: "2"
+        - button "3" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e61] [cursor=pointer]:
+          - img [ref=e65] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e67] [cursor=pointer]:
+          - img [ref=e71] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e73] [cursor=pointer]:
+          - img [ref=e77] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e79] [cursor=pointer]:
+          - img [ref=e83] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e85] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e92]:
+        - generic [ref=e96]:
+          - img [ref=e99]
+          - textbox "Поиск по подтемам" [ref=e102]
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - generic [ref=e105] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Темы
+              - button [ref=e109] [cursor=pointer]:
+                - img [ref=e111] [cursor=pointer]
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e116] [cursor=pointer]: Подготовка к контрольной 1 четверть
+              - img [ref=e118] [cursor=pointer]
+            - generic [ref=e120] [cursor=pointer]:
+              - generic [ref=e123] [cursor=pointer]: Подготовка к контрольной 2 четверть
+              - img [ref=e125] [cursor=pointer]
+            - generic [ref=e127] [cursor=pointer]:
+              - generic [ref=e130] [cursor=pointer]: Подготовка к контрольной I полугодие
+              - img [ref=e132] [cursor=pointer]
+            - generic [ref=e134] [cursor=pointer]:
+              - generic [ref=e137] [cursor=pointer]: Подготовка к контрольной 3 четверть
+              - img [ref=e139] [cursor=pointer]
+            - generic [ref=e141] [cursor=pointer]:
+              - generic [ref=e144] [cursor=pointer]: Подготовка к контрольной 4 четверть
+              - img [ref=e146] [cursor=pointer]
+            - generic [ref=e148] [cursor=pointer]:
+              - generic [ref=e151] [cursor=pointer]: Подготовка к контрольной II полугодие
+              - img [ref=e153] [cursor=pointer]
+            - generic [ref=e156] [cursor=pointer]:
+              - generic [ref=e159] [cursor=pointer]: Подготовка к Итоговой контрольной работе
+              - img [ref=e161] [cursor=pointer]
+          - generic [ref=e167]:
+            - link "1. Знаки препинания в конце предложения." [ref=e168] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624c109ceef180766f671410/
+              - generic [ref=e169] [cursor=pointer]:
+                - generic [ref=e171] [cursor=pointer]:
+                  - generic [ref=e173] [cursor=pointer]: "1."
+                  - paragraph [ref=e175] [cursor=pointer]: Знаки препинания в конце предложения.
+                - img [ref=e178] [cursor=pointer]
+            - link "2. Главные члены предложения" [ref=e180] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624c10d5eef1801175671411/
+              - generic [ref=e181] [cursor=pointer]:
+                - generic [ref=e183] [cursor=pointer]:
+                  - generic [ref=e185] [cursor=pointer]: "2."
+                  - paragraph [ref=e187] [cursor=pointer]: Главные члены предложения
+                - img [ref=e190] [cursor=pointer]
+            - link "3. Второстепенные члены предложения" [ref=e192] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624c111feef180281e671412/
+              - generic [ref=e193] [cursor=pointer]:
+                - generic [ref=e195] [cursor=pointer]:
+                  - generic [ref=e197] [cursor=pointer]: "3."
+                  - paragraph [ref=e199] [cursor=pointer]: Второстепенные члены предложения
+                - img [ref=e202] [cursor=pointer]
+            - link "4. Родственные слова" [ref=e204] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624c1157eef1800bc2671413/
+              - generic [ref=e205] [cursor=pointer]:
+                - generic [ref=e207] [cursor=pointer]:
+                  - generic [ref=e209] [cursor=pointer]: "4."
+                  - paragraph [ref=e211] [cursor=pointer]: Родственные слова
+                - img [ref=e214] [cursor=pointer]
+            - link "5. Корень — общая часть родственных слов" [ref=e216] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624c1189eef180c99f671414/
+              - generic [ref=e217] [cursor=pointer]:
+                - generic [ref=e219] [cursor=pointer]:
+                  - generic [ref=e221] [cursor=pointer]: "5."
+                  - paragraph [ref=e223] [cursor=pointer]: Корень — общая часть родственных слов
+                - img [ref=e226] [cursor=pointer]
+            - link "6. Определи корень слова" [ref=e228] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624c12e4eef1804ead671415/
+              - generic [ref=e229] [cursor=pointer]:
+                - generic [ref=e231] [cursor=pointer]:
+                  - generic [ref=e233] [cursor=pointer]: "6."
+                  - paragraph [ref=e235] [cursor=pointer]: Определи корень слова
+                - img [ref=e238] [cursor=pointer]
+            - link "7. Проверка безударных гласных" [ref=e240] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624c1316eef1802476671416/
+              - generic [ref=e241] [cursor=pointer]:
+                - generic [ref=e243] [cursor=pointer]:
+                  - generic [ref=e245] [cursor=pointer]: "7."
+                  - paragraph [ref=e247] [cursor=pointer]: Проверка безударных гласных
+                - img [ref=e250] [cursor=pointer]
+            - link "8. Проверка парных согласных" [ref=e252] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624c1337eef180d9e1671417/
+              - generic [ref=e253] [cursor=pointer]:
+                - generic [ref=e255] [cursor=pointer]:
+                  - generic [ref=e257] [cursor=pointer]: "8."
+                  - paragraph [ref=e259] [cursor=pointer]: Проверка парных согласных
+                - img [ref=e262] [cursor=pointer]
+            - link "9. Заглавная буква в словах" [ref=e264] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cdc86fca195d715e6f030/
+              - generic [ref=e265] [cursor=pointer]:
+                - generic [ref=e267] [cursor=pointer]:
+                  - generic [ref=e269] [cursor=pointer]: "9."
+                  - paragraph [ref=e271] [cursor=pointer]: Заглавная буква в словах
+                - img [ref=e274] [cursor=pointer]
+            - link "10. Мягкий знак — показатель мягкости предшествующего согласного" [ref=e276] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cdca3fca1951961e6f031/
+              - generic [ref=e277] [cursor=pointer]:
+                - generic [ref=e279] [cursor=pointer]:
+                  - generic [ref=e281] [cursor=pointer]: "10."
+                  - paragraph [ref=e283] [cursor=pointer]: Мягкий знак — показатель мягкости предшествующего согласного
+                - img [ref=e286] [cursor=pointer]
+            - link "11. Буквосочетания ЧК, ЧН, ЧТ, ЩН, НЧ" [ref=e288] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cdcdbfca1951e7fe6f032/
+              - generic [ref=e289] [cursor=pointer]:
+                - generic [ref=e291] [cursor=pointer]:
+                  - generic [ref=e293] [cursor=pointer]: "11."
+                  - paragraph [ref=e295] [cursor=pointer]: Буквосочетания ЧК, ЧН, ЧТ, ЩН, НЧ
+                - img [ref=e298] [cursor=pointer]
+            - link "12. Буквосочетания ЖИ-ШИ, ЧА-ЩА, ЧУ-ЩУ" [ref=e300] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cdcf8fca1953d3be6f033/
+              - generic [ref=e301] [cursor=pointer]:
+                - generic [ref=e303] [cursor=pointer]:
+                  - generic [ref=e305] [cursor=pointer]: "12."
+                  - paragraph [ref=e307] [cursor=pointer]: Буквосочетания ЖИ-ШИ, ЧА-ЩА, ЧУ-ЩУ
+                - img [ref=e310] [cursor=pointer]
+            - link "13. Разделительный Ь или Ъ?" [ref=e312] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cdd23fca195dbf2e6f034/
+              - generic [ref=e313] [cursor=pointer]:
+                - generic [ref=e315] [cursor=pointer]:
+                  - generic [ref=e317] [cursor=pointer]: "13."
+                  - paragraph [ref=e319] [cursor=pointer]: Разделительный Ь или Ъ?
+                - img [ref=e322] [cursor=pointer]
+            - link "14. Определи части речи" [ref=e324] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cdd4bfca195779ce6f035/
+              - generic [ref=e325] [cursor=pointer]:
+                - generic [ref=e327] [cursor=pointer]:
+                  - generic [ref=e329] [cursor=pointer]: "14."
+                  - paragraph [ref=e331] [cursor=pointer]: Определи части речи
+                - img [ref=e334] [cursor=pointer]
+            - link "15. Имя существительное как часть речи" [ref=e336] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cdd66fca195d6dee6f036/
+              - generic [ref=e337] [cursor=pointer]:
+                - generic [ref=e339] [cursor=pointer]:
+                  - generic [ref=e341] [cursor=pointer]: "15."
+                  - paragraph [ref=e343] [cursor=pointer]: Имя существительное как часть речи
+                - img [ref=e346] [cursor=pointer]
+            - link "16. Имя существительное в тексте" [ref=e348] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cdd84fca1957d3be6f037/
+              - generic [ref=e349] [cursor=pointer]:
+                - generic [ref=e351] [cursor=pointer]:
+                  - generic [ref=e353] [cursor=pointer]: "16."
+                  - paragraph [ref=e355] [cursor=pointer]: Имя существительное в тексте
+                - img [ref=e358] [cursor=pointer]
+            - link "17. Одушевлённые и неодушевлённые существительные" [ref=e360] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cddaafca1957c40e6f038/
+              - generic [ref=e361] [cursor=pointer]:
+                - generic [ref=e363] [cursor=pointer]:
+                  - generic [ref=e365] [cursor=pointer]: "17."
+                  - paragraph [ref=e367] [cursor=pointer]: Одушевлённые и неодушевлённые существительные
+                - img [ref=e370] [cursor=pointer]
+            - link "18. Собственные и нарицательные существительные" [ref=e372] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cddc3fca1959838e6f039/
+              - generic [ref=e373] [cursor=pointer]:
+                - generic [ref=e375] [cursor=pointer]:
+                  - generic [ref=e377] [cursor=pointer]: "18."
+                  - paragraph [ref=e379] [cursor=pointer]: Собственные и нарицательные существительные
+                - img [ref=e382] [cursor=pointer]
+            - link "19. Единственное и множественное число имён существительных" [ref=e384] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cddeafca195ec5ae6f03a/
+              - generic [ref=e385] [cursor=pointer]:
+                - generic [ref=e387] [cursor=pointer]:
+                  - generic [ref=e389] [cursor=pointer]: "19."
+                  - paragraph [ref=e391] [cursor=pointer]: Единственное и множественное число имён существительных
+                - img [ref=e394] [cursor=pointer]
+            - link "20. Глагол как часть речи" [ref=e396] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cde12fca19542bce6f03b/
+              - generic [ref=e397] [cursor=pointer]:
+                - generic [ref=e399] [cursor=pointer]:
+                  - generic [ref=e401] [cursor=pointer]: "20."
+                  - paragraph [ref=e403] [cursor=pointer]: Глагол как часть речи
+                - img [ref=e406] [cursor=pointer]
+            - link "21. Глагол в тексте" [ref=e408] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cde2bfca19544a4e6f03c/
+              - generic [ref=e409] [cursor=pointer]:
+                - generic [ref=e411] [cursor=pointer]:
+                  - generic [ref=e413] [cursor=pointer]: "21."
+                  - paragraph [ref=e415] [cursor=pointer]: Глагол в тексте
+                - img [ref=e418] [cursor=pointer]
+            - link "22. Единственное и множественное число глагола" [ref=e420] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cde46fca1957078e6f03d/
+              - generic [ref=e421] [cursor=pointer]:
+                - generic [ref=e423] [cursor=pointer]:
+                  - generic [ref=e425] [cursor=pointer]: "22."
+                  - paragraph [ref=e427] [cursor=pointer]: Единственное и множественное число глагола
+                - img [ref=e430] [cursor=pointer]
+            - link "23. НЕ с глаголами" [ref=e432] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cde60fca1959de2e6f03e/
+              - generic [ref=e433] [cursor=pointer]:
+                - generic [ref=e435] [cursor=pointer]:
+                  - generic [ref=e437] [cursor=pointer]: "23."
+                  - paragraph [ref=e439] [cursor=pointer]: НЕ с глаголами
+                - img [ref=e442] [cursor=pointer]
+            - link "24. Имя прилагательное как часть речи" [ref=e444] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cde81fca1954fa3e6f03f/
+              - generic [ref=e445] [cursor=pointer]:
+                - generic [ref=e447] [cursor=pointer]:
+                  - generic [ref=e449] [cursor=pointer]: "24."
+                  - paragraph [ref=e451] [cursor=pointer]: Имя прилагательное как часть речи
+                - img [ref=e454] [cursor=pointer]
+            - link "25. Связь прилагательного с существительным" [ref=e456] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cde97fca1954ec8e6f040/
+              - generic [ref=e457] [cursor=pointer]:
+                - generic [ref=e459] [cursor=pointer]:
+                  - generic [ref=e461] [cursor=pointer]: "25."
+                  - paragraph [ref=e463] [cursor=pointer]: Связь прилагательного с существительным
+                - img [ref=e466] [cursor=pointer]
+            - link "26. Число имён прилагательных" [ref=e468] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cdeb5fca19545e3e6f041/
+              - generic [ref=e469] [cursor=pointer]:
+                - generic [ref=e471] [cursor=pointer]:
+                  - generic [ref=e473] [cursor=pointer]: "26."
+                  - paragraph [ref=e475] [cursor=pointer]: Число имён прилагательных
+                - img [ref=e478] [cursor=pointer]
+            - link "27. Имя прилагательное в тексте" [ref=e480] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cded4fca195f3ace6f042/
+              - generic [ref=e481] [cursor=pointer]:
+                - generic [ref=e483] [cursor=pointer]:
+                  - generic [ref=e485] [cursor=pointer]: "27."
+                  - paragraph [ref=e487] [cursor=pointer]: Имя прилагательное в тексте
+                - img [ref=e490] [cursor=pointer]
+            - link "28. Предлог как часть речи" [ref=e492] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cdeeffca19549d2e6f043/
+              - generic [ref=e493] [cursor=pointer]:
+                - generic [ref=e495] [cursor=pointer]:
+                  - generic [ref=e497] [cursor=pointer]: "28."
+                  - paragraph [ref=e499] [cursor=pointer]: Предлог как часть речи
+                - img [ref=e502] [cursor=pointer]
+            - link "29. Предлог в тексте" [ref=e504] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cdf14fca195708ae6f044/
+              - generic [ref=e505] [cursor=pointer]:
+                - generic [ref=e507] [cursor=pointer]:
+                  - generic [ref=e509] [cursor=pointer]: "29."
+                  - paragraph [ref=e511] [cursor=pointer]: Предлог в тексте
+                - img [ref=e514] [cursor=pointer]
+            - link "30. Правописание предлогов" [ref=e516] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cdf2efca1953499e6f045/
+              - generic [ref=e517] [cursor=pointer]:
+                - generic [ref=e519] [cursor=pointer]:
+                  - generic [ref=e521] [cursor=pointer]: "30."
+                  - paragraph [ref=e523] [cursor=pointer]: Правописание предлогов
+                - img [ref=e526] [cursor=pointer]
+            - link "31. Местоимение как часть речи" [active] [ref=e528] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef178409440019b57b37/624cdf46fca1955defe6f046/
+              - generic [ref=e529] [cursor=pointer]:
+                - generic [ref=e531] [cursor=pointer]:
+                  - generic [ref=e533] [cursor=pointer]: "31."
+                  - paragraph [ref=e535] [cursor=pointer]: Местоимение как часть речи
+                - img [ref=e538] [cursor=pointer]
+  - generic [ref=e541]:
+    - generic [ref=e542]:
+      - generic [ref=e543]:
+        - generic [ref=e547]:
+          - img [ref=e549]
+          - link "8 (800) 600-44-02" [ref=e551] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e552]:
+          - generic [ref=e553]: "@"
+          - link "info@ismart.org" [ref=e554] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e555]:
+          - img [ref=e557]
+          - generic [ref=e559]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e560]:
+        - link "Наш сайт" [ref=e563] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e565] [cursor=pointer]
+        - generic [ref=e567]:
+          - link "Лицензия" [ref=e569] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e571] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e573] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e575] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e577] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e579]:
+      - generic [ref=e580]:
+        - link [ref=e581] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e585] [cursor=pointer]
+        - generic [ref=e588]:
+          - link "okIcon" [ref=e589] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e590] [cursor=pointer]
+          - link "dzenIcon" [ref=e591] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e592] [cursor=pointer]
+          - link "vkIcon" [ref=e593] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e594] [cursor=pointer]
+      - generic [ref=e596]:
+        - generic [ref=e598]:
+          - generic [ref=e599]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e600] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e601]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e602] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e603]:
+          - generic [ref=e604]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e605] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e606]: © iSmart, 2018-2026
+```

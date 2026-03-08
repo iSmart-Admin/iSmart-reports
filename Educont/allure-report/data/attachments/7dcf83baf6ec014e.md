@@ -1,0 +1,52 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - region "Задача для решения" [ref=e25] [cursor=pointer]:
+          - generic [ref=e26] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - img [ref=e36] [cursor=pointer]
+        - generic [ref=e62]:
+          - generic [ref=e65]: Интеллектуальный тренажер
+          - generic [ref=e69]:
+            - generic [ref=e75]: 0 из 14
+            - generic [ref=e77]:
+              - generic [ref=e78]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e80] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e83]:
+            - generic [ref=e85]:
+              - button "Черновик" [ref=e86] [cursor=pointer]:
+                - img [ref=e89] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e92] [cursor=pointer]:
+                - img [ref=e95] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e99] [cursor=pointer]:
+                - img [ref=e102] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e104]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e105] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e108] [cursor=pointer]
+              - generic [ref=e111]: 69ad030ba2db7b00070bb7bf
+  - generic [ref=e121]:
+    - generic [ref=e123]: Урок
+    - generic [ref=e124]: Произведения отечественных прозаиков второй половины XX - начала XXI века (не менее двух). Например, В.Ф.Тендрякова, А.Жвалевского, Е.Пастернак, В.П.Астафьева, Б.П.Екимова, В.К.Железникова, Ю.В.Бондарева. Темы, идеи, система образов, проблематика, сюжет. Основные герои. Художественное мастерство писателей.
+    - button "Приступить" [active] [ref=e125] [cursor=pointer]
+```

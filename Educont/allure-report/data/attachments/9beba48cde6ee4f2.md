@@ -1,0 +1,125 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Внесите ответ в специально предназначенное поле.
+                - generic [ref=e47]:
+                  - img "decore" [ref=e50]
+                  - generic [ref=e56]:
+                    - text: В жидкость с показателем преломления
+                    - generic [ref=e58]:
+                      - math [ref=e60]:
+                        - generic [ref=e62]:
+                          - generic [ref=e63]: "n"
+                          - generic [ref=e64]: =
+                          - generic [ref=e65]: "1"
+                          - generic [ref=e66]: ","
+                          - generic [ref=e67]: "8"
+                      - generic [ref=e68]:
+                        - generic [ref=e69]:
+                          - generic [ref=e70]: "n"
+                          - generic [ref=e71]: =
+                        - generic [ref=e72]:
+                          - generic [ref=e73]: "1"
+                          - generic [ref=e74]: ","
+                          - generic [ref=e75]: "8"
+                    - text: помещён источник света. На каком максимальном расстоянии над источником надо поместить диск диаметром
+                    - generic [ref=e77]:
+                      - math [ref=e79]:
+                        - generic [ref=e81]:
+                          - generic [ref=e82]: D
+                          - generic [ref=e83]: =
+                          - generic [ref=e84]: "4"
+                          - generic [ref=e85]: см
+                      - generic [ref=e86]:
+                        - generic [ref=e87]:
+                          - generic [ref=e88]: D
+                          - generic [ref=e89]: =
+                        - generic [ref=e90]:
+                          - generic [ref=e91]: "4"
+                          - generic [ref=e92]: см
+                    - text: ", чтобы свет не вышел из жидкости в воздух? Глубина погружения источника"
+                    - generic [ref=e94]:
+                      - math [ref=e96]:
+                        - generic [ref=e98]:
+                          - generic [ref=e99]: H
+                          - generic [ref=e100]: =
+                          - generic [ref=e101]: "4"
+                          - generic [ref=e102]: см
+                      - generic [ref=e103]:
+                        - generic [ref=e104]:
+                          - generic [ref=e105]: H
+                          - generic [ref=e106]: =
+                        - generic [ref=e107]:
+                          - generic [ref=e108]: "4"
+                          - generic [ref=e109]: см
+                    - text: .
+                - generic [ref=e114]:
+                  - strong [ref=e115]: "Ответ:"
+                  - text: расстояние над источником
+                  - textbox [ref=e116]
+                  - text: см.
+          - generic [ref=e122]:
+            - generic [ref=e125]:
+              - button [disabled] [ref=e127]:
+                - img [ref=e129]
+              - generic [ref=e132]: 100%
+              - button [ref=e134] [cursor=pointer]:
+                - img [ref=e136] [cursor=pointer]
+            - generic [ref=e141]:
+              - img [ref=e143]
+              - generic [ref=e160]: Загрузка подсказок...
+        - generic [ref=e164]:
+          - generic [ref=e167]: Интеллектуальный тренажер
+          - generic [ref=e171]:
+            - generic [ref=e176]: 1 из 7
+            - generic [ref=e178]:
+              - generic [ref=e179]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e181] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e184]:
+            - generic [ref=e186]:
+              - button "Пройти опрос" [ref=e187] [cursor=pointer]:
+                - generic [ref=e189] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e190] [cursor=pointer]:
+                - img [ref=e193] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e196] [cursor=pointer]:
+                - img [ref=e199] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e203] [cursor=pointer]:
+                - img [ref=e206] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e208]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e209] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e212] [cursor=pointer]
+              - generic [ref=e215]: 69acf8f5a2db7b00070b3017
+  - generic [ref=e224]:
+    - generic [ref=e226]: Урок
+    - generic [ref=e227]: Законы преломления света. Полное внутреннее отражение.
+    - button "Приступить" [active] [ref=e228] [cursor=pointer]
+```
