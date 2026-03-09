@@ -1,0 +1,76 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Выберите верный вариант ответа." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Выберите верный вариант ответа.
+                - generic [ref=e47]:
+                  - img "decore" [ref=e50]
+                  - generic [ref=e56]: Выберите верное определение эволюции.
+                - generic [ref=e61]:
+                  - generic [ref=e63] [cursor=pointer]: Эволюция — это процесс последовательных изменений биосферы во времени.
+                  - generic [ref=e65] [cursor=pointer]: Эволюция — это процесс развития организмов.
+                  - generic [ref=e67] [cursor=pointer]: Эволюция — это процесс изменения организма в течение жизни.
+          - generic [ref=e72]:
+            - generic [ref=e75]:
+              - button [disabled] [ref=e77]:
+                - img [ref=e79]
+              - generic [ref=e82]: 100%
+              - button [ref=e84] [cursor=pointer]:
+                - img [ref=e86] [cursor=pointer]
+            - generic [ref=e91]:
+              - img [ref=e93]
+              - generic [ref=e110]: Загрузка подсказок...
+        - generic [ref=e114]:
+          - generic [ref=e117]: Интеллектуальный тренажер
+          - generic [ref=e121]:
+            - generic [ref=e126]: 1 из 10
+            - generic [ref=e128]:
+              - generic [ref=e129]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e131] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e134]:
+            - generic [ref=e136]:
+              - button "Пройти опрос" [ref=e137] [cursor=pointer]:
+                - generic [ref=e139] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e140] [cursor=pointer]:
+                - img [ref=e143] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e146] [cursor=pointer]:
+                - img [ref=e149] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e153] [cursor=pointer]:
+                - img [ref=e156] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e158]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e159] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e162] [cursor=pointer]
+              - generic [ref=e165]: 69ae56a9df5a1f0007d20731
+  - generic [ref=e174]:
+    - generic [ref=e176]: Урок
+    - generic [ref=e177]: Эволюция и методы её изучения
+    - button "Приступить" [active] [ref=e178] [cursor=pointer]
+```

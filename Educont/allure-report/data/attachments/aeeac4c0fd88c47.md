@@ -1,0 +1,189 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Геометрия
+    - generic [ref=e20]:
+      - generic [ref=e25]:
+        - button "7" [ref=e26]:
+          - img [ref=e30]
+          - text: "7"
+        - button "8" [ref=e32] [cursor=pointer]:
+          - img [ref=e36] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e38] [cursor=pointer]:
+          - img [ref=e42] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e44] [cursor=pointer]:
+          - img [ref=e48] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e50] [cursor=pointer]:
+          - img [ref=e54] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e57]:
+        - generic [ref=e61]:
+          - img [ref=e64]
+          - textbox "Поиск по подтемам" [ref=e67]
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - generic [ref=e70] [cursor=pointer]:
+              - generic [ref=e72] [cursor=pointer]: Темы
+              - button [ref=e74] [cursor=pointer]:
+                - img [ref=e76] [cursor=pointer]
+            - generic [ref=e79] [cursor=pointer]:
+              - generic [ref=e82] [cursor=pointer]: Простейшие геометрические фигуры
+              - img [ref=e84] [cursor=pointer]
+            - generic [ref=e86] [cursor=pointer]:
+              - generic [ref=e89] [cursor=pointer]: Ломаная и многоугольник
+              - img [ref=e91] [cursor=pointer]
+            - generic [ref=e93] [cursor=pointer]:
+              - generic [ref=e96] [cursor=pointer]: Виды углов. Измерение углов
+              - img [ref=e98] [cursor=pointer]
+            - generic [ref=e100] [cursor=pointer]:
+              - generic [ref=e103] [cursor=pointer]: Параллельные прямые
+              - img [ref=e105] [cursor=pointer]
+            - generic [ref=e107] [cursor=pointer]:
+              - generic [ref=e110] [cursor=pointer]: Треугольники
+              - img [ref=e112] [cursor=pointer]
+            - generic [ref=e114] [cursor=pointer]:
+              - generic [ref=e117] [cursor=pointer]: Соотношения между сторонами и углами треугольника
+              - img [ref=e119] [cursor=pointer]
+            - generic [ref=e121] [cursor=pointer]:
+              - generic [ref=e124] [cursor=pointer]: Геометрическое место точек
+              - img [ref=e126] [cursor=pointer]
+            - generic [ref=e128] [cursor=pointer]:
+              - generic [ref=e131] [cursor=pointer]: Окружность
+              - img [ref=e133] [cursor=pointer]
+            - generic [ref=e135] [cursor=pointer]:
+              - generic [ref=e138] [cursor=pointer]: Симметричные фигуры
+              - img [ref=e140] [cursor=pointer]
+          - generic [ref=e146]:
+            - link "1. Простейшие геометрические фигуры" [ref=e147] [cursor=pointer]:
+              - /url: /learn/69863d7e54f5ed00074a7283/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/675f061db028c100075dbc9f/
+              - generic [ref=e148] [cursor=pointer]:
+                - generic [ref=e150] [cursor=pointer]:
+                  - generic [ref=e152] [cursor=pointer]: "1."
+                  - paragraph [ref=e154] [cursor=pointer]: Простейшие геометрические фигуры
+                - img [ref=e157] [cursor=pointer]
+            - link "1. Угол, виды углов. Измерение и сравнение углов" [ref=e159] [cursor=pointer]:
+              - /url: /learn/69863d7e54f5ed00074a7283/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/675f0679b028c100075dbccf/
+              - generic [ref=e160] [cursor=pointer]:
+                - generic [ref=e162] [cursor=pointer]:
+                  - generic [ref=e164] [cursor=pointer]: "1."
+                  - paragraph [ref=e166] [cursor=pointer]: Угол, виды углов. Измерение и сравнение углов
+                - img [ref=e169] [cursor=pointer]
+            - link "2 Взаимное расположение точки и прямой" [ref=e171] [cursor=pointer]:
+              - /url: /learn/69863d7e54f5ed00074a7283/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/6915dd122a019d00087a9000/
+              - generic [ref=e172] [cursor=pointer]:
+                - generic [ref=e174] [cursor=pointer]:
+                  - generic [ref=e176] [cursor=pointer]: "2"
+                  - paragraph [ref=e178] [cursor=pointer]: Взаимное расположение точки и прямой
+                - img [ref=e181] [cursor=pointer]
+            - link "2. Биссектриса угла" [ref=e183] [cursor=pointer]:
+              - /url: /learn/69863d7e54f5ed00074a7283/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/65ff0af8643c050006c52408/
+              - generic [ref=e184] [cursor=pointer]:
+                - generic [ref=e186] [cursor=pointer]:
+                  - generic [ref=e188] [cursor=pointer]: "2."
+                  - paragraph [ref=e190] [cursor=pointer]: Биссектриса угла
+                - img [ref=e193] [cursor=pointer]
+            - link "3. Вертикальные углы" [ref=e195] [cursor=pointer]:
+              - /url: /learn/69863d7e54f5ed00074a7283/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/65ff0adc643c050006c5235c/
+              - generic [ref=e196] [cursor=pointer]:
+                - generic [ref=e198] [cursor=pointer]:
+                  - generic [ref=e200] [cursor=pointer]: "3."
+                  - paragraph [ref=e202] [cursor=pointer]: Вертикальные углы
+                - img [ref=e205] [cursor=pointer]
+            - link "3. Взаимное расположение прямых" [ref=e207] [cursor=pointer]:
+              - /url: /learn/69863d7e54f5ed00074a7283/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/6915dd292a019d00087a921d/
+              - generic [ref=e208] [cursor=pointer]:
+                - generic [ref=e210] [cursor=pointer]:
+                  - generic [ref=e212] [cursor=pointer]: "3."
+                  - paragraph [ref=e214] [cursor=pointer]: Взаимное расположение прямых
+                - img [ref=e217] [cursor=pointer]
+            - link "4. Смежные углы" [ref=e219] [cursor=pointer]:
+              - /url: /learn/69863d7e54f5ed00074a7283/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/65ff0aea643c050006c523d3/
+              - generic [ref=e220] [cursor=pointer]:
+                - generic [ref=e222] [cursor=pointer]:
+                  - generic [ref=e224] [cursor=pointer]: "4."
+                  - paragraph [ref=e226] [cursor=pointer]: Смежные углы
+                - img [ref=e229] [cursor=pointer]
+            - link "6. Паркеты" [active] [ref=e231] [cursor=pointer]:
+              - /url: /learn/69863d7e54f5ed00074a7283/662bb8cfa471430007e0064d/5f3fa2c7f00eca001c8bd3f9/67bce084b7044b0007b65d04/
+              - generic [ref=e232] [cursor=pointer]:
+                - generic [ref=e234] [cursor=pointer]:
+                  - generic [ref=e236] [cursor=pointer]: "6."
+                  - paragraph [ref=e238] [cursor=pointer]: Паркеты
+                - img [ref=e241] [cursor=pointer]
+  - generic [ref=e244]:
+    - generic [ref=e245]:
+      - generic [ref=e246]:
+        - generic [ref=e250]:
+          - img [ref=e252]
+          - link "8 (800) 600-44-02" [ref=e254] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e255]:
+          - generic [ref=e256]: "@"
+          - link "info@ismart.org" [ref=e257] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e258]:
+          - img [ref=e260]
+          - generic [ref=e262]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e263]:
+        - link "Наш сайт" [ref=e266] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e268] [cursor=pointer]
+        - generic [ref=e270]:
+          - link "Лицензия" [ref=e272] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e274] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e276] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e278] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e280] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e282]:
+      - generic [ref=e283]:
+        - link [ref=e284] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e288] [cursor=pointer]
+        - generic [ref=e291]:
+          - link "okIcon" [ref=e292] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e293] [cursor=pointer]
+          - link "dzenIcon" [ref=e294] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e295] [cursor=pointer]
+          - link "vkIcon" [ref=e296] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e297] [cursor=pointer]
+      - generic [ref=e299]:
+        - generic [ref=e301]:
+          - generic [ref=e302]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e303] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e304]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e305] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e306]:
+          - generic [ref=e307]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e308] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e309]: © iSmart, 2018-2026
+```

@@ -1,0 +1,85 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Определи стилистическую принадлежность выделенного слова." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Определи стилистическую принадлежность выделенного слова.
+                - generic [ref=e47]:
+                  - img "decore" [ref=e50]
+                  - generic [ref=e52]:
+                    - heading "Стал он кликать золотую рыбку," [level=3] [ref=e54]:
+                      - text: Стал он
+                      - strong [ref=e55]: кликать
+                      - text: золотую рыбку,
+                    - heading "Приплыла к нему рыбка, спросила:" [level=3] [ref=e56]
+                    - heading "«Чего тебе надобно, старче?»" [level=3] [ref=e57]
+                    - heading "(А. Пушкин)" [level=4] [ref=e59]:
+                      - emphasis [ref=e60]: (А. Пушкин)
+                - generic [ref=e65]:
+                  - generic [ref=e67] [cursor=pointer]: нейтральное
+                  - generic [ref=e69] [cursor=pointer]: разговорное
+                  - generic [ref=e71] [cursor=pointer]: книжное
+                  - generic [ref=e73] [cursor=pointer]: просторечное
+          - generic [ref=e78]:
+            - generic [ref=e81]:
+              - button [disabled] [ref=e83]:
+                - img [ref=e85]
+              - generic [ref=e88]: 100%
+              - button [ref=e90] [cursor=pointer]:
+                - img [ref=e92] [cursor=pointer]
+            - generic [ref=e97]:
+              - img [ref=e99]
+              - generic [ref=e116]: Загрузка подсказок...
+        - generic [ref=e120]:
+          - generic [ref=e123]: Интеллектуальный тренажер
+          - generic [ref=e127]:
+            - generic [ref=e132]: 1 из 10
+            - generic [ref=e134]:
+              - generic [ref=e135]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e137] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e140]:
+            - generic [ref=e142]:
+              - button "Пройти опрос" [ref=e143] [cursor=pointer]:
+                - generic [ref=e145] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e146] [cursor=pointer]:
+                - img [ref=e149] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e152] [cursor=pointer]:
+                - img [ref=e155] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e159] [cursor=pointer]:
+                - img [ref=e162] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e164]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e165] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e168] [cursor=pointer]
+              - generic [ref=e171]: 69ae4ed5df5a1f0007d15948
+  - generic [ref=e180]:
+    - generic [ref=e182]: Урок
+    - generic [ref=e183]: Стилистические пласты лексики. Лексический анализ слова
+    - button "Приступить" [active] [ref=e184] [cursor=pointer]
+```

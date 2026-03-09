@@ -1,0 +1,130 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "+" [ref=e47] [cursor=pointer]
+            - button "Редактировать урок" [ref=e48] [cursor=pointer]
+          - generic [ref=e49]:
+            - generic [ref=e50]:
+              - generic [ref=e51]: Отчёты и аналитика
+              - img "Для учителей" [ref=e52] [cursor=pointer]:
+                - img [ref=e54] [cursor=pointer]
+            - generic [ref=e56]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e57] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e58] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e60]:
+            - button "Заметки к уроку видны только вам" [ref=e61] [cursor=pointer]:
+              - generic [ref=e62] [cursor=pointer]:
+                - img [ref=e64] [cursor=pointer]
+                - generic [ref=e66] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e67] [cursor=pointer]:
+                - img [ref=e69] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e71] [cursor=pointer]:
+              - generic [ref=e72] [cursor=pointer]:
+                - img [ref=e74] [cursor=pointer]
+                - generic [ref=e76] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e77] [cursor=pointer]:
+              - generic [ref=e78] [cursor=pointer]:
+                - img [ref=e80] [cursor=pointer]
+                - generic [ref=e82] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e83] [cursor=pointer]:
+          - generic [ref=e84] [cursor=pointer]:
+            - img "schoolIcon" [ref=e85] [cursor=pointer]
+            - generic [ref=e86] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e87] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e89] [cursor=pointer]
+      - generic [ref=e93]:
+        - region "Задача для решения" [ref=e95] [cursor=pointer]:
+          - generic [ref=e96] [cursor=pointer]:
+            - generic [ref=e97] [cursor=pointer]:
+              - generic [ref=e98] [cursor=pointer]:
+                - heading "Современный язык программирования - Python" [level=4] [ref=e99] [cursor=pointer]
+                - button [ref=e100] [cursor=pointer]:
+                  - img [ref=e102] [cursor=pointer]
+              - generic [ref=e104] [cursor=pointer]:
+                - generic [ref=e105] [cursor=pointer]:
+                  - generic [ref=e106] [cursor=pointer]: Откройте мир Python вместе с вашими учениками!
+                  - generic [ref=e107] [cursor=pointer]: Один клик — и вы узнаете, какие задания по программированию ждут ваших учеников!
+                - link "Посмотреть курс" [ref=e108] [cursor=pointer]:
+                  - /url: https://www.gosuslugi.ru/edu-content/lesson/76301
+                  - button "Посмотреть курс" [ref=e109] [cursor=pointer]:
+                    - img [ref=e112] [cursor=pointer]
+                    - text: Посмотреть курс
+            - generic [ref=e115]:
+              - generic [ref=e117]:
+                - img [ref=e121]
+                - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e123]:
+                  - generic [ref=e125]: Внеси ответ в специально предназначенное поле.
+              - generic [ref=e127]:
+                - img "decore" [ref=e130]
+                - generic [ref=e136]:
+                  - text: Экран дисплея имеет разрешение
+                  - generic [ref=e138]:
+                    - math [ref=e140]:
+                      - generic [ref=e142]:
+                        - generic [ref=e143]: "1024"
+                        - generic [ref=e144]: ×
+                        - generic [ref=e145]: "512"
+                    - generic [ref=e146]:
+                      - generic [ref=e147]:
+                        - generic [ref=e148]: "1024"
+                        - generic [ref=e149]: ×
+                      - generic [ref=e151]: "512"
+                  - text: точек. Каждая точка может быть одного из
+                  - generic [ref=e153]:
+                    - math [ref=e155]:
+                      - generic [ref=e158]: "256"
+                    - generic [ref=e161]: "256"
+                  - text: цветов. Определи, сколько бит необходимо для запоминания «одного экрана» в видеопамяти.
+              - generic [ref=e165]:
+                - generic [ref=e166]:
+                  - text: Результат представь как
+                  - generic [ref=e168]:
+                    - math [ref=e170]:
+                      - generic [ref=e173]: "2"
+                    - generic [ref=e176]: "2"
+                  - text: в некоторой степени, в ответ запиши эту степень.
+                - generic [ref=e177]:
+                  - strong [ref=e178]: Ответ
+                  - text: ":"
+                  - textbox [ref=e179]
+        - button "2 Взять 1 подсказку" [ref=e189] [cursor=pointer]:
+          - generic [ref=e192] [cursor=pointer]: "2"
+          - generic [ref=e193] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e195] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e198] [cursor=pointer]
+```

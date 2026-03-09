@@ -1,0 +1,105 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "+" [ref=e44] [cursor=pointer]
+            - button "Редактировать урок" [ref=e45] [cursor=pointer]
+          - generic [ref=e46]:
+            - generic [ref=e47]:
+              - generic [ref=e48]: Отчёты и аналитика
+              - img "Для учителей" [ref=e49] [cursor=pointer]:
+                - img [ref=e51] [cursor=pointer]
+            - generic [ref=e53]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e54] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e55] [cursor=pointer]:
+              - generic [ref=e56] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e57]:
+            - button "Заметки к уроку видны только вам" [ref=e58] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]:
+                - img [ref=e61] [cursor=pointer]
+                - generic [ref=e63] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e64] [cursor=pointer]:
+                - img [ref=e66] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e68] [cursor=pointer]:
+              - generic [ref=e69] [cursor=pointer]:
+                - img [ref=e71] [cursor=pointer]
+                - generic [ref=e73] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e74] [cursor=pointer]:
+              - generic [ref=e75] [cursor=pointer]:
+                - img [ref=e77] [cursor=pointer]
+                - generic [ref=e79] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e80] [cursor=pointer]:
+          - generic [ref=e81] [cursor=pointer]:
+            - img "schoolIcon" [ref=e82] [cursor=pointer]
+            - generic [ref=e83] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e84] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e86] [cursor=pointer]
+      - generic [ref=e90]:
+        - region "Задача для решения" [ref=e92] [cursor=pointer]:
+          - generic [ref=e95]:
+            - generic [ref=e97]:
+              - img [ref=e101]
+              - heading "Перенеси элементы в соответствующие ячейки." [level=4] [ref=e103]:
+                - generic [ref=e105]: Перенеси элементы в соответствующие ячейки.
+            - generic [ref=e107]:
+              - img "decore" [ref=e110]
+              - generic [ref=e116]: Распредели тип взаимоотношений и примеры по нужным колонкам.
+            - generic [ref=e118]:
+              - generic [ref=e119]:
+                - generic [ref=e123]: конкуренция
+                - generic [ref=e130]: симбиоз
+                - generic [ref=e137]: паразитизм
+                - generic [ref=e144]: нейтрализм
+              - generic [ref=e148]:
+                - button "0/0" [ref=e152] [cursor=pointer]:
+                  - generic [ref=e154] [cursor=pointer]: 0/0
+                - button "+/+" [ref=e158] [cursor=pointer]:
+                  - generic [ref=e160] [cursor=pointer]: +/+
+                - button "актиния и рак-отшельник" [ref=e164] [cursor=pointer]:
+                  - generic [ref=e166] [cursor=pointer]: актиния и рак-отшельник
+                - button "сосна и ель" [ref=e170] [cursor=pointer]:
+                  - generic [ref=e172] [cursor=pointer]: сосна и ель
+                - button "-/-" [ref=e176] [cursor=pointer]:
+                  - generic [ref=e178] [cursor=pointer]: "-/-"
+                - button "берёза и гриб-трутовик" [ref=e182] [cursor=pointer]:
+                  - generic [ref=e184] [cursor=pointer]: берёза и гриб-трутовик
+                - button "+/-" [ref=e188] [cursor=pointer]:
+                  - generic [ref=e190] [cursor=pointer]: +/-
+                - button "волк и клевер" [ref=e194] [cursor=pointer]:
+                  - generic [ref=e196] [cursor=pointer]: волк и клевер
+        - button "2 Взять 1 подсказку" [ref=e205] [cursor=pointer]:
+          - generic [ref=e208] [cursor=pointer]: "2"
+          - generic [ref=e209] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e211] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e214] [cursor=pointer]
+```

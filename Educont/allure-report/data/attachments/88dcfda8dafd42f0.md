@@ -1,0 +1,157 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "+" [ref=e41] [cursor=pointer]
+            - button "Редактировать урок" [ref=e42] [cursor=pointer]
+          - generic [ref=e43]:
+            - generic [ref=e44]:
+              - generic [ref=e45]: Отчёты и аналитика
+              - img "Для учителей" [ref=e46] [cursor=pointer]:
+                - img [ref=e48] [cursor=pointer]
+            - generic [ref=e50]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e51] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e52] [cursor=pointer]:
+              - generic [ref=e53] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e54]:
+            - button "Заметки к уроку видны только вам" [ref=e55] [cursor=pointer]:
+              - generic [ref=e56] [cursor=pointer]:
+                - img [ref=e58] [cursor=pointer]
+                - generic [ref=e60] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e61] [cursor=pointer]:
+                - img [ref=e63] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e65] [cursor=pointer]:
+              - generic [ref=e66] [cursor=pointer]:
+                - img [ref=e68] [cursor=pointer]
+                - generic [ref=e70] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e71] [cursor=pointer]:
+              - generic [ref=e72] [cursor=pointer]:
+                - img [ref=e74] [cursor=pointer]
+                - generic [ref=e76] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e77] [cursor=pointer]:
+          - generic [ref=e78] [cursor=pointer]:
+            - img "schoolIcon" [ref=e79] [cursor=pointer]
+            - generic [ref=e80] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e81] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e83] [cursor=pointer]
+      - generic [ref=e87]:
+        - region "Задача для решения" [ref=e89] [cursor=pointer]:
+          - generic [ref=e92]:
+            - generic [ref=e94]:
+              - img [ref=e98]
+              - heading "Выбери верный вариант ответа." [level=4] [ref=e100]:
+                - generic [ref=e102]: Выбери верный вариант ответа.
+            - generic [ref=e104]:
+              - img "decore" [ref=e107]
+              - generic [ref=e113]:
+                - text: Радиоактивный изотоп свинца
+                - generic [ref=e115]:
+                  - math [ref=e117]:
+                    - generic [ref=e119]:
+                      - generic [ref=e120]:
+                        - generic [ref=e121]: "82"
+                        - generic [ref=e122]: "212"
+                      - generic [ref=e123]: P
+                      - generic [ref=e124]: b
+                  - generic [ref=e126]:
+                    - generic [ref=e131]:
+                      - generic [ref=e134]: "82"
+                      - generic [ref=e137]: "212"
+                    - generic [ref=e141]: P
+                    - generic [ref=e142]: b
+                - text: испытал
+                - generic [ref=e144]:
+                  - math [ref=e146]:
+                    - generic [ref=e149]: α
+                  - generic [ref=e152]: α
+                - text: "- распад. Ядро какого изотопа образовалось?"
+            - generic [ref=e155]:
+              - generic [ref=e161] [cursor=pointer]:
+                - math [ref=e163] [cursor=pointer]:
+                  - generic [ref=e165] [cursor=pointer]:
+                    - generic [ref=e166] [cursor=pointer]:
+                      - generic [ref=e167] [cursor=pointer]: "82"
+                      - generic [ref=e168] [cursor=pointer]: "208"
+                    - generic [ref=e169] [cursor=pointer]: P
+                    - generic [ref=e170] [cursor=pointer]: b
+                - generic [ref=e172] [cursor=pointer]:
+                  - generic [ref=e177] [cursor=pointer]:
+                    - generic [ref=e180] [cursor=pointer]: "82"
+                    - generic [ref=e183] [cursor=pointer]: "208"
+                  - generic [ref=e187] [cursor=pointer]: P
+                  - generic [ref=e188] [cursor=pointer]: b
+              - generic [ref=e194] [cursor=pointer]:
+                - math [ref=e196] [cursor=pointer]:
+                  - generic [ref=e198] [cursor=pointer]:
+                    - generic [ref=e199] [cursor=pointer]:
+                      - generic [ref=e200] [cursor=pointer]: "78"
+                      - generic [ref=e201] [cursor=pointer]: "208"
+                    - generic [ref=e202] [cursor=pointer]: P
+                    - generic [ref=e203] [cursor=pointer]: t
+                - generic [ref=e205] [cursor=pointer]:
+                  - generic [ref=e210] [cursor=pointer]:
+                    - generic [ref=e213] [cursor=pointer]: "78"
+                    - generic [ref=e216] [cursor=pointer]: "208"
+                  - generic [ref=e220] [cursor=pointer]: Pt
+              - generic [ref=e226] [cursor=pointer]:
+                - math [ref=e228] [cursor=pointer]:
+                  - generic [ref=e230] [cursor=pointer]:
+                    - generic [ref=e231] [cursor=pointer]:
+                      - generic [ref=e232] [cursor=pointer]: "78"
+                      - generic [ref=e233] [cursor=pointer]: "210"
+                    - generic [ref=e234] [cursor=pointer]: P
+                    - generic [ref=e235] [cursor=pointer]: t
+                - generic [ref=e237] [cursor=pointer]:
+                  - generic [ref=e242] [cursor=pointer]:
+                    - generic [ref=e245] [cursor=pointer]: "78"
+                    - generic [ref=e248] [cursor=pointer]: "210"
+                  - generic [ref=e252] [cursor=pointer]: Pt
+              - generic [ref=e258] [cursor=pointer]:
+                - math [ref=e260] [cursor=pointer]:
+                  - generic [ref=e262] [cursor=pointer]:
+                    - generic [ref=e263] [cursor=pointer]:
+                      - generic [ref=e264] [cursor=pointer]: "90"
+                      - generic [ref=e265] [cursor=pointer]: "230"
+                    - generic [ref=e266] [cursor=pointer]:
+                      - generic [ref=e267] [cursor=pointer]: T
+                      - generic [ref=e268] [cursor=pointer]: h
+                - generic [ref=e270] [cursor=pointer]:
+                  - generic [ref=e275] [cursor=pointer]:
+                    - generic [ref=e278] [cursor=pointer]: "90"
+                    - generic [ref=e281] [cursor=pointer]: "230"
+                  - generic [ref=e285] [cursor=pointer]:
+                    - generic [ref=e286] [cursor=pointer]: T
+                    - generic [ref=e287] [cursor=pointer]: h
+        - button "2 Взять 1 подсказку" [ref=e296] [cursor=pointer]:
+          - generic [ref=e299] [cursor=pointer]: "2"
+          - generic [ref=e300] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e302] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e305] [cursor=pointer]
+```

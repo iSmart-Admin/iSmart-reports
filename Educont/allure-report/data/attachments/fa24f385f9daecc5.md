@@ -1,0 +1,115 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - region "Задача для решения" [ref=e25] [cursor=pointer]:
+          - generic [ref=e26] [cursor=pointer]:
+            - generic [ref=e28]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e34]:
+                - generic [ref=e35]:
+                  - button "1" [ref=e38] [cursor=pointer]
+                  - button "2" [ref=e41] [cursor=pointer]
+                  - button "3" [ref=e44] [cursor=pointer]
+                  - button "4" [ref=e47] [cursor=pointer]
+                  - button "5" [ref=e50] [cursor=pointer]
+                  - button "6" [ref=e53] [cursor=pointer]
+                  - button "7" [ref=e56] [cursor=pointer]
+                  - button "8" [ref=e59] [cursor=pointer]
+                  - button "9" [ref=e62] [cursor=pointer]
+                  - button "10" [ref=e65] [cursor=pointer]
+                - generic [ref=e66]:
+                  - button [disabled] [ref=e67]:
+                    - img [ref=e69]
+                  - button [ref=e72] [cursor=pointer]:
+                    - img [ref=e74] [cursor=pointer]
+            - generic [ref=e76] [cursor=pointer]:
+              - generic [ref=e77] [cursor=pointer]:
+                - heading "Современный язык программирования - Python" [level=4] [ref=e78] [cursor=pointer]
+                - button [ref=e79] [cursor=pointer]:
+                  - img [ref=e81] [cursor=pointer]
+              - generic [ref=e83] [cursor=pointer]:
+                - generic [ref=e84] [cursor=pointer]:
+                  - generic [ref=e85] [cursor=pointer]: Откройте мир Python вместе с вашими учениками!
+                  - generic [ref=e86] [cursor=pointer]: Один клик — и вы узнаете, какие задания по программированию ждут ваших учеников!
+                - link "Посмотреть курс" [ref=e87] [cursor=pointer]:
+                  - /url: https://www.gosuslugi.ru/edu-content/lesson/76276
+                  - button "Посмотреть курс" [ref=e88] [cursor=pointer]:
+                    - img [ref=e91] [cursor=pointer]
+                    - text: Посмотреть курс
+            - generic [ref=e94]:
+              - generic [ref=e96]:
+                - img [ref=e100]
+                - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e102]:
+                  - generic [ref=e104]: Внеси ответ в специально предназначенное поле.
+              - generic [ref=e106]:
+                - img "decore" [ref=e109]
+                - generic [ref=e114]:
+                  - generic [ref=e115]: "На сервере school.edu находится файл test.docx, доступ к которому осуществляется по протоколу http. Фрагменты адреса этого файла закодированы русскими буквами: а, б, в … ё:"
+                  - generic [ref=e116]: а — .edu
+                  - generic [ref=e117]: б — school
+                  - generic [ref=e118]: в — /
+                  - generic [ref=e119]: г — ://
+                  - generic [ref=e120]: д — http
+                  - generic [ref=e121]: е — .docx
+                  - generic [ref=e122]: ё — test
+                  - generic [ref=e123]: Запиши последовательность этих букв, которая кодирует адрес указанного файла в Интернете.
+              - generic [ref=e128]:
+                - strong [ref=e129]: "Ответ:"
+                - textbox [active] [ref=e130]
+                - text: .
+        - generic [ref=e136]:
+          - generic [ref=e139]:
+            - button [disabled] [ref=e141]:
+              - img [ref=e143]
+            - generic [ref=e146]: 100%
+            - button [ref=e148] [cursor=pointer]:
+              - img [ref=e150] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e155] [cursor=pointer]:
+            - generic [ref=e158] [cursor=pointer]: "2"
+            - generic [ref=e159] [cursor=pointer]: Показать подсказку
+      - generic [ref=e163]:
+        - generic [ref=e166]: Интеллектуальный тренажер
+        - generic [ref=e172]:
+          - button "Войти как учитель" [ref=e174] [cursor=pointer]:
+            - img [ref=e177] [cursor=pointer]
+            - text: Войти как учитель
+          - generic [ref=e179]: Для создания собственной версии урока войдите как учитель.
+        - generic [ref=e180]:
+          - generic [ref=e182]:
+            - button "Черновик" [ref=e183] [cursor=pointer]:
+              - img [ref=e186] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e189] [cursor=pointer]:
+              - img [ref=e192] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e194]:
+              - button "Часто задаваемые вопросы" [ref=e196] [cursor=pointer]:
+                - img [ref=e199] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - button "Информация об уроке" [ref=e203] [cursor=pointer]:
+                - img [ref=e206] [cursor=pointer]
+                - text: Информация об уроке
+          - generic [ref=e208]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e209] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e212] [cursor=pointer]
+```

@@ -1,0 +1,98 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - button [ref=e38] [cursor=pointer]:
+                    - img [ref=e40] [cursor=pointer]
+                  - heading "Выбери схему к задаче." [level=4] [ref=e42]:
+                    - generic [ref=e44]: Выбери схему к задаче.
+                - generic [ref=e46]:
+                  - button [ref=e47] [cursor=pointer]:
+                    - img [ref=e49] [cursor=pointer]
+                  - generic [ref=e52]:
+                    - generic [ref=e53]: В тетради Кирилла 12 листов. Он посчитал, что у него осталось всего 4 чистых листа в тетради.
+                    - generic [ref=e54]: Сколько листов Кирилл уже исписал?
+                - generic [ref=e58]:
+                  - img [ref=e64] [cursor=pointer]:
+                    - generic [ref=e67] [cursor=pointer]:
+                      - generic [ref=e69] [cursor=pointer]: всего ?
+                      - generic [ref=e71] [cursor=pointer]: "8"
+                      - generic [ref=e72] [cursor=pointer]: "4"
+                      - generic [ref=e73] [cursor=pointer]: исписал
+                      - generic [ref=e74] [cursor=pointer]: осталось
+                  - img [ref=e80] [cursor=pointer]:
+                    - generic [ref=e83] [cursor=pointer]:
+                      - generic [ref=e85] [cursor=pointer]: всего 12
+                      - generic [ref=e87] [cursor=pointer]: "?"
+                      - generic [ref=e88] [cursor=pointer]: "4"
+                      - generic [ref=e89] [cursor=pointer]: исписал
+                      - generic [ref=e90] [cursor=pointer]: осталось
+                  - img [ref=e96] [cursor=pointer]:
+                    - generic [ref=e99] [cursor=pointer]:
+                      - generic [ref=e101] [cursor=pointer]: всего 12
+                      - generic [ref=e103] [cursor=pointer]: "8"
+                      - generic [ref=e104] [cursor=pointer]: "?"
+                      - generic [ref=e105] [cursor=pointer]: исписал
+                      - generic [ref=e106] [cursor=pointer]: осталось
+          - generic [ref=e111]:
+            - generic [ref=e114]:
+              - button [disabled] [ref=e116]:
+                - img [ref=e118]
+              - generic [ref=e121]: 100%
+              - button [ref=e123] [cursor=pointer]:
+                - img [ref=e125] [cursor=pointer]
+            - generic [ref=e130]:
+              - img [ref=e132]
+              - generic [ref=e149]: Загрузка подсказок...
+        - generic [ref=e153]:
+          - generic [ref=e156]: Интеллектуальный тренажер
+          - generic [ref=e160]:
+            - generic [ref=e165]: 1 из 5
+            - generic [ref=e167]:
+              - generic [ref=e168]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e170] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e173]:
+            - generic [ref=e175]:
+              - button "Пройти опрос" [ref=e176] [cursor=pointer]:
+                - generic [ref=e178] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e179] [cursor=pointer]:
+                - img [ref=e182] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e185] [cursor=pointer]:
+                - img [ref=e188] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e192] [cursor=pointer]:
+                - img [ref=e195] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e197]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e198] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e201] [cursor=pointer]
+              - generic [ref=e204]: 69ae414bdf5a1f0007d067da
+  - generic [ref=e213]:
+    - generic [ref=e215]: Урок
+    - generic [ref=e216]: Структурные элементы текстовой задачи
+    - button "Приступить" [active] [ref=e217] [cursor=pointer]
+```

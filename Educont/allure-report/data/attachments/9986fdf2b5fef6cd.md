@@ -1,0 +1,91 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Внесите ответы в специально предназначенные поля." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Внесите ответы в специально предназначенные поля.
+                - img "decore" [ref=e50]
+                - generic [ref=e55]:
+                  - text: Свободно падающее без начальной скорости тело упало на землю через
+                  - generic [ref=e57]:
+                    - math [ref=e59]:
+                      - generic [ref=e61]:
+                        - generic [ref=e62]: "4"
+                        - generic [ref=e63]: с
+                    - generic [ref=e65]:
+                      - generic [ref=e66]: "4"
+                      - generic [ref=e67]: с
+                  - text: .
+                  - text: С какой скоростью упало тело?
+                  - strong [ref=e68]: Ответ
+                  - text: ":"
+                  - textbox [ref=e69]
+                  - text: м/с
+                  - text: С какой высоты упало тело?
+                  - strong [ref=e70]: Ответ
+                  - text: ":"
+                  - textbox [ref=e71]
+                  - text: м
+          - generic [ref=e77]:
+            - generic [ref=e80]:
+              - button [disabled] [ref=e82]:
+                - img [ref=e84]
+              - generic [ref=e87]: 100%
+              - button [ref=e89] [cursor=pointer]:
+                - img [ref=e91] [cursor=pointer]
+            - generic [ref=e96]:
+              - img [ref=e98]
+              - generic [ref=e115]: Загрузка подсказок...
+        - generic [ref=e119]:
+          - generic [ref=e122]: Интеллектуальный тренажер
+          - generic [ref=e126]:
+            - generic [ref=e131]: 1 из 3
+            - generic [ref=e133]:
+              - generic [ref=e134]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e136] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e139]:
+            - generic [ref=e141]:
+              - button "Пройти опрос" [ref=e142] [cursor=pointer]:
+                - generic [ref=e144] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e145] [cursor=pointer]:
+                - img [ref=e148] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e151] [cursor=pointer]:
+                - img [ref=e154] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e158] [cursor=pointer]:
+                - img [ref=e161] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e163]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e164] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e167] [cursor=pointer]
+              - generic [ref=e170]: 69ae4de4ee68240007608376
+  - generic [ref=e179]:
+    - generic [ref=e181]: Урок
+    - generic [ref=e182]: Свободное падение
+    - button "Приступить" [active] [ref=e183] [cursor=pointer]
+```
