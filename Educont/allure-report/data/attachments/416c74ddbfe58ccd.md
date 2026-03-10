@@ -1,0 +1,198 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+              - button "+" [ref=e48] [cursor=pointer]
+            - button "Редактировать урок" [ref=e49] [cursor=pointer]
+          - generic [ref=e50]:
+            - generic [ref=e51]:
+              - generic [ref=e52]: Отчёты и аналитика
+              - img "Для учителей" [ref=e53] [cursor=pointer]:
+                - img [ref=e55] [cursor=pointer]
+            - generic [ref=e57]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e58] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e59] [cursor=pointer]:
+              - generic [ref=e60] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e61]:
+            - button "Заметки к уроку видны только вам" [ref=e62] [cursor=pointer]:
+              - generic [ref=e63] [cursor=pointer]:
+                - img [ref=e65] [cursor=pointer]
+                - generic [ref=e67] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e68] [cursor=pointer]:
+                - img [ref=e70] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e72] [cursor=pointer]:
+              - generic [ref=e73] [cursor=pointer]:
+                - img [ref=e75] [cursor=pointer]
+                - generic [ref=e77] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e78] [cursor=pointer]:
+              - generic [ref=e79] [cursor=pointer]:
+                - img [ref=e81] [cursor=pointer]
+                - generic [ref=e83] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e84] [cursor=pointer]:
+          - generic [ref=e85] [cursor=pointer]:
+            - img "schoolIcon" [ref=e86] [cursor=pointer]
+            - generic [ref=e87] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e88] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e90] [cursor=pointer]
+      - generic [ref=e94]:
+        - region "Задача для решения" [ref=e96] [cursor=pointer]:
+          - generic [ref=e99]:
+            - generic [ref=e101]:
+              - img [ref=e105]
+              - heading "Укажи морфологические признаки имён существительных из предложения 12." [level=4] [ref=e107]:
+                - generic [ref=e109]: Укажи морфологические признаки имён существительных из предложения 12.
+            - generic [ref=e111]:
+              - img "decore" [ref=e114]
+              - generic [ref=e116]:
+                - table [ref=e119]:
+                  - rowgroup [ref=e120]:
+                    - row "Песенки подо льдом" [ref=e121]:
+                      - cell "Песенки подо льдом" [ref=e122]:
+                        - heading "Песенки подо льдом" [level=4] [ref=e124]:
+                          - strong [ref=e125]: Песенки подо льдом
+                    - row "(1) Это случилось зимой. (2) Я бежал на лыжах по озеру, и вдруг лыжи запели как птицы. (3) А вокруг снег и мороз. (4) Лес молчит, озеро молчит, а лыжи поют! (5) Песенка льётся и звенит. (6) Но ведь это не лыжи поют! (7) Подо льдом кто-то поёт, прямо у меня под ногами. (8) Я лёг на лёд, свесил голову в чёрный провал. (9) За зиму вода в озере усохла. (10) Лёд навис над водой, как лазоревый потолок. (11) Но ведь не рыбы же поют там птичьими голосами? (12) Я стукнул лыжей об лёд. (13) Сейчас же из тёмного провала выпорхнула птица. (14) Так это же оляпка! (15) Птичка кивнула и спела на виду подлёдную песню. (16) Затем она снова юркнула под лёд. (17) Подо льдом ведь ни ветра, ни мороза, ни ястреба. (18) Подо льдом чёрная вода и таинственный, зелёный полумрак. (19) Отражается эхо от ледяного потолка. (20) Вот и поёт подо льдом оляпка свою песню. (21) А мы слушаем." [ref=e126]:
+                      - cell "(1) Это случилось зимой. (2) Я бежал на лыжах по озеру, и вдруг лыжи запели как птицы. (3) А вокруг снег и мороз. (4) Лес молчит, озеро молчит, а лыжи поют! (5) Песенка льётся и звенит. (6) Но ведь это не лыжи поют! (7) Подо льдом кто-то поёт, прямо у меня под ногами. (8) Я лёг на лёд, свесил голову в чёрный провал. (9) За зиму вода в озере усохла. (10) Лёд навис над водой, как лазоревый потолок. (11) Но ведь не рыбы же поют там птичьими голосами? (12) Я стукнул лыжей об лёд. (13) Сейчас же из тёмного провала выпорхнула птица. (14) Так это же оляпка! (15) Птичка кивнула и спела на виду подлёдную песню. (16) Затем она снова юркнула под лёд. (17) Подо льдом ведь ни ветра, ни мороза, ни ястреба. (18) Подо льдом чёрная вода и таинственный, зелёный полумрак. (19) Отражается эхо от ледяного потолка. (20) Вот и поёт подо льдом оляпка свою песню. (21) А мы слушаем." [ref=e127]:
+                        - generic [ref=e128]:
+                          - heading "(1) Это случилось зимой. (2) Я бежал на лыжах по озеру, и вдруг лыжи запели как птицы. (3) А вокруг снег и мороз. (4) Лес молчит, озеро молчит, а лыжи поют! (5) Песенка льётся и звенит. (6) Но ведь это не лыжи поют! (7) Подо льдом кто-то поёт, прямо у меня под ногами." [level=4] [ref=e129]:
+                            - strong [ref=e130]:
+                              - generic [ref=e132]: (1)
+                            - text: Это случилось зимой.
+                            - strong [ref=e133]:
+                              - generic [ref=e135]: (2)
+                            - text: Я бежал на лыжах по озеру, и вдруг лыжи запели как птицы.
+                            - strong [ref=e136]:
+                              - generic [ref=e138]: (3)
+                            - text: А вокруг снег и мороз.
+                            - strong [ref=e139]:
+                              - generic [ref=e141]: (4)
+                            - text: Лес молчит, озеро молчит, а лыжи поют!
+                            - strong [ref=e142]:
+                              - generic [ref=e144]: (5)
+                            - text: Песенка льётся и звенит.
+                            - strong [ref=e145]:
+                              - generic [ref=e147]: (6)
+                            - text: Но ведь это не лыжи поют!
+                            - strong [ref=e148]:
+                              - generic [ref=e150]: (7)
+                            - text: Подо льдом кто-то поёт, прямо у меня под ногами.
+                          - heading "(8) Я лёг на лёд, свесил голову в чёрный провал. (9) За зиму вода в озере усохла. (10) Лёд навис над водой, как лазоревый потолок. (11) Но ведь не рыбы же поют там птичьими голосами?" [level=4] [ref=e151]:
+                            - strong [ref=e152]:
+                              - generic [ref=e154]: (8)
+                            - text: Я лёг на лёд, свесил голову в чёрный провал.
+                            - strong [ref=e155]:
+                              - generic [ref=e157]: (9)
+                            - text: За зиму вода в озере усохла.
+                            - strong [ref=e158]:
+                              - generic [ref=e160]: (10)
+                            - text: Лёд навис над водой, как лазоревый потолок.
+                            - strong [ref=e161]:
+                              - generic [ref=e163]: (11)
+                            - text: Но ведь не рыбы же поют там птичьими голосами?
+                          - heading "(12) Я стукнул лыжей об лёд. (13) Сейчас же из тёмного провала выпорхнула птица. (14) Так это же оляпка! (15) Птичка кивнула и спела на виду подлёдную песню. (16) Затем она снова юркнула под лёд. (17) Подо льдом ведь ни ветра, ни мороза, ни ястреба. (18) Подо льдом чёрная вода и таинственный, зелёный полумрак. (19) Отражается эхо от ледяного потолка. (20) Вот и поёт подо льдом оляпка свою песню. (21) А мы слушаем." [level=4] [ref=e164]:
+                            - strong [ref=e165]:
+                              - generic [ref=e167]: (12)
+                            - text: Я стукнул лыжей об лёд.
+                            - strong [ref=e168]:
+                              - generic [ref=e170]: (13)
+                            - text: Сейчас же из тёмного провала выпорхнула птица.
+                            - strong [ref=e171]:
+                              - generic [ref=e173]: (14)
+                            - text: Так это же оляпка!
+                            - strong [ref=e174]:
+                              - generic [ref=e176]: (15)
+                            - text: Птичка кивнула и спела на виду подлёдную песню.
+                            - strong [ref=e177]:
+                              - generic [ref=e179]: (16)
+                            - text: Затем она снова юркнула под лёд.
+                            - strong [ref=e180]:
+                              - generic [ref=e182]: (17)
+                            - text: Подо льдом ведь ни ветра, ни мороза, ни ястреба.
+                            - strong [ref=e183]:
+                              - generic [ref=e185]: (18)
+                            - text: Подо льдом чёрная вода и таинственный, зелёный полумрак.
+                            - strong [ref=e186]:
+                              - generic [ref=e188]: (19)
+                            - text: Отражается эхо от ледяного потолка.
+                            - strong [ref=e189]:
+                              - generic [ref=e191]: (20)
+                            - text: Вот и поёт подо льдом оляпка свою песню.
+                            - strong [ref=e192]:
+                              - generic [ref=e194]: (21)
+                            - text: А мы слушаем.
+                - heading "(По Н. Сладкову)" [level=4] [ref=e195]:
+                  - emphasis [ref=e196]: (По Н. Сладкову)
+            - table [ref=e203]:
+              - rowgroup [ref=e204]:
+                - row "лыжей об лёд" [ref=e205]:
+                  - cell [ref=e206]
+                  - cell "лыжей" [ref=e207]:
+                    - heading "лыжей" [level=4] [ref=e209]:
+                      - strong [ref=e210]: лыжей
+                  - cell "об лёд" [ref=e211]:
+                    - heading "об лёд" [level=4] [ref=e213]:
+                      - strong [ref=e214]: об лёд
+                - row "число" [ref=e215]:
+                  - cell "число" [ref=e216]:
+                    - heading "число" [level=4] [ref=e218]
+                  - cell [ref=e219]:
+                    - button [ref=e223] [cursor=pointer]
+                  - cell [ref=e224]:
+                    - button [ref=e228] [cursor=pointer]
+                - row "род" [ref=e229]:
+                  - cell "род" [ref=e230]:
+                    - heading "род" [level=4] [ref=e232]
+                  - cell [ref=e233]:
+                    - button [ref=e237] [cursor=pointer]
+                  - cell [ref=e238]:
+                    - button [ref=e242] [cursor=pointer]
+                - row "склонение" [ref=e243]:
+                  - cell "склонение" [ref=e244]:
+                    - heading "склонение" [level=4] [ref=e246]
+                  - cell [ref=e247]:
+                    - button [ref=e251] [cursor=pointer]
+                  - cell [ref=e252]:
+                    - button [ref=e256] [cursor=pointer]
+                - row "падеж" [ref=e257]:
+                  - cell "падеж" [ref=e258]:
+                    - heading "падеж" [level=4] [ref=e260]
+                  - cell [ref=e261]:
+                    - button [ref=e265] [cursor=pointer]
+                  - cell [ref=e266]:
+                    - button [ref=e270] [cursor=pointer]
+        - button "Далее" [ref=e276] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e279] [cursor=pointer]
+```

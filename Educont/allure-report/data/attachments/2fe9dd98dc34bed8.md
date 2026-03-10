@@ -1,0 +1,83 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Распредели слова в два столбика." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Распредели слова в два столбика.
+                - img "decore" [ref=e50]
+                - generic [ref=e52]:
+                  - generic [ref=e53]:
+                    - generic [ref=e57]: в приставке буква С
+                    - generic [ref=e64]: в приставке буква З
+                  - generic [ref=e68]:
+                    - button "бе_смысленный" [ref=e72] [cursor=pointer]:
+                      - generic [ref=e74] [cursor=pointer]: бе_смысленный
+                    - button "бе_действовать" [ref=e78] [cursor=pointer]:
+                      - generic [ref=e80] [cursor=pointer]: бе_действовать
+                    - button "бе_полезный" [ref=e84] [cursor=pointer]:
+                      - generic [ref=e86] [cursor=pointer]: бе_полезный
+                    - button "бе_надёжный" [ref=e90] [cursor=pointer]:
+                      - generic [ref=e92] [cursor=pointer]: бе_надёжный
+          - generic [ref=e97]:
+            - generic [ref=e100]:
+              - button [disabled] [ref=e102]:
+                - img [ref=e104]
+              - generic [ref=e107]: 100%
+              - button [ref=e109] [cursor=pointer]:
+                - img [ref=e111] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e116] [cursor=pointer]:
+              - generic [ref=e119] [cursor=pointer]: "2"
+              - generic [ref=e120] [cursor=pointer]: Показать подсказку
+        - generic [ref=e124]:
+          - generic [ref=e127]: Интеллектуальный тренажер
+          - generic [ref=e131]:
+            - generic [ref=e136]: 1 из 15
+            - generic [ref=e138]:
+              - generic [ref=e139]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e141] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e144]:
+            - generic [ref=e146]:
+              - button "Пройти опрос" [ref=e147] [cursor=pointer]:
+                - generic [ref=e149] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e150] [cursor=pointer]:
+                - img [ref=e153] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e156] [cursor=pointer]:
+                - img [ref=e159] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e163] [cursor=pointer]:
+                - img [ref=e166] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e168]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e169] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e172] [cursor=pointer]
+              - generic [ref=e175]: 69af9965df5a1f00070bce62
+  - generic [ref=e185]:
+    - generic [ref=e187]: Урок
+    - generic [ref=e188]: Повторение по теме "Морфемика. Орфография". Контрольная работа
+    - button "Приступить" [active] [ref=e189] [cursor=pointer]
+```

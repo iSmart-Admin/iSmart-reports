@@ -1,0 +1,81 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Задания урока
+            - img "Подсказка" [ref=e31] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+          - generic [ref=e36]:
+            - button "1" [ref=e37] [cursor=pointer]
+            - button "2" [ref=e38] [cursor=pointer]
+            - button "3" [ref=e39] [cursor=pointer]
+            - button "4" [ref=e40] [cursor=pointer]
+            - button "5" [ref=e41] [cursor=pointer]
+            - button "6" [ref=e42] [cursor=pointer]
+            - button "7" [ref=e43] [cursor=pointer]
+            - button "8" [ref=e44] [cursor=pointer]
+            - button "9" [ref=e45] [cursor=pointer]
+            - button "10" [ref=e46] [cursor=pointer]
+            - button "11" [ref=e47] [cursor=pointer]
+            - button "12" [ref=e48] [cursor=pointer]
+            - button "13" [ref=e49] [cursor=pointer]
+            - button "14" [ref=e50] [cursor=pointer]
+            - button "+" [ref=e51] [cursor=pointer]
+          - button "Редактировать урок" [ref=e52] [cursor=pointer]
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - generic [ref=e55]: Отчёты и аналитика
+            - img "Для учителей" [ref=e56] [cursor=pointer]:
+              - img [ref=e58] [cursor=pointer]
+          - generic [ref=e60]: "Войдите как учитель и настройте класс — тогда вы сможете видеть решения и прогресс учеников: результаты по каждому заданию, ошибки, подсказки, средний балл и общий прогресс."
+          - button "Войти как учитель" [ref=e61] [cursor=pointer]:
+            - generic [ref=e62] [cursor=pointer]: Войти как учитель
+        - generic [ref=e63]:
+          - button "Заметки к уроку видны только вам" [ref=e64] [cursor=pointer]:
+            - generic [ref=e65] [cursor=pointer]:
+              - img [ref=e67] [cursor=pointer]
+              - generic [ref=e69] [cursor=pointer]: Заметки к уроку
+            - button "видны только вам" [ref=e70] [cursor=pointer]:
+              - img [ref=e72] [cursor=pointer]
+          - button "Часто задаваемые вопросы" [ref=e74] [cursor=pointer]:
+            - generic [ref=e75] [cursor=pointer]:
+              - img [ref=e77] [cursor=pointer]
+              - generic [ref=e79] [cursor=pointer]: Часто задаваемые вопросы
+          - button "Сообщить об ошибке" [ref=e80] [cursor=pointer]:
+            - generic [ref=e81] [cursor=pointer]:
+              - img [ref=e83] [cursor=pointer]
+              - generic [ref=e85] [cursor=pointer]: Сообщить об ошибке
+      - generic [ref=e88]:
+        - region "Задача для решения" [ref=e90] [cursor=pointer]:
+          - generic [ref=e93]:
+            - generic [ref=e95]:
+              - img [ref=e99]
+              - heading "Выберите верный вариант ответа." [level=4] [ref=e101]:
+                - generic [ref=e103]: Выберите верный вариант ответа.
+            - generic [ref=e105]:
+              - img "decore" [ref=e108]
+              - generic [ref=e114]: Выберите правильное определение биосферы.
+            - generic [ref=e117]:
+              - generic [ref=e122] [cursor=pointer]: Оболочка Земли, заселённая живыми организмами, находящаяся под их воздействием и занятая продуктами их жизнедеятельности.
+              - generic [ref=e127] [cursor=pointer]: Группа или ассоциация популяций двух или более различных видов, занимающих одну и ту же географическую область в одно и то же время, также известная как биоценоз, биотическое сообщество, биологическое сообщество, экологическое сообщество или жизненный комплекс.
+        - button "2 Взять 1 подсказку" [ref=e136] [cursor=pointer]:
+          - generic [ref=e139] [cursor=pointer]: "2"
+          - generic [ref=e140] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e142] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e145] [cursor=pointer]
+```

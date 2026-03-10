@@ -1,0 +1,157 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "+" [ref=e44] [cursor=pointer]
+            - button "Редактировать урок" [ref=e45] [cursor=pointer]
+          - generic [ref=e46]:
+            - generic [ref=e47]:
+              - generic [ref=e48]: Отчёты и аналитика
+              - img "Для учителей" [ref=e49] [cursor=pointer]:
+                - img [ref=e51] [cursor=pointer]
+            - generic [ref=e53]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e54] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e55] [cursor=pointer]:
+              - generic [ref=e56] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e57]:
+            - button "Заметки к уроку видны только вам" [ref=e58] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]:
+                - img [ref=e61] [cursor=pointer]
+                - generic [ref=e63] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e64] [cursor=pointer]:
+                - img [ref=e66] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e68] [cursor=pointer]:
+              - generic [ref=e69] [cursor=pointer]:
+                - img [ref=e71] [cursor=pointer]
+                - generic [ref=e73] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e74] [cursor=pointer]:
+              - generic [ref=e75] [cursor=pointer]:
+                - img [ref=e77] [cursor=pointer]
+                - generic [ref=e79] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e80] [cursor=pointer]:
+          - generic [ref=e81] [cursor=pointer]:
+            - img "schoolIcon" [ref=e82] [cursor=pointer]
+            - generic [ref=e83] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e84] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e86] [cursor=pointer]
+      - generic [ref=e90]:
+        - region "Задача для решения" [ref=e92] [cursor=pointer]:
+          - generic [ref=e95]:
+            - generic [ref=e97]:
+              - img [ref=e101]
+              - heading "Выбери верный вариант ответа." [level=4] [ref=e103]:
+                - generic [ref=e105]: Выбери верный вариант ответа.
+            - generic [ref=e107]:
+              - img "decore" [ref=e110]
+              - generic [ref=e116]:
+                - text: Электродвигатель с силой тока в цепи, равной
+                - generic [ref=e118]:
+                  - math [ref=e120]:
+                    - generic [ref=e122]:
+                      - generic [ref=e123]: "0"
+                      - generic [ref=e124]: ","
+                      - generic [ref=e125]: "5"
+                      - generic [ref=e126]: А
+                  - generic [ref=e128]:
+                    - generic [ref=e129]: "0"
+                    - generic [ref=e130]: ","
+                    - generic [ref=e131]: "5"
+                    - generic [ref=e132]: А
+                - text: ", и напряжением на клеммах, равным"
+                - generic [ref=e134]:
+                  - math [ref=e136]:
+                    - generic [ref=e138]:
+                      - generic [ref=e139]: "12"
+                      - generic [ref=e140]: В
+                  - generic [ref=e142]:
+                    - generic [ref=e143]: "12"
+                    - generic [ref=e144]: В
+                - text: ", совершает работу. Определи работу двигателя за"
+                - generic [ref=e146]:
+                  - math [ref=e148]:
+                    - generic [ref=e150]:
+                      - generic [ref=e151]: "20"
+                      - generic [ref=e152]: мин
+                  - generic [ref=e154]:
+                    - generic [ref=e155]: "20"
+                    - generic [ref=e156]: мин
+                - text: .
+            - generic [ref=e159]:
+              - button [ref=e161] [cursor=pointer]:
+                - generic [ref=e165] [cursor=pointer]:
+                  - math [ref=e167] [cursor=pointer]:
+                    - generic [ref=e169] [cursor=pointer]:
+                      - generic [ref=e170] [cursor=pointer]: "120"
+                      - generic [ref=e171] [cursor=pointer]: Дж
+                  - generic [ref=e173] [cursor=pointer]:
+                    - generic [ref=e174] [cursor=pointer]: "120"
+                    - generic [ref=e176] [cursor=pointer]: Дж
+              - button [ref=e178] [cursor=pointer]:
+                - generic [ref=e182] [cursor=pointer]:
+                  - math [ref=e184] [cursor=pointer]:
+                    - generic [ref=e186] [cursor=pointer]:
+                      - generic [ref=e187] [cursor=pointer]: "7200"
+                      - generic [ref=e188] [cursor=pointer]: Дж
+                  - generic [ref=e190] [cursor=pointer]:
+                    - generic [ref=e191] [cursor=pointer]: "7200"
+                    - generic [ref=e193] [cursor=pointer]: Дж
+              - button [ref=e195] [cursor=pointer]:
+                - generic [ref=e199] [cursor=pointer]:
+                  - math [ref=e201] [cursor=pointer]:
+                    - generic [ref=e203] [cursor=pointer]:
+                      - generic [ref=e204] [cursor=pointer]: "28"
+                      - generic [ref=e205] [cursor=pointer]: ","
+                      - generic [ref=e206] [cursor=pointer]: "8"
+                      - generic [ref=e207] [cursor=pointer]: кДж
+                  - generic [ref=e209] [cursor=pointer]:
+                    - generic [ref=e210] [cursor=pointer]: "28"
+                    - generic [ref=e211] [cursor=pointer]: ","
+                    - generic [ref=e212] [cursor=pointer]: "8"
+                    - generic [ref=e214] [cursor=pointer]: кДж
+              - button [ref=e216] [cursor=pointer]:
+                - generic [ref=e220] [cursor=pointer]:
+                  - math [ref=e222] [cursor=pointer]:
+                    - generic [ref=e224] [cursor=pointer]:
+                      - generic [ref=e225] [cursor=pointer]: "14"
+                      - generic [ref=e226] [cursor=pointer]: "400"
+                      - generic [ref=e227] [cursor=pointer]: Дж
+                  - generic [ref=e229] [cursor=pointer]:
+                    - generic [ref=e230] [cursor=pointer]: "14"
+                    - generic [ref=e232] [cursor=pointer]: "400"
+                    - generic [ref=e234] [cursor=pointer]: Дж
+        - button "2 Взять 1 подсказку" [ref=e243] [cursor=pointer]:
+          - generic [ref=e246] [cursor=pointer]: "2"
+          - generic [ref=e247] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e249] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e252] [cursor=pointer]
+```

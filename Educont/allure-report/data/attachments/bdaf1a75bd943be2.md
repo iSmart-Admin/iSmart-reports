@@ -1,0 +1,83 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Выбери верный вариант ответа." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Выбери верный вариант ответа.
+                - generic [ref=e47]:
+                  - img "decore" [ref=e50]
+                  - generic [ref=e56]:
+                    - text: «Во имя святой и нераздельной Троицы. Я, Генрих, Божиею милостию император Римский, священный, из любви к Богу, святой Римской церкви и владыке папе Каликсту и ради спасения души моей уступаю Господу Богу, и святым Его апостолам Петру и Павлу, и святой вселенской церкви всякую инвеституру кольцом и посохом и предоставляю во всех церквах, находящихся в пределах королевства моего и империи, свободно совершать каноническое избрание и посвящение. Владения же и державные права св. Петра, кои от начала сей распри и до нынешнего дня, при отце моем или при мне были отняты, возвращаю оной святой Римской церкви, буде они у меня; буде же я их не имею, неложно поспособствую вернуть их. Владения же всех иных церквей, князей и других людей, как клириков, так и мирян, отторгнутые в этой борьбе (in werra ista), я, с согласия и приговора князей, верну, буде они у меня; буде же я их не имею, неложно поспособствую вернуть их. И заключаю честный мир с владыкою папой Каликстом, со святою Римской церковью и со всеми, кто был или есть на их стороне…».
+                    - text: Прочти отрывок источника и укажи его название.
+                - generic [ref=e59]:
+                  - button "Золотая булла" [ref=e61] [cursor=pointer]:
+                    - generic [ref=e63] [cursor=pointer]: Золотая булла
+                  - button "Книга эпарха" [ref=e65] [cursor=pointer]:
+                    - generic [ref=e67] [cursor=pointer]: Книга эпарха
+                  - button "Вормсский конкордат" [ref=e69] [cursor=pointer]:
+                    - generic [ref=e71] [cursor=pointer]: Вормсский конкордат
+                  - button "Латеранский конкордат" [ref=e73] [cursor=pointer]:
+                    - generic [ref=e75] [cursor=pointer]: Латеранский конкордат
+          - generic [ref=e80]:
+            - generic [ref=e83]:
+              - button [disabled] [ref=e85]:
+                - img [ref=e87]
+              - generic [ref=e90]: 100%
+              - button [ref=e92] [cursor=pointer]:
+                - img [ref=e94] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e99] [cursor=pointer]:
+              - generic [ref=e102] [cursor=pointer]: "2"
+              - generic [ref=e103] [cursor=pointer]: Показать подсказку
+        - generic [ref=e107]:
+          - generic [ref=e110]: Интеллектуальный тренажер
+          - generic [ref=e114]:
+            - generic [ref=e119]: 1 из 15
+            - generic [ref=e121]:
+              - generic [ref=e122]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e124] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e127]:
+            - generic [ref=e129]:
+              - button "Пройти опрос" [ref=e130] [cursor=pointer]:
+                - generic [ref=e132] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e133] [cursor=pointer]:
+                - img [ref=e136] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e139] [cursor=pointer]:
+                - img [ref=e142] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e146] [cursor=pointer]:
+                - img [ref=e149] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e151]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e152] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e155] [cursor=pointer]
+              - generic [ref=e158]: 69afaa6dee68240007a80aab
+  - generic [ref=e167]:
+    - generic [ref=e169]: Урок
+    - generic [ref=e170]: Контрольная работа №6. Высокое и позднее Средневековье, часть 2
+    - button "Приступить" [active] [ref=e171] [cursor=pointer]
+```

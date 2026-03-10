@@ -1,0 +1,81 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Впиши пропущенное местоимение и определи его лицо и число." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Впиши пропущенное местоимение и определи его лицо и число.
+                - img "decore" [ref=e50]
+                - generic [ref=e54]:
+                  - heading "А от Шарика пользы мало было. ( , ) только носился, лаял от радости и чихал во все углы." [level=3] [ref=e55]:
+                    - text: А от Шарика пользы мало было.
+                    - textbox [ref=e56]
+                    - text: (
+                    - button [ref=e58] [cursor=pointer]
+                    - text: ","
+                    - button [ref=e60] [cursor=pointer]
+                    - text: ) только носился, лаял от радости и чихал во все углы.
+                  - heading "(Э. Успенский)" [level=4] [ref=e61]:
+                    - emphasis [ref=e62]: (Э. Успенский)
+          - generic [ref=e68]:
+            - generic [ref=e71]:
+              - button [disabled] [ref=e73]:
+                - img [ref=e75]
+              - generic [ref=e78]: 100%
+              - button [ref=e80] [cursor=pointer]:
+                - img [ref=e82] [cursor=pointer]
+            - generic [ref=e87]:
+              - img [ref=e89]
+              - generic [ref=e106]: Загрузка подсказок...
+        - generic [ref=e110]:
+          - generic [ref=e113]: Интеллектуальный тренажер
+          - generic [ref=e117]:
+            - generic [ref=e122]: 1 из 10
+            - generic [ref=e124]:
+              - generic [ref=e125]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e127] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e130]:
+            - generic [ref=e132]:
+              - button "Пройти опрос" [ref=e133] [cursor=pointer]:
+                - generic [ref=e135] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e136] [cursor=pointer]:
+                - img [ref=e139] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e142] [cursor=pointer]:
+                - img [ref=e145] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e149] [cursor=pointer]:
+                - img [ref=e152] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e154]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e155] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e158] [cursor=pointer]
+              - generic [ref=e161]: 69af96a34c93dc0008cedb81
+  - generic [ref=e170]:
+    - generic [ref=e172]: Урок
+    - generic [ref=e173]: Личные местоимения
+    - button "Приступить" [active] [ref=e174] [cursor=pointer]
+```

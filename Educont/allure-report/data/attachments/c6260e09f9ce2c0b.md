@@ -1,0 +1,267 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Обществознание
+      - generic [ref=e21]: Раздел для обучающихся по обществознанию
+    - generic [ref=e22]:
+      - generic [ref=e26]:
+        - button "6" [ref=e27] [cursor=pointer]:
+          - img [ref=e31] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e33] [cursor=pointer]:
+          - img [ref=e37] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e39] [cursor=pointer]:
+          - img [ref=e43] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e45]:
+          - img [ref=e49]
+          - text: "9"
+        - button "10" [ref=e51] [cursor=pointer]:
+          - img [ref=e55] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e57] [cursor=pointer]:
+          - img [ref=e61] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e64]:
+        - generic [ref=e68]:
+          - img [ref=e71]
+          - textbox "Поиск по подтемам" [ref=e74]
+        - generic [ref=e75]:
+          - generic [ref=e76]:
+            - generic [ref=e77] [cursor=pointer]:
+              - generic [ref=e79] [cursor=pointer]: Темы
+              - button [ref=e81] [cursor=pointer]:
+                - img [ref=e83] [cursor=pointer]
+            - generic [ref=e86] [cursor=pointer]:
+              - generic [ref=e89] [cursor=pointer]: Политика и социальное управление
+              - img [ref=e91] [cursor=pointer]
+            - generic [ref=e93] [cursor=pointer]:
+              - generic [ref=e96] [cursor=pointer]: Гражданин и государство
+              - img [ref=e98] [cursor=pointer]
+            - generic [ref=e100] [cursor=pointer]:
+              - generic [ref=e103] [cursor=pointer]: Основы российского законодательства
+              - img [ref=e105] [cursor=pointer]
+          - generic [ref=e111]:
+            - link "1. Политика и власть" [ref=e112] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660562d57362480007b909dc/
+              - generic [ref=e113] [cursor=pointer]:
+                - generic [ref=e115] [cursor=pointer]:
+                  - generic [ref=e117] [cursor=pointer]: "1."
+                  - paragraph [ref=e119] [cursor=pointer]: Политика и власть
+                - img [ref=e122] [cursor=pointer]
+            - link "2. Роль политики в жизни общества" [ref=e124] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660562e77362480007b90b31/
+              - generic [ref=e125] [cursor=pointer]:
+                - generic [ref=e127] [cursor=pointer]:
+                  - generic [ref=e129] [cursor=pointer]: "2."
+                  - paragraph [ref=e131] [cursor=pointer]: Роль политики в жизни общества
+                - img [ref=e134] [cursor=pointer]
+            - link "3. Государство" [ref=e136] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563057362480007b90ddf/
+              - generic [ref=e137] [cursor=pointer]:
+                - generic [ref=e139] [cursor=pointer]:
+                  - generic [ref=e141] [cursor=pointer]: "3."
+                  - paragraph [ref=e143] [cursor=pointer]: Государство
+                - img [ref=e146] [cursor=pointer]
+            - link "4. Отличительные признаки государства" [ref=e148] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563147362480007b90f25/
+              - generic [ref=e149] [cursor=pointer]:
+                - generic [ref=e151] [cursor=pointer]:
+                  - generic [ref=e153] [cursor=pointer]: "4."
+                  - paragraph [ref=e155] [cursor=pointer]: Отличительные признаки государства
+                - img [ref=e158] [cursor=pointer]
+            - link "5. Внутренние и внешние функции государства" [ref=e160] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563237362480007b91060/
+              - generic [ref=e161] [cursor=pointer]:
+                - generic [ref=e163] [cursor=pointer]:
+                  - generic [ref=e165] [cursor=pointer]: "5."
+                  - paragraph [ref=e167] [cursor=pointer]: Внутренние и внешние функции государства
+                - img [ref=e170] [cursor=pointer]
+            - link "6. Формы государства" [ref=e172] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563357362480007b911a5/
+              - generic [ref=e173] [cursor=pointer]:
+                - generic [ref=e175] [cursor=pointer]:
+                  - generic [ref=e177] [cursor=pointer]: "6."
+                  - paragraph [ref=e179] [cursor=pointer]: Формы государства
+                - img [ref=e182] [cursor=pointer]
+            - link "7. Политический режим" [ref=e184] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563427362480007b911c2/
+              - generic [ref=e185] [cursor=pointer]:
+                - generic [ref=e187] [cursor=pointer]:
+                  - generic [ref=e189] [cursor=pointer]: "7."
+                  - paragraph [ref=e191] [cursor=pointer]: Политический режим
+                - img [ref=e194] [cursor=pointer]
+            - link "8. Авторитарный и тоталитарный режимы" [ref=e196] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563517362480007b91309/
+              - generic [ref=e197] [cursor=pointer]:
+                - generic [ref=e199] [cursor=pointer]:
+                  - generic [ref=e201] [cursor=pointer]: "8."
+                  - paragraph [ref=e203] [cursor=pointer]: Авторитарный и тоталитарный режимы
+                - img [ref=e206] [cursor=pointer]
+            - link "9. Демократические ценности. Развитие демократии в современном мире" [ref=e208] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563617362480007b9144f/
+              - generic [ref=e209] [cursor=pointer]:
+                - generic [ref=e211] [cursor=pointer]:
+                  - generic [ref=e213] [cursor=pointer]: "9."
+                  - paragraph [ref=e215] [cursor=pointer]: Демократические ценности. Развитие демократии в современном мире
+                - img [ref=e218] [cursor=pointer]
+            - link "10. Правовое государство" [ref=e220] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563717362480007b91596/
+              - generic [ref=e221] [cursor=pointer]:
+                - generic [ref=e223] [cursor=pointer]:
+                  - generic [ref=e225] [cursor=pointer]: "10."
+                  - paragraph [ref=e227] [cursor=pointer]: Правовое государство
+                - img [ref=e230] [cursor=pointer]
+            - link "11. Разделение властей" [ref=e232] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563827362480007b915a6/
+              - generic [ref=e233] [cursor=pointer]:
+                - generic [ref=e235] [cursor=pointer]:
+                  - generic [ref=e237] [cursor=pointer]: "11."
+                  - paragraph [ref=e239] [cursor=pointer]: Разделение властей
+                - img [ref=e242] [cursor=pointer]
+            - link "12. Условия становления правового государства в РФ" [ref=e244] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563917362480007b915fc/
+              - generic [ref=e245] [cursor=pointer]:
+                - generic [ref=e247] [cursor=pointer]:
+                  - generic [ref=e249] [cursor=pointer]: "12."
+                  - paragraph [ref=e251] [cursor=pointer]: Условия становления правового государства в РФ
+                - img [ref=e254] [cursor=pointer]
+            - link "13. Гражданское общество" [ref=e256] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563a27362480007b91743/
+              - generic [ref=e257] [cursor=pointer]:
+                - generic [ref=e259] [cursor=pointer]:
+                  - generic [ref=e261] [cursor=pointer]: "13."
+                  - paragraph [ref=e263] [cursor=pointer]: Гражданское общество
+                - img [ref=e266] [cursor=pointer]
+            - link "14. Местное самоуправление" [ref=e268] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563b17362480007b91783/
+              - generic [ref=e269] [cursor=pointer]:
+                - generic [ref=e271] [cursor=pointer]:
+                  - generic [ref=e273] [cursor=pointer]: "14."
+                  - paragraph [ref=e275] [cursor=pointer]: Местное самоуправление
+                - img [ref=e278] [cursor=pointer]
+            - link "15. Пути формирования гражданского общества в РФ" [ref=e280] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563c37362480007b918c7/
+              - generic [ref=e281] [cursor=pointer]:
+                - generic [ref=e283] [cursor=pointer]:
+                  - generic [ref=e285] [cursor=pointer]: "15."
+                  - paragraph [ref=e287] [cursor=pointer]: Пути формирования гражданского общества в РФ
+                - img [ref=e290] [cursor=pointer]
+            - link "16. Участие граждан в политической жизни" [ref=e292] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563d37362480007b918d7/
+              - generic [ref=e293] [cursor=pointer]:
+                - generic [ref=e295] [cursor=pointer]:
+                  - generic [ref=e297] [cursor=pointer]: "16."
+                  - paragraph [ref=e299] [cursor=pointer]: Участие граждан в политической жизни
+                - img [ref=e302] [cursor=pointer]
+            - link "17. Участие в выборах" [ref=e304] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563e27362480007b918e7/
+              - generic [ref=e305] [cursor=pointer]:
+                - generic [ref=e307] [cursor=pointer]:
+                  - generic [ref=e309] [cursor=pointer]: "17."
+                  - paragraph [ref=e311] [cursor=pointer]: Участие в выборах
+                - img [ref=e314] [cursor=pointer]
+            - link "18. Отличительные черты выборов в демократическом обществе" [ref=e316] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660563f27362480007b918f7/
+              - generic [ref=e317] [cursor=pointer]:
+                - generic [ref=e319] [cursor=pointer]:
+                  - generic [ref=e321] [cursor=pointer]: "18."
+                  - paragraph [ref=e323] [cursor=pointer]: Отличительные черты выборов в демократическом обществе
+                - img [ref=e326] [cursor=pointer]
+            - link "19. Референдум" [ref=e328] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660564027362480007b9190a/
+              - generic [ref=e329] [cursor=pointer]:
+                - generic [ref=e331] [cursor=pointer]:
+                  - generic [ref=e333] [cursor=pointer]: "19."
+                  - paragraph [ref=e335] [cursor=pointer]: Референдум
+                - img [ref=e338] [cursor=pointer]
+            - link "20. Политические партии и движения, их роль в общественной жизни. Участие партий в выборах" [ref=e340] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660e3bd45361f500073d340d/
+              - generic [ref=e341] [cursor=pointer]:
+                - generic [ref=e343] [cursor=pointer]:
+                  - generic [ref=e345] [cursor=pointer]: "20."
+                  - paragraph [ref=e347] [cursor=pointer]: Политические партии и движения, их роль в общественной жизни. Участие партий в выборах
+                - img [ref=e350] [cursor=pointer]
+            - link "21. Средства массовой информации. Влияние СМИ на политическую жизнь общества" [active] [ref=e352] [cursor=pointer]:
+              - /url: /learn/6628e805a471430007dc0182/65fb1f51632d6d0007f730b1/61a71c551b0ad63754c198e9/660564207362480007b91a5e/
+              - generic [ref=e353] [cursor=pointer]:
+                - generic [ref=e355] [cursor=pointer]:
+                  - generic [ref=e357] [cursor=pointer]: "21."
+                  - paragraph [ref=e359] [cursor=pointer]: Средства массовой информации. Влияние СМИ на политическую жизнь общества
+                - img [ref=e362] [cursor=pointer]
+  - generic [ref=e365]:
+    - generic [ref=e366]:
+      - generic [ref=e367]:
+        - generic [ref=e371]:
+          - img [ref=e373]
+          - link "8 (800) 600-44-02" [ref=e375] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e376]:
+          - generic [ref=e377]: "@"
+          - link "info@ismart.org" [ref=e378] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e379]:
+          - img [ref=e381]
+          - generic [ref=e383]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e384]:
+        - link "Наш сайт" [ref=e387] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e389] [cursor=pointer]
+        - generic [ref=e391]:
+          - link "Лицензия" [ref=e393] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e395] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e397] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e399] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e401] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e403]:
+      - generic [ref=e404]:
+        - link [ref=e405] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e409] [cursor=pointer]
+        - generic [ref=e412]:
+          - link "okIcon" [ref=e413] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e414] [cursor=pointer]
+          - link "dzenIcon" [ref=e415] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e416] [cursor=pointer]
+          - link "vkIcon" [ref=e417] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e418] [cursor=pointer]
+      - generic [ref=e420]:
+        - generic [ref=e422]:
+          - generic [ref=e423]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e424] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e425]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e426] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e427]:
+          - generic [ref=e428]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e429] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e430]: © iSmart, 2018-2026
+```

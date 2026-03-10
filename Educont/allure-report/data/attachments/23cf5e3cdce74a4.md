@@ -1,0 +1,122 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+              - button "11" [ref=e48] [cursor=pointer]
+              - button "12" [ref=e49] [cursor=pointer]
+              - button "13" [ref=e50] [cursor=pointer]
+              - button "14" [ref=e51] [cursor=pointer]
+              - button "15" [ref=e52] [cursor=pointer]
+              - button "+" [ref=e53] [cursor=pointer]
+            - button "Редактировать урок" [ref=e54] [cursor=pointer]
+          - generic [ref=e55]:
+            - generic [ref=e56]:
+              - generic [ref=e57]: Отчёты и аналитика
+              - img "Для учителей" [ref=e58] [cursor=pointer]:
+                - img [ref=e60] [cursor=pointer]
+            - generic [ref=e62]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e63] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e64] [cursor=pointer]:
+              - generic [ref=e65] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e66]:
+            - button "Заметки к уроку видны только вам" [ref=e67] [cursor=pointer]:
+              - generic [ref=e68] [cursor=pointer]:
+                - img [ref=e70] [cursor=pointer]
+                - generic [ref=e72] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e73] [cursor=pointer]:
+                - img [ref=e75] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e77] [cursor=pointer]:
+              - generic [ref=e78] [cursor=pointer]:
+                - img [ref=e80] [cursor=pointer]
+                - generic [ref=e82] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e83] [cursor=pointer]:
+              - generic [ref=e84] [cursor=pointer]:
+                - img [ref=e86] [cursor=pointer]
+                - generic [ref=e88] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e89] [cursor=pointer]:
+          - generic [ref=e90] [cursor=pointer]:
+            - img "schoolIcon" [ref=e91] [cursor=pointer]
+            - generic [ref=e92] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e93] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e95] [cursor=pointer]
+      - generic [ref=e99]:
+        - region "Задача для решения" [ref=e101] [cursor=pointer]:
+          - generic [ref=e104]:
+            - generic [ref=e106]:
+              - img [ref=e110]
+              - heading "Внесите числовой ответ в специально предназначенное поле." [level=4] [ref=e112]:
+                - generic [ref=e114]: Внесите числовой ответ в специально предназначенное поле.
+            - generic [ref=e116]:
+              - img "decore" [ref=e119]
+              - generic [ref=e125]: Выберите все правильные утверждения о свойствах металлов IA группы.
+            - generic [ref=e129]:
+              - list [ref=e130]:
+                - listitem [ref=e131]: Электроотрицательность у калия меньше, чем у цезия.
+                - listitem [ref=e132]: Металлы IA группы называются щелочные металлы.
+                - listitem [ref=e133]: Радиус атома у натрия больше, чем у лития.
+                - listitem [ref=e134]: Металлы IA группы называются щелочно-земельные металлы.
+                - listitem [ref=e135]: Металлические свойства у франция выражены сильнее, чем у калия.
+                - listitem [ref=e136]: Восстановительные свойства натрия выше, чем у рубидия.
+                - listitem [ref=e137]:
+                  - text: Электронная конфигурация внешнего слоя металлов IA группы –
+                  - generic [ref=e139]:
+                    - math [ref=e141]:
+                      - generic [ref=e143]:
+                        - generic [ref=e144]: "n"
+                        - generic [ref=e145]:
+                          - generic [ref=e146]: s
+                          - generic [ref=e147]: "2"
+                    - generic [ref=e150]:
+                      - generic [ref=e151]: "n"
+                      - generic [ref=e152]:
+                        - generic [ref=e153]: s
+                        - generic [ref=e159]: "2"
+                  - text: .
+                - listitem [ref=e160]: Все металлы IA группы при взаимодействии с кислородом дают оксиды.
+                - listitem [ref=e161]: Металлы IA группы мягкие и имеют небольшую плотность по сравнению с другими.
+                - listitem [ref=e162]:
+                  - text: В природе металлы IA группы встречаются в чистом виде.
+                  - text: Запишите ответ в виде последовательности цифр в порядке возрастания.
+              - generic [ref=e163]:
+                - strong [ref=e164]: "Ответ:"
+                - textbox [ref=e165]
+        - button "2 Взять 1 подсказку" [ref=e175] [cursor=pointer]:
+          - generic [ref=e178] [cursor=pointer]: "2"
+          - generic [ref=e179] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e181] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e184] [cursor=pointer]
+```
