@@ -1,0 +1,306 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e8]:
+    - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+      - img [ref=e14] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e18]:
+      - generic [ref=e22]: Эрзянский язык!
+      - generic [ref=e28] [cursor=pointer]:
+        - img [ref=e30] [cursor=pointer]
+        - generic [ref=e32] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e34]:
+      - generic [ref=e38]:
+        - img [ref=e41]
+        - textbox "Поиск по подтемам" [ref=e44]
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - generic [ref=e47] [cursor=pointer]:
+            - generic [ref=e49] [cursor=pointer]: Темы
+            - button [ref=e51] [cursor=pointer]:
+              - img [ref=e53] [cursor=pointer]
+          - generic [ref=e56] [cursor=pointer]:
+            - generic [ref=e59] [cursor=pointer]: Будем знакомы / Теевтяно содавиксэкс
+            - img [ref=e61] [cursor=pointer]
+          - generic [ref=e63] [cursor=pointer]:
+            - generic [ref=e66] [cursor=pointer]: Я и мои друзья. Игрушки / Мон ды монь ялгатне. Налкшкеть
+            - img [ref=e68] [cursor=pointer]
+          - generic [ref=e70] [cursor=pointer]:
+            - generic [ref=e73] [cursor=pointer]: Кто это? Что это? (Те кие? Те мезе?)
+            - img [ref=e75] [cursor=pointer]
+          - generic [ref=e77] [cursor=pointer]:
+            - generic [ref=e80] [cursor=pointer]: Я и моя семья / Мон ды монь кудораськем
+            - img [ref=e82] [cursor=pointer]
+          - generic [ref=e84] [cursor=pointer]:
+            - generic [ref=e87] [cursor=pointer]: Мой дом. / Монь кудозе. / Монь кудом
+            - img [ref=e89] [cursor=pointer]
+          - generic [ref=e91] [cursor=pointer]:
+            - generic [ref=e94] [cursor=pointer]: В школе / Школасо
+            - img [ref=e96] [cursor=pointer]
+          - generic [ref=e98] [cursor=pointer]:
+            - generic [ref=e101] [cursor=pointer]: Учебные предметы и школьные принадлежности / Школань предметтнэ ды кедъёнкстнэ
+            - img [ref=e103] [cursor=pointer]
+          - generic [ref=e105] [cursor=pointer]:
+            - generic [ref=e108] [cursor=pointer]: Природа вокруг нас / Пертьпельксэсь эрямосонок
+            - img [ref=e110] [cursor=pointer]
+          - generic [ref=e112] [cursor=pointer]:
+            - generic [ref=e115] [cursor=pointer]: Времена года / Иень шкатне
+            - img [ref=e117] [cursor=pointer]
+          - generic [ref=e119] [cursor=pointer]:
+            - generic [ref=e122] [cursor=pointer]: Овощи и фрукты / Эмежть ды фруктат
+            - img [ref=e124] [cursor=pointer]
+          - generic [ref=e126] [cursor=pointer]:
+            - generic [ref=e129] [cursor=pointer]: Животный и растительный мир / Ракшатне и перьфпяльсь. / Ракшатне и касыксне. / Ракшатне ды пертьпельксэсь
+            - img [ref=e131] [cursor=pointer]
+          - generic [ref=e133] [cursor=pointer]:
+            - generic [ref=e136] [cursor=pointer]: Домашние животные / Кудонь ракшат
+            - img [ref=e138] [cursor=pointer]
+          - generic [ref=e140] [cursor=pointer]:
+            - generic [ref=e143] [cursor=pointer]: Дикие животные (нашего края) / Идем ракшат
+            - img [ref=e145] [cursor=pointer]
+          - generic [ref=e147] [cursor=pointer]:
+            - generic [ref=e150] [cursor=pointer]: Птицы / Нармунть
+            - img [ref=e152] [cursor=pointer]
+          - generic [ref=e154] [cursor=pointer]:
+            - generic [ref=e157] [cursor=pointer]: Гигиена, здоровье / Шумбрачи, Ваньксчи
+            - img [ref=e159] [cursor=pointer]
+          - generic [ref=e161] [cursor=pointer]:
+            - generic [ref=e164] [cursor=pointer]: Дни недели / Недлянь читне
+            - img [ref=e166] [cursor=pointer]
+          - generic [ref=e168] [cursor=pointer]:
+            - generic [ref=e171] [cursor=pointer]: Когда? / Зярдо?
+            - img [ref=e173] [cursor=pointer]
+          - generic [ref=e175] [cursor=pointer]:
+            - generic [ref=e178] [cursor=pointer]: Распорядок дня / Чинть ютавтомась
+            - img [ref=e180] [cursor=pointer]
+          - generic [ref=e182] [cursor=pointer]:
+            - generic [ref=e185] [cursor=pointer]: Пища / Ярсамопельтне ды симемапельтне
+            - img [ref=e187] [cursor=pointer]
+          - generic [ref=e189] [cursor=pointer]:
+            - generic [ref=e192] [cursor=pointer]: Посуда / Кедьгетне
+            - img [ref=e194] [cursor=pointer]
+          - generic [ref=e196] [cursor=pointer]:
+            - generic [ref=e199] [cursor=pointer]: Национальная еда и напитки эрзи и мокши / Эрзятнень ярсамопелесь ды симемапелесь
+            - img [ref=e201] [cursor=pointer]
+          - generic [ref=e203] [cursor=pointer]:
+            - generic [ref=e206] [cursor=pointer]: Человек. Характер и внешние данные — Ломанесь. Ломаненть обуцясь ды лангс ваномась
+            - img [ref=e208] [cursor=pointer]
+          - generic [ref=e210] [cursor=pointer]:
+            - generic [ref=e213] [cursor=pointer]: Части тела человека / Ломанень рунгонь пелькстнэ
+            - img [ref=e215] [cursor=pointer]
+          - generic [ref=e217] [cursor=pointer]:
+            - generic [ref=e220] [cursor=pointer]: Одежда и обувь / Оршамопельтне ды карсемапельтне
+            - img [ref=e222] [cursor=pointer]
+          - generic [ref=e224] [cursor=pointer]:
+            - generic [ref=e227] [cursor=pointer]: Спорт / Спортось
+            - img [ref=e229] [cursor=pointer]
+          - generic [ref=e231] [cursor=pointer]:
+            - generic [ref=e234] [cursor=pointer]: Родина / Тиринь мастор
+            - img [ref=e236] [cursor=pointer]
+          - generic [ref=e238] [cursor=pointer]:
+            - generic [ref=e241] [cursor=pointer]: Профессии / Профессият / Профессиятне
+            - img [ref=e243] [cursor=pointer]
+          - generic [ref=e245] [cursor=pointer]:
+            - generic [ref=e248] [cursor=pointer]: Насекомые. Пресмыкающие / Сукст-унжат. Пресмыкающейтне
+            - img [ref=e250] [cursor=pointer]
+          - generic [ref=e252] [cursor=pointer]:
+            - generic [ref=e255] [cursor=pointer]: Одежда и обувь эрзянского народа / Эрзянь ломантнень оршамопельтне ды карсемапельтне
+            - img [ref=e257] [cursor=pointer]
+          - generic [ref=e259] [cursor=pointer]:
+            - generic [ref=e262] [cursor=pointer]: Мокшэрзянь раськенть покшчитне / Праздники мордовского народа
+            - img [ref=e264] [cursor=pointer]
+          - generic [ref=e266] [cursor=pointer]:
+            - generic [ref=e269] [cursor=pointer]: Касыкстнэ. Умартне / Растения. Плоды
+            - img [ref=e271] [cursor=pointer]
+          - generic [ref=e273] [cursor=pointer]:
+            - generic [ref=e276] [cursor=pointer]: Счёт / Ловомась
+            - img [ref=e278] [cursor=pointer]
+          - generic [ref=e280] [cursor=pointer]:
+            - generic [ref=e283] [cursor=pointer]: Божества мордовского фольклора / Мокшэрзянь фольклорсонть пазтнэ
+            - img [ref=e285] [cursor=pointer]
+          - generic [ref=e287] [cursor=pointer]:
+            - generic [ref=e290] [cursor=pointer]: Зерновые культуры / Сюротне
+            - img [ref=e292] [cursor=pointer]
+          - generic [ref=e294] [cursor=pointer]:
+            - generic [ref=e297] [cursor=pointer]: Чувтотне / Деревья
+            - img [ref=e299] [cursor=pointer]
+          - generic [ref=e301] [cursor=pointer]:
+            - generic [ref=e304] [cursor=pointer]: Музыкальные инструменты / Морамонь инструменттнэ
+            - img [ref=e306] [cursor=pointer]
+          - generic [ref=e308] [cursor=pointer]:
+            - generic [ref=e311] [cursor=pointer]: Кардазось. Инвентаресь. / Двор. Инвентарь
+            - img [ref=e313] [cursor=pointer]
+          - generic [ref=e315] [cursor=pointer]:
+            - generic [ref=e318] [cursor=pointer]: Склонение существительного / Существительноенть полавтнеманзо
+            - img [ref=e320] [cursor=pointer]
+          - generic [ref=e322] [cursor=pointer]:
+            - generic [ref=e325] [cursor=pointer]: Лично-притяжательные суффиксы существительного / Существительноенть лично-притяжательной суффиксонзо
+            - img [ref=e327] [cursor=pointer]
+          - generic [ref=e329] [cursor=pointer]:
+            - generic [ref=e332] [cursor=pointer]: Прилагательные. Цвет / Кодамо? (Какой? Какая? Какое?). Тюс (Цвет)
+            - img [ref=e334] [cursor=pointer]
+          - generic [ref=e336] [cursor=pointer]:
+            - generic [ref=e339] [cursor=pointer]: Кодамо? (Какой? Какая? Какое?). (Вкус)
+            - img [ref=e341] [cursor=pointer]
+          - generic [ref=e343] [cursor=pointer]:
+            - generic [ref=e346] [cursor=pointer]: Кодамо? (Какой? Какая? Какое?). (Размер)
+            - img [ref=e348] [cursor=pointer]
+          - generic [ref=e350] [cursor=pointer]:
+            - generic [ref=e353] [cursor=pointer]: Кодамо? (Какой? Какая? Какое?). (Качество, свойство)
+            - img [ref=e355] [cursor=pointer]
+          - generic [ref=e357] [cursor=pointer]:
+            - generic [ref=e360] [cursor=pointer]: Кодамо? (Какой? Какая? Какое?). (Материал. Время. Место. Принадлежность.)
+            - img [ref=e362] [cursor=pointer]
+          - generic [ref=e364] [cursor=pointer]:
+            - generic [ref=e367] [cursor=pointer]: Глаголы неопределённой формы (Инфинитив)
+            - img [ref=e369] [cursor=pointer]
+          - generic [ref=e371] [cursor=pointer]:
+            - generic [ref=e374] [cursor=pointer]: Мезе теян? Мезе теят? Мезе теи? (Что делаю? Что делаешь? Что делает?). Глагол. Настоящее время. 1-е, 2-е, 3-е лицо единственное число
+            - img [ref=e376] [cursor=pointer]
+          - generic [ref=e378] [cursor=pointer]:
+            - generic [ref=e381] [cursor=pointer]: Мезе тейтяно? Мезе тейтядо? Мезе теить? / (Что делаем? Что делаете? Что делают?). Глагол. Настоящее время. 1-е, 2-е, 3-е лицо множественное число
+            - img [ref=e383] [cursor=pointer]
+          - generic [ref=e385] [cursor=pointer]:
+            - generic [ref=e388] [cursor=pointer]: Мезе теинь? Мезе теить? Мезе тейсь? (Что я делал?, Что ты делал?, Что он делал? Что она делала? Что оно делало?). Глагол. Прошедшее время. 1-е, 2-е, 3-е лицо единственное число
+            - img [ref=e390] [cursor=pointer]
+          - generic [ref=e392] [cursor=pointer]:
+            - generic [ref=e395] [cursor=pointer]: Мезе теинек? Мезе теиде? Мезе тейсть? (Что мы делали?, Что вы делали?, Что они делали? ). Глагол. Прошедшее время. 1-е, 2-е, 3-е лицо множественное число
+            - img [ref=e397] [cursor=pointer]
+          - generic [ref=e399] [cursor=pointer]:
+            - generic [ref=e402] [cursor=pointer]: Глагол. Будущее время. 1-е, 2-е, 3-е лицо единственное число
+            - img [ref=e404] [cursor=pointer]
+          - generic [ref=e406] [cursor=pointer]:
+            - generic [ref=e409] [cursor=pointer]: Глагол. Будущее время. 1-е, 2-е, 3-е лицо множественное число
+            - img [ref=e411] [cursor=pointer]
+        - generic [ref=e419] [cursor=pointer]:
+          - generic [ref=e421] [cursor=pointer]:
+            - generic [ref=e423] [cursor=pointer]: "1.1"
+            - paragraph [ref=e425] [cursor=pointer]: Теевтяно содавиксэкс / Будем знакомы
+          - img [ref=e428] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e430]:
+        - generic [ref=e431]:
+          - generic [ref=e432]: Меню разработчика
+          - button [ref=e434] [cursor=pointer]:
+            - img [ref=e436] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e438] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e439] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+        - button "Выйти из школьного учителя" [ref=e440] [cursor=pointer]
+      - generic [ref=e444]:
+        - generic [ref=e445]:
+          - region "Задача для решения" [ref=e447] [cursor=pointer]:
+            - generic [ref=e448] [cursor=pointer]:
+              - generic [ref=e450]:
+                - button "Вернуться обратно к подборке" [ref=e451] [cursor=pointer]:
+                  - img [ref=e454] [cursor=pointer]
+                  - text: Вернуться обратно к подборке
+                - generic [ref=e456]:
+                  - generic [ref=e457]:
+                    - button "1" [ref=e460] [cursor=pointer]
+                    - button "2" [ref=e463] [cursor=pointer]
+                    - button "3" [ref=e466] [cursor=pointer]
+                    - button "4" [ref=e469] [cursor=pointer]
+                    - button "5" [ref=e472] [cursor=pointer]
+                    - button "6" [ref=e475] [cursor=pointer]
+                    - button "7" [ref=e478] [cursor=pointer]
+                    - button "8" [ref=e481] [cursor=pointer]
+                    - button "9" [ref=e484] [cursor=pointer]
+                    - button "10" [ref=e487] [cursor=pointer]
+                  - generic [ref=e488]:
+                    - button [disabled] [ref=e489]:
+                      - img [ref=e491]
+                    - button [ref=e494] [cursor=pointer]:
+                      - img [ref=e496] [cursor=pointer]
+              - generic [ref=e499]:
+                - generic [ref=e501]:
+                  - img [ref=e505]
+                  - heading "Запиши слова по теме." [level=4] [ref=e507]:
+                    - generic [ref=e509]: Запиши слова по теме.
+                - img "decore" [ref=e514]
+                - table [ref=e521]:
+                  - rowgroup [ref=e522]:
+                    - row "Шумбрачи —" [ref=e523]:
+                      - cell "Шумбрачи —" [ref=e524]:
+                        - generic [ref=e528]:
+                          - text: Шумбрачи —
+                          - textbox [ref=e529]
+                    - row "Вастомазонок —" [ref=e530]:
+                      - cell "Вастомазонок —" [ref=e531]:
+                        - generic [ref=e535]:
+                          - text: Вастомазонок —
+                          - textbox [ref=e536]
+                    - row "Тонь — , ," [ref=e537]:
+                      - cell "Тонь — , ," [ref=e538]:
+                        - generic [ref=e542]:
+                          - text: Тонь —
+                          - textbox [ref=e543]
+                          - text: ","
+                          - textbox [ref=e544]
+                          - text: ","
+                          - textbox [ref=e545]
+                    - row "Лемем, леметь — ," [ref=e546]:
+                      - cell "Лемем, леметь — ," [ref=e547]:
+                        - generic [ref=e551]:
+                          - text: Лемем, леметь —
+                          - textbox [ref=e552]
+                          - text: ","
+                          - textbox [ref=e553]
+                    - row "Кода —" [ref=e554]:
+                      - cell "Кода —" [ref=e555]:
+                        - generic [ref=e559]:
+                          - text: Кода —
+                          - textbox [ref=e560]
+                    - row "Монь — , ," [ref=e561]:
+                      - cell "Монь — , ," [ref=e562]:
+                        - generic [ref=e566]:
+                          - text: Монь —
+                          - textbox [ref=e567]
+                          - text: ","
+                          - textbox [ref=e568]
+                          - text: ","
+                          - textbox [ref=e569]
+                    - row "Ялга —" [ref=e570]:
+                      - cell "Ялга —" [ref=e571]:
+                        - generic [ref=e575]:
+                          - text: Ялга —
+                          - textbox [ref=e576]
+          - generic [ref=e582]:
+            - generic [ref=e585]:
+              - button [disabled] [ref=e587]:
+                - img [ref=e589]
+              - generic [ref=e592]: 100%
+              - button [ref=e594] [cursor=pointer]:
+                - img [ref=e596] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e601] [cursor=pointer]:
+              - generic [ref=e604] [cursor=pointer]: "2"
+              - generic [ref=e605] [cursor=pointer]: Показать подсказку
+        - generic [ref=e609]:
+          - generic [ref=e612]: Интеллектуальный тренажер
+          - button "Управление учениками" [ref=e618] [cursor=pointer]:
+            - img [ref=e621] [cursor=pointer]
+            - text: Управление учениками
+          - generic [ref=e623]:
+            - generic [ref=e625]:
+              - button "Черновик" [ref=e626] [cursor=pointer]:
+                - img [ref=e629] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e632] [cursor=pointer]:
+                - img [ref=e635] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Часто задаваемые вопросы" [ref=e639] [cursor=pointer]:
+                - img [ref=e642] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+            - generic [ref=e644]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Далее" [ref=e645] [cursor=pointer]:
+                - text: Далее
+                - img [ref=e648] [cursor=pointer]
+```
