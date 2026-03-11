@@ -1,0 +1,128 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Выберите верный вариант ответа." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Выберите верный вариант ответа.
+                - generic [ref=e47]:
+                  - img "decore" [ref=e50]
+                  - generic [ref=e56]:
+                    - text: Металлическая пластина, имевшая положительный заряд, по модулю равный
+                    - generic [ref=e58]:
+                      - math [ref=e60]:
+                        - generic [ref=e62]:
+                          - generic [ref=e63]: "12"
+                          - generic [ref=e64]: e
+                      - generic [ref=e66]:
+                        - generic [ref=e67]: "12"
+                        - generic [ref=e68]: e
+                    - text: ", при освещении потеряла четыре электрона. Каким стал заряд пластины (в элементарных зарядах"
+                    - generic [ref=e70]:
+                      - math [ref=e72]:
+                        - generic [ref=e75]: е
+                      - generic [ref=e78]: е
+                    - text: )?
+                - generic [ref=e81]:
+                  - generic [ref=e87] [cursor=pointer]:
+                    - math [ref=e89] [cursor=pointer]:
+                      - generic [ref=e91] [cursor=pointer]:
+                        - generic [ref=e92] [cursor=pointer]: +
+                        - generic [ref=e93] [cursor=pointer]: "6"
+                        - generic [ref=e94] [cursor=pointer]: е
+                    - generic [ref=e96] [cursor=pointer]:
+                      - generic [ref=e97] [cursor=pointer]: +
+                      - generic [ref=e98] [cursor=pointer]: "6"
+                      - generic [ref=e99] [cursor=pointer]: е
+                  - generic [ref=e105] [cursor=pointer]:
+                    - math [ref=e107] [cursor=pointer]:
+                      - generic [ref=e109] [cursor=pointer]:
+                        - generic [ref=e110] [cursor=pointer]: +
+                        - generic [ref=e111] [cursor=pointer]: "16"
+                        - generic [ref=e112] [cursor=pointer]: е
+                    - generic [ref=e114] [cursor=pointer]:
+                      - generic [ref=e115] [cursor=pointer]: +
+                      - generic [ref=e116] [cursor=pointer]: "16"
+                      - generic [ref=e117] [cursor=pointer]: е
+                  - generic [ref=e123] [cursor=pointer]:
+                    - math [ref=e125] [cursor=pointer]:
+                      - generic [ref=e127] [cursor=pointer]:
+                        - generic [ref=e128] [cursor=pointer]: −
+                        - generic [ref=e129] [cursor=pointer]: "16"
+                        - generic [ref=e130] [cursor=pointer]: е
+                    - generic [ref=e132] [cursor=pointer]:
+                      - generic [ref=e133] [cursor=pointer]: −
+                      - generic [ref=e134] [cursor=pointer]: "16"
+                      - generic [ref=e135] [cursor=pointer]: е
+                  - generic [ref=e141] [cursor=pointer]:
+                    - math [ref=e143] [cursor=pointer]:
+                      - generic [ref=e145] [cursor=pointer]:
+                        - generic [ref=e146] [cursor=pointer]: −
+                        - generic [ref=e147] [cursor=pointer]: "6"
+                        - generic [ref=e148] [cursor=pointer]: е
+                    - generic [ref=e150] [cursor=pointer]:
+                      - generic [ref=e151] [cursor=pointer]: −
+                      - generic [ref=e152] [cursor=pointer]: "6"
+                      - generic [ref=e153] [cursor=pointer]: е
+          - generic [ref=e158]:
+            - generic [ref=e161]:
+              - button [disabled] [ref=e163]:
+                - img [ref=e165]
+              - generic [ref=e168]: 100%
+              - button [ref=e170] [cursor=pointer]:
+                - img [ref=e172] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e177] [cursor=pointer]:
+              - generic [ref=e180] [cursor=pointer]: "2"
+              - generic [ref=e181] [cursor=pointer]: Показать подсказку
+        - generic [ref=e185]:
+          - generic [ref=e188]: Интеллектуальный тренажер
+          - generic [ref=e192]:
+            - generic [ref=e197]: 1 из 12
+            - generic [ref=e199]:
+              - generic [ref=e200]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e202] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e205]:
+            - generic [ref=e207]:
+              - button "Пройти опрос" [ref=e208] [cursor=pointer]:
+                - generic [ref=e210] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e211] [cursor=pointer]:
+                - img [ref=e214] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e217] [cursor=pointer]:
+                - img [ref=e220] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e224] [cursor=pointer]:
+                - img [ref=e227] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e229]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e230] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e233] [cursor=pointer]
+              - generic [ref=e236]: 69b11e09709a2300083e6220
+  - generic [ref=e245]:
+    - generic [ref=e247]: Урок
+    - generic [ref=e248]: Контрольная работа №7 Электростатика.
+    - button "Приступить" [active] [ref=e249] [cursor=pointer]
+```

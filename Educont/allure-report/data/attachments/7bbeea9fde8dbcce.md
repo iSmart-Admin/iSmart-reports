@@ -1,0 +1,96 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Внесите ответ в специально предназначенное поле.
+                - generic [ref=e47]:
+                  - img "decore" [ref=e50]
+                  - generic [ref=e56]:
+                    - text: Какой необходим объём (в литрах) закрытой ёмкости с водяным паром, если относительная влажность изотермически уменьшилась с
+                    - generic [ref=e58]:
+                      - math [ref=e60]:
+                        - generic [ref=e63]: "45"
+                      - generic [ref=e66]: "45"
+                    - text: "% до"
+                    - generic [ref=e68]:
+                      - math [ref=e70]:
+                        - generic [ref=e73]: "27"
+                      - generic [ref=e76]: "27"
+                    - text: "%, а первоначальный объём был равен"
+                    - generic [ref=e78]:
+                      - math [ref=e80]:
+                        - generic [ref=e82]:
+                          - generic [ref=e83]: "15"
+                          - generic [ref=e84]: л
+                      - generic [ref=e86]:
+                        - generic [ref=e87]: "15"
+                        - generic [ref=e88]: л
+                    - text: .
+                - generic [ref=e93]:
+                  - strong [ref=e94]: "Ответ:"
+                  - textbox [ref=e95]
+                  - text: литров.
+          - generic [ref=e101]:
+            - generic [ref=e104]:
+              - button [disabled] [ref=e106]:
+                - img [ref=e108]
+              - generic [ref=e111]: 100%
+              - button [ref=e113] [cursor=pointer]:
+                - img [ref=e115] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e120] [cursor=pointer]:
+              - generic [ref=e123] [cursor=pointer]: "2"
+              - generic [ref=e124] [cursor=pointer]: Показать подсказку
+        - generic [ref=e128]:
+          - generic [ref=e131]: Интеллектуальный тренажер
+          - generic [ref=e135]:
+            - generic [ref=e140]: 1 из 6
+            - generic [ref=e142]:
+              - generic [ref=e143]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e145] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e148]:
+            - generic [ref=e150]:
+              - button "Пройти опрос" [ref=e151] [cursor=pointer]:
+                - generic [ref=e153] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e154] [cursor=pointer]:
+                - img [ref=e157] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e160] [cursor=pointer]:
+                - img [ref=e163] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e167] [cursor=pointer]:
+                - img [ref=e170] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e172]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e173] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e176] [cursor=pointer]
+              - generic [ref=e179]: 69b112984c313400074920a4
+  - generic [ref=e188]:
+    - generic [ref=e190]: Урок
+    - generic [ref=e191]: Влажность воздуха
+    - button "Приступить" [active] [ref=e192] [cursor=pointer]
+```

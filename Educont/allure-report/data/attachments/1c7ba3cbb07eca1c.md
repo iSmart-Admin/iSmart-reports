@@ -1,0 +1,120 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Задания урока
+            - img "Подсказка" [ref=e31] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+          - generic [ref=e36]:
+            - button "1" [ref=e37] [cursor=pointer]
+            - button "2" [ref=e38] [cursor=pointer]
+            - button "3" [ref=e39] [cursor=pointer]
+            - button "4" [ref=e40] [cursor=pointer]
+            - button "5" [ref=e41] [cursor=pointer]
+            - button "6" [ref=e42] [cursor=pointer]
+            - button "7" [ref=e43] [cursor=pointer]
+            - button "8" [ref=e44] [cursor=pointer]
+            - button "9" [ref=e45] [cursor=pointer]
+            - button "10" [ref=e46] [cursor=pointer]
+            - button "11" [ref=e47] [cursor=pointer]
+            - button "12" [ref=e48] [cursor=pointer]
+            - button "13" [ref=e49] [cursor=pointer]
+            - button "14" [ref=e50] [cursor=pointer]
+            - button "15" [ref=e51] [cursor=pointer]
+            - button "+" [ref=e52] [cursor=pointer]
+          - button "Редактировать урок" [ref=e53] [cursor=pointer]
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - generic [ref=e56]: Отчёты и аналитика
+            - img "Для учителей" [ref=e57] [cursor=pointer]:
+              - img [ref=e59] [cursor=pointer]
+          - generic [ref=e61]: "Войдите как учитель и настройте класс — тогда вы сможете видеть решения и прогресс учеников: результаты по каждому заданию, ошибки, подсказки, средний балл и общий прогресс."
+          - button "Войти как учитель" [ref=e62] [cursor=pointer]:
+            - generic [ref=e63] [cursor=pointer]: Войти как учитель
+        - generic [ref=e64]:
+          - button "Заметки к уроку видны только вам" [ref=e65] [cursor=pointer]:
+            - generic [ref=e66] [cursor=pointer]:
+              - img [ref=e68] [cursor=pointer]
+              - generic [ref=e70] [cursor=pointer]: Заметки к уроку
+            - button "видны только вам" [ref=e71] [cursor=pointer]:
+              - img [ref=e73] [cursor=pointer]
+          - button "Часто задаваемые вопросы" [ref=e75] [cursor=pointer]:
+            - generic [ref=e76] [cursor=pointer]:
+              - img [ref=e78] [cursor=pointer]
+              - generic [ref=e80] [cursor=pointer]: Часто задаваемые вопросы
+          - button "Сообщить об ошибке" [ref=e81] [cursor=pointer]:
+            - generic [ref=e82] [cursor=pointer]:
+              - img [ref=e84] [cursor=pointer]
+              - generic [ref=e86] [cursor=pointer]: Сообщить об ошибке
+      - generic [ref=e89]:
+        - region "Задача для решения" [ref=e91] [cursor=pointer]:
+          - generic [ref=e94]:
+            - generic [ref=e96]:
+              - img [ref=e100]
+              - heading "Образуй при помощи суффиксов новые слова." [level=4] [ref=e102]:
+                - generic [ref=e104]: Образуй при помощи суффиксов новые слова.
+            - img "decore" [ref=e109]
+            - table [ref=e116]:
+              - rowgroup [ref=e117]:
+                - row "Суффикс Слова Новые слова" [ref=e118]:
+                  - cell "Суффикс" [ref=e119]:
+                    - heading "Суффикс" [level=4] [ref=e121]
+                  - cell "Слова" [ref=e122]:
+                    - heading "Слова" [level=4] [ref=e124]
+                  - cell "Новые слова" [ref=e125]:
+                    - heading "Новые слова" [level=4] [ref=e127]
+              - rowgroup [ref=e128]:
+                - row "-ищ- дом ед. ч., м. р." [ref=e129]:
+                  - cell "-ищ-" [ref=e130]:
+                    - heading "-ищ-" [level=4] [ref=e132]:
+                      - strong [ref=e133]: "-ищ-"
+                  - cell "дом" [ref=e134]:
+                    - heading "дом" [level=4] [ref=e136]
+                  - cell "ед. ч., м. р." [ref=e137]:
+                    - heading "ед. ч., м. р." [level=4] [ref=e139]
+                  - cell [ref=e140]:
+                    - heading [level=4] [ref=e142]:
+                      - textbox [ref=e143]
+                - row "-ик- нос ед. ч., м. р." [ref=e144]:
+                  - cell "-ик-" [ref=e145]:
+                    - heading "-ик-" [level=4] [ref=e147]:
+                      - strong [ref=e148]: "-ик-"
+                  - cell "нос" [ref=e149]:
+                    - heading "нос" [level=4] [ref=e151]
+                  - cell "ед. ч., м. р." [ref=e152]:
+                    - heading "ед. ч., м. р." [level=4] [ref=e154]
+                  - cell [ref=e155]:
+                    - heading [level=4] [ref=e157]:
+                      - textbox [ref=e158]
+                - row "-инк- снег ед. ч., ж. р." [ref=e159]:
+                  - cell "-инк-" [ref=e160]:
+                    - heading "-инк-" [level=4] [ref=e162]:
+                      - strong [ref=e163]: "-инк-"
+                  - cell "снег" [ref=e164]:
+                    - heading "снег" [level=4] [ref=e166]
+                  - cell "ед. ч., ж. р." [ref=e167]:
+                    - heading "ед. ч., ж. р." [level=4] [ref=e169]
+                  - cell [ref=e170]:
+                    - heading [level=4] [ref=e172]:
+                      - textbox [ref=e173]
+        - button "2 Взять 1 подсказку" [ref=e183] [cursor=pointer]:
+          - generic [ref=e186] [cursor=pointer]: "2"
+          - generic [ref=e187] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e189] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e192] [cursor=pointer]
+```

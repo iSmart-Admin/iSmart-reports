@@ -1,0 +1,235 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Геометрия
+      - generic [ref=e21]: Подготовка к контрольным работам
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - button "7" [ref=e28] [cursor=pointer]:
+          - img [ref=e32] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e34]:
+          - img [ref=e38]
+          - text: "8"
+        - button "9" [ref=e40] [cursor=pointer]:
+          - img [ref=e44] [cursor=pointer]
+          - text: "9"
+      - generic [ref=e47]:
+        - generic [ref=e51]:
+          - img [ref=e54]
+          - textbox "Поиск по подтемам" [ref=e57]
+        - generic [ref=e58]:
+          - generic [ref=e59]:
+            - generic [ref=e60] [cursor=pointer]:
+              - generic [ref=e62] [cursor=pointer]: Темы
+              - button [ref=e64] [cursor=pointer]:
+                - img [ref=e66] [cursor=pointer]
+            - generic [ref=e69] [cursor=pointer]:
+              - generic [ref=e72] [cursor=pointer]: Входная контрольная работа
+              - img [ref=e74] [cursor=pointer]
+            - generic [ref=e76] [cursor=pointer]:
+              - generic [ref=e79] [cursor=pointer]: Контрольная работа № 1 по теме «Четырёхугольники»
+              - img [ref=e81] [cursor=pointer]
+            - generic [ref=e83] [cursor=pointer]:
+              - generic [ref=e86] [cursor=pointer]: Контрольная работа № 2 по теме «Подобные треугольники»
+              - img [ref=e88] [cursor=pointer]
+            - generic [ref=e90] [cursor=pointer]:
+              - generic [ref=e93] [cursor=pointer]: Контрольная работа № 3 по темам «Теорема Пифагора и начала тригонометрии»
+              - img [ref=e95] [cursor=pointer]
+            - generic [ref=e97] [cursor=pointer]:
+              - generic [ref=e100] [cursor=pointer]: Контрольная работа № 4 по теме «Площадь многоугольника»
+              - img [ref=e102] [cursor=pointer]
+            - generic [ref=e104] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Контрольная работа № 5 по теме «Окружность»
+              - img [ref=e109] [cursor=pointer]
+            - generic [ref=e111] [cursor=pointer]:
+              - generic [ref=e114] [cursor=pointer]: Итоговая контрольная работа
+              - img [ref=e116] [cursor=pointer]
+          - generic [ref=e122]:
+            - link "1. Внешние углы треугольника" [ref=e123] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b5628fad72fe0008c7e6b6/
+              - generic [ref=e124] [cursor=pointer]:
+                - generic [ref=e126] [cursor=pointer]:
+                  - generic [ref=e128] [cursor=pointer]: "1."
+                  - paragraph [ref=e130] [cursor=pointer]: Внешние углы треугольника
+                - img [ref=e133] [cursor=pointer]
+            - link "2. Прямоугольный треугольник" [ref=e135] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b562a3ad72fe0008c7e6bd/
+              - generic [ref=e136] [cursor=pointer]:
+                - generic [ref=e138] [cursor=pointer]:
+                  - generic [ref=e140] [cursor=pointer]: "2."
+                  - paragraph [ref=e142] [cursor=pointer]: Прямоугольный треугольник
+                - img [ref=e145] [cursor=pointer]
+            - link "3. Прямоугольный треугольник с углом в 30°" [ref=e147] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b562b6ad72fe0008c7e6c4/
+              - generic [ref=e148] [cursor=pointer]:
+                - generic [ref=e150] [cursor=pointer]:
+                  - generic [ref=e152] [cursor=pointer]: "3."
+                  - paragraph [ref=e154] [cursor=pointer]: Прямоугольный треугольник с углом в 30°
+                - img [ref=e157] [cursor=pointer]
+            - link "4. Свойство медианы прямоугольного треугольника, проведённой к гипотенузе" [ref=e159] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b562ccad72fe0008c7e6cb/
+              - generic [ref=e160] [cursor=pointer]:
+                - generic [ref=e162] [cursor=pointer]:
+                  - generic [ref=e164] [cursor=pointer]: "4."
+                  - paragraph [ref=e166] [cursor=pointer]: Свойство медианы прямоугольного треугольника, проведённой к гипотенузе
+                - img [ref=e169] [cursor=pointer]
+            - link "5. Сумма углов треугольника" [ref=e171] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b56380ad72fe0008c7e6f0/
+              - generic [ref=e172] [cursor=pointer]:
+                - generic [ref=e174] [cursor=pointer]:
+                  - generic [ref=e176] [cursor=pointer]: "5."
+                  - paragraph [ref=e178] [cursor=pointer]: Сумма углов треугольника
+                - img [ref=e181] [cursor=pointer]
+            - link "6. Окружность, вписанная в угол" [ref=e183] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b56392ad72fe0008c7e6fd/
+              - generic [ref=e184] [cursor=pointer]:
+                - generic [ref=e186] [cursor=pointer]:
+                  - generic [ref=e188] [cursor=pointer]: "6."
+                  - paragraph [ref=e190] [cursor=pointer]: Окружность, вписанная в угол
+                - img [ref=e193] [cursor=pointer]
+            - link "7. Касательная к окружности" [ref=e195] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b56604ad72fe0008c7e8aa/
+              - generic [ref=e196] [cursor=pointer]:
+                - generic [ref=e198] [cursor=pointer]:
+                  - generic [ref=e200] [cursor=pointer]: "7."
+                  - paragraph [ref=e202] [cursor=pointer]: Касательная к окружности
+                - img [ref=e205] [cursor=pointer]
+            - link "8. Признаки параллельных прямых" [ref=e207] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b56613ad72fe0008c7e8b7/
+              - generic [ref=e208] [cursor=pointer]:
+                - generic [ref=e210] [cursor=pointer]:
+                  - generic [ref=e212] [cursor=pointer]: "8."
+                  - paragraph [ref=e214] [cursor=pointer]: Признаки параллельных прямых
+                - img [ref=e217] [cursor=pointer]
+            - link "9. Свойства параллельных прямых" [ref=e219] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b56622ad72fe0008c7e8c4/
+              - generic [ref=e220] [cursor=pointer]:
+                - generic [ref=e222] [cursor=pointer]:
+                  - generic [ref=e224] [cursor=pointer]: "9."
+                  - paragraph [ref=e226] [cursor=pointer]: Свойства параллельных прямых
+                - img [ref=e229] [cursor=pointer]
+            - link "10. Параллельность и перпендикулярность прямых" [ref=e231] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b56636ad72fe0008c7e8cb/
+              - generic [ref=e232] [cursor=pointer]:
+                - generic [ref=e234] [cursor=pointer]:
+                  - generic [ref=e236] [cursor=pointer]: "10."
+                  - paragraph [ref=e238] [cursor=pointer]: Параллельность и перпендикулярность прямых
+                - img [ref=e241] [cursor=pointer]
+            - link "11. Свойства равнобедренного треугольника" [ref=e243] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b566b9ad72fe0008c7e8fd/
+              - generic [ref=e244] [cursor=pointer]:
+                - generic [ref=e246] [cursor=pointer]:
+                  - generic [ref=e248] [cursor=pointer]: "11."
+                  - paragraph [ref=e250] [cursor=pointer]: Свойства равнобедренного треугольника
+                - img [ref=e253] [cursor=pointer]
+            - link "12. Равнобедренный треугольник" [ref=e255] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b566c9ad72fe0008c7e90a/
+              - generic [ref=e256] [cursor=pointer]:
+                - generic [ref=e258] [cursor=pointer]:
+                  - generic [ref=e260] [cursor=pointer]: "12."
+                  - paragraph [ref=e262] [cursor=pointer]: Равнобедренный треугольник
+                - img [ref=e265] [cursor=pointer]
+            - link "13. Признаки равнобедренного треугольника" [ref=e267] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b56772ad72fe0008c7e964/
+              - generic [ref=e268] [cursor=pointer]:
+                - generic [ref=e270] [cursor=pointer]:
+                  - generic [ref=e272] [cursor=pointer]: "13."
+                  - paragraph [ref=e274] [cursor=pointer]: Признаки равнобедренного треугольника
+                - img [ref=e277] [cursor=pointer]
+            - link "14. Смежные углы" [ref=e279] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b56787ad72fe0008c7e971/
+              - generic [ref=e280] [cursor=pointer]:
+                - generic [ref=e282] [cursor=pointer]:
+                  - generic [ref=e284] [cursor=pointer]: "14."
+                  - paragraph [ref=e286] [cursor=pointer]: Смежные углы
+                - img [ref=e289] [cursor=pointer]
+            - link "15. Биссектриса угла" [ref=e291] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b56796ad72fe0008c7e97e/
+              - generic [ref=e292] [cursor=pointer]:
+                - generic [ref=e294] [cursor=pointer]:
+                  - generic [ref=e296] [cursor=pointer]: "15."
+                  - paragraph [ref=e298] [cursor=pointer]: Биссектриса угла
+                - img [ref=e301] [cursor=pointer]
+            - link "16. Вертикальные углы" [active] [ref=e303] [cursor=pointer]:
+              - /url: /learn/678a9069b304d7000792978a/662bb8cfa471430007e0064d/5f63090daee1af001b415303/67b567a6ad72fe0008c7e98b/
+              - generic [ref=e304] [cursor=pointer]:
+                - generic [ref=e306] [cursor=pointer]:
+                  - generic [ref=e308] [cursor=pointer]: "16."
+                  - paragraph [ref=e310] [cursor=pointer]: Вертикальные углы
+                - img [ref=e313] [cursor=pointer]
+  - generic [ref=e316]:
+    - generic [ref=e317]:
+      - generic [ref=e318]:
+        - generic [ref=e322]:
+          - img [ref=e324]
+          - link "8 (800) 600-44-02" [ref=e326] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e327]:
+          - generic [ref=e328]: "@"
+          - link "info@ismart.org" [ref=e329] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e330]:
+          - img [ref=e332]
+          - generic [ref=e334]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e335]:
+        - link "Наш сайт" [ref=e338] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e340] [cursor=pointer]
+        - generic [ref=e342]:
+          - link "Лицензия" [ref=e344] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e346] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e348] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e350] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e352] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e354]:
+      - generic [ref=e355]:
+        - link [ref=e356] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e360] [cursor=pointer]
+        - generic [ref=e363]:
+          - link "okIcon" [ref=e364] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e365] [cursor=pointer]
+          - link "dzenIcon" [ref=e366] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e367] [cursor=pointer]
+          - link "vkIcon" [ref=e368] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e369] [cursor=pointer]
+      - generic [ref=e371]:
+        - generic [ref=e373]:
+          - generic [ref=e374]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e375] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e376]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e377] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e378]:
+          - generic [ref=e379]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e380] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e381]: © iSmart, 2018-2026
+```

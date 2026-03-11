@@ -1,0 +1,96 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Подбери к глаголам подходящие местоимения." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Подбери к глаголам подходящие местоимения.
+                - img "decore" [ref=e50]
+                - table [ref=e57]:
+                  - rowgroup [ref=e58]:
+                    - row "успеем мы" [ref=e59]:
+                      - cell "успеем" [ref=e60]:
+                        - heading "успеем" [level=3] [ref=e62]
+                      - cell "мы" [ref=e63]:
+                        - generic [ref=e67] [cursor=pointer]: мы
+                    - row "вы" [ref=e68]:
+                      - cell "вы" [ref=e69]:
+                        - generic [ref=e73] [cursor=pointer]: вы
+                    - row "едет он, она, оно" [ref=e74]:
+                      - cell "едет" [ref=e75]:
+                        - heading "едет" [level=3] [ref=e77]
+                      - cell "он, она, оно" [ref=e78]:
+                        - generic [ref=e82] [cursor=pointer]: он, она, оно
+                    - row "ты" [ref=e83]:
+                      - cell "ты" [ref=e84]:
+                        - generic [ref=e88] [cursor=pointer]: ты
+                    - row "требую они" [ref=e89]:
+                      - cell "требую" [ref=e90]:
+                        - heading "требую" [level=3] [ref=e92]
+                      - cell "они" [ref=e93]:
+                        - generic [ref=e97] [cursor=pointer]: они
+                    - row "я" [ref=e98]:
+                      - cell "я" [ref=e99]:
+                        - generic [ref=e103] [cursor=pointer]: я
+          - generic [ref=e108]:
+            - generic [ref=e111]:
+              - button [disabled] [ref=e113]:
+                - img [ref=e115]
+              - generic [ref=e118]: 100%
+              - button [ref=e120] [cursor=pointer]:
+                - img [ref=e122] [cursor=pointer]
+            - generic [ref=e127]:
+              - img [ref=e129]
+              - generic [ref=e146]: Загрузка подсказок...
+        - generic [ref=e150]:
+          - generic [ref=e153]: Интеллектуальный тренажер
+          - generic [ref=e157]:
+            - generic [ref=e162]: 1 из 10
+            - generic [ref=e164]:
+              - generic [ref=e165]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e167] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e170]:
+            - generic [ref=e172]:
+              - button "Пройти опрос" [ref=e173] [cursor=pointer]:
+                - generic [ref=e175] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e176] [cursor=pointer]:
+                - img [ref=e179] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e182] [cursor=pointer]:
+                - img [ref=e185] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e189] [cursor=pointer]:
+                - img [ref=e192] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e194]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e195] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e198] [cursor=pointer]
+              - generic [ref=e201]: 69b119b24c313400074b842c
+  - generic [ref=e210]:
+    - generic [ref=e212]: Урок
+    - generic [ref=e213]: Спряжение глаголов
+    - button "Приступить" [active] [ref=e214] [cursor=pointer]
+```

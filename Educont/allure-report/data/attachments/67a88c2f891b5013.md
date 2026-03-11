@@ -1,0 +1,109 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+              - button "+" [ref=e48] [cursor=pointer]
+            - button "Редактировать урок" [ref=e49] [cursor=pointer]
+          - generic [ref=e50]:
+            - generic [ref=e51]:
+              - generic [ref=e52]: Отчёты и аналитика
+              - img "Для учителей" [ref=e53] [cursor=pointer]:
+                - img [ref=e55] [cursor=pointer]
+            - generic [ref=e57]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e58] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e59] [cursor=pointer]:
+              - generic [ref=e60] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e61]:
+            - button "Заметки к уроку видны только вам" [ref=e62] [cursor=pointer]:
+              - generic [ref=e63] [cursor=pointer]:
+                - img [ref=e65] [cursor=pointer]
+                - generic [ref=e67] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e68] [cursor=pointer]:
+                - img [ref=e70] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e72] [cursor=pointer]:
+              - generic [ref=e73] [cursor=pointer]:
+                - img [ref=e75] [cursor=pointer]
+                - generic [ref=e77] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e78] [cursor=pointer]:
+              - generic [ref=e79] [cursor=pointer]:
+                - img [ref=e81] [cursor=pointer]
+                - generic [ref=e83] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e84] [cursor=pointer]:
+          - generic [ref=e85] [cursor=pointer]:
+            - img "schoolIcon" [ref=e86] [cursor=pointer]
+            - generic [ref=e87] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e88] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e90] [cursor=pointer]
+      - generic [ref=e94]:
+        - region "Задача для решения" [ref=e96] [cursor=pointer]:
+          - generic [ref=e99]:
+            - generic [ref=e101]:
+              - img [ref=e105]
+              - heading "Укажи номер (-а) предложения(-ий), в котором (-ых) есть повествование." [level=4] [ref=e107]:
+                - generic [ref=e109]: Укажи номер (-а) предложения(-ий), в котором (-ых) есть повествование.
+            - img "decore" [ref=e114]
+            - generic [ref=e118]:
+              - heading "(1) После утреннего дождя земля ещё не просохла, и на тропке были хорошо видны уходившие в лес следы. (2) Школенко вернулся к себе в окоп, проверил автомат, повесил на пояс три диска, приготовил пять гранат, положил их в сумку, потом огляделся и, подумав, взял припасённую в солдатском мешке медную проволочку и спрятал её в карман." [level=3] [ref=e119]:
+                - strong [ref=e122]: (1)
+                - text: После утреннего дождя земля ещё не просохла, и на тропке были хорошо видны уходившие в лес следы.
+                - strong [ref=e125]: (2)
+                - text: Школенко вернулся к себе в окоп, проверил автомат, повесил на пояс три диска, приготовил пять гранат, положил их в сумку, потом огляделся и, подумав, взял припасённую в солдатском мешке медную проволочку и спрятал её в карман.
+              - heading "(3) Потом посидел примерно с полчаса, вскинул автомат и, уже не добавляя гранат, снова пошёл в ту сторону, что и утром." [level=3] [ref=e126]:
+                - strong [ref=e129]: (3)
+                - text: Потом посидел примерно с полчаса, вскинул автомат и, уже не добавляя гранат, снова пошёл в ту сторону, что и утром.
+              - heading "– (4) Мы могилу себе рыли, – сказал Сатаров, – нас двое автоматчиков стерегли, они, как услышали взрыв, убежали. (5) А ты, значит, один?" [level=3] [ref=e130]:
+                - text: –
+                - strong [ref=e133]: (4)
+                - text: Мы могилу себе рыли, – сказал Сатаров, – нас двое автоматчиков стерегли, они, как услышали взрыв, убежали.
+                - strong [ref=e136]: (5)
+                - text: А ты, значит, один?
+              - heading "– (6) Один, – повторил Школенко и посмотрел на миномёты. – (7) Скорее миномёты берите, сейчас к своим пойдём." [level=3] [ref=e137]:
+                - text: –
+                - strong [ref=e140]: (6)
+                - text: Один, – повторил Школенко и посмотрел на миномёты. –
+                - strong [ref=e143]: (7)
+                - text: Скорее миномёты берите, сейчас к своим пойдём.
+              - emphasis [ref=e145]: (По К.М.Симонову)
+              - separator [ref=e146]
+              - heading "Номера ответов записывайте по порядку без пробелов." [level=4] [ref=e147]
+              - textbox [ref=e149]
+        - button "2 Взять 1 подсказку" [ref=e159] [cursor=pointer]:
+          - generic [ref=e162] [cursor=pointer]: "2"
+          - generic [ref=e163] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e165] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e168] [cursor=pointer]
+```

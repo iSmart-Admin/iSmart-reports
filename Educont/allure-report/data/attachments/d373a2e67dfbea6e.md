@@ -1,0 +1,103 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Реши задачу." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Реши задачу.
+                - img "decore" [ref=e50]
+                - generic [ref=e54]:
+                  - generic [ref=e55]: Для украшения школьной ёлочки купили 147 шариков, а гирлянд — на 74 меньше.
+                  - generic [ref=e56]: Сколько гирлянд купили?
+                  - separator [ref=e57]
+                  - strong [ref=e59]: "Дано:"
+                  - generic [ref=e62]:
+                    - generic [ref=e63]:
+                      - generic [ref=e64]:
+                        - text: Шарики —
+                        - textbox [ref=e65]
+                        - text: шт.
+                      - generic [ref=e66]:
+                        - text: Гирлянды —
+                        - strong [ref=e67]:
+                          - generic [ref=e69]: "?"
+                        - text: шт., на
+                        - textbox [ref=e70]
+                        - text: шт. меньше
+                    - img [ref=e71]
+                  - separator [ref=e76]
+                  - strong [ref=e78]: "Решение:"
+                  - generic [ref=e79]:
+                    - textbox [ref=e80]
+                    - button [ref=e82] [cursor=pointer]
+                    - textbox [ref=e83]
+                    - text: =
+                    - textbox [ref=e84]
+                    - text: (шт.)
+                  - generic [ref=e85]:
+                    - strong [ref=e86]: "Ответ:"
+                    - text: купили
+                    - textbox [ref=e87]
+                    - text: гирлянды.
+          - generic [ref=e93]:
+            - generic [ref=e96]:
+              - button [disabled] [ref=e98]:
+                - img [ref=e100]
+              - generic [ref=e103]: 100%
+              - button [ref=e105] [cursor=pointer]:
+                - img [ref=e107] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e112] [cursor=pointer]:
+              - generic [ref=e115] [cursor=pointer]: "2"
+              - generic [ref=e116] [cursor=pointer]: Показать подсказку
+        - generic [ref=e120]:
+          - generic [ref=e123]: Интеллектуальный тренажер
+          - generic [ref=e127]:
+            - generic [ref=e132]: 1 из 10
+            - generic [ref=e134]:
+              - generic [ref=e135]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e137] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e140]:
+            - generic [ref=e142]:
+              - button "Пройти опрос" [ref=e143] [cursor=pointer]:
+                - generic [ref=e145] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e146] [cursor=pointer]:
+                - img [ref=e149] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e152] [cursor=pointer]:
+                - img [ref=e155] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e159] [cursor=pointer]:
+                - img [ref=e162] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e164]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e165] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e168] [cursor=pointer]
+              - generic [ref=e171]: 69b112544c3134000749078c
+  - generic [ref=e180]:
+    - generic [ref=e182]: Урок
+    - generic [ref=e183]: Задачи на понимание отношений (больше/меньше на/в). Текстовые задачи на понимание зависимостей (купля-продажа)
+    - button "Приступить" [active] [ref=e184] [cursor=pointer]
+```

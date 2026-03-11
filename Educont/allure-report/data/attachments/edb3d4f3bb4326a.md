@@ -1,0 +1,203 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Алгебра. 3.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "7" [ref=e25]:
+          - img [ref=e29]
+          - text: "7"
+        - button "8" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "9"
+      - generic [ref=e44]:
+        - generic [ref=e48]:
+          - img [ref=e51]
+          - textbox "Поиск по подтемам" [ref=e54]
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - generic [ref=e57] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]: Темы
+              - button [ref=e61] [cursor=pointer]:
+                - img [ref=e63] [cursor=pointer]
+            - generic [ref=e66] [cursor=pointer]:
+              - generic [ref=e69] [cursor=pointer]: Числа и выражения
+              - img [ref=e71] [cursor=pointer]
+            - generic [ref=e73] [cursor=pointer]:
+              - generic [ref=e76] [cursor=pointer]: Уравнения с одной переменной
+              - img [ref=e78] [cursor=pointer]
+            - generic [ref=e80] [cursor=pointer]:
+              - generic [ref=e83] [cursor=pointer]: Функции
+              - img [ref=e85] [cursor=pointer]
+            - generic [ref=e87] [cursor=pointer]:
+              - generic [ref=e90] [cursor=pointer]: Алгебраические выражения
+              - img [ref=e92] [cursor=pointer]
+          - generic [ref=e98]:
+            - link "1. Дроби обыкновенные и десятичные, переход от одной формы записи дробей к другой (повторение)" [ref=e99] [cursor=pointer]:
+              - /url: /learn/68ac6eb7d7ff8c00077bf634/68ac6dcdd7ff8c00077ba498/68ab5e4dd608c0000717c41a/68ac6dced7ff8c00077ba4e9/
+              - generic [ref=e100] [cursor=pointer]:
+                - generic [ref=e102] [cursor=pointer]:
+                  - generic [ref=e104] [cursor=pointer]: "1."
+                  - paragraph [ref=e106] [cursor=pointer]: Дроби обыкновенные и десятичные, переход от одной формы записи дробей к другой (повторение)
+                - img [ref=e109] [cursor=pointer]
+            - link "2. Понятие рационального числа" [ref=e111] [cursor=pointer]:
+              - /url: /learn/68ac6eb7d7ff8c00077bf634/68ac6dcdd7ff8c00077ba498/68ab5e4dd608c0000717c41a/68ac6dced7ff8c00077ba4ea/
+              - generic [ref=e112] [cursor=pointer]:
+                - generic [ref=e114] [cursor=pointer]:
+                  - generic [ref=e116] [cursor=pointer]: "2."
+                  - paragraph [ref=e118] [cursor=pointer]: Понятие рационального числа
+                - img [ref=e121] [cursor=pointer]
+            - link "3. Сравнение рациональных чисел" [ref=e123] [cursor=pointer]:
+              - /url: /learn/68ac6eb7d7ff8c00077bf634/68ac6dcdd7ff8c00077ba498/68ab5e4dd608c0000717c41a/68ac6dced7ff8c00077ba4eb/
+              - generic [ref=e124] [cursor=pointer]:
+                - generic [ref=e126] [cursor=pointer]:
+                  - generic [ref=e128] [cursor=pointer]: "3."
+                  - paragraph [ref=e130] [cursor=pointer]: Сравнение рациональных чисел
+                - img [ref=e133] [cursor=pointer]
+            - link "4. Упорядочивание рациональных чисел" [ref=e135] [cursor=pointer]:
+              - /url: /learn/68ac6eb7d7ff8c00077bf634/68ac6dcdd7ff8c00077ba498/68ab5e4dd608c0000717c41a/68ac6dced7ff8c00077ba4e7/
+              - generic [ref=e136] [cursor=pointer]:
+                - generic [ref=e138] [cursor=pointer]:
+                  - generic [ref=e140] [cursor=pointer]: "4."
+                  - paragraph [ref=e142] [cursor=pointer]: Упорядочивание рациональных чисел
+                - img [ref=e145] [cursor=pointer]
+            - link "5. Числовые выражения" [ref=e147] [cursor=pointer]:
+              - /url: /learn/68ac6eb7d7ff8c00077bf634/68ac6dcdd7ff8c00077ba498/68ab5e4dd608c0000717c41a/68ac6dced7ff8c00077ba4ec/
+              - generic [ref=e148] [cursor=pointer]:
+                - generic [ref=e150] [cursor=pointer]:
+                  - generic [ref=e152] [cursor=pointer]: "5."
+                  - paragraph [ref=e154] [cursor=pointer]: Числовые выражения
+                - img [ref=e157] [cursor=pointer]
+            - link "6. Выражения с переменными" [ref=e159] [cursor=pointer]:
+              - /url: /learn/68ac6eb7d7ff8c00077bf634/68ac6dcdd7ff8c00077ba498/68ab5e4dd608c0000717c41a/68ac6dced7ff8c00077ba4f5/
+              - generic [ref=e160] [cursor=pointer]:
+                - generic [ref=e162] [cursor=pointer]:
+                  - generic [ref=e164] [cursor=pointer]: "6."
+                  - paragraph [ref=e166] [cursor=pointer]: Выражения с переменными
+                - img [ref=e169] [cursor=pointer]
+            - link "7. Значение выражения с переменными" [ref=e171] [cursor=pointer]:
+              - /url: /learn/68ac6eb7d7ff8c00077bf634/68ac6dcdd7ff8c00077ba498/68ab5e4dd608c0000717c41a/68ac6dced7ff8c00077ba4f6/
+              - generic [ref=e172] [cursor=pointer]:
+                - generic [ref=e174] [cursor=pointer]:
+                  - generic [ref=e176] [cursor=pointer]: "7."
+                  - paragraph [ref=e178] [cursor=pointer]: Значение выражения с переменными
+                - img [ref=e181] [cursor=pointer]
+            - link "8. Допустимые значения переменных" [ref=e183] [cursor=pointer]:
+              - /url: /learn/68ac6eb7d7ff8c00077bf634/68ac6dcdd7ff8c00077ba498/68ab5e4dd608c0000717c41a/68ac6dced7ff8c00077ba4f7/
+              - generic [ref=e184] [cursor=pointer]:
+                - generic [ref=e186] [cursor=pointer]:
+                  - generic [ref=e188] [cursor=pointer]: "8."
+                  - paragraph [ref=e190] [cursor=pointer]: Допустимые значения переменных
+                - img [ref=e193] [cursor=pointer]
+            - link "9. Сравнение значений выражений" [ref=e195] [cursor=pointer]:
+              - /url: /learn/68ac6eb7d7ff8c00077bf634/68ac6dcdd7ff8c00077ba498/68ab5e4dd608c0000717c41a/69106b1ce48ebd000788b6b4/
+              - generic [ref=e196] [cursor=pointer]:
+                - generic [ref=e198] [cursor=pointer]:
+                  - generic [ref=e200] [cursor=pointer]: "9."
+                  - paragraph [ref=e202] [cursor=pointer]: Сравнение значений выражений
+                - img [ref=e205] [cursor=pointer]
+            - link "10. Свойства действий над числами" [ref=e207] [cursor=pointer]:
+              - /url: /learn/68ac6eb7d7ff8c00077bf634/68ac6dcdd7ff8c00077ba498/68ab5e4dd608c0000717c41a/68ac6dced7ff8c00077ba4fa/
+              - generic [ref=e208] [cursor=pointer]:
+                - generic [ref=e210] [cursor=pointer]:
+                  - generic [ref=e212] [cursor=pointer]: "10."
+                  - paragraph [ref=e214] [cursor=pointer]: Свойства действий над числами
+                - img [ref=e217] [cursor=pointer]
+            - link "11. Тождественно равные выражения" [ref=e219] [cursor=pointer]:
+              - /url: /learn/68ac6eb7d7ff8c00077bf634/68ac6dcdd7ff8c00077ba498/68ab5e4dd608c0000717c41a/68ac6dced7ff8c00077ba4fb/
+              - generic [ref=e220] [cursor=pointer]:
+                - generic [ref=e222] [cursor=pointer]:
+                  - generic [ref=e224] [cursor=pointer]: "11."
+                  - paragraph [ref=e226] [cursor=pointer]: Тождественно равные выражения
+                - img [ref=e229] [cursor=pointer]
+            - link "12. Тождественные преобразования выражений" [ref=e231] [cursor=pointer]:
+              - /url: /learn/68ac6eb7d7ff8c00077bf634/68ac6dcdd7ff8c00077ba498/68ab5e4dd608c0000717c41a/68ac6dced7ff8c00077ba4fc/
+              - generic [ref=e232] [cursor=pointer]:
+                - generic [ref=e234] [cursor=pointer]:
+                  - generic [ref=e236] [cursor=pointer]: "12."
+                  - paragraph [ref=e238] [cursor=pointer]: Тождественные преобразования выражений
+                - img [ref=e241] [cursor=pointer]
+            - link "15. Путешествие в мир простых чисел" [active] [ref=e243] [cursor=pointer]:
+              - /url: /learn/68ac6eb7d7ff8c00077bf634/68ac6dcdd7ff8c00077ba498/68ab5e4dd608c0000717c41a/68ac6dced7ff8c00077ba4e6/
+              - generic [ref=e244] [cursor=pointer]:
+                - generic [ref=e246] [cursor=pointer]:
+                  - generic [ref=e248] [cursor=pointer]: "15."
+                  - paragraph [ref=e250] [cursor=pointer]: Путешествие в мир простых чисел
+                - img [ref=e253] [cursor=pointer]
+  - generic [ref=e256]:
+    - generic [ref=e257]:
+      - generic [ref=e258]:
+        - generic [ref=e262]:
+          - img [ref=e264]
+          - link "8 (800) 600-44-02" [ref=e266] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e267]:
+          - generic [ref=e268]: "@"
+          - link "info@ismart.org" [ref=e269] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e270]:
+          - img [ref=e272]
+          - generic [ref=e274]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e275]:
+        - link "Наш сайт" [ref=e278] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e280] [cursor=pointer]
+        - generic [ref=e282]:
+          - link "Лицензия" [ref=e284] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e286] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e288] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e290] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e292] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e294]:
+      - generic [ref=e295]:
+        - link [ref=e296] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e300] [cursor=pointer]
+        - generic [ref=e303]:
+          - link "okIcon" [ref=e304] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e305] [cursor=pointer]
+          - link "dzenIcon" [ref=e306] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e307] [cursor=pointer]
+          - link "vkIcon" [ref=e308] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e309] [cursor=pointer]
+      - generic [ref=e311]:
+        - generic [ref=e313]:
+          - generic [ref=e314]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e315] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e316]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e317] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e318]:
+          - generic [ref=e319]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e320] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e321]: © iSmart, 2018-2026
+```

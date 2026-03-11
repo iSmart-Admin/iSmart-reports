@@ -1,0 +1,163 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Внеси ответ в специально предназначенное поле.
+                - generic [ref=e47]:
+                  - img "decore" [ref=e50]
+                  - generic [ref=e55]:
+                    - generic [ref=e56]:
+                      - generic [ref=e58]:
+                        - math [ref=e60]:
+                          - generic [ref=e63]: "1."
+                        - generic [ref=e66]: "1."
+                      - text: x1=(-b+sqrt(b^2 - 4ac))/2*a
+                    - generic [ref=e67]:
+                      - text: x2=(-b-sqrt(b^2 - 4ac))/2
+                      - emphasis [ref=e68]:
+                        - text: a
+                        - generic [ref=e70]:
+                          - math [ref=e72]:
+                            - generic [ref=e75]: "2."
+                          - generic [ref=e78]: "2."
+                        - text: x1,2=(-b+-sqrt(b*
+                      - text: 2 - 4*a*c))/(2*a)
+                      - generic [ref=e80]:
+                        - math [ref=e82]:
+                          - generic [ref=e85]: "3."
+                        - generic [ref=e88]: "3."
+                      - text: x1=
+                      - generic [ref=e91]:
+                        - math [ref=e93]:
+                          - generic [ref=e97]:
+                            - generic [ref=e98]: (
+                            - generic [ref=e99]:
+                              - generic [ref=e100]: b
+                              - generic [ref=e101]: "2"
+                            - generic [ref=e102]: −
+                            - generic [ref=e103]: "4"
+                            - generic [ref=e104]: ∗
+                            - generic [ref=e105]: a
+                            - generic [ref=e106]: ∗
+                            - generic [ref=e107]: c
+                            - generic [ref=e108]: )
+                        - generic [ref=e114]:
+                          - generic [ref=e115]:
+                            - generic [ref=e116]: (
+                            - generic [ref=e117]:
+                              - generic [ref=e118]: b
+                              - generic [ref=e124]: "2"
+                            - generic [ref=e125]: −
+                            - generic [ref=e126]: "4"
+                            - generic [ref=e127]: ∗
+                            - generic [ref=e128]: a
+                            - generic [ref=e129]: ∗
+                            - generic [ref=e130]: c
+                            - generic [ref=e131]: )
+                          - img [ref=e133]
+                    - generic [ref=e138]:
+                      - text: x2=
+                      - generic [ref=e141]:
+                        - math [ref=e143]:
+                          - generic [ref=e147]:
+                            - generic [ref=e148]: (
+                            - generic [ref=e149]:
+                              - generic [ref=e150]: b
+                              - generic [ref=e151]: "2"
+                            - generic [ref=e152]: +
+                            - generic [ref=e153]: "4"
+                            - generic [ref=e154]: ∗
+                            - generic [ref=e155]: a
+                            - generic [ref=e156]: ∗
+                            - generic [ref=e157]: c
+                            - generic [ref=e158]: )
+                        - generic [ref=e164]:
+                          - generic [ref=e165]:
+                            - generic [ref=e166]: (
+                            - generic [ref=e167]:
+                              - generic [ref=e168]: b
+                              - generic [ref=e174]: "2"
+                            - generic [ref=e175]: +
+                            - generic [ref=e176]: "4"
+                            - generic [ref=e177]: ∗
+                            - generic [ref=e178]: a
+                            - generic [ref=e179]: ∗
+                            - generic [ref=e180]: c
+                            - generic [ref=e181]: )
+                          - img [ref=e183]
+                      - generic [ref=e189]:
+                        - math [ref=e191]:
+                          - generic [ref=e194]: "4."
+                        - generic [ref=e197]: "4."
+                      - text: x1=(-b+sqrt(b**2 - 4*a*c))/(2*a)
+                    - generic [ref=e198]:
+                      - text: x2=(-b-sqrt(b**2 - 4*a*c))/(2*a)
+                      - text: Какая из следующих формул используется для нахождения корней квадратного уравнения?
+                - generic [ref=e203]:
+                  - strong [ref=e204]: Ответ
+                  - text: ":"
+                  - textbox [ref=e205]
+          - generic [ref=e211]:
+            - generic [ref=e214]:
+              - button [disabled] [ref=e216]:
+                - img [ref=e218]
+              - generic [ref=e221]: 100%
+              - button [ref=e223] [cursor=pointer]:
+                - img [ref=e225] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e230] [cursor=pointer]:
+              - generic [ref=e233] [cursor=pointer]: "2"
+              - generic [ref=e234] [cursor=pointer]: Показать подсказку
+        - generic [ref=e238]:
+          - generic [ref=e241]: Интеллектуальный тренажер
+          - generic [ref=e245]:
+            - generic [ref=e250]: 1 из 15
+            - generic [ref=e252]:
+              - generic [ref=e253]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e255] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e258]:
+            - generic [ref=e260]:
+              - button "Пройти опрос" [ref=e261] [cursor=pointer]:
+                - generic [ref=e263] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e264] [cursor=pointer]:
+                - img [ref=e267] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e270] [cursor=pointer]:
+                - img [ref=e273] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e277] [cursor=pointer]:
+                - img [ref=e280] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e282]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e283] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e286] [cursor=pointer]
+              - generic [ref=e289]: 69b11a7c5deb3800079789e3
+  - generic [ref=e298]:
+    - generic [ref=e300]: Урок
+    - generic [ref=e301]: Разработка программ, содержащих оператор ветвления
+    - button "Приступить" [active] [ref=e302] [cursor=pointer]
+```

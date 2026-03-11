@@ -1,0 +1,281 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Математика. 1.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "1" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e37]:
+          - img [ref=e41]
+          - text: "3"
+        - button "4" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "6"
+      - generic [ref=e62]:
+        - generic [ref=e66]:
+          - img [ref=e69]
+          - textbox "Поиск по подтемам" [ref=e72]
+        - generic [ref=e73]:
+          - generic [ref=e74]:
+            - generic [ref=e75] [cursor=pointer]:
+              - generic [ref=e77] [cursor=pointer]: Темы
+              - button [ref=e79] [cursor=pointer]:
+                - img [ref=e81] [cursor=pointer]
+            - generic [ref=e83] [cursor=pointer]:
+              - generic [ref=e86] [cursor=pointer]: Числа и Величины. Числа в пределах 1000
+              - img [ref=e88] [cursor=pointer]
+            - generic [ref=e90] [cursor=pointer]:
+              - generic [ref=e93] [cursor=pointer]: Числа и величины. Величины
+              - img [ref=e95] [cursor=pointer]
+            - generic [ref=e97] [cursor=pointer]:
+              - generic [ref=e100] [cursor=pointer]: Арифметические операции. Устные вычисления
+              - img [ref=e102] [cursor=pointer]
+            - generic [ref=e104] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Арифметические операции. Письменные вычисления
+              - img [ref=e109] [cursor=pointer]
+            - generic [ref=e112] [cursor=pointer]:
+              - generic [ref=e115] [cursor=pointer]: Арифметические операции. Числовые выражения
+              - img [ref=e117] [cursor=pointer]
+            - generic [ref=e119] [cursor=pointer]:
+              - generic [ref=e122] [cursor=pointer]: Текстовые задачи. Сложение и вычитание
+              - img [ref=e124] [cursor=pointer]
+            - generic [ref=e126] [cursor=pointer]:
+              - generic [ref=e129] [cursor=pointer]: Текстовые задачи. Умножение и деление
+              - img [ref=e131] [cursor=pointer]
+            - generic [ref=e133] [cursor=pointer]:
+              - generic [ref=e136] [cursor=pointer]: Текстовые задачи. Различные арифметические действия
+              - img [ref=e138] [cursor=pointer]
+            - generic [ref=e140] [cursor=pointer]:
+              - generic [ref=e143] [cursor=pointer]: Текстовые задачи. Величины
+              - img [ref=e145] [cursor=pointer]
+            - generic [ref=e147] [cursor=pointer]:
+              - generic [ref=e150] [cursor=pointer]: Пространственные отношения и геометрические фигуры. Геометрические фигуры
+              - img [ref=e152] [cursor=pointer]
+            - generic [ref=e154] [cursor=pointer]:
+              - generic [ref=e157] [cursor=pointer]: Пространственные отношения и геометрические фигуры. Геометрические величины
+              - img [ref=e159] [cursor=pointer]
+            - generic [ref=e161] [cursor=pointer]:
+              - generic [ref=e164] [cursor=pointer]: Математическая информация. Характеристика объекта, группы объектов
+              - img [ref=e166] [cursor=pointer]
+            - generic [ref=e168] [cursor=pointer]:
+              - generic [ref=e171] [cursor=pointer]: Математическая информация. Таблицы и диаграммы
+              - img [ref=e173] [cursor=pointer]
+          - generic [ref=e179]:
+            - link "1. Нахождение неизвестного уменьшаемого/слагаемого (круглые числа)" [ref=e180] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceae/
+              - generic [ref=e181] [cursor=pointer]:
+                - generic [ref=e183] [cursor=pointer]:
+                  - generic [ref=e185] [cursor=pointer]: "1."
+                  - paragraph [ref=e187] [cursor=pointer]: Нахождение неизвестного уменьшаемого/слагаемого (круглые числа)
+                - img [ref=e190] [cursor=pointer]
+            - link "2. Нахождение неизвестного компонента сложения и вычитания" [ref=e192] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceaf/
+              - generic [ref=e193] [cursor=pointer]:
+                - generic [ref=e195] [cursor=pointer]:
+                  - generic [ref=e197] [cursor=pointer]: "2."
+                  - paragraph [ref=e199] [cursor=pointer]: Нахождение неизвестного компонента сложения и вычитания
+                - img [ref=e202] [cursor=pointer]
+            - link "3. Нахождение неизвестного слагаемого методом подбора" [ref=e204] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceb0/
+              - generic [ref=e205] [cursor=pointer]:
+                - generic [ref=e207] [cursor=pointer]:
+                  - generic [ref=e209] [cursor=pointer]: "3."
+                  - paragraph [ref=e211] [cursor=pointer]: Нахождение неизвестного слагаемого методом подбора
+                - img [ref=e214] [cursor=pointer]
+            - link "4. Нахождение неизвестного уменьшаемого/вычитаемого методом подбора" [ref=e216] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceb1/
+              - generic [ref=e217] [cursor=pointer]:
+                - generic [ref=e219] [cursor=pointer]:
+                  - generic [ref=e221] [cursor=pointer]: "4."
+                  - paragraph [ref=e223] [cursor=pointer]: Нахождение неизвестного уменьшаемого/вычитаемого методом подбора
+                - img [ref=e226] [cursor=pointer]
+            - link "5. Нахождение неизвестного компонента действия методом подбора (сложение и вычитание)" [ref=e228] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceb2/
+              - generic [ref=e229] [cursor=pointer]:
+                - generic [ref=e231] [cursor=pointer]:
+                  - generic [ref=e233] [cursor=pointer]: "5."
+                  - paragraph [ref=e235] [cursor=pointer]: Нахождение неизвестного компонента действия методом подбора (сложение и вычитание)
+                - img [ref=e238] [cursor=pointer]
+            - link "6. Пропущенный компонент сложения" [ref=e240] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076acebd/
+              - generic [ref=e241] [cursor=pointer]:
+                - generic [ref=e243] [cursor=pointer]:
+                  - generic [ref=e245] [cursor=pointer]: "6."
+                  - paragraph [ref=e247] [cursor=pointer]: Пропущенный компонент сложения
+                - img [ref=e250] [cursor=pointer]
+            - link "7. Пропущенный компонент умножения" [ref=e252] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceac/
+              - generic [ref=e253] [cursor=pointer]:
+                - generic [ref=e255] [cursor=pointer]:
+                  - generic [ref=e257] [cursor=pointer]: "7."
+                  - paragraph [ref=e259] [cursor=pointer]: Пропущенный компонент умножения
+                - img [ref=e262] [cursor=pointer]
+            - link "8. Пропущенный компонент деления" [ref=e264] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceab/
+              - generic [ref=e265] [cursor=pointer]:
+                - generic [ref=e267] [cursor=pointer]:
+                  - generic [ref=e269] [cursor=pointer]: "8."
+                  - paragraph [ref=e271] [cursor=pointer]: Пропущенный компонент деления
+                - img [ref=e274] [cursor=pointer]
+            - link "9. Порядок действий в выражениях (2-3 действия со сложением и вычитанием со скобками и без)" [ref=e276] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceb4/
+              - generic [ref=e277] [cursor=pointer]:
+                - generic [ref=e279] [cursor=pointer]:
+                  - generic [ref=e281] [cursor=pointer]: "9."
+                  - paragraph [ref=e283] [cursor=pointer]: Порядок действий в выражениях (2-3 действия со сложением и вычитанием со скобками и без)
+                - img [ref=e286] [cursor=pointer]
+            - link "10. Расставь порядок действий и найди значение выражения в 2 действия (сложение и/или вычитание вычитание, со скобками и без)" [ref=e288] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceb6/
+              - generic [ref=e289] [cursor=pointer]:
+                - generic [ref=e291] [cursor=pointer]:
+                  - generic [ref=e293] [cursor=pointer]: "10."
+                  - paragraph [ref=e295] [cursor=pointer]: Расставь порядок действий и найди значение выражения в 2 действия (сложение и/или вычитание вычитание, со скобками и без)
+                - img [ref=e298] [cursor=pointer]
+            - link "11. Значение выражений со скобками и без (2 действия со сложением и вычитанием)" [ref=e300] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceb3/
+              - generic [ref=e301] [cursor=pointer]:
+                - generic [ref=e303] [cursor=pointer]:
+                  - generic [ref=e305] [cursor=pointer]: "11."
+                  - paragraph [ref=e307] [cursor=pointer]: Значение выражений со скобками и без (2 действия со сложением и вычитанием)
+                - img [ref=e310] [cursor=pointer]
+            - link "12. Сравнение значения выражений со скобками и без (2 действия со сложением и вычитанием)" [ref=e312] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceb5/
+              - generic [ref=e313] [cursor=pointer]:
+                - generic [ref=e315] [cursor=pointer]:
+                  - generic [ref=e317] [cursor=pointer]: "12."
+                  - paragraph [ref=e319] [cursor=pointer]: Сравнение значения выражений со скобками и без (2 действия со сложением и вычитанием)
+                - img [ref=e322] [cursor=pointer]
+            - link "13. Порядок действий в выражениях (2 действия со всеми действиями)" [ref=e324] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceb7/
+              - generic [ref=e325] [cursor=pointer]:
+                - generic [ref=e327] [cursor=pointer]:
+                  - generic [ref=e329] [cursor=pointer]: "13."
+                  - paragraph [ref=e331] [cursor=pointer]: Порядок действий в выражениях (2 действия со всеми действиями)
+                - img [ref=e334] [cursor=pointer]
+            - link "14. Порядок действий в выражениях (3 действия со всеми действиями)" [ref=e336] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceb8/
+              - generic [ref=e337] [cursor=pointer]:
+                - generic [ref=e339] [cursor=pointer]:
+                  - generic [ref=e341] [cursor=pointer]: "14."
+                  - paragraph [ref=e343] [cursor=pointer]: Порядок действий в выражениях (3 действия со всеми действиями)
+                - img [ref=e346] [cursor=pointer]
+            - link "15. Найди значение выражения в 2-3 действия (все действия)" [ref=e348] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceb9/
+              - generic [ref=e349] [cursor=pointer]:
+                - generic [ref=e351] [cursor=pointer]:
+                  - generic [ref=e353] [cursor=pointer]: "15."
+                  - paragraph [ref=e355] [cursor=pointer]: Найди значение выражения в 2-3 действия (все действия)
+                - img [ref=e358] [cursor=pointer]
+            - link "16. Запиши выражение со слов и найди его значение (2 действия, на сложение и/или вычитание)" [ref=e360] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076aceba/
+              - generic [ref=e361] [cursor=pointer]:
+                - generic [ref=e363] [cursor=pointer]:
+                  - generic [ref=e365] [cursor=pointer]: "16."
+                  - paragraph [ref=e367] [cursor=pointer]: Запиши выражение со слов и найди его значение (2 действия, на сложение и/или вычитание)
+                - img [ref=e370] [cursor=pointer]
+            - link "17. Запиши выражение со слов и найди его значение (3 действия, на сложение и/или вычитание)" [ref=e372] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076acebb/
+              - generic [ref=e373] [cursor=pointer]:
+                - generic [ref=e375] [cursor=pointer]:
+                  - generic [ref=e377] [cursor=pointer]: "17."
+                  - paragraph [ref=e379] [cursor=pointer]: Запиши выражение со слов и найди его значение (3 действия, на сложение и/или вычитание)
+                - img [ref=e382] [cursor=pointer]
+            - link "18. Запись выражений со слов и нахождение его значения (2-3 действия все виды действий)" [ref=e384] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076acebc/
+              - generic [ref=e385] [cursor=pointer]:
+                - generic [ref=e387] [cursor=pointer]:
+                  - generic [ref=e389] [cursor=pointer]: "18."
+                  - paragraph [ref=e391] [cursor=pointer]: Запись выражений со слов и нахождение его значения (2-3 действия все виды действий)
+                - img [ref=e394] [cursor=pointer]
+            - link "19. Разностное и кратное сравнение чисел" [active] [ref=e396] [cursor=pointer]:
+              - /url: /learn/68ac59a0d7ff8c000770f6d0/68ac57e3d7ff8c00076681d3/68ab5dd2d608c0000714f1c6/68ac5841d7ff8c00076acead/
+              - generic [ref=e397] [cursor=pointer]:
+                - generic [ref=e399] [cursor=pointer]:
+                  - generic [ref=e401] [cursor=pointer]: "19."
+                  - paragraph [ref=e403] [cursor=pointer]: Разностное и кратное сравнение чисел
+                - img [ref=e406] [cursor=pointer]
+  - generic [ref=e409]:
+    - generic [ref=e410]:
+      - generic [ref=e411]:
+        - generic [ref=e415]:
+          - img [ref=e417]
+          - link "8 (800) 600-44-02" [ref=e419] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e420]:
+          - generic [ref=e421]: "@"
+          - link "info@ismart.org" [ref=e422] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e423]:
+          - img [ref=e425]
+          - generic [ref=e427]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e428]:
+        - link "Наш сайт" [ref=e431] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e433] [cursor=pointer]
+        - generic [ref=e435]:
+          - link "Лицензия" [ref=e437] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e439] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e441] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e443] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e445] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e447]:
+      - generic [ref=e448]:
+        - link [ref=e449] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e453] [cursor=pointer]
+        - generic [ref=e456]:
+          - link "okIcon" [ref=e457] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e458] [cursor=pointer]
+          - link "dzenIcon" [ref=e459] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e460] [cursor=pointer]
+          - link "vkIcon" [ref=e461] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e462] [cursor=pointer]
+      - generic [ref=e464]:
+        - generic [ref=e466]:
+          - generic [ref=e467]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e468] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e469]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e470] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e471]:
+          - generic [ref=e472]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e473] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e474]: © iSmart, 2018-2026
+```

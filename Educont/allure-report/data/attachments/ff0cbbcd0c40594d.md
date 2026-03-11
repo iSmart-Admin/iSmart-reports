@@ -1,0 +1,235 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Физика
+      - generic [ref=e21]: Задания для повторения и закрепления учебного материала
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - button "7" [ref=e28] [cursor=pointer]:
+          - img [ref=e32] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e34] [cursor=pointer]:
+          - img [ref=e38] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e40] [cursor=pointer]:
+          - img [ref=e44] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e46] [cursor=pointer]:
+          - img [ref=e50] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e52]:
+          - img [ref=e56]
+          - text: "11"
+      - generic [ref=e59]:
+        - generic [ref=e63]:
+          - img [ref=e66]
+          - textbox "Поиск по подтемам" [ref=e69]
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - generic [ref=e72] [cursor=pointer]:
+              - generic [ref=e74] [cursor=pointer]: Темы
+              - button [ref=e76] [cursor=pointer]:
+                - img [ref=e78] [cursor=pointer]
+            - generic [ref=e81] [cursor=pointer]:
+              - generic [ref=e84] [cursor=pointer]: "1 неделя: «Кинематика и основы динамики»"
+              - img [ref=e86] [cursor=pointer]
+            - generic [ref=e88] [cursor=pointer]:
+              - generic [ref=e91] [cursor=pointer]: "2 неделя: «Динамика, статика, колебания»"
+              - img [ref=e93] [cursor=pointer]
+            - generic [ref=e95] [cursor=pointer]:
+              - generic [ref=e98] [cursor=pointer]: "3 неделя: «Законы сохранения, энергия, волны»"
+              - img [ref=e100] [cursor=pointer]
+            - generic [ref=e102] [cursor=pointer]:
+              - generic [ref=e105] [cursor=pointer]: "4 неделя: «Молекулярно-кинетическая теория»"
+              - img [ref=e107] [cursor=pointer]
+            - generic [ref=e109] [cursor=pointer]:
+              - generic [ref=e112] [cursor=pointer]: "5 неделя: «Электростатика»"
+              - img [ref=e114] [cursor=pointer]
+            - generic [ref=e116] [cursor=pointer]:
+              - generic [ref=e119] [cursor=pointer]: "6 неделя: «Постоянный ток и начала магнетизма»"
+              - img [ref=e121] [cursor=pointer]
+            - generic [ref=e123] [cursor=pointer]:
+              - generic [ref=e126] [cursor=pointer]: "7 неделя: «Магнетизм и электромагнитная индукция»"
+              - img [ref=e128] [cursor=pointer]
+            - generic [ref=e130] [cursor=pointer]:
+              - generic [ref=e133] [cursor=pointer]: "8 неделя: «Электромагнитные колебания и переменный ток»"
+              - img [ref=e135] [cursor=pointer]
+            - generic [ref=e137] [cursor=pointer]:
+              - generic [ref=e140] [cursor=pointer]: "9 неделя: «Геометрическая оптика (начало)»"
+              - img [ref=e142] [cursor=pointer]
+            - generic [ref=e144] [cursor=pointer]:
+              - generic [ref=e147] [cursor=pointer]: "10 неделя: «Геометрическая и волновая оптика»"
+              - img [ref=e149] [cursor=pointer]
+            - generic [ref=e151] [cursor=pointer]:
+              - generic [ref=e154] [cursor=pointer]: "11 неделя: «Квантовая физика и физика атома»"
+              - img [ref=e156] [cursor=pointer]
+            - generic [ref=e158] [cursor=pointer]:
+              - generic [ref=e161] [cursor=pointer]: "12 неделя: «Ядерная физика и астрономия»"
+              - img [ref=e163] [cursor=pointer]
+          - generic [ref=e169]:
+            - link "1. Вектора" [ref=e170] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61890fee84e9f601793b0348/69935a8c68a43f0007f3b396/
+              - generic [ref=e171] [cursor=pointer]:
+                - generic [ref=e173] [cursor=pointer]:
+                  - generic [ref=e175] [cursor=pointer]: "1."
+                  - paragraph [ref=e177] [cursor=pointer]: Вектора
+                - img [ref=e180] [cursor=pointer]
+            - link "2. Базовые операции над векторами" [ref=e182] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61890fee84e9f601793b0348/69935af468a43f0007f3d78e/
+              - generic [ref=e183] [cursor=pointer]:
+                - generic [ref=e185] [cursor=pointer]:
+                  - generic [ref=e187] [cursor=pointer]: "2."
+                  - paragraph [ref=e189] [cursor=pointer]: Базовые операции над векторами
+                - img [ref=e192] [cursor=pointer]
+            - link "3. Работа с физическими величинами" [ref=e194] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61890fee84e9f601793b0348/69935b0468a43f0007f3dc1f/
+              - generic [ref=e195] [cursor=pointer]:
+                - generic [ref=e197] [cursor=pointer]:
+                  - generic [ref=e199] [cursor=pointer]: "3."
+                  - paragraph [ref=e201] [cursor=pointer]: Работа с физическими величинами
+                - img [ref=e204] [cursor=pointer]
+            - link "4. Прямолинейное равномерное движение" [ref=e206] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61890fee84e9f601793b0348/69935b1568a43f0007f3e227/
+              - generic [ref=e207] [cursor=pointer]:
+                - generic [ref=e209] [cursor=pointer]:
+                  - generic [ref=e211] [cursor=pointer]: "4."
+                  - paragraph [ref=e213] [cursor=pointer]: Прямолинейное равномерное движение
+                - img [ref=e216] [cursor=pointer]
+            - link "5. Графики равномерного прямолинейного движения" [ref=e218] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61890fee84e9f601793b0348/69935b2568a43f0007f3e78a/
+              - generic [ref=e219] [cursor=pointer]:
+                - generic [ref=e221] [cursor=pointer]:
+                  - generic [ref=e223] [cursor=pointer]: "5."
+                  - paragraph [ref=e225] [cursor=pointer]: Графики равномерного прямолинейного движения
+                - img [ref=e228] [cursor=pointer]
+            - link "6. Ускорение материальной точки" [ref=e230] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61890fee84e9f601793b0348/69935b3568a43f0007f3ecd7/
+              - generic [ref=e231] [cursor=pointer]:
+                - generic [ref=e233] [cursor=pointer]:
+                  - generic [ref=e235] [cursor=pointer]: "6."
+                  - paragraph [ref=e237] [cursor=pointer]: Ускорение материальной точки
+                - img [ref=e240] [cursor=pointer]
+            - link "7. Движение материальной точки в двух координатах под воздействием ускорения свободного падения" [ref=e242] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61890fee84e9f601793b0348/69935b4568a43f0007f3f2bf/
+              - generic [ref=e243] [cursor=pointer]:
+                - generic [ref=e245] [cursor=pointer]:
+                  - generic [ref=e247] [cursor=pointer]: "7."
+                  - paragraph [ref=e249] [cursor=pointer]: Движение материальной точки в двух координатах под воздействием ускорения свободного падения
+                - img [ref=e252] [cursor=pointer]
+            - link "8. Равноускоренное прямолинейное движение. Графики зависимости координат, скорости, пути и перемещения материальной точки от времени при равноускоренном движении" [ref=e254] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61890fee84e9f601793b0348/69935b5768a43f0007f3f92d/
+              - generic [ref=e255] [cursor=pointer]:
+                - generic [ref=e257] [cursor=pointer]:
+                  - generic [ref=e259] [cursor=pointer]: "8."
+                  - paragraph [ref=e261] [cursor=pointer]: Равноускоренное прямолинейное движение. Графики зависимости координат, скорости, пути и перемещения материальной точки от времени при равноускоренном движении
+                - img [ref=e264] [cursor=pointer]
+            - link "9. Графики равноускоренного прямолинейного движения" [ref=e266] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61890fee84e9f601793b0348/69935b6868a43f0007f3ff96/
+              - generic [ref=e267] [cursor=pointer]:
+                - generic [ref=e269] [cursor=pointer]:
+                  - generic [ref=e271] [cursor=pointer]: "9."
+                  - paragraph [ref=e273] [cursor=pointer]: Графики равноускоренного прямолинейного движения
+                - img [ref=e276] [cursor=pointer]
+            - link "10. Движение материальной точки по окружности" [ref=e278] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61890fee84e9f601793b0348/69935b7c68a43f0007f405d0/
+              - generic [ref=e279] [cursor=pointer]:
+                - generic [ref=e281] [cursor=pointer]:
+                  - generic [ref=e283] [cursor=pointer]: "10."
+                  - paragraph [ref=e285] [cursor=pointer]: Движение материальной точки по окружности
+                - img [ref=e288] [cursor=pointer]
+            - link "11. Масса тела" [ref=e290] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61890fee84e9f601793b0348/69935b8d68a43f0007f40b9d/
+              - generic [ref=e291] [cursor=pointer]:
+                - generic [ref=e293] [cursor=pointer]:
+                  - generic [ref=e295] [cursor=pointer]: "11."
+                  - paragraph [ref=e297] [cursor=pointer]: Масса тела
+                - img [ref=e300] [cursor=pointer]
+            - 'link "12. Второй закон Ньютона: для материальной точки в ИСО" [ref=e302] [cursor=pointer]':
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61890fee84e9f601793b0348/69935ba068a43f0007f41339/
+              - generic [ref=e303] [cursor=pointer]:
+                - generic [ref=e305] [cursor=pointer]:
+                  - generic [ref=e307] [cursor=pointer]: "12."
+                  - paragraph [ref=e309] [cursor=pointer]: "Второй закон Ньютона: для материальной точки в ИСО"
+                - img [ref=e312] [cursor=pointer]
+            - link "13. Обобщение по неделе 1" [active] [ref=e314] [cursor=pointer]:
+              - /url: /learn/67beb4efb7044b0007b8995c/60d468f69e70371ac2dbab84/61890fee84e9f601793b0348/67d7e7ca59c6d50007af333d/
+              - generic [ref=e315] [cursor=pointer]:
+                - generic [ref=e317] [cursor=pointer]:
+                  - generic [ref=e319] [cursor=pointer]: "13."
+                  - paragraph [ref=e321] [cursor=pointer]: Обобщение по неделе 1
+                - img [ref=e324] [cursor=pointer]
+  - generic [ref=e327]:
+    - generic [ref=e328]:
+      - generic [ref=e329]:
+        - generic [ref=e333]:
+          - img [ref=e335]
+          - link "8 (800) 600-44-02" [ref=e337] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e338]:
+          - generic [ref=e339]: "@"
+          - link "info@ismart.org" [ref=e340] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e341]:
+          - img [ref=e343]
+          - generic [ref=e345]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e346]:
+        - link "Наш сайт" [ref=e349] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e351] [cursor=pointer]
+        - generic [ref=e353]:
+          - link "Лицензия" [ref=e355] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e357] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e359] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e361] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e363] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e365]:
+      - generic [ref=e366]:
+        - link [ref=e367] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e371] [cursor=pointer]
+        - generic [ref=e374]:
+          - link "okIcon" [ref=e375] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e376] [cursor=pointer]
+          - link "dzenIcon" [ref=e377] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e378] [cursor=pointer]
+          - link "vkIcon" [ref=e379] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e380] [cursor=pointer]
+      - generic [ref=e382]:
+        - generic [ref=e384]:
+          - generic [ref=e385]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e386] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e387]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e388] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e389]:
+          - generic [ref=e390]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e391] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e392]: © iSmart, 2018-2026
+```

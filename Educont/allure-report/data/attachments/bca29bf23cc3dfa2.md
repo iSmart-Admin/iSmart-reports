@@ -1,0 +1,79 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading [level=4] [ref=e43]:
+                    - img [ref=e46]
+                - img "decore" [ref=e67]
+                - generic [ref=e70]:
+                  - button [ref=e72] [cursor=pointer]:
+                    - img [ref=e75] [cursor=pointer]
+                  - button [ref=e93] [cursor=pointer]:
+                    - img [ref=e96] [cursor=pointer]
+                  - button [ref=e114] [cursor=pointer]:
+                    - img [ref=e117] [cursor=pointer]
+                  - button [ref=e135] [cursor=pointer]:
+                    - img [ref=e138] [cursor=pointer]
+          - generic [ref=e159]:
+            - generic [ref=e162]:
+              - button [disabled] [ref=e164]:
+                - img [ref=e166]
+              - generic [ref=e169]: 100%
+              - button [ref=e171] [cursor=pointer]:
+                - img [ref=e173] [cursor=pointer]
+            - generic [ref=e178]:
+              - img [ref=e180]
+              - generic [ref=e197]: Загрузка подсказок...
+        - generic [ref=e201]:
+          - generic [ref=e204]: Интеллектуальный тренажер
+          - generic [ref=e208]:
+            - generic [ref=e213]: 1 из 10
+            - generic [ref=e215]:
+              - generic [ref=e216]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e218] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e221]:
+            - generic [ref=e223]:
+              - button "Пройти опрос" [ref=e224] [cursor=pointer]:
+                - generic [ref=e226] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e227] [cursor=pointer]:
+                - img [ref=e230] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e233] [cursor=pointer]:
+                - img [ref=e236] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e240] [cursor=pointer]:
+                - img [ref=e243] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e245]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e246] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e249] [cursor=pointer]
+              - generic [ref=e252]: 69b115b54c313400074a2fd8
+  - generic [ref=e261]:
+    - generic [ref=e263]: Урок
+    - generic [ref=e264]: Вычисление неизвестного компонента действий умножения и деления
+    - button "Приступить" [active] [ref=e265] [cursor=pointer]
+```

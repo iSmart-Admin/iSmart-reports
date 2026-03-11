@@ -1,0 +1,222 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Русский язык. 6.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "1" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e49]:
+          - img [ref=e53]
+          - text: "5"
+        - button "6" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e61] [cursor=pointer]:
+          - img [ref=e65] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e67] [cursor=pointer]:
+          - img [ref=e71] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e73] [cursor=pointer]:
+          - img [ref=e77] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e79] [cursor=pointer]:
+          - img [ref=e83] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e85] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e92]:
+        - generic [ref=e96]:
+          - img [ref=e99]
+          - textbox "Поиск по подтемам" [ref=e102]
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - generic [ref=e105] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Темы
+              - button [ref=e109] [cursor=pointer]:
+                - img [ref=e111] [cursor=pointer]
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e116] [cursor=pointer]: Язык и речь
+              - img [ref=e118] [cursor=pointer]
+            - generic [ref=e120] [cursor=pointer]:
+              - generic [ref=e123] [cursor=pointer]: Фонетика. Графика. Орфоэпия
+              - img [ref=e125] [cursor=pointer]
+            - generic [ref=e128] [cursor=pointer]:
+              - generic [ref=e131] [cursor=pointer]: Морфология
+              - img [ref=e133] [cursor=pointer]
+            - generic [ref=e135] [cursor=pointer]:
+              - generic [ref=e138] [cursor=pointer]: Орфография
+              - img [ref=e140] [cursor=pointer]
+            - generic [ref=e142] [cursor=pointer]:
+              - generic [ref=e145] [cursor=pointer]: Морфемика
+              - img [ref=e147] [cursor=pointer]
+            - generic [ref=e149] [cursor=pointer]:
+              - generic [ref=e152] [cursor=pointer]: Синтаксис и пунктуация
+              - img [ref=e154] [cursor=pointer]
+            - generic [ref=e156] [cursor=pointer]:
+              - generic [ref=e159] [cursor=pointer]: Лексикология
+              - img [ref=e161] [cursor=pointer]
+          - generic [ref=e167]:
+            - link "1. Имя существительное" [ref=e168] [cursor=pointer]:
+              - /url: /learn/68ac402ad7ff8c00074bde52/68ac3e54d7ff8c000746be12/68ab5e1dd608c00007177da5/68ac3ef4d7ff8c00074b2946/
+              - generic [ref=e169] [cursor=pointer]:
+                - generic [ref=e171] [cursor=pointer]:
+                  - generic [ref=e173] [cursor=pointer]: "1."
+                  - paragraph [ref=e175] [cursor=pointer]: Имя существительное
+                - img [ref=e178] [cursor=pointer]
+            - link "2. Имя прилагательное" [ref=e180] [cursor=pointer]:
+              - /url: /learn/68ac402ad7ff8c00074bde52/68ac3e54d7ff8c000746be12/68ab5e1dd608c00007177da5/68ac3ef4d7ff8c00074b2947/
+              - generic [ref=e181] [cursor=pointer]:
+                - generic [ref=e183] [cursor=pointer]:
+                  - generic [ref=e185] [cursor=pointer]: "2."
+                  - paragraph [ref=e187] [cursor=pointer]: Имя прилагательное
+                - img [ref=e190] [cursor=pointer]
+            - link "3. Глагол" [ref=e192] [cursor=pointer]:
+              - /url: /learn/68ac402ad7ff8c00074bde52/68ac3e54d7ff8c000746be12/68ab5e1dd608c00007177da5/68ac3ef4d7ff8c00074b2948/
+              - generic [ref=e193] [cursor=pointer]:
+                - generic [ref=e195] [cursor=pointer]:
+                  - generic [ref=e197] [cursor=pointer]: "3."
+                  - paragraph [ref=e199] [cursor=pointer]: Глагол
+                - img [ref=e202] [cursor=pointer]
+            - link "4. Местоимение" [ref=e204] [cursor=pointer]:
+              - /url: /learn/68ac402ad7ff8c00074bde52/68ac3e54d7ff8c000746be12/68ab5e1dd608c00007177da5/68ac3ef4d7ff8c00074b2949/
+              - generic [ref=e205] [cursor=pointer]:
+                - generic [ref=e207] [cursor=pointer]:
+                  - generic [ref=e209] [cursor=pointer]: "4."
+                  - paragraph [ref=e211] [cursor=pointer]: Местоимение
+                - img [ref=e214] [cursor=pointer]
+            - link "5. Части речи. Самостоятельные и служебные части речи" [ref=e216] [cursor=pointer]:
+              - /url: /learn/68ac402ad7ff8c00074bde52/68ac3e54d7ff8c000746be12/68ab5e1dd608c00007177da5/68ac3ef4d7ff8c00074b2945/
+              - generic [ref=e217] [cursor=pointer]:
+                - generic [ref=e219] [cursor=pointer]:
+                  - generic [ref=e221] [cursor=pointer]: "5."
+                  - paragraph [ref=e223] [cursor=pointer]: Части речи. Самостоятельные и служебные части речи
+                - img [ref=e226] [cursor=pointer]
+            - link "6. Вид глагола" [ref=e228] [cursor=pointer]:
+              - /url: /learn/68ac402ad7ff8c00074bde52/68ac3e54d7ff8c000746be12/68ab5e1dd608c00007177da5/68ac3ef4d7ff8c00074b294a/
+              - generic [ref=e229] [cursor=pointer]:
+                - generic [ref=e231] [cursor=pointer]:
+                  - generic [ref=e233] [cursor=pointer]: "6."
+                  - paragraph [ref=e235] [cursor=pointer]: Вид глагола
+                - img [ref=e238] [cursor=pointer]
+            - link "7. Имена прилагательные полные и краткие" [ref=e240] [cursor=pointer]:
+              - /url: /learn/68ac402ad7ff8c00074bde52/68ac3e54d7ff8c000746be12/68ab5e1dd608c00007177da5/68ac3ef4d7ff8c00074b294b/
+              - generic [ref=e241] [cursor=pointer]:
+                - generic [ref=e243] [cursor=pointer]:
+                  - generic [ref=e245] [cursor=pointer]: "7."
+                  - paragraph [ref=e247] [cursor=pointer]: Имена прилагательные полные и краткие
+                - img [ref=e250] [cursor=pointer]
+            - link "8. Наклонение глаголов" [ref=e252] [cursor=pointer]:
+              - /url: /learn/68ac402ad7ff8c00074bde52/68ac3e54d7ff8c000746be12/68ab5e1dd608c00007177da5/68ac3ef4d7ff8c00074b294c/
+              - generic [ref=e253] [cursor=pointer]:
+                - generic [ref=e255] [cursor=pointer]:
+                  - generic [ref=e257] [cursor=pointer]: "8."
+                  - paragraph [ref=e259] [cursor=pointer]: Наклонение глаголов
+                - img [ref=e262] [cursor=pointer]
+            - link "9. Переходные и непереходные глаголы" [ref=e264] [cursor=pointer]:
+              - /url: /learn/68ac402ad7ff8c00074bde52/68ac3e54d7ff8c000746be12/68ab5e1dd608c00007177da5/68ac3ef4d7ff8c00074b294d/
+              - generic [ref=e265] [cursor=pointer]:
+                - generic [ref=e267] [cursor=pointer]:
+                  - generic [ref=e269] [cursor=pointer]: "9."
+                  - paragraph [ref=e271] [cursor=pointer]: Переходные и непереходные глаголы
+                - img [ref=e274] [cursor=pointer]
+            - link "10. Прилагательные качественные, относительные и притяжательные" [ref=e276] [cursor=pointer]:
+              - /url: /learn/68ac402ad7ff8c00074bde52/68ac3e54d7ff8c000746be12/68ab5e1dd608c00007177da5/68ac3ef4d7ff8c00074b294e/
+              - generic [ref=e277] [cursor=pointer]:
+                - generic [ref=e279] [cursor=pointer]:
+                  - generic [ref=e281] [cursor=pointer]: "10."
+                  - paragraph [ref=e283] [cursor=pointer]: Прилагательные качественные, относительные и притяжательные
+                - img [ref=e286] [cursor=pointer]
+            - link "11. Сравнительная и превосходная степень качественных имён прилагательных" [active] [ref=e288] [cursor=pointer]:
+              - /url: /learn/68ac402ad7ff8c00074bde52/68ac3e54d7ff8c000746be12/68ab5e1dd608c00007177da5/68ac3ef4d7ff8c00074b294f/
+              - generic [ref=e289] [cursor=pointer]:
+                - generic [ref=e291] [cursor=pointer]:
+                  - generic [ref=e293] [cursor=pointer]: "11."
+                  - paragraph [ref=e295] [cursor=pointer]: Сравнительная и превосходная степень качественных имён прилагательных
+                - img [ref=e298] [cursor=pointer]
+  - generic [ref=e301]:
+    - generic [ref=e302]:
+      - generic [ref=e303]:
+        - generic [ref=e307]:
+          - img [ref=e309]
+          - link "8 (800) 600-44-02" [ref=e311] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e312]:
+          - generic [ref=e313]: "@"
+          - link "info@ismart.org" [ref=e314] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e315]:
+          - img [ref=e317]
+          - generic [ref=e319]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e320]:
+        - link "Наш сайт" [ref=e323] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e325] [cursor=pointer]
+        - generic [ref=e327]:
+          - link "Лицензия" [ref=e329] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e331] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e333] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e335] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e337] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e339]:
+      - generic [ref=e340]:
+        - link [ref=e341] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e345] [cursor=pointer]
+        - generic [ref=e348]:
+          - link "okIcon" [ref=e349] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e350] [cursor=pointer]
+          - link "dzenIcon" [ref=e351] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e352] [cursor=pointer]
+          - link "vkIcon" [ref=e353] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e354] [cursor=pointer]
+      - generic [ref=e356]:
+        - generic [ref=e358]:
+          - generic [ref=e359]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e360] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e361]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e362] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e363]:
+          - generic [ref=e364]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e365] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e366]: © iSmart, 2018-2026
+```

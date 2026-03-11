@@ -1,0 +1,256 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Русский язык. 7.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "1" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e61] [cursor=pointer]:
+          - img [ref=e65] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e67] [cursor=pointer]:
+          - img [ref=e71] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e73] [cursor=pointer]:
+          - img [ref=e77] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e79]:
+          - img [ref=e83]
+          - text: "10"
+        - button "11" [ref=e85] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e92]:
+        - generic [ref=e96]:
+          - img [ref=e99]
+          - textbox "Поиск по подтемам" [ref=e102]
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - generic [ref=e105] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Темы
+              - button [ref=e109] [cursor=pointer]:
+                - img [ref=e111] [cursor=pointer]
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e116] [cursor=pointer]: Общие сведения о языке
+              - img [ref=e118] [cursor=pointer]
+            - generic [ref=e120] [cursor=pointer]:
+              - generic [ref=e123] [cursor=pointer]: Язык и речь. Система языка. Культура речи
+              - img [ref=e125] [cursor=pointer]
+            - generic [ref=e128] [cursor=pointer]:
+              - generic [ref=e131] [cursor=pointer]: Фонетика. Орфоэпия. Орфоэпические нормы
+              - img [ref=e133] [cursor=pointer]
+            - generic [ref=e135] [cursor=pointer]:
+              - generic [ref=e138] [cursor=pointer]: Лексикология и фразеология. Лексические нормы
+              - img [ref=e140] [cursor=pointer]
+            - generic [ref=e142] [cursor=pointer]:
+              - generic [ref=e145] [cursor=pointer]: Морфемика и словообразование. Словообразовательные нормы
+              - img [ref=e147] [cursor=pointer]
+            - generic [ref=e149] [cursor=pointer]:
+              - generic [ref=e152] [cursor=pointer]: Морфология. Морфологические нормы
+              - img [ref=e154] [cursor=pointer]
+            - generic [ref=e156] [cursor=pointer]:
+              - generic [ref=e159] [cursor=pointer]: Орфография. Основные правила орфографии
+              - img [ref=e161] [cursor=pointer]
+            - generic [ref=e163] [cursor=pointer]:
+              - generic [ref=e166] [cursor=pointer]: Речь. Речевое общение
+              - img [ref=e168] [cursor=pointer]
+            - generic [ref=e170] [cursor=pointer]:
+              - generic [ref=e173] [cursor=pointer]: Текст. Информационно-смысловая переработка текста
+              - img [ref=e175] [cursor=pointer]
+          - generic [ref=e181]:
+            - link "1. Фонетика и орфоэпия как разделы лингвистики" [ref=e182] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469688/
+              - generic [ref=e183] [cursor=pointer]:
+                - generic [ref=e185] [cursor=pointer]:
+                  - generic [ref=e187] [cursor=pointer]: "1."
+                  - paragraph [ref=e189] [cursor=pointer]: Фонетика и орфоэпия как разделы лингвистики
+                - img [ref=e192] [cursor=pointer]
+            - link "2. Фонетический анализ слова" [ref=e194] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469689/
+              - generic [ref=e195] [cursor=pointer]:
+                - generic [ref=e197] [cursor=pointer]:
+                  - generic [ref=e199] [cursor=pointer]: "2."
+                  - paragraph [ref=e201] [cursor=pointer]: Фонетический анализ слова
+                - img [ref=e204] [cursor=pointer]
+            - link "3. Изобразительно-выразительные средства фонетики" [ref=e206] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c000746968a/
+              - generic [ref=e207] [cursor=pointer]:
+                - generic [ref=e209] [cursor=pointer]:
+                  - generic [ref=e211] [cursor=pointer]: "3."
+                  - paragraph [ref=e213] [cursor=pointer]: Изобразительно-выразительные средства фонетики
+                - img [ref=e216] [cursor=pointer]
+            - link "4. Произношение безударных гласных звуков" [ref=e218] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c000746968b/
+              - generic [ref=e219] [cursor=pointer]:
+                - generic [ref=e221] [cursor=pointer]:
+                  - generic [ref=e223] [cursor=pointer]: "4."
+                  - paragraph [ref=e225] [cursor=pointer]: Произношение безударных гласных звуков
+                - img [ref=e228] [cursor=pointer]
+            - link "5. Произношение некоторых согласных, сочетаний согласных" [ref=e230] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c000746968c/
+              - generic [ref=e231] [cursor=pointer]:
+                - generic [ref=e233] [cursor=pointer]:
+                  - generic [ref=e235] [cursor=pointer]: "5."
+                  - paragraph [ref=e237] [cursor=pointer]: Произношение некоторых согласных, сочетаний согласных
+                - img [ref=e240] [cursor=pointer]
+            - link "6. Произношение некоторых грамматических форм" [ref=e242] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c000746968d/
+              - generic [ref=e243] [cursor=pointer]:
+                - generic [ref=e245] [cursor=pointer]:
+                  - generic [ref=e247] [cursor=pointer]: "6."
+                  - paragraph [ref=e249] [cursor=pointer]: Произношение некоторых грамматических форм
+                - img [ref=e252] [cursor=pointer]
+            - link "7. Особенности произношения иноязычных слов" [ref=e254] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c000746968e/
+              - generic [ref=e255] [cursor=pointer]:
+                - generic [ref=e257] [cursor=pointer]:
+                  - generic [ref=e259] [cursor=pointer]: "7."
+                  - paragraph [ref=e261] [cursor=pointer]: Особенности произношения иноязычных слов
+                - img [ref=e264] [cursor=pointer]
+            - link "8. Нормы ударения в глаголах" [ref=e266] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c000746968f/
+              - generic [ref=e267] [cursor=pointer]:
+                - generic [ref=e269] [cursor=pointer]:
+                  - generic [ref=e271] [cursor=pointer]: "8."
+                  - paragraph [ref=e273] [cursor=pointer]: Нормы ударения в глаголах
+                - img [ref=e276] [cursor=pointer]
+            - link "9. Нормы ударения в именах существительных" [ref=e278] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469690/
+              - generic [ref=e279] [cursor=pointer]:
+                - generic [ref=e281] [cursor=pointer]:
+                  - generic [ref=e283] [cursor=pointer]: "9."
+                  - paragraph [ref=e285] [cursor=pointer]: Нормы ударения в именах существительных
+                - img [ref=e288] [cursor=pointer]
+            - link "10. Нормы ударения в именах прилагательных и наречиях" [ref=e290] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469691/
+              - generic [ref=e291] [cursor=pointer]:
+                - generic [ref=e293] [cursor=pointer]:
+                  - generic [ref=e295] [cursor=pointer]: "10."
+                  - paragraph [ref=e297] [cursor=pointer]: Нормы ударения в именах прилагательных и наречиях
+                - img [ref=e300] [cursor=pointer]
+            - link "11. Нормы ударения в причастиях и деепричастиях" [ref=e302] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469692/
+              - generic [ref=e303] [cursor=pointer]:
+                - generic [ref=e305] [cursor=pointer]:
+                  - generic [ref=e307] [cursor=pointer]: "11."
+                  - paragraph [ref=e309] [cursor=pointer]: Нормы ударения в причастиях и деепричастиях
+                - img [ref=e312] [cursor=pointer]
+            - link "12. Орфоэпический словарь" [ref=e314] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469687/
+              - generic [ref=e315] [cursor=pointer]:
+                - generic [ref=e317] [cursor=pointer]:
+                  - generic [ref=e319] [cursor=pointer]: "12."
+                  - paragraph [ref=e321] [cursor=pointer]: Орфоэпический словарь
+                - img [ref=e324] [cursor=pointer]
+            - link "12. Обобщение по теме \"Орфоэпические нормы\". Работа с орфоэпическим словарем" [ref=e326] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469693/
+              - generic [ref=e327] [cursor=pointer]:
+                - generic [ref=e329] [cursor=pointer]:
+                  - generic [ref=e331] [cursor=pointer]: "12."
+                  - paragraph [ref=e333] [cursor=pointer]: Обобщение по теме "Орфоэпические нормы". Работа с орфоэпическим словарем
+                - img [ref=e336] [cursor=pointer]
+            - link "13. Нормы ударения в современном литературном русском языке (глагольные формы, наречия)" [ref=e338] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469685/
+              - generic [ref=e339] [cursor=pointer]:
+                - generic [ref=e341] [cursor=pointer]:
+                  - generic [ref=e343] [cursor=pointer]: "13."
+                  - paragraph [ref=e345] [cursor=pointer]: Нормы ударения в современном литературном русском языке (глагольные формы, наречия)
+                - img [ref=e348] [cursor=pointer]
+            - link "14. Обобщающие задания на различные виды орфоэпических норм" [active] [ref=e350] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469686/
+              - generic [ref=e351] [cursor=pointer]:
+                - generic [ref=e353] [cursor=pointer]:
+                  - generic [ref=e355] [cursor=pointer]: "14."
+                  - paragraph [ref=e357] [cursor=pointer]: Обобщающие задания на различные виды орфоэпических норм
+                - img [ref=e360] [cursor=pointer]
+  - generic [ref=e363]:
+    - generic [ref=e364]:
+      - generic [ref=e365]:
+        - generic [ref=e369]:
+          - img [ref=e371]
+          - link "8 (800) 600-44-02" [ref=e373] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e374]:
+          - generic [ref=e375]: "@"
+          - link "info@ismart.org" [ref=e376] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e377]:
+          - img [ref=e379]
+          - generic [ref=e381]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e382]:
+        - link "Наш сайт" [ref=e385] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e387] [cursor=pointer]
+        - generic [ref=e389]:
+          - link "Лицензия" [ref=e391] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e393] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e395] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e397] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e399] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e401]:
+      - generic [ref=e402]:
+        - link [ref=e403] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e407] [cursor=pointer]
+        - generic [ref=e410]:
+          - link "okIcon" [ref=e411] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e412] [cursor=pointer]
+          - link "dzenIcon" [ref=e413] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e414] [cursor=pointer]
+          - link "vkIcon" [ref=e415] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e416] [cursor=pointer]
+      - generic [ref=e418]:
+        - generic [ref=e420]:
+          - generic [ref=e421]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e422] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e423]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e424] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e425]:
+          - generic [ref=e426]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e427] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e428]: © iSmart, 2018-2026
+```

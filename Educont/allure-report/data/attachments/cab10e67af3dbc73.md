@@ -1,0 +1,73 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Выбери верные высказывания." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Выбери верные высказывания.
+                - generic [ref=e47]:
+                  - img "decore" [ref=e50]
+                  - generic [ref=e56]: 69 51 35 37 55 43
+                - generic [ref=e60]:
+                  - generic [ref=e63] [cursor=pointer]: В ряду есть чётные числа.
+                  - generic [ref=e66] [cursor=pointer]: Все числа в ряду больше, чем 35.
+                  - generic [ref=e69] [cursor=pointer]: В ряду есть числа больше, чем 50.
+                  - generic [ref=e72] [cursor=pointer]: Все числа в ряду меньше, чем 70.
+          - generic [ref=e80]:
+            - button [disabled] [ref=e82]:
+              - img [ref=e84]
+            - generic [ref=e87]: 100%
+            - button [ref=e89] [cursor=pointer]:
+              - img [ref=e91] [cursor=pointer]
+        - generic [ref=e96]:
+          - generic [ref=e99]: Интеллектуальный тренажер
+          - generic [ref=e103]:
+            - generic [ref=e108]: 1 из 5
+            - generic [ref=e110]:
+              - generic [ref=e111]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e113] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e116]:
+            - generic [ref=e118]:
+              - button "Пройти опрос" [ref=e119] [cursor=pointer]:
+                - generic [ref=e121] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e122] [cursor=pointer]:
+                - img [ref=e125] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e128] [cursor=pointer]:
+                - img [ref=e131] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e135] [cursor=pointer]:
+                - img [ref=e138] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e140]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e141] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e144] [cursor=pointer]
+              - generic [ref=e147]: 69b11433709a2300083b2860
+  - generic [ref=e156]:
+    - generic [ref=e158]: Урок
+    - generic [ref=e159]: Работа с утверждениям
+    - button "Приступить" [active] [ref=e160] [cursor=pointer]
+```

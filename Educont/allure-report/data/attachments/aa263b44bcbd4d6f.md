@@ -1,0 +1,191 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Обществознание 6.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "6" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e31]:
+          - img [ref=e35]
+          - text: "7"
+        - button "8" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e62]:
+        - generic [ref=e66]:
+          - img [ref=e69]
+          - textbox "Поиск по подтемам" [ref=e72]
+        - generic [ref=e73]:
+          - generic [ref=e74]:
+            - generic [ref=e75] [cursor=pointer]:
+              - generic [ref=e77] [cursor=pointer]: Темы
+              - button [ref=e79] [cursor=pointer]:
+                - img [ref=e81] [cursor=pointer]
+            - generic [ref=e83] [cursor=pointer]:
+              - generic [ref=e86] [cursor=pointer]: Социальные ценности и нормы
+              - img [ref=e88] [cursor=pointer]
+            - generic [ref=e91] [cursor=pointer]:
+              - generic [ref=e94] [cursor=pointer]: Человек как участник правовых отношений
+              - img [ref=e96] [cursor=pointer]
+            - generic [ref=e98] [cursor=pointer]:
+              - generic [ref=e101] [cursor=pointer]: Экономика и её основные участники
+              - img [ref=e103] [cursor=pointer]
+            - generic [ref=e105] [cursor=pointer]:
+              - generic [ref=e108] [cursor=pointer]: Человек и природа
+              - img [ref=e110] [cursor=pointer]
+          - generic [ref=e116]:
+            - link "1. Права и свободы человека и гражданина в России, их гарантии" [ref=e117] [cursor=pointer]:
+              - /url: /learn/69a9e046a2db7b0007c74313/69a9df3fa2db7b0007c6f7ef/68ab5e4dd608c0000717c41a/69a9df5ea2db7b0007c6fe99/
+              - generic [ref=e118] [cursor=pointer]:
+                - generic [ref=e120] [cursor=pointer]:
+                  - generic [ref=e122] [cursor=pointer]: "1."
+                  - paragraph [ref=e124] [cursor=pointer]: Права и свободы человека и гражданина в России, их гарантии
+                - img [ref=e127] [cursor=pointer]
+            - link "2. Конституционные обязанности гражданина" [ref=e129] [cursor=pointer]:
+              - /url: /learn/69a9e046a2db7b0007c74313/69a9df3fa2db7b0007c6f7ef/68ab5e4dd608c0000717c41a/69a9df5ea2db7b0007c6fe9a/
+              - generic [ref=e130] [cursor=pointer]:
+                - generic [ref=e132] [cursor=pointer]:
+                  - generic [ref=e134] [cursor=pointer]: "2."
+                  - paragraph [ref=e136] [cursor=pointer]: Конституционные обязанности гражданина
+                - img [ref=e139] [cursor=pointer]
+            - link "3. Права ребёнка и их защита" [ref=e141] [cursor=pointer]:
+              - /url: /learn/69a9e046a2db7b0007c74313/69a9df3fa2db7b0007c6f7ef/68ab5e4dd608c0000717c41a/69a9df5ea2db7b0007c6fe9b/
+              - generic [ref=e142] [cursor=pointer]:
+                - generic [ref=e144] [cursor=pointer]:
+                  - generic [ref=e146] [cursor=pointer]: "3."
+                  - paragraph [ref=e148] [cursor=pointer]: Права ребёнка и их защита
+                - img [ref=e151] [cursor=pointer]
+            - link "4. Особенности правового статуса несовершеннолетних" [ref=e153] [cursor=pointer]:
+              - /url: /learn/69a9e046a2db7b0007c74313/69a9df3fa2db7b0007c6f7ef/68ab5e4dd608c0000717c41a/69a9df5ea2db7b0007c6fe9c/
+              - generic [ref=e154] [cursor=pointer]:
+                - generic [ref=e156] [cursor=pointer]:
+                  - generic [ref=e158] [cursor=pointer]: "4."
+                  - paragraph [ref=e160] [cursor=pointer]: Особенности правового статуса несовершеннолетних
+                - img [ref=e163] [cursor=pointer]
+            - link "5. Понятие правоотношений" [ref=e165] [cursor=pointer]:
+              - /url: /learn/69a9e046a2db7b0007c74313/69a9df3fa2db7b0007c6f7ef/68ab5e4dd608c0000717c41a/69a9df5ea2db7b0007c6fe9d/
+              - generic [ref=e166] [cursor=pointer]:
+                - generic [ref=e168] [cursor=pointer]:
+                  - generic [ref=e170] [cursor=pointer]: "5."
+                  - paragraph [ref=e172] [cursor=pointer]: Понятие правоотношений
+                - img [ref=e175] [cursor=pointer]
+            - link "6. Признаки и виды правонарушений" [ref=e177] [cursor=pointer]:
+              - /url: /learn/69a9e046a2db7b0007c74313/69a9df3fa2db7b0007c6f7ef/68ab5e4dd608c0000717c41a/69a9df5ea2db7b0007c6fe9e/
+              - generic [ref=e178] [cursor=pointer]:
+                - generic [ref=e180] [cursor=pointer]:
+                  - generic [ref=e182] [cursor=pointer]: "6."
+                  - paragraph [ref=e184] [cursor=pointer]: Признаки и виды правонарушений
+                - img [ref=e187] [cursor=pointer]
+            - link "7. Понятие и виды юридической ответственности" [ref=e189] [cursor=pointer]:
+              - /url: /learn/69a9e046a2db7b0007c74313/69a9df3fa2db7b0007c6f7ef/68ab5e4dd608c0000717c41a/69a9df5ea2db7b0007c6fe9f/
+              - generic [ref=e190] [cursor=pointer]:
+                - generic [ref=e192] [cursor=pointer]:
+                  - generic [ref=e194] [cursor=pointer]: "7."
+                  - paragraph [ref=e196] [cursor=pointer]: Понятие и виды юридической ответственности
+                - img [ref=e199] [cursor=pointer]
+            - link "8. Преступления и проступки" [ref=e201] [cursor=pointer]:
+              - /url: /learn/69a9e046a2db7b0007c74313/69a9df3fa2db7b0007c6f7ef/68ab5e4dd608c0000717c41a/69a9df5ea2db7b0007c6fea0/
+              - generic [ref=e202] [cursor=pointer]:
+                - generic [ref=e204] [cursor=pointer]:
+                  - generic [ref=e206] [cursor=pointer]: "8."
+                  - paragraph [ref=e208] [cursor=pointer]: Преступления и проступки
+                - img [ref=e211] [cursor=pointer]
+            - link "9. Правоохранительные органы" [ref=e213] [cursor=pointer]:
+              - /url: /learn/69a9e046a2db7b0007c74313/69a9df3fa2db7b0007c6f7ef/68ab5e4dd608c0000717c41a/69a9df5ea2db7b0007c6fea1/
+              - generic [ref=e214] [cursor=pointer]:
+                - generic [ref=e216] [cursor=pointer]:
+                  - generic [ref=e218] [cursor=pointer]: "9."
+                  - paragraph [ref=e220] [cursor=pointer]: Правоохранительные органы
+                - img [ref=e223] [cursor=pointer]
+            - link "10. Судебные органы" [active] [ref=e225] [cursor=pointer]:
+              - /url: /learn/69a9e046a2db7b0007c74313/69a9df3fa2db7b0007c6f7ef/68ab5e4dd608c0000717c41a/69a9df5ea2db7b0007c6fea2/
+              - generic [ref=e226] [cursor=pointer]:
+                - generic [ref=e228] [cursor=pointer]:
+                  - generic [ref=e230] [cursor=pointer]: "10."
+                  - paragraph [ref=e232] [cursor=pointer]: Судебные органы
+                - img [ref=e235] [cursor=pointer]
+  - generic [ref=e238]:
+    - generic [ref=e239]:
+      - generic [ref=e240]:
+        - generic [ref=e244]:
+          - img [ref=e246]
+          - link "8 (800) 600-44-02" [ref=e248] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e249]:
+          - generic [ref=e250]: "@"
+          - link "info@ismart.org" [ref=e251] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e252]:
+          - img [ref=e254]
+          - generic [ref=e256]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e257]:
+        - link "Наш сайт" [ref=e260] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e262] [cursor=pointer]
+        - generic [ref=e264]:
+          - link "Лицензия" [ref=e266] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e268] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e270] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e272] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e274] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e276]:
+      - generic [ref=e277]:
+        - link [ref=e278] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e282] [cursor=pointer]
+        - generic [ref=e285]:
+          - link "okIcon" [ref=e286] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e287] [cursor=pointer]
+          - link "dzenIcon" [ref=e288] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e289] [cursor=pointer]
+          - link "vkIcon" [ref=e290] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e291] [cursor=pointer]
+      - generic [ref=e293]:
+        - generic [ref=e295]:
+          - generic [ref=e296]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e297] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e298]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e299] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e300]:
+          - generic [ref=e301]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e302] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e303]: © iSmart, 2018-2026
+```

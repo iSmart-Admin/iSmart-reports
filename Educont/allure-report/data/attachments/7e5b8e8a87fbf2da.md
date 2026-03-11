@@ -1,0 +1,116 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Внесите ответ в специально предназначенное поле.
+                - generic [ref=e47]:
+                  - img "decore" [ref=e50]
+                  - generic [ref=e56]:
+                    - text: Определите силу тока в проводнике, если со стороны внешнего магнитного поля на него действует сила
+                    - generic [ref=e58]:
+                      - math [ref=e60]:
+                        - generic [ref=e62]:
+                          - generic [ref=e63]: "0"
+                          - generic [ref=e64]: ","
+                          - generic [ref=e65]: "3"
+                          - generic [ref=e66]: Н
+                      - generic [ref=e68]:
+                        - generic [ref=e69]: "0"
+                        - generic [ref=e70]: ","
+                        - generic [ref=e71]: "3"
+                        - generic [ref=e72]: Н
+                    - text: . Длина проводника
+                    - generic [ref=e74]:
+                      - math [ref=e76]:
+                        - generic [ref=e78]:
+                          - generic [ref=e79]: "30"
+                          - generic [ref=e80]: см
+                      - generic [ref=e82]:
+                        - generic [ref=e83]: "30"
+                        - generic [ref=e84]: см
+                    - text: . Вектор магнитной индукции внешнего поля
+                    - generic [ref=e86]:
+                      - math [ref=e88]:
+                        - generic [ref=e90]:
+                          - generic [ref=e91]: "5"
+                          - generic [ref=e92]: Тл
+                      - generic [ref=e94]:
+                        - generic [ref=e95]: "5"
+                        - generic [ref=e96]: Тл
+                    - text: . Проводник расположен под углом
+                    - generic [ref=e98]:
+                      - math [ref=e100]:
+                        - generic [ref=e102]:
+                          - generic [ref=e103]: "30"
+                          - generic [ref=e104]: °
+                      - generic [ref=e107]: 30°
+                    - text: к линиям магнитной индукции.
+                - generic [ref=e112]:
+                  - strong [ref=e113]: Ответ
+                  - text: ":"
+                  - textbox [ref=e114]
+                  - text: А
+          - generic [ref=e120]:
+            - generic [ref=e123]:
+              - button [disabled] [ref=e125]:
+                - img [ref=e127]
+              - generic [ref=e130]: 100%
+              - button [ref=e132] [cursor=pointer]:
+                - img [ref=e134] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e139] [cursor=pointer]:
+              - generic [ref=e142] [cursor=pointer]: "2"
+              - generic [ref=e143] [cursor=pointer]: Показать подсказку
+        - generic [ref=e147]:
+          - generic [ref=e150]: Интеллектуальный тренажер
+          - generic [ref=e154]:
+            - generic [ref=e159]: 1 из 15
+            - generic [ref=e161]:
+              - generic [ref=e162]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e164] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e167]:
+            - generic [ref=e169]:
+              - button "Пройти опрос" [ref=e170] [cursor=pointer]:
+                - generic [ref=e172] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e173] [cursor=pointer]:
+                - img [ref=e176] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e179] [cursor=pointer]:
+                - img [ref=e182] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e186] [cursor=pointer]:
+                - img [ref=e189] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e191]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e192] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e195] [cursor=pointer]
+              - generic [ref=e198]: 69b123d64c313400074e5274
+  - generic [ref=e207]:
+    - generic [ref=e209]: Урок
+    - generic [ref=e210]: Контрольная работа №1 Магнитное поле. Электромагнитная индукция.
+    - button "Приступить" [active] [ref=e211] [cursor=pointer]
+```

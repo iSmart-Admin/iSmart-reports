@@ -1,0 +1,224 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Математика
+      - generic [ref=e21]: Задания для повторения и закрепления учебного материала
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - button "1" [ref=e28] [cursor=pointer]:
+          - img [ref=e32] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e34] [cursor=pointer]:
+          - img [ref=e38] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e40] [cursor=pointer]:
+          - img [ref=e44] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e46] [cursor=pointer]:
+          - img [ref=e50] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e52]:
+          - img [ref=e56]
+          - text: "5"
+        - button "6" [ref=e58] [cursor=pointer]:
+          - img [ref=e62] [cursor=pointer]
+          - text: "6"
+      - generic [ref=e65]:
+        - generic [ref=e69]:
+          - img [ref=e72]
+          - textbox "Поиск по подтемам" [ref=e75]
+        - generic [ref=e76]:
+          - generic [ref=e77]:
+            - generic [ref=e78] [cursor=pointer]:
+              - generic [ref=e80] [cursor=pointer]: Темы
+              - button [ref=e82] [cursor=pointer]:
+                - img [ref=e84] [cursor=pointer]
+            - generic [ref=e87] [cursor=pointer]:
+              - generic [ref=e90] [cursor=pointer]: "1 неделя: «Чтение и запись натуральных чисел»"
+              - img [ref=e92] [cursor=pointer]
+            - generic [ref=e94] [cursor=pointer]:
+              - generic [ref=e97] [cursor=pointer]: "2 неделя: «Сравнение и округление натуральных чисел»"
+              - img [ref=e99] [cursor=pointer]
+            - generic [ref=e101] [cursor=pointer]:
+              - generic [ref=e104] [cursor=pointer]: "3 неделя: «Сложение и вычитание натуральных чисел»"
+              - img [ref=e106] [cursor=pointer]
+            - generic [ref=e108] [cursor=pointer]:
+              - generic [ref=e111] [cursor=pointer]: "4 неделя: «Угол, ломаная, многоугольник, окружность, круг»"
+              - img [ref=e113] [cursor=pointer]
+            - generic [ref=e115] [cursor=pointer]:
+              - generic [ref=e118] [cursor=pointer]: "5 неделя: «Умножение натуральных чисел»"
+              - img [ref=e120] [cursor=pointer]
+            - generic [ref=e122] [cursor=pointer]:
+              - generic [ref=e125] [cursor=pointer]: "6 неделя: «Деление натуральных чисел. Деление с остатком»"
+              - img [ref=e127] [cursor=pointer]
+            - generic [ref=e129] [cursor=pointer]:
+              - generic [ref=e132] [cursor=pointer]: "7 неделя: «Вычисление значений числовых выражений. Решение текстовых задач»"
+              - img [ref=e134] [cursor=pointer]
+            - generic [ref=e136] [cursor=pointer]:
+              - generic [ref=e139] [cursor=pointer]: "8 неделя: «Площади и объёмы»"
+              - img [ref=e141] [cursor=pointer]
+            - generic [ref=e143] [cursor=pointer]:
+              - generic [ref=e146] [cursor=pointer]: "9 неделя: «Обыкновенные дроби. Сложение и вычитание дробей»"
+              - img [ref=e148] [cursor=pointer]
+            - generic [ref=e150] [cursor=pointer]:
+              - generic [ref=e153] [cursor=pointer]: "10 неделя: «Умножение и деление обыкновенных дробей»"
+              - img [ref=e155] [cursor=pointer]
+            - generic [ref=e157] [cursor=pointer]:
+              - generic [ref=e160] [cursor=pointer]: "11 неделя: «Десятичные дроби. Сложение, вычитание и умножение десятичных дробей»"
+              - img [ref=e162] [cursor=pointer]
+            - generic [ref=e164] [cursor=pointer]:
+              - generic [ref=e167] [cursor=pointer]: "12 неделя: «Умножение и деление десятичных дробей. Решение текстовых задач»"
+              - img [ref=e169] [cursor=pointer]
+          - generic [ref=e175]:
+            - link "1. Ряд натуральных чисел. Число 0" [ref=e176] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac1a8025cc1900072c3066/
+              - generic [ref=e177] [cursor=pointer]:
+                - generic [ref=e179] [cursor=pointer]:
+                  - generic [ref=e181] [cursor=pointer]: "1."
+                  - paragraph [ref=e183] [cursor=pointer]: Ряд натуральных чисел. Число 0
+                - img [ref=e186] [cursor=pointer]
+            - 'link "2. Десятичная система счисления: понятие и структура" [ref=e188] [cursor=pointer]':
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac1a9925cc1900072c30e2/
+              - generic [ref=e189] [cursor=pointer]:
+                - generic [ref=e191] [cursor=pointer]:
+                  - generic [ref=e193] [cursor=pointer]: "2."
+                  - paragraph [ref=e195] [cursor=pointer]: "Десятичная система счисления: понятие и структура"
+                - img [ref=e198] [cursor=pointer]
+            - link "3. Запись числа в виде суммы разрядных слагаемых" [ref=e200] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac1b8725cc1900072c32d0/
+              - generic [ref=e201] [cursor=pointer]:
+                - generic [ref=e203] [cursor=pointer]:
+                  - generic [ref=e205] [cursor=pointer]: "3."
+                  - paragraph [ref=e207] [cursor=pointer]: Запись числа в виде суммы разрядных слагаемых
+                - img [ref=e210] [cursor=pointer]
+            - link "4. Чтение и запись натуральных чисел" [ref=e212] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac1ba325cc1900072c3346/
+              - generic [ref=e213] [cursor=pointer]:
+                - generic [ref=e215] [cursor=pointer]:
+                  - generic [ref=e217] [cursor=pointer]: "4."
+                  - paragraph [ref=e219] [cursor=pointer]: Чтение и запись натуральных чисел
+                - img [ref=e222] [cursor=pointer]
+            - link "5. Точка, прямая, отрезок, луч" [ref=e224] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac1bb425cc1900072c33ad/
+              - generic [ref=e225] [cursor=pointer]:
+                - generic [ref=e227] [cursor=pointer]:
+                  - generic [ref=e229] [cursor=pointer]: "5."
+                  - paragraph [ref=e231] [cursor=pointer]: Точка, прямая, отрезок, луч
+                - img [ref=e234] [cursor=pointer]
+            - link "6. Длина отрезка" [ref=e236] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac1bca25cc1900072c33b4/
+              - generic [ref=e237] [cursor=pointer]:
+                - generic [ref=e239] [cursor=pointer]:
+                  - generic [ref=e241] [cursor=pointer]: "6."
+                  - paragraph [ref=e243] [cursor=pointer]: Длина отрезка
+                - img [ref=e246] [cursor=pointer]
+            - link "7. Метрические единицы длины" [ref=e248] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac1be425cc1900072c33d0/
+              - generic [ref=e249] [cursor=pointer]:
+                - generic [ref=e251] [cursor=pointer]:
+                  - generic [ref=e253] [cursor=pointer]: "7."
+                  - paragraph [ref=e255] [cursor=pointer]: Метрические единицы длины
+                - img [ref=e258] [cursor=pointer]
+            - link "8. Определение координаты точки" [ref=e260] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac1bff25cc1900072c33d8/
+              - generic [ref=e261] [cursor=pointer]:
+                - generic [ref=e263] [cursor=pointer]:
+                  - generic [ref=e265] [cursor=pointer]: "8."
+                  - paragraph [ref=e267] [cursor=pointer]: Определение координаты точки
+                - img [ref=e270] [cursor=pointer]
+            - link "9. Шкалы" [ref=e272] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac1c1225cc1900072c3437/
+              - generic [ref=e273] [cursor=pointer]:
+                - generic [ref=e275] [cursor=pointer]:
+                  - generic [ref=e277] [cursor=pointer]: "9."
+                  - paragraph [ref=e279] [cursor=pointer]: Шкалы
+                - img [ref=e282] [cursor=pointer]
+            - 'link "10. Римская нумерация: основы и примеры" [ref=e284] [cursor=pointer]':
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac1c2d25cc1900072c343e/
+              - generic [ref=e285] [cursor=pointer]:
+                - generic [ref=e287] [cursor=pointer]:
+                  - generic [ref=e289] [cursor=pointer]: "10."
+                  - paragraph [ref=e291] [cursor=pointer]: "Римская нумерация: основы и примеры"
+                - img [ref=e294] [cursor=pointer]
+            - link "11. Обобщение по неделе 1" [active] [ref=e296] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac1c5325cc1900072c3468/
+              - generic [ref=e297] [cursor=pointer]:
+                - generic [ref=e299] [cursor=pointer]:
+                  - generic [ref=e301] [cursor=pointer]: "11."
+                  - paragraph [ref=e303] [cursor=pointer]: Обобщение по неделе 1
+                - img [ref=e306] [cursor=pointer]
+  - generic [ref=e309]:
+    - generic [ref=e310]:
+      - generic [ref=e311]:
+        - generic [ref=e315]:
+          - img [ref=e317]
+          - link "8 (800) 600-44-02" [ref=e319] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e320]:
+          - generic [ref=e321]: "@"
+          - link "info@ismart.org" [ref=e322] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e323]:
+          - img [ref=e325]
+          - generic [ref=e327]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e328]:
+        - link "Наш сайт" [ref=e331] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e333] [cursor=pointer]
+        - generic [ref=e335]:
+          - link "Лицензия" [ref=e337] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e339] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e341] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e343] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e345] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e347]:
+      - generic [ref=e348]:
+        - link [ref=e349] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e353] [cursor=pointer]
+        - generic [ref=e356]:
+          - link "okIcon" [ref=e357] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e358] [cursor=pointer]
+          - link "dzenIcon" [ref=e359] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e360] [cursor=pointer]
+          - link "vkIcon" [ref=e361] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e362] [cursor=pointer]
+      - generic [ref=e364]:
+        - generic [ref=e366]:
+          - generic [ref=e367]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e368] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e369]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e370] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e371]:
+          - generic [ref=e372]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e373] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e374]: © iSmart, 2018-2026
+```

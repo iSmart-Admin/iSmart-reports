@@ -1,0 +1,80 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Выбери имена существительные в форме единственного числа." [level=4] [ref=e43]:
+                    - generic [ref=e45]:
+                      - text: Выбери имена существительные в форме
+                      - strong [ref=e46]: единственного
+                      - text: числа.
+                - img "decore" [ref=e51]
+                - generic [ref=e56]:
+                  - generic [ref=e58] [cursor=pointer]: бант
+                  - generic [ref=e60] [cursor=pointer]: борода
+                  - generic [ref=e62] [cursor=pointer]: шарф
+                  - generic [ref=e64] [cursor=pointer]: куры
+                  - generic [ref=e66] [cursor=pointer]: слоны
+                  - generic [ref=e68] [cursor=pointer]: кроты
+          - generic [ref=e73]:
+            - generic [ref=e76]:
+              - button [disabled] [ref=e78]:
+                - img [ref=e80]
+              - generic [ref=e83]: 100%
+              - button [ref=e85] [cursor=pointer]:
+                - img [ref=e87] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e92] [cursor=pointer]:
+              - generic [ref=e95] [cursor=pointer]: "2"
+              - generic [ref=e96] [cursor=pointer]: Показать подсказку
+        - generic [ref=e100]:
+          - generic [ref=e103]: Интеллектуальный тренажер
+          - generic [ref=e107]:
+            - generic [ref=e112]: 1 из 5
+            - generic [ref=e114]:
+              - generic [ref=e115]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e117] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e120]:
+            - generic [ref=e122]:
+              - button "Пройти опрос" [ref=e123] [cursor=pointer]:
+                - generic [ref=e125] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e126] [cursor=pointer]:
+                - img [ref=e129] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e132] [cursor=pointer]:
+                - img [ref=e135] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e139] [cursor=pointer]:
+                - img [ref=e142] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e144]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e145] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e148] [cursor=pointer]
+              - generic [ref=e151]: 69b1194a709a2300083cd605
+  - generic [ref=e160]:
+    - generic [ref=e162]: Урок
+    - generic [ref=e163]: Число имен существительных
+    - button "Приступить" [active] [ref=e164] [cursor=pointer]
+```

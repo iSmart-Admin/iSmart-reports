@@ -1,0 +1,85 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Каким многозначным словом можно назвать изображения? Отметь правильный ответ." [level=4] [ref=e43]:
+                    - generic [ref=e44]:
+                      - generic [ref=e45]: Каким многозначным словом можно назвать изображения?
+                      - generic [ref=e46]: Отметь правильный ответ.
+                - generic [ref=e48]:
+                  - img "decore" [ref=e51]
+                  - table [ref=e56]:
+                    - rowgroup [ref=e57]:
+                      - row [ref=e58]:
+                        - cell [ref=e59]
+                        - cell [ref=e67]
+                - generic [ref=e77]:
+                  - button "шляпка" [ref=e79] [cursor=pointer]:
+                    - generic [ref=e81] [cursor=pointer]: шляпка
+                  - button "грибок" [ref=e83] [cursor=pointer]:
+                    - generic [ref=e85] [cursor=pointer]: грибок
+                  - button "головной убор" [ref=e87] [cursor=pointer]:
+                    - generic [ref=e89] [cursor=pointer]: головной убор
+          - generic [ref=e94]:
+            - generic [ref=e97]:
+              - button [disabled] [ref=e99]:
+                - img [ref=e101]
+              - generic [ref=e104]: 100%
+              - button [ref=e106] [cursor=pointer]:
+                - img [ref=e108] [cursor=pointer]
+            - generic [ref=e113]:
+              - img [ref=e115]
+              - generic [ref=e132]: Загрузка подсказок...
+        - generic [ref=e136]:
+          - generic [ref=e139]: Интеллектуальный тренажер
+          - generic [ref=e143]:
+            - generic [ref=e148]: 1 из 5
+            - generic [ref=e150]:
+              - generic [ref=e151]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e153] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e156]:
+            - generic [ref=e158]:
+              - button "Пройти опрос" [ref=e159] [cursor=pointer]:
+                - generic [ref=e161] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e162] [cursor=pointer]:
+                - img [ref=e165] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e168] [cursor=pointer]:
+                - img [ref=e171] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e175] [cursor=pointer]:
+                - img [ref=e178] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e180]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e181] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e184] [cursor=pointer]
+              - generic [ref=e187]: 69b1186a4c313400074b0ff0
+  - generic [ref=e196]:
+    - generic [ref=e198]: Урок
+    - generic [ref=e199]: Слово и его значение
+    - button "Приступить" [active] [ref=e200] [cursor=pointer]
+```

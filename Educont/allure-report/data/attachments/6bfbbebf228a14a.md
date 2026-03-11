@@ -1,0 +1,229 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [active] [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                  - button "4" [ref=e48] [cursor=pointer]
+                  - button "5" [ref=e51] [cursor=pointer]
+                  - button "6" [ref=e54] [cursor=pointer]
+                  - button "7" [ref=e57] [cursor=pointer]
+                  - button "8" [ref=e60] [cursor=pointer]
+                  - button "9" [ref=e63] [cursor=pointer]
+                  - button "10" [ref=e66] [cursor=pointer]
+                - generic [ref=e67]:
+                  - button [disabled] [ref=e68]:
+                    - img [ref=e70]
+                  - button [ref=e73] [cursor=pointer]:
+                    - img [ref=e75] [cursor=pointer]
+            - generic [ref=e77] [cursor=pointer]:
+              - generic [ref=e78] [cursor=pointer]:
+                - heading "Современный язык программирования - Python" [level=4] [ref=e79] [cursor=pointer]
+                - button [ref=e80] [cursor=pointer]:
+                  - img [ref=e82] [cursor=pointer]
+              - generic [ref=e84] [cursor=pointer]:
+                - generic [ref=e85] [cursor=pointer]:
+                  - generic [ref=e86] [cursor=pointer]: Откройте мир Python вместе с вашими учениками!
+                  - generic [ref=e87] [cursor=pointer]: Один клик — и вы узнаете, какие задания по программированию ждут ваших учеников!
+                - link "Посмотреть курс" [ref=e88] [cursor=pointer]:
+                  - /url: https://www.gosuslugi.ru/edu-content/lesson/76287
+                  - button "Посмотреть курс" [ref=e89] [cursor=pointer]:
+                    - img [ref=e92] [cursor=pointer]
+                    - text: Посмотреть курс
+            - generic [ref=e95]:
+              - generic [ref=e97]:
+                - img [ref=e101]
+                - heading "Внесите ответы в специально предназначенные поля." [level=4] [ref=e103]:
+                  - generic [ref=e105]: Внесите ответы в специально предназначенные поля.
+              - generic [ref=e107]:
+                - img "decore" [ref=e110]
+                - generic [ref=e113]:
+                  - generic [ref=e115]:
+                    - generic [ref=e116]:
+                      - text: Заданы три логических элемента
+                      - generic [ref=e118]:
+                        - math [ref=e120]:
+                          - generic [ref=e123]: А
+                        - generic [ref=e126]: А
+                      - text: ","
+                      - generic [ref=e128]:
+                        - math [ref=e130]:
+                          - generic [ref=e133]: В
+                        - generic [ref=e136]: В
+                      - text: ","
+                      - generic [ref=e138]:
+                        - math [ref=e140]:
+                          - generic [ref=e143]: С
+                        - generic [ref=e146]: С
+                      - text: .
+                    - generic [ref=e147]: Заполните пропуски в таблице истинности для заданной логической функции.
+                    - generic [ref=e150]:
+                      - math [ref=e152]:
+                        - generic [ref=e154]:
+                          - generic [ref=e155]: F
+                          - generic [ref=e156]: =
+                          - generic [ref=e157]: ¬
+                          - generic [ref=e158]: (
+                          - generic [ref=e159]: A
+                          - generic [ref=e160]: ∧
+                          - generic [ref=e161]: B
+                          - generic [ref=e162]: ∨
+                          - generic [ref=e163]: C
+                          - generic [ref=e164]: )
+                          - generic [ref=e165]: .
+                      - generic [ref=e166]:
+                        - generic [ref=e167]:
+                          - generic [ref=e168]: F
+                          - generic [ref=e169]: =
+                        - generic [ref=e170]:
+                          - generic [ref=e171]: ¬
+                          - generic [ref=e172]: (
+                          - generic [ref=e173]: A
+                          - generic [ref=e174]: ∧
+                        - generic [ref=e175]:
+                          - generic [ref=e176]: B
+                          - generic [ref=e177]: ∨
+                        - generic [ref=e178]:
+                          - generic [ref=e179]: C
+                          - generic [ref=e180]: )
+                          - generic [ref=e181]: .
+                  - generic [ref=e184]:
+                    - text: В пропущенные ячейки вставьте
+                    - generic [ref=e186]:
+                      - math [ref=e188]:
+                        - generic [ref=e191]: "0"
+                      - generic [ref=e194]: "0"
+                    - text: или
+                    - generic [ref=e196]:
+                      - math [ref=e198]:
+                        - generic [ref=e201]: "1."
+                      - generic [ref=e204]: "1."
+              - table [ref=e208]:
+                - rowgroup [ref=e209]:
+                  - row "A ∧ B A ∧ B ∨ С ¬ (A ∧ B ∨ C)" [ref=e210]:
+                    - cell "A ∧ B" [ref=e211]:
+                      - generic [ref=e213]: A ∧ B
+                    - cell "A ∧ B ∨ С" [ref=e214]:
+                      - generic [ref=e216]: A ∧ B ∨ С
+                    - cell "¬ (A ∧ B ∨ C)" [ref=e217]:
+                      - generic [ref=e219]: ¬ (A ∧ B ∨ C)
+                - rowgroup [ref=e220]:
+                  - row [ref=e221]:
+                    - cell [ref=e222]:
+                      - textbox [ref=e224]
+                    - cell [ref=e225]:
+                      - textbox [ref=e227]
+                    - cell [ref=e228]:
+                      - textbox [ref=e230]
+                  - row "0 0" [ref=e231]:
+                    - cell "0" [ref=e232]:
+                      - generic [ref=e234]: "0"
+                    - cell [ref=e235]:
+                      - textbox [ref=e237]
+                    - cell "0" [ref=e238]:
+                      - generic [ref=e240]: "0"
+                  - row "0" [ref=e241]:
+                    - cell [ref=e242]:
+                      - textbox [ref=e244]
+                    - cell "0" [ref=e245]:
+                      - generic [ref=e247]: "0"
+                    - cell [ref=e248]:
+                      - textbox [ref=e250]
+                  - row [ref=e251]:
+                    - cell [ref=e252]:
+                      - textbox [ref=e254]
+                    - cell [ref=e255]:
+                      - textbox [ref=e257]
+                    - cell [ref=e258]:
+                      - textbox [ref=e260]
+                  - row [ref=e261]:
+                    - cell [ref=e262]:
+                      - textbox [ref=e264]
+                    - cell [ref=e265]:
+                      - textbox [ref=e267]
+                    - cell [ref=e268]:
+                      - textbox [ref=e270]
+                  - row "0" [ref=e271]:
+                    - cell "0" [ref=e272]:
+                      - generic [ref=e274]: "0"
+                    - cell [ref=e275]:
+                      - textbox [ref=e277]
+                    - cell [ref=e278]:
+                      - textbox [ref=e280]
+                  - row [ref=e281]:
+                    - cell [ref=e282]:
+                      - textbox [ref=e284]
+                    - cell [ref=e285]:
+                      - textbox [ref=e287]
+                    - cell [ref=e288]:
+                      - textbox [ref=e290]
+                  - row "0" [ref=e291]:
+                    - cell [ref=e292]:
+                      - textbox [ref=e294]
+                    - cell [ref=e295]:
+                      - textbox [ref=e297]
+                    - cell "0" [ref=e298]:
+                      - generic [ref=e300]: "0"
+        - generic [ref=e305]:
+          - generic [ref=e308]:
+            - button [disabled] [ref=e310]:
+              - img [ref=e312]
+            - generic [ref=e315]: 100%
+            - button [ref=e317] [cursor=pointer]:
+              - img [ref=e319] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e324] [cursor=pointer]:
+            - generic [ref=e327] [cursor=pointer]: "2"
+            - generic [ref=e328] [cursor=pointer]: Показать подсказку
+      - generic [ref=e332]:
+        - generic [ref=e335]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e341] [cursor=pointer]:
+          - img [ref=e344] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e346]:
+          - generic [ref=e348]:
+            - button "Черновик" [ref=e349] [cursor=pointer]:
+              - img [ref=e352] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e355] [cursor=pointer]:
+              - img [ref=e358] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e360]:
+              - button "Часто задаваемые вопросы" [ref=e362] [cursor=pointer]:
+                - img [ref=e365] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e367]:
+                - button "Информация об уроке" [ref=e369] [cursor=pointer]:
+                  - img [ref=e372] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e374]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e375]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e376] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e379] [cursor=pointer]
+```

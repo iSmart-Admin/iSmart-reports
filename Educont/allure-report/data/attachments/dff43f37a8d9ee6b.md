@@ -1,0 +1,222 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Литература. 5.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "5" [ref=e25]:
+          - img [ref=e29]
+          - text: "5"
+        - button "6" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e61] [cursor=pointer]:
+          - img [ref=e65] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e68]:
+        - generic [ref=e72]:
+          - img [ref=e75]
+          - textbox "Поиск по подтемам" [ref=e78]
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic [ref=e81] [cursor=pointer]:
+              - generic [ref=e83] [cursor=pointer]: Темы
+              - button [ref=e85] [cursor=pointer]:
+                - img [ref=e87] [cursor=pointer]
+            - generic [ref=e90] [cursor=pointer]:
+              - generic [ref=e93] [cursor=pointer]: Мифология
+              - img [ref=e95] [cursor=pointer]
+            - generic [ref=e97] [cursor=pointer]:
+              - generic [ref=e100] [cursor=pointer]: Фольклор
+              - img [ref=e102] [cursor=pointer]
+            - generic [ref=e104] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Литература первой половины XIX века. Басни И.А. Крылова
+              - img [ref=e109] [cursor=pointer]
+            - generic [ref=e111] [cursor=pointer]:
+              - generic [ref=e114] [cursor=pointer]: Литература первой половины XIX века. А.С. Пушкин. Лирика. «Сказка о мертвой царевне и о семи богатырях»
+              - img [ref=e116] [cursor=pointer]
+            - generic [ref=e118] [cursor=pointer]:
+              - generic [ref=e121] [cursor=pointer]: Литература первой половины XIX века. М.Ю. Лермонтов. Стихотворение «Бородино»
+              - img [ref=e123] [cursor=pointer]
+            - generic [ref=e125] [cursor=pointer]:
+              - generic [ref=e128] [cursor=pointer]: Литература первой половины XIX века. Н.В. Гоголь. Повесть «Ночь перед Рождеством»
+              - img [ref=e130] [cursor=pointer]
+            - generic [ref=e132] [cursor=pointer]:
+              - generic [ref=e135] [cursor=pointer]: Литература второй половины XIX века. И.С. Тургенев. Рассказ «Муму»
+              - img [ref=e137] [cursor=pointer]
+            - generic [ref=e139] [cursor=pointer]:
+              - generic [ref=e142] [cursor=pointer]: Литература второй половины XIX века. Н.А. Некрасов. Лирика
+              - img [ref=e144] [cursor=pointer]
+            - generic [ref=e146] [cursor=pointer]:
+              - generic [ref=e149] [cursor=pointer]: Литература второй половины XIX века. Л.Н. Толстой. Рассказ «Кавказский пленник»
+              - img [ref=e151] [cursor=pointer]
+            - generic [ref=e153] [cursor=pointer]:
+              - generic [ref=e156] [cursor=pointer]: Стихотворения отечественных поэтов XIX–ХХ веков о родной природе и о связи человека с Родиной
+              - img [ref=e158] [cursor=pointer]
+            - generic [ref=e160] [cursor=pointer]:
+              - generic [ref=e163] [cursor=pointer]: Юмористические рассказы отечественных писателей XIX–XX веков. А.П. Чехов
+              - img [ref=e165] [cursor=pointer]
+            - generic [ref=e167] [cursor=pointer]:
+              - generic [ref=e170] [cursor=pointer]: Юмористические рассказы отечественных писателей XIX - XX веков. Рассказы М.М. Зощенко
+              - img [ref=e172] [cursor=pointer]
+            - generic [ref=e174] [cursor=pointer]:
+              - generic [ref=e177] [cursor=pointer]: Произведения отечественной литературы о природе и животных. М.М. Пришвин. Рассказ «Кладовая солнца»
+              - img [ref=e179] [cursor=pointer]
+            - generic [ref=e181] [cursor=pointer]:
+              - generic [ref=e184] [cursor=pointer]: Произведения отечественной литературы о природе и животных. А.И. Куприн. Рассказ «Белый пудель»
+              - img [ref=e186] [cursor=pointer]
+            - generic [ref=e188] [cursor=pointer]:
+              - generic [ref=e191] [cursor=pointer]: Литература XIX - XX веков. А.П. Платонов. Рассказ «Корова»
+              - img [ref=e193] [cursor=pointer]
+            - generic [ref=e195] [cursor=pointer]:
+              - generic [ref=e198] [cursor=pointer]: Литература XIX - XX веков. В.П. Астафьев. Рассказ «Васюткино озеро»
+              - img [ref=e200] [cursor=pointer]
+            - generic [ref=e202] [cursor=pointer]:
+              - generic [ref=e205] [cursor=pointer]: Литература XX - XXI веков. Произведения отечественной литературы на тему «Человек на войне». В.П. Катаев. Рассказ «Сын полка»
+              - img [ref=e207] [cursor=pointer]
+            - generic [ref=e209] [cursor=pointer]:
+              - generic [ref=e212] [cursor=pointer]: Произведения отечественных писателей XX - начала XXI века на тему детства
+              - img [ref=e214] [cursor=pointer]
+            - generic [ref=e216] [cursor=pointer]:
+              - generic [ref=e219] [cursor=pointer]: Литература XX - начала XXI века. Произведения приключенческого жанра отечественных писателей
+              - img [ref=e221] [cursor=pointer]
+            - generic [ref=e223] [cursor=pointer]:
+              - generic [ref=e226] [cursor=pointer]: Литература народов Российской Федерации
+              - img [ref=e228] [cursor=pointer]
+            - generic [ref=e230] [cursor=pointer]:
+              - generic [ref=e233] [cursor=pointer]: Зарубежная Литература. Сказка «Снежная королева», «Соловей» Х.К. Андерсен
+              - img [ref=e235] [cursor=pointer]
+            - generic [ref=e237] [cursor=pointer]:
+              - generic [ref=e240] [cursor=pointer]: Зарубежная сказочная проза. Л. Кэррол «Алиса в стране чудес»
+              - img [ref=e242] [cursor=pointer]
+            - generic [ref=e244] [cursor=pointer]:
+              - generic [ref=e247] [cursor=pointer]: Зарубежная проза о детях и подростках
+              - img [ref=e249] [cursor=pointer]
+            - generic [ref=e251] [cursor=pointer]:
+              - generic [ref=e254] [cursor=pointer]: Зарубежная приключенческая проза
+              - img [ref=e256] [cursor=pointer]
+            - generic [ref=e258] [cursor=pointer]:
+              - generic [ref=e261] [cursor=pointer]: Зарубежная проза о животных
+              - img [ref=e263] [cursor=pointer]
+          - generic [ref=e269]:
+            - link "1 1" [ref=e270] [cursor=pointer]:
+              - /url: /learn/68f0bd3f7f0f850008a7f2ba/68f0b1a8a4be9a0007043407/68ab5e1dd608c00007177da5/68f0b1a8a4be9a0007043447/
+              - generic [ref=e271] [cursor=pointer]:
+                - generic [ref=e273] [cursor=pointer]:
+                  - generic [ref=e275] [cursor=pointer]: "1"
+                  - paragraph [ref=e277] [cursor=pointer]: "1"
+                - img [ref=e280] [cursor=pointer]
+            - 'link "1. Легенды и мифы Древней Греции: герои и сюжеты" [ref=e282] [cursor=pointer]':
+              - /url: /learn/68f0bd3f7f0f850008a7f2ba/68f0b1a8a4be9a0007043407/68ab5e1dd608c00007177da5/68f0b1a8a4be9a0007043448/
+              - generic [ref=e283] [cursor=pointer]:
+                - generic [ref=e285] [cursor=pointer]:
+                  - generic [ref=e287] [cursor=pointer]: "1."
+                  - paragraph [ref=e289] [cursor=pointer]: "Легенды и мифы Древней Греции: герои и сюжеты"
+                - img [ref=e292] [cursor=pointer]
+            - 'link "2. «Скотный двор царя Авгия»: сюжет и проблематика" [ref=e294] [cursor=pointer]':
+              - /url: /learn/68f0bd3f7f0f850008a7f2ba/68f0b1a8a4be9a0007043407/68ab5e1dd608c00007177da5/68f0b1a8a4be9a0007043449/
+              - generic [ref=e295] [cursor=pointer]:
+                - generic [ref=e297] [cursor=pointer]:
+                  - generic [ref=e299] [cursor=pointer]: "2."
+                  - paragraph [ref=e301] [cursor=pointer]: "«Скотный двор царя Авгия»: сюжет и проблематика"
+                - img [ref=e304] [cursor=pointer]
+            - 'link "3. «Яблоки Гесперид»: сюжет и проблематика" [ref=e306] [cursor=pointer]':
+              - /url: /learn/68f0bd3f7f0f850008a7f2ba/68f0b1a8a4be9a0007043407/68ab5e1dd608c00007177da5/68f0b1a8a4be9a000704344a/
+              - generic [ref=e307] [cursor=pointer]:
+                - generic [ref=e309] [cursor=pointer]:
+                  - generic [ref=e311] [cursor=pointer]: "3."
+                  - paragraph [ref=e313] [cursor=pointer]: "«Яблоки Гесперид»: сюжет и проблематика"
+                - img [ref=e316] [cursor=pointer]
+            - link "4. Подготовка к сочинению по картине" [active] [ref=e318] [cursor=pointer]:
+              - /url: /learn/68f0bd3f7f0f850008a7f2ba/68f0b1a8a4be9a0007043407/68ab5e1dd608c00007177da5/68f0b1a8a4be9a000704344b/
+              - generic [ref=e319] [cursor=pointer]:
+                - generic [ref=e321] [cursor=pointer]:
+                  - generic [ref=e323] [cursor=pointer]: "4."
+                  - paragraph [ref=e325] [cursor=pointer]: Подготовка к сочинению по картине
+                - img [ref=e328] [cursor=pointer]
+  - generic [ref=e331]:
+    - generic [ref=e332]:
+      - generic [ref=e333]:
+        - generic [ref=e337]:
+          - img [ref=e339]
+          - link "8 (800) 600-44-02" [ref=e341] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e342]:
+          - generic [ref=e343]: "@"
+          - link "info@ismart.org" [ref=e344] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e345]:
+          - img [ref=e347]
+          - generic [ref=e349]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e350]:
+        - link "Наш сайт" [ref=e353] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e355] [cursor=pointer]
+        - generic [ref=e357]:
+          - link "Лицензия" [ref=e359] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e361] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e363] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e365] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e367] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e369]:
+      - generic [ref=e370]:
+        - link [ref=e371] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e375] [cursor=pointer]
+        - generic [ref=e378]:
+          - link "okIcon" [ref=e379] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e380] [cursor=pointer]
+          - link "dzenIcon" [ref=e381] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e382] [cursor=pointer]
+          - link "vkIcon" [ref=e383] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e384] [cursor=pointer]
+      - generic [ref=e386]:
+        - generic [ref=e388]:
+          - generic [ref=e389]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e390] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e391]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e392] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e393]:
+          - generic [ref=e394]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e395] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e396]: © iSmart, 2018-2026
+```

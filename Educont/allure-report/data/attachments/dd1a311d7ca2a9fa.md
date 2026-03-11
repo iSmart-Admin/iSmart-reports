@@ -1,0 +1,116 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [active] [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                  - button "4" [ref=e48] [cursor=pointer]
+                  - button "5" [ref=e51] [cursor=pointer]
+                  - button "6" [ref=e54] [cursor=pointer]
+                  - button "7" [ref=e57] [cursor=pointer]
+                  - button "8" [ref=e60] [cursor=pointer]
+                  - button "9" [ref=e63] [cursor=pointer]
+                  - button "10" [ref=e66] [cursor=pointer]
+                - generic [ref=e67]:
+                  - button [disabled] [ref=e68]:
+                    - img [ref=e70]
+                  - button [ref=e73] [cursor=pointer]:
+                    - img [ref=e75] [cursor=pointer]
+            - generic [ref=e78]:
+              - generic [ref=e80]:
+                - img [ref=e84]
+                - heading "Найди в тексте устаревшее слово по его значению." [level=4] [ref=e86]:
+                  - generic [ref=e88]: Найди в тексте устаревшее слово по его значению.
+              - img "decore" [ref=e93]
+              - generic [ref=e97]:
+                - generic [ref=e98]:
+                  - generic [ref=e100]:
+                    - generic [ref=e101]:
+                      - generic [ref=e103] [cursor=pointer]: Делать
+                      - generic [ref=e105] [cursor=pointer]: нечего
+                      - text: .
+                      - generic [ref=e107] [cursor=pointer]: Она
+                      - text: ","
+                    - generic [ref=e108]:
+                      - generic [ref=e110] [cursor=pointer]: Чёрной
+                      - generic [ref=e112] [cursor=pointer]: зависти
+                      - generic [ref=e114] [cursor=pointer]: полна
+                      - text: ","
+                    - generic [ref=e115]:
+                      - generic [ref=e117] [cursor=pointer]: Бросив
+                      - generic [ref=e119] [cursor=pointer]: зеркальце
+                      - generic [ref=e121] [cursor=pointer]: под
+                      - generic [ref=e123] [cursor=pointer]: лавку
+                      - text: ","
+                    - generic [ref=e124]:
+                      - generic [ref=e126] [cursor=pointer]: Позвала
+                      - generic [ref=e128] [cursor=pointer]: к
+                      - generic [ref=e130] [cursor=pointer]: себе
+                      - generic [ref=e132] [cursor=pointer]: Чернавку
+                      - text: …
+                  - emphasis [ref=e136]: (А.С. Пушкин «Сказка о мёртвой царевне и семи богатырях»)
+                - separator [ref=e137]
+                - generic [ref=e141]: Прислужница, исполняющая трудную, грязную, «чёрную» работу.
+        - generic [ref=e146]:
+          - generic [ref=e149]:
+            - button [disabled] [ref=e151]:
+              - img [ref=e153]
+            - generic [ref=e156]: 100%
+            - button [ref=e158] [cursor=pointer]:
+              - img [ref=e160] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e165] [cursor=pointer]:
+            - generic [ref=e168] [cursor=pointer]: "2"
+            - generic [ref=e169] [cursor=pointer]: Показать подсказку
+      - generic [ref=e173]:
+        - generic [ref=e176]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e182] [cursor=pointer]:
+          - img [ref=e185] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e187]:
+          - generic [ref=e189]:
+            - button "Черновик" [ref=e190] [cursor=pointer]:
+              - img [ref=e193] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e196] [cursor=pointer]:
+              - img [ref=e199] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e201]:
+              - button "Часто задаваемые вопросы" [ref=e203] [cursor=pointer]:
+                - img [ref=e206] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e208]:
+                - button "Информация об уроке" [ref=e210] [cursor=pointer]:
+                  - img [ref=e213] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e215]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e216]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e217] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e220] [cursor=pointer]
+```

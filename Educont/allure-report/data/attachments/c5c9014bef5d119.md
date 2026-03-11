@@ -1,0 +1,167 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "+" [ref=e41] [cursor=pointer]
+            - button "Редактировать урок" [ref=e42] [cursor=pointer]
+          - generic [ref=e43]:
+            - generic [ref=e44]:
+              - generic [ref=e45]: Отчёты и аналитика
+              - img "Для учителей" [ref=e46] [cursor=pointer]:
+                - img [ref=e48] [cursor=pointer]
+            - generic [ref=e50]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e51] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Настроить класс для аналитики" [ref=e52] [cursor=pointer]:
+              - generic [ref=e53] [cursor=pointer]: Настроить класс для аналитики
+          - generic [ref=e54]:
+            - button "Заметки к уроку видны только вам" [ref=e55] [cursor=pointer]:
+              - generic [ref=e56] [cursor=pointer]:
+                - img [ref=e58] [cursor=pointer]
+                - generic [ref=e60] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e61] [cursor=pointer]:
+                - img [ref=e63] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e65] [cursor=pointer]:
+              - generic [ref=e66] [cursor=pointer]:
+                - img [ref=e68] [cursor=pointer]
+                - generic [ref=e70] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e71] [cursor=pointer]:
+              - generic [ref=e72] [cursor=pointer]:
+                - img [ref=e74] [cursor=pointer]
+                - generic [ref=e76] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e77] [cursor=pointer]:
+          - generic [ref=e78] [cursor=pointer]:
+            - img "schoolIcon" [ref=e79] [cursor=pointer]
+            - generic [ref=e80] [cursor=pointer]: Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e81] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e83] [cursor=pointer]
+      - generic [ref=e87]:
+        - region "Задача для решения" [ref=e89] [cursor=pointer]:
+          - generic [ref=e90] [cursor=pointer]:
+            - generic [ref=e91] [cursor=pointer]:
+              - generic [ref=e92] [cursor=pointer]:
+                - heading "Современный язык программирования - Python" [level=4] [ref=e93] [cursor=pointer]
+                - button [ref=e94] [cursor=pointer]:
+                  - img [ref=e96] [cursor=pointer]
+              - generic [ref=e98] [cursor=pointer]:
+                - generic [ref=e99] [cursor=pointer]:
+                  - generic [ref=e100] [cursor=pointer]: Откройте мир Python вместе с вашими учениками!
+                  - generic [ref=e101] [cursor=pointer]: Один клик — и вы узнаете, какие задания по программированию ждут ваших учеников!
+                - link "Посмотреть курс" [ref=e102] [cursor=pointer]:
+                  - /url: https://www.gosuslugi.ru/edu-content/lesson/76276
+                  - button "Посмотреть курс" [ref=e103] [cursor=pointer]:
+                    - img [ref=e106] [cursor=pointer]
+                    - text: Посмотреть курс
+            - generic [ref=e109]:
+              - generic [ref=e111]:
+                - img [ref=e115]
+                - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e117]:
+                  - generic [ref=e119]: Внеси ответ в специально предназначенное поле.
+              - generic [ref=e121]:
+                - img "decore" [ref=e124]
+                - generic [ref=e129]:
+                  - generic [ref=e130]:
+                    - text: Ниже представлен алгоритм. Какой результат вернёт данный алгоритм, если обработать на нем
+                    - generic [ref=e132]:
+                      - math [ref=e134]:
+                        - generic [ref=e137]: "2"
+                      - generic [ref=e140]: "2"
+                    - text: "числа:"
+                    - generic [ref=e142]:
+                      - math [ref=e144]:
+                        - generic [ref=e147]: "28"
+                      - generic [ref=e150]: "28"
+                    - text: и
+                    - generic [ref=e152]:
+                      - math [ref=e154]:
+                        - generic [ref=e157]: "16"
+                      - generic [ref=e160]: "16"
+                    - text: "?"
+                  - generic [ref=e161]:
+                    - generic [ref=e163]:
+                      - math [ref=e165]:
+                        - generic [ref=e168]: "1."
+                      - generic [ref=e171]: "1."
+                    - text: Принять ввод двух чисел от пользователя.
+                  - generic [ref=e172]:
+                    - generic [ref=e174]:
+                      - math [ref=e176]:
+                        - generic [ref=e179]: "2."
+                      - generic [ref=e182]: "2."
+                    - text: Найти меньшее из двух чисел.
+                  - generic [ref=e183]:
+                    - generic [ref=e185]:
+                      - math [ref=e187]:
+                        - generic [ref=e190]: "3."
+                      - generic [ref=e193]: "3."
+                    - text: Начать цикл от
+                    - generic [ref=e195]:
+                      - math [ref=e197]:
+                        - generic [ref=e200]: "1"
+                      - generic [ref=e203]: "1"
+                    - text: до половины меньшего числа (с округлением до целого числа).
+                  - generic [ref=e204]:
+                    - generic [ref=e206]:
+                      - math [ref=e208]:
+                        - generic [ref=e211]: "4."
+                      - generic [ref=e214]: "4."
+                    - text: Проверить, делятся ли оба числа на текущее значение цикла без остатка.
+                  - generic [ref=e215]:
+                    - generic [ref=e217]:
+                      - math [ref=e219]:
+                        - generic [ref=e222]: "5."
+                      - generic [ref=e225]: "5."
+                    - text: Если да, то сохранить это текущее значение.
+                  - generic [ref=e226]:
+                    - generic [ref=e228]:
+                      - math [ref=e230]:
+                        - generic [ref=e233]: "6."
+                      - generic [ref=e236]: "6."
+                    - text: Если нет, то перейти к следующему значению цикла (на шаг
+                    - generic [ref=e238]:
+                      - math [ref=e240]:
+                        - generic [ref=e243]: "3"
+                      - generic [ref=e246]: "3"
+                    - text: ).
+                  - generic [ref=e247]:
+                    - generic [ref=e249]:
+                      - math [ref=e251]:
+                        - generic [ref=e254]: "7."
+                      - generic [ref=e257]: "7."
+                    - text: По завершении цикла, вернуть найденное текущее значение.
+              - generic [ref=e262]:
+                - strong [ref=e263]: "Ответ:"
+                - textbox [ref=e264]
+                - text: .
+        - button "2 Взять 1 подсказку" [ref=e274] [cursor=pointer]:
+          - generic [ref=e277] [cursor=pointer]: "2"
+          - generic [ref=e278] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e280] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e283] [cursor=pointer]
+```

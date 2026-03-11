@@ -1,0 +1,215 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Информатика 2.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "7" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e43]:
+          - img [ref=e47]
+          - text: "10"
+        - button "11" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e56]:
+        - generic [ref=e60]:
+          - img [ref=e63]
+          - textbox "Поиск по подтемам" [ref=e66]
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - generic [ref=e69] [cursor=pointer]:
+              - generic [ref=e71] [cursor=pointer]: Темы
+              - button [ref=e73] [cursor=pointer]:
+                - img [ref=e75] [cursor=pointer]
+            - generic [ref=e77] [cursor=pointer]:
+              - generic [ref=e80] [cursor=pointer]: "Компьютер: аппаратное и программное обеспечение, файловая система"
+              - img [ref=e82] [cursor=pointer]
+            - generic [ref=e85] [cursor=pointer]:
+              - generic [ref=e88] [cursor=pointer]: Информация и информационные процессы
+              - img [ref=e90] [cursor=pointer]
+            - generic [ref=e92] [cursor=pointer]:
+              - generic [ref=e95] [cursor=pointer]: Системы счисления
+              - img [ref=e97] [cursor=pointer]
+            - generic [ref=e99] [cursor=pointer]:
+              - generic [ref=e102] [cursor=pointer]: Представление информации в компьютере
+              - img [ref=e104] [cursor=pointer]
+            - generic [ref=e106] [cursor=pointer]:
+              - generic [ref=e109] [cursor=pointer]: Элементы алгебры логики
+              - img [ref=e111] [cursor=pointer]
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e116] [cursor=pointer]: Технологии обработки текстовой, графической и мультимедийной информации
+              - img [ref=e118] [cursor=pointer]
+          - generic [ref=e124]:
+            - link "1. Информация, данные и знания. Информационные процессы" [ref=e125] [cursor=pointer]:
+              - /url: /learn/69ad804adf5a1f0007c5e8f8/69ad7ec9df5a1f0007c5b885/68ab5e86d608c000071814f6/69ad7f0fdf5a1f0007c5c68c/
+              - generic [ref=e126] [cursor=pointer]:
+                - generic [ref=e128] [cursor=pointer]:
+                  - generic [ref=e130] [cursor=pointer]: "1."
+                  - paragraph [ref=e132] [cursor=pointer]: Информация, данные и знания. Информационные процессы
+                - img [ref=e135] [cursor=pointer]
+            - link "2. Равномерные двоичные коды" [ref=e137] [cursor=pointer]:
+              - /url: /learn/69ad804adf5a1f0007c5e8f8/69ad7ec9df5a1f0007c5b885/68ab5e86d608c000071814f6/69ad7f0fdf5a1f0007c5c684/
+              - generic [ref=e138] [cursor=pointer]:
+                - generic [ref=e140] [cursor=pointer]:
+                  - generic [ref=e142] [cursor=pointer]: "2."
+                  - paragraph [ref=e144] [cursor=pointer]: Равномерные двоичные коды
+                - img [ref=e147] [cursor=pointer]
+            - link "3. Неравномерные двоичные коды" [ref=e149] [cursor=pointer]:
+              - /url: /learn/69ad804adf5a1f0007c5e8f8/69ad7ec9df5a1f0007c5b885/68ab5e86d608c000071814f6/69ad7f0fdf5a1f0007c5c685/
+              - generic [ref=e150] [cursor=pointer]:
+                - generic [ref=e152] [cursor=pointer]:
+                  - generic [ref=e154] [cursor=pointer]: "3."
+                  - paragraph [ref=e156] [cursor=pointer]: Неравномерные двоичные коды
+                - img [ref=e159] [cursor=pointer]
+            - link "4. Условие Фано" [ref=e161] [cursor=pointer]:
+              - /url: /learn/69ad804adf5a1f0007c5e8f8/69ad7ec9df5a1f0007c5b885/68ab5e86d608c000071814f6/69ad7f0fdf5a1f0007c5c686/
+              - generic [ref=e162] [cursor=pointer]:
+                - generic [ref=e164] [cursor=pointer]:
+                  - generic [ref=e166] [cursor=pointer]: "4."
+                  - paragraph [ref=e168] [cursor=pointer]: Условие Фано
+                - img [ref=e171] [cursor=pointer]
+            - link "5. Алфавитный подход к измерению информации, определение бита с точки зрения алфавитного подхода" [ref=e173] [cursor=pointer]:
+              - /url: /learn/69ad804adf5a1f0007c5e8f8/69ad7ec9df5a1f0007c5b885/68ab5e86d608c000071814f6/69ad7f0fdf5a1f0007c5c687/
+              - generic [ref=e174] [cursor=pointer]:
+                - generic [ref=e176] [cursor=pointer]:
+                  - generic [ref=e178] [cursor=pointer]: "5."
+                  - paragraph [ref=e180] [cursor=pointer]: Алфавитный подход к измерению информации, определение бита с точки зрения алфавитного подхода
+                - img [ref=e183] [cursor=pointer]
+            - 'link "6. Связь между единицами измерения информации: бит, байт, Кбайт, Мбайт, Гбайт" [ref=e185] [cursor=pointer]':
+              - /url: /learn/69ad804adf5a1f0007c5e8f8/69ad7ec9df5a1f0007c5b885/68ab5e86d608c000071814f6/69ad7f0fdf5a1f0007c5c688/
+              - generic [ref=e186] [cursor=pointer]:
+                - generic [ref=e188] [cursor=pointer]:
+                  - generic [ref=e190] [cursor=pointer]: "6."
+                  - paragraph [ref=e192] [cursor=pointer]: "Связь между единицами измерения информации: бит, байт, Кбайт, Мбайт, Гбайт"
+                - img [ref=e195] [cursor=pointer]
+            - link "7. Вероятностный подход к измерению информации, определение бита с позиции содержания сообщения" [ref=e197] [cursor=pointer]:
+              - /url: /learn/69ad804adf5a1f0007c5e8f8/69ad7ec9df5a1f0007c5b885/68ab5e86d608c000071814f6/69ad7f0fdf5a1f0007c5c689/
+              - generic [ref=e198] [cursor=pointer]:
+                - generic [ref=e200] [cursor=pointer]:
+                  - generic [ref=e202] [cursor=pointer]: "7."
+                  - paragraph [ref=e204] [cursor=pointer]: Вероятностный подход к измерению информации, определение бита с позиции содержания сообщения
+                - img [ref=e207] [cursor=pointer]
+            - link "8. Скорость передачи данных по каналу связи" [ref=e209] [cursor=pointer]:
+              - /url: /learn/69ad804adf5a1f0007c5e8f8/69ad7ec9df5a1f0007c5b885/68ab5e86d608c000071814f6/69ad7f0fdf5a1f0007c5c68a/
+              - generic [ref=e210] [cursor=pointer]:
+                - generic [ref=e212] [cursor=pointer]:
+                  - generic [ref=e214] [cursor=pointer]: "8."
+                  - paragraph [ref=e216] [cursor=pointer]: Скорость передачи данных по каналу связи
+                - img [ref=e219] [cursor=pointer]
+            - link "9. Хранение информации. Объём памяти" [ref=e221] [cursor=pointer]:
+              - /url: /learn/69ad804adf5a1f0007c5e8f8/69ad7ec9df5a1f0007c5b885/68ab5e86d608c000071814f6/69ad7f0fdf5a1f0007c5c68b/
+              - generic [ref=e222] [cursor=pointer]:
+                - generic [ref=e224] [cursor=pointer]:
+                  - generic [ref=e226] [cursor=pointer]: "9."
+                  - paragraph [ref=e228] [cursor=pointer]: Хранение информации. Объём памяти
+                - img [ref=e231] [cursor=pointer]
+            - link "10. Система и её компоненты. Системы управления" [ref=e233] [cursor=pointer]:
+              - /url: /learn/69ad804adf5a1f0007c5e8f8/69ad7ec9df5a1f0007c5b885/68ab5e86d608c000071814f6/69ad7f0fdf5a1f0007c5c681/
+              - generic [ref=e234] [cursor=pointer]:
+                - generic [ref=e236] [cursor=pointer]:
+                  - generic [ref=e238] [cursor=pointer]: "10."
+                  - paragraph [ref=e240] [cursor=pointer]: Система и её компоненты. Системы управления
+                - img [ref=e243] [cursor=pointer]
+            - link "11. Кодирование сообщений" [ref=e245] [cursor=pointer]:
+              - /url: /learn/69ad804adf5a1f0007c5e8f8/69ad7ec9df5a1f0007c5b885/68ab5e86d608c000071814f6/69ad7f0fdf5a1f0007c5c682/
+              - generic [ref=e246] [cursor=pointer]:
+                - generic [ref=e248] [cursor=pointer]:
+                  - generic [ref=e250] [cursor=pointer]: "11."
+                  - paragraph [ref=e252] [cursor=pointer]: Кодирование сообщений
+                - img [ref=e255] [cursor=pointer]
+            - link "12. Обработка информации" [ref=e257] [cursor=pointer]:
+              - /url: /learn/69ad804adf5a1f0007c5e8f8/69ad7ec9df5a1f0007c5b885/68ab5e86d608c000071814f6/69ad7f0fdf5a1f0007c5c68d/
+              - generic [ref=e258] [cursor=pointer]:
+                - generic [ref=e260] [cursor=pointer]:
+                  - generic [ref=e262] [cursor=pointer]: "12."
+                  - paragraph [ref=e264] [cursor=pointer]: Обработка информации
+                - img [ref=e267] [cursor=pointer]
+            - link "15. Связь между размером алфавита и информационным весом символа (в предположении о равновероятности появления символов)" [active] [ref=e269] [cursor=pointer]:
+              - /url: /learn/69ad804adf5a1f0007c5e8f8/69ad7ec9df5a1f0007c5b885/68ab5e86d608c000071814f6/69ad7f0fdf5a1f0007c5c683/
+              - generic [ref=e270] [cursor=pointer]:
+                - generic [ref=e272] [cursor=pointer]:
+                  - generic [ref=e274] [cursor=pointer]: "15."
+                  - paragraph [ref=e276] [cursor=pointer]: Связь между размером алфавита и информационным весом символа (в предположении о равновероятности появления символов)
+                - img [ref=e279] [cursor=pointer]
+  - generic [ref=e282]:
+    - generic [ref=e283]:
+      - generic [ref=e284]:
+        - generic [ref=e288]:
+          - img [ref=e290]
+          - link "8 (800) 600-44-02" [ref=e292] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e293]:
+          - generic [ref=e294]: "@"
+          - link "info@ismart.org" [ref=e295] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e296]:
+          - img [ref=e298]
+          - generic [ref=e300]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e301]:
+        - link "Наш сайт" [ref=e304] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e306] [cursor=pointer]
+        - generic [ref=e308]:
+          - link "Лицензия" [ref=e310] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e312] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e314] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e316] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e318] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e320]:
+      - generic [ref=e321]:
+        - link [ref=e322] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e326] [cursor=pointer]
+        - generic [ref=e329]:
+          - link "okIcon" [ref=e330] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e331] [cursor=pointer]
+          - link "dzenIcon" [ref=e332] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e333] [cursor=pointer]
+          - link "vkIcon" [ref=e334] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e335] [cursor=pointer]
+      - generic [ref=e337]:
+        - generic [ref=e339]:
+          - generic [ref=e340]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e341] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e342]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e343] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e344]:
+          - generic [ref=e345]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e346] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e347]: © iSmart, 2018-2026
+```
