@@ -1,0 +1,225 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Литература. 4.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "5" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e37]:
+          - img [ref=e41]
+          - text: "7"
+        - button "8" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e61] [cursor=pointer]:
+          - img [ref=e65] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e68]:
+        - generic [ref=e72]:
+          - img [ref=e75]
+          - textbox "Поиск по подтемам" [ref=e78]
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic [ref=e81] [cursor=pointer]:
+              - generic [ref=e83] [cursor=pointer]: Темы
+              - button [ref=e85] [cursor=pointer]:
+                - img [ref=e87] [cursor=pointer]
+            - generic [ref=e89] [cursor=pointer]:
+              - generic [ref=e92] [cursor=pointer]: Древнерусская литература. «Поучение» Владимира Мономаха
+              - img [ref=e94] [cursor=pointer]
+            - generic [ref=e96] [cursor=pointer]:
+              - generic [ref=e99] [cursor=pointer]: Литература первой половины XIX века. А.С. Пушкин
+              - img [ref=e101] [cursor=pointer]
+            - generic [ref=e103] [cursor=pointer]:
+              - generic [ref=e106] [cursor=pointer]: Литература первой половины XIX века. М.Ю. Лермонтов
+              - img [ref=e108] [cursor=pointer]
+            - generic [ref=e110] [cursor=pointer]:
+              - generic [ref=e113] [cursor=pointer]: Литература первой половины XIX века. Н.В. Гоголь «Тарас Бульба»
+              - img [ref=e115] [cursor=pointer]
+            - generic [ref=e118] [cursor=pointer]:
+              - generic [ref=e121] [cursor=pointer]: Литература второй половины XIX века. И.С. Тургенев «Записки охотника»
+              - img [ref=e123] [cursor=pointer]
+            - generic [ref=e125] [cursor=pointer]:
+              - generic [ref=e128] [cursor=pointer]: Литература первой половины XIX века. Л.Н. Толстой Рассказ «После бала»
+              - img [ref=e130] [cursor=pointer]
+            - generic [ref=e132] [cursor=pointer]:
+              - generic [ref=e135] [cursor=pointer]: Литература второй половины XIX века. Н.А. Некрасов «Размышления у парадного подъезда», «Железная дорога»
+              - img [ref=e137] [cursor=pointer]
+            - generic [ref=e139] [cursor=pointer]:
+              - generic [ref=e142] [cursor=pointer]: Поэзия второй половины XIX века. Ф.И. Тютчев, А.А. Фет
+              - img [ref=e144] [cursor=pointer]
+            - generic [ref=e146] [cursor=pointer]:
+              - generic [ref=e149] [cursor=pointer]: Литература второй половины XIX века. М.Е. Салтыков-Щедрин. Сказки «Повесть о том, как один мужик двух генералов прокормил», «Дикий помещик»
+              - img [ref=e151] [cursor=pointer]
+            - generic [ref=e153] [cursor=pointer]:
+              - generic [ref=e156] [cursor=pointer]: Произведения отечественных и зарубежных писателей на историческую тему
+              - img [ref=e158] [cursor=pointer]
+            - generic [ref=e160] [cursor=pointer]:
+              - generic [ref=e163] [cursor=pointer]: Литература конца XIX — начала XX века. А.П. Чехов. Рассказ «Тоска»
+              - img [ref=e165] [cursor=pointer]
+            - generic [ref=e167] [cursor=pointer]:
+              - generic [ref=e170] [cursor=pointer]: Литература конца XIX - начала XX века. М. Горький. «Старуха Изергиль»
+              - img [ref=e172] [cursor=pointer]
+            - generic [ref=e174] [cursor=pointer]:
+              - generic [ref=e177] [cursor=pointer]: Литература конца XIX - начала XX века. Сатирическая проза. Н. Тэффи, М. Зощенко
+              - img [ref=e179] [cursor=pointer]
+            - generic [ref=e181] [cursor=pointer]:
+              - generic [ref=e184] [cursor=pointer]: Литература первой половины XX века. Проза. А.С. Грин, А.П. Платонов
+              - img [ref=e186] [cursor=pointer]
+            - generic [ref=e188] [cursor=pointer]:
+              - generic [ref=e191] [cursor=pointer]: Литература первой половины XX века. Лирика
+              - img [ref=e193] [cursor=pointer]
+            - generic [ref=e195] [cursor=pointer]:
+              - generic [ref=e198] [cursor=pointer]: Литература второй половины XX - начала XXI века. В. М. Шукшин. Рассказ «Чудик»
+              - img [ref=e200] [cursor=pointer]
+            - generic [ref=e202] [cursor=pointer]:
+              - generic [ref=e205] [cursor=pointer]: Литература второй половины XX - начала XXI века. Лирика
+              - img [ref=e207] [cursor=pointer]
+            - generic [ref=e209] [cursor=pointer]:
+              - generic [ref=e212] [cursor=pointer]: Литература второй половины XX - начала XXI века. Проза
+              - img [ref=e214] [cursor=pointer]
+            - generic [ref=e216] [cursor=pointer]:
+              - generic [ref=e219] [cursor=pointer]: Зарубежная литература М. де Сервантес Сааведра. Роман «Хитроумный идальго Дон Кихот Ламанчский». П. Мериме. «Маттео Фальконе». А. де Сент Экзюпери «Маленький принц»
+              - img [ref=e221] [cursor=pointer]
+          - generic [ref=e227]:
+            - link "1. Сюжет и композиция рассказа «Бирюк»" [ref=e228] [cursor=pointer]:
+              - /url: /learn/69aae096b5ec3d0007d7dd8b/69aaddd2b5ec3d0007d7282d/68ab5e4dd608c0000717c41a/69aade17b5ec3d0007d749cf/
+              - generic [ref=e229] [cursor=pointer]:
+                - generic [ref=e231] [cursor=pointer]:
+                  - generic [ref=e233] [cursor=pointer]: "1."
+                  - paragraph [ref=e235] [cursor=pointer]: Сюжет и композиция рассказа «Бирюк»
+                - img [ref=e238] [cursor=pointer]
+            - link "2. Характер главного героя" [ref=e240] [cursor=pointer]:
+              - /url: /learn/69aae096b5ec3d0007d7dd8b/69aaddd2b5ec3d0007d7282d/68ab5e4dd608c0000717c41a/69aade17b5ec3d0007d749d0/
+              - generic [ref=e241] [cursor=pointer]:
+                - generic [ref=e243] [cursor=pointer]:
+                  - generic [ref=e245] [cursor=pointer]: "2."
+                  - paragraph [ref=e247] [cursor=pointer]: Характер главного героя
+                - img [ref=e250] [cursor=pointer]
+            - link "3. Сюжет и композиция рассказа «Хорь и Калиныч»" [ref=e252] [cursor=pointer]:
+              - /url: /learn/69aae096b5ec3d0007d7dd8b/69aaddd2b5ec3d0007d7282d/68ab5e4dd608c0000717c41a/69aade17b5ec3d0007d749d1/
+              - generic [ref=e253] [cursor=pointer]:
+                - generic [ref=e255] [cursor=pointer]:
+                  - generic [ref=e257] [cursor=pointer]: "3."
+                  - paragraph [ref=e259] [cursor=pointer]: Сюжет и композиция рассказа «Хорь и Калиныч»
+                - img [ref=e262] [cursor=pointer]
+            - link "4. Характер Хоря" [ref=e264] [cursor=pointer]:
+              - /url: /learn/69aae096b5ec3d0007d7dd8b/69aaddd2b5ec3d0007d7282d/68ab5e4dd608c0000717c41a/69aade17b5ec3d0007d749d2/
+              - generic [ref=e265] [cursor=pointer]:
+                - generic [ref=e267] [cursor=pointer]:
+                  - generic [ref=e269] [cursor=pointer]: "4."
+                  - paragraph [ref=e271] [cursor=pointer]: Характер Хоря
+                - img [ref=e274] [cursor=pointer]
+            - link "5. Характер Калиныча" [ref=e276] [cursor=pointer]:
+              - /url: /learn/69aae096b5ec3d0007d7dd8b/69aaddd2b5ec3d0007d7282d/68ab5e4dd608c0000717c41a/69aade17b5ec3d0007d749d3/
+              - generic [ref=e277] [cursor=pointer]:
+                - generic [ref=e279] [cursor=pointer]:
+                  - generic [ref=e281] [cursor=pointer]: "5."
+                  - paragraph [ref=e283] [cursor=pointer]: Характер Калиныча
+                - img [ref=e286] [cursor=pointer]
+            - link "6. Социальные мотивы в рассказе" [ref=e288] [cursor=pointer]:
+              - /url: /learn/69aae096b5ec3d0007d7dd8b/69aaddd2b5ec3d0007d7282d/68ab5e4dd608c0000717c41a/69aade17b5ec3d0007d749d4/
+              - generic [ref=e289] [cursor=pointer]:
+                - generic [ref=e291] [cursor=pointer]:
+                  - generic [ref=e293] [cursor=pointer]: "6."
+                  - paragraph [ref=e295] [cursor=pointer]: Социальные мотивы в рассказе
+                - img [ref=e298] [cursor=pointer]
+            - link "7. Стихотворения в прозе" [ref=e300] [cursor=pointer]:
+              - /url: /learn/69aae096b5ec3d0007d7dd8b/69aaddd2b5ec3d0007d7282d/68ab5e4dd608c0000717c41a/69aade17b5ec3d0007d749d5/
+              - generic [ref=e301] [cursor=pointer]:
+                - generic [ref=e303] [cursor=pointer]:
+                  - generic [ref=e305] [cursor=pointer]: "7."
+                  - paragraph [ref=e307] [cursor=pointer]: Стихотворения в прозе
+                - img [ref=e310] [cursor=pointer]
+            - link "8. Жанровое своеобразие стихотворений в прозе" [active] [ref=e312] [cursor=pointer]:
+              - /url: /learn/69aae096b5ec3d0007d7dd8b/69aaddd2b5ec3d0007d7282d/68ab5e4dd608c0000717c41a/69aade17b5ec3d0007d749d6/
+              - generic [ref=e313] [cursor=pointer]:
+                - generic [ref=e315] [cursor=pointer]:
+                  - generic [ref=e317] [cursor=pointer]: "8."
+                  - paragraph [ref=e319] [cursor=pointer]: Жанровое своеобразие стихотворений в прозе
+                - img [ref=e322] [cursor=pointer]
+  - generic [ref=e325]:
+    - generic [ref=e326]:
+      - generic [ref=e327]:
+        - generic [ref=e331]:
+          - img [ref=e333]
+          - link "8 (800) 600-44-02" [ref=e335] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e336]:
+          - generic [ref=e337]: "@"
+          - link "info@ismart.org" [ref=e338] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e339]:
+          - img [ref=e341]
+          - generic [ref=e343]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e344]:
+        - link "Наш сайт" [ref=e347] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e349] [cursor=pointer]
+        - generic [ref=e351]:
+          - link "Лицензия" [ref=e353] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e355] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e357] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e359] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e361] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e363]:
+      - generic [ref=e364]:
+        - link [ref=e365] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e369] [cursor=pointer]
+        - generic [ref=e372]:
+          - link "okIcon" [ref=e373] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e374] [cursor=pointer]
+          - link "dzenIcon" [ref=e375] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e376] [cursor=pointer]
+          - link "vkIcon" [ref=e377] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e378] [cursor=pointer]
+      - generic [ref=e380]:
+        - generic [ref=e382]:
+          - generic [ref=e383]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e384] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e385]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e386] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e387]:
+          - generic [ref=e388]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e389] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e390]: © iSmart, 2018-2026
+```

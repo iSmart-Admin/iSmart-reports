@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query TeacherClassrooms($teacherId: String) {\n  teacherClassrooms(teacherId: $teacherId) {\n    id\n    name\n    digit\n    grade\n    gradeName\n    schoolShortName\n    schoolUuid\n    students {\n      ...classroomStudentFragment\n    }\n    isEducont\n  }\n}\n\nfragment classroomStudentFragment on ClassroomStudent {\n  id\n  invitationAccepted\n  invitationCode\n  name\n  studentUserId\n  educontUid\n}\n"
+    },
+    "timestap": "12.03.2026, 06:02:26"
+  }
+]
