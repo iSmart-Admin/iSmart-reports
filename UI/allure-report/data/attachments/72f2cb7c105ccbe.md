@@ -1,0 +1,106 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Внесите ответ в специально предназначенные поля." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Внесите ответ в специально предназначенные поля.
+                - img "decore" [ref=e50]
+                - generic [ref=e55]:
+                  - generic:
+                    - generic:
+                      - generic: Н
+                  - textbox [ref=e56]
+                  - textbox [ref=e57]
+                  - textbox [ref=e58]
+                  - textbox [ref=e59]
+                  - textbox [ref=e60]
+                  - textbox [ref=e61]
+                  - textbox [ref=e62]
+                  - textbox [ref=e63]
+                  - text: право — это совокупность правовых норм, регулирующих общественные отношения в сфере налогообложения.
+          - generic [ref=e69]:
+            - generic [ref=e72]:
+              - button [disabled] [ref=e74]:
+                - img [ref=e76]
+              - generic [ref=e79]: 100%
+              - button [ref=e81] [cursor=pointer]:
+                - img [ref=e83] [cursor=pointer]
+            - button "1 Показать подсказку" [ref=e88] [cursor=pointer]:
+              - generic [ref=e91] [cursor=pointer]: "1"
+              - generic [ref=e92] [cursor=pointer]: Показать подсказку
+        - generic [ref=e96]:
+          - generic [ref=e99]: Интеллектуальный тренажер
+          - generic [ref=e103]:
+            - generic [ref=e108]: 1 из 6
+            - generic [ref=e110]:
+              - generic [ref=e111]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e113] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e116]:
+            - generic [ref=e118]:
+              - button "Пройти опрос" [ref=e119] [cursor=pointer]:
+                - generic [ref=e121] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e122] [cursor=pointer]:
+                - img [ref=e125] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e128] [cursor=pointer]:
+                - img [ref=e131] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e135] [cursor=pointer]:
+                - img [ref=e138] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e140]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e141] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e144] [cursor=pointer]
+              - generic [ref=e147]: 69b287a1c16b890007aa4071
+  - generic [ref=e155]:
+    - button [ref=e157] [cursor=pointer]:
+      - img [ref=e160] [cursor=pointer]
+    - generic [ref=e163]:
+      - generic [ref=e165]:
+        - text: шаг
+        - generic [ref=e166]: "1"
+        - generic [ref=e167]: из 4
+      - generic [ref=e174]:
+        - generic [ref=e175]:
+          - generic [ref=e176]: Оцени утверждение от 1 до 5
+          - generic [ref=e177]:
+            - generic [ref=e178]: Мне интересно учиться.
+            - generic [ref=e179]:
+              - button "1" [ref=e180] [cursor=pointer]
+              - button "2" [ref=e181] [cursor=pointer]
+              - button "3" [ref=e182] [cursor=pointer]
+              - button "4" [ref=e183] [cursor=pointer]
+              - button "5" [ref=e184] [cursor=pointer]
+          - generic [ref=e185]: 1 - полностью не согласен; 2 - не согласен; 3 - нейтрально; 4 - согласен; 5 - полностью согласен
+        - generic [ref=e186]:
+          - button "Вернуться" [disabled] [ref=e187]:
+            - img [ref=e189]
+            - generic [ref=e191]: Вернуться
+          - button "Далее" [disabled] [ref=e192]:
+            - text: Далее
+            - img [ref=e195]
+```
