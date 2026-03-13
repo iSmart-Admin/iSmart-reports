@@ -1,0 +1,91 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                  - button "4" [ref=e48] [cursor=pointer]
+                  - button "5" [ref=e51] [cursor=pointer]
+                  - button "6" [ref=e54] [cursor=pointer]
+                  - button "7" [ref=e57] [cursor=pointer]
+                  - button "8" [ref=e60] [cursor=pointer]
+                  - button "9" [ref=e63] [cursor=pointer]
+                - generic [ref=e64]:
+                  - button [disabled] [ref=e65]:
+                    - img [ref=e67]
+                  - button [disabled] [ref=e70]:
+                    - img [ref=e72]
+            - generic [ref=e75]:
+              - generic [ref=e77]:
+                - img [ref=e81]
+                - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e83]:
+                  - generic [ref=e85]: Внесите ответ в специально предназначенное поле.
+              - generic [ref=e87]:
+                - img "decore" [ref=e90]
+                - generic [ref=e96]: В каком году родился А.Т. Твардовский?
+              - generic [ref=e101]:
+                - text: "Ответ:"
+                - textbox [active] [ref=e102]
+        - generic [ref=e108]:
+          - generic [ref=e111]:
+            - button [disabled] [ref=e113]:
+              - img [ref=e115]
+            - generic [ref=e118]: 100%
+            - button [ref=e120] [cursor=pointer]:
+              - img [ref=e122] [cursor=pointer]
+          - generic [ref=e127]:
+            - img [ref=e129]
+            - generic [ref=e146]: Загрузка подсказок...
+      - generic [ref=e150]:
+        - generic [ref=e153]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e159] [cursor=pointer]:
+          - img [ref=e162] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e164]:
+          - generic [ref=e166]:
+            - button "Черновик" [ref=e167] [cursor=pointer]:
+              - img [ref=e170] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e173] [cursor=pointer]:
+              - img [ref=e176] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e178]:
+              - button "Часто задаваемые вопросы" [ref=e180] [cursor=pointer]:
+                - img [ref=e183] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e185]:
+                - button "Информация об уроке" [ref=e187] [cursor=pointer]:
+                  - img [ref=e190] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e192]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e193]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e194] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e197] [cursor=pointer]
+```

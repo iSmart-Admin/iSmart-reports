@@ -1,0 +1,565 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Русский язык. 1.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "1" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e43]:
+          - img [ref=e47]
+          - text: "4"
+        - button "5" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e61] [cursor=pointer]:
+          - img [ref=e65] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e67] [cursor=pointer]:
+          - img [ref=e71] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e73] [cursor=pointer]:
+          - img [ref=e77] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e79] [cursor=pointer]:
+          - img [ref=e83] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e85] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e92]:
+        - generic [ref=e96]:
+          - img [ref=e99]
+          - textbox "Поиск по подтемам" [ref=e102]
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - generic [ref=e105] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Темы
+              - button [ref=e109] [cursor=pointer]:
+                - img [ref=e111] [cursor=pointer]
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e116] [cursor=pointer]: Что мы знаем о звуках и буквах?
+              - img [ref=e118] [cursor=pointer]
+            - generic [ref=e120] [cursor=pointer]:
+              - generic [ref=e123] [cursor=pointer]: Что мы знаем о словах?
+              - img [ref=e125] [cursor=pointer]
+            - generic [ref=e127] [cursor=pointer]:
+              - generic [ref=e130] [cursor=pointer]: Что мы знаем о составе слова?
+              - img [ref=e132] [cursor=pointer]
+            - generic [ref=e134] [cursor=pointer]:
+              - generic [ref=e137] [cursor=pointer]: Что мы знаем об имени существительном?
+              - img [ref=e139] [cursor=pointer]
+            - generic [ref=e141] [cursor=pointer]:
+              - generic [ref=e144] [cursor=pointer]: Что мы знаем об имени прилагательном?
+              - img [ref=e146] [cursor=pointer]
+            - generic [ref=e148] [cursor=pointer]:
+              - generic [ref=e151] [cursor=pointer]: Что мы знаем о местоимении?
+              - img [ref=e153] [cursor=pointer]
+            - generic [ref=e155] [cursor=pointer]:
+              - generic [ref=e158] [cursor=pointer]: Что мы знаем о глаголе?
+              - img [ref=e160] [cursor=pointer]
+            - generic [ref=e162] [cursor=pointer]:
+              - generic [ref=e165] [cursor=pointer]: Что мы знаем о наречии?
+              - img [ref=e167] [cursor=pointer]
+            - generic [ref=e169] [cursor=pointer]:
+              - generic [ref=e172] [cursor=pointer]: Что мы знаем об имени числительном?
+              - img [ref=e174] [cursor=pointer]
+            - generic [ref=e176] [cursor=pointer]:
+              - generic [ref=e179] [cursor=pointer]: Что мы знаем о предлогах и союзах?
+              - img [ref=e181] [cursor=pointer]
+            - generic [ref=e183] [cursor=pointer]:
+              - generic [ref=e186] [cursor=pointer]: Что мы знаем о предложении и словосочетании?
+              - img [ref=e188] [cursor=pointer]
+            - generic [ref=e190] [cursor=pointer]:
+              - generic [ref=e193] [cursor=pointer]: Что мы знаем о правописании слов и предложений?
+              - img [ref=e195] [cursor=pointer]
+            - generic [ref=e197] [cursor=pointer]:
+              - generic [ref=e200] [cursor=pointer]: Какой бывает наша речь?
+              - img [ref=e202] [cursor=pointer]
+            - generic [ref=e204] [cursor=pointer]:
+              - generic [ref=e207] [cursor=pointer]: Словарные слова
+              - img [ref=e209] [cursor=pointer]
+            - generic [ref=e211] [cursor=pointer]:
+              - generic [ref=e214] [cursor=pointer]: Словарные слова (повышенный уровень)
+              - img [ref=e216] [cursor=pointer]
+            - generic [ref=e218] [cursor=pointer]:
+              - generic [ref=e221] [cursor=pointer]: Подготовка к контрольной 1 четверть
+              - img [ref=e223] [cursor=pointer]
+            - generic [ref=e225] [cursor=pointer]:
+              - generic [ref=e228] [cursor=pointer]: Подготовка к контрольной 2 четверть
+              - img [ref=e230] [cursor=pointer]
+            - generic [ref=e232] [cursor=pointer]:
+              - generic [ref=e235] [cursor=pointer]: Подготовка к контрольной 3 четверть
+              - img [ref=e237] [cursor=pointer]
+            - generic [ref=e239] [cursor=pointer]:
+              - generic [ref=e242] [cursor=pointer]: Подготовка к контрольной 4 четверть
+              - img [ref=e244] [cursor=pointer]
+            - generic [ref=e246] [cursor=pointer]:
+              - generic [ref=e249] [cursor=pointer]: Подготовка к контрольной I полугодие
+              - img [ref=e251] [cursor=pointer]
+            - generic [ref=e254] [cursor=pointer]:
+              - generic [ref=e257] [cursor=pointer]: Подготовка к контрольной II полугодие
+              - img [ref=e259] [cursor=pointer]
+            - generic [ref=e261] [cursor=pointer]:
+              - generic [ref=e264] [cursor=pointer]: Подготовка к Итоговой контрольной работе
+              - img [ref=e266] [cursor=pointer]
+            - generic [ref=e268] [cursor=pointer]:
+              - generic [ref=e271] [cursor=pointer]: Подготовка к ВПР
+              - img [ref=e273] [cursor=pointer]
+            - generic [ref=e275] [cursor=pointer]:
+              - generic [ref=e278] [cursor=pointer]: Части речи (сложные темы)
+              - img [ref=e280] [cursor=pointer]
+            - generic [ref=e282] [cursor=pointer]:
+              - generic [ref=e285] [cursor=pointer]: Предложение (сложные темы)
+              - img [ref=e287] [cursor=pointer]
+            - generic [ref=e289] [cursor=pointer]:
+              - generic [ref=e292] [cursor=pointer]: Слово в речи и языке (сложные темы)
+              - img [ref=e294] [cursor=pointer]
+            - generic [ref=e296] [cursor=pointer]:
+              - generic [ref=e299] [cursor=pointer]: Орфография (сложные темы)
+              - img [ref=e301] [cursor=pointer]
+            - generic [ref=e303] [cursor=pointer]:
+              - generic [ref=e306] [cursor=pointer]: Проверочные работы (1 полугодие)
+              - img [ref=e308] [cursor=pointer]
+          - generic [ref=e314]:
+            - link "1. Имя прилагательное как часть речи" [ref=e315] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30e4/
+              - generic [ref=e316] [cursor=pointer]:
+                - generic [ref=e318] [cursor=pointer]:
+                  - generic [ref=e320] [cursor=pointer]: "1."
+                  - paragraph [ref=e322] [cursor=pointer]: Имя прилагательное как часть речи
+                - img [ref=e325] [cursor=pointer]
+            - link "2. Связь имени прилагательного с именем существительным" [ref=e327] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30e5/
+              - generic [ref=e328] [cursor=pointer]:
+                - generic [ref=e330] [cursor=pointer]:
+                  - generic [ref=e332] [cursor=pointer]: "2."
+                  - paragraph [ref=e334] [cursor=pointer]: Связь имени прилагательного с именем существительным
+                - img [ref=e337] [cursor=pointer]
+            - link "3. Изменение имён прилагательных по числам" [ref=e339] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30e6/
+              - generic [ref=e340] [cursor=pointer]:
+                - generic [ref=e342] [cursor=pointer]:
+                  - generic [ref=e344] [cursor=pointer]: "3."
+                  - paragraph [ref=e346] [cursor=pointer]: Изменение имён прилагательных по числам
+                - img [ref=e349] [cursor=pointer]
+            - link "4. Изменение имён прилагательных по родам" [ref=e351] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30e7/
+              - generic [ref=e352] [cursor=pointer]:
+                - generic [ref=e354] [cursor=pointer]:
+                  - generic [ref=e356] [cursor=pointer]: "4."
+                  - paragraph [ref=e358] [cursor=pointer]: Изменение имён прилагательных по родам
+                - img [ref=e361] [cursor=pointer]
+            - link "5. Правописание родовых окончаний имён прилагательных" [ref=e363] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30e8/
+              - generic [ref=e364] [cursor=pointer]:
+                - generic [ref=e366] [cursor=pointer]:
+                  - generic [ref=e368] [cursor=pointer]: "5."
+                  - paragraph [ref=e370] [cursor=pointer]: Правописание родовых окончаний имён прилагательных
+                - img [ref=e373] [cursor=pointer]
+            - link "6. Склонение имён прилагательных" [ref=e375] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30e9/
+              - generic [ref=e376] [cursor=pointer]:
+                - generic [ref=e378] [cursor=pointer]:
+                  - generic [ref=e380] [cursor=pointer]: "6."
+                  - paragraph [ref=e382] [cursor=pointer]: Склонение имён прилагательных
+                - img [ref=e385] [cursor=pointer]
+            - link "7. Именительный падеж имён прилагательных" [ref=e387] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30ea/
+              - generic [ref=e388] [cursor=pointer]:
+                - generic [ref=e390] [cursor=pointer]:
+                  - generic [ref=e392] [cursor=pointer]: "7."
+                  - paragraph [ref=e394] [cursor=pointer]: Именительный падеж имён прилагательных
+                - img [ref=e397] [cursor=pointer]
+            - link "8. Родительный падеж имён прилагательных" [ref=e399] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30eb/
+              - generic [ref=e400] [cursor=pointer]:
+                - generic [ref=e402] [cursor=pointer]:
+                  - generic [ref=e404] [cursor=pointer]: "8."
+                  - paragraph [ref=e406] [cursor=pointer]: Родительный падеж имён прилагательных
+                - img [ref=e409] [cursor=pointer]
+            - link "9. Дательный падеж имён прилагательных" [ref=e411] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30ec/
+              - generic [ref=e412] [cursor=pointer]:
+                - generic [ref=e414] [cursor=pointer]:
+                  - generic [ref=e416] [cursor=pointer]: "9."
+                  - paragraph [ref=e418] [cursor=pointer]: Дательный падеж имён прилагательных
+                - img [ref=e421] [cursor=pointer]
+            - link "10. Винительный падеж имён прилагательных" [ref=e423] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30ed/
+              - generic [ref=e424] [cursor=pointer]:
+                - generic [ref=e426] [cursor=pointer]:
+                  - generic [ref=e428] [cursor=pointer]: "10."
+                  - paragraph [ref=e430] [cursor=pointer]: Винительный падеж имён прилагательных
+                - img [ref=e433] [cursor=pointer]
+            - link "11. Винительный и родительный падежи имён прилагательных" [ref=e435] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30ee/
+              - generic [ref=e436] [cursor=pointer]:
+                - generic [ref=e438] [cursor=pointer]:
+                  - generic [ref=e440] [cursor=pointer]: "11."
+                  - paragraph [ref=e442] [cursor=pointer]: Винительный и родительный падежи имён прилагательных
+                - img [ref=e445] [cursor=pointer]
+            - link "12. Творительный падеж имён прилагательных" [ref=e447] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30ef/
+              - generic [ref=e448] [cursor=pointer]:
+                - generic [ref=e450] [cursor=pointer]:
+                  - generic [ref=e452] [cursor=pointer]: "12."
+                  - paragraph [ref=e454] [cursor=pointer]: Творительный падеж имён прилагательных
+                - img [ref=e457] [cursor=pointer]
+            - link "13. Предложный падеж имён прилагательных" [ref=e459] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30f0/
+              - generic [ref=e460] [cursor=pointer]:
+                - generic [ref=e462] [cursor=pointer]:
+                  - generic [ref=e464] [cursor=pointer]: "13."
+                  - paragraph [ref=e466] [cursor=pointer]: Предложный падеж имён прилагательных
+                - img [ref=e469] [cursor=pointer]
+            - link "14. Творительный и предложный падежи имён прилагательных" [ref=e471] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30f1/
+              - generic [ref=e472] [cursor=pointer]:
+                - generic [ref=e474] [cursor=pointer]:
+                  - generic [ref=e476] [cursor=pointer]: "14."
+                  - paragraph [ref=e478] [cursor=pointer]: Творительный и предложный падежи имён прилагательных
+                - img [ref=e481] [cursor=pointer]
+            - link "15. Склонение имён прилагательных женского рода" [ref=e483] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30f2/
+              - generic [ref=e484] [cursor=pointer]:
+                - generic [ref=e486] [cursor=pointer]:
+                  - generic [ref=e488] [cursor=pointer]: "15."
+                  - paragraph [ref=e490] [cursor=pointer]: Склонение имён прилагательных женского рода
+                - img [ref=e493] [cursor=pointer]
+            - link "16. Правописание падежных окончаний имён прилагательных женского рода в единственном числе" [ref=e495] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30f3/
+              - generic [ref=e496] [cursor=pointer]:
+                - generic [ref=e498] [cursor=pointer]:
+                  - generic [ref=e500] [cursor=pointer]: "16."
+                  - paragraph [ref=e502] [cursor=pointer]: Правописание падежных окончаний имён прилагательных женского рода в единственном числе
+                - img [ref=e505] [cursor=pointer]
+            - link "17. Склонение имён прилагательных мужского и среднего рода в единственном числе" [ref=e507] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30f4/
+              - generic [ref=e508] [cursor=pointer]:
+                - generic [ref=e510] [cursor=pointer]:
+                  - generic [ref=e512] [cursor=pointer]: "17."
+                  - paragraph [ref=e514] [cursor=pointer]: Склонение имён прилагательных мужского и среднего рода в единственном числе
+                - img [ref=e517] [cursor=pointer]
+            - link "18. Правописание падежных окончаний имён прилагательных мужского и среднего рода в единственном числе" [ref=e519] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30f5/
+              - generic [ref=e520] [cursor=pointer]:
+                - generic [ref=e522] [cursor=pointer]:
+                  - generic [ref=e524] [cursor=pointer]: "18."
+                  - paragraph [ref=e526] [cursor=pointer]: Правописание падежных окончаний имён прилагательных мужского и среднего рода в единственном числе
+                - img [ref=e529] [cursor=pointer]
+            - link "19. Правописание имён прилагательных во множественном числе" [ref=e531] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30f6/
+              - generic [ref=e532] [cursor=pointer]:
+                - generic [ref=e534] [cursor=pointer]:
+                  - generic [ref=e536] [cursor=pointer]: "19."
+                  - paragraph [ref=e538] [cursor=pointer]: Правописание имён прилагательных во множественном числе
+                - img [ref=e541] [cursor=pointer]
+            - link "20. Способы проверки правописания безударных падежных окончаний имён прилагательных" [ref=e543] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30f7/
+              - generic [ref=e544] [cursor=pointer]:
+                - generic [ref=e546] [cursor=pointer]:
+                  - generic [ref=e548] [cursor=pointer]: "20."
+                  - paragraph [ref=e550] [cursor=pointer]: Способы проверки правописания безударных падежных окончаний имён прилагательных
+                - img [ref=e553] [cursor=pointer]
+            - link "21. Правописание безударных окончаний имён прилагательных" [ref=e555] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30f8/
+              - generic [ref=e556] [cursor=pointer]:
+                - generic [ref=e558] [cursor=pointer]:
+                  - generic [ref=e560] [cursor=pointer]: "21."
+                  - paragraph [ref=e562] [cursor=pointer]: Правописание безударных окончаний имён прилагательных
+                - img [ref=e565] [cursor=pointer]
+            - link "22. Морфологический разбор имени прилагательного" [ref=e567] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30f9/
+              - generic [ref=e568] [cursor=pointer]:
+                - generic [ref=e570] [cursor=pointer]:
+                  - generic [ref=e572] [cursor=pointer]: "22."
+                  - paragraph [ref=e574] [cursor=pointer]: Морфологический разбор имени прилагательного
+                - img [ref=e577] [cursor=pointer]
+            - link "23. Местоимение как часть речи" [ref=e579] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30fa/
+              - generic [ref=e580] [cursor=pointer]:
+                - generic [ref=e582] [cursor=pointer]:
+                  - generic [ref=e584] [cursor=pointer]: "23."
+                  - paragraph [ref=e586] [cursor=pointer]: Местоимение как часть речи
+                - img [ref=e589] [cursor=pointer]
+            - link "24. Личные местоимения" [ref=e591] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30fb/
+              - generic [ref=e592] [cursor=pointer]:
+                - generic [ref=e594] [cursor=pointer]:
+                  - generic [ref=e596] [cursor=pointer]: "24."
+                  - paragraph [ref=e598] [cursor=pointer]: Личные местоимения
+                - img [ref=e601] [cursor=pointer]
+            - link "25. Изменение личных местоимений 1-го и 2-го лица по падежам" [ref=e603] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30fc/
+              - generic [ref=e604] [cursor=pointer]:
+                - generic [ref=e606] [cursor=pointer]:
+                  - generic [ref=e608] [cursor=pointer]: "25."
+                  - paragraph [ref=e610] [cursor=pointer]: Изменение личных местоимений 1-го и 2-го лица по падежам
+                - img [ref=e613] [cursor=pointer]
+            - link "26. Изменение личных местоимений 3-го лица по падежам" [ref=e615] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30fd/
+              - generic [ref=e616] [cursor=pointer]:
+                - generic [ref=e618] [cursor=pointer]:
+                  - generic [ref=e620] [cursor=pointer]: "26."
+                  - paragraph [ref=e622] [cursor=pointer]: Изменение личных местоимений 3-го лица по падежам
+                - img [ref=e625] [cursor=pointer]
+            - link "27. Склонение личных местоимений" [ref=e627] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30fe/
+              - generic [ref=e628] [cursor=pointer]:
+                - generic [ref=e630] [cursor=pointer]:
+                  - generic [ref=e632] [cursor=pointer]: "27."
+                  - paragraph [ref=e634] [cursor=pointer]: Склонение личных местоимений
+                - img [ref=e637] [cursor=pointer]
+            - link "28. Глагол" [ref=e639] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a30ff/
+              - generic [ref=e640] [cursor=pointer]:
+                - generic [ref=e642] [cursor=pointer]:
+                  - generic [ref=e644] [cursor=pointer]: "28."
+                  - paragraph [ref=e646] [cursor=pointer]: Глагол
+                - img [ref=e649] [cursor=pointer]
+            - link "29. Неопределённая форма глагола" [ref=e651] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3100/
+              - generic [ref=e652] [cursor=pointer]:
+                - generic [ref=e654] [cursor=pointer]:
+                  - generic [ref=e656] [cursor=pointer]: "29."
+                  - paragraph [ref=e658] [cursor=pointer]: Неопределённая форма глагола
+                - img [ref=e661] [cursor=pointer]
+            - link "30. Изменение глаголов по родам" [ref=e663] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3101/
+              - generic [ref=e664] [cursor=pointer]:
+                - generic [ref=e666] [cursor=pointer]:
+                  - generic [ref=e668] [cursor=pointer]: "30."
+                  - paragraph [ref=e670] [cursor=pointer]: Изменение глаголов по родам
+                - img [ref=e673] [cursor=pointer]
+            - link "31. Изменение глаголов по числам" [ref=e675] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3102/
+              - generic [ref=e676] [cursor=pointer]:
+                - generic [ref=e678] [cursor=pointer]:
+                  - generic [ref=e680] [cursor=pointer]: "31."
+                  - paragraph [ref=e682] [cursor=pointer]: Изменение глаголов по числам
+                - img [ref=e685] [cursor=pointer]
+            - link "32. Личные формы глагола" [ref=e687] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3103/
+              - generic [ref=e688] [cursor=pointer]:
+                - generic [ref=e690] [cursor=pointer]:
+                  - generic [ref=e692] [cursor=pointer]: "32."
+                  - paragraph [ref=e694] [cursor=pointer]: Личные формы глагола
+                - img [ref=e697] [cursor=pointer]
+            - link "33. Настоящее время глагола" [ref=e699] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3104/
+              - generic [ref=e700] [cursor=pointer]:
+                - generic [ref=e702] [cursor=pointer]:
+                  - generic [ref=e704] [cursor=pointer]: "33."
+                  - paragraph [ref=e706] [cursor=pointer]: Настоящее время глагола
+                - img [ref=e709] [cursor=pointer]
+            - link "34. Прошедшее время глагола" [ref=e711] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3105/
+              - generic [ref=e712] [cursor=pointer]:
+                - generic [ref=e714] [cursor=pointer]:
+                  - generic [ref=e716] [cursor=pointer]: "34."
+                  - paragraph [ref=e718] [cursor=pointer]: Прошедшее время глагола
+                - img [ref=e721] [cursor=pointer]
+            - link "35. Будущее время глагола" [ref=e723] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3106/
+              - generic [ref=e724] [cursor=pointer]:
+                - generic [ref=e726] [cursor=pointer]:
+                  - generic [ref=e728] [cursor=pointer]: "35."
+                  - paragraph [ref=e730] [cursor=pointer]: Будущее время глагола
+                - img [ref=e733] [cursor=pointer]
+            - link "36. Изменение глаголов по временам" [ref=e735] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3107/
+              - generic [ref=e736] [cursor=pointer]:
+                - generic [ref=e738] [cursor=pointer]:
+                  - generic [ref=e740] [cursor=pointer]: "36."
+                  - paragraph [ref=e742] [cursor=pointer]: Изменение глаголов по временам
+                - img [ref=e745] [cursor=pointer]
+            - link "37. Знаки препинания в предложениях с однородными членами" [ref=e747] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3108/
+              - generic [ref=e748] [cursor=pointer]:
+                - generic [ref=e750] [cursor=pointer]:
+                  - generic [ref=e752] [cursor=pointer]: "37."
+                  - paragraph [ref=e754] [cursor=pointer]: Знаки препинания в предложениях с однородными членами
+                - img [ref=e757] [cursor=pointer]
+            - link "38. Синтаксический разбор предложения" [ref=e759] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3109/
+              - generic [ref=e760] [cursor=pointer]:
+                - generic [ref=e762] [cursor=pointer]:
+                  - generic [ref=e764] [cursor=pointer]: "38."
+                  - paragraph [ref=e766] [cursor=pointer]: Синтаксический разбор предложения
+                - img [ref=e769] [cursor=pointer]
+            - link "39. Правописание наречий" [ref=e771] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a310a/
+              - generic [ref=e772] [cursor=pointer]:
+                - generic [ref=e774] [cursor=pointer]:
+                  - generic [ref=e776] [cursor=pointer]: "39."
+                  - paragraph [ref=e778] [cursor=pointer]: Правописание наречий
+                - img [ref=e781] [cursor=pointer]
+            - link "40. Правописание безударных окончаний имён существительных" [ref=e783] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a310b/
+              - generic [ref=e784] [cursor=pointer]:
+                - generic [ref=e786] [cursor=pointer]:
+                  - generic [ref=e788] [cursor=pointer]: "40."
+                  - paragraph [ref=e790] [cursor=pointer]: Правописание безударных окончаний имён существительных
+                - img [ref=e793] [cursor=pointer]
+            - link "41. Правописание окончаний имён существительных во множественном числе" [ref=e795] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a310c/
+              - generic [ref=e796] [cursor=pointer]:
+                - generic [ref=e798] [cursor=pointer]:
+                  - generic [ref=e800] [cursor=pointer]: "41."
+                  - paragraph [ref=e802] [cursor=pointer]: Правописание окончаний имён существительных во множественном числе
+                - img [ref=e805] [cursor=pointer]
+            - link "42. Морфологический разбор имени существительного" [ref=e807] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a310d/
+              - generic [ref=e808] [cursor=pointer]:
+                - generic [ref=e810] [cursor=pointer]:
+                  - generic [ref=e812] [cursor=pointer]: "42."
+                  - paragraph [ref=e814] [cursor=pointer]: Морфологический разбор имени существительного
+                - img [ref=e817] [cursor=pointer]
+            - link "43. Спряжение глаголов" [ref=e819] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a310e/
+              - generic [ref=e820] [cursor=pointer]:
+                - generic [ref=e822] [cursor=pointer]:
+                  - generic [ref=e824] [cursor=pointer]: "43."
+                  - paragraph [ref=e826] [cursor=pointer]: Спряжение глаголов
+                - img [ref=e829] [cursor=pointer]
+            - link "44. Правописание окончаний глаголов в прошедшем времени" [ref=e831] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a310f/
+              - generic [ref=e832] [cursor=pointer]:
+                - generic [ref=e834] [cursor=pointer]:
+                  - generic [ref=e836] [cursor=pointer]: "44."
+                  - paragraph [ref=e838] [cursor=pointer]: Правописание окончаний глаголов в прошедшем времени
+                - img [ref=e841] [cursor=pointer]
+            - link "45. Возвратные глаголы" [ref=e843] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3110/
+              - generic [ref=e844] [cursor=pointer]:
+                - generic [ref=e846] [cursor=pointer]:
+                  - generic [ref=e848] [cursor=pointer]: "45."
+                  - paragraph [ref=e850] [cursor=pointer]: Возвратные глаголы
+                - img [ref=e853] [cursor=pointer]
+            - link "46. Правописание возвратных глаголов в неопределённой форме" [ref=e855] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3111/
+              - generic [ref=e856] [cursor=pointer]:
+                - generic [ref=e858] [cursor=pointer]:
+                  - generic [ref=e860] [cursor=pointer]: "46."
+                  - paragraph [ref=e862] [cursor=pointer]: Правописание возвратных глаголов в неопределённой форме
+                - img [ref=e865] [cursor=pointer]
+            - link "47. Правописание -ться и -тся в глаголах" [ref=e867] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3112/
+              - generic [ref=e868] [cursor=pointer]:
+                - generic [ref=e870] [cursor=pointer]:
+                  - generic [ref=e872] [cursor=pointer]: "47."
+                  - paragraph [ref=e874] [cursor=pointer]: Правописание -ться и -тся в глаголах
+                - img [ref=e877] [cursor=pointer]
+            - link "48. Правописание безударных окончаний глаголов" [ref=e879] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3113/
+              - generic [ref=e880] [cursor=pointer]:
+                - generic [ref=e882] [cursor=pointer]:
+                  - generic [ref=e884] [cursor=pointer]: "48."
+                  - paragraph [ref=e886] [cursor=pointer]: Правописание безударных окончаний глаголов
+                - img [ref=e889] [cursor=pointer]
+            - link "49. Правописание не с глаголами" [ref=e891] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3114/
+              - generic [ref=e892] [cursor=pointer]:
+                - generic [ref=e894] [cursor=pointer]:
+                  - generic [ref=e896] [cursor=pointer]: "49."
+                  - paragraph [ref=e898] [cursor=pointer]: Правописание не с глаголами
+                - img [ref=e901] [cursor=pointer]
+            - link "50. Правописание окончаний глаголов в прошедшем времени" [ref=e903] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3115/
+              - generic [ref=e904] [cursor=pointer]:
+                - generic [ref=e906] [cursor=pointer]:
+                  - generic [ref=e908] [cursor=pointer]: "50."
+                  - paragraph [ref=e910] [cursor=pointer]: Правописание окончаний глаголов в прошедшем времени
+                - img [ref=e913] [cursor=pointer]
+            - link "51. Морфологический разбор глагола" [active] [ref=e915] [cursor=pointer]:
+              - /url: /learn/68ac37c37c622300072c3328/68ac35e17c62230007270e44/68ab5dfad608c00007162ff9/68ac363a7c622300072a3116/
+              - generic [ref=e916] [cursor=pointer]:
+                - generic [ref=e918] [cursor=pointer]:
+                  - generic [ref=e920] [cursor=pointer]: "51."
+                  - paragraph [ref=e922] [cursor=pointer]: Морфологический разбор глагола
+                - img [ref=e925] [cursor=pointer]
+  - generic [ref=e928]:
+    - generic [ref=e929]:
+      - generic [ref=e930]:
+        - generic [ref=e934]:
+          - img [ref=e936]
+          - link "8 (800) 600-44-02" [ref=e938] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e939]:
+          - generic [ref=e940]: "@"
+          - link "info@ismart.org" [ref=e941] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e942]:
+          - img [ref=e944]
+          - generic [ref=e946]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e947]:
+        - link "Наш сайт" [ref=e950] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e952] [cursor=pointer]
+        - generic [ref=e954]:
+          - link "Лицензия" [ref=e956] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e958] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e960] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e962] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e964] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e966]:
+      - generic [ref=e967]:
+        - link [ref=e968] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e972] [cursor=pointer]
+        - generic [ref=e975]:
+          - link "okIcon" [ref=e976] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e977] [cursor=pointer]
+          - link "dzenIcon" [ref=e978] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e979] [cursor=pointer]
+          - link "vkIcon" [ref=e980] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e981] [cursor=pointer]
+      - generic [ref=e983]:
+        - generic [ref=e985]:
+          - generic [ref=e986]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e987] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e988]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e989] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e990]:
+          - generic [ref=e991]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e992] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e993]: © iSmart, 2018-2026
+```

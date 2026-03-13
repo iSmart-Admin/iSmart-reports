@@ -1,0 +1,104 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Химия 6.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "8" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e31]:
+          - img [ref=e35]
+          - text: "9"
+        - button "10" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e52]:
+        - img [ref=e53]
+        - generic [ref=e63]: Ошибка загрузки тем
+        - button "Попробовать еще раз" [ref=e64] [cursor=pointer]
+      - generic [ref=e65]:
+        - generic [ref=e69]:
+          - img [ref=e72]
+          - textbox "Поиск по подтемам" [ref=e75]
+        - generic [ref=e78] [cursor=pointer]:
+          - generic [ref=e80] [cursor=pointer]: Темы
+          - button [ref=e82] [cursor=pointer]:
+            - img [ref=e84] [cursor=pointer]
+  - generic [ref=e90]:
+    - generic [ref=e91]:
+      - generic [ref=e92]:
+        - generic [ref=e96]:
+          - img [ref=e98]
+          - link "8 (800) 600-44-02" [ref=e100] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e101]:
+          - generic [ref=e102]: "@"
+          - link "info@ismart.org" [ref=e103] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e104]:
+          - img [ref=e106]
+          - generic [ref=e108]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e109]:
+        - link "Наш сайт" [ref=e112] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e114] [cursor=pointer]
+        - generic [ref=e116]:
+          - link "Лицензия" [ref=e118] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e120] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e122] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e124] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e126] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e128]:
+      - generic [ref=e129]:
+        - link [ref=e130] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e134] [cursor=pointer]
+        - generic [ref=e137]:
+          - link "okIcon" [ref=e138] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e139] [cursor=pointer]
+          - link "dzenIcon" [ref=e140] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e141] [cursor=pointer]
+          - link "vkIcon" [ref=e142] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e143] [cursor=pointer]
+      - generic [ref=e145]:
+        - generic [ref=e147]:
+          - generic [ref=e148]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e149] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e150]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e151] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e152]:
+          - generic [ref=e153]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e154] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e155]: © iSmart, 2018-2026
+```
