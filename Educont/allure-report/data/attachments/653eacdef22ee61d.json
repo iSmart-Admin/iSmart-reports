@@ -1,0 +1,13 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query TaskHints($taskId: String!) {\n  taskHints(taskId: $taskId)\n}\n",
+      "variables": {
+        "taskId": "678ff71f6b0a95000761c912"
+      }
+    },
+    "timestap": "14.03.2026, 06:00:01"
+  }
+]
