@@ -1,0 +1,216 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Английский язык. 4.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "2" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e61] [cursor=pointer]:
+          - img [ref=e65] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e67] [cursor=pointer]:
+          - img [ref=e71] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e73]:
+          - img [ref=e77]
+          - text: "10"
+        - button "11" [ref=e79] [cursor=pointer]:
+          - img [ref=e83] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e86]:
+        - generic [ref=e90]:
+          - img [ref=e93]
+          - textbox "Поиск по подтемам" [ref=e96]
+        - generic [ref=e97]:
+          - generic [ref=e98]:
+            - generic [ref=e99] [cursor=pointer]:
+              - generic [ref=e101] [cursor=pointer]: Темы
+              - button [ref=e103] [cursor=pointer]:
+                - img [ref=e105] [cursor=pointer]
+            - generic [ref=e108] [cursor=pointer]:
+              - generic [ref=e111] [cursor=pointer]: Повседневная жизнь семьи. Межличностные отношения в семье, с друзьями и знакомыми. Конфликтные ситуации, их предупреждение и разрешение
+              - img [ref=e113] [cursor=pointer]
+            - generic [ref=e115] [cursor=pointer]:
+              - generic [ref=e118] [cursor=pointer]: Внешность и характеристика человека, литературного персонажа
+              - img [ref=e120] [cursor=pointer]
+            - generic [ref=e122] [cursor=pointer]:
+              - generic [ref=e125] [cursor=pointer]: Школьное образование, школьная жизнь, школьные праздники. Переписка с зарубежными сверстниками. Взаимоотношения в школе. Проблемы и решения. Права и обязанности старшеклассника
+              - img [ref=e127] [cursor=pointer]
+            - generic [ref=e129] [cursor=pointer]:
+              - generic [ref=e132] [cursor=pointer]: "Здоровый образ жизни и забота о здоровье: режим труда и отдыха, спорт, сбалансированное питание, посещение врача. Отказ от вредных привычек"
+              - img [ref=e134] [cursor=pointer]
+            - generic [ref=e136] [cursor=pointer]:
+              - generic [ref=e139] [cursor=pointer]: Современный мир профессий. Проблемы выбора профессии. Роль иностранного языка в планах на будущее
+              - img [ref=e141] [cursor=pointer]
+            - generic [ref=e143] [cursor=pointer]:
+              - generic [ref=e146] [cursor=pointer]: "Молодёжь в современном обществе. Досуг молодёжи: чтение, кино, театр, музыка, музеи, Интернет, компьютерные игры. Любовь и дружба"
+              - img [ref=e148] [cursor=pointer]
+            - generic [ref=e150] [cursor=pointer]:
+              - generic [ref=e153] [cursor=pointer]: "Покупки: одежда, обувь и продукты питания. Карманные деньги. Молодежная мода"
+              - img [ref=e155] [cursor=pointer]
+            - generic [ref=e157] [cursor=pointer]:
+              - generic [ref=e160] [cursor=pointer]: Туризм. Виды отдыха. Путешествие по России и по зарубежным странам
+              - img [ref=e162] [cursor=pointer]
+            - generic [ref=e164] [cursor=pointer]:
+              - generic [ref=e167] [cursor=pointer]: Проблемы экологии. Защита окружающей среды. Стихийные бедствия
+              - img [ref=e169] [cursor=pointer]
+            - generic [ref=e171] [cursor=pointer]:
+              - generic [ref=e174] [cursor=pointer]: "Технический прогресс: перспективы и последствия. Современные средства связи (мобильные телефоны, смартфоны, планшеты, компьютеры)"
+              - img [ref=e176] [cursor=pointer]
+            - generic [ref=e178] [cursor=pointer]:
+              - generic [ref=e181] [cursor=pointer]: Родная страна. Выдающиеся люди родной страны
+              - img [ref=e183] [cursor=pointer]
+            - generic [ref=e185] [cursor=pointer]:
+              - generic [ref=e188] [cursor=pointer]: Страны изучаемого языка
+              - img [ref=e190] [cursor=pointer]
+            - generic [ref=e192] [cursor=pointer]:
+              - generic [ref=e195] [cursor=pointer]: Грамматика
+              - img [ref=e197] [cursor=pointer]
+          - generic [ref=e203]:
+            - link "1. Урок 1. Межличностные отношения со сверстниками. Общие интересы" [ref=e204] [cursor=pointer]:
+              - /url: /learn/69ac0d03a2db7b0007fcd4bf/69ac0a80a2db7b0007faafbf/68ab5e86d608c000071814f6/69ac0b4fa2db7b0007fc7c77/
+              - generic [ref=e205] [cursor=pointer]:
+                - generic [ref=e207] [cursor=pointer]:
+                  - generic [ref=e209] [cursor=pointer]: "1."
+                  - paragraph [ref=e211] [cursor=pointer]: Урок 1. Межличностные отношения со сверстниками. Общие интересы
+                - img [ref=e214] [cursor=pointer]
+            - link "2. Урок 2. Межличностные отношения со сверстниками. Общие интересы" [ref=e216] [cursor=pointer]:
+              - /url: /learn/69ac0d03a2db7b0007fcd4bf/69ac0a80a2db7b0007faafbf/68ab5e86d608c000071814f6/69ac0b4fa2db7b0007fc7c73/
+              - generic [ref=e217] [cursor=pointer]:
+                - generic [ref=e219] [cursor=pointer]:
+                  - generic [ref=e221] [cursor=pointer]: "2."
+                  - paragraph [ref=e223] [cursor=pointer]: Урок 2. Межличностные отношения со сверстниками. Общие интересы
+                - img [ref=e226] [cursor=pointer]
+            - link "3. Урок 3. Конфликтные ситуации, их предупреждение и решение" [ref=e228] [cursor=pointer]:
+              - /url: /learn/69ac0d03a2db7b0007fcd4bf/69ac0a80a2db7b0007faafbf/68ab5e86d608c000071814f6/69ac0b4fa2db7b0007fc7c74/
+              - generic [ref=e229] [cursor=pointer]:
+                - generic [ref=e231] [cursor=pointer]:
+                  - generic [ref=e233] [cursor=pointer]: "3."
+                  - paragraph [ref=e235] [cursor=pointer]: Урок 3. Конфликтные ситуации, их предупреждение и решение
+                - img [ref=e238] [cursor=pointer]
+            - link "4. Урок 4. Межличностные отношения в семье" [ref=e240] [cursor=pointer]:
+              - /url: /learn/69ac0d03a2db7b0007fcd4bf/69ac0a80a2db7b0007faafbf/68ab5e86d608c000071814f6/69ac0b4fa2db7b0007fc7c75/
+              - generic [ref=e241] [cursor=pointer]:
+                - generic [ref=e243] [cursor=pointer]:
+                  - generic [ref=e245] [cursor=pointer]: "4."
+                  - paragraph [ref=e247] [cursor=pointer]: Урок 4. Межличностные отношения в семье
+                - img [ref=e250] [cursor=pointer]
+            - link "5. Урок 5. Повседневная жизнь семьи. Быт. Распорядок" [ref=e252] [cursor=pointer]:
+              - /url: /learn/69ac0d03a2db7b0007fcd4bf/69ac0a80a2db7b0007faafbf/68ab5e86d608c000071814f6/69ac0b4fa2db7b0007fc7c76/
+              - generic [ref=e253] [cursor=pointer]:
+                - generic [ref=e255] [cursor=pointer]:
+                  - generic [ref=e257] [cursor=pointer]: "5."
+                  - paragraph [ref=e259] [cursor=pointer]: Урок 5. Повседневная жизнь семьи. Быт. Распорядок
+                - img [ref=e262] [cursor=pointer]
+            - link "6. Урок 6. Повседневная жизнь семьи. Быт. Распорядок" [ref=e264] [cursor=pointer]:
+              - /url: /learn/69ac0d03a2db7b0007fcd4bf/69ac0a80a2db7b0007faafbf/68ab5e86d608c000071814f6/69ac0b4fa2db7b0007fc7c7a/
+              - generic [ref=e265] [cursor=pointer]:
+                - generic [ref=e267] [cursor=pointer]:
+                  - generic [ref=e269] [cursor=pointer]: "6."
+                  - paragraph [ref=e271] [cursor=pointer]: Урок 6. Повседневная жизнь семьи. Быт. Распорядок
+                - img [ref=e274] [cursor=pointer]
+            - link "7. Урок 7. Жизнь семьи. Конфликтные ситуации. Семейные истории" [ref=e276] [cursor=pointer]:
+              - /url: /learn/69ac0d03a2db7b0007fcd4bf/69ac0a80a2db7b0007faafbf/68ab5e86d608c000071814f6/69ac0b4fa2db7b0007fc7c78/
+              - generic [ref=e277] [cursor=pointer]:
+                - generic [ref=e279] [cursor=pointer]:
+                  - generic [ref=e281] [cursor=pointer]: "7."
+                  - paragraph [ref=e283] [cursor=pointer]: Урок 7. Жизнь семьи. Конфликтные ситуации. Семейные истории
+                - img [ref=e286] [cursor=pointer]
+            - link "8. Урок 8. Обобщение по теме \"Повседневная жизнь семьи. Межличностные отношения в семье, с друзьями и знакомыми. Конфликтные ситуации, их предупреждение и разрешение\"" [active] [ref=e288] [cursor=pointer]:
+              - /url: /learn/69ac0d03a2db7b0007fcd4bf/69ac0a80a2db7b0007faafbf/68ab5e86d608c000071814f6/69ac0b4fa2db7b0007fc7c79/
+              - generic [ref=e289] [cursor=pointer]:
+                - generic [ref=e291] [cursor=pointer]:
+                  - generic [ref=e293] [cursor=pointer]: "8."
+                  - paragraph [ref=e295] [cursor=pointer]: Урок 8. Обобщение по теме "Повседневная жизнь семьи. Межличностные отношения в семье, с друзьями и знакомыми. Конфликтные ситуации, их предупреждение и разрешение"
+                - img [ref=e298] [cursor=pointer]
+  - generic [ref=e301]:
+    - generic [ref=e302]:
+      - generic [ref=e303]:
+        - generic [ref=e307]:
+          - img [ref=e309]
+          - link "8 (800) 600-44-02" [ref=e311] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e312]:
+          - generic [ref=e313]: "@"
+          - link "info@ismart.org" [ref=e314] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e315]:
+          - img [ref=e317]
+          - generic [ref=e319]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e320]:
+        - link "Наш сайт" [ref=e323] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e325] [cursor=pointer]
+        - generic [ref=e327]:
+          - link "Лицензия" [ref=e329] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e331] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e333] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e335] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e337] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e339]:
+      - generic [ref=e340]:
+        - link [ref=e341] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e345] [cursor=pointer]
+        - generic [ref=e348]:
+          - link "okIcon" [ref=e349] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e350] [cursor=pointer]
+          - link "dzenIcon" [ref=e351] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e352] [cursor=pointer]
+          - link "vkIcon" [ref=e353] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e354] [cursor=pointer]
+      - generic [ref=e356]:
+        - generic [ref=e358]:
+          - generic [ref=e359]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e360] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e361]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e362] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e363]:
+          - generic [ref=e364]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e365] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e366]: © iSmart, 2018-2026
+```

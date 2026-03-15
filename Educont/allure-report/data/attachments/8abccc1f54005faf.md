@@ -1,0 +1,133 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Русский язык. 3.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "1" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e61]:
+          - img [ref=e65]
+          - text: "7"
+        - button "8" [ref=e67] [cursor=pointer]:
+          - img [ref=e71] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e73] [cursor=pointer]:
+          - img [ref=e77] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e79] [cursor=pointer]:
+          - img [ref=e83] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e85] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e92]:
+        - generic [ref=e96]:
+          - img [ref=e99]
+          - textbox "Поиск по подтемам" [ref=e102]
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - generic [ref=e105] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Темы
+              - button [ref=e109] [cursor=pointer]:
+                - img [ref=e111] [cursor=pointer]
+            - generic [ref=e114] [cursor=pointer]:
+              - generic [ref=e117] [cursor=pointer]: Морфология. Орфография. Культура речи
+              - img [ref=e119] [cursor=pointer]
+          - link "2. Служебные части речи в русском языке" [ref=e126] [cursor=pointer]:
+            - /url: /learn/68ac31197c6223000721db31/68ac2e897c622300071ca2d5/68ab5e4dd608c0000717c41a/68ea54d20250890007e4d90b/
+            - generic [ref=e127] [cursor=pointer]:
+              - generic [ref=e129] [cursor=pointer]:
+                - generic [ref=e131] [cursor=pointer]: "2."
+                - paragraph [ref=e133] [cursor=pointer]: Служебные части речи в русском языке
+              - img [ref=e136] [cursor=pointer]
+  - generic [ref=e139]:
+    - generic [ref=e140]:
+      - generic [ref=e141]:
+        - generic [ref=e145]:
+          - img [ref=e147]
+          - link "8 (800) 600-44-02" [ref=e149] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e150]:
+          - generic [ref=e151]: "@"
+          - link "info@ismart.org" [ref=e152] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e153]:
+          - img [ref=e155]
+          - generic [ref=e157]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e158]:
+        - link "Наш сайт" [ref=e161] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e163] [cursor=pointer]
+        - generic [ref=e165]:
+          - link "Лицензия" [ref=e167] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e169] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e171] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e173] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e175] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e177]:
+      - generic [ref=e178]:
+        - link [ref=e179] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e183] [cursor=pointer]
+        - generic [ref=e186]:
+          - link "okIcon" [ref=e187] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e188] [cursor=pointer]
+          - link "dzenIcon" [ref=e189] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e190] [cursor=pointer]
+          - link "vkIcon" [ref=e191] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e192] [cursor=pointer]
+      - generic [ref=e194]:
+        - generic [ref=e196]:
+          - generic [ref=e197]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e198] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e199]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e200] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e201]:
+          - generic [ref=e202]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e203] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e204]: © iSmart, 2018-2026
+```
