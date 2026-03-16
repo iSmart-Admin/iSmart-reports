@@ -1,0 +1,98 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "13" [ref=e39] [cursor=pointer]
+                  - button "14" [ref=e42] [cursor=pointer]
+                  - button "15" [ref=e45] [cursor=pointer]
+                  - button "16" [ref=e48] [cursor=pointer]
+                  - button "17" [ref=e51] [cursor=pointer]
+                  - button "18" [ref=e54] [cursor=pointer]
+                  - button "19" [ref=e57] [cursor=pointer]
+                  - button "20" [ref=e60] [cursor=pointer]
+                  - button "21" [ref=e63] [cursor=pointer]
+                  - button "22" [ref=e66] [cursor=pointer]
+                - generic [ref=e67]:
+                  - button [ref=e68] [cursor=pointer]:
+                    - img [ref=e70] [cursor=pointer]
+                  - button [ref=e73] [cursor=pointer]:
+                    - img [ref=e75] [cursor=pointer]
+            - generic [ref=e78]:
+              - generic [ref=e80]:
+                - img [ref=e84]
+                - heading "Определи, однозначным или многозначным является выделенное слово." [level=4] [ref=e86]:
+                  - generic [ref=e88]: Определи, однозначным или многозначным является выделенное слово.
+              - generic [ref=e90]:
+                - img "decore" [ref=e93]
+                - generic [ref=e96]:
+                  - generic [ref=e99]:
+                    - text: — А что, трудный английский
+                    - strong [ref=e100]:
+                      - generic [ref=e102]: язык
+                    - text: "? — спросил я."
+                  - emphasis [ref=e103]: (В. Драгунский)
+              - generic [ref=e106]:
+                - generic [ref=e110] [cursor=pointer]: однозначное
+                - generic [ref=e114] [cursor=pointer]: многозначное
+        - generic [ref=e119]:
+          - generic [ref=e122]:
+            - button [disabled] [ref=e124]:
+              - img [ref=e126]
+            - generic [ref=e129]: 100%
+            - button [ref=e131] [cursor=pointer]:
+              - img [ref=e133] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e138] [cursor=pointer]:
+            - generic [ref=e141] [cursor=pointer]: "2"
+            - generic [ref=e142] [cursor=pointer]: Показать подсказку
+      - generic [ref=e146]:
+        - generic [ref=e149]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e155] [cursor=pointer]:
+          - img [ref=e158] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e160]:
+          - generic [ref=e162]:
+            - button "Черновик" [ref=e163] [cursor=pointer]:
+              - img [ref=e166] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e169] [cursor=pointer]:
+              - img [ref=e172] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e174]:
+              - button "Часто задаваемые вопросы" [ref=e176] [cursor=pointer]:
+                - img [ref=e179] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e181]:
+                - button "Информация об уроке" [ref=e183] [cursor=pointer]:
+                  - img [ref=e186] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e188]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e189]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e190] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e193] [cursor=pointer]
+```
