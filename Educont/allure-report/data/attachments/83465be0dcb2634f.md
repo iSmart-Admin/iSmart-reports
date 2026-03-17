@@ -1,0 +1,408 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e18]:
+        - generic [ref=e19]: Логика
+        - generic [ref=e21]: Раздел с заданиями на развитие логического мышления
+      - button "Методические рекомендации" [ref=e24] [cursor=pointer]
+    - generic [ref=e25]:
+      - generic [ref=e30]:
+        - button "Подготовка к школе" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: Подготовка к школе
+        - button "1" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e55]:
+          - img [ref=e59]
+          - text: "4"
+        - button "5" [ref=e61] [cursor=pointer]:
+          - img [ref=e65] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e67] [cursor=pointer]:
+          - img [ref=e71] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e73] [cursor=pointer]:
+          - img [ref=e77] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e79] [cursor=pointer]:
+          - img [ref=e83] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e85] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+          - text: "9"
+      - generic [ref=e92]:
+        - generic [ref=e96]:
+          - img [ref=e99]
+          - textbox "Поиск по подтемам" [ref=e102]
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - generic [ref=e105] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Темы
+              - button [ref=e109] [cursor=pointer]:
+                - img [ref=e111] [cursor=pointer]
+            - generic [ref=e114] [cursor=pointer]:
+              - generic [ref=e117] [cursor=pointer]: Развитие логического мышления 4 класс
+              - img [ref=e119] [cursor=pointer]
+          - generic [ref=e125]:
+            - link "1.* Какой элемент пропущен в ряду? (ч. 1)" [ref=e126] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f2827b1eb71c7b9c21f8/
+              - generic [ref=e127] [cursor=pointer]:
+                - generic [ref=e129] [cursor=pointer]:
+                  - generic [ref=e131] [cursor=pointer]: 1.*
+                  - paragraph [ref=e133] [cursor=pointer]: Какой элемент пропущен в ряду? (ч. 1)
+                - img [ref=e136] [cursor=pointer]
+            - link "2.* Какой элемент пропущен в ряду? (ч. 2)" [ref=e138] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9aafefdd22a4b2b60886e/
+              - generic [ref=e139] [cursor=pointer]:
+                - generic [ref=e141] [cursor=pointer]:
+                  - generic [ref=e143] [cursor=pointer]: 2.*
+                  - paragraph [ref=e145] [cursor=pointer]: Какой элемент пропущен в ряду? (ч. 2)
+                - img [ref=e148] [cursor=pointer]
+            - link "3.* Какой элемент пропущен в ряду? (ч. 3)" [ref=e150] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/613a15963e5b8b951b6f00fc/
+              - generic [ref=e151] [cursor=pointer]:
+                - generic [ref=e153] [cursor=pointer]:
+                  - generic [ref=e155] [cursor=pointer]: 3.*
+                  - paragraph [ref=e157] [cursor=pointer]: Какой элемент пропущен в ряду? (ч. 3)
+                - img [ref=e160] [cursor=pointer]
+            - link "4.* Какой элемент пропущен в ряду? (ч. 4)" [ref=e162] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9ab1307243e47d0a7735a/
+              - generic [ref=e163] [cursor=pointer]:
+                - generic [ref=e165] [cursor=pointer]:
+                  - generic [ref=e167] [cursor=pointer]: 4.*
+                  - paragraph [ref=e169] [cursor=pointer]: Какой элемент пропущен в ряду? (ч. 4)
+                - img [ref=e172] [cursor=pointer]
+            - link "5.* Какой из четырёх кубиков можно сложить из заготовки? (ч. 1)" [ref=e174] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f2967b1eb7fdbd9c21f9/
+              - generic [ref=e175] [cursor=pointer]:
+                - generic [ref=e177] [cursor=pointer]:
+                  - generic [ref=e179] [cursor=pointer]: 5.*
+                  - paragraph [ref=e181] [cursor=pointer]: Какой из четырёх кубиков можно сложить из заготовки? (ч. 1)
+                - img [ref=e184] [cursor=pointer]
+            - link "6.* Какой из четырёх кубиков можно сложить из заготовки? (ч. 2)" [ref=e186] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9ab2807243e0adea7735b/
+              - generic [ref=e187] [cursor=pointer]:
+                - generic [ref=e189] [cursor=pointer]:
+                  - generic [ref=e191] [cursor=pointer]: 6.*
+                  - paragraph [ref=e193] [cursor=pointer]: Какой из четырёх кубиков можно сложить из заготовки? (ч. 2)
+                - img [ref=e196] [cursor=pointer]
+            - link "7.* Выбери блоки, с помощью которых составлена фигура (ч. 1)" [ref=e198] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f2ae7b1eb7ea779c21fa/
+              - generic [ref=e199] [cursor=pointer]:
+                - generic [ref=e201] [cursor=pointer]:
+                  - generic [ref=e203] [cursor=pointer]: 7.*
+                  - paragraph [ref=e205] [cursor=pointer]: Выбери блоки, с помощью которых составлена фигура (ч. 1)
+                - img [ref=e208] [cursor=pointer]
+            - link "8.* Выбери блоки, с помощью которых составлена фигура (ч. 2)" [ref=e210] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9ab3d07243ee197a77367/
+              - generic [ref=e211] [cursor=pointer]:
+                - generic [ref=e213] [cursor=pointer]:
+                  - generic [ref=e215] [cursor=pointer]: 8.*
+                  - paragraph [ref=e217] [cursor=pointer]: Выбери блоки, с помощью которых составлена фигура (ч. 2)
+                - img [ref=e220] [cursor=pointer]
+            - link "9.* Выбери вариант, который наиболее подходит к заданным изображениям. (ч. 1)" [ref=e222] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f2bf936e9c062b29e1ba/
+              - generic [ref=e223] [cursor=pointer]:
+                - generic [ref=e225] [cursor=pointer]:
+                  - generic [ref=e227] [cursor=pointer]: 9.*
+                  - paragraph [ref=e229] [cursor=pointer]: Выбери вариант, который наиболее подходит к заданным изображениям. (ч. 1)
+                - img [ref=e232] [cursor=pointer]
+            - link "10.* Выбери вариант, который наиболее подходит к заданным изображениям. (ч. 2)" [ref=e234] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9ab55fdd22ad74a6088e8/
+              - generic [ref=e235] [cursor=pointer]:
+                - generic [ref=e237] [cursor=pointer]:
+                  - generic [ref=e239] [cursor=pointer]: 10.*
+                  - paragraph [ref=e241] [cursor=pointer]: Выбери вариант, который наиболее подходит к заданным изображениям. (ч. 2)
+                - img [ref=e244] [cursor=pointer]
+            - link "11.* Выбери вариант, который наиболее подходит к заданным изображениям. (ч. 3)" [ref=e246] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f2d0f0f6dbc573c72412/
+              - generic [ref=e247] [cursor=pointer]:
+                - generic [ref=e249] [cursor=pointer]:
+                  - generic [ref=e251] [cursor=pointer]: 11.*
+                  - paragraph [ref=e253] [cursor=pointer]: Выбери вариант, который наиболее подходит к заданным изображениям. (ч. 3)
+                - img [ref=e256] [cursor=pointer]
+            - link "12.* Выбери вариант, который наиболее подходит к заданным изображениям. (ч. 4)" [ref=e258] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9ab7407243e0adca7737a/
+              - generic [ref=e259] [cursor=pointer]:
+                - generic [ref=e261] [cursor=pointer]:
+                  - generic [ref=e263] [cursor=pointer]: 12.*
+                  - paragraph [ref=e265] [cursor=pointer]: Выбери вариант, который наиболее подходит к заданным изображениям. (ч. 4)
+                - img [ref=e268] [cursor=pointer]
+            - link "13.* Выбери вариант, который наиболее подходит к заданным изображениям. (ч. 5)" [ref=e270] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f2ec01c3bc706114787c/
+              - generic [ref=e271] [cursor=pointer]:
+                - generic [ref=e273] [cursor=pointer]:
+                  - generic [ref=e275] [cursor=pointer]: 13.*
+                  - paragraph [ref=e277] [cursor=pointer]: Выбери вариант, который наиболее подходит к заданным изображениям. (ч. 5)
+                - img [ref=e280] [cursor=pointer]
+            - link "14.* Выбери вариант, который наиболее подходит к заданным изображениям. (ч. 6)" [ref=e282] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9ab8907243ec180a7737b/
+              - generic [ref=e283] [cursor=pointer]:
+                - generic [ref=e285] [cursor=pointer]:
+                  - generic [ref=e287] [cursor=pointer]: 14.*
+                  - paragraph [ref=e289] [cursor=pointer]: Выбери вариант, который наиболее подходит к заданным изображениям. (ч. 6)
+                - img [ref=e292] [cursor=pointer]
+            - link "15.* Как будет выглядеть фигура, если её повернуть? (ч. 1)" [ref=e294] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f2fd936e9c90da29e1bb/
+              - generic [ref=e295] [cursor=pointer]:
+                - generic [ref=e297] [cursor=pointer]:
+                  - generic [ref=e299] [cursor=pointer]: 15.*
+                  - paragraph [ref=e301] [cursor=pointer]: Как будет выглядеть фигура, если её повернуть? (ч. 1)
+                - img [ref=e304] [cursor=pointer]
+            - link "16.* Как будет выглядеть фигура, если её повернуть? (ч. 2)" [ref=e306] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9aba7fdd22a8d6560896d/
+              - generic [ref=e307] [cursor=pointer]:
+                - generic [ref=e309] [cursor=pointer]:
+                  - generic [ref=e311] [cursor=pointer]: 16.*
+                  - paragraph [ref=e313] [cursor=pointer]: Как будет выглядеть фигура, если её повернуть? (ч. 2)
+                - img [ref=e316] [cursor=pointer]
+            - link "17.* Как будет выглядеть фигура, если её повернуть? (ч. 3)" [ref=e318] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9abbf07243ed282a77395/
+              - generic [ref=e319] [cursor=pointer]:
+                - generic [ref=e321] [cursor=pointer]:
+                  - generic [ref=e323] [cursor=pointer]: 17.*
+                  - paragraph [ref=e325] [cursor=pointer]: Как будет выглядеть фигура, если её повернуть? (ч. 3)
+                - img [ref=e328] [cursor=pointer]
+            - link "18.* Какой шестиугольник пропущен? (ч. 1)" [ref=e330] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f310f0f6dbc38ec72413/
+              - generic [ref=e331] [cursor=pointer]:
+                - generic [ref=e333] [cursor=pointer]:
+                  - generic [ref=e335] [cursor=pointer]: 18.*
+                  - paragraph [ref=e337] [cursor=pointer]: Какой шестиугольник пропущен? (ч. 1)
+                - img [ref=e340] [cursor=pointer]
+            - link "19.* Какой шестиугольник пропущен? (ч. 2)" [ref=e342] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9abd607243e4a9da773a2/
+              - generic [ref=e343] [cursor=pointer]:
+                - generic [ref=e345] [cursor=pointer]:
+                  - generic [ref=e347] [cursor=pointer]: 19.*
+                  - paragraph [ref=e349] [cursor=pointer]: Какой шестиугольник пропущен? (ч. 2)
+                - img [ref=e352] [cursor=pointer]
+            - link "20.* Какой шестиугольник пропущен? (ч. 3)" [ref=e354] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9abf007243e3be1a773bc/
+              - generic [ref=e355] [cursor=pointer]:
+                - generic [ref=e357] [cursor=pointer]:
+                  - generic [ref=e359] [cursor=pointer]: 20.*
+                  - paragraph [ref=e361] [cursor=pointer]: Какой шестиугольник пропущен? (ч. 3)
+                - img [ref=e364] [cursor=pointer]
+            - link "21.* Какое изображение лишнее? (ч. 1)" [ref=e366] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f32001c3bc658714787d/
+              - generic [ref=e367] [cursor=pointer]:
+                - generic [ref=e369] [cursor=pointer]:
+                  - generic [ref=e371] [cursor=pointer]: 21.*
+                  - paragraph [ref=e373] [cursor=pointer]: Какое изображение лишнее? (ч. 1)
+                - img [ref=e376] [cursor=pointer]
+            - link "22.* Какое изображение лишнее? (ч. 2)" [ref=e378] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9ac0bfdd22a706b6089ec/
+              - generic [ref=e379] [cursor=pointer]:
+                - generic [ref=e381] [cursor=pointer]:
+                  - generic [ref=e383] [cursor=pointer]: 22.*
+                  - paragraph [ref=e385] [cursor=pointer]: Какое изображение лишнее? (ч. 2)
+                - img [ref=e388] [cursor=pointer]
+            - link "23.* Какое изображение лишнее? (ч. 3)" [ref=e390] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f34301c3bc77fb14787e/
+              - generic [ref=e391] [cursor=pointer]:
+                - generic [ref=e393] [cursor=pointer]:
+                  - generic [ref=e395] [cursor=pointer]: 23.*
+                  - paragraph [ref=e397] [cursor=pointer]: Какое изображение лишнее? (ч. 3)
+                - img [ref=e400] [cursor=pointer]
+            - link "24.* Какое изображение лишнее? (ч. 4)" [ref=e402] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9ac1f07243e4b74a77426/
+              - generic [ref=e403] [cursor=pointer]:
+                - generic [ref=e405] [cursor=pointer]:
+                  - generic [ref=e407] [cursor=pointer]: 24.*
+                  - paragraph [ref=e409] [cursor=pointer]: Какое изображение лишнее? (ч. 4)
+                - img [ref=e412] [cursor=pointer]
+            - link "25.* Какой элемент пропущен в паре? (ч. 1)" [ref=e414] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f35201c3bc3bf014787f/
+              - generic [ref=e415] [cursor=pointer]:
+                - generic [ref=e417] [cursor=pointer]:
+                  - generic [ref=e419] [cursor=pointer]: 25.*
+                  - paragraph [ref=e421] [cursor=pointer]: Какой элемент пропущен в паре? (ч. 1)
+                - img [ref=e424] [cursor=pointer]
+            - link "26.* Какой элемент пропущен в паре? (ч. 2)" [ref=e426] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9ac37fdd22a306f608a07/
+              - generic [ref=e427] [cursor=pointer]:
+                - generic [ref=e429] [cursor=pointer]:
+                  - generic [ref=e431] [cursor=pointer]: 26.*
+                  - paragraph [ref=e433] [cursor=pointer]: Какой элемент пропущен в паре? (ч. 2)
+                - img [ref=e436] [cursor=pointer]
+            - link "27.* Как будет выглядеть фигура, если её перевернуть? (ч. 1)" [ref=e438] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f3647b1eb7ee7d9c21fb/
+              - generic [ref=e439] [cursor=pointer]:
+                - generic [ref=e441] [cursor=pointer]:
+                  - generic [ref=e443] [cursor=pointer]: 27.*
+                  - paragraph [ref=e445] [cursor=pointer]: Как будет выглядеть фигура, если её перевернуть? (ч. 1)
+                - img [ref=e448] [cursor=pointer]
+            - link "28.* Как будет выглядеть фигура, если её перевернуть? (ч. 2)" [ref=e450] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9ac4c07243eb9fda77439/
+              - generic [ref=e451] [cursor=pointer]:
+                - generic [ref=e453] [cursor=pointer]:
+                  - generic [ref=e455] [cursor=pointer]: 28.*
+                  - paragraph [ref=e457] [cursor=pointer]: Как будет выглядеть фигура, если её перевернуть? (ч. 2)
+                - img [ref=e460] [cursor=pointer]
+            - link "29.* Какой элемент пропущен в таблице? (ч. 1)" [ref=e462] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f37c7b1eb70bf89c21fc/
+              - generic [ref=e463] [cursor=pointer]:
+                - generic [ref=e465] [cursor=pointer]:
+                  - generic [ref=e467] [cursor=pointer]: 29.*
+                  - paragraph [ref=e469] [cursor=pointer]: Какой элемент пропущен в таблице? (ч. 1)
+                - img [ref=e472] [cursor=pointer]
+            - link "30.* Какой элемент пропущен в таблице? (ч. 2)" [ref=e474] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9ac64fdd22aabf9608a5f/
+              - generic [ref=e475] [cursor=pointer]:
+                - generic [ref=e477] [cursor=pointer]:
+                  - generic [ref=e479] [cursor=pointer]: 30.*
+                  - paragraph [ref=e481] [cursor=pointer]: Какой элемент пропущен в таблице? (ч. 2)
+                - img [ref=e484] [cursor=pointer]
+            - link "31.* Как будет выглядеть фигура, если её зеркально отразить относительно линии? (ч. 1)" [ref=e486] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f38b7b1eb720fc9c21fd/
+              - generic [ref=e487] [cursor=pointer]:
+                - generic [ref=e489] [cursor=pointer]:
+                  - generic [ref=e491] [cursor=pointer]: 31.*
+                  - paragraph [ref=e493] [cursor=pointer]: Как будет выглядеть фигура, если её зеркально отразить относительно линии? (ч. 1)
+                - img [ref=e496] [cursor=pointer]
+            - link "32.* Как будет выглядеть фигура, если её зеркально отразить относительно линии? (ч. 2)" [ref=e498] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9ac7d0217a5e41f85a5d3/
+              - generic [ref=e499] [cursor=pointer]:
+                - generic [ref=e501] [cursor=pointer]:
+                  - generic [ref=e503] [cursor=pointer]: 32.*
+                  - paragraph [ref=e505] [cursor=pointer]: Как будет выглядеть фигура, если её зеркально отразить относительно линии? (ч. 2)
+                - img [ref=e508] [cursor=pointer]
+            - link "33.* Как будет выглядеть фигура, если её зеркально отразить относительно линии? (ч. 3)" [ref=e510] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9ac97fdd22a3686608a72/
+              - generic [ref=e511] [cursor=pointer]:
+                - generic [ref=e513] [cursor=pointer]:
+                  - generic [ref=e515] [cursor=pointer]: 33.*
+                  - paragraph [ref=e517] [cursor=pointer]: Как будет выглядеть фигура, если её зеркально отразить относительно линии? (ч. 3)
+                - img [ref=e520] [cursor=pointer]
+            - link "34.* Как изменится жук? (ч. 1)" [ref=e522] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f39901c3bc54d3147881/
+              - generic [ref=e523] [cursor=pointer]:
+                - generic [ref=e525] [cursor=pointer]:
+                  - generic [ref=e527] [cursor=pointer]: 34.*
+                  - paragraph [ref=e529] [cursor=pointer]: Как изменится жук? (ч. 1)
+                - img [ref=e532] [cursor=pointer]
+            - link "35.* Как изменится жук? (ч. 2)" [ref=e534] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9acae07243eede1a774aa/
+              - generic [ref=e535] [cursor=pointer]:
+                - generic [ref=e537] [cursor=pointer]:
+                  - generic [ref=e539] [cursor=pointer]: 35.*
+                  - paragraph [ref=e541] [cursor=pointer]: Как изменится жук? (ч. 2)
+                - img [ref=e544] [cursor=pointer]
+            - link "36.* Как выглядит фигура, если посмотреть на неё сверху? (ч. 1)" [ref=e546] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f3aa7b1eb7cae59c21fe/
+              - generic [ref=e547] [cursor=pointer]:
+                - generic [ref=e549] [cursor=pointer]:
+                  - generic [ref=e551] [cursor=pointer]: 36.*
+                  - paragraph [ref=e553] [cursor=pointer]: Как выглядит фигура, если посмотреть на неё сверху? (ч. 1)
+                - img [ref=e556] [cursor=pointer]
+            - link "37.* Как выглядит фигура, если посмотреть на неё сверху? (ч. 2)" [ref=e558] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9acc9fdd22a6ac9608a7f/
+              - generic [ref=e559] [cursor=pointer]:
+                - generic [ref=e561] [cursor=pointer]:
+                  - generic [ref=e563] [cursor=pointer]: 37.*
+                  - paragraph [ref=e565] [cursor=pointer]: Как выглядит фигура, если посмотреть на неё сверху? (ч. 2)
+                - img [ref=e568] [cursor=pointer]
+            - link "38.* Как будет выглядеть фигура, если её сложить по пунктирной линии? (ч. 1)" [ref=e570] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f3ba01c3bc11f6147882/
+              - generic [ref=e571] [cursor=pointer]:
+                - generic [ref=e573] [cursor=pointer]:
+                  - generic [ref=e575] [cursor=pointer]: 38.*
+                  - paragraph [ref=e577] [cursor=pointer]: Как будет выглядеть фигура, если её сложить по пунктирной линии? (ч. 1)
+                - img [ref=e580] [cursor=pointer]
+            - link "39.* Как будет выглядеть фигура, если её сложить по пунктирной линии? (ч. 2)" [ref=e582] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/61e9ace207243e10a0a774b7/
+              - generic [ref=e583] [cursor=pointer]:
+                - generic [ref=e585] [cursor=pointer]:
+                  - generic [ref=e587] [cursor=pointer]: 39.*
+                  - paragraph [ref=e589] [cursor=pointer]: Как будет выглядеть фигура, если её сложить по пунктирной линии? (ч. 2)
+                - img [ref=e592] [cursor=pointer]
+            - link "40.* Квадрат сложили и пробили отверстие. Как будет выглядеть квадрат, если его развернуть?" [ref=e594] [cursor=pointer]:
+              - /url: /learn/6113894b37e044b8a0b5a78f/6040d8d4f98c45001b5cca02/5a3cef308409440019b57b39/6139f3cb936e9c54bb29e1bd/
+              - generic [ref=e595] [cursor=pointer]:
+                - generic [ref=e597] [cursor=pointer]:
+                  - generic [ref=e599] [cursor=pointer]: 40.*
+                  - paragraph [ref=e601] [cursor=pointer]: Квадрат сложили и пробили отверстие. Как будет выглядеть квадрат, если его развернуть?
+                - img [ref=e604] [cursor=pointer]
+  - generic [ref=e607]:
+    - generic [ref=e608]:
+      - generic [ref=e609]:
+        - generic [ref=e613]:
+          - img [ref=e615]
+          - link "8 (800) 600-44-02" [ref=e617] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e618]:
+          - generic [ref=e619]: "@"
+          - link "info@ismart.org" [ref=e620] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e621]:
+          - img [ref=e623]
+          - generic [ref=e625]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e626]:
+        - link "Наш сайт" [ref=e629] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e631] [cursor=pointer]
+        - generic [ref=e633]:
+          - link "Лицензия" [ref=e635] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e637] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e639] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e641] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e643] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e645]:
+      - generic [ref=e646]:
+        - link [ref=e647] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e651] [cursor=pointer]
+        - generic [ref=e654]:
+          - link "okIcon" [ref=e655] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e656] [cursor=pointer]
+          - link "dzenIcon" [ref=e657] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e658] [cursor=pointer]
+          - link "vkIcon" [ref=e659] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e660] [cursor=pointer]
+      - generic [ref=e662]:
+        - generic [ref=e664]:
+          - generic [ref=e665]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e666] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e667]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e668] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e669]:
+          - generic [ref=e670]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e671] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e672]: © iSmart, 2018-2026
+```

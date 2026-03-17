@@ -1,0 +1,271 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Русский язык
+      - generic [ref=e21]: Задания для повторения и закрепления учебного материала
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - button "2" [ref=e28]:
+          - img [ref=e32]
+          - text: "2"
+        - button "3" [ref=e34] [cursor=pointer]:
+          - img [ref=e38] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e40] [cursor=pointer]:
+          - img [ref=e44] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e46] [cursor=pointer]:
+          - img [ref=e50] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e52] [cursor=pointer]:
+          - img [ref=e56] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e58] [cursor=pointer]:
+          - img [ref=e62] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e64] [cursor=pointer]:
+          - img [ref=e68] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e70] [cursor=pointer]:
+          - img [ref=e74] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e76] [cursor=pointer]:
+          - img [ref=e80] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e82] [cursor=pointer]:
+          - img [ref=e86] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e89]:
+        - generic [ref=e93]:
+          - img [ref=e96]
+          - textbox "Поиск по подтемам" [ref=e99]
+        - generic [ref=e100]:
+          - generic [ref=e101]:
+            - generic [ref=e102] [cursor=pointer]:
+              - generic [ref=e104] [cursor=pointer]: Темы
+              - button [ref=e106] [cursor=pointer]:
+                - img [ref=e108] [cursor=pointer]
+            - generic [ref=e111] [cursor=pointer]:
+              - generic [ref=e114] [cursor=pointer]: "1 неделя: «В мире звуков»"
+              - img [ref=e116] [cursor=pointer]
+            - generic [ref=e118] [cursor=pointer]:
+              - generic [ref=e121] [cursor=pointer]: "2 неделя: «От буквы к смыслу»"
+              - img [ref=e123] [cursor=pointer]
+            - generic [ref=e125] [cursor=pointer]:
+              - generic [ref=e128] [cursor=pointer]: "3 неделя: «Корень, окончание, приставка»"
+              - img [ref=e130] [cursor=pointer]
+            - generic [ref=e132] [cursor=pointer]:
+              - generic [ref=e135] [cursor=pointer]: "4 неделя: «Суффиксы и имя существительное»"
+              - img [ref=e137] [cursor=pointer]
+            - generic [ref=e139] [cursor=pointer]:
+              - generic [ref=e142] [cursor=pointer]: "5 неделя: «Имя существительное и прилагательное: род и число»"
+              - img [ref=e144] [cursor=pointer]
+            - generic [ref=e146] [cursor=pointer]:
+              - generic [ref=e149] [cursor=pointer]: "6 неделя: «Глаголы и их помощники»"
+              - img [ref=e151] [cursor=pointer]
+            - generic [ref=e153] [cursor=pointer]:
+              - generic [ref=e156] [cursor=pointer]: "7 неделя: «Предложение и его основа»"
+              - img [ref=e158] [cursor=pointer]
+            - generic [ref=e160] [cursor=pointer]:
+              - generic [ref=e163] [cursor=pointer]: "8 неделя: «Орфография: первые правила»"
+              - img [ref=e165] [cursor=pointer]
+            - generic [ref=e167] [cursor=pointer]:
+              - generic [ref=e170] [cursor=pointer]: "9 неделя: «Орфография: сложные случаи»"
+              - img [ref=e172] [cursor=pointer]
+            - generic [ref=e174] [cursor=pointer]:
+              - generic [ref=e177] [cursor=pointer]: "10 неделя: «Текст и работа с ним»"
+              - img [ref=e179] [cursor=pointer]
+            - generic [ref=e181] [cursor=pointer]:
+              - generic [ref=e184] [cursor=pointer]: "11 неделя: «Словарный марафон: от А до П»"
+              - img [ref=e186] [cursor=pointer]
+            - generic [ref=e188] [cursor=pointer]:
+              - generic [ref=e191] [cursor=pointer]: "12 неделя: «Словарный финиш: от Р до Я»"
+              - img [ref=e193] [cursor=pointer]
+          - generic [ref=e199]:
+            - link "1. Как звуки обозначаются буквами?" [ref=e200] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b009fcdf5a1f00072c36eb/
+              - generic [ref=e201] [cursor=pointer]:
+                - generic [ref=e203] [cursor=pointer]:
+                  - generic [ref=e205] [cursor=pointer]: "1."
+                  - paragraph [ref=e207] [cursor=pointer]: Как звуки обозначаются буквами?
+                - img [ref=e210] [cursor=pointer]
+            - link "2. Какие буквы обозначают гласные звуки?" [ref=e212] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00a0cdf5a1f00072c3c4b/
+              - generic [ref=e213] [cursor=pointer]:
+                - generic [ref=e215] [cursor=pointer]:
+                  - generic [ref=e217] [cursor=pointer]: "2."
+                  - paragraph [ref=e219] [cursor=pointer]: Какие буквы обозначают гласные звуки?
+                - img [ref=e222] [cursor=pointer]
+            - link "3. Как обозначаются на письме ударные и безударные звуки?" [ref=e224] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00a1cdf5a1f00072c462f/
+              - generic [ref=e225] [cursor=pointer]:
+                - generic [ref=e227] [cursor=pointer]:
+                  - generic [ref=e229] [cursor=pointer]: "3."
+                  - paragraph [ref=e231] [cursor=pointer]: Как обозначаются на письме ударные и безударные звуки?
+                - img [ref=e234] [cursor=pointer]
+            - link "4. Как определить ударный слог?" [ref=e236] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00a2edf5a1f00072c4c95/
+              - generic [ref=e237] [cursor=pointer]:
+                - generic [ref=e239] [cursor=pointer]:
+                  - generic [ref=e241] [cursor=pointer]: "4."
+                  - paragraph [ref=e243] [cursor=pointer]: Как определить ударный слог?
+                - img [ref=e246] [cursor=pointer]
+            - link "5. Как ударение влияет на лексическое значение слова?" [ref=e248] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00a4edf5a1f00072c5653/
+              - generic [ref=e249] [cursor=pointer]:
+                - generic [ref=e251] [cursor=pointer]:
+                  - generic [ref=e253] [cursor=pointer]: "5."
+                  - paragraph [ref=e255] [cursor=pointer]: Как ударение влияет на лексическое значение слова?
+                - img [ref=e258] [cursor=pointer]
+            - link "6. Как разделить слова на слоги?" [ref=e260] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00a6edf5a1f00072c619c/
+              - generic [ref=e261] [cursor=pointer]:
+                - generic [ref=e263] [cursor=pointer]:
+                  - generic [ref=e265] [cursor=pointer]: "6."
+                  - paragraph [ref=e267] [cursor=pointer]: Как разделить слова на слоги?
+                - img [ref=e270] [cursor=pointer]
+            - link "7. Какие буквы обозначают согласные звуки?" [ref=e272] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00a89df5a1f00072c6a4d/
+              - generic [ref=e273] [cursor=pointer]:
+                - generic [ref=e275] [cursor=pointer]:
+                  - generic [ref=e277] [cursor=pointer]: "7."
+                  - paragraph [ref=e279] [cursor=pointer]: Какие буквы обозначают согласные звуки?
+                - img [ref=e282] [cursor=pointer]
+            - link "8. Как обозначаются на письме твёрдые и мягкие согласные звуки?" [ref=e284] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00aa2df5a1f00072c70f8/
+              - generic [ref=e285] [cursor=pointer]:
+                - generic [ref=e287] [cursor=pointer]:
+                  - generic [ref=e289] [cursor=pointer]: "8."
+                  - paragraph [ref=e291] [cursor=pointer]: Как обозначаются на письме твёрдые и мягкие согласные звуки?
+                - img [ref=e294] [cursor=pointer]
+            - link "9. Какие согласные звуки образуют пары по твёрдости-мягкости?" [ref=e296] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00ab2df5a1f00072c76cf/
+              - generic [ref=e297] [cursor=pointer]:
+                - generic [ref=e299] [cursor=pointer]:
+                  - generic [ref=e301] [cursor=pointer]: "9."
+                  - paragraph [ref=e303] [cursor=pointer]: Какие согласные звуки образуют пары по твёрдости-мягкости?
+                - img [ref=e306] [cursor=pointer]
+            - link "10. Какие «работы» в слове выполняет мягкий знак (ь)?" [ref=e308] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00acbdf5a1f00072c7e1b/
+              - generic [ref=e309] [cursor=pointer]:
+                - generic [ref=e311] [cursor=pointer]:
+                  - generic [ref=e313] [cursor=pointer]: "10."
+                  - paragraph [ref=e315] [cursor=pointer]: Какие «работы» в слове выполняет мягкий знак (ь)?
+                - img [ref=e318] [cursor=pointer]
+            - link "11. Как обозначаются на письме звонкие и глухие согласные звуки? (ч. 1)" [ref=e320] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00adbdf5a1f00072c840e/
+              - generic [ref=e321] [cursor=pointer]:
+                - generic [ref=e323] [cursor=pointer]:
+                  - generic [ref=e325] [cursor=pointer]: "11."
+                  - paragraph [ref=e327] [cursor=pointer]: Как обозначаются на письме звонкие и глухие согласные звуки? (ч. 1)
+                - img [ref=e330] [cursor=pointer]
+            - link "12. Как обозначаются на письме звонкие и глухие согласные звуки? (ч. 2)" [ref=e332] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00aebdf5a1f00072c899d/
+              - generic [ref=e333] [cursor=pointer]:
+                - generic [ref=e335] [cursor=pointer]:
+                  - generic [ref=e337] [cursor=pointer]: "12."
+                  - paragraph [ref=e339] [cursor=pointer]: Как обозначаются на письме звонкие и глухие согласные звуки? (ч. 2)
+                - img [ref=e342] [cursor=pointer]
+            - link "13. Какие согласные звуки образуют пары по глухости-звонкости?" [ref=e344] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00afbdf5a1f00072c918d/
+              - generic [ref=e345] [cursor=pointer]:
+                - generic [ref=e347] [cursor=pointer]:
+                  - generic [ref=e349] [cursor=pointer]: "13."
+                  - paragraph [ref=e351] [cursor=pointer]: Какие согласные звуки образуют пары по глухости-звонкости?
+                - img [ref=e354] [cursor=pointer]
+            - link "14. Какие звонкие согласные звуки не образуют пары?" [ref=e356] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00b0adf5a1f00072c97df/
+              - generic [ref=e357] [cursor=pointer]:
+                - generic [ref=e359] [cursor=pointer]:
+                  - generic [ref=e361] [cursor=pointer]: "14."
+                  - paragraph [ref=e363] [cursor=pointer]: Какие звонкие согласные звуки не образуют пары?
+                - img [ref=e366] [cursor=pointer]
+            - link "15. Какие глухие согласные звуки не образуют пары?" [ref=e368] [cursor=pointer]:
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00b1ddf5a1f00072ca148/
+              - generic [ref=e369] [cursor=pointer]:
+                - generic [ref=e371] [cursor=pointer]:
+                  - generic [ref=e373] [cursor=pointer]: "15."
+                  - paragraph [ref=e375] [cursor=pointer]: Какие глухие согласные звуки не образуют пары?
+                - img [ref=e378] [cursor=pointer]
+            - 'link "16. Когда звук [й`] обозначается буквой Й?" [active] [ref=e380] [cursor=pointer]':
+              - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/69b00b324c93dc0008ef50ed/
+              - generic [ref=e381] [cursor=pointer]:
+                - generic [ref=e383] [cursor=pointer]:
+                  - generic [ref=e385] [cursor=pointer]: "16."
+                  - paragraph [ref=e387] [cursor=pointer]: "Когда звук [й`] обозначается буквой Й?"
+                - img [ref=e390] [cursor=pointer]
+  - generic [ref=e393]:
+    - generic [ref=e394]:
+      - generic [ref=e395]:
+        - generic [ref=e399]:
+          - img [ref=e401]
+          - link "8 (800) 600-44-02" [ref=e403] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e404]:
+          - generic [ref=e405]: "@"
+          - link "info@ismart.org" [ref=e406] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e407]:
+          - img [ref=e409]
+          - generic [ref=e411]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e412]:
+        - link "Наш сайт" [ref=e415] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e417] [cursor=pointer]
+        - generic [ref=e419]:
+          - link "Лицензия" [ref=e421] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e423] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e425] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e427] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e429] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e431]:
+      - generic [ref=e432]:
+        - link [ref=e433] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e437] [cursor=pointer]
+        - generic [ref=e440]:
+          - link "okIcon" [ref=e441] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e442] [cursor=pointer]
+          - link "dzenIcon" [ref=e443] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e444] [cursor=pointer]
+          - link "vkIcon" [ref=e445] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e446] [cursor=pointer]
+      - generic [ref=e448]:
+        - generic [ref=e450]:
+          - generic [ref=e451]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e452] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e453]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e454] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e455]:
+          - generic [ref=e456]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e457] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e458]: © iSmart, 2018-2026
+```

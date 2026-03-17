@@ -1,0 +1,120 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                  - button "4" [ref=e48] [cursor=pointer]
+                  - button "5" [ref=e51] [cursor=pointer]
+                  - button "6" [ref=e54] [cursor=pointer]
+                  - button "7" [ref=e57] [cursor=pointer]
+                  - button "8" [ref=e60] [cursor=pointer]
+                - generic [ref=e61]:
+                  - button [disabled] [ref=e62]:
+                    - img [ref=e64]
+                  - button [disabled] [ref=e67]:
+                    - img [ref=e69]
+            - generic [ref=e72]:
+              - generic [ref=e74]:
+                - img [ref=e78]
+                - heading "Внесите ответы в специально предназначенные поля." [level=4] [ref=e80]:
+                  - generic [ref=e82]: Внесите ответы в специально предназначенные поля.
+              - generic [ref=e84]:
+                - img "decore" [ref=e87]
+                - generic [ref=e93]:
+                  - text: Напряжение на конденсаторе изменяется по закону
+                  - generic [ref=e95]:
+                    - math [ref=e97]:
+                      - generic [ref=e99]:
+                        - generic [ref=e100]: U
+                        - generic [ref=e101]: =
+                        - generic [ref=e102]: "10"
+                        - generic [ref=e103]: c
+                        - generic [ref=e104]: o
+                        - generic [ref=e105]: s
+                        - generic [ref=e106]: (
+                        - generic [ref=e107]: "5"
+                        - generic [ref=e108]: t
+                        - generic [ref=e109]: )
+                    - generic [ref=e110]:
+                      - generic [ref=e111]:
+                        - generic [ref=e112]: U
+                        - generic [ref=e113]: =
+                      - generic [ref=e114]:
+                        - generic [ref=e115]: "10"
+                        - generic [ref=e116]: cos
+                        - generic [ref=e117]: (
+                        - generic [ref=e118]: "5"
+                        - generic [ref=e119]: t
+                        - generic [ref=e120]: )
+                  - text: . В каких пределах изменяется напряжение на конденсаторе?
+              - generic [ref=e125]:
+                - text: Минимальное значение
+                - textbox [ref=e126]
+                - text: В.
+                - text: Максимальное значение
+                - textbox [ref=e127]
+                - text: В.
+        - generic [ref=e133]:
+          - generic [ref=e136]:
+            - button [disabled] [ref=e138]:
+              - img [ref=e140]
+            - generic [ref=e143]: 100%
+            - button [ref=e145] [cursor=pointer]:
+              - img [ref=e147] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e152] [cursor=pointer]:
+            - generic [ref=e155] [cursor=pointer]: "2"
+            - generic [ref=e156] [cursor=pointer]: Показать подсказку
+      - generic [ref=e160]:
+        - generic [ref=e163]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e169] [cursor=pointer]:
+          - img [ref=e172] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e174]:
+          - generic [ref=e176]:
+            - button "Черновик" [ref=e177] [cursor=pointer]:
+              - img [ref=e180] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e183] [cursor=pointer]:
+              - img [ref=e186] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e188]:
+              - button "Часто задаваемые вопросы" [ref=e190] [cursor=pointer]:
+                - img [ref=e193] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e195]:
+                - button "Информация об уроке" [ref=e197] [cursor=pointer]:
+                  - img [ref=e200] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e202]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e203]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e204] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e207] [cursor=pointer]
+```

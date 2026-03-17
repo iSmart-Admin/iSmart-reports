@@ -1,0 +1,241 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Литература 2.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "5" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e49]:
+          - img [ref=e53]
+          - text: "9"
+        - button "10" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e61] [cursor=pointer]:
+          - img [ref=e65] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e68]:
+        - generic [ref=e72]:
+          - img [ref=e75]
+          - textbox "Поиск по подтемам" [ref=e78]
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic [ref=e81] [cursor=pointer]:
+              - generic [ref=e83] [cursor=pointer]: Темы
+              - button [ref=e85] [cursor=pointer]:
+                - img [ref=e87] [cursor=pointer]
+            - generic [ref=e89] [cursor=pointer]:
+              - generic [ref=e92] [cursor=pointer]: Древнерусская литература. «Слово о полку Игореве»
+              - img [ref=e94] [cursor=pointer]
+            - generic [ref=e96] [cursor=pointer]:
+              - generic [ref=e99] [cursor=pointer]: Литература XVIII века. М.В. Ломоносов. Лирика
+              - img [ref=e101] [cursor=pointer]
+            - generic [ref=e103] [cursor=pointer]:
+              - generic [ref=e106] [cursor=pointer]: Литература XVIII века. Г.Р. Державин. Лирика
+              - img [ref=e108] [cursor=pointer]
+            - generic [ref=e110] [cursor=pointer]:
+              - generic [ref=e113] [cursor=pointer]: Литература XVIII века. Н.М. Карамзин. Повесть «Бедная Лиза»
+              - img [ref=e115] [cursor=pointer]
+            - generic [ref=e117] [cursor=pointer]:
+              - generic [ref=e120] [cursor=pointer]: Литература первой половины XIX века. В. А. Жуковский. Лирика. Баллада «Светлана»
+              - img [ref=e122] [cursor=pointer]
+            - generic [ref=e124] [cursor=pointer]:
+              - generic [ref=e127] [cursor=pointer]: Литература первой половины XIX века. А. С. Грибоедов. Комедия «Горе от ума»
+              - img [ref=e129] [cursor=pointer]
+            - generic [ref=e131] [cursor=pointer]:
+              - generic [ref=e134] [cursor=pointer]: Литература первой половины XIX века. Поэзия пушкинской эпохи
+              - img [ref=e136] [cursor=pointer]
+            - generic [ref=e138] [cursor=pointer]:
+              - generic [ref=e141] [cursor=pointer]: Литература первой половины XIX века. А.С. Пушкин. Лирика. Поэма «Медный всадник». Роман «Евгений Онегин»
+              - img [ref=e143] [cursor=pointer]
+            - generic [ref=e146] [cursor=pointer]:
+              - generic [ref=e149] [cursor=pointer]: Литература первой половины XIX века. М.Ю. Лермонтов. Лирика. Роман «Герой нашего времени»
+              - img [ref=e151] [cursor=pointer]
+            - generic [ref=e153] [cursor=pointer]:
+              - generic [ref=e156] [cursor=pointer]: Литература первой половины XIX века. Н.В. Гоголь. Поэма «Мёртвые души»
+              - img [ref=e158] [cursor=pointer]
+            - generic [ref=e160] [cursor=pointer]:
+              - generic [ref=e163] [cursor=pointer]: Зарубежная литература. Данте Алигьери. «Божественная комедия»
+              - img [ref=e165] [cursor=pointer]
+            - generic [ref=e167] [cursor=pointer]:
+              - generic [ref=e170] [cursor=pointer]: Зарубежная литература. У. Шекспир. Трагедия «Гамлет»
+              - img [ref=e172] [cursor=pointer]
+            - generic [ref=e174] [cursor=pointer]:
+              - generic [ref=e177] [cursor=pointer]: Зарубежная литература. И.-В. Гёте. Трагедия «Фауст»
+              - img [ref=e179] [cursor=pointer]
+            - generic [ref=e181] [cursor=pointer]:
+              - generic [ref=e184] [cursor=pointer]: Зарубежная литература. Дж. Г. Байрон. Стихотворения «Душа моя мрачна. Скорей, певец, скорей!..», «Прощание Наполеона» и др.
+              - img [ref=e186] [cursor=pointer]
+            - generic [ref=e188] [cursor=pointer]:
+              - generic [ref=e191] [cursor=pointer]: Зарубежная проза первой половины XIX
+              - img [ref=e193] [cursor=pointer]
+          - generic [ref=e199]:
+            - link "1. М. Ю. Лермонтов. Жизнь и творчество" [ref=e200] [cursor=pointer]:
+              - /url: /learn/69ad9043b5ec3d00070e2439/69ad8e49b5ec3d00070d8a67/68ab5e71d608c0000717fbf8/69ad8eabb5ec3d00070dc5c4/
+              - generic [ref=e201] [cursor=pointer]:
+                - generic [ref=e203] [cursor=pointer]:
+                  - generic [ref=e205] [cursor=pointer]: "1."
+                  - paragraph [ref=e207] [cursor=pointer]: М. Ю. Лермонтов. Жизнь и творчество
+                - img [ref=e210] [cursor=pointer]
+            - link "2. Тема назначения поэта и поэзии. Стихотворение «Смерть поэта»" [ref=e212] [cursor=pointer]:
+              - /url: /learn/69ad9043b5ec3d00070e2439/69ad8e49b5ec3d00070d8a67/68ab5e71d608c0000717fbf8/69ad8eabb5ec3d00070dc5c5/
+              - generic [ref=e213] [cursor=pointer]:
+                - generic [ref=e215] [cursor=pointer]:
+                  - generic [ref=e217] [cursor=pointer]: "2."
+                  - paragraph [ref=e219] [cursor=pointer]: Тема назначения поэта и поэзии. Стихотворение «Смерть поэта»
+                - img [ref=e222] [cursor=pointer]
+            - link "3. Тема любви в лирике поэта" [ref=e224] [cursor=pointer]:
+              - /url: /learn/69ad9043b5ec3d00070e2439/69ad8e49b5ec3d00070d8a67/68ab5e71d608c0000717fbf8/69ad8eabb5ec3d00070dc5c3/
+              - generic [ref=e225] [cursor=pointer]:
+                - generic [ref=e227] [cursor=pointer]:
+                  - generic [ref=e229] [cursor=pointer]: "3."
+                  - paragraph [ref=e231] [cursor=pointer]: Тема любви в лирике поэта
+                - img [ref=e234] [cursor=pointer]
+            - link "4. Тема родины в лирике поэта. Стихотворения «Дума», «Родина»" [ref=e236] [cursor=pointer]:
+              - /url: /learn/69ad9043b5ec3d00070e2439/69ad8e49b5ec3d00070d8a67/68ab5e71d608c0000717fbf8/69ad8eabb5ec3d00070dc5c6/
+              - generic [ref=e237] [cursor=pointer]:
+                - generic [ref=e239] [cursor=pointer]:
+                  - generic [ref=e241] [cursor=pointer]: "4."
+                  - paragraph [ref=e243] [cursor=pointer]: Тема родины в лирике поэта. Стихотворения «Дума», «Родина»
+                - img [ref=e246] [cursor=pointer]
+            - link "5. Философский характер лирики поэта. «Выхожу один я на дорогу…»" [ref=e248] [cursor=pointer]:
+              - /url: /learn/69ad9043b5ec3d00070e2439/69ad8e49b5ec3d00070d8a67/68ab5e71d608c0000717fbf8/69ad8eabb5ec3d00070dc5c7/
+              - generic [ref=e249] [cursor=pointer]:
+                - generic [ref=e251] [cursor=pointer]:
+                  - generic [ref=e253] [cursor=pointer]: "5."
+                  - paragraph [ref=e255] [cursor=pointer]: Философский характер лирики поэта. «Выхожу один я на дорогу…»
+                - img [ref=e258] [cursor=pointer]
+            - 'link "6. Роман «Герой нашего времени»: тема, проблема, сюжет и композиция" [ref=e260] [cursor=pointer]':
+              - /url: /learn/69ad9043b5ec3d00070e2439/69ad8e49b5ec3d00070d8a67/68ab5e71d608c0000717fbf8/69ad8eabb5ec3d00070dc5c8/
+              - generic [ref=e261] [cursor=pointer]:
+                - generic [ref=e263] [cursor=pointer]:
+                  - generic [ref=e265] [cursor=pointer]: "6."
+                  - paragraph [ref=e267] [cursor=pointer]: "Роман «Герой нашего времени»: тема, проблема, сюжет и композиция"
+                - img [ref=e270] [cursor=pointer]
+            - link "7. Загадки образа Печорина" [ref=e272] [cursor=pointer]:
+              - /url: /learn/69ad9043b5ec3d00070e2439/69ad8e49b5ec3d00070d8a67/68ab5e71d608c0000717fbf8/69ad8eabb5ec3d00070dc5c9/
+              - generic [ref=e273] [cursor=pointer]:
+                - generic [ref=e275] [cursor=pointer]:
+                  - generic [ref=e277] [cursor=pointer]: "7."
+                  - paragraph [ref=e279] [cursor=pointer]: Загадки образа Печорина
+                - img [ref=e282] [cursor=pointer]
+            - link "8. Мир горцев и их образы в романе" [ref=e284] [cursor=pointer]:
+              - /url: /learn/69ad9043b5ec3d00070e2439/69ad8e49b5ec3d00070d8a67/68ab5e71d608c0000717fbf8/69ad8eabb5ec3d00070dc5ca/
+              - generic [ref=e285] [cursor=pointer]:
+                - generic [ref=e287] [cursor=pointer]:
+                  - generic [ref=e289] [cursor=pointer]: "8."
+                  - paragraph [ref=e291] [cursor=pointer]: Мир горцев и их образы в романе
+                - img [ref=e294] [cursor=pointer]
+            - link "9. «Водяное общество» в романе" [ref=e296] [cursor=pointer]:
+              - /url: /learn/69ad9043b5ec3d00070e2439/69ad8e49b5ec3d00070d8a67/68ab5e71d608c0000717fbf8/69ad8eabb5ec3d00070dc5cb/
+              - generic [ref=e297] [cursor=pointer]:
+                - generic [ref=e299] [cursor=pointer]:
+                  - generic [ref=e301] [cursor=pointer]: "9."
+                  - paragraph [ref=e303] [cursor=pointer]: «Водяное общество» в романе
+                - img [ref=e306] [cursor=pointer]
+            - link "10. Мир «честных контрабандистов» в романе" [ref=e308] [cursor=pointer]:
+              - /url: /learn/69ad9043b5ec3d00070e2439/69ad8e49b5ec3d00070d8a67/68ab5e71d608c0000717fbf8/69ad8eabb5ec3d00070dc5cc/
+              - generic [ref=e309] [cursor=pointer]:
+                - generic [ref=e311] [cursor=pointer]:
+                  - generic [ref=e313] [cursor=pointer]: "10."
+                  - paragraph [ref=e315] [cursor=pointer]: Мир «честных контрабандистов» в романе
+                - img [ref=e318] [cursor=pointer]
+            - link "11. Образ природы в романе" [ref=e320] [cursor=pointer]:
+              - /url: /learn/69ad9043b5ec3d00070e2439/69ad8e49b5ec3d00070d8a67/68ab5e71d608c0000717fbf8/69ad8eabb5ec3d00070dc5cd/
+              - generic [ref=e321] [cursor=pointer]:
+                - generic [ref=e323] [cursor=pointer]:
+                  - generic [ref=e325] [cursor=pointer]: "11."
+                  - paragraph [ref=e327] [cursor=pointer]: Образ природы в романе
+                - img [ref=e330] [cursor=pointer]
+            - link "12. Роман в критике В.Г. Белинского" [active] [ref=e332] [cursor=pointer]:
+              - /url: /learn/69ad9043b5ec3d00070e2439/69ad8e49b5ec3d00070d8a67/68ab5e71d608c0000717fbf8/69ad8eabb5ec3d00070dc5ce/
+              - generic [ref=e333] [cursor=pointer]:
+                - generic [ref=e335] [cursor=pointer]:
+                  - generic [ref=e337] [cursor=pointer]: "12."
+                  - paragraph [ref=e339] [cursor=pointer]: Роман в критике В.Г. Белинского
+                - img [ref=e342] [cursor=pointer]
+  - generic [ref=e345]:
+    - generic [ref=e346]:
+      - generic [ref=e347]:
+        - generic [ref=e351]:
+          - img [ref=e353]
+          - link "8 (800) 600-44-02" [ref=e355] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e356]:
+          - generic [ref=e357]: "@"
+          - link "info@ismart.org" [ref=e358] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e359]:
+          - img [ref=e361]
+          - generic [ref=e363]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e364]:
+        - link "Наш сайт" [ref=e367] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e369] [cursor=pointer]
+        - generic [ref=e371]:
+          - link "Лицензия" [ref=e373] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e375] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e377] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e379] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e381] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e383]:
+      - generic [ref=e384]:
+        - link [ref=e385] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e389] [cursor=pointer]
+        - generic [ref=e392]:
+          - link "okIcon" [ref=e393] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e394] [cursor=pointer]
+          - link "dzenIcon" [ref=e395] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e396] [cursor=pointer]
+          - link "vkIcon" [ref=e397] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e398] [cursor=pointer]
+      - generic [ref=e400]:
+        - generic [ref=e402]:
+          - generic [ref=e403]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e404] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e405]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e406] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e407]:
+          - generic [ref=e408]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e409] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e410]: © iSmart, 2018-2026
+```

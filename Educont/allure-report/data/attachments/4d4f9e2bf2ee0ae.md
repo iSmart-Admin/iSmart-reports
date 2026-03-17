@@ -1,0 +1,256 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Рейтинг" [ref=e21] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e24] [cursor=pointer]: Рейтинг
+      - link "Диагностика" [ref=e27] [cursor=pointer]:
+        - /url: /diagnostics
+        - generic [ref=e30] [cursor=pointer]: Диагностика
+      - link "Магазин" [ref=e33] [cursor=pointer]:
+        - /url: /shop/offers
+        - generic [ref=e36] [cursor=pointer]: Магазин
+      - link "Помощник" [ref=e39] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e42] [cursor=pointer]: Помощник
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - button [ref=e47] [cursor=pointer]:
+          - img [ref=e49] [cursor=pointer]
+        - img [ref=e54] [cursor=pointer]
+      - generic [ref=e56] [cursor=pointer]:
+        - generic [ref=e59] [cursor=pointer]: "?"
+        - generic [ref=e60] [cursor=pointer]:
+          - paragraph
+          - paragraph [ref=e61] [cursor=pointer]: Гость
+        - img [ref=e63] [cursor=pointer]
+  - generic [ref=e67]:
+    - generic [ref=e69]:
+      - button [ref=e70] [cursor=pointer]:
+        - img [ref=e72] [cursor=pointer]
+      - generic [ref=e75]:
+        - generic [ref=e76]: Английский язык
+        - generic [ref=e78]: Задания для повторения и закрепления учебного материала
+    - generic [ref=e82]:
+      - generic [ref=e83]:
+        - heading "Купить со скидкой" [level=1] [ref=e84]
+        - heading "-70%" [level=1] [ref=e85]
+      - button "В магазин" [ref=e87] [cursor=pointer]:
+        - text: В магазин
+        - img [ref=e90] [cursor=pointer]
+    - generic [ref=e92]:
+      - generic [ref=e97]:
+        - button "2" [ref=e98]:
+          - img [ref=e102]
+          - text: "2"
+        - button "3" [ref=e104] [cursor=pointer]:
+          - img [ref=e108] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e110] [cursor=pointer]:
+          - img [ref=e114] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e116] [cursor=pointer]:
+          - img [ref=e120] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e122] [cursor=pointer]:
+          - img [ref=e126] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e128] [cursor=pointer]:
+          - img [ref=e132] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e134] [cursor=pointer]:
+          - img [ref=e138] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e140] [cursor=pointer]:
+          - img [ref=e144] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e146] [cursor=pointer]:
+          - img [ref=e150] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e152] [cursor=pointer]:
+          - img [ref=e156] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e159]:
+        - generic [ref=e163]:
+          - img [ref=e166]
+          - textbox "Поиск по подтемам" [ref=e169]
+        - generic [ref=e170]:
+          - generic [ref=e171]:
+            - generic [ref=e172] [cursor=pointer]:
+              - generic [ref=e174] [cursor=pointer]: Темы
+              - button [ref=e176] [cursor=pointer]:
+                - img [ref=e178] [cursor=pointer]
+            - generic [ref=e181] [cursor=pointer]:
+              - generic [ref=e184] [cursor=pointer]: "1 неделя: «Знакомимся и говорим о семье»"
+              - img [ref=e186] [cursor=pointer]
+            - generic [ref=e188] [cursor=pointer]:
+              - generic [ref=e191] [cursor=pointer]: "2 неделя: «Кто я и что у меня есть»"
+              - img [ref=e193] [cursor=pointer]
+            - generic [ref=e195] [cursor=pointer]:
+              - generic [ref=e198] [cursor=pointer]: "3 неделя: «Что это и где это»"
+              - img [ref=e200] [cursor=pointer]
+            - generic [ref=e202] [cursor=pointer]:
+              - generic [ref=e205] [cursor=pointer]: "4 неделя: «Любимая еда и формы слов. Празднуем! »"
+              - img [ref=e207] [cursor=pointer]
+            - generic [ref=e209] [cursor=pointer]:
+              - generic [ref=e212] [cursor=pointer]: "5 неделя: «Грамматика и цвет»"
+              - img [ref=e214] [cursor=pointer]
+            - generic [ref=e216] [cursor=pointer]:
+              - generic [ref=e219] [cursor=pointer]: "6 неделя: «Я играю»"
+              - img [ref=e221] [cursor=pointer]
+            - generic [ref=e223] [cursor=pointer]:
+              - generic [ref=e226] [cursor=pointer]: "7 неделя: «Школа»"
+              - img [ref=e228] [cursor=pointer]
+            - generic [ref=e230] [cursor=pointer]:
+              - generic [ref=e233] [cursor=pointer]: "8 неделя: «Я и дом»"
+              - img [ref=e235] [cursor=pointer]
+            - generic [ref=e237] [cursor=pointer]:
+              - generic [ref=e240] [cursor=pointer]: "9 неделя: «Мой мир»"
+              - img [ref=e242] [cursor=pointer]
+            - generic [ref=e244] [cursor=pointer]:
+              - generic [ref=e247] [cursor=pointer]: "10 неделя: «О важном»"
+              - img [ref=e249] [cursor=pointer]
+            - generic [ref=e251] [cursor=pointer]:
+              - generic [ref=e254] [cursor=pointer]: "11 неделя: «Родная страна и страны изучаемого языка»"
+              - img [ref=e256] [cursor=pointer]
+            - generic [ref=e258] [cursor=pointer]:
+              - generic [ref=e261] [cursor=pointer]: "12 неделя: «Родная страна и страны изучаемого языка»"
+              - img [ref=e263] [cursor=pointer]
+          - generic [ref=e269]:
+            - link "1. Алфавит. Порядок букв в алфавите" [ref=e270] [cursor=pointer]:
+              - /url: /learn/67c9844ce145d8000746e988/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/6980e75ff982910007bb259e/
+              - generic [ref=e271] [cursor=pointer]:
+                - generic [ref=e273] [cursor=pointer]:
+                  - generic [ref=e275] [cursor=pointer]: "1."
+                  - paragraph [ref=e277] [cursor=pointer]: Алфавит. Порядок букв в алфавите
+                - img [ref=e280] [cursor=pointer]
+            - link "2. Алфавит. Заглавные и строчные буквы" [ref=e282] [cursor=pointer]:
+              - /url: /learn/67c9844ce145d8000746e988/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/6980e779f982910007bb2f52/
+              - generic [ref=e283] [cursor=pointer]:
+                - generic [ref=e285] [cursor=pointer]:
+                  - generic [ref=e287] [cursor=pointer]: "2."
+                  - paragraph [ref=e289] [cursor=pointer]: Алфавит. Заглавные и строчные буквы
+                - img [ref=e292] [cursor=pointer]
+            - link "3. Алфавит. Воспроизведение букв на слух" [ref=e294] [cursor=pointer]:
+              - /url: /learn/67c9844ce145d8000746e988/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/6980e78cf982910007bb3924/
+              - generic [ref=e295] [cursor=pointer]:
+                - generic [ref=e297] [cursor=pointer]:
+                  - generic [ref=e299] [cursor=pointer]: "3."
+                  - paragraph [ref=e301] [cursor=pointer]: Алфавит. Воспроизведение букв на слух
+                - img [ref=e304] [cursor=pointer]
+            - link "4. Приветствие. Знакомство" [ref=e306] [cursor=pointer]:
+              - /url: /learn/67c9844ce145d8000746e988/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/6980e7a1f982910007bb4327/
+              - generic [ref=e307] [cursor=pointer]:
+                - generic [ref=e309] [cursor=pointer]:
+                  - generic [ref=e311] [cursor=pointer]: "4."
+                  - paragraph [ref=e313] [cursor=pointer]: Приветствие. Знакомство
+                - img [ref=e316] [cursor=pointer]
+            - link "5. Личные местоимения" [ref=e318] [cursor=pointer]:
+              - /url: /learn/67c9844ce145d8000746e988/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/6980e7bef982910007bb4c83/
+              - generic [ref=e319] [cursor=pointer]:
+                - generic [ref=e321] [cursor=pointer]:
+                  - generic [ref=e323] [cursor=pointer]: "5."
+                  - paragraph [ref=e325] [cursor=pointer]: Личные местоимения
+                - img [ref=e328] [cursor=pointer]
+            - link "6. Личные местоимения. Spelling" [ref=e330] [cursor=pointer]:
+              - /url: /learn/67c9844ce145d8000746e988/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/6980e7d1f982910007bb54fa/
+              - generic [ref=e331] [cursor=pointer]:
+                - generic [ref=e333] [cursor=pointer]:
+                  - generic [ref=e335] [cursor=pointer]: "6."
+                  - paragraph [ref=e337] [cursor=pointer]: Личные местоимения. Spelling
+                - img [ref=e340] [cursor=pointer]
+            - link "7. Моя семья. Vocabulary" [ref=e342] [cursor=pointer]:
+              - /url: /learn/67c9844ce145d8000746e988/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/6980e7e7f982910007bb5f87/
+              - generic [ref=e343] [cursor=pointer]:
+                - generic [ref=e345] [cursor=pointer]:
+                  - generic [ref=e347] [cursor=pointer]: "7."
+                  - paragraph [ref=e349] [cursor=pointer]: Моя семья. Vocabulary
+                - img [ref=e352] [cursor=pointer]
+            - link "8. Моя семья. Spelling" [ref=e354] [cursor=pointer]:
+              - /url: /learn/67c9844ce145d8000746e988/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/6980e810f982910007bb77a3/
+              - generic [ref=e355] [cursor=pointer]:
+                - generic [ref=e357] [cursor=pointer]:
+                  - generic [ref=e359] [cursor=pointer]: "8."
+                  - paragraph [ref=e361] [cursor=pointer]: Моя семья. Spelling
+                - img [ref=e364] [cursor=pointer]
+            - link "9. Моя семья. Listening" [ref=e366] [cursor=pointer]:
+              - /url: /learn/67c9844ce145d8000746e988/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/6980e83cf982910007bb8afd/
+              - generic [ref=e367] [cursor=pointer]:
+                - generic [ref=e369] [cursor=pointer]:
+                  - generic [ref=e371] [cursor=pointer]: "9."
+                  - paragraph [ref=e373] [cursor=pointer]: Моя семья. Listening
+                - img [ref=e376] [cursor=pointer]
+            - link "10. Обобщение по неделе 1" [ref=e378] [cursor=pointer]:
+              - /url: /learn/67c9844ce145d8000746e988/60d468f69e70371ac2dbab84/5a3cef178409440019b57b37/6980e873f982910007bba875/
+              - generic [ref=e379] [cursor=pointer]:
+                - generic [ref=e381] [cursor=pointer]:
+                  - generic [ref=e383] [cursor=pointer]: "10."
+                  - paragraph [ref=e385] [cursor=pointer]: Обобщение по неделе 1
+                - img [ref=e388] [cursor=pointer]
+  - generic [ref=e391]:
+    - generic [ref=e392]:
+      - generic [ref=e393]:
+        - generic [ref=e397]:
+          - img [ref=e399]
+          - link "8 (800) 600-44-02" [ref=e401] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e402]:
+          - generic [ref=e403]: "@"
+          - link "info@ismart.org" [ref=e404] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e405]:
+          - img [ref=e407]
+          - generic [ref=e409]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e410]:
+        - link "Наш сайт" [ref=e413] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e415] [cursor=pointer]
+        - generic [ref=e417]:
+          - link "Лицензия" [ref=e419] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e421] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e423] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e425] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e427] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e429]:
+      - generic [ref=e430]:
+        - link [ref=e431] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e435] [cursor=pointer]
+        - generic [ref=e438]:
+          - link "okIcon" [ref=e439] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e440] [cursor=pointer]
+          - link "dzenIcon" [ref=e441] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e442] [cursor=pointer]
+          - link "vkIcon" [ref=e443] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e444] [cursor=pointer]
+      - generic [ref=e446]:
+        - generic [ref=e448]:
+          - generic [ref=e449]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e450] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e451]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e452] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e453]:
+          - generic [ref=e454]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e455] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e456]: © iSmart, 2018-2026
+```

@@ -1,0 +1,275 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Нормы языка (10-11 классы)
+    - generic [ref=e20]:
+      - generic [ref=e25]:
+        - button "10" [ref=e26] [cursor=pointer]:
+          - img [ref=e30] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e32]:
+          - img [ref=e36]
+          - text: "11"
+      - generic [ref=e39]:
+        - generic [ref=e43]:
+          - img [ref=e46]
+          - textbox "Поиск по подтемам" [ref=e49]
+        - generic [ref=e50]:
+          - generic [ref=e51]:
+            - generic [ref=e52] [cursor=pointer]:
+              - generic [ref=e54] [cursor=pointer]: Темы
+              - button [ref=e56] [cursor=pointer]:
+                - img [ref=e58] [cursor=pointer]
+            - generic [ref=e61] [cursor=pointer]:
+              - generic [ref=e64] [cursor=pointer]: Что нужно знать о нормах языка?
+              - img [ref=e66] [cursor=pointer]
+          - generic [ref=e72]:
+            - link "1. Синтаксические нормы. Порядок слов в предложении" [ref=e73] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/6980894fe3db5b00075bbd5f/
+              - generic [ref=e74] [cursor=pointer]:
+                - generic [ref=e76] [cursor=pointer]:
+                  - generic [ref=e78] [cursor=pointer]: "1."
+                  - paragraph [ref=e80] [cursor=pointer]: Синтаксические нормы. Порядок слов в предложении
+                - img [ref=e83] [cursor=pointer]
+            - link "2. Синтаксические нормы. Основные нормы согласования сказуемого с подлежащим" [ref=e85] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808960e3db5b00075bcb53/
+              - generic [ref=e86] [cursor=pointer]:
+                - generic [ref=e88] [cursor=pointer]:
+                  - generic [ref=e90] [cursor=pointer]: "2."
+                  - paragraph [ref=e92] [cursor=pointer]: Синтаксические нормы. Основные нормы согласования сказуемого с подлежащим
+                - img [ref=e95] [cursor=pointer]
+            - link "3. Синтаксические нормы. Основные нормы употребления однородных членов предложения, причастных и деепричастных оборотов" [ref=e97] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808987e3db5b00075be998/
+              - generic [ref=e98] [cursor=pointer]:
+                - generic [ref=e100] [cursor=pointer]:
+                  - generic [ref=e102] [cursor=pointer]: "3."
+                  - paragraph [ref=e104] [cursor=pointer]: Синтаксические нормы. Основные нормы употребления однородных членов предложения, причастных и деепричастных оборотов
+                - img [ref=e107] [cursor=pointer]
+            - link "4. Основные нормы управления и построения сложных предложений" [ref=e109] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808996e3db5b00075bf312/
+              - generic [ref=e110] [cursor=pointer]:
+                - generic [ref=e112] [cursor=pointer]:
+                  - generic [ref=e114] [cursor=pointer]: "4."
+                  - paragraph [ref=e116] [cursor=pointer]: Основные нормы управления и построения сложных предложений
+                - img [ref=e119] [cursor=pointer]
+            - link "5. Орфоэпические нормы языка" [ref=e121] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/698089e5e3db5b00075c2a38/
+              - generic [ref=e122] [cursor=pointer]:
+                - generic [ref=e124] [cursor=pointer]:
+                  - generic [ref=e126] [cursor=pointer]: "5."
+                  - paragraph [ref=e128] [cursor=pointer]: Орфоэпические нормы языка
+                - img [ref=e131] [cursor=pointer]
+            - link "6. Лексические нормы языка (ч.1)" [ref=e133] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/698089f4e3db5b00075c34f4/
+              - generic [ref=e134] [cursor=pointer]:
+                - generic [ref=e136] [cursor=pointer]:
+                  - generic [ref=e138] [cursor=pointer]: "6."
+                  - paragraph [ref=e140] [cursor=pointer]: Лексические нормы языка (ч.1)
+                - img [ref=e143] [cursor=pointer]
+            - link "7. Лексические нормы языка (ч.2)" [ref=e145] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808a07e3db5b00075c41f3/
+              - generic [ref=e146] [cursor=pointer]:
+                - generic [ref=e148] [cursor=pointer]:
+                  - generic [ref=e150] [cursor=pointer]: "7."
+                  - paragraph [ref=e152] [cursor=pointer]: Лексические нормы языка (ч.2)
+                - img [ref=e155] [cursor=pointer]
+            - link "8. Ошибки в образовании формы слова" [ref=e157] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808a17e3db5b00075c4c47/
+              - generic [ref=e158] [cursor=pointer]:
+                - generic [ref=e160] [cursor=pointer]:
+                  - generic [ref=e162] [cursor=pointer]: "8."
+                  - paragraph [ref=e164] [cursor=pointer]: Ошибки в образовании формы слова
+                - img [ref=e167] [cursor=pointer]
+            - link "9. Грамматические ошибки в предложении" [ref=e169] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808a28e3db5b00075c5920/
+              - generic [ref=e170] [cursor=pointer]:
+                - generic [ref=e172] [cursor=pointer]:
+                  - generic [ref=e174] [cursor=pointer]: "9."
+                  - paragraph [ref=e176] [cursor=pointer]: Грамматические ошибки в предложении
+                - img [ref=e179] [cursor=pointer]
+            - link "10. Языковая норма, её признаки и функции" [ref=e181] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808a43e3db5b00075c68ca/
+              - generic [ref=e182] [cursor=pointer]:
+                - generic [ref=e184] [cursor=pointer]:
+                  - generic [ref=e186] [cursor=pointer]: "10."
+                  - paragraph [ref=e188] [cursor=pointer]: Языковая норма, её признаки и функции
+                - img [ref=e191] [cursor=pointer]
+            - link "11. Виды языковых норм" [ref=e193] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808a54e3db5b00075c72df/
+              - generic [ref=e194] [cursor=pointer]:
+                - generic [ref=e196] [cursor=pointer]:
+                  - generic [ref=e198] [cursor=pointer]: "11."
+                  - paragraph [ref=e200] [cursor=pointer]: Виды языковых норм
+                - img [ref=e203] [cursor=pointer]
+            - link "12. Нормы ударения в различных частях речи" [ref=e205] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808a69e3db5b00075c7fa3/
+              - generic [ref=e206] [cursor=pointer]:
+                - generic [ref=e208] [cursor=pointer]:
+                  - generic [ref=e210] [cursor=pointer]: "12."
+                  - paragraph [ref=e212] [cursor=pointer]: Нормы ударения в различных частях речи
+                - img [ref=e215] [cursor=pointer]
+            - link "13. Произношение безударных гласных звуков, некоторых согласных, сочетаний согласных" [ref=e217] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808a79e3db5b00075c8a06/
+              - generic [ref=e218] [cursor=pointer]:
+                - generic [ref=e220] [cursor=pointer]:
+                  - generic [ref=e222] [cursor=pointer]: "13."
+                  - paragraph [ref=e224] [cursor=pointer]: Произношение безударных гласных звуков, некоторых согласных, сочетаний согласных
+                - img [ref=e227] [cursor=pointer]
+            - link "14. Произношение некоторых грамматических форм и иноязычных слов" [ref=e229] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808a86e3db5b00075c904d/
+              - generic [ref=e230] [cursor=pointer]:
+                - generic [ref=e232] [cursor=pointer]:
+                  - generic [ref=e234] [cursor=pointer]: "14."
+                  - paragraph [ref=e236] [cursor=pointer]: Произношение некоторых грамматических форм и иноязычных слов
+                - img [ref=e239] [cursor=pointer]
+            - link "15. Изобразительно-выразительные средства лексики" [ref=e241] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808aa0e3db5b00075c9fa3/
+              - generic [ref=e242] [cursor=pointer]:
+                - generic [ref=e244] [cursor=pointer]:
+                  - generic [ref=e246] [cursor=pointer]: "15."
+                  - paragraph [ref=e248] [cursor=pointer]: Изобразительно-выразительные средства лексики
+                - img [ref=e251] [cursor=pointer]
+            - link "16. Синонимы, антонимы, паронимы и их употребление" [ref=e253] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808ab0e3db5b00075ca9c5/
+              - generic [ref=e254] [cursor=pointer]:
+                - generic [ref=e256] [cursor=pointer]:
+                  - generic [ref=e258] [cursor=pointer]: "16."
+                  - paragraph [ref=e260] [cursor=pointer]: Синонимы, антонимы, паронимы и их употребление
+                - img [ref=e263] [cursor=pointer]
+            - link "17. Функционально-стилистическая окраска слова и экспрессивно-стилистическая окраска слова" [ref=e265] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808abfe3db5b00075cb55f/
+              - generic [ref=e266] [cursor=pointer]:
+                - generic [ref=e268] [cursor=pointer]:
+                  - generic [ref=e270] [cursor=pointer]: "17."
+                  - paragraph [ref=e272] [cursor=pointer]: Функционально-стилистическая окраска слова и экспрессивно-стилистическая окраска слова
+                - img [ref=e275] [cursor=pointer]
+            - link "18. Лексическая сочетаемость" [ref=e277] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808ad0e3db5b00075cc27c/
+              - generic [ref=e278] [cursor=pointer]:
+                - generic [ref=e280] [cursor=pointer]:
+                  - generic [ref=e282] [cursor=pointer]: "18."
+                  - paragraph [ref=e284] [cursor=pointer]: Лексическая сочетаемость
+                - img [ref=e287] [cursor=pointer]
+            - link "19. Фразеология русского языка" [ref=e289] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808ae7e3db5b00075cd092/
+              - generic [ref=e290] [cursor=pointer]:
+                - generic [ref=e292] [cursor=pointer]:
+                  - generic [ref=e294] [cursor=pointer]: "19."
+                  - paragraph [ref=e296] [cursor=pointer]: Фразеология русского языка
+                - img [ref=e299] [cursor=pointer]
+            - link "20. Словообразовательные трудности и особенности употребления сложносокращённых слов" [ref=e301] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808afde3db5b00075cdfb4/
+              - generic [ref=e302] [cursor=pointer]:
+                - generic [ref=e304] [cursor=pointer]:
+                  - generic [ref=e306] [cursor=pointer]: "20."
+                  - paragraph [ref=e308] [cursor=pointer]: Словообразовательные трудности и особенности употребления сложносокращённых слов
+                - img [ref=e311] [cursor=pointer]
+            - 'link "21. Основные нормы употребления имён существительных: рода, числа, падежа" [ref=e313] [cursor=pointer]':
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808b0de3db5b00075ce606/
+              - generic [ref=e314] [cursor=pointer]:
+                - generic [ref=e316] [cursor=pointer]:
+                  - generic [ref=e318] [cursor=pointer]: "21."
+                  - paragraph [ref=e320] [cursor=pointer]: "Основные нормы употребления имён существительных: рода, числа, падежа"
+                - img [ref=e323] [cursor=pointer]
+            - 'link "22. Основные нормы употребления имён прилагательных: форм степеней сравнения, краткой формы" [ref=e325] [cursor=pointer]':
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808b1fe3db5b00075cec79/
+              - generic [ref=e326] [cursor=pointer]:
+                - generic [ref=e328] [cursor=pointer]:
+                  - generic [ref=e330] [cursor=pointer]: "22."
+                  - paragraph [ref=e332] [cursor=pointer]: "Основные нормы употребления имён прилагательных: форм степеней сравнения, краткой формы"
+                - img [ref=e335] [cursor=pointer]
+            - link "23. Основные нормы употребления числительных" [ref=e337] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808b2ee3db5b00075cf0ba/
+              - generic [ref=e338] [cursor=pointer]:
+                - generic [ref=e340] [cursor=pointer]:
+                  - generic [ref=e342] [cursor=pointer]: "23."
+                  - paragraph [ref=e344] [cursor=pointer]: Основные нормы употребления числительных
+                - img [ref=e347] [cursor=pointer]
+            - link "24. Основные нормы употребления глаголов" [ref=e349] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808b406a79b0000786a227/
+              - generic [ref=e350] [cursor=pointer]:
+                - generic [ref=e352] [cursor=pointer]:
+                  - generic [ref=e354] [cursor=pointer]: "24."
+                  - paragraph [ref=e356] [cursor=pointer]: Основные нормы употребления глаголов
+                - img [ref=e359] [cursor=pointer]
+            - link "25. Основные нормы употребления существительных и местоимений" [ref=e361] [cursor=pointer]:
+              - /url: /learn/698492ca54f5ed0007c5db30/5a33b10acefdee00198efa13/61890fee84e9f601793b0348/69808b536a1ec800076f484d/
+              - generic [ref=e362] [cursor=pointer]:
+                - generic [ref=e364] [cursor=pointer]:
+                  - generic [ref=e366] [cursor=pointer]: "25."
+                  - paragraph [ref=e368] [cursor=pointer]: Основные нормы употребления существительных и местоимений
+                - img [ref=e371] [cursor=pointer]
+  - generic [ref=e374]:
+    - generic [ref=e375]:
+      - generic [ref=e376]:
+        - generic [ref=e380]:
+          - img [ref=e382]
+          - link "8 (800) 600-44-02" [ref=e384] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e385]:
+          - generic [ref=e386]: "@"
+          - link "info@ismart.org" [ref=e387] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e388]:
+          - img [ref=e390]
+          - generic [ref=e392]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e393]:
+        - link "Наш сайт" [ref=e396] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e398] [cursor=pointer]
+        - generic [ref=e400]:
+          - link "Лицензия" [ref=e402] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e404] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e406] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e408] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e410] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e412]:
+      - generic [ref=e413]:
+        - link [ref=e414] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e418] [cursor=pointer]
+        - generic [ref=e421]:
+          - link "okIcon" [ref=e422] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e423] [cursor=pointer]
+          - link "dzenIcon" [ref=e424] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e425] [cursor=pointer]
+          - link "vkIcon" [ref=e426] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e427] [cursor=pointer]
+      - generic [ref=e429]:
+        - generic [ref=e431]:
+          - generic [ref=e432]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e433] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e434]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e435] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e436]:
+          - generic [ref=e437]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e438] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e439]: © iSmart, 2018-2026
+```

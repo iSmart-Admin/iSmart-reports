@@ -1,0 +1,252 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Математика
+      - generic [ref=e21]: Задания для повторения и закрепления учебного материала
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - button "1" [ref=e28] [cursor=pointer]:
+          - img [ref=e32] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e34] [cursor=pointer]:
+          - img [ref=e38] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e40] [cursor=pointer]:
+          - img [ref=e44] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e46] [cursor=pointer]:
+          - img [ref=e50] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e52]:
+          - img [ref=e56]
+          - text: "5"
+        - button "6" [ref=e58] [cursor=pointer]:
+          - img [ref=e62] [cursor=pointer]
+          - text: "6"
+      - generic [ref=e65]:
+        - generic [ref=e69]:
+          - img [ref=e72]
+          - textbox "Поиск по подтемам" [ref=e75]
+        - generic [ref=e76]:
+          - generic [ref=e77]:
+            - generic [ref=e78] [cursor=pointer]:
+              - generic [ref=e80] [cursor=pointer]: Темы
+              - button [ref=e82] [cursor=pointer]:
+                - img [ref=e84] [cursor=pointer]
+            - generic [ref=e86] [cursor=pointer]:
+              - generic [ref=e89] [cursor=pointer]: "1 неделя: «Чтение и запись натуральных чисел»"
+              - img [ref=e91] [cursor=pointer]
+            - generic [ref=e93] [cursor=pointer]:
+              - generic [ref=e96] [cursor=pointer]: "2 неделя: «Сравнение и округление натуральных чисел»"
+              - img [ref=e98] [cursor=pointer]
+            - generic [ref=e100] [cursor=pointer]:
+              - generic [ref=e103] [cursor=pointer]: "3 неделя: «Сложение и вычитание натуральных чисел»"
+              - img [ref=e105] [cursor=pointer]
+            - generic [ref=e108] [cursor=pointer]:
+              - generic [ref=e111] [cursor=pointer]: "4 неделя: «Угол, ломаная, многоугольник, окружность, круг»"
+              - img [ref=e113] [cursor=pointer]
+            - generic [ref=e115] [cursor=pointer]:
+              - generic [ref=e118] [cursor=pointer]: "5 неделя: «Умножение натуральных чисел»"
+              - img [ref=e120] [cursor=pointer]
+            - generic [ref=e122] [cursor=pointer]:
+              - generic [ref=e125] [cursor=pointer]: "6 неделя: «Деление натуральных чисел. Деление с остатком»"
+              - img [ref=e127] [cursor=pointer]
+            - generic [ref=e129] [cursor=pointer]:
+              - generic [ref=e132] [cursor=pointer]: "7 неделя: «Вычисление значений числовых выражений. Решение текстовых задач»"
+              - img [ref=e134] [cursor=pointer]
+            - generic [ref=e136] [cursor=pointer]:
+              - generic [ref=e139] [cursor=pointer]: "8 неделя: «Площади и объёмы»"
+              - img [ref=e141] [cursor=pointer]
+            - generic [ref=e143] [cursor=pointer]:
+              - generic [ref=e146] [cursor=pointer]: "9 неделя: «Обыкновенные дроби. Сложение и вычитание дробей»"
+              - img [ref=e148] [cursor=pointer]
+            - generic [ref=e150] [cursor=pointer]:
+              - generic [ref=e153] [cursor=pointer]: "10 неделя: «Умножение и деление обыкновенных дробей»"
+              - img [ref=e155] [cursor=pointer]
+            - generic [ref=e157] [cursor=pointer]:
+              - generic [ref=e160] [cursor=pointer]: "11 неделя: «Десятичные дроби. Сложение, вычитание и умножение десятичных дробей»"
+              - img [ref=e162] [cursor=pointer]
+            - generic [ref=e164] [cursor=pointer]:
+              - generic [ref=e167] [cursor=pointer]: "12 неделя: «Умножение и деление десятичных дробей. Решение текстовых задач»"
+              - img [ref=e169] [cursor=pointer]
+          - generic [ref=e175]:
+            - link "1. Угол" [ref=e176] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac32e30c21a100069c637c/
+              - generic [ref=e177] [cursor=pointer]:
+                - generic [ref=e179] [cursor=pointer]:
+                  - generic [ref=e181] [cursor=pointer]: "1."
+                  - paragraph [ref=e183] [cursor=pointer]: Угол
+                - img [ref=e186] [cursor=pointer]
+            - link "2. Прямой, острый, тупой и развёрнутый угол" [ref=e188] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac32f50c21a100069c6383/
+              - generic [ref=e189] [cursor=pointer]:
+                - generic [ref=e191] [cursor=pointer]:
+                  - generic [ref=e193] [cursor=pointer]: "2."
+                  - paragraph [ref=e195] [cursor=pointer]: Прямой, острый, тупой и развёрнутый угол
+                - img [ref=e198] [cursor=pointer]
+            - link "3. Измерение и построение углов с помощью транспортира" [ref=e200] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac33150c21a100069c638b/
+              - generic [ref=e201] [cursor=pointer]:
+                - generic [ref=e203] [cursor=pointer]:
+                  - generic [ref=e205] [cursor=pointer]: "3."
+                  - paragraph [ref=e207] [cursor=pointer]: Измерение и построение углов с помощью транспортира
+                - img [ref=e210] [cursor=pointer]
+            - link "4. Длина ломаной" [ref=e212] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac33230c21a100069c6393/
+              - generic [ref=e213] [cursor=pointer]:
+                - generic [ref=e215] [cursor=pointer]:
+                  - generic [ref=e217] [cursor=pointer]: "4."
+                  - paragraph [ref=e219] [cursor=pointer]: Длина ломаной
+                - img [ref=e222] [cursor=pointer]
+            - link "5. Длина пути (фигуры на квадратной решётке)" [ref=e224] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac333b0c21a100069c639a/
+              - generic [ref=e225] [cursor=pointer]:
+                - generic [ref=e227] [cursor=pointer]:
+                  - generic [ref=e229] [cursor=pointer]: "5."
+                  - paragraph [ref=e231] [cursor=pointer]: Длина пути (фигуры на квадратной решётке)
+                - img [ref=e234] [cursor=pointer]
+            - link "6. Многоугольник и его элементы" [ref=e236] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac33510c21a100069c63a1/
+              - generic [ref=e237] [cursor=pointer]:
+                - generic [ref=e239] [cursor=pointer]:
+                  - generic [ref=e241] [cursor=pointer]: "6."
+                  - paragraph [ref=e243] [cursor=pointer]: Многоугольник и его элементы
+                - img [ref=e246] [cursor=pointer]
+            - link "7. Периметр многоугольника" [ref=e248] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac33610c21a100069c63a8/
+              - generic [ref=e249] [cursor=pointer]:
+                - generic [ref=e251] [cursor=pointer]:
+                  - generic [ref=e253] [cursor=pointer]: "7."
+                  - paragraph [ref=e255] [cursor=pointer]: Периметр многоугольника
+                - img [ref=e258] [cursor=pointer]
+            - link "8. Четырёхугольник, прямоугольник, квадрат" [ref=e260] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac33710c21a100069c640a/
+              - generic [ref=e261] [cursor=pointer]:
+                - generic [ref=e263] [cursor=pointer]:
+                  - generic [ref=e265] [cursor=pointer]: "8."
+                  - paragraph [ref=e267] [cursor=pointer]: Четырёхугольник, прямоугольник, квадрат
+                - img [ref=e270] [cursor=pointer]
+            - link "9. Периметр прямоугольника и квадрата" [ref=e272] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac33800c21a100069c6411/
+              - generic [ref=e273] [cursor=pointer]:
+                - generic [ref=e275] [cursor=pointer]:
+                  - generic [ref=e277] [cursor=pointer]: "9."
+                  - paragraph [ref=e279] [cursor=pointer]: Периметр прямоугольника и квадрата
+                - img [ref=e282] [cursor=pointer]
+            - link "10. Треугольник" [ref=e284] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac339d0c21a100069c6418/
+              - generic [ref=e285] [cursor=pointer]:
+                - generic [ref=e287] [cursor=pointer]:
+                  - generic [ref=e289] [cursor=pointer]: "10."
+                  - paragraph [ref=e291] [cursor=pointer]: Треугольник
+                - img [ref=e294] [cursor=pointer]
+            - link "11. Периметр треугольника" [ref=e296] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac33ae0c21a100069c641f/
+              - generic [ref=e297] [cursor=pointer]:
+                - generic [ref=e299] [cursor=pointer]:
+                  - generic [ref=e301] [cursor=pointer]: "11."
+                  - paragraph [ref=e303] [cursor=pointer]: Периметр треугольника
+                - img [ref=e306] [cursor=pointer]
+            - link "12. Равенство фигур" [ref=e308] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac33c10c21a100069c6426/
+              - generic [ref=e309] [cursor=pointer]:
+                - generic [ref=e311] [cursor=pointer]:
+                  - generic [ref=e313] [cursor=pointer]: "12."
+                  - paragraph [ref=e315] [cursor=pointer]: Равенство фигур
+                - img [ref=e318] [cursor=pointer]
+            - link "13. Использование свойств сторон и углов прямоугольника, квадрата" [ref=e320] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac33d10c21a100069c642d/
+              - generic [ref=e321] [cursor=pointer]:
+                - generic [ref=e323] [cursor=pointer]:
+                  - generic [ref=e325] [cursor=pointer]: "13."
+                  - paragraph [ref=e327] [cursor=pointer]: Использование свойств сторон и углов прямоугольника, квадрата
+                - img [ref=e330] [cursor=pointer]
+            - link "14. Окружность, круг" [ref=e332] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac33e10c21a100069c6434/
+              - generic [ref=e333] [cursor=pointer]:
+                - generic [ref=e335] [cursor=pointer]:
+                  - generic [ref=e337] [cursor=pointer]: "14."
+                  - paragraph [ref=e339] [cursor=pointer]: Окружность, круг
+                - img [ref=e342] [cursor=pointer]
+            - link "15. Обобщение по неделе 4" [active] [ref=e344] [cursor=pointer]:
+              - /url: /learn/628aa0a77f0cd3c1279c7f6e/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/67ac34150c21a100069c643c/
+              - generic [ref=e345] [cursor=pointer]:
+                - generic [ref=e347] [cursor=pointer]:
+                  - generic [ref=e349] [cursor=pointer]: "15."
+                  - paragraph [ref=e351] [cursor=pointer]: Обобщение по неделе 4
+                - img [ref=e354] [cursor=pointer]
+  - generic [ref=e357]:
+    - generic [ref=e358]:
+      - generic [ref=e359]:
+        - generic [ref=e363]:
+          - img [ref=e365]
+          - link "8 (800) 600-44-02" [ref=e367] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e368]:
+          - generic [ref=e369]: "@"
+          - link "info@ismart.org" [ref=e370] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e371]:
+          - img [ref=e373]
+          - generic [ref=e375]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e376]:
+        - link "Наш сайт" [ref=e379] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e381] [cursor=pointer]
+        - generic [ref=e383]:
+          - link "Лицензия" [ref=e385] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e387] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e389] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e391] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e393] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e395]:
+      - generic [ref=e396]:
+        - link [ref=e397] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e401] [cursor=pointer]
+        - generic [ref=e404]:
+          - link "okIcon" [ref=e405] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e406] [cursor=pointer]
+          - link "dzenIcon" [ref=e407] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e408] [cursor=pointer]
+          - link "vkIcon" [ref=e409] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e410] [cursor=pointer]
+      - generic [ref=e412]:
+        - generic [ref=e414]:
+          - generic [ref=e415]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e416] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e417]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e418] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e419]:
+          - generic [ref=e420]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e421] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e422]: © iSmart, 2018-2026
+```
