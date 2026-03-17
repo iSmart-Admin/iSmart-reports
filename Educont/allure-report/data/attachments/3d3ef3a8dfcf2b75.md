@@ -1,0 +1,293 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Русский язык. 1.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "1" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e37]:
+          - img [ref=e41]
+          - text: "3"
+        - button "4" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e61] [cursor=pointer]:
+          - img [ref=e65] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e67] [cursor=pointer]:
+          - img [ref=e71] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e73] [cursor=pointer]:
+          - img [ref=e77] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e79] [cursor=pointer]:
+          - img [ref=e83] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e85] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e92]:
+        - generic [ref=e96]:
+          - img [ref=e99]
+          - textbox "Поиск по подтемам" [ref=e102]
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - generic [ref=e105] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Темы
+              - button [ref=e109] [cursor=pointer]:
+                - img [ref=e111] [cursor=pointer]
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e116] [cursor=pointer]: Что мы знаем о звуках и буквах?
+              - img [ref=e118] [cursor=pointer]
+            - generic [ref=e120] [cursor=pointer]:
+              - generic [ref=e123] [cursor=pointer]: Что мы знаем о словах?
+              - img [ref=e125] [cursor=pointer]
+            - generic [ref=e127] [cursor=pointer]:
+              - generic [ref=e130] [cursor=pointer]: Что мы знаем о составе слова?
+              - img [ref=e132] [cursor=pointer]
+            - generic [ref=e134] [cursor=pointer]:
+              - generic [ref=e137] [cursor=pointer]: Что мы знаем об имени существительном?
+              - img [ref=e139] [cursor=pointer]
+            - generic [ref=e141] [cursor=pointer]:
+              - generic [ref=e144] [cursor=pointer]: Что мы знаем об имени прилагательном?
+              - img [ref=e146] [cursor=pointer]
+            - generic [ref=e148] [cursor=pointer]:
+              - generic [ref=e151] [cursor=pointer]: Что мы знаем о местоимении?
+              - img [ref=e153] [cursor=pointer]
+            - generic [ref=e155] [cursor=pointer]:
+              - generic [ref=e158] [cursor=pointer]: Что мы знаем о глаголе?
+              - img [ref=e160] [cursor=pointer]
+            - generic [ref=e162] [cursor=pointer]:
+              - generic [ref=e165] [cursor=pointer]: Что мы знаем об имени числительном?
+              - img [ref=e167] [cursor=pointer]
+            - generic [ref=e169] [cursor=pointer]:
+              - generic [ref=e172] [cursor=pointer]: Что мы знаем о предложении?
+              - img [ref=e174] [cursor=pointer]
+            - generic [ref=e176] [cursor=pointer]:
+              - generic [ref=e179] [cursor=pointer]: Что мы знаем о правописании слов и предложений?
+              - img [ref=e181] [cursor=pointer]
+            - generic [ref=e183] [cursor=pointer]:
+              - generic [ref=e186] [cursor=pointer]: Какой бывает наша речь?
+              - img [ref=e188] [cursor=pointer]
+            - generic [ref=e190] [cursor=pointer]:
+              - generic [ref=e193] [cursor=pointer]: Словарные слова
+              - img [ref=e195] [cursor=pointer]
+            - generic [ref=e197] [cursor=pointer]:
+              - generic [ref=e200] [cursor=pointer]: Словарные слова (повышенный уровень)
+              - img [ref=e202] [cursor=pointer]
+            - generic [ref=e204] [cursor=pointer]:
+              - generic [ref=e207] [cursor=pointer]: Подготовка к контрольной 1 четверть
+              - img [ref=e209] [cursor=pointer]
+            - generic [ref=e211] [cursor=pointer]:
+              - generic [ref=e214] [cursor=pointer]: Подготовка к контрольной 2 четверть
+              - img [ref=e216] [cursor=pointer]
+            - generic [ref=e218] [cursor=pointer]:
+              - generic [ref=e221] [cursor=pointer]: Подготовка к контрольной 3 четверть
+              - img [ref=e223] [cursor=pointer]
+            - generic [ref=e225] [cursor=pointer]:
+              - generic [ref=e228] [cursor=pointer]: Подготовка к контрольной 4 четверть
+              - img [ref=e230] [cursor=pointer]
+            - generic [ref=e232] [cursor=pointer]:
+              - generic [ref=e235] [cursor=pointer]: Подготовка к контрольной I полугодие
+              - img [ref=e237] [cursor=pointer]
+            - generic [ref=e239] [cursor=pointer]:
+              - generic [ref=e242] [cursor=pointer]: Подготовка к контрольной II полугодие
+              - img [ref=e244] [cursor=pointer]
+            - generic [ref=e246] [cursor=pointer]:
+              - generic [ref=e249] [cursor=pointer]: Подготовка к Итоговой контрольной работе
+              - img [ref=e251] [cursor=pointer]
+            - generic [ref=e253] [cursor=pointer]:
+              - generic [ref=e256] [cursor=pointer]: Подготовка к ВПР
+              - img [ref=e258] [cursor=pointer]
+            - generic [ref=e260] [cursor=pointer]:
+              - generic [ref=e263] [cursor=pointer]: Текст. Предложение. Словосочетание (сложные темы)
+              - img [ref=e265] [cursor=pointer]
+            - generic [ref=e267] [cursor=pointer]:
+              - generic [ref=e270] [cursor=pointer]: Слово в языке и речи (сложные темы)
+              - img [ref=e272] [cursor=pointer]
+            - generic [ref=e275] [cursor=pointer]:
+              - generic [ref=e278] [cursor=pointer]: Состав слова (сложные темы)
+              - img [ref=e280] [cursor=pointer]
+            - generic [ref=e282] [cursor=pointer]:
+              - generic [ref=e285] [cursor=pointer]: Орфография (сложные темы)
+              - img [ref=e287] [cursor=pointer]
+            - generic [ref=e289] [cursor=pointer]:
+              - generic [ref=e292] [cursor=pointer]: Проверочные работы (1 полугодие)
+              - img [ref=e294] [cursor=pointer]
+          - generic [ref=e300]:
+            - link "1. Корень слова" [ref=e301] [cursor=pointer]:
+              - /url: /learn/68ac37a17c622300072c3200/68ac35e17c62230007270e44/68ab5dd2d608c0000714f1c6/68ac36177c6223000728f2bb/
+              - generic [ref=e302] [cursor=pointer]:
+                - generic [ref=e304] [cursor=pointer]:
+                  - generic [ref=e306] [cursor=pointer]: "1."
+                  - paragraph [ref=e308] [cursor=pointer]: Корень слова
+                - img [ref=e311] [cursor=pointer]
+            - link "2. Однокоренные слова (ч. 1)" [ref=e313] [cursor=pointer]:
+              - /url: /learn/68ac37a17c622300072c3200/68ac35e17c62230007270e44/68ab5dd2d608c0000714f1c6/68ac36177c6223000728f2bc/
+              - generic [ref=e314] [cursor=pointer]:
+                - generic [ref=e316] [cursor=pointer]:
+                  - generic [ref=e318] [cursor=pointer]: "2."
+                  - paragraph [ref=e320] [cursor=pointer]: Однокоренные слова (ч. 1)
+                - img [ref=e323] [cursor=pointer]
+            - link "3. Однокоренные слова (ч. 2)" [ref=e325] [cursor=pointer]:
+              - /url: /learn/68ac37a17c622300072c3200/68ac35e17c62230007270e44/68ab5dd2d608c0000714f1c6/68ac36177c6223000728f2bd/
+              - generic [ref=e326] [cursor=pointer]:
+                - generic [ref=e328] [cursor=pointer]:
+                  - generic [ref=e330] [cursor=pointer]: "3."
+                  - paragraph [ref=e332] [cursor=pointer]: Однокоренные слова (ч. 2)
+                - img [ref=e335] [cursor=pointer]
+            - link "4. Окончание. Формы слова" [ref=e337] [cursor=pointer]:
+              - /url: /learn/68ac37a17c622300072c3200/68ac35e17c62230007270e44/68ab5dd2d608c0000714f1c6/68ac36177c6223000728f2be/
+              - generic [ref=e338] [cursor=pointer]:
+                - generic [ref=e340] [cursor=pointer]:
+                  - generic [ref=e342] [cursor=pointer]: "4."
+                  - paragraph [ref=e344] [cursor=pointer]: Окончание. Формы слова
+                - img [ref=e347] [cursor=pointer]
+            - link "5. Окончание слова (ч. 1)" [ref=e349] [cursor=pointer]:
+              - /url: /learn/68ac37a17c622300072c3200/68ac35e17c62230007270e44/68ab5dd2d608c0000714f1c6/68ac36177c6223000728f2bf/
+              - generic [ref=e350] [cursor=pointer]:
+                - generic [ref=e352] [cursor=pointer]:
+                  - generic [ref=e354] [cursor=pointer]: "5."
+                  - paragraph [ref=e356] [cursor=pointer]: Окончание слова (ч. 1)
+                - img [ref=e359] [cursor=pointer]
+            - link "6. Окончание слова (ч. 2)" [ref=e361] [cursor=pointer]:
+              - /url: /learn/68ac37a17c622300072c3200/68ac35e17c62230007270e44/68ab5dd2d608c0000714f1c6/68ac36177c6223000728f2c0/
+              - generic [ref=e362] [cursor=pointer]:
+                - generic [ref=e364] [cursor=pointer]:
+                  - generic [ref=e366] [cursor=pointer]: "6."
+                  - paragraph [ref=e368] [cursor=pointer]: Окончание слова (ч. 2)
+                - img [ref=e371] [cursor=pointer]
+            - link "7. Окончание слова (ч. 3)" [ref=e373] [cursor=pointer]:
+              - /url: /learn/68ac37a17c622300072c3200/68ac35e17c62230007270e44/68ab5dd2d608c0000714f1c6/68ac36177c6223000728f2c1/
+              - generic [ref=e374] [cursor=pointer]:
+                - generic [ref=e376] [cursor=pointer]:
+                  - generic [ref=e378] [cursor=pointer]: "7."
+                  - paragraph [ref=e380] [cursor=pointer]: Окончание слова (ч. 3)
+                - img [ref=e383] [cursor=pointer]
+            - link "8. Окончание слова (ч. 4)" [ref=e385] [cursor=pointer]:
+              - /url: /learn/68ac37a17c622300072c3200/68ac35e17c62230007270e44/68ab5dd2d608c0000714f1c6/68ac36177c6223000728f2c2/
+              - generic [ref=e386] [cursor=pointer]:
+                - generic [ref=e388] [cursor=pointer]:
+                  - generic [ref=e390] [cursor=pointer]: "8."
+                  - paragraph [ref=e392] [cursor=pointer]: Окончание слова (ч. 4)
+                - img [ref=e395] [cursor=pointer]
+            - link "9. Окончание слова (ч. 5)" [ref=e397] [cursor=pointer]:
+              - /url: /learn/68ac37a17c622300072c3200/68ac35e17c62230007270e44/68ab5dd2d608c0000714f1c6/68ac36177c6223000728f2c3/
+              - generic [ref=e398] [cursor=pointer]:
+                - generic [ref=e400] [cursor=pointer]:
+                  - generic [ref=e402] [cursor=pointer]: "9."
+                  - paragraph [ref=e404] [cursor=pointer]: Окончание слова (ч. 5)
+                - img [ref=e407] [cursor=pointer]
+            - link "10. Окончание слова (ч. 6)" [ref=e409] [cursor=pointer]:
+              - /url: /learn/68ac37a17c622300072c3200/68ac35e17c62230007270e44/68ab5dd2d608c0000714f1c6/68ac36177c6223000728f2c4/
+              - generic [ref=e410] [cursor=pointer]:
+                - generic [ref=e412] [cursor=pointer]:
+                  - generic [ref=e414] [cursor=pointer]: "10."
+                  - paragraph [ref=e416] [cursor=pointer]: Окончание слова (ч. 6)
+                - img [ref=e419] [cursor=pointer]
+            - link "11. Приставка" [ref=e421] [cursor=pointer]:
+              - /url: /learn/68ac37a17c622300072c3200/68ac35e17c62230007270e44/68ab5dd2d608c0000714f1c6/68ac36177c6223000728f2c5/
+              - generic [ref=e422] [cursor=pointer]:
+                - generic [ref=e424] [cursor=pointer]:
+                  - generic [ref=e426] [cursor=pointer]: "11."
+                  - paragraph [ref=e428] [cursor=pointer]: Приставка
+                - img [ref=e431] [cursor=pointer]
+            - link "12. Суффикс как значимая часть слова" [ref=e433] [cursor=pointer]:
+              - /url: /learn/68ac37a17c622300072c3200/68ac35e17c62230007270e44/68ab5dd2d608c0000714f1c6/68ac36177c6223000728f2c6/
+              - generic [ref=e434] [cursor=pointer]:
+                - generic [ref=e436] [cursor=pointer]:
+                  - generic [ref=e438] [cursor=pointer]: "12."
+                  - paragraph [ref=e440] [cursor=pointer]: Суффикс как значимая часть слова
+                - img [ref=e443] [cursor=pointer]
+            - link "13. Разбор слова по составу" [active] [ref=e445] [cursor=pointer]:
+              - /url: /learn/68ac37a17c622300072c3200/68ac35e17c62230007270e44/68ab5dd2d608c0000714f1c6/68ac36177c6223000728f2c7/
+              - generic [ref=e446] [cursor=pointer]:
+                - generic [ref=e448] [cursor=pointer]:
+                  - generic [ref=e450] [cursor=pointer]: "13."
+                  - paragraph [ref=e452] [cursor=pointer]: Разбор слова по составу
+                - img [ref=e455] [cursor=pointer]
+  - generic [ref=e458]:
+    - generic [ref=e459]:
+      - generic [ref=e460]:
+        - generic [ref=e464]:
+          - img [ref=e466]
+          - link "8 (800) 600-44-02" [ref=e468] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e469]:
+          - generic [ref=e470]: "@"
+          - link "info@ismart.org" [ref=e471] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e472]:
+          - img [ref=e474]
+          - generic [ref=e476]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e477]:
+        - link "Наш сайт" [ref=e480] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e482] [cursor=pointer]
+        - generic [ref=e484]:
+          - link "Лицензия" [ref=e486] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e488] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e490] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e492] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e494] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e496]:
+      - generic [ref=e497]:
+        - link [ref=e498] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e502] [cursor=pointer]
+        - generic [ref=e505]:
+          - link "okIcon" [ref=e506] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e507] [cursor=pointer]
+          - link "dzenIcon" [ref=e508] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e509] [cursor=pointer]
+          - link "vkIcon" [ref=e510] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e511] [cursor=pointer]
+      - generic [ref=e513]:
+        - generic [ref=e515]:
+          - generic [ref=e516]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e517] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e518]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e519] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e520]:
+          - generic [ref=e521]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e522] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e523]: © iSmart, 2018-2026
+```

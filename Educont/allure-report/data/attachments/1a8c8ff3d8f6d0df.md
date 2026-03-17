@@ -1,0 +1,103 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                - generic [ref=e46]:
+                  - button [disabled] [ref=e47]:
+                    - img [ref=e49]
+                  - button [disabled] [ref=e52]:
+                    - img [ref=e54]
+            - generic [ref=e57]:
+              - generic [ref=e59]:
+                - img [ref=e63]
+                - heading "Внеси числовые ответы в специально предназначенные поля." [level=4] [ref=e65]:
+                  - generic [ref=e67]: Внеси числовые ответы в специально предназначенные поля.
+              - generic [ref=e69]:
+                - img "decore" [ref=e72]
+                - generic [ref=e78]: Сколько значений может принимать случайная величина, равная сумме очков при бросании игральной кости два раза?
+              - table [ref=e82]:
+                - rowgroup [ref=e83]:
+                  - row [ref=e84]:
+                    - cell [ref=e85]
+                    - cell [ref=e86]
+                - rowgroup [ref=e87]:
+                  - row "Количество значений" [ref=e88]:
+                    - cell "Количество значений" [ref=e89]:
+                      - generic [ref=e91]: Количество значений
+                    - cell [ref=e92]:
+                      - textbox [ref=e94]
+                  - row "Наименьшее значение" [ref=e95]:
+                    - cell "Наименьшее значение" [ref=e96]:
+                      - generic [ref=e98]: Наименьшее значение
+                    - cell [ref=e99]:
+                      - textbox [ref=e101]
+                  - row "Наибольшее значение" [ref=e102]:
+                    - cell "Наибольшее значение" [ref=e103]:
+                      - generic [ref=e105]: Наибольшее значение
+                    - cell [ref=e106]:
+                      - textbox [ref=e108]
+        - generic [ref=e113]:
+          - generic [ref=e116]:
+            - button [disabled] [ref=e118]:
+              - img [ref=e120]
+            - generic [ref=e123]: 100%
+            - button [ref=e125] [cursor=pointer]:
+              - img [ref=e127] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e132] [cursor=pointer]:
+            - generic [ref=e135] [cursor=pointer]: "2"
+            - generic [ref=e136] [cursor=pointer]: Показать подсказку
+      - generic [ref=e140]:
+        - generic [ref=e143]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e149] [cursor=pointer]:
+          - img [ref=e152] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e154]:
+          - generic [ref=e156]:
+            - button "Черновик" [ref=e157] [cursor=pointer]:
+              - img [ref=e160] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e163] [cursor=pointer]:
+              - img [ref=e166] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e168]:
+              - button "Часто задаваемые вопросы" [ref=e170] [cursor=pointer]:
+                - img [ref=e173] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e175]:
+                - button "Информация об уроке" [ref=e177] [cursor=pointer]:
+                  - img [ref=e180] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e182]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e183]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e184] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e187] [cursor=pointer]
+```

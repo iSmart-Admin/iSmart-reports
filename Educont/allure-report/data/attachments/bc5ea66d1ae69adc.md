@@ -1,0 +1,214 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                  - button "4" [ref=e48] [cursor=pointer]
+                  - button "5" [ref=e51] [cursor=pointer]
+                  - button "6" [ref=e54] [cursor=pointer]
+                  - button "7" [ref=e57] [cursor=pointer]
+                  - button "8" [ref=e60] [cursor=pointer]
+                  - button "9" [ref=e63] [cursor=pointer]
+                  - button "10" [ref=e66] [cursor=pointer]
+                - generic [ref=e67]:
+                  - button [disabled] [ref=e68]:
+                    - img [ref=e70]
+                  - button [ref=e73] [cursor=pointer]:
+                    - img [ref=e75] [cursor=pointer]
+            - generic [ref=e78]:
+              - generic [ref=e80]:
+                - img [ref=e84]
+                - heading "Установите соответствие между элементами." [level=4] [ref=e86]:
+                  - generic [ref=e88]: Установите соответствие между элементами.
+              - generic [ref=e90]:
+                - img "decore" [ref=e93]
+                - generic [ref=e99]: Установите соответсвие между формулой карбоновой кислоты и её тривиальным названием.
+              - generic [ref=e101]:
+                - generic [ref=e102]:
+                  - generic [ref=e103]:
+                    - generic [ref=e113]:
+                      - math [ref=e115]:
+                        - generic [ref=e117]:
+                          - generic [ref=e118]: С
+                          - generic [ref=e119]:
+                            - generic [ref=e120]: H
+                            - generic [ref=e121]: "3"
+                          - generic [ref=e122]: C
+                          - generic [ref=e123]:
+                            - generic [ref=e124]: H
+                            - generic [ref=e125]: "2"
+                          - generic [ref=e126]: C
+                          - generic [ref=e127]:
+                            - generic [ref=e128]: H
+                            - generic [ref=e129]: "2"
+                          - generic [ref=e130]: C
+                          - generic [ref=e131]: O
+                          - generic [ref=e132]: O
+                          - generic [ref=e133]: H
+                      - generic [ref=e135]:
+                        - generic [ref=e136]: С
+                        - generic [ref=e137]:
+                          - generic [ref=e138]: H
+                          - generic [ref=e144]: "3"
+                        - generic [ref=e148]: C
+                        - generic [ref=e149]:
+                          - generic [ref=e150]: H
+                          - generic [ref=e156]: "2"
+                        - generic [ref=e160]: C
+                        - generic [ref=e161]:
+                          - generic [ref=e162]: H
+                          - generic [ref=e168]: "2"
+                        - generic [ref=e172]: COO
+                        - generic [ref=e173]: H
+                    - button [disabled] [ref=e179]
+                  - generic [ref=e180]:
+                    - generic [ref=e190]:
+                      - math [ref=e192]:
+                        - generic [ref=e194]:
+                          - generic [ref=e195]: H
+                          - generic [ref=e196]: O
+                          - generic [ref=e197]: O
+                          - generic [ref=e198]: C
+                          - generic [ref=e199]: C
+                          - generic [ref=e200]:
+                            - generic [ref=e201]: H
+                            - generic [ref=e202]: "2"
+                          - generic [ref=e203]: C
+                          - generic [ref=e204]:
+                            - generic [ref=e205]: H
+                            - generic [ref=e206]: "2"
+                          - generic [ref=e207]: C
+                          - generic [ref=e208]: O
+                          - generic [ref=e209]: O
+                          - generic [ref=e210]: H
+                      - generic [ref=e212]:
+                        - generic [ref=e213]: H
+                        - generic [ref=e214]: OOCC
+                        - generic [ref=e215]:
+                          - generic [ref=e216]: H
+                          - generic [ref=e222]: "2"
+                        - generic [ref=e226]: C
+                        - generic [ref=e227]:
+                          - generic [ref=e228]: H
+                          - generic [ref=e234]: "2"
+                        - generic [ref=e238]: COO
+                        - generic [ref=e239]: H
+                    - button [disabled] [ref=e245]
+                  - generic [ref=e246]:
+                    - generic [ref=e256]:
+                      - math [ref=e258]:
+                        - generic [ref=e260]:
+                          - generic [ref=e261]: H
+                          - generic [ref=e262]: O
+                          - generic [ref=e263]: O
+                          - generic [ref=e264]: C
+                          - generic [ref=e265]: C
+                          - generic [ref=e266]: O
+                          - generic [ref=e267]: O
+                          - generic [ref=e268]: H
+                      - generic [ref=e270]:
+                        - generic [ref=e271]: H
+                        - generic [ref=e272]: OOCCOO
+                        - generic [ref=e273]: H
+                    - button [disabled] [ref=e279]
+                  - generic [ref=e280]:
+                    - generic [ref=e290]:
+                      - math [ref=e292]:
+                        - generic [ref=e294]:
+                          - generic [ref=e295]: С
+                          - generic [ref=e296]:
+                            - generic [ref=e297]: H
+                            - generic [ref=e298]: "2"
+                          - generic [ref=e299]: =
+                          - generic [ref=e300]: C
+                          - generic [ref=e301]: H
+                          - generic [ref=e302]: C
+                          - generic [ref=e303]: O
+                          - generic [ref=e304]: O
+                          - generic [ref=e305]: H
+                      - generic [ref=e306]:
+                        - generic [ref=e307]:
+                          - generic [ref=e308]: С
+                          - generic [ref=e309]:
+                            - generic [ref=e310]: H
+                            - generic [ref=e316]: "2"
+                          - generic [ref=e320]: =
+                        - generic [ref=e321]:
+                          - generic [ref=e322]: C
+                          - generic [ref=e323]: H
+                          - generic [ref=e324]: COO
+                          - generic [ref=e325]: H
+                    - button [disabled] [ref=e331]
+                - generic [ref=e332]:
+                  - button "Масляная кислота" [ref=e336] [cursor=pointer]:
+                    - generic [ref=e339] [cursor=pointer]: Масляная кислота
+                  - button "Янтарная кислота" [ref=e343] [cursor=pointer]:
+                    - generic [ref=e346] [cursor=pointer]: Янтарная кислота
+                  - button "Щавелевая кислота" [ref=e350] [cursor=pointer]:
+                    - generic [ref=e353] [cursor=pointer]: Щавелевая кислота
+                  - button "Акриловая кислота" [ref=e357] [cursor=pointer]:
+                    - generic [ref=e360] [cursor=pointer]: Акриловая кислота
+        - generic [ref=e365]:
+          - generic [ref=e368]:
+            - button [disabled] [ref=e370]:
+              - img [ref=e372]
+            - generic [ref=e375]: 100%
+            - button [ref=e377] [cursor=pointer]:
+              - img [ref=e379] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e384] [cursor=pointer]:
+            - generic [ref=e387] [cursor=pointer]: "2"
+            - generic [ref=e388] [cursor=pointer]: Показать подсказку
+      - generic [ref=e392]:
+        - generic [ref=e395]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e401] [cursor=pointer]:
+          - img [ref=e404] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e406]:
+          - generic [ref=e408]:
+            - button "Черновик" [ref=e409] [cursor=pointer]:
+              - img [ref=e412] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e415] [cursor=pointer]:
+              - img [ref=e418] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e420]:
+              - button "Часто задаваемые вопросы" [ref=e422] [cursor=pointer]:
+                - img [ref=e425] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e427]:
+                - button "Информация об уроке" [ref=e429] [cursor=pointer]:
+                  - img [ref=e432] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e434]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e435]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e436] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e439] [cursor=pointer]
+```

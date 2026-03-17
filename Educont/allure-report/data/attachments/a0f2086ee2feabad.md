@@ -1,0 +1,109 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                  - button "4" [ref=e48] [cursor=pointer]
+                  - button "5" [ref=e51] [cursor=pointer]
+                  - button "6" [ref=e54] [cursor=pointer]
+                - generic [ref=e55]:
+                  - button [disabled] [ref=e56]:
+                    - img [ref=e58]
+                  - button [disabled] [ref=e61]:
+                    - img [ref=e63]
+            - generic [ref=e66]:
+              - generic [ref=e68]:
+                - img [ref=e72]
+                - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e74]:
+                  - generic [ref=e76]: Внесите ответ в специально предназначенное поле.
+              - generic [ref=e78]:
+                - img "decore" [ref=e81]
+                - generic [ref=e87]:
+                  - text: Найти увеличение собирающей линзы, если изображение предмета, помещённого в
+                  - generic [ref=e89]:
+                    - math [ref=e91]:
+                      - generic [ref=e93]:
+                        - generic [ref=e94]: "15"
+                        - generic [ref=e95]: см
+                    - generic [ref=e97]:
+                      - generic [ref=e98]: "15"
+                      - generic [ref=e99]: см
+                  - text: от линзы, получается на расстоянии
+                  - generic [ref=e101]:
+                    - math [ref=e103]:
+                      - generic [ref=e105]:
+                        - generic [ref=e106]: "30"
+                        - generic [ref=e107]: см
+                    - generic [ref=e109]:
+                      - generic [ref=e110]: "30"
+                      - generic [ref=e111]: см
+                  - text: от неё.
+              - generic [ref=e116]:
+                - strong [ref=e117]: Ответ
+                - text: ": увеличение собирающей линзы"
+                - textbox [active] [ref=e118]
+                - text: .
+        - generic [ref=e124]:
+          - generic [ref=e127]:
+            - button [disabled] [ref=e129]:
+              - img [ref=e131]
+            - generic [ref=e134]: 100%
+            - button [ref=e136] [cursor=pointer]:
+              - img [ref=e138] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e143] [cursor=pointer]:
+            - generic [ref=e146] [cursor=pointer]: "2"
+            - generic [ref=e147] [cursor=pointer]: Показать подсказку
+      - generic [ref=e151]:
+        - generic [ref=e154]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e160] [cursor=pointer]:
+          - img [ref=e163] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e165]:
+          - generic [ref=e167]:
+            - button "Черновик" [ref=e168] [cursor=pointer]:
+              - img [ref=e171] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e174] [cursor=pointer]:
+              - img [ref=e177] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e179]:
+              - button "Часто задаваемые вопросы" [ref=e181] [cursor=pointer]:
+                - img [ref=e184] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e186]:
+                - button "Информация об уроке" [ref=e188] [cursor=pointer]:
+                  - img [ref=e191] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e193]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e194]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e195] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e198] [cursor=pointer]
+```
