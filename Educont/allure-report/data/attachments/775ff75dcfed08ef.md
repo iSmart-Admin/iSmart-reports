@@ -1,0 +1,191 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Геометрия. 8.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "7" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e31]:
+          - img [ref=e35]
+          - text: "8"
+        - button "9" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e56]:
+        - generic [ref=e60]:
+          - img [ref=e63]
+          - textbox "Поиск по подтемам" [ref=e66]
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - generic [ref=e69] [cursor=pointer]:
+              - generic [ref=e71] [cursor=pointer]: Темы
+              - button [ref=e73] [cursor=pointer]:
+                - img [ref=e75] [cursor=pointer]
+            - generic [ref=e77] [cursor=pointer]:
+              - generic [ref=e80] [cursor=pointer]: Четырёхугольники
+              - img [ref=e82] [cursor=pointer]
+            - generic [ref=e85] [cursor=pointer]:
+              - generic [ref=e88] [cursor=pointer]: Подобие треугольников
+              - img [ref=e90] [cursor=pointer]
+            - generic [ref=e92] [cursor=pointer]:
+              - generic [ref=e95] [cursor=pointer]: Площадь
+              - img [ref=e97] [cursor=pointer]
+            - generic [ref=e99] [cursor=pointer]:
+              - generic [ref=e102] [cursor=pointer]: Прямоугольный треугольник
+              - img [ref=e104] [cursor=pointer]
+            - generic [ref=e106] [cursor=pointer]:
+              - generic [ref=e109] [cursor=pointer]: Окружность
+              - img [ref=e111] [cursor=pointer]
+          - generic [ref=e117]:
+            - link "1. Теорема Фалеса" [ref=e118] [cursor=pointer]:
+              - /url: /learn/68ac8bcad7ff8c00077e04d6/68ac8adcd7ff8c00077de4ac/68ab5e5fd608c0000717dff0/68ac8aefd7ff8c00077deb43/
+              - generic [ref=e119] [cursor=pointer]:
+                - generic [ref=e121] [cursor=pointer]:
+                  - generic [ref=e123] [cursor=pointer]: "1."
+                  - paragraph [ref=e125] [cursor=pointer]: Теорема Фалеса
+                - img [ref=e128] [cursor=pointer]
+            - link "2. Теорема о пропорциональных отрезках" [ref=e130] [cursor=pointer]:
+              - /url: /learn/68ac8bcad7ff8c00077e04d6/68ac8adcd7ff8c00077de4ac/68ab5e5fd608c0000717dff0/68ac8aefd7ff8c00077deb3d/
+              - generic [ref=e131] [cursor=pointer]:
+                - generic [ref=e133] [cursor=pointer]:
+                  - generic [ref=e135] [cursor=pointer]: "2."
+                  - paragraph [ref=e137] [cursor=pointer]: Теорема о пропорциональных отрезках
+                - img [ref=e140] [cursor=pointer]
+            - link "3. Средняя линия треугольника" [ref=e142] [cursor=pointer]:
+              - /url: /learn/68ac8bcad7ff8c00077e04d6/68ac8adcd7ff8c00077de4ac/68ab5e5fd608c0000717dff0/68ac8aefd7ff8c00077deb44/
+              - generic [ref=e143] [cursor=pointer]:
+                - generic [ref=e145] [cursor=pointer]:
+                  - generic [ref=e147] [cursor=pointer]: "3."
+                  - paragraph [ref=e149] [cursor=pointer]: Средняя линия треугольника
+                - img [ref=e152] [cursor=pointer]
+            - link "4. Средняя линия трапеции" [ref=e154] [cursor=pointer]:
+              - /url: /learn/68ac8bcad7ff8c00077e04d6/68ac8adcd7ff8c00077de4ac/68ab5e5fd608c0000717dff0/68ac8aefd7ff8c00077deb45/
+              - generic [ref=e155] [cursor=pointer]:
+                - generic [ref=e157] [cursor=pointer]:
+                  - generic [ref=e159] [cursor=pointer]: "4."
+                  - paragraph [ref=e161] [cursor=pointer]: Средняя линия трапеции
+                - img [ref=e164] [cursor=pointer]
+            - link "5. Центр масс треугольника" [ref=e166] [cursor=pointer]:
+              - /url: /learn/68ac8bcad7ff8c00077e04d6/68ac8adcd7ff8c00077de4ac/68ab5e5fd608c0000717dff0/68ac8aefd7ff8c00077deb46/
+              - generic [ref=e167] [cursor=pointer]:
+                - generic [ref=e169] [cursor=pointer]:
+                  - generic [ref=e171] [cursor=pointer]: "5."
+                  - paragraph [ref=e173] [cursor=pointer]: Центр масс треугольника
+                - img [ref=e176] [cursor=pointer]
+            - link "6. Подобие треугольников" [ref=e178] [cursor=pointer]:
+              - /url: /learn/68ac8bcad7ff8c00077e04d6/68ac8adcd7ff8c00077de4ac/68ab5e5fd608c0000717dff0/68ac8aefd7ff8c00077deb3f/
+              - generic [ref=e179] [cursor=pointer]:
+                - generic [ref=e181] [cursor=pointer]:
+                  - generic [ref=e183] [cursor=pointer]: "6."
+                  - paragraph [ref=e185] [cursor=pointer]: Подобие треугольников
+                - img [ref=e188] [cursor=pointer]
+            - link "7. Коэффициент подобия" [ref=e190] [cursor=pointer]:
+              - /url: /learn/68ac8bcad7ff8c00077e04d6/68ac8adcd7ff8c00077de4ac/68ab5e5fd608c0000717dff0/68ac8aefd7ff8c00077deb47/
+              - generic [ref=e191] [cursor=pointer]:
+                - generic [ref=e193] [cursor=pointer]:
+                  - generic [ref=e195] [cursor=pointer]: "7."
+                  - paragraph [ref=e197] [cursor=pointer]: Коэффициент подобия
+                - img [ref=e200] [cursor=pointer]
+            - link "11. Признаки подобия треугольников" [ref=e202] [cursor=pointer]:
+              - /url: /learn/68ac8bcad7ff8c00077e04d6/68ac8adcd7ff8c00077de4ac/68ab5e5fd608c0000717dff0/68ac8aefd7ff8c00077deb48/
+              - generic [ref=e203] [cursor=pointer]:
+                - generic [ref=e205] [cursor=pointer]:
+                  - generic [ref=e207] [cursor=pointer]: "11."
+                  - paragraph [ref=e209] [cursor=pointer]: Признаки подобия треугольников
+                - img [ref=e212] [cursor=pointer]
+            - link "12. Применение подобия при решении практических задач" [ref=e214] [cursor=pointer]:
+              - /url: /learn/68ac8bcad7ff8c00077e04d6/68ac8adcd7ff8c00077de4ac/68ab5e5fd608c0000717dff0/68ac8aefd7ff8c00077deb49/
+              - generic [ref=e215] [cursor=pointer]:
+                - generic [ref=e217] [cursor=pointer]:
+                  - generic [ref=e219] [cursor=pointer]: "12."
+                  - paragraph [ref=e221] [cursor=pointer]: Применение подобия при решении практических задач
+                - img [ref=e224] [cursor=pointer]
+            - link "13. Золотое сечение" [ref=e226] [cursor=pointer]:
+              - /url: /learn/68ac8bcad7ff8c00077e04d6/68ac8adcd7ff8c00077de4ac/68ab5e5fd608c0000717dff0/68ac8aefd7ff8c00077deb3e/
+              - generic [ref=e227] [cursor=pointer]:
+                - generic [ref=e229] [cursor=pointer]:
+                  - generic [ref=e231] [cursor=pointer]: "13."
+                  - paragraph [ref=e233] [cursor=pointer]: Золотое сечение
+                - img [ref=e236] [cursor=pointer]
+  - generic [ref=e239]:
+    - generic [ref=e240]:
+      - generic [ref=e241]:
+        - generic [ref=e245]:
+          - img [ref=e247]
+          - link "8 (800) 600-44-02" [ref=e249] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e250]:
+          - generic [ref=e251]: "@"
+          - link "info@ismart.org" [ref=e252] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e253]:
+          - img [ref=e255]
+          - generic [ref=e257]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e258]:
+        - link "Наш сайт" [ref=e261] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e263] [cursor=pointer]
+        - generic [ref=e265]:
+          - link "Лицензия" [ref=e267] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e269] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e271] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e273] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e275] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e277]:
+      - generic [ref=e278]:
+        - link [ref=e279] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e283] [cursor=pointer]
+        - generic [ref=e286]:
+          - link "okIcon" [ref=e287] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e288] [cursor=pointer]
+          - link "dzenIcon" [ref=e289] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e290] [cursor=pointer]
+          - link "vkIcon" [ref=e291] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e292] [cursor=pointer]
+      - generic [ref=e294]:
+        - generic [ref=e296]:
+          - generic [ref=e297]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e298] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e299]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e300] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e301]:
+          - generic [ref=e302]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e303] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e304]: © iSmart, 2018-2026
+```

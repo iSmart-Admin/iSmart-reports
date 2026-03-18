@@ -1,0 +1,237 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Алгебра
+      - generic [ref=e21]: Раздел для обучающихся по алгебре
+    - generic [ref=e22]:
+      - generic [ref=e26]:
+        - button "7" [ref=e27] [cursor=pointer]:
+          - img [ref=e31] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e33]:
+          - img [ref=e37]
+          - text: "8"
+        - button "9" [ref=e39] [cursor=pointer]:
+          - img [ref=e43] [cursor=pointer]
+          - text: "9"
+      - generic [ref=e46]:
+        - generic [ref=e50]:
+          - img [ref=e53]
+          - textbox "Поиск по подтемам" [ref=e56]
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - generic [ref=e59] [cursor=pointer]:
+              - generic [ref=e61] [cursor=pointer]: Темы
+              - button [ref=e63] [cursor=pointer]:
+                - img [ref=e65] [cursor=pointer]
+            - generic [ref=e68] [cursor=pointer]:
+              - generic [ref=e71] [cursor=pointer]: Алгебраические выражения. Алгебраическая дробь
+              - img [ref=e73] [cursor=pointer]
+            - generic [ref=e75] [cursor=pointer]:
+              - generic [ref=e78] [cursor=pointer]: Числа и вычисления. Квадратные корни
+              - img [ref=e80] [cursor=pointer]
+            - generic [ref=e82] [cursor=pointer]:
+              - generic [ref=e85] [cursor=pointer]: Алгебраические выражения. Квадратный трёхчлен
+              - img [ref=e87] [cursor=pointer]
+            - generic [ref=e89] [cursor=pointer]:
+              - generic [ref=e92] [cursor=pointer]: Уравнения и неравенства. Квадратные уравнения
+              - img [ref=e94] [cursor=pointer]
+            - generic [ref=e96] [cursor=pointer]:
+              - generic [ref=e99] [cursor=pointer]: Уравнения и неравенства. Системы уравнений
+              - img [ref=e101] [cursor=pointer]
+            - generic [ref=e103] [cursor=pointer]:
+              - generic [ref=e106] [cursor=pointer]: Уравнения и неравенства. Неравенства
+              - img [ref=e108] [cursor=pointer]
+            - generic [ref=e110] [cursor=pointer]:
+              - generic [ref=e113] [cursor=pointer]: Функции. Основные понятия
+              - img [ref=e115] [cursor=pointer]
+            - generic [ref=e117] [cursor=pointer]:
+              - generic [ref=e120] [cursor=pointer]: Функции. Числовые функции
+              - img [ref=e122] [cursor=pointer]
+            - generic [ref=e124] [cursor=pointer]:
+              - generic [ref=e127] [cursor=pointer]: Числа и вычисления. Степень с целым показателем
+              - img [ref=e129] [cursor=pointer]
+            - generic [ref=e131] [cursor=pointer]:
+              - generic [ref=e134] [cursor=pointer]: Повторение и обобщение
+              - img [ref=e136] [cursor=pointer]
+          - generic [ref=e142]:
+            - link "1. Урок 1. Алгебраическая дробь" [ref=e143] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/699448203e3bd50007bc96f9/
+              - generic [ref=e144] [cursor=pointer]:
+                - generic [ref=e146] [cursor=pointer]:
+                  - generic [ref=e148] [cursor=pointer]: "1."
+                  - paragraph [ref=e150] [cursor=pointer]: Урок 1. Алгебраическая дробь
+                - img [ref=e153] [cursor=pointer]
+            - link "2. Урок 2. Допустимые значения переменных, входящих в алгебраические выражения" [ref=e155] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/6994484a3e3bd50007bca7be/
+              - generic [ref=e156] [cursor=pointer]:
+                - generic [ref=e158] [cursor=pointer]:
+                  - generic [ref=e160] [cursor=pointer]: "2."
+                  - paragraph [ref=e162] [cursor=pointer]: Урок 2. Допустимые значения переменных, входящих в алгебраические выражения
+                - img [ref=e165] [cursor=pointer]
+            - link "3. Урок 3. Допустимые значения переменных, входящих в алгебраические выражения" [ref=e167] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/69944f613e3bd50007beb3e4/
+              - generic [ref=e168] [cursor=pointer]:
+                - generic [ref=e170] [cursor=pointer]:
+                  - generic [ref=e172] [cursor=pointer]: "3."
+                  - paragraph [ref=e174] [cursor=pointer]: Урок 3. Допустимые значения переменных, входящих в алгебраические выражения
+                - img [ref=e177] [cursor=pointer]
+            - link "4. Урок 4. Основное свойство алгебраической дроби" [ref=e179] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/69944f863e3bd50007bebd83/
+              - generic [ref=e180] [cursor=pointer]:
+                - generic [ref=e182] [cursor=pointer]:
+                  - generic [ref=e184] [cursor=pointer]: "4."
+                  - paragraph [ref=e186] [cursor=pointer]: Урок 4. Основное свойство алгебраической дроби
+                - img [ref=e189] [cursor=pointer]
+            - link "5. Урок 5. Сокращение дробей" [ref=e191] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/69944f9d3e3bd50007bec2f8/
+              - generic [ref=e192] [cursor=pointer]:
+                - generic [ref=e194] [cursor=pointer]:
+                  - generic [ref=e196] [cursor=pointer]: "5."
+                  - paragraph [ref=e198] [cursor=pointer]: Урок 5. Сокращение дробей
+                - img [ref=e201] [cursor=pointer]
+            - link "6. Урок 6. Сокращение дробей" [ref=e203] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/69944fb43e3bd50007bec9ad/
+              - generic [ref=e204] [cursor=pointer]:
+                - generic [ref=e206] [cursor=pointer]:
+                  - generic [ref=e208] [cursor=pointer]: "6."
+                  - paragraph [ref=e210] [cursor=pointer]: Урок 6. Сокращение дробей
+                - img [ref=e213] [cursor=pointer]
+            - link "7. Урок 7. Сокращение дробей" [ref=e215] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/69944fde3e3bd50007bed6dc/
+              - generic [ref=e216] [cursor=pointer]:
+                - generic [ref=e218] [cursor=pointer]:
+                  - generic [ref=e220] [cursor=pointer]: "7."
+                  - paragraph [ref=e222] [cursor=pointer]: Урок 7. Сокращение дробей
+                - img [ref=e225] [cursor=pointer]
+            - link "8. Урок 8. Сложение, вычитание, умножение и деление алгебраических дробей" [ref=e227] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/69944ff93e3bd50007bee07d/
+              - generic [ref=e228] [cursor=pointer]:
+                - generic [ref=e230] [cursor=pointer]:
+                  - generic [ref=e232] [cursor=pointer]: "8."
+                  - paragraph [ref=e234] [cursor=pointer]: Урок 8. Сложение, вычитание, умножение и деление алгебраических дробей
+                - img [ref=e237] [cursor=pointer]
+            - link "9. Урок 9. Сложение, вычитание, умножение и деление алгебраических дробей" [ref=e239] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/6994500a3e3bd50007bee6c6/
+              - generic [ref=e240] [cursor=pointer]:
+                - generic [ref=e242] [cursor=pointer]:
+                  - generic [ref=e244] [cursor=pointer]: "9."
+                  - paragraph [ref=e246] [cursor=pointer]: Урок 9. Сложение, вычитание, умножение и деление алгебраических дробей
+                - img [ref=e249] [cursor=pointer]
+            - link "10. Урок 10. Сложение, вычитание, умножение и деление алгебраических дробей" [ref=e251] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/6994501c3e3bd50007beeb67/
+              - generic [ref=e252] [cursor=pointer]:
+                - generic [ref=e254] [cursor=pointer]:
+                  - generic [ref=e256] [cursor=pointer]: "10."
+                  - paragraph [ref=e258] [cursor=pointer]: Урок 10. Сложение, вычитание, умножение и деление алгебраических дробей
+                - img [ref=e261] [cursor=pointer]
+            - link "11. Урок 11. Сложение, вычитание, умножение и деление алгебраических дробей" [ref=e263] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/699450353e3bd50007bef386/
+              - generic [ref=e264] [cursor=pointer]:
+                - generic [ref=e266] [cursor=pointer]:
+                  - generic [ref=e268] [cursor=pointer]: "11."
+                  - paragraph [ref=e270] [cursor=pointer]: Урок 11. Сложение, вычитание, умножение и деление алгебраических дробей
+                - img [ref=e273] [cursor=pointer]
+            - link "12. Урок 12. Преобразование выражений, содержащих алгебраические дроби" [ref=e275] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/6994504b3e3bd50007bef86f/
+              - generic [ref=e276] [cursor=pointer]:
+                - generic [ref=e278] [cursor=pointer]:
+                  - generic [ref=e280] [cursor=pointer]: "12."
+                  - paragraph [ref=e282] [cursor=pointer]: Урок 12. Преобразование выражений, содержащих алгебраические дроби
+                - img [ref=e285] [cursor=pointer]
+            - link "13. Урок 13. Преобразование выражений, содержащих алгебраические дроби" [ref=e287] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/6994505c3e3bd50007befbbb/
+              - generic [ref=e288] [cursor=pointer]:
+                - generic [ref=e290] [cursor=pointer]:
+                  - generic [ref=e292] [cursor=pointer]: "13."
+                  - paragraph [ref=e294] [cursor=pointer]: Урок 13. Преобразование выражений, содержащих алгебраические дроби
+                - img [ref=e297] [cursor=pointer]
+            - link "14. Урок 14. Преобразование выражений, содержащих алгебраические дроби" [ref=e299] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/6994506c3e3bd50007beff05/
+              - generic [ref=e300] [cursor=pointer]:
+                - generic [ref=e302] [cursor=pointer]:
+                  - generic [ref=e304] [cursor=pointer]: "14."
+                  - paragraph [ref=e306] [cursor=pointer]: Урок 14. Преобразование выражений, содержащих алгебраические дроби
+                - img [ref=e309] [cursor=pointer]
+            - link "15. Урок 15. Контрольная работа по теме «Алгебраическая дробь»" [active] [ref=e311] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/6994509d3e3bd50007bf0c9c/
+              - generic [ref=e312] [cursor=pointer]:
+                - generic [ref=e314] [cursor=pointer]:
+                  - generic [ref=e316] [cursor=pointer]: "15."
+                  - paragraph [ref=e318] [cursor=pointer]: Урок 15. Контрольная работа по теме «Алгебраическая дробь»
+                - img [ref=e321] [cursor=pointer]
+  - generic [ref=e324]:
+    - generic [ref=e325]:
+      - generic [ref=e326]:
+        - generic [ref=e330]:
+          - img [ref=e332]
+          - link "8 (800) 600-44-02" [ref=e334] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e335]:
+          - generic [ref=e336]: "@"
+          - link "info@ismart.org" [ref=e337] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e338]:
+          - img [ref=e340]
+          - generic [ref=e342]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e343]:
+        - link "Наш сайт" [ref=e346] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e348] [cursor=pointer]
+        - generic [ref=e350]:
+          - link "Лицензия" [ref=e352] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e354] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e356] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e358] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e360] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e362]:
+      - generic [ref=e363]:
+        - link [ref=e364] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e368] [cursor=pointer]
+        - generic [ref=e371]:
+          - link "okIcon" [ref=e372] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e373] [cursor=pointer]
+          - link "dzenIcon" [ref=e374] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e375] [cursor=pointer]
+          - link "vkIcon" [ref=e376] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e377] [cursor=pointer]
+      - generic [ref=e379]:
+        - generic [ref=e381]:
+          - generic [ref=e382]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e383] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e384]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e385] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e386]:
+          - generic [ref=e387]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e388] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e389]: © iSmart, 2018-2026
+```
