@@ -1,0 +1,210 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Геометрия
+      - generic [ref=e21]: Раздел для обучающихся по геометрии
+    - generic [ref=e22]:
+      - generic [ref=e26]:
+        - button "7" [ref=e27] [cursor=pointer]:
+          - img [ref=e31] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e33]:
+          - img [ref=e37]
+          - text: "8"
+        - button "9" [ref=e39] [cursor=pointer]:
+          - img [ref=e43] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e45] [cursor=pointer]:
+          - img [ref=e49] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e51] [cursor=pointer]:
+          - img [ref=e55] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e58]:
+        - generic [ref=e62]:
+          - img [ref=e65]
+          - textbox "Поиск по подтемам" [ref=e68]
+        - generic [ref=e69]:
+          - generic [ref=e70]:
+            - generic [ref=e71] [cursor=pointer]:
+              - generic [ref=e73] [cursor=pointer]: Темы
+              - button [ref=e75] [cursor=pointer]:
+                - img [ref=e77] [cursor=pointer]
+            - generic [ref=e80] [cursor=pointer]:
+              - generic [ref=e83] [cursor=pointer]: Четырёхугольники
+              - img [ref=e85] [cursor=pointer]
+            - generic [ref=e87] [cursor=pointer]:
+              - generic [ref=e90] [cursor=pointer]: Площадь. Нахождение площадей треугольников и многоугольных фигур. Площади подобных фигур
+              - img [ref=e92] [cursor=pointer]
+            - generic [ref=e94] [cursor=pointer]:
+              - generic [ref=e97] [cursor=pointer]: Теорема Пифагора и начала тригонометрии
+              - img [ref=e99] [cursor=pointer]
+            - generic [ref=e101] [cursor=pointer]:
+              - generic [ref=e104] [cursor=pointer]: Теорема Фалеса и теорема о пропорциональных отрезках, подобные треугольники
+              - img [ref=e106] [cursor=pointer]
+            - generic [ref=e108] [cursor=pointer]:
+              - generic [ref=e111] [cursor=pointer]: Углы в окружности. Вписанные и описанные четырехугольники. Касательные к окружности. Касание окружностей
+              - img [ref=e113] [cursor=pointer]
+            - generic [ref=e115] [cursor=pointer]:
+              - generic [ref=e118] [cursor=pointer]: Повторение, обобщение знаний
+              - img [ref=e120] [cursor=pointer]
+          - generic [ref=e126]:
+            - link "1. Урок 1. Параллелограмм, его признаки и свойства" [ref=e127] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f63090daee1af001b415303/69947721b7e9140007802fff/
+              - generic [ref=e128] [cursor=pointer]:
+                - generic [ref=e130] [cursor=pointer]:
+                  - generic [ref=e132] [cursor=pointer]: "1."
+                  - paragraph [ref=e134] [cursor=pointer]: Урок 1. Параллелограмм, его признаки и свойства
+                - img [ref=e137] [cursor=pointer]
+            - link "2. Урок 2. Параллелограмм, его признаки и свойства" [ref=e139] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f63090daee1af001b415303/69947733b7e91400078035bb/
+              - generic [ref=e140] [cursor=pointer]:
+                - generic [ref=e142] [cursor=pointer]:
+                  - generic [ref=e144] [cursor=pointer]: "2."
+                  - paragraph [ref=e146] [cursor=pointer]: Урок 2. Параллелограмм, его признаки и свойства
+                - img [ref=e149] [cursor=pointer]
+            - link "3. Урок 3. Параллелограмм, его признаки и свойства" [ref=e151] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f63090daee1af001b415303/6994773db7e9140007803821/
+              - generic [ref=e152] [cursor=pointer]:
+                - generic [ref=e154] [cursor=pointer]:
+                  - generic [ref=e156] [cursor=pointer]: "3."
+                  - paragraph [ref=e158] [cursor=pointer]: Урок 3. Параллелограмм, его признаки и свойства
+                - img [ref=e161] [cursor=pointer]
+            - link "4. Урок 4. Частные случаи параллелограммов (прямоугольник, ромб, квадрат), их признаки и свойства" [ref=e163] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f63090daee1af001b415303/69947752b7e9140007803ef5/
+              - generic [ref=e164] [cursor=pointer]:
+                - generic [ref=e166] [cursor=pointer]:
+                  - generic [ref=e168] [cursor=pointer]: "4."
+                  - paragraph [ref=e170] [cursor=pointer]: Урок 4. Частные случаи параллелограммов (прямоугольник, ромб, квадрат), их признаки и свойства
+                - img [ref=e173] [cursor=pointer]
+            - link "5. Урок 5. Частные случаи параллелограммов (прямоугольник, ромб, квадрат), их признаки и свойства" [ref=e175] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f63090daee1af001b415303/6994775fb7e91400078043d7/
+              - generic [ref=e176] [cursor=pointer]:
+                - generic [ref=e178] [cursor=pointer]:
+                  - generic [ref=e180] [cursor=pointer]: "5."
+                  - paragraph [ref=e182] [cursor=pointer]: Урок 5. Частные случаи параллелограммов (прямоугольник, ромб, квадрат), их признаки и свойства
+                - img [ref=e185] [cursor=pointer]
+            - link "6. Урок 6. Частные случаи параллелограммов (прямоугольник, ромб, квадрат), их признаки и свойства" [ref=e187] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f63090daee1af001b415303/69947769b7e9140007804692/
+              - generic [ref=e188] [cursor=pointer]:
+                - generic [ref=e190] [cursor=pointer]:
+                  - generic [ref=e192] [cursor=pointer]: "6."
+                  - paragraph [ref=e194] [cursor=pointer]: Урок 6. Частные случаи параллелограммов (прямоугольник, ромб, квадрат), их признаки и свойства
+                - img [ref=e197] [cursor=pointer]
+            - link "7. Урок 7. Трапеция" [ref=e199] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f63090daee1af001b415303/69947780b7e9140007804ec0/
+              - generic [ref=e200] [cursor=pointer]:
+                - generic [ref=e202] [cursor=pointer]:
+                  - generic [ref=e204] [cursor=pointer]: "7."
+                  - paragraph [ref=e206] [cursor=pointer]: Урок 7. Трапеция
+                - img [ref=e209] [cursor=pointer]
+            - link "8. Урок 8. Равнобокая и прямоугольная трапеции" [ref=e211] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f63090daee1af001b415303/69947796b7e91400078056e2/
+              - generic [ref=e212] [cursor=pointer]:
+                - generic [ref=e214] [cursor=pointer]:
+                  - generic [ref=e216] [cursor=pointer]: "8."
+                  - paragraph [ref=e218] [cursor=pointer]: Урок 8. Равнобокая и прямоугольная трапеции
+                - img [ref=e221] [cursor=pointer]
+            - link "9. Урок 9. Равнобокая и прямоугольная трапеции" [ref=e223] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f63090daee1af001b415303/699477a0b7e9140007805b6d/
+              - generic [ref=e224] [cursor=pointer]:
+                - generic [ref=e226] [cursor=pointer]:
+                  - generic [ref=e228] [cursor=pointer]: "9."
+                  - paragraph [ref=e230] [cursor=pointer]: Урок 9. Равнобокая и прямоугольная трапеции
+                - img [ref=e233] [cursor=pointer]
+            - link "10. Урок 10. Метод удвоения медианы" [ref=e235] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f63090daee1af001b415303/699477b1b7e9140007806228/
+              - generic [ref=e236] [cursor=pointer]:
+                - generic [ref=e238] [cursor=pointer]:
+                  - generic [ref=e240] [cursor=pointer]: "10."
+                  - paragraph [ref=e242] [cursor=pointer]: Урок 10. Метод удвоения медианы
+                - img [ref=e245] [cursor=pointer]
+            - link "11. Урок 11. Центральная симметрия" [ref=e247] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f63090daee1af001b415303/699477c4b7e9140007806968/
+              - generic [ref=e248] [cursor=pointer]:
+                - generic [ref=e250] [cursor=pointer]:
+                  - generic [ref=e252] [cursor=pointer]: "11."
+                  - paragraph [ref=e254] [cursor=pointer]: Урок 11. Центральная симметрия
+                - img [ref=e257] [cursor=pointer]
+            - link "12. Урок 12. Контрольная работа по теме «Четырёхугольники»" [ref=e259] [cursor=pointer]:
+              - /url: /learn/674848284ffa30000754897b/662bb8cfa471430007e0064d/5f63090daee1af001b415303/699477e5b7e91400078075dd/
+              - generic [ref=e260] [cursor=pointer]:
+                - generic [ref=e262] [cursor=pointer]:
+                  - generic [ref=e264] [cursor=pointer]: "12."
+                  - paragraph [ref=e266] [cursor=pointer]: Урок 12. Контрольная работа по теме «Четырёхугольники»
+                - img [ref=e269] [cursor=pointer]
+  - generic [ref=e272]:
+    - generic [ref=e273]:
+      - generic [ref=e274]:
+        - generic [ref=e278]:
+          - img [ref=e280]
+          - link "8 (800) 600-44-02" [ref=e282] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e283]:
+          - generic [ref=e284]: "@"
+          - link "info@ismart.org" [ref=e285] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e286]:
+          - img [ref=e288]
+          - generic [ref=e290]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e291]:
+        - link "Наш сайт" [ref=e294] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e296] [cursor=pointer]
+        - generic [ref=e298]:
+          - link "Лицензия" [ref=e300] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e302] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e304] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e306] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e308] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e310]:
+      - generic [ref=e311]:
+        - link [ref=e312] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e316] [cursor=pointer]
+        - generic [ref=e319]:
+          - link "okIcon" [ref=e320] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e321] [cursor=pointer]
+          - link "dzenIcon" [ref=e322] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e323] [cursor=pointer]
+          - link "vkIcon" [ref=e324] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e325] [cursor=pointer]
+      - generic [ref=e327]:
+        - generic [ref=e329]:
+          - generic [ref=e330]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e331] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e332]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e333] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e334]:
+          - generic [ref=e335]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e336] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e337]: © iSmart, 2018-2026
+```
