@@ -1,0 +1,8 @@
+[
+  {
+    "url": "https://edu.ismart.org/trpc/educont.getSubthemeEducontProgress?batch=1&input=%7B%220%22%3A%7B%22subthemeId%22%3A%2260a7a7edd714b757bc0ce5bc%22%2C%22lessonId%22%3A%22690385f94ee00ecb56e2f9af%22%7D%7D",
+    "status": 500,
+    "payload": null,
+    "timestap": "20.03.2026, 18:57:53"
+  }
+]
