@@ -1,0 +1,114 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - region "Задача для решения" [active] [ref=e25] [cursor=pointer]:
+          - generic [ref=e26] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e35]:
+              - generic [ref=e37]:
+                - img [ref=e41]
+                - heading "Выберите верный вариант ответа." [level=4] [ref=e43]:
+                  - generic [ref=e45]: Выберите верный вариант ответа.
+              - generic [ref=e47]:
+                - img "decore" [ref=e50]
+                - generic [ref=e56]: Определите тип гибридизации атома углерода при двойной связи.
+              - generic [ref=e60]:
+                - generic [ref=e66] [cursor=pointer]:
+                  - math [ref=e68] [cursor=pointer]:
+                    - generic [ref=e70] [cursor=pointer]:
+                      - generic [ref=e71] [cursor=pointer]: s
+                      - generic [ref=e72] [cursor=pointer]: p
+                  - generic [ref=e74] [cursor=pointer]:
+                    - generic [ref=e75] [cursor=pointer]: s
+                    - generic [ref=e76] [cursor=pointer]: p
+                - generic [ref=e82] [cursor=pointer]:
+                  - math [ref=e84] [cursor=pointer]:
+                    - generic [ref=e86] [cursor=pointer]:
+                      - generic [ref=e87] [cursor=pointer]: s
+                      - generic [ref=e88] [cursor=pointer]:
+                        - generic [ref=e89] [cursor=pointer]: p
+                        - generic [ref=e90] [cursor=pointer]: "2"
+                  - generic [ref=e92] [cursor=pointer]:
+                    - generic [ref=e93] [cursor=pointer]: s
+                    - generic [ref=e94] [cursor=pointer]:
+                      - generic [ref=e95] [cursor=pointer]: p
+                      - generic [ref=e101] [cursor=pointer]: "2"
+                - generic [ref=e107] [cursor=pointer]:
+                  - math [ref=e109] [cursor=pointer]:
+                    - generic [ref=e111] [cursor=pointer]:
+                      - generic [ref=e112] [cursor=pointer]: s
+                      - generic [ref=e113] [cursor=pointer]:
+                        - generic [ref=e114] [cursor=pointer]: p
+                        - generic [ref=e115] [cursor=pointer]: "3"
+                  - generic [ref=e117] [cursor=pointer]:
+                    - generic [ref=e118] [cursor=pointer]: s
+                    - generic [ref=e119] [cursor=pointer]:
+                      - generic [ref=e120] [cursor=pointer]: p
+                      - generic [ref=e126] [cursor=pointer]: "3"
+                - generic [ref=e132] [cursor=pointer]:
+                  - math [ref=e134] [cursor=pointer]:
+                    - generic [ref=e136] [cursor=pointer]:
+                      - generic [ref=e137] [cursor=pointer]: s
+                      - generic [ref=e138] [cursor=pointer]:
+                        - generic [ref=e139] [cursor=pointer]: p
+                        - generic [ref=e140] [cursor=pointer]: "2"
+                      - generic [ref=e141] [cursor=pointer]: d
+                  - generic [ref=e143] [cursor=pointer]:
+                    - generic [ref=e144] [cursor=pointer]: s
+                    - generic [ref=e145] [cursor=pointer]:
+                      - generic [ref=e146] [cursor=pointer]: p
+                      - generic [ref=e152] [cursor=pointer]: "2"
+                    - generic [ref=e153] [cursor=pointer]: d
+        - generic [ref=e158]:
+          - generic [ref=e161]:
+            - button [disabled] [ref=e163]:
+              - img [ref=e165]
+            - generic [ref=e168]: 100%
+            - button [ref=e170] [cursor=pointer]:
+              - img [ref=e172] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e177] [cursor=pointer]:
+            - generic [ref=e180] [cursor=pointer]: "2"
+            - generic [ref=e181] [cursor=pointer]: Показать подсказку
+      - generic [ref=e185]:
+        - generic [ref=e188]: Интеллектуальный тренажер
+        - generic [ref=e192]:
+          - generic [ref=e197]: 1 из 15
+          - generic [ref=e199]:
+            - generic [ref=e200]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e202] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e205]:
+          - generic [ref=e207]:
+            - button "Пройти опрос" [ref=e208] [cursor=pointer]:
+              - generic [ref=e210] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e211] [cursor=pointer]:
+              - img [ref=e214] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e217] [cursor=pointer]:
+              - img [ref=e220] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e224] [cursor=pointer]:
+              - img [ref=e227] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e229]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e230] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e233] [cursor=pointer]
+            - generic [ref=e236]: 69bc8b52c595900007899811
+```

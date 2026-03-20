@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query Configuration {\n  configuration {\n    collectParentPhoneNumbers\n    enableTrialPeriodForSubscriptions\n    newUserDiscount {\n      value\n      activeHours\n      enable\n    }\n  }\n}\n"
+    },
+    "timestap": "19.03.2026, 23:05:15"
+  }
+]

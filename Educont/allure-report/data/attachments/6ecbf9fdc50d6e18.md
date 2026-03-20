@@ -1,0 +1,186 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                  - button "4" [ref=e48] [cursor=pointer]
+                  - button "5" [ref=e51] [cursor=pointer]
+                  - button "6" [ref=e54] [cursor=pointer]
+                - generic [ref=e55]:
+                  - button [disabled] [ref=e56]:
+                    - img [ref=e58]
+                  - button [disabled] [ref=e61]:
+                    - img [ref=e63]
+            - generic [ref=e66]:
+              - generic [ref=e68]:
+                - img [ref=e72]
+                - heading "Выберите верный вариант ответа." [level=4] [ref=e74]:
+                  - generic [ref=e76]: Выберите верный вариант ответа.
+              - generic [ref=e78]:
+                - img "decore" [ref=e81]
+                - generic [ref=e87]:
+                  - text: Тело движется по прямой. Начальный импульс тела равен
+                  - generic [ref=e89]:
+                    - math [ref=e91]:
+                      - generic [ref=e93]:
+                        - generic [ref=e94]: "50"
+                        - generic [ref=e95]: кг
+                        - generic [ref=e96]: ⋅
+                        - generic [ref=e97]: м
+                        - generic [ref=e98]: /
+                        - generic [ref=e99]: с
+                    - generic [ref=e101]:
+                      - generic [ref=e102]: "50"
+                      - generic [ref=e103]: кг
+                      - generic [ref=e104]: ⋅
+                      - generic [ref=e105]: м
+                      - generic [ref=e106]: /
+                      - generic [ref=e107]: с
+                  - text: . Под действием постоянной силы
+                  - generic [ref=e109]:
+                    - math [ref=e111]:
+                      - generic [ref=e113]:
+                        - generic [ref=e114]: "10"
+                        - generic [ref=e115]: Н
+                    - generic [ref=e117]:
+                      - generic [ref=e118]: "10"
+                      - generic [ref=e119]: Н
+                  - text: за
+                  - generic [ref=e121]:
+                    - math [ref=e123]:
+                      - generic [ref=e125]:
+                        - generic [ref=e126]: "2"
+                        - generic [ref=e127]: с
+                    - generic [ref=e129]:
+                      - generic [ref=e130]: "2"
+                      - generic [ref=e131]: с
+                  - text: импульс тела увеличился. Чему он стал равен?
+              - generic [ref=e134]:
+                - generic [ref=e140] [cursor=pointer]:
+                  - math [ref=e142] [cursor=pointer]:
+                    - generic [ref=e144] [cursor=pointer]:
+                      - generic [ref=e145] [cursor=pointer]: "10"
+                      - generic [ref=e146] [cursor=pointer]: кг
+                      - generic [ref=e147] [cursor=pointer]: ⋅
+                      - generic [ref=e148] [cursor=pointer]: м
+                      - generic [ref=e149] [cursor=pointer]: /
+                      - generic [ref=e150] [cursor=pointer]: с
+                  - generic [ref=e152] [cursor=pointer]:
+                    - generic [ref=e153] [cursor=pointer]: "10"
+                    - generic [ref=e154] [cursor=pointer]: кг
+                    - generic [ref=e155] [cursor=pointer]: ⋅
+                    - generic [ref=e156] [cursor=pointer]: м
+                    - generic [ref=e157] [cursor=pointer]: /
+                    - generic [ref=e158] [cursor=pointer]: с
+                - generic [ref=e164] [cursor=pointer]:
+                  - math [ref=e166] [cursor=pointer]:
+                    - generic [ref=e168] [cursor=pointer]:
+                      - generic [ref=e169] [cursor=pointer]: "20"
+                      - generic [ref=e170] [cursor=pointer]: кг
+                      - generic [ref=e171] [cursor=pointer]: ⋅
+                      - generic [ref=e172] [cursor=pointer]: м
+                      - generic [ref=e173] [cursor=pointer]: /
+                      - generic [ref=e174] [cursor=pointer]: с
+                  - generic [ref=e176] [cursor=pointer]:
+                    - generic [ref=e177] [cursor=pointer]: "20"
+                    - generic [ref=e178] [cursor=pointer]: кг
+                    - generic [ref=e179] [cursor=pointer]: ⋅
+                    - generic [ref=e180] [cursor=pointer]: м
+                    - generic [ref=e181] [cursor=pointer]: /
+                    - generic [ref=e182] [cursor=pointer]: с
+                - generic [ref=e188] [cursor=pointer]:
+                  - math [ref=e190] [cursor=pointer]:
+                    - generic [ref=e192] [cursor=pointer]:
+                      - generic [ref=e193] [cursor=pointer]: "70"
+                      - generic [ref=e194] [cursor=pointer]: кг
+                      - generic [ref=e195] [cursor=pointer]: ⋅
+                      - generic [ref=e196] [cursor=pointer]: м
+                      - generic [ref=e197] [cursor=pointer]: /
+                      - generic [ref=e198] [cursor=pointer]: с
+                  - generic [ref=e200] [cursor=pointer]:
+                    - generic [ref=e201] [cursor=pointer]: "70"
+                    - generic [ref=e202] [cursor=pointer]: кг
+                    - generic [ref=e203] [cursor=pointer]: ⋅
+                    - generic [ref=e204] [cursor=pointer]: м
+                    - generic [ref=e205] [cursor=pointer]: /
+                    - generic [ref=e206] [cursor=pointer]: с
+                - generic [ref=e212] [cursor=pointer]:
+                  - math [ref=e214] [cursor=pointer]:
+                    - generic [ref=e216] [cursor=pointer]:
+                      - generic [ref=e217] [cursor=pointer]: "45"
+                      - generic [ref=e218] [cursor=pointer]: кг
+                      - generic [ref=e219] [cursor=pointer]: ⋅
+                      - generic [ref=e220] [cursor=pointer]: м
+                      - generic [ref=e221] [cursor=pointer]: /
+                      - generic [ref=e222] [cursor=pointer]: с
+                  - generic [ref=e224] [cursor=pointer]:
+                    - generic [ref=e225] [cursor=pointer]: "45"
+                    - generic [ref=e226] [cursor=pointer]: кг
+                    - generic [ref=e227] [cursor=pointer]: ⋅
+                    - generic [ref=e228] [cursor=pointer]: м
+                    - generic [ref=e229] [cursor=pointer]: /
+                    - generic [ref=e230] [cursor=pointer]: с
+        - generic [ref=e235]:
+          - generic [ref=e238]:
+            - button [disabled] [ref=e240]:
+              - img [ref=e242]
+            - generic [ref=e245]: 100%
+            - button [ref=e247] [cursor=pointer]:
+              - img [ref=e249] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e254] [cursor=pointer]:
+            - generic [ref=e257] [cursor=pointer]: "2"
+            - generic [ref=e258] [cursor=pointer]: Показать подсказку
+      - generic [ref=e262]:
+        - generic [ref=e265]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e271] [cursor=pointer]:
+          - img [ref=e274] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e276]:
+          - generic [ref=e278]:
+            - button "Черновик" [ref=e279] [cursor=pointer]:
+              - img [ref=e282] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e285] [cursor=pointer]:
+              - img [ref=e288] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e290]:
+              - button "Часто задаваемые вопросы" [ref=e292] [cursor=pointer]:
+                - img [ref=e295] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e297]:
+                - button "Информация об уроке" [ref=e299] [cursor=pointer]:
+                  - img [ref=e302] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e304]: Вы привязаны к школе Тест educont 2
+          - generic [ref=e305]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e306] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e309] [cursor=pointer]
+```

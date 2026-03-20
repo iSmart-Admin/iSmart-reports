@@ -1,0 +1,348 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e18]:
+        - generic [ref=e19]: Математика
+        - generic [ref=e21]: Подготовка к контрольным работам
+      - button "Методические рекомендации" [ref=e24] [cursor=pointer]
+    - generic [ref=e25]:
+      - generic [ref=e30]:
+        - button "2" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e37]:
+          - img [ref=e41]
+          - text: "3"
+        - button "4" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "6"
+      - generic [ref=e62]:
+        - generic [ref=e66]:
+          - img [ref=e69]
+          - textbox "Поиск по подтемам" [ref=e72]
+        - generic [ref=e73]:
+          - generic [ref=e74]:
+            - generic [ref=e75] [cursor=pointer]:
+              - generic [ref=e77] [cursor=pointer]: Темы
+              - button [ref=e79] [cursor=pointer]:
+                - img [ref=e81] [cursor=pointer]
+            - generic [ref=e83] [cursor=pointer]:
+              - generic [ref=e86] [cursor=pointer]: Входная контрольная работа
+              - img [ref=e88] [cursor=pointer]
+            - generic [ref=e90] [cursor=pointer]:
+              - generic [ref=e93] [cursor=pointer]: Контрольная работа №1
+              - img [ref=e95] [cursor=pointer]
+            - generic [ref=e98] [cursor=pointer]:
+              - generic [ref=e101] [cursor=pointer]: Контрольная работа №2
+              - img [ref=e103] [cursor=pointer]
+            - generic [ref=e105] [cursor=pointer]:
+              - generic [ref=e108] [cursor=pointer]: Контрольная работа №3
+              - img [ref=e110] [cursor=pointer]
+            - generic [ref=e112] [cursor=pointer]:
+              - generic [ref=e115] [cursor=pointer]: Контрольная работа №4
+              - img [ref=e117] [cursor=pointer]
+            - generic [ref=e119] [cursor=pointer]:
+              - generic [ref=e122] [cursor=pointer]: Контрольная работа №5
+              - img [ref=e124] [cursor=pointer]
+            - generic [ref=e126] [cursor=pointer]:
+              - generic [ref=e129] [cursor=pointer]: Итоговая контрольная работа
+              - img [ref=e131] [cursor=pointer]
+          - generic [ref=e137]:
+            - link "1. Сравнение выражений с числами до 10 (умножение)" [ref=e138] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a28a07e76c0007829a9d/
+              - generic [ref=e139] [cursor=pointer]:
+                - generic [ref=e141] [cursor=pointer]:
+                  - generic [ref=e143] [cursor=pointer]: "1."
+                  - paragraph [ref=e145] [cursor=pointer]: Сравнение выражений с числами до 10 (умножение)
+                - img [ref=e148] [cursor=pointer]
+            - link "2. Сравнение значения выражений со скобками и без в 2 действия со сложением и вычитанием" [ref=e150] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a2a907e76c0007829adc/
+              - generic [ref=e151] [cursor=pointer]:
+                - generic [ref=e153] [cursor=pointer]:
+                  - generic [ref=e155] [cursor=pointer]: "2."
+                  - paragraph [ref=e157] [cursor=pointer]: Сравнение значения выражений со скобками и без в 2 действия со сложением и вычитанием
+                - img [ref=e160] [cursor=pointer]
+            - link "3. Умножение на 6" [ref=e162] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a2e507e76c0007829b04/
+              - generic [ref=e163] [cursor=pointer]:
+                - generic [ref=e165] [cursor=pointer]:
+                  - generic [ref=e167] [cursor=pointer]: "3."
+                  - paragraph [ref=e169] [cursor=pointer]: Умножение на 6
+                - img [ref=e172] [cursor=pointer]
+            - link "4. Умножение на 7" [ref=e174] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a32707e76c0007829b15/
+              - generic [ref=e175] [cursor=pointer]:
+                - generic [ref=e177] [cursor=pointer]:
+                  - generic [ref=e179] [cursor=pointer]: "4."
+                  - paragraph [ref=e181] [cursor=pointer]: Умножение на 7
+                - img [ref=e184] [cursor=pointer]
+            - link "5. Умножение на 8" [ref=e186] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a34b07e76c0007829b94/
+              - generic [ref=e187] [cursor=pointer]:
+                - generic [ref=e189] [cursor=pointer]:
+                  - generic [ref=e191] [cursor=pointer]: "5."
+                  - paragraph [ref=e193] [cursor=pointer]: Умножение на 8
+                - img [ref=e196] [cursor=pointer]
+            - link "6. Умножение на 9" [ref=e198] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a35607e76c0007829ba8/
+              - generic [ref=e199] [cursor=pointer]:
+                - generic [ref=e201] [cursor=pointer]:
+                  - generic [ref=e203] [cursor=pointer]: "6."
+                  - paragraph [ref=e205] [cursor=pointer]: Умножение на 9
+                - img [ref=e208] [cursor=pointer]
+            - link "7. Деление на 6" [ref=e210] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a36c07e76c0007829baf/
+              - generic [ref=e211] [cursor=pointer]:
+                - generic [ref=e213] [cursor=pointer]:
+                  - generic [ref=e215] [cursor=pointer]: "7."
+                  - paragraph [ref=e217] [cursor=pointer]: Деление на 6
+                - img [ref=e220] [cursor=pointer]
+            - link "8. Деление на 7" [ref=e222] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a37807e76c0007829bb6/
+              - generic [ref=e223] [cursor=pointer]:
+                - generic [ref=e225] [cursor=pointer]:
+                  - generic [ref=e227] [cursor=pointer]: "8."
+                  - paragraph [ref=e229] [cursor=pointer]: Деление на 7
+                - img [ref=e232] [cursor=pointer]
+            - link "9. Деление на 8" [ref=e234] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a38707e76c0007829bbd/
+              - generic [ref=e235] [cursor=pointer]:
+                - generic [ref=e237] [cursor=pointer]:
+                  - generic [ref=e239] [cursor=pointer]: "9."
+                  - paragraph [ref=e241] [cursor=pointer]: Деление на 8
+                - img [ref=e244] [cursor=pointer]
+            - link "10. Деление на 9" [ref=e246] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a39607e76c0007829bc4/
+              - generic [ref=e247] [cursor=pointer]:
+                - generic [ref=e249] [cursor=pointer]:
+                  - generic [ref=e251] [cursor=pointer]: "10."
+                  - paragraph [ref=e253] [cursor=pointer]: Деление на 9
+                - img [ref=e256] [cursor=pointer]
+            - link "11. Задачи на сложение и вычитание двузначных чисел в пределах 100" [ref=e258] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a3ac07e76c0007829bcb/
+              - generic [ref=e259] [cursor=pointer]:
+                - generic [ref=e261] [cursor=pointer]:
+                  - generic [ref=e263] [cursor=pointer]: "11."
+                  - paragraph [ref=e265] [cursor=pointer]: Задачи на сложение и вычитание двузначных чисел в пределах 100
+                - img [ref=e268] [cursor=pointer]
+            - link "12. Текстовые задачи на увеличение в несколько раз (табличные значения)" [ref=e270] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a3c907e76c0007829bd2/
+              - generic [ref=e271] [cursor=pointer]:
+                - generic [ref=e273] [cursor=pointer]:
+                  - generic [ref=e275] [cursor=pointer]: "12."
+                  - paragraph [ref=e277] [cursor=pointer]: Текстовые задачи на увеличение в несколько раз (табличные значения)
+                - img [ref=e280] [cursor=pointer]
+            - link "13. Текстовые задачи на кратное сравнение (в пределах 50)" [ref=e282] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a3ec07e76c0007829be2/
+              - generic [ref=e283] [cursor=pointer]:
+                - generic [ref=e285] [cursor=pointer]:
+                  - generic [ref=e287] [cursor=pointer]: "13."
+                  - paragraph [ref=e289] [cursor=pointer]: Текстовые задачи на кратное сравнение (в пределах 50)
+                - img [ref=e292] [cursor=pointer]
+            - link "14. Нахождение одного-двух общих признаков чисел, величин, геометрических фигур" [ref=e294] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a5c007e76c0007829cfb/
+              - generic [ref=e295] [cursor=pointer]:
+                - generic [ref=e297] [cursor=pointer]:
+                  - generic [ref=e299] [cursor=pointer]: "14."
+                  - paragraph [ref=e301] [cursor=pointer]: Нахождение одного-двух общих признаков чисел, величин, геометрических фигур
+                - img [ref=e304] [cursor=pointer]
+            - link "15. Верные/неверные высказывания о числах" [ref=e306] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a5e407e76c0007829d02/
+              - generic [ref=e307] [cursor=pointer]:
+                - generic [ref=e309] [cursor=pointer]:
+                  - generic [ref=e311] [cursor=pointer]: "15."
+                  - paragraph [ref=e313] [cursor=pointer]: Верные/неверные высказывания о числах
+                - img [ref=e316] [cursor=pointer]
+            - link "16. Выбрать верное равенство (умножение в пределах 100)" [ref=e318] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a60707e76c0007829d14/
+              - generic [ref=e319] [cursor=pointer]:
+                - generic [ref=e321] [cursor=pointer]:
+                  - generic [ref=e323] [cursor=pointer]: "16."
+                  - paragraph [ref=e325] [cursor=pointer]: Выбрать верное равенство (умножение в пределах 100)
+                - img [ref=e328] [cursor=pointer]
+            - link "17. Выбрать верное равенство выражений (умножение в пределах 100)" [ref=e330] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a62e07e76c0007829d22/
+              - generic [ref=e331] [cursor=pointer]:
+                - generic [ref=e333] [cursor=pointer]:
+                  - generic [ref=e335] [cursor=pointer]: "17."
+                  - paragraph [ref=e337] [cursor=pointer]: Выбрать верное равенство выражений (умножение в пределах 100)
+                - img [ref=e340] [cursor=pointer]
+            - link "18. Текстовые задачи на кратное сравнение (табличные значения)" [ref=e342] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a65e07e76c0007829d95/
+              - generic [ref=e343] [cursor=pointer]:
+                - generic [ref=e345] [cursor=pointer]:
+                  - generic [ref=e347] [cursor=pointer]: "18."
+                  - paragraph [ref=e349] [cursor=pointer]: Текстовые задачи на кратное сравнение (табличные значения)
+                - img [ref=e352] [cursor=pointer]
+            - link "19. Ответь на вопрос на основе диаграмм" [ref=e354] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a67707e76c0007829da4/
+              - generic [ref=e355] [cursor=pointer]:
+                - generic [ref=e357] [cursor=pointer]:
+                  - generic [ref=e359] [cursor=pointer]: "19."
+                  - paragraph [ref=e361] [cursor=pointer]: Ответь на вопрос на основе диаграмм
+                - img [ref=e364] [cursor=pointer]
+            - link "20. Работа с алгоритмами" [ref=e366] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a69907e76c0007829db9/
+              - generic [ref=e367] [cursor=pointer]:
+                - generic [ref=e369] [cursor=pointer]:
+                  - generic [ref=e371] [cursor=pointer]: "20."
+                  - paragraph [ref=e373] [cursor=pointer]: Работа с алгоритмами
+                - img [ref=e376] [cursor=pointer]
+            - link "21. Разностное и кратное сравнение чисел" [ref=e378] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a6ac07e76c0007829dca/
+              - generic [ref=e379] [cursor=pointer]:
+                - generic [ref=e381] [cursor=pointer]:
+                  - generic [ref=e383] [cursor=pointer]: "21."
+                  - paragraph [ref=e385] [cursor=pointer]: Разностное и кратное сравнение чисел
+                - img [ref=e388] [cursor=pointer]
+            - link "22. Разностное/кратное сравнение длин отрезков (с определением длин отрезков)" [ref=e390] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a6c507e76c0007829def/
+              - generic [ref=e391] [cursor=pointer]:
+                - generic [ref=e393] [cursor=pointer]:
+                  - generic [ref=e395] [cursor=pointer]: "22."
+                  - paragraph [ref=e397] [cursor=pointer]: Разностное/кратное сравнение длин отрезков (с определением длин отрезков)
+                - img [ref=e400] [cursor=pointer]
+            - link "23. Найти площадь фигуры подсчётов квадратов" [ref=e402] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a6d807e76c0007829e14/
+              - generic [ref=e403] [cursor=pointer]:
+                - generic [ref=e405] [cursor=pointer]:
+                  - generic [ref=e407] [cursor=pointer]: "23."
+                  - paragraph [ref=e409] [cursor=pointer]: Найти площадь фигуры подсчётов квадратов
+                - img [ref=e412] [cursor=pointer]
+            - link "24. Сравнение площадей фигур" [ref=e414] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a6f107e76c0007829e2b/
+              - generic [ref=e415] [cursor=pointer]:
+                - generic [ref=e417] [cursor=pointer]:
+                  - generic [ref=e419] [cursor=pointer]: "24."
+                  - paragraph [ref=e421] [cursor=pointer]: Сравнение площадей фигур
+                - img [ref=e424] [cursor=pointer]
+            - link "25. Найти площадь фигур с записью равенства" [ref=e426] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a70f07e76c0007829e40/
+              - generic [ref=e427] [cursor=pointer]:
+                - generic [ref=e429] [cursor=pointer]:
+                  - generic [ref=e431] [cursor=pointer]: "25."
+                  - paragraph [ref=e433] [cursor=pointer]: Найти площадь фигур с записью равенства
+                - img [ref=e436] [cursor=pointer]
+            - link "26. Вычисление площади прямоугольника/квадрата" [ref=e438] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a72d07e76c0007829e47/
+              - generic [ref=e439] [cursor=pointer]:
+                - generic [ref=e441] [cursor=pointer]:
+                  - generic [ref=e443] [cursor=pointer]: "26."
+                  - paragraph [ref=e445] [cursor=pointer]: Вычисление площади прямоугольника/квадрата
+                - img [ref=e448] [cursor=pointer]
+            - link "27. Найти длину стороны прямоугольника/квадрата" [ref=e450] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a75b07e76c0007829e65/
+              - generic [ref=e451] [cursor=pointer]:
+                - generic [ref=e453] [cursor=pointer]:
+                  - generic [ref=e455] [cursor=pointer]: "27."
+                  - paragraph [ref=e457] [cursor=pointer]: Найти длину стороны прямоугольника/квадрата
+                - img [ref=e460] [cursor=pointer]
+            - link "28. Нахождение площади объекта на плане (квартиры, местности)" [ref=e462] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a77307e76c0007829e6c/
+              - generic [ref=e463] [cursor=pointer]:
+                - generic [ref=e465] [cursor=pointer]:
+                  - generic [ref=e467] [cursor=pointer]: "28."
+                  - paragraph [ref=e469] [cursor=pointer]: Нахождение площади объекта на плане (квартиры, местности)
+                - img [ref=e472] [cursor=pointer]
+            - link "29. Найти периметр и площадь прямоугольника/квадрата" [ref=e474] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a7a307e76c0007829e93/
+              - generic [ref=e475] [cursor=pointer]:
+                - generic [ref=e477] [cursor=pointer]:
+                  - generic [ref=e479] [cursor=pointer]: "29."
+                  - paragraph [ref=e481] [cursor=pointer]: Найти периметр и площадь прямоугольника/квадрата
+                - img [ref=e484] [cursor=pointer]
+            - link "30. Что означают римские числа?" [ref=e486] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a7ce07e76c0007829e9a/
+              - generic [ref=e487] [cursor=pointer]:
+                - generic [ref=e489] [cursor=pointer]:
+                  - generic [ref=e491] [cursor=pointer]: "30."
+                  - paragraph [ref=e493] [cursor=pointer]: Что означают римские числа?
+                - img [ref=e496] [cursor=pointer]
+            - link "31. Как сравнить римские числа?" [active] [ref=e498] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/67a5a85607e76c0007829eae/
+              - generic [ref=e499] [cursor=pointer]:
+                - generic [ref=e501] [cursor=pointer]:
+                  - generic [ref=e503] [cursor=pointer]: "31."
+                  - paragraph [ref=e505] [cursor=pointer]: Как сравнить римские числа?
+                - img [ref=e508] [cursor=pointer]
+  - generic [ref=e511]:
+    - generic [ref=e512]:
+      - generic [ref=e513]:
+        - generic [ref=e517]:
+          - img [ref=e519]
+          - link "8 (800) 600-44-02" [ref=e521] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e522]:
+          - generic [ref=e523]: "@"
+          - link "info@ismart.org" [ref=e524] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e525]:
+          - img [ref=e527]
+          - generic [ref=e529]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e530]:
+        - link "Наш сайт" [ref=e533] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e535] [cursor=pointer]
+        - generic [ref=e537]:
+          - link "Лицензия" [ref=e539] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e541] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e543] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e545] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e547] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e549]:
+      - generic [ref=e550]:
+        - link [ref=e551] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e555] [cursor=pointer]
+        - generic [ref=e558]:
+          - link "okIcon" [ref=e559] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e560] [cursor=pointer]
+          - link "dzenIcon" [ref=e561] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e562] [cursor=pointer]
+          - link "vkIcon" [ref=e563] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e564] [cursor=pointer]
+      - generic [ref=e566]:
+        - generic [ref=e568]:
+          - generic [ref=e569]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e570] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e571]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e572] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e573]:
+          - generic [ref=e574]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e575] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e576]: © iSmart, 2018-2026
+```
