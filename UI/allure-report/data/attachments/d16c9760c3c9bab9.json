@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://files.ismart.org/ismart.storage/assets/fonts/Inter-SemiBold.ttf",
+    "status": 502,
+    "payload": null,
+    "timestap": "20.03.2026, 14:11:17"
+  },
+  {
+    "url": "https://o271089.ingest.sentry.io/api/4505314407022592/envelope/?sentry_key=4a8e266f70be4d47affea7c6a2dc99d5&sentry_version=7&sentry_client=sentry.javascript.react%2F7.54.0",
+    "status": 429,
+    "payload": "{\"event_id\":\"fc40970bf1f34192b7b75ddc0bfe7bed\",\"sent_at\":\"2026-03-20T11:11:17.704Z\",\"sdk\":{\"name\":\"sentry.javascript.react\",\"version\":\"7.54.0\"}}\n{\"type\":\"event\"}\n{\"message\":\"Action failed\",\"exception\":{\"values\":[{\"value\":\"Action failed\",\"type\":\"Error\",\"mechanism\":{\"type\":\"generic\",\"handled\":true,\"synthetic\":true}}]},\"level\":\"error\",\"event_id\":\"fc40970bf1f34192b7b75ddc0bfe7bed\",\"platform\":\"javascript\",\"timestamp\":1774005077.7,\"environment\":\"ismart-edu\",\"release\":\"7.10.3\",\"sdk\":{\"integrations\":[\"InboundFilters\",\"FunctionToString\",\"TryCatch\",\"Breadcrumbs\",\"GlobalHandlers\",\"LinkedErrors\",\"Dedupe\",\"HttpContext\",\"Replay\"],\"name\":\"sentry.javascript.react\",\"version\":\"7.54.0\",\"packages\":[{\"name\":\"npm:@sentry/react\",\"version\":\"7.54.0\"}]},\"extra\":{\"actionName\":\"userBalance\"},\"tags\":{\"type\":\"action\",\"scope\":\"anywhere\",\"replayId\":\"00b835b76e1d4c91afb0fcd289d7daae\"},\"breadcrumbs\":[{\"timestamp\":1774005075.609,\"category\":\"console\",\"data\":{\"arguments\":[\"socket connected!\"],\"logger\":\"console\"},\"level\":\"log\",\"message\":\"socket connected!\"},{\"timestamp\":1774005077.305,\"category\":\"ui.click\",\"message\":\"div.ismart-iixdn1-Flexbox-container > span.ismart-s7iy78-Text-container\"},{\"timestamp\":1774005077.308,\"category\":\"navigation\",\"data\":{\"from\":\"/catalog/\",\"to\":\"/parent/dashboard\"}},{\"timestamp\":1774005077.376,\"category\":\"navigation\",\"data\":{\"from\":\"/parent/dashboard\",\"to\":\"/parent/dashboard/childrens\"}},{\"timestamp\":1774005077.495,\"category\":\"fetch\",\"data\":{\"method\":\"GET\",\"url\":\"https://mc.yandex.ru/clmap/55346662?page-url=https%3A%2F%2Fedu.ismart.org%2Fcatalog%2F&pointer-click=rn%3A15631444%3Ax%3A32299%3Ay%3A30036%3At%3A52%3Ap%3AWAA%3BA1AAAA1A1AAAA%3AX%3A396%3AY%3A26&hidv2=1346862342848905236&browser-info=u%3A1774005072556017158%3Av%3A2421%3Avf%3Acw41qwg7gq0rlux5ymfaktfr8vun3%3Arqnl%3A1%3Ast%3A1774005077&t=gdpr(14)ti(1)\",\"status_code\":200,\"response_body_size\":43},\"type\":\"http\"},{\"timestamp\":1774005077.498,\"category\":\"navigation\",\"data\":{\"from\":\"/parent/dashboard/childrens\",\"to\":\"/parent/dashboard/childrens/learning\"}}],\"request\":{\"url\":\"https://edu.ismart.org/parent/dashboard/childrens/learning\",\"headers\":{\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36\"}}}",
+    "timestap": "20.03.2026, 14:11:17"
+  }
+]
