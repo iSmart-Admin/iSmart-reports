@@ -1,0 +1,108 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - generic [ref=e29]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e36]:
+                  - button "1" [ref=e39] [cursor=pointer]
+                  - button "2" [ref=e42] [cursor=pointer]
+                  - button "3" [ref=e45] [cursor=pointer]
+                  - button "4" [ref=e48] [cursor=pointer]
+                  - button "5" [ref=e51] [cursor=pointer]
+                  - button "6" [ref=e54] [cursor=pointer]
+                  - button "7" [ref=e57] [cursor=pointer]
+                  - button "8" [ref=e60] [cursor=pointer]
+                  - button "9" [ref=e63] [cursor=pointer]
+                  - button "10" [ref=e66] [cursor=pointer]
+                - generic [ref=e67]:
+                  - button [disabled] [ref=e68]:
+                    - img [ref=e70]
+                  - button [ref=e73] [cursor=pointer]:
+                    - img [ref=e75] [cursor=pointer]
+            - generic [ref=e78]:
+              - generic [ref=e80]:
+                - img [ref=e84]
+                - heading "Перенеси элементы в соответствующие ячейки." [level=4] [ref=e86]:
+                  - generic [ref=e88]: Перенеси элементы в соответствующие ячейки.
+              - generic [ref=e90]:
+                - img "decore" [ref=e93]
+                - generic [ref=e95]:
+                  - img "1280px-Map_Peloponnesian_War_431_BC-ru.svg" [ref=e98]
+                  - generic [ref=e102]: Определи, в каком союзе находился каждый из этих полисов.
+              - generic [ref=e104]:
+                - generic [ref=e105]:
+                  - generic [ref=e109]: Пелопоннесский союз
+                  - generic [ref=e116]: Афинский морской союз
+                - generic [ref=e120]:
+                  - button "Галикарнас" [ref=e124] [cursor=pointer]:
+                    - generic [ref=e126] [cursor=pointer]: Галикарнас
+                  - button "Фивы" [ref=e130] [cursor=pointer]:
+                    - generic [ref=e132] [cursor=pointer]: Фивы
+                  - button "Коринф" [ref=e136] [cursor=pointer]:
+                    - generic [ref=e138] [cursor=pointer]: Коринф
+                  - button "Афины" [ref=e142] [cursor=pointer]:
+                    - generic [ref=e144] [cursor=pointer]: Афины
+                  - button "Византий" [ref=e148] [cursor=pointer]:
+                    - generic [ref=e150] [cursor=pointer]: Византий
+                  - button "Спарта" [ref=e154] [cursor=pointer]:
+                    - generic [ref=e156] [cursor=pointer]: Спарта
+        - generic [ref=e161]:
+          - generic [ref=e164]:
+            - button [disabled] [ref=e166]:
+              - img [ref=e168]
+            - generic [ref=e171]: 100%
+            - button [ref=e173] [cursor=pointer]:
+              - img [ref=e175] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e180] [cursor=pointer]:
+            - generic [ref=e183] [cursor=pointer]: "2"
+            - generic [ref=e184] [cursor=pointer]: Показать подсказку
+      - generic [ref=e188]:
+        - generic [ref=e191]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e197] [cursor=pointer]:
+          - img [ref=e200] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e202]:
+          - generic [ref=e204]:
+            - button "Черновик" [ref=e205] [cursor=pointer]:
+              - img [ref=e208] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e211] [cursor=pointer]:
+              - img [ref=e214] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e216]:
+              - button "Часто задаваемые вопросы" [ref=e218] [cursor=pointer]:
+                - img [ref=e221] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e223]:
+                - button "Информация об уроке" [ref=e225] [cursor=pointer]:
+                  - img [ref=e228] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e230]: Вы привязаны к школе ismart_Тест educont 2
+          - generic [ref=e231]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Далее" [ref=e232] [cursor=pointer]:
+              - text: Далее
+              - img [ref=e235] [cursor=pointer]
+```

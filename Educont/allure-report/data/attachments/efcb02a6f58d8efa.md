@@ -1,0 +1,194 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Алгебра
+      - generic [ref=e21]: Задания для повторения и закрепления учебного материала
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - button "7" [ref=e28] [cursor=pointer]:
+          - img [ref=e32] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e34] [cursor=pointer]:
+          - img [ref=e38] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e40]:
+          - img [ref=e44]
+          - text: "9"
+      - generic [ref=e47]:
+        - generic [ref=e51]:
+          - img [ref=e54]
+          - textbox "Поиск по подтемам" [ref=e57]
+        - generic [ref=e58]:
+          - generic [ref=e59]:
+            - generic [ref=e60] [cursor=pointer]:
+              - generic [ref=e62] [cursor=pointer]: Темы
+              - button [ref=e64] [cursor=pointer]:
+                - img [ref=e66] [cursor=pointer]
+            - generic [ref=e69] [cursor=pointer]:
+              - generic [ref=e72] [cursor=pointer]: "1 неделя: «Множество действительных чисел»"
+              - img [ref=e74] [cursor=pointer]
+            - generic [ref=e76] [cursor=pointer]:
+              - generic [ref=e79] [cursor=pointer]: "2 неделя: «Линейные неравенства»"
+              - img [ref=e81] [cursor=pointer]
+            - generic [ref=e83] [cursor=pointer]:
+              - generic [ref=e86] [cursor=pointer]: "3 неделя: «Системы линейных неравенств»"
+              - img [ref=e88] [cursor=pointer]
+            - generic [ref=e90] [cursor=pointer]:
+              - generic [ref=e93] [cursor=pointer]: "4 неделя: «Квадратичная функция»"
+              - img [ref=e95] [cursor=pointer]
+            - generic [ref=e97] [cursor=pointer]:
+              - generic [ref=e100] [cursor=pointer]: 5 неделя «Квадратные неравенства. Графическая интерпретация неравенств»
+              - img [ref=e102] [cursor=pointer]
+            - generic [ref=e104] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: "6 неделя: «Алгебраические уравнения»"
+              - img [ref=e109] [cursor=pointer]
+            - generic [ref=e111] [cursor=pointer]:
+              - generic [ref=e114] [cursor=pointer]: "7 неделя: «Системы уравнений с двумя переменными»"
+              - img [ref=e116] [cursor=pointer]
+            - generic [ref=e118] [cursor=pointer]:
+              - generic [ref=e121] [cursor=pointer]: "8 неделя: «Элементы приближённых вычислений»"
+              - img [ref=e123] [cursor=pointer]
+            - generic [ref=e125] [cursor=pointer]:
+              - generic [ref=e128] [cursor=pointer]: "9 неделя: «Числовые последовательности»"
+              - img [ref=e130] [cursor=pointer]
+            - generic [ref=e132] [cursor=pointer]:
+              - generic [ref=e135] [cursor=pointer]: "10 неделя: «Арифметическая прогрессия»"
+              - img [ref=e137] [cursor=pointer]
+            - generic [ref=e139] [cursor=pointer]:
+              - generic [ref=e142] [cursor=pointer]: "11 неделя: «Геометрическая прогрессия»"
+              - img [ref=e144] [cursor=pointer]
+            - generic [ref=e146] [cursor=pointer]:
+              - generic [ref=e149] [cursor=pointer]: "12 неделя: «Реальная математика»"
+              - img [ref=e151] [cursor=pointer]
+          - generic [ref=e157]:
+            - link "1. Рациональные и иррациональные числа" [ref=e158] [cursor=pointer]:
+              - /url: /learn/67c0817fd8153000075cd4f2/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/67ad9c98273c770006c11380/
+              - generic [ref=e159] [cursor=pointer]:
+                - generic [ref=e161] [cursor=pointer]:
+                  - generic [ref=e163] [cursor=pointer]: "1."
+                  - paragraph [ref=e165] [cursor=pointer]: Рациональные и иррациональные числа
+                - img [ref=e168] [cursor=pointer]
+            - link "2. Конечные и бесконечные десятичные дроби" [ref=e170] [cursor=pointer]:
+              - /url: /learn/67c0817fd8153000075cd4f2/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/67adcce7273c770006c135fe/
+              - generic [ref=e171] [cursor=pointer]:
+                - generic [ref=e173] [cursor=pointer]:
+                  - generic [ref=e175] [cursor=pointer]: "2."
+                  - paragraph [ref=e177] [cursor=pointer]: Конечные и бесконечные десятичные дроби
+                - img [ref=e180] [cursor=pointer]
+            - link "3. Множество действительных чисел" [ref=e182] [cursor=pointer]:
+              - /url: /learn/67c0817fd8153000075cd4f2/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/67adcd24273c770006c1360b/
+              - generic [ref=e183] [cursor=pointer]:
+                - generic [ref=e185] [cursor=pointer]:
+                  - generic [ref=e187] [cursor=pointer]: "3."
+                  - paragraph [ref=e189] [cursor=pointer]: Множество действительных чисел
+                - img [ref=e192] [cursor=pointer]
+            - link "4. Действительные числа как бесконечные десятичные дроби" [ref=e194] [cursor=pointer]:
+              - /url: /learn/67c0817fd8153000075cd4f2/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/67adcd58273c770006c13619/
+              - generic [ref=e195] [cursor=pointer]:
+                - generic [ref=e197] [cursor=pointer]:
+                  - generic [ref=e199] [cursor=pointer]: "4."
+                  - paragraph [ref=e201] [cursor=pointer]: Действительные числа как бесконечные десятичные дроби
+                - img [ref=e204] [cursor=pointer]
+            - link "5. Взаимно однозначное соответствие между множеством действительных чисел и координатной прямой" [ref=e206] [cursor=pointer]:
+              - /url: /learn/67c0817fd8153000075cd4f2/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/67adcd7a273c770006c13632/
+              - generic [ref=e207] [cursor=pointer]:
+                - generic [ref=e209] [cursor=pointer]:
+                  - generic [ref=e211] [cursor=pointer]: "5."
+                  - paragraph [ref=e213] [cursor=pointer]: Взаимно однозначное соответствие между множеством действительных чисел и координатной прямой
+                - img [ref=e216] [cursor=pointer]
+            - link "6. Сравнение действительных чисел" [ref=e218] [cursor=pointer]:
+              - /url: /learn/67c0817fd8153000075cd4f2/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/67adcd9d273c770006c13645/
+              - generic [ref=e219] [cursor=pointer]:
+                - generic [ref=e221] [cursor=pointer]:
+                  - generic [ref=e223] [cursor=pointer]: "6."
+                  - paragraph [ref=e225] [cursor=pointer]: Сравнение действительных чисел
+                - img [ref=e228] [cursor=pointer]
+            - link "7. Арифметические действия с действительными числами" [ref=e230] [cursor=pointer]:
+              - /url: /learn/67c0817fd8153000075cd4f2/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/67adcdc7273c770006c1364c/
+              - generic [ref=e231] [cursor=pointer]:
+                - generic [ref=e233] [cursor=pointer]:
+                  - generic [ref=e235] [cursor=pointer]: "7."
+                  - paragraph [ref=e237] [cursor=pointer]: Арифметические действия с действительными числами
+                - img [ref=e240] [cursor=pointer]
+            - link "8. Обобщение по неделе 1" [active] [ref=e242] [cursor=pointer]:
+              - /url: /learn/67c0817fd8153000075cd4f2/60d468f69e70371ac2dbab84/61a71c551b0ad63754c198e9/67adce19273c770006c1369d/
+              - generic [ref=e243] [cursor=pointer]:
+                - generic [ref=e245] [cursor=pointer]:
+                  - generic [ref=e247] [cursor=pointer]: "8."
+                  - paragraph [ref=e249] [cursor=pointer]: Обобщение по неделе 1
+                - img [ref=e252] [cursor=pointer]
+  - generic [ref=e255]:
+    - generic [ref=e256]:
+      - generic [ref=e257]:
+        - generic [ref=e261]:
+          - img [ref=e263]
+          - link "8 (800) 600-44-02" [ref=e265] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e266]:
+          - generic [ref=e267]: "@"
+          - link "info@ismart.org" [ref=e268] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e269]:
+          - img [ref=e271]
+          - generic [ref=e273]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e274]:
+        - link "Наш сайт" [ref=e277] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e279] [cursor=pointer]
+        - generic [ref=e281]:
+          - link "Лицензия" [ref=e283] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e285] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e287] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e289] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e291] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e293]:
+      - generic [ref=e294]:
+        - link [ref=e295] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e299] [cursor=pointer]
+        - generic [ref=e302]:
+          - link "okIcon" [ref=e303] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e304] [cursor=pointer]
+          - link "dzenIcon" [ref=e305] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e306] [cursor=pointer]
+          - link "vkIcon" [ref=e307] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e308] [cursor=pointer]
+      - generic [ref=e310]:
+        - generic [ref=e312]:
+          - generic [ref=e313]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e314] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e315]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e316] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e317]:
+          - generic [ref=e318]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e319] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e320]: © iSmart, 2018-2026
+```

@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://edu.ismart.org/trpc/course.courseElementTimeSave?batch=1",
+    "status": 500,
+    "payload": {
+      "0": {
+        "unitId": "64467d9cca734de4d3e87717",
+        "elementId": "644a985800843dc688450d52",
+        "practiceId": "0",
+        "usedTime": 0,
+        "lessonId": "97d772e1d8e9ce16ff6780c2"
+      }
+    },
+    "timestap": "21.03.2026, 03:53:53"
+  }
+]
