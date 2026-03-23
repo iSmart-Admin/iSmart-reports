@@ -1,0 +1,260 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: История. 5.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "5" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e55]:
+          - img [ref=e59]
+          - text: "10"
+        - button "11" [ref=e61] [cursor=pointer]:
+          - img [ref=e65] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e68]:
+        - generic [ref=e72]:
+          - img [ref=e75]
+          - textbox "Поиск по подтемам" [ref=e78]
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic [ref=e81] [cursor=pointer]:
+              - generic [ref=e83] [cursor=pointer]: Темы
+              - button [ref=e85] [cursor=pointer]:
+                - img [ref=e87] [cursor=pointer]
+            - generic [ref=e90] [cursor=pointer]:
+              - generic [ref=e93] [cursor=pointer]: Введение
+              - img [ref=e95] [cursor=pointer]
+            - generic [ref=e97] [cursor=pointer]:
+              - generic [ref=e100] [cursor=pointer]: Мир накануне и в годы Первой мировой войны. Мир в начале XX в.
+              - img [ref=e102] [cursor=pointer]
+            - generic [ref=e104] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Мир накануне и в годы Первой мировой войны. Первая мировая война (1914-1918 гг.).
+              - img [ref=e109] [cursor=pointer]
+            - generic [ref=e111] [cursor=pointer]:
+              - generic [ref=e114] [cursor=pointer]: Мир в 1918–1938 гг.. Распад империй и образование новых национальных государств в Европе.
+              - img [ref=e116] [cursor=pointer]
+            - generic [ref=e118] [cursor=pointer]:
+              - generic [ref=e121] [cursor=pointer]: Мир в 1918–1938 гг.. Версальско-Вашингтонская система международных отношений
+              - img [ref=e123] [cursor=pointer]
+            - generic [ref=e125] [cursor=pointer]:
+              - generic [ref=e128] [cursor=pointer]: Мир в 1918–1938 гг.. Страны Европы и Северной Америки в 1920-е гг.
+              - img [ref=e130] [cursor=pointer]
+            - generic [ref=e132] [cursor=pointer]:
+              - generic [ref=e135] [cursor=pointer]: Мир в 1918–1938 гг.. Страны Азии, Африки и Латинской Америки в 1918–1930 гг.
+              - img [ref=e137] [cursor=pointer]
+            - generic [ref=e139] [cursor=pointer]:
+              - generic [ref=e142] [cursor=pointer]: Мир в 1918–1938 гг.. Международные отношения в 1930-е гг.
+              - img [ref=e144] [cursor=pointer]
+            - generic [ref=e146] [cursor=pointer]:
+              - generic [ref=e149] [cursor=pointer]: Мир в 1918–1938 гг.. Развитие науки и культуры в 1914–1930-х гг.
+              - img [ref=e151] [cursor=pointer]
+            - generic [ref=e153] [cursor=pointer]:
+              - generic [ref=e156] [cursor=pointer]: Проектные работы 1918-1938 гг.
+              - img [ref=e158] [cursor=pointer]
+            - generic [ref=e160] [cursor=pointer]:
+              - generic [ref=e163] [cursor=pointer]: Вторая мировая война 1939–1945 гг. Начало Второй мировой войны
+              - img [ref=e165] [cursor=pointer]
+            - generic [ref=e167] [cursor=pointer]:
+              - generic [ref=e170] [cursor=pointer]: Вторая мировая война 1939-1945 гг.. Коренной перелом, окончание и важнейшие итоги Второй мировой войны
+              - img [ref=e172] [cursor=pointer]
+            - generic [ref=e174] [cursor=pointer]:
+              - generic [ref=e177] [cursor=pointer]: Проектные работы 1939-1945 гг.
+              - img [ref=e179] [cursor=pointer]
+            - generic [ref=e181] [cursor=pointer]:
+              - generic [ref=e184] [cursor=pointer]: Россия в 1914–1922 гг. Россия и мир накануне Первой мировой войны
+              - img [ref=e186] [cursor=pointer]
+            - generic [ref=e188] [cursor=pointer]:
+              - generic [ref=e191] [cursor=pointer]: Россия в 1914–1922 гг.. Россия в Первой мировой войне
+              - img [ref=e193] [cursor=pointer]
+            - generic [ref=e195] [cursor=pointer]:
+              - generic [ref=e198] [cursor=pointer]: Россия в 1914–1922 гг.. Российская революция. Февраль 1917 г.
+              - img [ref=e200] [cursor=pointer]
+            - generic [ref=e202] [cursor=pointer]:
+              - generic [ref=e205] [cursor=pointer]: Россия в 1914–1922 гг.. Российская революция. Октябрь 1917 г.
+              - img [ref=e207] [cursor=pointer]
+            - generic [ref=e209] [cursor=pointer]:
+              - generic [ref=e212] [cursor=pointer]: Россия в 1914–1922 гг.. Первые революционные преобразования большевиков. Экономическая политика советской власти
+              - img [ref=e214] [cursor=pointer]
+            - generic [ref=e216] [cursor=pointer]:
+              - generic [ref=e219] [cursor=pointer]: Россия в 1914–1922 гг.. Гражданская война
+              - img [ref=e221] [cursor=pointer]
+            - generic [ref=e223] [cursor=pointer]:
+              - generic [ref=e226] [cursor=pointer]: Россия в 1914–1922 гг.. Революция и Гражданская война на национальных окраинах
+              - img [ref=e228] [cursor=pointer]
+            - generic [ref=e230] [cursor=pointer]:
+              - generic [ref=e233] [cursor=pointer]: Россия в 1914–1922 гг.. Идеология и культура в годы Гражданской войны
+              - img [ref=e235] [cursor=pointer]
+            - generic [ref=e237] [cursor=pointer]:
+              - generic [ref=e240] [cursor=pointer]: Наш край в 1914-1922 гг.
+              - img [ref=e242] [cursor=pointer]
+            - generic [ref=e244] [cursor=pointer]:
+              - generic [ref=e247] [cursor=pointer]: Повторение и обобщение по теме «Россия в 1914 – 1922 гг.»
+              - img [ref=e249] [cursor=pointer]
+            - generic [ref=e251] [cursor=pointer]:
+              - generic [ref=e254] [cursor=pointer]: Проектные работы 1914-1922 гг.
+              - img [ref=e256] [cursor=pointer]
+            - generic [ref=e258] [cursor=pointer]:
+              - generic [ref=e261] [cursor=pointer]: Советский Союз в 1920–1930-е гг. СССР в 20-е годы
+              - img [ref=e263] [cursor=pointer]
+            - generic [ref=e265] [cursor=pointer]:
+              - generic [ref=e268] [cursor=pointer]: Советский Союз в 1920–1930-е гг. «Великий перелом». Индустриализация
+              - img [ref=e270] [cursor=pointer]
+            - generic [ref=e272] [cursor=pointer]:
+              - generic [ref=e275] [cursor=pointer]: Советский Союз в 1920–1930-е гг. Коллективизация сельского хозяйства
+              - img [ref=e277] [cursor=pointer]
+            - generic [ref=e279] [cursor=pointer]:
+              - generic [ref=e282] [cursor=pointer]: Советский Союз в 1920–1930-е гг. СССР в 30-е годы
+              - img [ref=e284] [cursor=pointer]
+            - generic [ref=e286] [cursor=pointer]:
+              - generic [ref=e289] [cursor=pointer]: Наш край в 1920-1930-е гг.
+              - img [ref=e291] [cursor=pointer]
+            - generic [ref=e293] [cursor=pointer]:
+              - generic [ref=e296] [cursor=pointer]: Проектные работы 1920-1930-е гг.
+              - img [ref=e298] [cursor=pointer]
+            - generic [ref=e300] [cursor=pointer]:
+              - generic [ref=e303] [cursor=pointer]: Повторение и обобщение по разделу «Советский Союз в 1920 – 1930-е гг.»
+              - img [ref=e305] [cursor=pointer]
+            - generic [ref=e307] [cursor=pointer]:
+              - generic [ref=e310] [cursor=pointer]: Великая Отечественная война. 1941–1945 гг. Первый период войны
+              - img [ref=e312] [cursor=pointer]
+            - generic [ref=e314] [cursor=pointer]:
+              - generic [ref=e317] [cursor=pointer]: Великая Отечественная война. 1941-1945 гг. Коренной перелом в ходе войны
+              - img [ref=e319] [cursor=pointer]
+            - generic [ref=e321] [cursor=pointer]:
+              - generic [ref=e324] [cursor=pointer]: Великая Отечественная война. 1941-1945 гг.. Курская битва. Завершение коренного перелома
+              - img [ref=e326] [cursor=pointer]
+            - generic [ref=e328] [cursor=pointer]:
+              - generic [ref=e331] [cursor=pointer]: Великая Отечественная война. 1941-1945 гг.. «Десять сталинских ударов» и изгнание врага с территории СССР
+              - img [ref=e333] [cursor=pointer]
+            - generic [ref=e335] [cursor=pointer]:
+              - generic [ref=e338] [cursor=pointer]: Великая Отечественная война. 1941-1945 гг.. Наука и культура в годы войны
+              - img [ref=e340] [cursor=pointer]
+            - generic [ref=e342] [cursor=pointer]:
+              - generic [ref=e345] [cursor=pointer]: Великая Отечественная война. 1941-1945 гг.. Окончание Второй мировой войны
+              - img [ref=e347] [cursor=pointer]
+            - generic [ref=e349] [cursor=pointer]:
+              - generic [ref=e352] [cursor=pointer]: Наш край в 1941-1945 гг.
+              - img [ref=e354] [cursor=pointer]
+            - generic [ref=e356] [cursor=pointer]:
+              - generic [ref=e359] [cursor=pointer]: Повторение и обобщение по теме «Великая Отечественная война 1941 – 1945 гг.»
+              - img [ref=e361] [cursor=pointer]
+            - generic [ref=e363] [cursor=pointer]:
+              - generic [ref=e366] [cursor=pointer]: Проектные работы 1941-1945 гг.
+              - img [ref=e368] [cursor=pointer]
+          - generic [ref=e374]:
+            - link "1. Понятие «Новейшее время». Хронологические рамки и периодизация Новейшей истории" [ref=e375] [cursor=pointer]:
+              - /url: /learn/69391f3339ed37000798df4f/691d99dbd8b6c0000785302a/68ab5e86d608c000071814f6/691d9a74d8b6c0000785b5ba/
+              - generic [ref=e376] [cursor=pointer]:
+                - generic [ref=e378] [cursor=pointer]:
+                  - generic [ref=e380] [cursor=pointer]: "1."
+                  - paragraph [ref=e382] [cursor=pointer]: Понятие «Новейшее время». Хронологические рамки и периодизация Новейшей истории
+                - img [ref=e385] [cursor=pointer]
+            - link "2. Изменения в мире в XX веке. Ключевые процессы и события Новейшей истории" [ref=e387] [cursor=pointer]:
+              - /url: /learn/69391f3339ed37000798df4f/691d99dbd8b6c0000785302a/68ab5e86d608c000071814f6/691d9a74d8b6c0000785b5be/
+              - generic [ref=e388] [cursor=pointer]:
+                - generic [ref=e390] [cursor=pointer]:
+                  - generic [ref=e392] [cursor=pointer]: "2."
+                  - paragraph [ref=e394] [cursor=pointer]: Изменения в мире в XX веке. Ключевые процессы и события Новейшей истории
+                - img [ref=e397] [cursor=pointer]
+            - link "3. Объединенные Нации против нацизма и фашизма" [ref=e399] [cursor=pointer]:
+              - /url: /learn/69391f3339ed37000798df4f/691d99dbd8b6c0000785302a/68ab5e86d608c000071814f6/691d9a74d8b6c0000785b5bc/
+              - generic [ref=e400] [cursor=pointer]:
+                - generic [ref=e402] [cursor=pointer]:
+                  - generic [ref=e404] [cursor=pointer]: "3."
+                  - paragraph [ref=e406] [cursor=pointer]: Объединенные Нации против нацизма и фашизма
+                - img [ref=e409] [cursor=pointer]
+            - link "4. Система международных отношений. Россия в XX веке" [active] [ref=e411] [cursor=pointer]:
+              - /url: /learn/69391f3339ed37000798df4f/691d99dbd8b6c0000785302a/68ab5e86d608c000071814f6/691d9a74d8b6c0000785b5bd/
+              - generic [ref=e412] [cursor=pointer]:
+                - generic [ref=e414] [cursor=pointer]:
+                  - generic [ref=e416] [cursor=pointer]: "4."
+                  - paragraph [ref=e418] [cursor=pointer]: Система международных отношений. Россия в XX веке
+                - img [ref=e421] [cursor=pointer]
+  - generic [ref=e424]:
+    - generic [ref=e425]:
+      - generic [ref=e426]:
+        - generic [ref=e430]:
+          - img [ref=e432]
+          - link "8 (800) 600-44-02" [ref=e434] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e435]:
+          - generic [ref=e436]: "@"
+          - link "info@ismart.org" [ref=e437] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e438]:
+          - img [ref=e440]
+          - generic [ref=e442]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e443]:
+        - link "Наш сайт" [ref=e446] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e448] [cursor=pointer]
+        - generic [ref=e450]:
+          - link "Лицензия" [ref=e452] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e454] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e456] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e458] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e460] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e462]:
+      - generic [ref=e463]:
+        - link [ref=e464] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e468] [cursor=pointer]
+        - generic [ref=e471]:
+          - link "okIcon" [ref=e472] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e473] [cursor=pointer]
+          - link "dzenIcon" [ref=e474] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e475] [cursor=pointer]
+          - link "vkIcon" [ref=e476] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e477] [cursor=pointer]
+      - generic [ref=e479]:
+        - generic [ref=e481]:
+          - generic [ref=e482]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e483] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e484]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e485] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e486]:
+          - generic [ref=e487]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e488] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e489]: © iSmart, 2018-2026
+```
