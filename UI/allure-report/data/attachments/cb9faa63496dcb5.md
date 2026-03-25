@@ -1,0 +1,125 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [active] [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Кабинет ученика" [ref=e21] [cursor=pointer]:
+        - /url: /student/
+        - generic [ref=e24] [cursor=pointer]: Кабинет ученика
+      - link "Рейтинг" [ref=e27] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e30] [cursor=pointer]: Рейтинг
+      - link "Магазин" [ref=e33] [cursor=pointer]:
+        - /url: /shop/offers
+        - generic [ref=e36] [cursor=pointer]: Магазин
+      - link "Помощник" [ref=e39] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e42] [cursor=pointer]: Помощник
+      - link "Игра" [ref=e45] [cursor=pointer]:
+        - /url: /game
+        - generic [ref=e48] [cursor=pointer]: Игра
+      - link "Хогвартс Хогвартс" [ref=e51] [cursor=pointer]:
+        - /url: /hogwarts
+        - generic [ref=e54] [cursor=pointer]:
+          - img "Хогвартс" [ref=e56] [cursor=pointer]
+          - generic [ref=e57] [cursor=pointer]: Хогвартс
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - generic [ref=e64] [cursor=pointer]: "742"
+        - generic [ref=e67]: "477"
+      - generic [ref=e68]:
+        - button [ref=e69] [cursor=pointer]:
+          - img [ref=e71] [cursor=pointer]
+        - img [ref=e76] [cursor=pointer]
+      - generic [ref=e78] [cursor=pointer]:
+        - generic [ref=e81] [cursor=pointer]:
+          - paragraph [ref=e82] [cursor=pointer]: Ученик
+          - paragraph [ref=e83] [cursor=pointer]: h
+        - img [ref=e85] [cursor=pointer]
+  - generic [ref=e92]:
+    - generic [ref=e96]:
+      - paragraph [ref=e100]: Не знаете, с чего начать? Я подскажу!
+      - generic [ref=e102] [cursor=pointer]:
+        - button [ref=e103] [cursor=pointer]:
+          - img [ref=e105] [cursor=pointer]
+        - generic [ref=e107] [cursor=pointer]: Выбрать фильтры
+    - generic [ref=e113]:
+      - textbox "Научиться считать от 0 до 100" [ref=e117]
+      - button "Найти задания" [ref=e118] [cursor=pointer]
+    - generic [ref=e121]: Поиск по базе из 1 000 000 заданий
+    - generic [ref=e124]:
+      - heading "Каталог заданий" [level=1] [ref=e125]
+      - generic [ref=e126] [cursor=pointer]:
+        - generic [ref=e127] [cursor=pointer]:
+          - img [ref=e129] [cursor=pointer]
+          - generic [ref=e132] [cursor=pointer]:
+            - generic [ref=e134] [cursor=pointer]: Доступно заданий
+            - generic [ref=e135] [cursor=pointer]: 8 из 10
+        - button [ref=e136] [cursor=pointer]:
+          - img [ref=e138] [cursor=pointer]
+    - generic [ref=e143] [cursor=pointer]: Чего-то не хватает?
+  - generic [ref=e145]:
+    - generic [ref=e146]:
+      - generic [ref=e147]:
+        - generic [ref=e151]:
+          - img [ref=e153]
+          - link "8 (800) 600-44-02" [ref=e155] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e156]:
+          - generic [ref=e157]: "@"
+          - link "info@ismart.org" [ref=e158] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e159]:
+          - img [ref=e161]
+          - generic [ref=e163]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e164]:
+        - link "Наш сайт" [ref=e167] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e169] [cursor=pointer]
+        - generic [ref=e171]:
+          - link "Лицензия" [ref=e173] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e175] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e177] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e179] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e181] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e183]:
+      - generic [ref=e184]:
+        - link [ref=e185] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e189] [cursor=pointer]
+        - generic [ref=e192]:
+          - link "okIcon" [ref=e193] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e194] [cursor=pointer]
+          - link "dzenIcon" [ref=e195] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e196] [cursor=pointer]
+          - link "vkIcon" [ref=e197] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e198] [cursor=pointer]
+      - generic [ref=e200]:
+        - generic [ref=e202]:
+          - generic [ref=e203]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e204] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e205]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e206] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e207]:
+          - generic [ref=e208]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e209] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e210]: © iSmart, 2018-2026
+```
