@@ -1,0 +1,138 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Кабинет родителя" [ref=e21] [cursor=pointer]:
+        - /url: /parent/dashboard
+        - generic [ref=e24] [cursor=pointer]: Кабинет родителя
+      - link "Рейтинг" [ref=e27] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e30] [cursor=pointer]: Рейтинг
+      - link "Магазин" [ref=e33] [cursor=pointer]:
+        - /url: /shop/offers
+        - generic [ref=e36] [cursor=pointer]: Магазин
+      - link "Помощник" [ref=e39] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e42] [cursor=pointer]: Помощник
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - button [ref=e47] [cursor=pointer]:
+          - img [ref=e49] [cursor=pointer]
+        - img [ref=e54] [cursor=pointer]
+      - generic [ref=e56] [cursor=pointer]:
+        - generic [ref=e60] [cursor=pointer]: Ш
+        - generic [ref=e61] [cursor=pointer]:
+          - paragraph [ref=e62] [cursor=pointer]: Родитель
+          - paragraph [ref=e63] [cursor=pointer]: Шкеловек
+        - img [ref=e65] [cursor=pointer]
+  - generic [ref=e70]:
+    - generic [ref=e71]:
+      - generic [ref=e72]:
+        - button "Мои дети" [active] [ref=e73] [cursor=pointer]:
+          - img [ref=e76] [cursor=pointer]
+          - text: Мои дети
+        - button "Профиль родителя" [ref=e78] [cursor=pointer]:
+          - img [ref=e81] [cursor=pointer]
+          - text: Профиль родителя
+        - button "Кошелек 0,00 ₽" [ref=e83] [cursor=pointer]:
+          - img [ref=e86] [cursor=pointer]
+          - text: Кошелек
+          - generic [ref=e88] [cursor=pointer]: 0,00 ₽
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - img [ref=e93]
+              - generic [ref=e98]: 67%
+            - paragraph [ref=e99]: Ваш профиль еще не заполнен полностью.
+          - button [ref=e100] [cursor=pointer]:
+            - img [ref=e102] [cursor=pointer]
+          - paragraph [ref=e104]: Завершите процесс настройки, чтобы воспользоваться всеми возможностями, которые предлагает платформа.
+          - button "Завершить" [ref=e105] [cursor=pointer]
+        - generic [ref=e106]:
+          - button "Полезная информация" [ref=e107] [cursor=pointer]:
+            - img [ref=e110] [cursor=pointer]
+            - text: Полезная информация
+          - button "Поддержка" [ref=e112] [cursor=pointer]:
+            - img [ref=e115] [cursor=pointer]
+            - text: Поддержка
+    - generic [ref=e117]:
+      - generic [ref=e119]:
+        - generic [ref=e120] [cursor=pointer]:
+          - img [ref=e123] [cursor=pointer]
+          - generic [ref=e126] [cursor=pointer]: В
+          - generic [ref=e127] [cursor=pointer]:
+            - generic [ref=e128] [cursor=pointer]: Валера
+            - generic [ref=e129] [cursor=pointer]: Ученик
+        - generic [ref=e130]:
+          - button "Войти в кабинет ученика" [ref=e131] [cursor=pointer]:
+            - text: Войти в кабинет ученика
+            - img [ref=e134] [cursor=pointer]
+          - button "Все дети 2" [ref=e136] [cursor=pointer]:
+            - img [ref=e139] [cursor=pointer]
+            - text: Все дети
+            - generic [ref=e143] [cursor=pointer]: "2"
+      - generic [ref=e144]:
+        - generic [ref=e147]:
+          - link "Обучение" [ref=e149]:
+            - /url: /parent/dashboard/childrens/learning
+            - generic [ref=e152]: Обучение
+          - link "Расписание" [ref=e154] [cursor=pointer]:
+            - /url: /parent/dashboard/childrens/schedules
+            - generic [ref=e157] [cursor=pointer]: Расписание
+          - link "Награды" [ref=e159] [cursor=pointer]:
+            - /url: /parent/dashboard/childrens/rewards
+            - generic [ref=e162] [cursor=pointer]: Награды
+          - link "Доступность для ребенка" [ref=e164] [cursor=pointer]:
+            - /url: /parent/dashboard/childrens/availability
+            - generic [ref=e166] [cursor=pointer]:
+              - img [ref=e169] [cursor=pointer]
+              - generic [ref=e171] [cursor=pointer]: Доступность для ребенка
+        - generic [ref=e172]:
+          - generic [ref=e173]:
+            - generic [ref=e175]:
+              - generic [ref=e176]:
+                - generic [ref=e178]: Автоматическое обучение
+                - generic [ref=e179]: Не выбрана программа обучения
+                - button "Настройки" [ref=e180] [cursor=pointer]
+                - checkbox [ref=e182] [cursor=pointer]:
+                  - img [ref=e187] [cursor=pointer]
+              - generic [ref=e189]:
+                - generic [ref=e191]: Ваш AI помощник
+                - generic [ref=e193]: Готов помогать
+                - button "Спросить" [ref=e194] [cursor=pointer]
+            - generic [ref=e196]:
+              - generic [ref=e197]:
+                - img [ref=e200]
+                - paragraph [ref=e202]: Вы можете улучшить успеваемость вашего ребёнка, включив автоматическое обучение.
+              - button "Настроить бесплатно" [ref=e203] [cursor=pointer]
+          - generic [ref=e204]:
+            - generic [ref=e207]: Школа
+            - generic [ref=e209]:
+              - paragraph [ref=e210]: Этот ученик пока не присоединен ни к одному из классов
+              - paragraph [ref=e211]: Для присоединения ребенка к классу введите код из инструкции, которую учитель выдал ученику.
+              - generic [ref=e212]:
+                - textbox "•••••" [ref=e217] [cursor=pointer]
+                - button "Присоединиться" [disabled] [ref=e218]
+          - generic [ref=e219]:
+            - generic [ref=e220]:
+              - generic [ref=e222]: Статистика успеваемости
+              - generic [ref=e225]:
+                - img [ref=e228]
+                - generic [ref=e231]:
+                  - textbox "Период" [disabled]: за неделю
+                - img [ref=e234] [cursor=pointer]
+            - generic [ref=e237]:
+              - img [ref=e240]
+              - generic [ref=e242]: За выбранный период статистика ученика отсутствует
+          - generic [ref=e243]:
+            - generic [ref=e244]:
+              - generic [ref=e246]: Рекомендации
+              - img "ai" [ref=e248]
+            - paragraph [ref=e249]: Наша учебная платформа тщательно анализирует работу и ответы вашего ребенка, чтобы вскоре предложить индивидуальные рекомендации. Ожидайте персонализированные предложения в ближайшее время.
+```
