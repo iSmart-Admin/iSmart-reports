@@ -1,0 +1,109 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - region "Задача для решения" [ref=e25] [cursor=pointer]:
+          - generic [ref=e26] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e35]:
+              - generic [ref=e37]:
+                - img [ref=e41]
+                - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e43]:
+                  - generic [ref=e45]: Внеси ответ в специально предназначенное поле.
+              - generic [ref=e47]:
+                - img "decore" [ref=e50]
+                - generic [ref=e56]:
+                  - text: Имеются три бутылки ёмкостью
+                  - generic [ref=e58]:
+                    - math [ref=e60]:
+                      - generic [ref=e63]: "8"
+                    - generic [ref=e66]: "8"
+                  - text: л (сосуд A),
+                  - generic [ref=e68]:
+                    - math [ref=e70]:
+                      - generic [ref=e73]: "5"
+                    - generic [ref=e76]: "5"
+                  - text: л (сосуд B) и
+                  - generic [ref=e78]:
+                    - math [ref=e80]:
+                      - generic [ref=e83]: "3"
+                    - generic [ref=e86]: "3"
+                  - text: л (сосуд C). Первая бутылка полностью заполнена водой, а две другие пустые. Ниже представлен алгоритм, как с помощью этих бутылок отмерить ровно
+                  - generic [ref=e88]:
+                    - math [ref=e90]:
+                      - generic [ref=e93]: "1"
+                    - generic [ref=e96]: "1"
+                  - text: л. Но в этом алгоритме случайно была удалена
+                  - generic [ref=e98]:
+                    - math [ref=e100]:
+                      - generic [ref=e103]: "1"
+                    - generic [ref=e106]: "1"
+                  - text: команда. Восстанови её.
+              - generic [ref=e111]:
+                - text: использовать
+                - strong [ref=e112]: Водолей
+                - text: алг
+                - text: нач
+                - text: .
+                - strong [ref=e115]: перелей из A в B
+                - text: .
+                - strong [ref=e118]: перелей из B в C
+                - text: .
+                - textbox [ref=e119]
+                - text: .
+                - strong [ref=e122]: перелей из B в C
+                - text: .
+                - strong [ref=e125]: перелей из A в B
+                - text: кон
+        - generic [ref=e131]:
+          - generic [ref=e134]:
+            - button [disabled] [ref=e136]:
+              - img [ref=e138]
+            - generic [ref=e141]: 100%
+            - button [ref=e143] [cursor=pointer]:
+              - img [ref=e145] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e150] [cursor=pointer]:
+            - generic [ref=e153] [cursor=pointer]: "2"
+            - generic [ref=e154] [cursor=pointer]: Показать подсказку
+      - generic [ref=e158]:
+        - generic [ref=e161]: Интеллектуальный тренажер
+        - generic [ref=e165]:
+          - generic [ref=e170]: 1 из 15
+          - generic [ref=e172]:
+            - generic [ref=e173]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e175] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e178]:
+          - generic [ref=e180]:
+            - button "Пройти опрос" [ref=e181] [cursor=pointer]:
+              - generic [ref=e183] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e184] [cursor=pointer]:
+              - img [ref=e187] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e190] [cursor=pointer]:
+              - img [ref=e193] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e197] [cursor=pointer]:
+              - img [ref=e200] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e202]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [active] [ref=e203] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e206] [cursor=pointer]
+            - generic [ref=e209]: 69c358d2e4eadd0007f35c55
+```

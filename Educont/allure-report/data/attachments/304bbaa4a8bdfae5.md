@@ -1,0 +1,73 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - region "Задача для решения" [ref=e25] [cursor=pointer]:
+          - generic [ref=e26] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e35]:
+              - generic [ref=e37]:
+                - img [ref=e41]
+                - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e43]:
+                  - generic [ref=e45]: Внеси ответ в специально предназначенное поле.
+              - generic [ref=e47]:
+                - img "decore" [ref=e50]
+                - generic [ref=e52]:
+                  - img "hist_11_Московско-новгородская война" [ref=e55]
+                  - generic [ref=e59]: На карте изображён поход Ивана III к этому городу.
+              - generic [ref=e64]:
+                - strong [ref=e65]: Название города
+                - text: —
+                - textbox [ref=e66]
+        - generic [ref=e72]:
+          - generic [ref=e75]:
+            - button [disabled] [ref=e77]:
+              - img [ref=e79]
+            - generic [ref=e82]: 100%
+            - button [ref=e84] [cursor=pointer]:
+              - img [ref=e86] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e91] [cursor=pointer]:
+            - generic [ref=e94] [cursor=pointer]: "2"
+            - generic [ref=e95] [cursor=pointer]: Показать подсказку
+      - generic [ref=e99]:
+        - generic [ref=e102]: Интеллектуальный тренажер
+        - generic [ref=e106]:
+          - generic [ref=e111]: 1 из 6
+          - generic [ref=e113]:
+            - generic [ref=e114]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e116] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e119]:
+          - generic [ref=e121]:
+            - button "Пройти опрос" [ref=e122] [cursor=pointer]:
+              - generic [ref=e124] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e125] [cursor=pointer]:
+              - img [ref=e128] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e131] [cursor=pointer]:
+              - img [ref=e134] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e138] [cursor=pointer]:
+              - img [ref=e141] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e143]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [active] [ref=e144] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e147] [cursor=pointer]
+            - generic [ref=e150]: 69c3546ce4eadd0007f29051
+```

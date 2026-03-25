@@ -1,0 +1,88 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - region "Задача для решения" [ref=e25] [cursor=pointer]:
+          - generic [ref=e26] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e35]:
+              - generic [ref=e37]:
+                - img [ref=e41]
+                - heading "Раскройте скобки." [level=4] [ref=e43]:
+                  - generic [ref=e45]: Раскройте скобки.
+              - generic [ref=e47]:
+                - img "decore" [ref=e50]
+                - generic [ref=e55]:
+                  - generic [ref=e56]: (не)глубокая речушка
+                  - generic [ref=e57]: (не)грустный, а радостный
+                  - generic [ref=e58]: вовсе (не)злой
+                  - generic [ref=e59]: (не)разговорчивый человек
+                  - generic [ref=e60]: (не)взрачный котёнок
+              - generic [ref=e67]:
+                - generic [ref=e68]:
+                  - textbox [ref=e69]
+                  - text: речушка
+                - generic [ref=e70]:
+                  - textbox [ref=e71]
+                  - text: ", а радостный"
+                - generic [ref=e72]:
+                  - text: вовсе
+                  - textbox [ref=e73]
+                - generic [ref=e74]:
+                  - textbox [ref=e75]
+                  - text: человек
+                - generic [ref=e76]:
+                  - textbox [ref=e77]
+                  - text: котёнок
+        - generic [ref=e83]:
+          - generic [ref=e86]:
+            - button [disabled] [ref=e88]:
+              - img [ref=e90]
+            - generic [ref=e93]: 100%
+            - button [ref=e95] [cursor=pointer]:
+              - img [ref=e97] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e102] [cursor=pointer]:
+            - generic [ref=e105] [cursor=pointer]: "2"
+            - generic [ref=e106] [cursor=pointer]: Показать подсказку
+      - generic [ref=e110]:
+        - generic [ref=e113]: Интеллектуальный тренажер
+        - generic [ref=e117]:
+          - generic [ref=e122]: 1 из 15
+          - generic [ref=e124]:
+            - generic [ref=e125]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e127] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e130]:
+          - generic [ref=e132]:
+            - button "Пройти опрос" [ref=e133] [cursor=pointer]:
+              - generic [ref=e135] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e136] [cursor=pointer]:
+              - img [ref=e139] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e142] [cursor=pointer]:
+              - img [ref=e145] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e149] [cursor=pointer]:
+              - img [ref=e152] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e154]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [active] [ref=e155] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e158] [cursor=pointer]
+            - generic [ref=e161]: 69c34d7b66a91b00079e5d8e
+```

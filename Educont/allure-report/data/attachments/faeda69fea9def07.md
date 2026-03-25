@@ -1,0 +1,78 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - region "Задача для решения" [ref=e25] [cursor=pointer]:
+          - generic [ref=e26] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e35]:
+              - generic [ref=e37]:
+                - img [ref=e41]
+                - heading "Впиши подходящие местоимения. Определи у них лицо и число." [level=4] [ref=e43]:
+                  - generic [ref=e45]: Впиши подходящие местоимения. Определи у них лицо и число.
+              - img "decore" [ref=e50]
+              - heading "( 3 л. , мн. ч. ) думаем, что ( 2 л. , ед. ч. ) ошибаются в расчётах." [level=3] [ref=e55]:
+                - textbox [ref=e56]
+                - text: (
+                - button "3 л." [ref=e58] [cursor=pointer]
+                - text: ","
+                - button "мн. ч." [ref=e60] [cursor=pointer]
+                - text: ) думаем, что
+                - textbox [ref=e61]
+                - text: (
+                - button "2 л." [ref=e63] [cursor=pointer]
+                - text: ","
+                - button "ед. ч." [ref=e65] [cursor=pointer]
+                - text: ) ошибаются в расчётах.
+        - generic [ref=e71]:
+          - generic [ref=e74]:
+            - button [disabled] [ref=e76]:
+              - img [ref=e78]
+            - generic [ref=e81]: 100%
+            - button [ref=e83] [cursor=pointer]:
+              - img [ref=e85] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e90] [cursor=pointer]:
+            - generic [ref=e93] [cursor=pointer]: "2"
+            - generic [ref=e94] [cursor=pointer]: Показать подсказку
+      - generic [ref=e98]:
+        - generic [ref=e101]: Интеллектуальный тренажер
+        - generic [ref=e105]:
+          - generic [ref=e110]: 1 из 10
+          - generic [ref=e112]:
+            - generic [ref=e113]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e115] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e118]:
+          - generic [ref=e120]:
+            - button "Пройти опрос" [ref=e121] [cursor=pointer]:
+              - generic [ref=e123] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e124] [cursor=pointer]:
+              - img [ref=e127] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e130] [cursor=pointer]:
+              - img [ref=e133] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e137] [cursor=pointer]:
+              - img [ref=e140] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e142]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [active] [ref=e143] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e146] [cursor=pointer]
+            - generic [ref=e149]: 69c35db166a91b0007a1d046
+```
