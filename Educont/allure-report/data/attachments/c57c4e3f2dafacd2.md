@@ -1,0 +1,84 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - region "Задача для решения" [ref=e25] [cursor=pointer]:
+          - generic [ref=e26] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e35]:
+              - generic [ref=e37]:
+                - img [ref=e41]
+                - heading "Впишите и выберите верный вариант ответа в выпадающем списке." [level=4] [ref=e43]:
+                  - generic [ref=e45]: Впишите и выберите верный вариант ответа в выпадающем списке.
+              - generic [ref=e47]:
+                - img "decore" [ref=e50]
+                - generic [ref=e55]:
+                  - generic [ref=e56]:
+                    - text: "Ниже представлена программа вывода на экран чисел следующим образом:"
+                    - text: 10 10.4
+                    - text: 11 11.4
+                    - text: . . .
+                    - text: 25 25.4
+                  - generic [ref=e57]: В приведённой программе пропущены команды.
+                  - generic [ref=e58]: Допишите недостающие команды.
+              - generic [ref=e62]:
+                - generic [ref=e63]: "Код программы :"
+                - generic [ref=e64]:
+                  - text: for
+                  - textbox [ref=e65]
+                  - text: "in range(10,25):"
+                  - text: print(i,i
+                  - button "-0.4" [ref=e67] [cursor=pointer]
+                  - text: );
+        - generic [ref=e73]:
+          - generic [ref=e76]:
+            - button [disabled] [ref=e78]:
+              - img [ref=e80]
+            - generic [ref=e83]: 100%
+            - button [ref=e85] [cursor=pointer]:
+              - img [ref=e87] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e92] [cursor=pointer]:
+            - generic [ref=e95] [cursor=pointer]: "2"
+            - generic [ref=e96] [cursor=pointer]: Показать подсказку
+      - generic [ref=e100]:
+        - generic [ref=e103]: Интеллектуальный тренажер
+        - generic [ref=e107]:
+          - generic [ref=e112]: 1 из 6
+          - generic [ref=e114]:
+            - generic [ref=e115]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e117] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e120]:
+          - generic [ref=e122]:
+            - button "Пройти опрос" [ref=e123] [cursor=pointer]:
+              - generic [ref=e125] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e126] [cursor=pointer]:
+              - img [ref=e129] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e132] [cursor=pointer]:
+              - img [ref=e135] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e139] [cursor=pointer]:
+              - img [ref=e142] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e144]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [active] [ref=e145] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e148] [cursor=pointer]
+            - generic [ref=e151]: 69c331d566a91b000797fecb
+```

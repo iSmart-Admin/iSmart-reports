@@ -1,0 +1,15 @@
+[
+  {
+    "url": "https://edu.ismart.org/trpc/tasks.taskUsedTimeSave?batch=1",
+    "status": 500,
+    "payload": {
+      "0": {
+        "taskId": "5ec5590deca298001b45730e",
+        "practiceId": "68b8688d9b3e4b0007d07c84",
+        "categoryId": null,
+        "usedTime": 0
+      }
+    },
+    "timestap": "25.03.2026, 04:05:23"
+  }
+]
