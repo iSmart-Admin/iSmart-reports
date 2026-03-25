@@ -1,0 +1,284 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Формирование орфографической грамотности (5-9 классы)
+    - generic [ref=e20]:
+      - generic [ref=e25]:
+        - button "5" [ref=e26] [cursor=pointer]:
+          - img [ref=e30] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e32] [cursor=pointer]:
+          - img [ref=e36] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e38] [cursor=pointer]:
+          - img [ref=e42] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e44] [cursor=pointer]:
+          - img [ref=e48] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e50]:
+          - img [ref=e54]
+          - text: "9"
+      - generic [ref=e57]:
+        - generic [ref=e61]:
+          - img [ref=e64]
+          - textbox "Поиск по подтемам" [ref=e67]
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - generic [ref=e70] [cursor=pointer]:
+              - generic [ref=e72] [cursor=pointer]: Темы
+              - button [ref=e74] [cursor=pointer]:
+                - img [ref=e76] [cursor=pointer]
+            - generic [ref=e79] [cursor=pointer]:
+              - generic [ref=e82] [cursor=pointer]: Что нужно знать о правописании слов?
+              - img [ref=e84] [cursor=pointer]
+          - generic [ref=e90]:
+            - link "1. Буквы Н и НН в суффиксах прилагательных, образованных от существительных" [ref=e91] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e68ddce7d970007857031/
+              - generic [ref=e92] [cursor=pointer]:
+                - generic [ref=e94] [cursor=pointer]:
+                  - generic [ref=e96] [cursor=pointer]: "1."
+                  - paragraph [ref=e98] [cursor=pointer]: Буквы Н и НН в суффиксах прилагательных, образованных от существительных
+                - img [ref=e101] [cursor=pointer]
+            - link "2. Буквы Н и НН в суффиксах отглагольных прилагательных, причастий и наречий" [ref=e103] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6965ce7d970007857817/
+              - generic [ref=e104] [cursor=pointer]:
+                - generic [ref=e106] [cursor=pointer]:
+                  - generic [ref=e108] [cursor=pointer]: "2."
+                  - paragraph [ref=e110] [cursor=pointer]: Буквы Н и НН в суффиксах отглагольных прилагательных, причастий и наречий
+                - img [ref=e113] [cursor=pointer]
+            - link "3. Слитное и раздельное написание НЕ с существительными, прилагательными, наречиями на -о, -е" [ref=e115] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6976ce7d97000785799d/
+              - generic [ref=e116] [cursor=pointer]:
+                - generic [ref=e118] [cursor=pointer]:
+                  - generic [ref=e120] [cursor=pointer]: "3."
+                  - paragraph [ref=e122] [cursor=pointer]: Слитное и раздельное написание НЕ с существительными, прилагательными, наречиями на -о, -е
+                - img [ref=e125] [cursor=pointer]
+            - link "4. Слитное и раздельное написание НЕ с причастиями, деепричастиями, глаголами" [ref=e127] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6985ce7d970007857a55/
+              - generic [ref=e128] [cursor=pointer]:
+                - generic [ref=e130] [cursor=pointer]:
+                  - generic [ref=e132] [cursor=pointer]: "4."
+                  - paragraph [ref=e134] [cursor=pointer]: Слитное и раздельное написание НЕ с причастиями, деепричастиями, глаголами
+                - img [ref=e137] [cursor=pointer]
+            - link "5. Гласные в приставках пре- и при-" [ref=e139] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6995ce7d970007857aee/
+              - generic [ref=e140] [cursor=pointer]:
+                - generic [ref=e142] [cursor=pointer]:
+                  - generic [ref=e144] [cursor=pointer]: "5."
+                  - paragraph [ref=e146] [cursor=pointer]: Гласные в приставках пре- и при-
+                - img [ref=e149] [cursor=pointer]
+            - link "6. -Тся и -ться в глаголах" [ref=e151] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e69c6ce7d970007857f3b/
+              - generic [ref=e152] [cursor=pointer]:
+                - generic [ref=e154] [cursor=pointer]:
+                  - generic [ref=e156] [cursor=pointer]: "6."
+                  - paragraph [ref=e158] [cursor=pointer]: "-Тся и -ться в глаголах"
+                - img [ref=e161] [cursor=pointer]
+            - link "7. Буквы О и Е после шипящих на конце наречий" [ref=e163] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e69e6ce7d9700078581e3/
+              - generic [ref=e164] [cursor=pointer]:
+                - generic [ref=e166] [cursor=pointer]:
+                  - generic [ref=e168] [cursor=pointer]: "7."
+                  - paragraph [ref=e170] [cursor=pointer]: Буквы О и Е после шипящих на конце наречий
+                - img [ref=e173] [cursor=pointer]
+            - link "8. Чередование гласных в корнях слов" [ref=e175] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e69f8ce7d9700078583be/
+              - generic [ref=e176] [cursor=pointer]:
+                - generic [ref=e178] [cursor=pointer]:
+                  - generic [ref=e180] [cursor=pointer]: "8."
+                  - paragraph [ref=e182] [cursor=pointer]: Чередование гласных в корнях слов
+                - img [ref=e185] [cursor=pointer]
+            - link "9. Приставки на з-/с-" [ref=e187] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6a06ce7d9700078584f8/
+              - generic [ref=e188] [cursor=pointer]:
+                - generic [ref=e190] [cursor=pointer]:
+                  - generic [ref=e192] [cursor=pointer]: "9."
+                  - paragraph [ref=e194] [cursor=pointer]: Приставки на з-/с-
+                - img [ref=e197] [cursor=pointer]
+            - link "10. Правописание гласной буквы И-Ы на стыке приставки и корня" [ref=e199] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6a15ce7d97000785858f/
+              - generic [ref=e200] [cursor=pointer]:
+                - generic [ref=e202] [cursor=pointer]:
+                  - generic [ref=e204] [cursor=pointer]: "10."
+                  - paragraph [ref=e206] [cursor=pointer]: Правописание гласной буквы И-Ы на стыке приставки и корня
+                - img [ref=e209] [cursor=pointer]
+            - link "11. Ь после шипящих во всех частях речи" [ref=e211] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6a25ce7d9700078586c9/
+              - generic [ref=e212] [cursor=pointer]:
+                - generic [ref=e214] [cursor=pointer]:
+                  - generic [ref=e216] [cursor=pointer]: "11."
+                  - paragraph [ref=e218] [cursor=pointer]: Ь после шипящих во всех частях речи
+                - img [ref=e221] [cursor=pointer]
+            - link "12. Правописание безударных личных окончаний глаголов" [ref=e223] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6a34ce7d97000785879f/
+              - generic [ref=e224] [cursor=pointer]:
+                - generic [ref=e226] [cursor=pointer]:
+                  - generic [ref=e228] [cursor=pointer]: "12."
+                  - paragraph [ref=e230] [cursor=pointer]: Правописание безударных личных окончаний глаголов
+                - img [ref=e233] [cursor=pointer]
+            - link "13. Правописание суффиксов причастий" [ref=e235] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6a44ce7d97000785886c/
+              - generic [ref=e236] [cursor=pointer]:
+                - generic [ref=e238] [cursor=pointer]:
+                  - generic [ref=e240] [cursor=pointer]: "13."
+                  - paragraph [ref=e242] [cursor=pointer]: Правописание суффиксов причастий
+                - img [ref=e245] [cursor=pointer]
+            - link "14. Правописание гласных в падежных окончаниях причастий" [ref=e247] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6a54ce7d9700078589a4/
+              - generic [ref=e248] [cursor=pointer]:
+                - generic [ref=e250] [cursor=pointer]:
+                  - generic [ref=e252] [cursor=pointer]: "14."
+                  - paragraph [ref=e254] [cursor=pointer]: Правописание гласных в падежных окончаниях причастий
+                - img [ref=e257] [cursor=pointer]
+            - link "15. Правописание гласных в суффиксах действительных и страдательных причастий настоящего времени" [ref=e259] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6a75ce7d970007858c78/
+              - generic [ref=e260] [cursor=pointer]:
+                - generic [ref=e262] [cursor=pointer]:
+                  - generic [ref=e264] [cursor=pointer]: "15."
+                  - paragraph [ref=e266] [cursor=pointer]: Правописание гласных в суффиксах действительных и страдательных причастий настоящего времени
+                - img [ref=e269] [cursor=pointer]
+            - link "16. Гласные перед Н в полных и кратких страдательных причастиях" [ref=e271] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6a8bce7d970007858d5d/
+              - generic [ref=e272] [cursor=pointer]:
+                - generic [ref=e274] [cursor=pointer]:
+                  - generic [ref=e276] [cursor=pointer]: "16."
+                  - paragraph [ref=e278] [cursor=pointer]: Гласные перед Н в полных и кратких страдательных причастиях
+                - img [ref=e281] [cursor=pointer]
+            - link "17. Буква Ё после шипящих в суффиксах страдательных причастий прошедшего времени и отглагольных прилагательных" [ref=e283] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6af3ce7d970007859555/
+              - generic [ref=e284] [cursor=pointer]:
+                - generic [ref=e286] [cursor=pointer]:
+                  - generic [ref=e288] [cursor=pointer]: "17."
+                  - paragraph [ref=e290] [cursor=pointer]: Буква Ё после шипящих в суффиксах страдательных причастий прошедшего времени и отглагольных прилагательных
+                - img [ref=e293] [cursor=pointer]
+            - link "18. Буквы О и А на конце наречий" [ref=e295] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6b01ce7d97000785960c/
+              - generic [ref=e296] [cursor=pointer]:
+                - generic [ref=e298] [cursor=pointer]:
+                  - generic [ref=e300] [cursor=pointer]: "18."
+                  - paragraph [ref=e302] [cursor=pointer]: Буквы О и А на конце наречий
+                - img [ref=e305] [cursor=pointer]
+            - link "19. Слитное и раздельное написание наречий" [ref=e307] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6b10ce7d9700078597a7/
+              - generic [ref=e308] [cursor=pointer]:
+                - generic [ref=e310] [cursor=pointer]:
+                  - generic [ref=e312] [cursor=pointer]: "19."
+                  - paragraph [ref=e314] [cursor=pointer]: Слитное и раздельное написание наречий
+                - img [ref=e317] [cursor=pointer]
+            - link "20. Слитное написание союзов ТАКЖЕ, ТОЖЕ, ЧТОБЫ" [ref=e319] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6b1ece7d970007859884/
+              - generic [ref=e320] [cursor=pointer]:
+                - generic [ref=e322] [cursor=pointer]:
+                  - generic [ref=e324] [cursor=pointer]: "20."
+                  - paragraph [ref=e326] [cursor=pointer]: Слитное написание союзов ТАКЖЕ, ТОЖЕ, ЧТОБЫ
+                - img [ref=e329] [cursor=pointer]
+            - link "21. Чередование гласных в корнях кас//кос, лаг//лож, раст//рос" [ref=e331] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6b2dce7d97000785993d/
+              - generic [ref=e332] [cursor=pointer]:
+                - generic [ref=e334] [cursor=pointer]:
+                  - generic [ref=e336] [cursor=pointer]: "21."
+                  - paragraph [ref=e338] [cursor=pointer]: Чередование гласных в корнях кас//кос, лаг//лож, раст//рос
+                - img [ref=e341] [cursor=pointer]
+            - link "22. Чередование гласных в корнях гор//гар, зор//зар" [ref=e343] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6b3ace7d970007859a28/
+              - generic [ref=e344] [cursor=pointer]:
+                - generic [ref=e346] [cursor=pointer]:
+                  - generic [ref=e348] [cursor=pointer]: "22."
+                  - paragraph [ref=e350] [cursor=pointer]: Чередование гласных в корнях гор//гар, зор//зар
+                - img [ref=e353] [cursor=pointer]
+            - link "23. Чередование букв е//и в корнях" [ref=e355] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6b52ce7d970007859b64/
+              - generic [ref=e356] [cursor=pointer]:
+                - generic [ref=e358] [cursor=pointer]:
+                  - generic [ref=e360] [cursor=pointer]: "23."
+                  - paragraph [ref=e362] [cursor=pointer]: Чередование букв е//и в корнях
+                - img [ref=e365] [cursor=pointer]
+            - link "24. Буквы Н и НН в суффиксах прилагательных, причастий и наречий" [ref=e367] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6b61ce7d970007859ce7/
+              - generic [ref=e368] [cursor=pointer]:
+                - generic [ref=e370] [cursor=pointer]:
+                  - generic [ref=e372] [cursor=pointer]: "24."
+                  - paragraph [ref=e374] [cursor=pointer]: Буквы Н и НН в суффиксах прилагательных, причастий и наречий
+                - img [ref=e377] [cursor=pointer]
+            - link "25. Слитное и раздельное написание НЕ с различными частями речи" [active] [ref=e379] [cursor=pointer]:
+              - /url: /learn/698464d086bc920007e7ae24/5a33b10acefdee00198efa13/61a71c551b0ad63754c198e9/697e6b6ece7d970007859db5/
+              - generic [ref=e380] [cursor=pointer]:
+                - generic [ref=e382] [cursor=pointer]:
+                  - generic [ref=e384] [cursor=pointer]: "25."
+                  - paragraph [ref=e386] [cursor=pointer]: Слитное и раздельное написание НЕ с различными частями речи
+                - img [ref=e389] [cursor=pointer]
+  - generic [ref=e392]:
+    - generic [ref=e393]:
+      - generic [ref=e394]:
+        - generic [ref=e398]:
+          - img [ref=e400]
+          - link "8 (800) 600-44-02" [ref=e402] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e403]:
+          - generic [ref=e404]: "@"
+          - link "info@ismart.org" [ref=e405] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e406]:
+          - img [ref=e408]
+          - generic [ref=e410]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e411]:
+        - link "Наш сайт" [ref=e414] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e416] [cursor=pointer]
+        - generic [ref=e418]:
+          - link "Лицензия" [ref=e420] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e422] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e424] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e426] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e428] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e430]:
+      - generic [ref=e431]:
+        - link [ref=e432] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e436] [cursor=pointer]
+        - generic [ref=e439]:
+          - link "okIcon" [ref=e440] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e441] [cursor=pointer]
+          - link "dzenIcon" [ref=e442] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e443] [cursor=pointer]
+          - link "vkIcon" [ref=e444] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e445] [cursor=pointer]
+      - generic [ref=e447]:
+        - generic [ref=e449]:
+          - generic [ref=e450]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e451] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e452]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e453] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e454]:
+          - generic [ref=e455]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e456] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e457]: © iSmart, 2018-2026
+```

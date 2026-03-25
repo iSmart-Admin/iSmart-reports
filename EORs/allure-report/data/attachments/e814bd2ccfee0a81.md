@@ -1,0 +1,510 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e18]:
+        - generic [ref=e19]: Русский язык
+        - generic [ref=e21]: Подготовка к контрольным работам
+      - button "Методические рекомендации" [ref=e24] [cursor=pointer]
+    - generic [ref=e25]:
+      - generic [ref=e30]:
+        - button "2" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e37]:
+          - img [ref=e41]
+          - text: "3"
+        - button "4" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e61] [cursor=pointer]:
+          - img [ref=e65] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e67] [cursor=pointer]:
+          - img [ref=e71] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e73] [cursor=pointer]:
+          - img [ref=e77] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e79] [cursor=pointer]:
+          - img [ref=e83] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e85] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e92]:
+        - generic [ref=e96]:
+          - img [ref=e99]
+          - textbox "Поиск по подтемам" [ref=e102]
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - generic [ref=e105] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Темы
+              - button [ref=e109] [cursor=pointer]:
+                - img [ref=e111] [cursor=pointer]
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e116] [cursor=pointer]: Подготовка к контрольной 1 четверть
+              - img [ref=e118] [cursor=pointer]
+            - generic [ref=e120] [cursor=pointer]:
+              - generic [ref=e123] [cursor=pointer]: Подготовка к контрольной 2 четверть
+              - img [ref=e125] [cursor=pointer]
+            - generic [ref=e128] [cursor=pointer]:
+              - generic [ref=e131] [cursor=pointer]: Подготовка к контрольной I полугодие
+              - img [ref=e133] [cursor=pointer]
+            - generic [ref=e135] [cursor=pointer]:
+              - generic [ref=e138] [cursor=pointer]: Подготовка к контрольной 3 четверть
+              - img [ref=e140] [cursor=pointer]
+            - generic [ref=e142] [cursor=pointer]:
+              - generic [ref=e145] [cursor=pointer]: Подготовка к контрольной 4 четверть
+              - img [ref=e147] [cursor=pointer]
+            - generic [ref=e149] [cursor=pointer]:
+              - generic [ref=e152] [cursor=pointer]: Подготовка к контрольной II полугодие
+              - img [ref=e154] [cursor=pointer]
+            - generic [ref=e156] [cursor=pointer]:
+              - generic [ref=e159] [cursor=pointer]: Подготовка к Итоговой контрольной работе
+              - img [ref=e161] [cursor=pointer]
+          - generic [ref=e167]:
+            - link "1. Предложение" [ref=e168] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d82507461d0739fc607d/
+              - generic [ref=e169] [cursor=pointer]:
+                - generic [ref=e171] [cursor=pointer]:
+                  - generic [ref=e173] [cursor=pointer]: "1."
+                  - paragraph [ref=e175] [cursor=pointer]: Предложение
+                - img [ref=e178] [cursor=pointer]
+            - link "2. Знаки препинания в конце предложения" [ref=e180] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d85307461d526bfc6084/
+              - generic [ref=e181] [cursor=pointer]:
+                - generic [ref=e183] [cursor=pointer]:
+                  - generic [ref=e185] [cursor=pointer]: "2."
+                  - paragraph [ref=e187] [cursor=pointer]: Знаки препинания в конце предложения
+                - img [ref=e190] [cursor=pointer]
+            - link "3. Определи границы предложений в тексте" [ref=e192] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d86c7024734862928ca0/
+              - generic [ref=e193] [cursor=pointer]:
+                - generic [ref=e195] [cursor=pointer]:
+                  - generic [ref=e197] [cursor=pointer]: "3."
+                  - paragraph [ref=e199] [cursor=pointer]: Определи границы предложений в тексте
+                - img [ref=e202] [cursor=pointer]
+            - link "4. Предложения с обращением" [ref=e204] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d888702473e374928cf5/
+              - generic [ref=e205] [cursor=pointer]:
+                - generic [ref=e207] [cursor=pointer]:
+                  - generic [ref=e209] [cursor=pointer]: "4."
+                  - paragraph [ref=e211] [cursor=pointer]: Предложения с обращением
+                - img [ref=e214] [cursor=pointer]
+            - link "5. Главные члены предложения" [ref=e216] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d8a474bb5bd600927b8d/
+              - generic [ref=e217] [cursor=pointer]:
+                - generic [ref=e219] [cursor=pointer]:
+                  - generic [ref=e221] [cursor=pointer]: "5."
+                  - paragraph [ref=e223] [cursor=pointer]: Главные члены предложения
+                - img [ref=e226] [cursor=pointer]
+            - link "6. Второстепенные члены предложения" [ref=e228] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d8bc74bb5b7d01927bc0/
+              - generic [ref=e229] [cursor=pointer]:
+                - generic [ref=e231] [cursor=pointer]:
+                  - generic [ref=e233] [cursor=pointer]: "6."
+                  - paragraph [ref=e235] [cursor=pointer]: Второстепенные члены предложения
+                - img [ref=e238] [cursor=pointer]
+            - link "7. Главные и второстепенные члены предложения" [ref=e240] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d8d774bb5ba13b927be5/
+              - generic [ref=e241] [cursor=pointer]:
+                - generic [ref=e243] [cursor=pointer]:
+                  - generic [ref=e245] [cursor=pointer]: "7."
+                  - paragraph [ref=e247] [cursor=pointer]: Главные и второстепенные члены предложения
+                - img [ref=e250] [cursor=pointer]
+            - link "8. Распространённые и нераспространённые предложения" [ref=e252] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d90374bb5b57c5927c44/
+              - generic [ref=e253] [cursor=pointer]:
+                - generic [ref=e255] [cursor=pointer]:
+                  - generic [ref=e257] [cursor=pointer]: "8."
+                  - paragraph [ref=e259] [cursor=pointer]: Распространённые и нераспространённые предложения
+                - img [ref=e262] [cursor=pointer]
+            - link "9. Простое и сложное предложения. Запятая в сложном предложении" [ref=e264] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d91c74bb5b31f7927c69/
+              - generic [ref=e265] [cursor=pointer]:
+                - generic [ref=e267] [cursor=pointer]:
+                  - generic [ref=e269] [cursor=pointer]: "9."
+                  - paragraph [ref=e271] [cursor=pointer]: Простое и сложное предложения. Запятая в сложном предложении
+                - img [ref=e274] [cursor=pointer]
+            - link "10. Установление связи слов в предложении. Словосочетание" [ref=e276] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d9327024733693928e1a/
+              - generic [ref=e277] [cursor=pointer]:
+                - generic [ref=e279] [cursor=pointer]:
+                  - generic [ref=e281] [cursor=pointer]: "10."
+                  - paragraph [ref=e283] [cursor=pointer]: Установление связи слов в предложении. Словосочетание
+                - img [ref=e286] [cursor=pointer]
+            - link "11. Родственные слова" [ref=e288] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d94c74bb5b5fc2927cba/
+              - generic [ref=e289] [cursor=pointer]:
+                - generic [ref=e291] [cursor=pointer]:
+                  - generic [ref=e293] [cursor=pointer]: "11."
+                  - paragraph [ref=e295] [cursor=pointer]: Родственные слова
+                - img [ref=e298] [cursor=pointer]
+            - link "12. Корень — общая часть родственных слов" [ref=e300] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d96374bb5ba7e7927d50/
+              - generic [ref=e301] [cursor=pointer]:
+                - generic [ref=e303] [cursor=pointer]:
+                  - generic [ref=e305] [cursor=pointer]: "12."
+                  - paragraph [ref=e307] [cursor=pointer]: Корень — общая часть родственных слов
+                - img [ref=e310] [cursor=pointer]
+            - link "13. Части речи" [ref=e312] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d97b702473e21e928e73/
+              - generic [ref=e313] [cursor=pointer]:
+                - generic [ref=e315] [cursor=pointer]:
+                  - generic [ref=e317] [cursor=pointer]: "13."
+                  - paragraph [ref=e319] [cursor=pointer]: Части речи
+                - img [ref=e322] [cursor=pointer]
+            - link "14. Имя существительное" [ref=e324] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d9927024735436928e7f/
+              - generic [ref=e325] [cursor=pointer]:
+                - generic [ref=e327] [cursor=pointer]:
+                  - generic [ref=e329] [cursor=pointer]: "14."
+                  - paragraph [ref=e331] [cursor=pointer]: Имя существительное
+                - img [ref=e334] [cursor=pointer]
+            - link "15. Имя прилагательное" [ref=e336] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d9a874bb5b7021927dc0/
+              - generic [ref=e337] [cursor=pointer]:
+                - generic [ref=e339] [cursor=pointer]:
+                  - generic [ref=e341] [cursor=pointer]: "15."
+                  - paragraph [ref=e343] [cursor=pointer]: Имя прилагательное
+                - img [ref=e346] [cursor=pointer]
+            - link "16. Глагол" [ref=e348] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d9c274bb5b5a5b927dc4/
+              - generic [ref=e349] [cursor=pointer]:
+                - generic [ref=e351] [cursor=pointer]:
+                  - generic [ref=e353] [cursor=pointer]: "16."
+                  - paragraph [ref=e355] [cursor=pointer]: Глагол
+                - img [ref=e358] [cursor=pointer]
+            - link "17. Имя числительное" [ref=e360] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d9dd7024739a75928eeb/
+              - generic [ref=e361] [cursor=pointer]:
+                - generic [ref=e363] [cursor=pointer]:
+                  - generic [ref=e365] [cursor=pointer]: "17."
+                  - paragraph [ref=e367] [cursor=pointer]: Имя числительное
+                - img [ref=e370] [cursor=pointer]
+            - link "18. Приставка или предлог?" [ref=e372] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188d9f874bb5b1faf927df3/
+              - generic [ref=e373] [cursor=pointer]:
+                - generic [ref=e375] [cursor=pointer]:
+                  - generic [ref=e377] [cursor=pointer]: "18."
+                  - paragraph [ref=e379] [cursor=pointer]: Приставка или предлог?
+                - img [ref=e382] [cursor=pointer]
+            - link "19. Правописание приставок с а/о" [ref=e384] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188da1370247300f5928f3f/
+              - generic [ref=e385] [cursor=pointer]:
+                - generic [ref=e387] [cursor=pointer]:
+                  - generic [ref=e389] [cursor=pointer]: "19."
+                  - paragraph [ref=e391] [cursor=pointer]: Правописание приставок с а/о
+                - img [ref=e394] [cursor=pointer]
+            - link "20. Правописание суффиксов -ёнок-/-онок-, -ок-/-ёк-" [ref=e396] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188da2e74bb5b76f8927e44/
+              - generic [ref=e397] [cursor=pointer]:
+                - generic [ref=e399] [cursor=pointer]:
+                  - generic [ref=e401] [cursor=pointer]: "20."
+                  - paragraph [ref=e403] [cursor=pointer]: Правописание суффиксов -ёнок-/-онок-, -ок-/-ёк-
+                - img [ref=e406] [cursor=pointer]
+            - link "21. Правописание суффиксов -ик-/-ек-" [ref=e408] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188da4b702473b58f928f71/
+              - generic [ref=e409] [cursor=pointer]:
+                - generic [ref=e411] [cursor=pointer]:
+                  - generic [ref=e413] [cursor=pointer]: "21."
+                  - paragraph [ref=e415] [cursor=pointer]: Правописание суффиксов -ик-/-ек-
+                - img [ref=e418] [cursor=pointer]
+            - link "22. Разбор слова по составу" [ref=e420] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188da657024734fd0928f9c/
+              - generic [ref=e421] [cursor=pointer]:
+                - generic [ref=e423] [cursor=pointer]:
+                  - generic [ref=e425] [cursor=pointer]: "22."
+                  - paragraph [ref=e427] [cursor=pointer]: Разбор слова по составу
+                - img [ref=e430] [cursor=pointer]
+            - link "23. Корень слова" [ref=e432] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188da8974bb5b5183927e95/
+              - generic [ref=e433] [cursor=pointer]:
+                - generic [ref=e435] [cursor=pointer]:
+                  - generic [ref=e437] [cursor=pointer]: "23."
+                  - paragraph [ref=e439] [cursor=pointer]: Корень слова
+                - img [ref=e442] [cursor=pointer]
+            - link "24. Однокоренные слова" [ref=e444] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188daa074bb5b8556927eaf/
+              - generic [ref=e445] [cursor=pointer]:
+                - generic [ref=e447] [cursor=pointer]:
+                  - generic [ref=e449] [cursor=pointer]: "24."
+                  - paragraph [ref=e451] [cursor=pointer]: Однокоренные слова
+                - img [ref=e454] [cursor=pointer]
+            - link "25. Чередование согласных в корне слова" [ref=e456] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dab774bb5b0105927efc/
+              - generic [ref=e457] [cursor=pointer]:
+                - generic [ref=e459] [cursor=pointer]:
+                  - generic [ref=e461] [cursor=pointer]: "25."
+                  - paragraph [ref=e463] [cursor=pointer]: Чередование согласных в корне слова
+                - img [ref=e466] [cursor=pointer]
+            - link "26. Окончание слова" [ref=e468] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dad074bb5b6282927f09/
+              - generic [ref=e469] [cursor=pointer]:
+                - generic [ref=e471] [cursor=pointer]:
+                  - generic [ref=e473] [cursor=pointer]: "26."
+                  - paragraph [ref=e475] [cursor=pointer]: Окончание слова
+                - img [ref=e478] [cursor=pointer]
+            - link "27. Окончание. Формы слова" [ref=e480] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188daec74bb5b0380927f16/
+              - generic [ref=e481] [cursor=pointer]:
+                - generic [ref=e483] [cursor=pointer]:
+                  - generic [ref=e485] [cursor=pointer]: "27."
+                  - paragraph [ref=e487] [cursor=pointer]: Окончание. Формы слова
+                - img [ref=e490] [cursor=pointer]
+            - link "28. Суффикс как значимая часть слова" [ref=e492] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188db0974bb5b0da6927f23/
+              - generic [ref=e493] [cursor=pointer]:
+                - generic [ref=e495] [cursor=pointer]:
+                  - generic [ref=e497] [cursor=pointer]: "28."
+                  - paragraph [ref=e499] [cursor=pointer]: Суффикс как значимая часть слова
+                - img [ref=e502] [cursor=pointer]
+            - link "29. Основа слова" [ref=e504] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188db2121b7b0922ede1bed/
+              - generic [ref=e505] [cursor=pointer]:
+                - generic [ref=e507] [cursor=pointer]:
+                  - generic [ref=e509] [cursor=pointer]: "29."
+                  - paragraph [ref=e511] [cursor=pointer]: Основа слова
+                - img [ref=e514] [cursor=pointer]
+            - link "30. Общее представление о правописании слов с орфограммами в значимых частях слова" [ref=e516] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188db3d21b7b04e69de1c31/
+              - generic [ref=e517] [cursor=pointer]:
+                - generic [ref=e519] [cursor=pointer]:
+                  - generic [ref=e521] [cursor=pointer]: "30."
+                  - paragraph [ref=e523] [cursor=pointer]: Общее представление о правописании слов с орфограммами в значимых частях слова
+                - img [ref=e526] [cursor=pointer]
+            - link "31. Правописание слов с безударными гласными в корне, проверяемыми ударением" [ref=e528] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188db5621b7b03ddbde1c57/
+              - generic [ref=e529] [cursor=pointer]:
+                - generic [ref=e531] [cursor=pointer]:
+                  - generic [ref=e533] [cursor=pointer]: "31."
+                  - paragraph [ref=e535] [cursor=pointer]: Правописание слов с безударными гласными в корне, проверяемыми ударением
+                - img [ref=e538] [cursor=pointer]
+            - link "32. Правописание слов с непроверяемыми безударными гласными в корне" [ref=e540] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188db6d74bb5b2bee927fd3/
+              - generic [ref=e541] [cursor=pointer]:
+                - generic [ref=e543] [cursor=pointer]:
+                  - generic [ref=e545] [cursor=pointer]: "32."
+                  - paragraph [ref=e547] [cursor=pointer]: Правописание слов с непроверяемыми безударными гласными в корне
+                - img [ref=e550] [cursor=pointer]
+            - link "33. Проверка безударных гласных" [ref=e552] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188db8521b7b09996de1caf/
+              - generic [ref=e553] [cursor=pointer]:
+                - generic [ref=e555] [cursor=pointer]:
+                  - generic [ref=e557] [cursor=pointer]: "33."
+                  - paragraph [ref=e559] [cursor=pointer]: Проверка безударных гласных
+                - img [ref=e562] [cursor=pointer]
+            - link "34. Проверка парных согласных" [ref=e564] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188db9a298c7a18e49f200c/
+              - generic [ref=e565] [cursor=pointer]:
+                - generic [ref=e567] [cursor=pointer]:
+                  - generic [ref=e569] [cursor=pointer]: "34."
+                  - paragraph [ref=e571] [cursor=pointer]: Проверка парных согласных
+                - img [ref=e574] [cursor=pointer]
+            - link "35. Правописание слов с парными согласными в корне" [ref=e576] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dbaf21b7b01a11de1d12/
+              - generic [ref=e577] [cursor=pointer]:
+                - generic [ref=e579] [cursor=pointer]:
+                  - generic [ref=e581] [cursor=pointer]: "35."
+                  - paragraph [ref=e583] [cursor=pointer]: Правописание слов с парными согласными в корне
+                - img [ref=e586] [cursor=pointer]
+            - link "36. Разделительные Ъ и Ь" [ref=e588] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dbc674bb5baad492800e/
+              - generic [ref=e589] [cursor=pointer]:
+                - generic [ref=e591] [cursor=pointer]:
+                  - generic [ref=e593] [cursor=pointer]: "36."
+                  - paragraph [ref=e595] [cursor=pointer]: Разделительные Ъ и Ь
+                - img [ref=e598] [cursor=pointer]
+            - link "37. Правописание слов с непроизносимыми согласными в корне" [ref=e600] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dbe4298c7ae4989f2041/
+              - generic [ref=e601] [cursor=pointer]:
+                - generic [ref=e603] [cursor=pointer]:
+                  - generic [ref=e605] [cursor=pointer]: "37."
+                  - paragraph [ref=e607] [cursor=pointer]: Правописание слов с непроизносимыми согласными в корне
+                - img [ref=e610] [cursor=pointer]
+            - link "38. Правописание слов с удвоенными согласными" [ref=e612] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dbfd74bb5b0c96928029/
+              - generic [ref=e613] [cursor=pointer]:
+                - generic [ref=e615] [cursor=pointer]:
+                  - generic [ref=e617] [cursor=pointer]: "38."
+                  - paragraph [ref=e619] [cursor=pointer]: Правописание слов с удвоенными согласными
+                - img [ref=e622] [cursor=pointer]
+            - link "39. Правописание неизменяемых приставок" [ref=e624] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dc16298c7a4af59f204a/
+              - generic [ref=e625] [cursor=pointer]:
+                - generic [ref=e627] [cursor=pointer]:
+                  - generic [ref=e629] [cursor=pointer]: "39."
+                  - paragraph [ref=e631] [cursor=pointer]: Правописание неизменяемых приставок
+                - img [ref=e634] [cursor=pointer]
+            - link "40. Правописание приставок и предлогов" [ref=e636] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dc2c298c7afbac9f2055/
+              - generic [ref=e637] [cursor=pointer]:
+                - generic [ref=e639] [cursor=pointer]:
+                  - generic [ref=e641] [cursor=pointer]: "40."
+                  - paragraph [ref=e643] [cursor=pointer]: Правописание приставок и предлогов
+                - img [ref=e646] [cursor=pointer]
+            - link "41. Правописание слов с разделительным твёрдым знаком (ъ)" [ref=e648] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dc4274bb5b538792807c/
+              - generic [ref=e649] [cursor=pointer]:
+                - generic [ref=e651] [cursor=pointer]:
+                  - generic [ref=e653] [cursor=pointer]: "41."
+                  - paragraph [ref=e655] [cursor=pointer]: Правописание слов с разделительным твёрдым знаком (ъ)
+                - img [ref=e658] [cursor=pointer]
+            - link "42. Прописная или строчная?" [ref=e660] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dc5b74bb5b0d42928083/
+              - generic [ref=e661] [cursor=pointer]:
+                - generic [ref=e663] [cursor=pointer]:
+                  - generic [ref=e665] [cursor=pointer]: "42."
+                  - paragraph [ref=e667] [cursor=pointer]: Прописная или строчная?
+                - img [ref=e670] [cursor=pointer]
+            - link "43. Непроверяемые безударные гласные" [ref=e672] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dc7221b7b06ef4de1dc1/
+              - generic [ref=e673] [cursor=pointer]:
+                - generic [ref=e675] [cursor=pointer]:
+                  - generic [ref=e677] [cursor=pointer]: "43."
+                  - paragraph [ref=e679] [cursor=pointer]: Непроверяемые безударные гласные
+                - img [ref=e682] [cursor=pointer]
+            - link "44. Звонкий или глухой?" [ref=e684] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dc9074bb5b2d489280b7/
+              - generic [ref=e685] [cursor=pointer]:
+                - generic [ref=e687] [cursor=pointer]:
+                  - generic [ref=e689] [cursor=pointer]: "44."
+                  - paragraph [ref=e691] [cursor=pointer]: Звонкий или глухой?
+                - img [ref=e694] [cursor=pointer]
+            - link "45. Буквосочетания ЧК, ЧН, ЧТ, ЩН, НЧ, НЩ" [ref=e696] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dcaf74bb5b1f93928113/
+              - generic [ref=e697] [cursor=pointer]:
+                - generic [ref=e699] [cursor=pointer]:
+                  - generic [ref=e701] [cursor=pointer]: "45."
+                  - paragraph [ref=e703] [cursor=pointer]: Буквосочетания ЧК, ЧН, ЧТ, ЩН, НЧ, НЩ
+                - img [ref=e706] [cursor=pointer]
+            - link "46. Буквосочетания ЖИ-ШИ, ЧА-ЩА, ЧУ-ЩУ" [ref=e708] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dcc7298c7aab649f20d0/
+              - generic [ref=e709] [cursor=pointer]:
+                - generic [ref=e711] [cursor=pointer]:
+                  - generic [ref=e713] [cursor=pointer]: "46."
+                  - paragraph [ref=e715] [cursor=pointer]: Буквосочетания ЖИ-ШИ, ЧА-ЩА, ЧУ-ЩУ
+                - img [ref=e718] [cursor=pointer]
+            - link "47. Разделительный мягкий знак" [ref=e720] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dce021b7b0e340de1e63/
+              - generic [ref=e721] [cursor=pointer]:
+                - generic [ref=e723] [cursor=pointer]:
+                  - generic [ref=e725] [cursor=pointer]: "47."
+                  - paragraph [ref=e727] [cursor=pointer]: Разделительный мягкий знак
+                - img [ref=e730] [cursor=pointer]
+            - link "48. Разделительный твёрдый знак" [ref=e732] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dcf421b7b05ae0de1e89/
+              - generic [ref=e733] [cursor=pointer]:
+                - generic [ref=e735] [cursor=pointer]:
+                  - generic [ref=e737] [cursor=pointer]: "48."
+                  - paragraph [ref=e739] [cursor=pointer]: Разделительный твёрдый знак
+                - img [ref=e742] [cursor=pointer]
+            - link "49. Разделительный Ь или Ъ?" [ref=e744] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dd0cd0ca206e12424f43/
+              - generic [ref=e745] [cursor=pointer]:
+                - generic [ref=e747] [cursor=pointer]:
+                  - generic [ref=e749] [cursor=pointer]: "49."
+                  - paragraph [ref=e751] [cursor=pointer]: Разделительный Ь или Ъ?
+                - img [ref=e754] [cursor=pointer]
+            - link "50. НЕ с глаголами" [ref=e756] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dd2221b7b01eeade1ed6/
+              - generic [ref=e757] [cursor=pointer]:
+                - generic [ref=e759] [cursor=pointer]:
+                  - generic [ref=e761] [cursor=pointer]: "50."
+                  - paragraph [ref=e763] [cursor=pointer]: НЕ с глаголами
+                - img [ref=e766] [cursor=pointer]
+            - link "51. Правописание предлогов" [ref=e768] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dd3c21b7b04d91de1edf/
+              - generic [ref=e769] [cursor=pointer]:
+                - generic [ref=e771] [cursor=pointer]:
+                  - generic [ref=e773] [cursor=pointer]: "51."
+                  - paragraph [ref=e775] [cursor=pointer]: Правописание предлогов
+                - img [ref=e778] [cursor=pointer]
+            - link "52. Правописание предлогов и приставок" [active] [ref=e780] [cursor=pointer]:
+              - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5a3cef238409440019b57b38/6188dd5021b7b0d550de1ee0/
+              - generic [ref=e781] [cursor=pointer]:
+                - generic [ref=e783] [cursor=pointer]:
+                  - generic [ref=e785] [cursor=pointer]: "52."
+                  - paragraph [ref=e787] [cursor=pointer]: Правописание предлогов и приставок
+                - img [ref=e790] [cursor=pointer]
+  - generic [ref=e793]:
+    - generic [ref=e794]:
+      - generic [ref=e795]:
+        - generic [ref=e799]:
+          - img [ref=e801]
+          - link "8 (800) 600-44-02" [ref=e803] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e804]:
+          - generic [ref=e805]: "@"
+          - link "info@ismart.org" [ref=e806] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e807]:
+          - img [ref=e809]
+          - generic [ref=e811]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e812]:
+        - link "Наш сайт" [ref=e815] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e817] [cursor=pointer]
+        - generic [ref=e819]:
+          - link "Лицензия" [ref=e821] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e823] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e825] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e827] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e829] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e831]:
+      - generic [ref=e832]:
+        - link [ref=e833] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e837] [cursor=pointer]
+        - generic [ref=e840]:
+          - link "okIcon" [ref=e841] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e842] [cursor=pointer]
+          - link "dzenIcon" [ref=e843] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e844] [cursor=pointer]
+          - link "vkIcon" [ref=e845] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e846] [cursor=pointer]
+      - generic [ref=e848]:
+        - generic [ref=e850]:
+          - generic [ref=e851]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e852] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e853]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e854] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e855]:
+          - generic [ref=e856]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e857] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e858]: © iSmart, 2018-2026
+```
