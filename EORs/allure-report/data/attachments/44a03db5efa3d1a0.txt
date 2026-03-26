@@ -1,2 +1,0 @@
-(node:1617811) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 69)
-(Use `node --trace-warnings ...` to show where the warning was created)

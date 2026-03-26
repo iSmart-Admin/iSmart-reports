@@ -1,0 +1,203 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Математика. 5.1
+    - generic [ref=e27]:
+      - generic [ref=e31]:
+        - img [ref=e34]
+        - textbox "Поиск по подтемам" [ref=e37]
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - generic [ref=e40] [cursor=pointer]:
+            - generic [ref=e42] [cursor=pointer]: Темы
+            - button [ref=e44] [cursor=pointer]:
+              - img [ref=e46] [cursor=pointer]
+          - generic [ref=e49] [cursor=pointer]:
+            - generic [ref=e52] [cursor=pointer]: Натуральные числа. Арифметические действия с натуральными числами
+            - img [ref=e54] [cursor=pointer]
+          - generic [ref=e56] [cursor=pointer]:
+            - generic [ref=e59] [cursor=pointer]: Натуральные числа. Делимость, НОД и НОК
+            - img [ref=e61] [cursor=pointer]
+          - generic [ref=e63] [cursor=pointer]:
+            - generic [ref=e66] [cursor=pointer]: Решение текстовых задач. Натуральные числа
+            - img [ref=e68] [cursor=pointer]
+          - generic [ref=e70] [cursor=pointer]:
+            - generic [ref=e73] [cursor=pointer]: Дроби. Обыкновенные и десятичные дроби
+            - img [ref=e75] [cursor=pointer]
+          - generic [ref=e77] [cursor=pointer]:
+            - generic [ref=e80] [cursor=pointer]: Дроби. Арифметические действия с обыкновенными и десятичными дробями
+            - img [ref=e82] [cursor=pointer]
+          - generic [ref=e84] [cursor=pointer]:
+            - generic [ref=e87] [cursor=pointer]: Решение задач. Дроби
+            - img [ref=e89] [cursor=pointer]
+          - generic [ref=e91] [cursor=pointer]:
+            - generic [ref=e94] [cursor=pointer]: Дроби. Отношения и пропорции
+            - img [ref=e96] [cursor=pointer]
+          - generic [ref=e98] [cursor=pointer]:
+            - generic [ref=e101] [cursor=pointer]: Дроби. Проценты
+            - img [ref=e103] [cursor=pointer]
+          - generic [ref=e105] [cursor=pointer]:
+            - generic [ref=e108] [cursor=pointer]: Буквенные выражения
+            - img [ref=e110] [cursor=pointer]
+          - generic [ref=e112] [cursor=pointer]:
+            - generic [ref=e115] [cursor=pointer]: Положительные и отрицательные числа. Основные понятия
+            - img [ref=e117] [cursor=pointer]
+          - generic [ref=e119] [cursor=pointer]:
+            - generic [ref=e122] [cursor=pointer]: Положительные и отрицательные числа. Сложение и вычитание
+            - img [ref=e124] [cursor=pointer]
+          - generic [ref=e126] [cursor=pointer]:
+            - generic [ref=e129] [cursor=pointer]: Положительные и отрицательные числа. Умножение и деление
+            - img [ref=e131] [cursor=pointer]
+          - generic [ref=e133] [cursor=pointer]:
+            - generic [ref=e136] [cursor=pointer]: Представление данных
+            - img [ref=e138] [cursor=pointer]
+          - generic [ref=e140] [cursor=pointer]:
+            - generic [ref=e143] [cursor=pointer]: Наглядная геометрия. Прямые на плоскости
+            - img [ref=e145] [cursor=pointer]
+          - generic [ref=e147] [cursor=pointer]:
+            - generic [ref=e150] [cursor=pointer]: Наглядная геометрия. Фигуры на плоскости
+            - img [ref=e152] [cursor=pointer]
+          - generic [ref=e154] [cursor=pointer]:
+            - generic [ref=e157] [cursor=pointer]: Наглядная геометрия. Симметрия
+            - img [ref=e159] [cursor=pointer]
+          - generic [ref=e161] [cursor=pointer]:
+            - generic [ref=e164] [cursor=pointer]: Наглядная геометрия. Фигуры в пространстве
+            - img [ref=e166] [cursor=pointer]
+        - generic [ref=e172]:
+          - link "1. Арифметические действия с многозначными натуральными числами. Сложение и вычитание" [ref=e173] [cursor=pointer]:
+            - /url: /learn/68ac4908d7ff8c00075ba1be/68ac468bd7ff8c0007512677/68ab5e3bd608c0000717a356/68ac4790d7ff8c00075b86c3/
+            - generic [ref=e174] [cursor=pointer]:
+              - generic [ref=e176] [cursor=pointer]:
+                - generic [ref=e178] [cursor=pointer]: "1."
+                - paragraph [ref=e180] [cursor=pointer]: Арифметические действия с многозначными натуральными числами. Сложение и вычитание
+              - img [ref=e183] [cursor=pointer]
+          - link "2. Арифметические действия с многозначными натуральными числами. Умножение" [ref=e185] [cursor=pointer]:
+            - /url: /learn/68ac4908d7ff8c00075ba1be/68ac468bd7ff8c0007512677/68ab5e3bd608c0000717a356/68ac4790d7ff8c00075b86c9/
+            - generic [ref=e186] [cursor=pointer]:
+              - generic [ref=e188] [cursor=pointer]:
+                - generic [ref=e190] [cursor=pointer]: "2."
+                - paragraph [ref=e192] [cursor=pointer]: Арифметические действия с многозначными натуральными числами. Умножение
+              - img [ref=e195] [cursor=pointer]
+          - link "3. Арифметические действия с многозначными натуральными числами. Деление" [ref=e197] [cursor=pointer]:
+            - /url: /learn/68ac4908d7ff8c00075ba1be/68ac468bd7ff8c0007512677/68ab5e3bd608c0000717a356/68ac4790d7ff8c00075b86ca/
+            - generic [ref=e198] [cursor=pointer]:
+              - generic [ref=e200] [cursor=pointer]:
+                - generic [ref=e202] [cursor=pointer]: "3."
+                - paragraph [ref=e204] [cursor=pointer]: Арифметические действия с многозначными натуральными числами. Деление
+              - img [ref=e207] [cursor=pointer]
+          - link "4. Числовые и буквенные выражения" [ref=e209] [cursor=pointer]:
+            - /url: /learn/68ac4908d7ff8c00075ba1be/68ac468bd7ff8c0007512677/68ab5e3bd608c0000717a356/68ac4790d7ff8c00075b86c8/
+            - generic [ref=e210] [cursor=pointer]:
+              - generic [ref=e212] [cursor=pointer]:
+                - generic [ref=e214] [cursor=pointer]: "4."
+                - paragraph [ref=e216] [cursor=pointer]: Числовые и буквенные выражения
+              - img [ref=e219] [cursor=pointer]
+          - link "5. Степень с натуральным показателем" [ref=e221] [cursor=pointer]:
+            - /url: /learn/68ac4908d7ff8c00075ba1be/68ac468bd7ff8c0007512677/68ab5e3bd608c0000717a356/68ac4790d7ff8c00075b86cb/
+            - generic [ref=e222] [cursor=pointer]:
+              - generic [ref=e224] [cursor=pointer]:
+                - generic [ref=e226] [cursor=pointer]: "5."
+                - paragraph [ref=e228] [cursor=pointer]: Степень с натуральным показателем
+              - img [ref=e231] [cursor=pointer]
+          - link "6. Числовые выражения. Порядок выполнения арифметических действий в выражениях со скобками и без скобок" [ref=e233] [cursor=pointer]:
+            - /url: /learn/68ac4908d7ff8c00075ba1be/68ac468bd7ff8c0007512677/68ab5e3bd608c0000717a356/68ac4790d7ff8c00075b86c4/
+            - generic [ref=e234] [cursor=pointer]:
+              - generic [ref=e236] [cursor=pointer]:
+                - generic [ref=e238] [cursor=pointer]: "6."
+                - paragraph [ref=e240] [cursor=pointer]: Числовые выражения. Порядок выполнения арифметических действий в выражениях со скобками и без скобок
+              - img [ref=e243] [cursor=pointer]
+          - link "7. Использование при вычислениях переместительного и сочетательного свойств (законов) сложения и умножения" [ref=e245] [cursor=pointer]:
+            - /url: /learn/68ac4908d7ff8c00075ba1be/68ac468bd7ff8c0007512677/68ab5e3bd608c0000717a356/68ac4790d7ff8c00075b86c5/
+            - generic [ref=e246] [cursor=pointer]:
+              - generic [ref=e248] [cursor=pointer]:
+                - generic [ref=e250] [cursor=pointer]: "7."
+                - paragraph [ref=e252] [cursor=pointer]: Использование при вычислениях переместительного и сочетательного свойств (законов) сложения и умножения
+              - img [ref=e255] [cursor=pointer]
+          - link "8. Использование при вычислениях распределительного свойства (закона) умножения" [ref=e257] [cursor=pointer]:
+            - /url: /learn/68ac4908d7ff8c00075ba1be/68ac468bd7ff8c0007512677/68ab5e3bd608c0000717a356/68ac4790d7ff8c00075b86c6/
+            - generic [ref=e258] [cursor=pointer]:
+              - generic [ref=e260] [cursor=pointer]:
+                - generic [ref=e262] [cursor=pointer]: "8."
+                - paragraph [ref=e264] [cursor=pointer]: Использование при вычислениях распределительного свойства (закона) умножения
+              - img [ref=e267] [cursor=pointer]
+          - link "9. Округление натуральных чисел" [active] [ref=e269] [cursor=pointer]:
+            - /url: /learn/68ac4908d7ff8c00075ba1be/68ac468bd7ff8c0007512677/68ab5e3bd608c0000717a356/68ac4790d7ff8c00075b86c7/
+            - generic [ref=e270] [cursor=pointer]:
+              - generic [ref=e272] [cursor=pointer]:
+                - generic [ref=e274] [cursor=pointer]: "9."
+                - paragraph [ref=e276] [cursor=pointer]: Округление натуральных чисел
+              - img [ref=e279] [cursor=pointer]
+  - generic [ref=e282]:
+    - generic [ref=e283]:
+      - generic [ref=e284]:
+        - generic [ref=e288]:
+          - img [ref=e290]
+          - link "8 (800) 600-44-02" [ref=e292] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e293]:
+          - generic [ref=e294]: "@"
+          - link "info@ismart.org" [ref=e295] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e296]:
+          - img [ref=e298]
+          - generic [ref=e300]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e301]:
+        - link "Наш сайт" [ref=e304] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e306] [cursor=pointer]
+        - generic [ref=e308]:
+          - link "Лицензия" [ref=e310] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e312] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e314] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e316] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e318] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e320]:
+      - generic [ref=e321]:
+        - link [ref=e322] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e326] [cursor=pointer]
+        - generic [ref=e329]:
+          - link "okIcon" [ref=e330] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e331] [cursor=pointer]
+          - link "dzenIcon" [ref=e332] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e333] [cursor=pointer]
+          - link "vkIcon" [ref=e334] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e335] [cursor=pointer]
+      - generic [ref=e337]:
+        - generic [ref=e339]:
+          - generic [ref=e340]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e341] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e342]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e343] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e344]:
+          - generic [ref=e345]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e346] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e347]: © iSmart, 2018-2026
+```
