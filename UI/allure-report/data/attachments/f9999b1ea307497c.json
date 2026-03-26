@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation ClassroomStudentUpdate($classroomId: String!, $input: ClassroomStudentUpdateInput!) {\n  classroomStudentUpdate(classroomId: $classroomId, input: $input) {\n    id\n    students {\n      ...classroomStudentFragment\n    }\n  }\n}\n\nfragment classroomStudentFragment on ClassroomStudent {\n  id\n  invitationAccepted\n  invitationCode\n  name\n  studentUserId\n  educontUid\n}\n",
+      "variables": {
+        "classroomId": "68e62d320cc39a000754252e",
+        "input": {
+          "id": "68e632160cc39a0007544900",
+          "name": "Богдан"
+        }
+      }
+    },
+    "timestap": "26.03.2026, 15:58:28"
+  }
+]
