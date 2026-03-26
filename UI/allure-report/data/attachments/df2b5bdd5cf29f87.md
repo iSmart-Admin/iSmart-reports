@@ -1,0 +1,118 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - region "Задача для решения" [ref=e25] [cursor=pointer]:
+          - generic [ref=e26] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e35]:
+              - generic [ref=e37]:
+                - img [ref=e41]
+                - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e43]:
+                  - generic [ref=e45]: Внеси ответ в специально предназначенное поле.
+              - generic [ref=e47]:
+                - img "decore" [ref=e50]
+                - generic [ref=e56]:
+                  - text: Чему равна полная механическая энергия самолёта массой
+                  - generic [ref=e58]:
+                    - math [ref=e60]:
+                      - generic [ref=e62]:
+                        - generic [ref=e63]: "3400"
+                        - generic [ref=e64]: кг
+                    - generic [ref=e66]:
+                      - generic [ref=e67]: "3400"
+                      - generic [ref=e68]: кг
+                  - text: ", если он летит со скоростью"
+                  - generic [ref=e70]:
+                    - math [ref=e72]:
+                      - generic [ref=e74]:
+                        - generic [ref=e75]: "50"
+                        - generic [ref=e76]: м
+                        - generic [ref=e77]: /
+                        - generic [ref=e78]: c
+                    - generic [ref=e80]:
+                      - generic [ref=e81]: "50"
+                      - generic [ref=e82]: м
+                      - generic [ref=e83]: /
+                      - generic [ref=e84]: c
+                  - text: на высоте
+                  - generic [ref=e86]:
+                    - math [ref=e88]:
+                      - generic [ref=e90]:
+                        - generic [ref=e91]: "1200"
+                        - generic [ref=e92]: м
+                    - generic [ref=e94]:
+                      - generic [ref=e95]: "1200"
+                      - generic [ref=e96]: м
+                  - text: "? Ускорение свободного падения принять равным"
+                  - generic [ref=e98]:
+                    - math [ref=e100]:
+                      - generic [ref=e102]:
+                        - generic [ref=e103]: "10"
+                        - generic [ref=e104]: м
+                        - generic [ref=e105]: /
+                        - generic [ref=e106]:
+                          - generic [ref=e107]: с
+                          - generic [ref=e108]: "2"
+                    - generic [ref=e110]:
+                      - generic [ref=e111]: "10"
+                      - generic [ref=e112]: м
+                      - generic [ref=e113]: /
+                      - generic [ref=e114]:
+                        - generic [ref=e115]: с
+                        - generic [ref=e121]: "2"
+                  - text: .
+              - generic [ref=e126]:
+                - strong [ref=e127]: "Ответ:"
+                - textbox [active] [ref=e128]
+                - text: МДж.
+        - generic [ref=e134]:
+          - generic [ref=e137]:
+            - button [disabled] [ref=e139]:
+              - img [ref=e141]
+            - generic [ref=e144]: 100%
+            - button [ref=e146] [cursor=pointer]:
+              - img [ref=e148] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e153] [cursor=pointer]:
+            - generic [ref=e156] [cursor=pointer]: "2"
+            - generic [ref=e157] [cursor=pointer]: Показать подсказку
+      - generic [ref=e161]:
+        - generic [ref=e164]: Интеллектуальный тренажер
+        - generic [ref=e168]:
+          - generic [ref=e173]: 1 из 3
+          - generic [ref=e175]:
+            - generic [ref=e176]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e178] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e181]:
+          - generic [ref=e183]:
+            - button "Черновик" [ref=e184] [cursor=pointer]:
+              - img [ref=e187] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e190] [cursor=pointer]:
+              - img [ref=e193] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e197] [cursor=pointer]:
+              - img [ref=e200] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e202]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e203] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e206] [cursor=pointer]
+            - generic [ref=e209]: 69c4f929954d690007e0b2de
+```
