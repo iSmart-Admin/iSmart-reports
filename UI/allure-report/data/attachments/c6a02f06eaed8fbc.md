@@ -1,0 +1,107 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Задания урока
+            - img "Подсказка" [ref=e31] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+          - generic [ref=e36]:
+            - button "1" [ref=e37] [cursor=pointer]
+            - button "2" [ref=e38] [cursor=pointer]
+            - button "3" [ref=e39] [cursor=pointer]
+            - button "4" [ref=e40] [cursor=pointer]
+            - button "5" [ref=e41] [cursor=pointer]
+            - button "6" [ref=e42] [cursor=pointer]
+            - button "7" [ref=e43] [cursor=pointer]
+            - button "8" [ref=e44] [cursor=pointer]
+            - button "9" [ref=e45] [cursor=pointer]
+            - button "10" [ref=e46] [cursor=pointer]
+            - button "11" [ref=e47] [cursor=pointer]
+            - button "12" [ref=e48] [cursor=pointer]
+            - button "+" [ref=e49] [cursor=pointer]
+          - button "Редактировать урок" [ref=e50] [cursor=pointer]
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - generic [ref=e53]: Отчёты и аналитика
+            - img "Для учителей" [ref=e54] [cursor=pointer]:
+              - img [ref=e56] [cursor=pointer]
+          - generic [ref=e58]: "Войдите как учитель и настройте класс — тогда вы сможете видеть решения и прогресс учеников: результаты по каждому заданию, ошибки, подсказки, средний балл и общий прогресс."
+          - button "Войти как учитель" [ref=e59] [cursor=pointer]:
+            - generic [ref=e60] [cursor=pointer]: Войти как учитель
+        - generic [ref=e61]:
+          - button "Заметки к уроку видны только вам" [ref=e62] [cursor=pointer]:
+            - generic [ref=e63] [cursor=pointer]:
+              - img [ref=e65] [cursor=pointer]
+              - generic [ref=e67] [cursor=pointer]: Заметки к уроку
+            - button "видны только вам" [ref=e68] [cursor=pointer]:
+              - img [ref=e70] [cursor=pointer]
+          - button "Часто задаваемые вопросы" [ref=e72] [cursor=pointer]:
+            - generic [ref=e73] [cursor=pointer]:
+              - img [ref=e75] [cursor=pointer]
+              - generic [ref=e77] [cursor=pointer]: Часто задаваемые вопросы
+          - button "Сообщить об ошибке" [ref=e78] [cursor=pointer]:
+            - generic [ref=e79] [cursor=pointer]:
+              - img [ref=e81] [cursor=pointer]
+              - generic [ref=e83] [cursor=pointer]: Сообщить об ошибке
+      - generic [ref=e86]:
+        - region "Задача для решения" [ref=e88] [cursor=pointer]:
+          - generic [ref=e89] [cursor=pointer]:
+            - generic [ref=e90] [cursor=pointer]:
+              - generic [ref=e91] [cursor=pointer]:
+                - heading "Современный язык программирования - Python" [level=4] [ref=e92] [cursor=pointer]
+                - button [ref=e93] [cursor=pointer]:
+                  - img [ref=e95] [cursor=pointer]
+              - generic [ref=e97] [cursor=pointer]:
+                - generic [ref=e98] [cursor=pointer]:
+                  - generic [ref=e99] [cursor=pointer]: Откройте мир Python вместе с вашими учениками!
+                  - generic [ref=e100] [cursor=pointer]: Один клик — и вы узнаете, какие задания по программированию ждут ваших учеников!
+                - link "Посмотреть курс" [ref=e101] [cursor=pointer]:
+                  - /url: https://www.gosuslugi.ru/edu-content/lesson/76301
+                  - button "Посмотреть курс" [ref=e102] [cursor=pointer]:
+                    - img [ref=e105] [cursor=pointer]
+                    - text: Посмотреть курс
+            - generic [ref=e108]:
+              - generic [ref=e110]:
+                - img [ref=e114]
+                - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e116]:
+                  - generic [ref=e118]: Внеси ответ в специально предназначенное поле.
+              - generic [ref=e120]:
+                - img "decore" [ref=e123]
+                - generic [ref=e128]:
+                  - generic [ref=e129]: Переведи число в десятичную систему счисления.
+                  - generic [ref=e130]:
+                    - text: Число задано в шестнадцатеричной системе счисления и имеет следующий вид
+                    - generic [ref=e132]:
+                      - math [ref=e134]:
+                        - generic [ref=e136]:
+                          - generic [ref=e137]: "17"
+                          - generic [ref=e138]: АС
+                      - generic [ref=e140]:
+                        - generic [ref=e141]: "17"
+                        - generic [ref=e142]: АС
+                    - text: .
+              - generic [ref=e147]:
+                - strong [ref=e148]: Ответ
+                - text: ":"
+                - textbox [active] [ref=e149]
+        - button "2 Взять 1 подсказку" [ref=e159] [cursor=pointer]:
+          - generic [ref=e162] [cursor=pointer]: "2"
+          - generic [ref=e163] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e165] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e168] [cursor=pointer]
+```
