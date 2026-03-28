@@ -1,0 +1,522 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Русский язык. 6.1
+    - generic [ref=e22]:
+      - generic [ref=e26]:
+        - img [ref=e29]
+        - textbox "Поиск по подтемам" [ref=e32]
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - generic [ref=e35] [cursor=pointer]:
+            - generic [ref=e37] [cursor=pointer]: Темы
+            - button [ref=e39] [cursor=pointer]:
+              - img [ref=e41] [cursor=pointer]
+          - generic [ref=e43] [cursor=pointer]:
+            - generic [ref=e46] [cursor=pointer]: Что мы знаем о звуках и буквах?
+            - img [ref=e48] [cursor=pointer]
+          - generic [ref=e50] [cursor=pointer]:
+            - generic [ref=e53] [cursor=pointer]: Что мы знаем о словах?
+            - img [ref=e55] [cursor=pointer]
+          - generic [ref=e57] [cursor=pointer]:
+            - generic [ref=e60] [cursor=pointer]: Что мы знаем о предложении?
+            - img [ref=e62] [cursor=pointer]
+          - generic [ref=e65] [cursor=pointer]:
+            - generic [ref=e68] [cursor=pointer]: Что мы знаем о правописании слов и предложений?
+            - img [ref=e70] [cursor=pointer]
+          - generic [ref=e72] [cursor=pointer]:
+            - generic [ref=e75] [cursor=pointer]: Какой бывает наша речь?
+            - img [ref=e77] [cursor=pointer]
+          - generic [ref=e79] [cursor=pointer]:
+            - generic [ref=e82] [cursor=pointer]: Словарные слова
+            - img [ref=e84] [cursor=pointer]
+          - generic [ref=e86] [cursor=pointer]:
+            - generic [ref=e89] [cursor=pointer]: Словарные слова (повышенный уровень)
+            - img [ref=e91] [cursor=pointer]
+          - generic [ref=e93] [cursor=pointer]:
+            - generic [ref=e96] [cursor=pointer]: Подготовка к Итоговой контрольной работе
+            - img [ref=e98] [cursor=pointer]
+          - generic [ref=e100] [cursor=pointer]:
+            - generic [ref=e103] [cursor=pointer]: Подготовка к ВПР
+            - img [ref=e105] [cursor=pointer]
+        - generic [ref=e111]:
+          - link "1. Как обозначить буквой проверяемый безударный гласный звук? (ч. 1)" [ref=e112] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf9c/
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e115] [cursor=pointer]:
+                - generic [ref=e117] [cursor=pointer]: "1."
+                - paragraph [ref=e119] [cursor=pointer]: Как обозначить буквой проверяемый безударный гласный звук? (ч. 1)
+              - img [ref=e122] [cursor=pointer]
+          - link "2. Как обозначить буквой проверяемый безударный гласный звук? (ч. 2)" [ref=e124] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf8c/
+            - generic [ref=e125] [cursor=pointer]:
+              - generic [ref=e127] [cursor=pointer]:
+                - generic [ref=e129] [cursor=pointer]: "2."
+                - paragraph [ref=e131] [cursor=pointer]: Как обозначить буквой проверяемый безударный гласный звук? (ч. 2)
+              - img [ref=e134] [cursor=pointer]
+          - link "3. Как обозначить буквой проверяемый безударный гласный звук? (ч. 3)" [ref=e136] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf9f/
+            - generic [ref=e137] [cursor=pointer]:
+              - generic [ref=e139] [cursor=pointer]:
+                - generic [ref=e141] [cursor=pointer]: "3."
+                - paragraph [ref=e143] [cursor=pointer]: Как обозначить буквой проверяемый безударный гласный звук? (ч. 3)
+              - img [ref=e146] [cursor=pointer]
+          - link "4. Как обозначить буквой проверяемый безударный гласный звук? (ч. 4)" [ref=e148] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf99/
+            - generic [ref=e149] [cursor=pointer]:
+              - generic [ref=e151] [cursor=pointer]:
+                - generic [ref=e153] [cursor=pointer]: "4."
+                - paragraph [ref=e155] [cursor=pointer]: Как обозначить буквой проверяемый безударный гласный звук? (ч. 4)
+              - img [ref=e158] [cursor=pointer]
+          - 'link "5. Выбери: О или А?" [ref=e160] [cursor=pointer]':
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf9e/
+            - generic [ref=e161] [cursor=pointer]:
+              - generic [ref=e163] [cursor=pointer]:
+                - generic [ref=e165] [cursor=pointer]: "5."
+                - paragraph [ref=e167] [cursor=pointer]: "Выбери: О или А?"
+              - img [ref=e170] [cursor=pointer]
+          - link "6. Выбери Е, И или Я?" [ref=e172] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfa1/
+            - generic [ref=e173] [cursor=pointer]:
+              - generic [ref=e175] [cursor=pointer]:
+                - generic [ref=e177] [cursor=pointer]: "6."
+                - paragraph [ref=e179] [cursor=pointer]: Выбери Е, И или Я?
+              - img [ref=e182] [cursor=pointer]
+          - link "7. Когда парный согласный звук и обозначающая его буква не совпадают?" [ref=e184] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf93/
+            - generic [ref=e185] [cursor=pointer]:
+              - generic [ref=e187] [cursor=pointer]:
+                - generic [ref=e189] [cursor=pointer]: "7."
+                - paragraph [ref=e191] [cursor=pointer]: Когда парный согласный звук и обозначающая его буква не совпадают?
+              - img [ref=e194] [cursor=pointer]
+          - link "8. Как обозначить буквой непроверяемый безударный гласный звук?" [ref=e196] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfb8/
+            - generic [ref=e197] [cursor=pointer]:
+              - generic [ref=e199] [cursor=pointer]:
+                - generic [ref=e201] [cursor=pointer]: "8."
+                - paragraph [ref=e203] [cursor=pointer]: Как обозначить буквой непроверяемый безударный гласный звук?
+              - img [ref=e206] [cursor=pointer]
+          - link "9. Как проверить парный согласный на конце слова (Д или Т, Б или П)?" [ref=e208] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf85/
+            - generic [ref=e209] [cursor=pointer]:
+              - generic [ref=e211] [cursor=pointer]:
+                - generic [ref=e213] [cursor=pointer]: "9."
+                - paragraph [ref=e215] [cursor=pointer]: Как проверить парный согласный на конце слова (Д или Т, Б или П)?
+              - img [ref=e218] [cursor=pointer]
+          - link "10. Как проверить парный согласный на конце слова (В или Ф, Ж или Ш)?" [ref=e220] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf9a/
+            - generic [ref=e221] [cursor=pointer]:
+              - generic [ref=e223] [cursor=pointer]:
+                - generic [ref=e225] [cursor=pointer]: "10."
+                - paragraph [ref=e227] [cursor=pointer]: Как проверить парный согласный на конце слова (В или Ф, Ж или Ш)?
+              - img [ref=e230] [cursor=pointer]
+          - link "11. Как проверить парный согласный на конце слова (Г или К, З или С)?" [ref=e232] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf8d/
+            - generic [ref=e233] [cursor=pointer]:
+              - generic [ref=e235] [cursor=pointer]:
+                - generic [ref=e237] [cursor=pointer]: "11."
+                - paragraph [ref=e239] [cursor=pointer]: Как проверить парный согласный на конце слова (Г или К, З или С)?
+              - img [ref=e242] [cursor=pointer]
+          - 'link "12. Выбери: Б или П?" [ref=e244] [cursor=pointer]':
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf8e/
+            - generic [ref=e245] [cursor=pointer]:
+              - generic [ref=e247] [cursor=pointer]:
+                - generic [ref=e249] [cursor=pointer]: "12."
+                - paragraph [ref=e251] [cursor=pointer]: "Выбери: Б или П?"
+              - img [ref=e254] [cursor=pointer]
+          - 'link "13. Выбери: Д или Т?" [ref=e256] [cursor=pointer]':
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf8f/
+            - generic [ref=e257] [cursor=pointer]:
+              - generic [ref=e259] [cursor=pointer]:
+                - generic [ref=e261] [cursor=pointer]: "13."
+                - paragraph [ref=e263] [cursor=pointer]: "Выбери: Д или Т?"
+              - img [ref=e266] [cursor=pointer]
+          - 'link "14. Выбери: В или Ф?" [ref=e268] [cursor=pointer]':
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf86/
+            - generic [ref=e269] [cursor=pointer]:
+              - generic [ref=e271] [cursor=pointer]:
+                - generic [ref=e273] [cursor=pointer]: "14."
+                - paragraph [ref=e275] [cursor=pointer]: "Выбери: В или Ф?"
+              - img [ref=e278] [cursor=pointer]
+          - 'link "15. Выбери: Ж или Ш?" [ref=e280] [cursor=pointer]':
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf88/
+            - generic [ref=e281] [cursor=pointer]:
+              - generic [ref=e283] [cursor=pointer]:
+                - generic [ref=e285] [cursor=pointer]: "15."
+                - paragraph [ref=e287] [cursor=pointer]: "Выбери: Ж или Ш?"
+              - img [ref=e290] [cursor=pointer]
+          - 'link "16. Выбери: Г или К?" [ref=e292] [cursor=pointer]':
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf8b/
+            - generic [ref=e293] [cursor=pointer]:
+              - generic [ref=e295] [cursor=pointer]:
+                - generic [ref=e297] [cursor=pointer]: "16."
+                - paragraph [ref=e299] [cursor=pointer]: "Выбери: Г или К?"
+              - img [ref=e302] [cursor=pointer]
+          - 'link "17. Выбери: З или С?" [ref=e304] [cursor=pointer]':
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf97/
+            - generic [ref=e305] [cursor=pointer]:
+              - generic [ref=e307] [cursor=pointer]:
+                - generic [ref=e309] [cursor=pointer]: "17."
+                - paragraph [ref=e311] [cursor=pointer]: "Выбери: З или С?"
+              - img [ref=e314] [cursor=pointer]
+          - 'link "18. Выбери: Д или Т, Б или П?" [ref=e316] [cursor=pointer]':
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf95/
+            - generic [ref=e317] [cursor=pointer]:
+              - generic [ref=e319] [cursor=pointer]:
+                - generic [ref=e321] [cursor=pointer]: "18."
+                - paragraph [ref=e323] [cursor=pointer]: "Выбери: Д или Т, Б или П?"
+              - img [ref=e326] [cursor=pointer]
+          - 'link "19. Выбери: В или Ф, Ж или Ш?" [ref=e328] [cursor=pointer]':
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf91/
+            - generic [ref=e329] [cursor=pointer]:
+              - generic [ref=e331] [cursor=pointer]:
+                - generic [ref=e333] [cursor=pointer]: "19."
+                - paragraph [ref=e335] [cursor=pointer]: "Выбери: В или Ф, Ж или Ш?"
+              - img [ref=e338] [cursor=pointer]
+          - 'link "20. Выбери: Г или К, З или С?" [ref=e340] [cursor=pointer]':
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf92/
+            - generic [ref=e341] [cursor=pointer]:
+              - generic [ref=e343] [cursor=pointer]:
+                - generic [ref=e345] [cursor=pointer]: "20."
+                - paragraph [ref=e347] [cursor=pointer]: "Выбери: Г или К, З или С?"
+              - img [ref=e350] [cursor=pointer]
+          - link "21. Как проверить парный согласный на конце слова? (ч. 1)" [ref=e352] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf82/
+            - generic [ref=e353] [cursor=pointer]:
+              - generic [ref=e355] [cursor=pointer]:
+                - generic [ref=e357] [cursor=pointer]: "21."
+                - paragraph [ref=e359] [cursor=pointer]: Как проверить парный согласный на конце слова? (ч. 1)
+              - img [ref=e362] [cursor=pointer]
+          - link "22. Как проверить парный согласный на конце слова? (ч. 2)" [ref=e364] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf87/
+            - generic [ref=e365] [cursor=pointer]:
+              - generic [ref=e367] [cursor=pointer]:
+                - generic [ref=e369] [cursor=pointer]: "22."
+                - paragraph [ref=e371] [cursor=pointer]: Как проверить парный согласный на конце слова? (ч. 2)
+              - img [ref=e374] [cursor=pointer]
+          - link "23. Как проверить парный согласный на конце слова? (ч. 3)" [ref=e376] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf89/
+            - generic [ref=e377] [cursor=pointer]:
+              - generic [ref=e379] [cursor=pointer]:
+                - generic [ref=e381] [cursor=pointer]: "23."
+                - paragraph [ref=e383] [cursor=pointer]: Как проверить парный согласный на конце слова? (ч. 3)
+              - img [ref=e386] [cursor=pointer]
+          - link "24. Как пишутся слова с удвоенными согласными?" [ref=e388] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf96/
+            - generic [ref=e389] [cursor=pointer]:
+              - generic [ref=e391] [cursor=pointer]:
+                - generic [ref=e393] [cursor=pointer]: "24."
+                - paragraph [ref=e395] [cursor=pointer]: Как пишутся слова с удвоенными согласными?
+              - img [ref=e398] [cursor=pointer]
+          - link "25. Как пишутся буквосочетания ЧК, ЧН?" [ref=e400] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfa5/
+            - generic [ref=e401] [cursor=pointer]:
+              - generic [ref=e403] [cursor=pointer]:
+                - generic [ref=e405] [cursor=pointer]: "25."
+                - paragraph [ref=e407] [cursor=pointer]: Как пишутся буквосочетания ЧК, ЧН?
+              - img [ref=e410] [cursor=pointer]
+          - link "26. Как пишутся буквосочетания ЧК, ЧН, ЧТ? (ч. 1)" [ref=e412] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf9d/
+            - generic [ref=e413] [cursor=pointer]:
+              - generic [ref=e415] [cursor=pointer]:
+                - generic [ref=e417] [cursor=pointer]: "26."
+                - paragraph [ref=e419] [cursor=pointer]: Как пишутся буквосочетания ЧК, ЧН, ЧТ? (ч. 1)
+              - img [ref=e422] [cursor=pointer]
+          - link "27.* Как пишутся буквосочетания ЧК, ЧН, ЧТ? (ч. 2)" [ref=e424] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf94/
+            - generic [ref=e425] [cursor=pointer]:
+              - generic [ref=e427] [cursor=pointer]:
+                - generic [ref=e429] [cursor=pointer]: 27.*
+                - paragraph [ref=e431] [cursor=pointer]: Как пишутся буквосочетания ЧК, ЧН, ЧТ? (ч. 2)
+              - img [ref=e434] [cursor=pointer]
+          - link "28. Как пишутся буквосочетания ЖИ, ШИ? (ч. 1)" [ref=e436] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfa3/
+            - generic [ref=e437] [cursor=pointer]:
+              - generic [ref=e439] [cursor=pointer]:
+                - generic [ref=e441] [cursor=pointer]: "28."
+                - paragraph [ref=e443] [cursor=pointer]: Как пишутся буквосочетания ЖИ, ШИ? (ч. 1)
+              - img [ref=e446] [cursor=pointer]
+          - link "29. Как пишутся буквосочетания ЖИ, ШИ? (ч. 2)" [ref=e448] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf83/
+            - generic [ref=e449] [cursor=pointer]:
+              - generic [ref=e451] [cursor=pointer]:
+                - generic [ref=e453] [cursor=pointer]: "29."
+                - paragraph [ref=e455] [cursor=pointer]: Как пишутся буквосочетания ЖИ, ШИ? (ч. 2)
+              - img [ref=e458] [cursor=pointer]
+          - link "30. Как пишутся буквосочетания ЖИ, ШИ? (ч. 3)" [ref=e460] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf90/
+            - generic [ref=e461] [cursor=pointer]:
+              - generic [ref=e463] [cursor=pointer]:
+                - generic [ref=e465] [cursor=pointer]: "30."
+                - paragraph [ref=e467] [cursor=pointer]: Как пишутся буквосочетания ЖИ, ШИ? (ч. 3)
+              - img [ref=e470] [cursor=pointer]
+          - link "31. Как пишутся буквосочетания ЧА, ЩА, ЧУ, ЩУ? (ч. 1)" [ref=e472] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf8a/
+            - generic [ref=e473] [cursor=pointer]:
+              - generic [ref=e475] [cursor=pointer]:
+                - generic [ref=e477] [cursor=pointer]: "31."
+                - paragraph [ref=e479] [cursor=pointer]: Как пишутся буквосочетания ЧА, ЩА, ЧУ, ЩУ? (ч. 1)
+              - img [ref=e482] [cursor=pointer]
+          - link "32. Как пишутся буквосочетания ЧА, ЩА, ЧУ, ЩУ? (ч. 2)" [ref=e484] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfa4/
+            - generic [ref=e485] [cursor=pointer]:
+              - generic [ref=e487] [cursor=pointer]:
+                - generic [ref=e489] [cursor=pointer]: "32."
+                - paragraph [ref=e491] [cursor=pointer]: Как пишутся буквосочетания ЧА, ЩА, ЧУ, ЩУ? (ч. 2)
+              - img [ref=e494] [cursor=pointer]
+          - link "33. Как пишутся буквосочетания ЧА, ЩА, ЧУ, ЩУ? (ч. 3)" [ref=e496] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf81/
+            - generic [ref=e497] [cursor=pointer]:
+              - generic [ref=e499] [cursor=pointer]:
+                - generic [ref=e501] [cursor=pointer]: "33."
+                - paragraph [ref=e503] [cursor=pointer]: Как пишутся буквосочетания ЧА, ЩА, ЧУ, ЩУ? (ч. 3)
+              - img [ref=e506] [cursor=pointer]
+          - link "34. Когда в словах пишется мягкий знак (ь)? (ч. 1)" [ref=e508] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf84/
+            - generic [ref=e509] [cursor=pointer]:
+              - generic [ref=e511] [cursor=pointer]:
+                - generic [ref=e513] [cursor=pointer]: "34."
+                - paragraph [ref=e515] [cursor=pointer]: Когда в словах пишется мягкий знак (ь)? (ч. 1)
+              - img [ref=e518] [cursor=pointer]
+          - link "35. Когда в словах пишется мягкий знак (ь)? (ч. 2)" [ref=e520] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfa0/
+            - generic [ref=e521] [cursor=pointer]:
+              - generic [ref=e523] [cursor=pointer]:
+                - generic [ref=e525] [cursor=pointer]: "35."
+                - paragraph [ref=e527] [cursor=pointer]: Когда в словах пишется мягкий знак (ь)? (ч. 2)
+              - img [ref=e530] [cursor=pointer]
+          - link "36. Когда в словах пишется разделительный твёрдый знак (ъ)?" [ref=e532] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf9b/
+            - generic [ref=e533] [cursor=pointer]:
+              - generic [ref=e535] [cursor=pointer]:
+                - generic [ref=e537] [cursor=pointer]: "36."
+                - paragraph [ref=e539] [cursor=pointer]: Когда в словах пишется разделительный твёрдый знак (ъ)?
+              - img [ref=e542] [cursor=pointer]
+          - link "37. Когда слова пишутся с заглавной буквы? (ч. 1)" [ref=e544] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfb9/
+            - generic [ref=e545] [cursor=pointer]:
+              - generic [ref=e547] [cursor=pointer]:
+                - generic [ref=e549] [cursor=pointer]: "37."
+                - paragraph [ref=e551] [cursor=pointer]: Когда слова пишутся с заглавной буквы? (ч. 1)
+              - img [ref=e554] [cursor=pointer]
+          - link "38. Когда слова пишутся с заглавной буквы? (ч. 2)" [ref=e556] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bf98/
+            - generic [ref=e557] [cursor=pointer]:
+              - generic [ref=e559] [cursor=pointer]:
+                - generic [ref=e561] [cursor=pointer]: "38."
+                - paragraph [ref=e563] [cursor=pointer]: Когда слова пишутся с заглавной буквы? (ч. 2)
+              - img [ref=e566] [cursor=pointer]
+          - link "39. Когда слова пишутся с заглавной буквы? (ч. 3)" [ref=e568] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfb7/
+            - generic [ref=e569] [cursor=pointer]:
+              - generic [ref=e571] [cursor=pointer]:
+                - generic [ref=e573] [cursor=pointer]: "39."
+                - paragraph [ref=e575] [cursor=pointer]: Когда слова пишутся с заглавной буквы? (ч. 3)
+              - img [ref=e578] [cursor=pointer]
+          - link "40. Как переносятся с одной строки на другую односложные и двусложные слова? (ч. 1)" [active] [ref=e580] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfb2/
+            - generic [ref=e581] [cursor=pointer]:
+              - generic [ref=e583] [cursor=pointer]:
+                - generic [ref=e585] [cursor=pointer]: "40."
+                - paragraph [ref=e587] [cursor=pointer]: Как переносятся с одной строки на другую односложные и двусложные слова? (ч. 1)
+              - img [ref=e590] [cursor=pointer]
+          - link "41. Как переносятся с одной строки на другую односложные и двусложные слова? (ч. 2)" [ref=e592] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfb3/
+            - generic [ref=e593] [cursor=pointer]:
+              - generic [ref=e595] [cursor=pointer]:
+                - generic [ref=e597] [cursor=pointer]: "41."
+                - paragraph [ref=e599] [cursor=pointer]: Как переносятся с одной строки на другую односложные и двусложные слова? (ч. 2)
+              - img [ref=e602] [cursor=pointer]
+          - link "42. Как переносятся с одной строки на другую односложные и двусложные слова? (ч. 3)" [ref=e604] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfb4/
+            - generic [ref=e605] [cursor=pointer]:
+              - generic [ref=e607] [cursor=pointer]:
+                - generic [ref=e609] [cursor=pointer]: "42."
+                - paragraph [ref=e611] [cursor=pointer]: Как переносятся с одной строки на другую односложные и двусложные слова? (ч. 3)
+              - img [ref=e614] [cursor=pointer]
+          - link "43. Как переносятся с одной строки на другую трёхсложные слова? (ч. 1)" [ref=e616] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfb5/
+            - generic [ref=e617] [cursor=pointer]:
+              - generic [ref=e619] [cursor=pointer]:
+                - generic [ref=e621] [cursor=pointer]: "43."
+                - paragraph [ref=e623] [cursor=pointer]: Как переносятся с одной строки на другую трёхсложные слова? (ч. 1)
+              - img [ref=e626] [cursor=pointer]
+          - link "44. Как переносятся с одной строки на другую трёхсложные слова? (ч. 2)" [ref=e628] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfb6/
+            - generic [ref=e629] [cursor=pointer]:
+              - generic [ref=e631] [cursor=pointer]:
+                - generic [ref=e633] [cursor=pointer]: "44."
+                - paragraph [ref=e635] [cursor=pointer]: Как переносятся с одной строки на другую трёхсложные слова? (ч. 2)
+              - img [ref=e638] [cursor=pointer]
+          - link "45. Как переносятся с одной строки на другую слова с Ь?" [ref=e640] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfaf/
+            - generic [ref=e641] [cursor=pointer]:
+              - generic [ref=e643] [cursor=pointer]:
+                - generic [ref=e645] [cursor=pointer]: "45."
+                - paragraph [ref=e647] [cursor=pointer]: Как переносятся с одной строки на другую слова с Ь?
+              - img [ref=e650] [cursor=pointer]
+          - link "46. Как переносятся с одной строки на другую слова с буквой Й в середине слова?" [ref=e652] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfb0/
+            - generic [ref=e653] [cursor=pointer]:
+              - generic [ref=e655] [cursor=pointer]:
+                - generic [ref=e657] [cursor=pointer]: "46."
+                - paragraph [ref=e659] [cursor=pointer]: Как переносятся с одной строки на другую слова с буквой Й в середине слова?
+              - img [ref=e662] [cursor=pointer]
+          - link "47. Как переносятся с одной строки на другую слова с удвоенными согласными?" [ref=e664] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfb1/
+            - generic [ref=e665] [cursor=pointer]:
+              - generic [ref=e667] [cursor=pointer]:
+                - generic [ref=e669] [cursor=pointer]: "47."
+                - paragraph [ref=e671] [cursor=pointer]: Как переносятся с одной строки на другую слова с удвоенными согласными?
+              - img [ref=e674] [cursor=pointer]
+          - link "48. Какие слова не делятся для переноса? (ч. 1)" [ref=e676] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfac/
+            - generic [ref=e677] [cursor=pointer]:
+              - generic [ref=e679] [cursor=pointer]:
+                - generic [ref=e681] [cursor=pointer]: "48."
+                - paragraph [ref=e683] [cursor=pointer]: Какие слова не делятся для переноса? (ч. 1)
+              - img [ref=e686] [cursor=pointer]
+          - link "49. Какие слова не делятся для переноса? (ч. 2)" [ref=e688] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfad/
+            - generic [ref=e689] [cursor=pointer]:
+              - generic [ref=e691] [cursor=pointer]:
+                - generic [ref=e693] [cursor=pointer]: "49."
+                - paragraph [ref=e695] [cursor=pointer]: Какие слова не делятся для переноса? (ч. 2)
+              - img [ref=e698] [cursor=pointer]
+          - link "50. Как переносятся слова с одной строки на другую? (ч. 1)" [ref=e700] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfae/
+            - generic [ref=e701] [cursor=pointer]:
+              - generic [ref=e703] [cursor=pointer]:
+                - generic [ref=e705] [cursor=pointer]: "50."
+                - paragraph [ref=e707] [cursor=pointer]: Как переносятся слова с одной строки на другую? (ч. 1)
+              - img [ref=e710] [cursor=pointer]
+          - link "51. Как переносятся слова с одной строки на другую? (ч. 2)" [ref=e712] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfa2/
+            - generic [ref=e713] [cursor=pointer]:
+              - generic [ref=e715] [cursor=pointer]:
+                - generic [ref=e717] [cursor=pointer]: "51."
+                - paragraph [ref=e719] [cursor=pointer]: Как переносятся слова с одной строки на другую? (ч. 2)
+              - img [ref=e722] [cursor=pointer]
+          - link "52. Когда в предложении нужно писать заглавную букву? (ч. 1)" [ref=e724] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfaa/
+            - generic [ref=e725] [cursor=pointer]:
+              - generic [ref=e727] [cursor=pointer]:
+                - generic [ref=e729] [cursor=pointer]: "52."
+                - paragraph [ref=e731] [cursor=pointer]: Когда в предложении нужно писать заглавную букву? (ч. 1)
+              - img [ref=e734] [cursor=pointer]
+          - link "53.* Когда в предложении нужно писать заглавную букву? (ч. 2)" [ref=e736] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfa9/
+            - generic [ref=e737] [cursor=pointer]:
+              - generic [ref=e739] [cursor=pointer]:
+                - generic [ref=e741] [cursor=pointer]: 53.*
+                - paragraph [ref=e743] [cursor=pointer]: Когда в предложении нужно писать заглавную букву? (ч. 2)
+              - img [ref=e746] [cursor=pointer]
+          - link "54. Как обозначаются границы слов в предложении?" [ref=e748] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfba/
+            - generic [ref=e749] [cursor=pointer]:
+              - generic [ref=e751] [cursor=pointer]:
+                - generic [ref=e753] [cursor=pointer]: "54."
+                - paragraph [ref=e755] [cursor=pointer]: Как обозначаются границы слов в предложении?
+              - img [ref=e758] [cursor=pointer]
+          - link "55. Какие знаки препинания ставятся в конце предложения?" [ref=e760] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfab/
+            - generic [ref=e761] [cursor=pointer]:
+              - generic [ref=e763] [cursor=pointer]:
+                - generic [ref=e765] [cursor=pointer]: "55."
+                - paragraph [ref=e767] [cursor=pointer]: Какие знаки препинания ставятся в конце предложения?
+              - img [ref=e770] [cursor=pointer]
+          - link "56. Когда в конце предложения ставится восклицательный знак? (ч. 1)" [ref=e772] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfa7/
+            - generic [ref=e773] [cursor=pointer]:
+              - generic [ref=e775] [cursor=pointer]:
+                - generic [ref=e777] [cursor=pointer]: "56."
+                - paragraph [ref=e779] [cursor=pointer]: Когда в конце предложения ставится восклицательный знак? (ч. 1)
+              - img [ref=e782] [cursor=pointer]
+          - link "57.* Когда в конце предложения ставится восклицательный знак? (ч. 2)" [ref=e784] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfa6/
+            - generic [ref=e785] [cursor=pointer]:
+              - generic [ref=e787] [cursor=pointer]:
+                - generic [ref=e789] [cursor=pointer]: 57.*
+                - paragraph [ref=e791] [cursor=pointer]: Когда в конце предложения ставится восклицательный знак? (ч. 2)
+              - img [ref=e794] [cursor=pointer]
+          - link "58. Когда в конце предложения ставится вопросительный знак?" [ref=e796] [cursor=pointer]:
+            - /url: /learn/68ac3fc6d7ff8c00074bda2a/68ac3e54d7ff8c000746be12/68ab5d1cd608c00007131227/68ac3e54d7ff8c000746bfa8/
+            - generic [ref=e797] [cursor=pointer]:
+              - generic [ref=e799] [cursor=pointer]:
+                - generic [ref=e801] [cursor=pointer]: "58."
+                - paragraph [ref=e803] [cursor=pointer]: Когда в конце предложения ставится вопросительный знак?
+              - img [ref=e806] [cursor=pointer]
+  - generic [ref=e809]:
+    - generic [ref=e810]:
+      - generic [ref=e811]:
+        - generic [ref=e815]:
+          - img [ref=e817]
+          - link "8 (800) 600-44-02" [ref=e819] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e820]:
+          - generic [ref=e821]: "@"
+          - link "info@ismart.org" [ref=e822] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e823]:
+          - img [ref=e825]
+          - generic [ref=e827]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e828]:
+        - link "Наш сайт" [ref=e831] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e833] [cursor=pointer]
+        - generic [ref=e835]:
+          - link "Лицензия" [ref=e837] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e839] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e841] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e843] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e845] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e847]:
+      - generic [ref=e848]:
+        - link [ref=e849] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e853] [cursor=pointer]
+        - generic [ref=e856]:
+          - link "okIcon" [ref=e857] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e858] [cursor=pointer]
+          - link "dzenIcon" [ref=e859] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e860] [cursor=pointer]
+          - link "vkIcon" [ref=e861] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e862] [cursor=pointer]
+      - generic [ref=e864]:
+        - generic [ref=e866]:
+          - generic [ref=e867]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e868] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e869]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e870] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e871]:
+          - generic [ref=e872]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e873] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e874]: © iSmart, 2018-2026
+```
