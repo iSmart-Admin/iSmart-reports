@@ -1,0 +1,63 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e36]:
+              - generic [ref=e38]:
+                - button [ref=e39] [cursor=pointer]:
+                  - img [ref=e41] [cursor=pointer]
+                - heading "на широкий." [level=4] [ref=e43]:
+                  - generic [ref=e45]:
+                    - img [ref=e47]
+                    - text: на широкий.
+              - img "decore" [ref=e52]
+        - generic [ref=e72]:
+          - button [disabled] [ref=e74]:
+            - img [ref=e76]
+          - generic [ref=e79]: 100%
+          - button [ref=e81] [cursor=pointer]:
+            - img [ref=e83] [cursor=pointer]
+      - generic [ref=e88]:
+        - generic [ref=e91]: Интеллектуальный тренажер
+        - generic [ref=e95]:
+          - generic [ref=e100]: 1 из 5
+          - generic [ref=e103]: "Ты решаешь задание, собранное учителем: Кайон Велес"
+        - generic [ref=e104]:
+          - generic [ref=e106]:
+            - button "Пройти опрос" [ref=e107] [cursor=pointer]:
+              - generic [ref=e109] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e110] [cursor=pointer]:
+              - img [ref=e113] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e116] [cursor=pointer]:
+              - img [ref=e119] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e123] [cursor=pointer]:
+              - img [ref=e126] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e128]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e129] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e132] [cursor=pointer]
+            - generic [ref=e135]: 69ca3c48235cd80007f37453
+```

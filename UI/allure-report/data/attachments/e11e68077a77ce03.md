@@ -1,0 +1,62 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e18] [cursor=pointer]
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - button [ref=e25] [cursor=pointer]:
+            - img [ref=e27] [cursor=pointer]
+          - generic [ref=e29]:
+            - paragraph [ref=e30]: Вопрос 1 (2 из 13)
+            - paragraph [ref=e31]: Строки
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - generic [ref=e34]: 00:00:41
+            - generic [ref=e35]: Время
+          - button "Предыдущее" [ref=e37] [cursor=pointer]:
+            - img [ref=e40] [cursor=pointer]
+            - text: Предыдущее
+          - button "Далее" [active] [ref=e42] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e45] [cursor=pointer]
+      - generic [ref=e64]:
+        - generic [ref=e66]:
+          - generic [ref=e67] [cursor=pointer]:
+            - img [ref=e69] [cursor=pointer]
+            - generic [ref=e71] [cursor=pointer]: Описание
+          - generic [ref=e72]:
+            - img [ref=e74]
+            - generic [ref=e76]: Тесты
+          - generic [ref=e77]:
+            - img [ref=e79]
+            - generic [ref=e81]: Консоль
+        - generic [ref=e85]:
+          - generic [ref=e87]: Можно ли сравнивать символы?
+          - generic [ref=e88]:
+            - paragraph [ref=e90]: Выбери все верные утверждения
+            - generic [ref=e91]:
+              - generic [ref=e94] [cursor=pointer]: Можно, сравнение происходит по коду символа
+              - generic [ref=e97] [cursor=pointer]: Можно, но только латинские и русские заглавные и строчные буквы
+              - generic [ref=e100] [cursor=pointer]: Можно, но только латинские заглавные и строчные буквы
+              - generic [ref=e103] [cursor=pointer]: Можно, но только русские заглавные и строчные буквы
+              - generic [ref=e106] [cursor=pointer]: Нельзя, это же не число
+  - generic [ref=e112]:
+    - generic [ref=e113]:
+      - button "animation" [ref=e115]:
+        - img [ref=e116]
+      - generic [ref=e127]:
+        - heading "Упс" [level=4] [ref=e128]
+        - paragraph [ref=e129]: Кажется, ты допустил ошибку, хочешь попробовать еще раз?
+    - generic [ref=e130]:
+      - button "Нет, завершить" [ref=e131] [cursor=pointer]
+      - button "Да" [ref=e132] [cursor=pointer]
+```
