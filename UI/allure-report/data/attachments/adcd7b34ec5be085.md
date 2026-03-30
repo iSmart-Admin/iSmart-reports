@@ -1,0 +1,155 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Кабинет учителя" [ref=e21] [cursor=pointer]:
+        - /url: /teacher/dashboard
+        - generic [ref=e24] [cursor=pointer]: Кабинет учителя
+      - link "Рейтинг" [ref=e27] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e30] [cursor=pointer]: Рейтинг
+      - link "Помощник" [ref=e33] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e36] [cursor=pointer]: Помощник
+      - link "Школы" [ref=e39] [cursor=pointer]:
+        - /url: /schools
+        - generic [ref=e42] [cursor=pointer]: Школы
+    - generic [ref=e46] [cursor=pointer]:
+      - generic [ref=e49] [cursor=pointer]: А
+      - generic [ref=e50] [cursor=pointer]:
+        - paragraph [ref=e51] [cursor=pointer]: Учитель
+        - paragraph [ref=e52] [cursor=pointer]: АвтотестыУчитель4
+      - img [ref=e54] [cursor=pointer]
+  - generic [ref=e58]:
+    - generic [ref=e59]:
+      - generic [ref=e60]:
+        - button [ref=e61] [cursor=pointer]:
+          - img [ref=e63] [cursor=pointer]
+        - generic [ref=e66]:
+          - generic [ref=e67]: Математика
+          - generic [ref=e69]: Школьная программа
+      - generic [ref=e71]:
+        - button "Методические рекомендации" [ref=e72] [cursor=pointer]
+        - generic [ref=e74] [cursor=pointer]:
+          - img [ref=e76] [cursor=pointer]
+          - generic [ref=e78] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e79]:
+      - generic [ref=e83]:
+        - button "Математика СПО" [ref=e84]:
+          - img [ref=e88]
+          - text: Математика СПО
+        - button "1" [ref=e90] [cursor=pointer]:
+          - img [ref=e94] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e96] [cursor=pointer]:
+          - img [ref=e100] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e102] [cursor=pointer]:
+          - img [ref=e106] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e108] [cursor=pointer]:
+          - img [ref=e112] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e114] [cursor=pointer]:
+          - img [ref=e118] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e120] [cursor=pointer]:
+          - img [ref=e124] [cursor=pointer]
+          - text: "6"
+      - generic [ref=e129]:
+        - generic [ref=e130]:
+          - generic [ref=e132]:
+            - textbox [ref=e138]: Задание от учителя 5
+            - img [ref=e140]
+          - generic [ref=e142]: Выберите подтемы для домашнего задания
+        - button "0 подтем" [ref=e143] [cursor=pointer]:
+          - img [ref=e146] [cursor=pointer]
+          - generic [ref=e149] [cursor=pointer]: 0 подтем
+        - button "5 учеников" [ref=e150] [cursor=pointer]:
+          - img [ref=e153] [cursor=pointer]
+          - generic [ref=e156] [cursor=pointer]: 5 учеников
+        - button [ref=e157] [cursor=pointer]:
+          - img [ref=e159] [cursor=pointer]
+        - button "Отмена" [ref=e161] [cursor=pointer]
+        - button "Создать" [ref=e162] [cursor=pointer]:
+          - text: Создать
+          - img [ref=e165] [cursor=pointer]
+      - generic [ref=e167]:
+        - generic [ref=e171]:
+          - img [ref=e174]
+          - textbox "Поиск по подтемам" [ref=e177]
+        - generic [ref=e178]:
+          - generic [ref=e180] [cursor=pointer]:
+            - generic [ref=e182] [cursor=pointer]: Темы
+            - button [ref=e184] [cursor=pointer]:
+              - img [ref=e186] [cursor=pointer]
+          - generic [ref=e192]:
+            - checkbox [ref=e193] [cursor=pointer]:
+              - img [ref=e196] [cursor=pointer]
+            - generic [ref=e198]: Все
+  - generic [ref=e200]:
+    - generic [ref=e201]:
+      - generic [ref=e202]:
+        - generic [ref=e206]:
+          - img [ref=e208]
+          - link "8 (800) 600-44-02" [ref=e210] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e211]:
+          - generic [ref=e212]: "@"
+          - link "info@ismart.org" [ref=e213] [cursor=pointer]:
+            - /url: mailto:info@ismart.org
+        - generic [ref=e214]:
+          - img [ref=e216]
+          - generic [ref=e218]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e219]:
+        - link "Наш сайт" [ref=e222] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e224] [cursor=pointer]
+        - generic [ref=e226]:
+          - link "Лицензия" [ref=e228] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e230] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e232] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e234] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e236] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e238]:
+      - generic [ref=e239]:
+        - link [ref=e240] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e244] [cursor=pointer]
+        - generic [ref=e247]:
+          - link "okIcon" [ref=e248] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e249] [cursor=pointer]
+          - link "dzenIcon" [ref=e250] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e251] [cursor=pointer]
+          - link "vkIcon" [ref=e252] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e253] [cursor=pointer]
+      - generic [ref=e255]:
+        - generic [ref=e257]:
+          - generic [ref=e258]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e259] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e260]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e261] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e262]:
+          - generic [ref=e263]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e264] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e265]: © iSmart, 2018-2026
+```
