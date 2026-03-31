@@ -1,0 +1,8 @@
+[
+  {
+    "url": "https://edu.ismart.org/trpc/tasks.taskUsedTimeGet?batch=1&input=%7B%220%22%3A%7B%22taskId%22%3A%226225dbe7f2d80beb07cabb90%22%2C%22practiceId%22%3A%226915d2638218510007407f2b%22%7D%7D",
+    "status": 500,
+    "payload": null,
+    "timestap": "31.03.2026, 13:43:30"
+  }
+]

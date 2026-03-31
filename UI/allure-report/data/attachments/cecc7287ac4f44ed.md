@@ -1,0 +1,83 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Кабинет родителя" [ref=e21] [cursor=pointer]:
+        - /url: /parent/dashboard
+        - generic [ref=e24] [cursor=pointer]: Кабинет родителя
+      - link "Рейтинг" [ref=e27] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e30] [cursor=pointer]: Рейтинг
+      - link "Магазин" [ref=e33] [cursor=pointer]:
+        - /url: /shop/offers
+        - generic [ref=e36] [cursor=pointer]: Магазин
+      - link "Помощник" [ref=e39] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e42] [cursor=pointer]: Помощник
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - button [ref=e47] [cursor=pointer]:
+          - img [ref=e49] [cursor=pointer]
+        - img [ref=e54] [cursor=pointer]
+      - generic [ref=e56] [cursor=pointer]:
+        - generic [ref=e60] [cursor=pointer]: Ш
+        - generic [ref=e61] [cursor=pointer]:
+          - paragraph [ref=e62] [cursor=pointer]: Родитель
+          - paragraph [ref=e63] [cursor=pointer]: Шкеловек
+        - img [ref=e65] [cursor=pointer]
+  - generic [ref=e70]:
+    - generic [ref=e71]:
+      - generic [ref=e72]:
+        - button "Мои дети" [ref=e73] [cursor=pointer]:
+          - img [ref=e76] [cursor=pointer]
+          - text: Мои дети
+        - button "Профиль родителя" [ref=e78] [cursor=pointer]:
+          - img [ref=e81] [cursor=pointer]
+          - text: Профиль родителя
+        - button "Кошелек 0,00 ₽" [ref=e83] [cursor=pointer]:
+          - img [ref=e86] [cursor=pointer]
+          - text: Кошелек
+          - generic [ref=e88] [cursor=pointer]: 0,00 ₽
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - img [ref=e93]
+              - generic [ref=e98]: 67%
+            - paragraph [ref=e99]: Ваш профиль еще не заполнен полностью.
+          - button [ref=e100] [cursor=pointer]:
+            - img [ref=e102] [cursor=pointer]
+          - paragraph [ref=e104]: Завершите процесс настройки, чтобы воспользоваться всеми возможностями, которые предлагает платформа.
+          - button "Завершить" [ref=e105] [cursor=pointer]
+        - generic [ref=e106]:
+          - button "Полезная информация" [ref=e107] [cursor=pointer]:
+            - img [ref=e110] [cursor=pointer]
+            - text: Полезная информация
+          - button "Поддержка" [ref=e112] [cursor=pointer]:
+            - img [ref=e115] [cursor=pointer]
+            - text: Поддержка
+    - generic [ref=e119]:
+      - generic [ref=e120]:
+        - generic [ref=e121] [cursor=pointer]:
+          - button [ref=e122] [cursor=pointer]:
+            - img [ref=e124] [cursor=pointer]
+          - paragraph [ref=e126] [cursor=pointer]: Все дети
+        - button "Добавить ребёнка" [ref=e127] [cursor=pointer]:
+          - img [ref=e130] [cursor=pointer]
+          - text: Добавить ребёнка
+      - generic [ref=e133]:
+        - generic [ref=e135]:
+          - generic [ref=e136]:
+            - generic [ref=e138]: С
+            - generic [ref=e139]: София
+          - button [ref=e143] [cursor=pointer]:
+            - img [ref=e145] [cursor=pointer]
+        - button "Выбрать ученика" [ref=e147] [cursor=pointer]:
+          - img [ref=e150] [cursor=pointer]
+          - text: Выбрать ученика
+```
