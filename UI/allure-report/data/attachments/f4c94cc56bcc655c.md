@@ -1,0 +1,130 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "Cookie consent" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e8]: Этот сайт использует cookie для улучшения вашего опыта. Оставаясь на сайте, вы соглашаетесь с этим.
+      - button "Понятно" [ref=e9] [cursor=pointer]
+      - button "Пользовательское соглашение" [ref=e10] [cursor=pointer]
+  - generic [ref=e12]:
+    - generic [ref=e17]:
+      - generic [ref=e20]:
+        - link "Каталог заданий" [active] [ref=e22] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e25] [cursor=pointer]: Каталог заданий
+        - link "Кабинет ученика" [ref=e28] [cursor=pointer]:
+          - /url: /student/
+          - generic [ref=e31] [cursor=pointer]: Кабинет ученика
+        - link "Рейтинг" [ref=e34] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e37] [cursor=pointer]: Рейтинг
+        - link "Помощник" [ref=e40] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e43] [cursor=pointer]: Помощник
+        - link "Игра" [ref=e46] [cursor=pointer]:
+          - /url: /game
+          - generic [ref=e49] [cursor=pointer]: Игра
+        - link "Хогвартс Хогвартс" [ref=e52] [cursor=pointer]:
+          - /url: /hogwarts
+          - generic [ref=e55] [cursor=pointer]:
+            - img "Хогвартс" [ref=e57] [cursor=pointer]
+            - generic [ref=e58] [cursor=pointer]: Хогвартс
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - generic [ref=e65] [cursor=pointer]: "1017"
+          - generic [ref=e68]: "1870"
+        - button [ref=e70] [cursor=pointer]:
+          - img [ref=e72] [cursor=pointer]
+        - generic [ref=e74] [cursor=pointer]:
+          - generic [ref=e77] [cursor=pointer]: Н
+          - generic [ref=e78] [cursor=pointer]:
+            - paragraph [ref=e79] [cursor=pointer]: Ученик
+            - paragraph [ref=e80] [cursor=pointer]: Никита
+          - img [ref=e82] [cursor=pointer]
+    - generic [ref=e87]:
+      - generic [ref=e88]:
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - generic [ref=e92]:
+              - img [ref=e96]:
+                - generic [ref=e100]: Н
+              - generic [ref=e108]:
+                - generic [ref=e109]: Никита
+                - paragraph [ref=e110]: Ученик
+            - button "В кабинет родителя" [ref=e111] [cursor=pointer]:
+              - text: В кабинет родителя
+              - img [ref=e114] [cursor=pointer]
+          - generic [ref=e116]:
+            - button "Задания" [ref=e117] [cursor=pointer]:
+              - img [ref=e120] [cursor=pointer]
+              - text: Задания
+            - button "Профиль" [ref=e122] [cursor=pointer]:
+              - img [ref=e125] [cursor=pointer]
+              - text: Профиль
+            - button "Мои классы" [ref=e127] [cursor=pointer]:
+              - img [ref=e130] [cursor=pointer]
+              - text: Мои классы
+            - button "Магазин ученика" [ref=e132] [cursor=pointer]:
+              - img [ref=e135] [cursor=pointer]
+              - text: Магазин ученика
+            - button "Награды" [ref=e137] [cursor=pointer]:
+              - img [ref=e140] [cursor=pointer]
+              - text: Награды
+            - button "Чаты" [ref=e142] [cursor=pointer]:
+              - img [ref=e145] [cursor=pointer]
+              - text: Чаты
+            - button "Доступность" [ref=e147] [cursor=pointer]:
+              - img [ref=e150] [cursor=pointer]
+              - text: Доступность
+        - generic [ref=e152]:
+          - button "Полезная информация" [ref=e153] [cursor=pointer]:
+            - img [ref=e156] [cursor=pointer]
+            - text: Полезная информация
+          - button "Поддержка" [ref=e158] [cursor=pointer]:
+            - img [ref=e161] [cursor=pointer]
+            - text: Поддержка
+      - generic [ref=e167]:
+        - generic [ref=e168]:
+          - generic [ref=e169]:
+            - img [ref=e173]
+            - generic [ref=e177]:
+              - generic [ref=e179]:
+                - textbox "Выберите класс" [disabled]
+              - img [ref=e182] [cursor=pointer]
+          - checkbox "Показать выходные дни" [checked] [ref=e185] [cursor=pointer]:
+            - generic [ref=e188] [cursor=pointer]: Показать выходные дни
+        - generic [ref=e189]:
+          - generic [ref=e191]:
+            - generic [ref=e192]:
+              - button "Сегодня" [ref=e194] [cursor=pointer]
+              - generic [ref=e195]:
+                - button [ref=e196] [cursor=pointer]:
+                  - img [ref=e198] [cursor=pointer]
+                - button [ref=e200] [cursor=pointer]:
+                  - img [ref=e202] [cursor=pointer]
+              - generic [ref=e204]: март 2026
+            - generic [ref=e206]:
+              - button "Неделя" [disabled] [ref=e207]
+              - generic [ref=e210]:
+                - textbox [ref=e212]: 31.03.2026
+                - img [ref=e215]
+          - generic [ref=e218]:
+            - generic [ref=e220]:
+              - text: 31.03.2026г, вторник,
+              - generic [ref=e221]: Сегодня
+            - generic [ref=e226]:
+              - generic [ref=e227]:
+                - generic [ref=e229]:
+                  - img [ref=e232]
+                  - generic [ref=e234]: Домашняя работа
+                - generic [ref=e239]: 0%
+              - generic [ref=e241] [cursor=pointer]:
+                - button [ref=e242] [cursor=pointer]:
+                  - img [ref=e244] [cursor=pointer]
+                - generic [ref=e246] [cursor=pointer]: Задание от мамы
+  - generic [ref=e247]:
+    - img [ref=e250] [cursor=pointer]
+    - generic [ref=e252]: v.7.10.3
+```
