@@ -1,0 +1,246 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e5]:
+    - generic [ref=e8]:
+      - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+        - img [ref=e14] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e18]:
+        - generic [ref=e22]: Английский язык
+        - generic [ref=e28] [cursor=pointer]:
+          - img [ref=e30] [cursor=pointer]
+          - generic [ref=e32] [cursor=pointer]: Нашли ошибку?
+      - generic [ref=e34]:
+        - generic [ref=e38]:
+          - img [ref=e41]
+          - textbox "Поиск по подтемам" [ref=e44]
+        - generic [ref=e45]:
+          - generic [ref=e46]:
+            - generic [ref=e47] [cursor=pointer]:
+              - generic [ref=e49] [cursor=pointer]: Темы
+              - button [ref=e51] [cursor=pointer]:
+                - img [ref=e53] [cursor=pointer]
+            - generic [ref=e56] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]: Мир моего «я»
+              - img [ref=e61] [cursor=pointer]
+            - generic [ref=e63] [cursor=pointer]:
+              - generic [ref=e66] [cursor=pointer]: Мир моих увлечений
+              - img [ref=e68] [cursor=pointer]
+            - generic [ref=e70] [cursor=pointer]:
+              - generic [ref=e73] [cursor=pointer]: Мир вокруг меня
+              - img [ref=e75] [cursor=pointer]
+            - generic [ref=e77] [cursor=pointer]:
+              - generic [ref=e80] [cursor=pointer]: Родная страна и страны изучаемого языка
+              - img [ref=e82] [cursor=pointer]
+            - generic [ref=e84] [cursor=pointer]:
+              - generic [ref=e87] [cursor=pointer]: Vocabulary
+              - img [ref=e89] [cursor=pointer]
+            - generic [ref=e91] [cursor=pointer]:
+              - generic [ref=e94] [cursor=pointer]: Comprehension
+              - img [ref=e96] [cursor=pointer]
+            - generic [ref=e98] [cursor=pointer]:
+              - generic [ref=e101] [cursor=pointer]: Повторение. Грамматика
+              - img [ref=e103] [cursor=pointer]
+            - generic [ref=e105] [cursor=pointer]:
+              - generic [ref=e108] [cursor=pointer]: Диалог этикетного характера
+              - img [ref=e110] [cursor=pointer]
+            - generic [ref=e112] [cursor=pointer]:
+              - generic [ref=e115] [cursor=pointer]: Listening
+              - img [ref=e117] [cursor=pointer]
+            - generic [ref=e119] [cursor=pointer]:
+              - generic [ref=e122] [cursor=pointer]: Правила чтения
+              - img [ref=e124] [cursor=pointer]
+            - generic [ref=e126] [cursor=pointer]:
+              - generic [ref=e129] [cursor=pointer]: Повторение. Лексика
+              - img [ref=e131] [cursor=pointer]
+          - generic [ref=e137]:
+            - generic [ref=e139] [cursor=pointer]:
+              - generic [ref=e141] [cursor=pointer]:
+                - generic [ref=e143] [cursor=pointer]: "1."
+                - paragraph [ref=e145] [cursor=pointer]: Моя семья
+              - img [ref=e148] [cursor=pointer]
+            - generic [ref=e151] [cursor=pointer]:
+              - generic [ref=e153] [cursor=pointer]:
+                - generic [ref=e155] [cursor=pointer]: "2."
+                - paragraph [ref=e157] [cursor=pointer]: Профессии. Словообразование -er/-or, -ist
+              - img [ref=e160] [cursor=pointer]
+            - generic [ref=e163] [cursor=pointer]:
+              - generic [ref=e165] [cursor=pointer]:
+                - generic [ref=e167] [cursor=pointer]: 3.1.
+                - paragraph [ref=e169] [cursor=pointer]: Мой день рождения, подарки. Vocabulary
+              - img [ref=e172] [cursor=pointer]
+            - generic [ref=e175] [cursor=pointer]:
+              - generic [ref=e177] [cursor=pointer]:
+                - generic [ref=e179] [cursor=pointer]: 3.2.
+                - paragraph [ref=e181] [cursor=pointer]: Мой день рождения, подарки. Spelling
+              - img [ref=e184] [cursor=pointer]
+            - generic [ref=e187] [cursor=pointer]:
+              - generic [ref=e189] [cursor=pointer]:
+                - generic [ref=e191] [cursor=pointer]: 3.3.
+                - paragraph [ref=e193] [cursor=pointer]: Мой день рождения, подарки. Reading
+              - img [ref=e196] [cursor=pointer]
+            - generic [ref=e199] [cursor=pointer]:
+              - generic [ref=e201] [cursor=pointer]:
+                - generic [ref=e203] [cursor=pointer]: "4."
+                - paragraph [ref=e205] [cursor=pointer]: Количественные числительные 1-1000
+              - img [ref=e208] [cursor=pointer]
+            - generic [ref=e211] [cursor=pointer]:
+              - generic [ref=e213] [cursor=pointer]:
+                - generic [ref=e215] [cursor=pointer]: "5."
+                - paragraph [ref=e217] [cursor=pointer]: Дата
+              - img [ref=e220] [cursor=pointer]
+            - generic [ref=e223] [cursor=pointer]:
+              - generic [ref=e225] [cursor=pointer]:
+                - generic [ref=e227] [cursor=pointer]: "6."
+                - paragraph [ref=e229] [cursor=pointer]: Грамматика. Present Simple. Утвердительные, отрицательные и вопросительные предложения
+              - img [ref=e232] [cursor=pointer]
+            - generic [ref=e235] [cursor=pointer]:
+              - generic [ref=e237] [cursor=pointer]:
+                - generic [ref=e239] [cursor=pointer]: "7."
+                - paragraph [ref=e241] [cursor=pointer]: Моя любимая еда. Диалог
+              - img [ref=e244] [cursor=pointer]
+            - generic [ref=e247] [cursor=pointer]:
+              - generic [ref=e249] [cursor=pointer]:
+                - generic [ref=e251] [cursor=pointer]: "8."
+                - paragraph [ref=e253] [cursor=pointer]: Грамматика. Some/ no/ any
+              - img [ref=e256] [cursor=pointer]
+            - generic [ref=e259] [cursor=pointer]:
+              - generic [ref=e261] [cursor=pointer]:
+                - generic [ref=e263] [cursor=pointer]: "9."
+                - paragraph [ref=e265] [cursor=pointer]: Грамматика. Much/ many/ a lot
+              - img [ref=e268] [cursor=pointer]
+            - generic [ref=e271] [cursor=pointer]:
+              - generic [ref=e273] [cursor=pointer]:
+                - generic [ref=e275] [cursor=pointer]: 10.1.
+                - paragraph [ref=e277] [cursor=pointer]: Мой день (распорядок дня, домашние обязанности). Vocabulary
+              - img [ref=e280] [cursor=pointer]
+            - generic [ref=e283] [cursor=pointer]:
+              - generic [ref=e285] [cursor=pointer]:
+                - generic [ref=e287] [cursor=pointer]: 10.2.
+                - paragraph [ref=e289] [cursor=pointer]: Мой день (распорядок дня, домашние обязанности). Spelling
+              - img [ref=e292] [cursor=pointer]
+            - generic [ref=e295] [cursor=pointer]:
+              - generic [ref=e297] [cursor=pointer]:
+                - generic [ref=e299] [cursor=pointer]: 11.1.
+                - paragraph [ref=e301] [cursor=pointer]: Грамматика. Объектные местоимения
+              - img [ref=e304] [cursor=pointer]
+            - generic [ref=e307] [cursor=pointer]:
+              - generic [ref=e309] [cursor=pointer]:
+                - generic [ref=e311] [cursor=pointer]: 11.2.
+                - paragraph [ref=e313] [cursor=pointer]: Грамматика. Притяжательные местоимения
+              - img [ref=e316] [cursor=pointer]
+            - generic [ref=e319] [cursor=pointer]:
+              - generic [ref=e321] [cursor=pointer]:
+                - generic [ref=e323] [cursor=pointer]: 11.3.
+                - paragraph [ref=e325] [cursor=pointer]: Грамматика. Личные, объектные, притяжательные местоимения
+              - img [ref=e328] [cursor=pointer]
+            - generic [ref=e331] [cursor=pointer]:
+              - generic [ref=e333] [cursor=pointer]:
+                - generic [ref=e335] [cursor=pointer]: "12."
+                - paragraph [ref=e337] [cursor=pointer]: Грамматика. Модальный глагол Must
+              - img [ref=e340] [cursor=pointer]
+    - generic:
+      - generic:
+        - generic [ref=e342]:
+          - generic [ref=e343]:
+            - generic [ref=e344]: Меню разработчика
+            - button [ref=e346] [cursor=pointer]:
+              - img [ref=e348] [cursor=pointer]
+          - button "Выйти из тренажера" [ref=e350] [cursor=pointer]
+          - button "Показывать тест школы в своб. регистрации" [ref=e351] [cursor=pointer]:
+            - text: Показывать тест школы
+            - text: в своб. регистрации
+          - button "Выйти из школьного учителя" [ref=e352] [cursor=pointer]
+        - generic [ref=e356]:
+          - generic [ref=e357]:
+            - region "Задача для решения" [ref=e359] [cursor=pointer]:
+              - generic [ref=e360] [cursor=pointer]:
+                - generic [ref=e362]:
+                  - button "Вернуться обратно к подборке" [ref=e363] [cursor=pointer]:
+                    - img [ref=e366] [cursor=pointer]
+                    - text: Вернуться обратно к подборке
+                  - generic [ref=e368]:
+                    - generic [ref=e369]:
+                      - button "1" [ref=e372] [cursor=pointer]
+                      - button "2" [ref=e375] [cursor=pointer]
+                      - button "3" [ref=e378] [cursor=pointer]
+                      - button "4" [ref=e381] [cursor=pointer]
+                      - button "5" [ref=e384] [cursor=pointer]
+                      - button "6" [ref=e387] [cursor=pointer]
+                      - button "7" [ref=e390] [cursor=pointer]
+                      - button "8" [ref=e393] [cursor=pointer]
+                      - button "9" [ref=e396] [cursor=pointer]
+                      - button "10" [ref=e399] [cursor=pointer]
+                    - generic [ref=e400]:
+                      - button [disabled] [ref=e401]:
+                        - img [ref=e403]
+                      - button [ref=e406] [cursor=pointer]:
+                        - img [ref=e408] [cursor=pointer]
+                - generic [ref=e411]:
+                  - generic [ref=e413]:
+                    - img [ref=e417]
+                    - heading "Write in, at or on. Напиши in, at или on." [level=4] [ref=e419]:
+                      - generic [ref=e421]:
+                        - text: Write
+                        - strong [ref=e422]: in
+                        - text: ","
+                        - strong [ref=e423]: at
+                        - text: or
+                        - strong [ref=e424]: "on"
+                        - text: . Напиши
+                        - strong [ref=e425]: in
+                        - text: ","
+                        - strong [ref=e426]: at
+                        - text: или
+                        - strong [ref=e427]: "on"
+                        - text: .
+                  - generic [ref=e429]:
+                    - img "decore" [ref=e432]
+                    - img [ref=e437]
+                  - heading "My sister’s birthday is August 11th." [level=3] [ref=e442]:
+                    - text: My sister’s birthday is
+                    - textbox [ref=e443]
+                    - text: August 11
+                    - superscript [ref=e444]: th.
+            - generic [ref=e450]:
+              - generic [ref=e453]:
+                - button [disabled] [ref=e455]:
+                  - img [ref=e457]
+                - generic [ref=e460]: 100%
+                - button [ref=e462] [cursor=pointer]:
+                  - img [ref=e464] [cursor=pointer]
+              - button "2 Показать подсказку" [ref=e469] [cursor=pointer]:
+                - generic [ref=e472] [cursor=pointer]: "2"
+                - generic [ref=e473] [cursor=pointer]: Показать подсказку
+          - generic [ref=e477]:
+            - generic [ref=e480]: Интеллектуальный тренажер
+            - button "Управление учениками" [ref=e486] [cursor=pointer]:
+              - img [ref=e489] [cursor=pointer]
+              - text: Управление учениками
+            - generic [ref=e491]:
+              - generic [ref=e493]:
+                - button "Черновик" [ref=e494] [cursor=pointer]:
+                  - img [ref=e497] [cursor=pointer]
+                  - text: Черновик
+                - button "Сообщить об ошибке" [ref=e500] [cursor=pointer]:
+                  - img [ref=e503] [cursor=pointer]
+                  - text: Сообщить об ошибке
+                - button "Часто задаваемые вопросы" [ref=e507] [cursor=pointer]:
+                  - img [ref=e510] [cursor=pointer]
+                  - text: Часто задаваемые вопросы
+              - generic [ref=e512]:
+                - generic:
+                  - generic:
+                    - img
+                  - generic: Реши задание, прежде чем подтвердить
+                - button "Далее" [ref=e513] [cursor=pointer]:
+                  - text: Далее
+                  - img [ref=e516] [cursor=pointer]
+  - generic [ref=e521]:
+    - generic [ref=e522]:
+      - heading "Успешно" [level=4] [ref=e523]
+      - paragraph [ref=e524]: Вы вошли в аккаунт учителя
+    - img [ref=e526] [cursor=pointer]
+```
