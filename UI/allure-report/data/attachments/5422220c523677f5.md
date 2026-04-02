@@ -1,0 +1,90 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Выйти из школьного учителя" [ref=e18] [cursor=pointer]
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - button [ref=e25] [cursor=pointer]:
+            - img [ref=e27] [cursor=pointer]
+          - generic [ref=e29]:
+            - paragraph [ref=e30]: Задача 1 (5 из 7)
+            - paragraph [ref=e31]: Цикл for
+        - generic [ref=e32]:
+          - button "Управление учениками" [ref=e34] [cursor=pointer]:
+            - img [ref=e36] [cursor=pointer]
+            - text: Управление учениками
+          - button "Предыдущее" [ref=e39] [cursor=pointer]:
+            - img [ref=e42] [cursor=pointer]
+            - text: Предыдущее
+          - button "Далее" [active] [ref=e44] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e47] [cursor=pointer]
+      - generic [ref=e64]:
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - paragraph [ref=e68]: Python 3
+            - button "Запустить тесты" [ref=e69] [cursor=pointer]:
+              - text: Запустить тесты
+              - img [ref=e72] [cursor=pointer]
+          - generic [ref=e76]:
+            - text:                
+            - code [ref=e79]:
+              - generic [ref=e80]:
+                - generic [ref=e85]: "1"
+                - generic [ref=e93]:
+                  - generic [ref=e94]: print
+                  - generic [ref=e95]: (
+                  - generic [ref=e96]: "'Привет, Мир!'"
+                  - generic [ref=e97]: )
+                - textbox "Editor content;Press Alt+F1 for Accessibility Options." [ref=e99]: print('Привет, Мир!')
+        - generic [ref=e101]:
+          - generic [ref=e103]:
+            - generic [ref=e104] [cursor=pointer]:
+              - img [ref=e106] [cursor=pointer]
+              - generic [ref=e108] [cursor=pointer]: Описание
+            - generic [ref=e109] [cursor=pointer]:
+              - img [ref=e111] [cursor=pointer]
+              - generic [ref=e113] [cursor=pointer]: Тесты
+          - generic [ref=e119]:
+            - generic [ref=e121]: Пустая строка
+            - img [ref=e123]
+            - generic [ref=e126]: FAIL
+            - img [ref=e128]
+            - generic [ref=e130]:
+              - generic [ref=e131]: Hello, Python!
+              - generic [ref=e132]: Hello, Python!
+              - generic [ref=e133]: Hello, Python!
+              - generic [ref=e134]: Hello, Python!
+              - generic [ref=e135]: Hello, Python!
+              - generic [ref=e136]: Hello, Python!
+              - generic [ref=e137]: Hello, Python!
+              - generic [ref=e138]: Hello, Python!
+              - generic [ref=e139]: Hello, Python!
+              - generic [ref=e140]: Hello, Python!
+              - generic [ref=e141]: Hello, Python!
+              - generic [ref=e142]: Hello, Python!
+              - generic [ref=e143]: Hello, Python!
+              - generic [ref=e144]: Hello, Python!
+              - generic [ref=e145]: Hello, Python!
+              - generic [ref=e146]: Hello, Python!
+              - generic [ref=e147]: Hello, Python!
+  - generic [ref=e148]:
+    - alert
+    - alert
+    - complementary
+    - complementary
+  - generic [ref=e154]:
+    - generic [ref=e155]:
+      - heading "Ваш прогресс не будет засчитан" [level=4] [ref=e156]
+      - generic [ref=e157]: Вы используете деморежим, поэтому ваши ответы не будут сохранены, и прогресс не будет засчитан.
+    - button "Хорошо" [ref=e158] [cursor=pointer]
+```
