@@ -1,0 +1,78 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - button "Воспроизвести аудио" [ref=e38] [cursor=pointer]:
+                    - generic:
+                      - img
+                  - heading "Послушай. Что это?" [level=4] [ref=e39]:
+                    - generic [ref=e41]: Послушай. Что это?
+                - button "Воспроизвести аудио" [ref=e44] [cursor=pointer]:
+                  - generic:
+                    - img
+                - generic [ref=e48]:
+                  - img [ref=e54] [cursor=pointer]
+                  - img [ref=e60] [cursor=pointer]
+                  - img [ref=e66] [cursor=pointer]
+          - generic [ref=e74]:
+            - button [disabled] [ref=e76]:
+              - img [ref=e78]
+            - generic [ref=e81]: 100%
+            - button [ref=e83] [cursor=pointer]:
+              - img [ref=e85] [cursor=pointer]
+        - generic [ref=e90]:
+          - generic [ref=e93]: Интеллектуальный тренажер
+          - generic [ref=e97]:
+            - generic [ref=e102]: 1 из 15
+            - generic [ref=e104]:
+              - generic [ref=e105]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e107] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e110]:
+            - generic [ref=e112]:
+              - button "Пройти опрос" [ref=e113] [cursor=pointer]:
+                - generic [ref=e115] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e116] [cursor=pointer]:
+                - img [ref=e119] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e122] [cursor=pointer]:
+                - img [ref=e125] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e129] [cursor=pointer]:
+                - img [ref=e132] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e134]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e135] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e138] [cursor=pointer]
+              - generic [ref=e141]: 69ce20b02687a10007e52f33
+  - generic [ref=e149]:
+    - button [active] [ref=e151] [cursor=pointer]:
+      - img [ref=e154] [cursor=pointer]
+    - generic [ref=e157]:
+      - heading "Этот опрос о вашем отношении к учебе. Здесь нет правильных ответов — важно только ваше мнение!" [level=1] [ref=e158]:
+        - text: Этот опрос о вашем отношении к учебе.
+        - text: Здесь нет правильных ответов — важно только ваше мнение!
+      - button "Начать" [ref=e159] [cursor=pointer]
+```

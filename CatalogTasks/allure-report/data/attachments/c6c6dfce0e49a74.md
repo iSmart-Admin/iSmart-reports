@@ -1,0 +1,176 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e5]:
+    - generic [ref=e8]:
+      - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+        - img [ref=e14] [cursor=pointer]
+        - text: Вернуться обратно
+      - generic [ref=e18]:
+        - generic [ref=e21]:
+          - generic [ref=e22]: Русский язык
+          - generic [ref=e24]: Тренировочные варианты тестов ОГЭ по русскому языку
+        - generic [ref=e30] [cursor=pointer]:
+          - img [ref=e32] [cursor=pointer]
+          - generic [ref=e34] [cursor=pointer]: Нашли ошибку?
+      - generic [ref=e36]:
+        - generic [ref=e40]:
+          - img [ref=e43]
+          - textbox "Поиск по подтемам" [ref=e46]
+        - generic [ref=e47]:
+          - generic [ref=e48]:
+            - generic [ref=e49] [cursor=pointer]:
+              - generic [ref=e51] [cursor=pointer]: Темы
+              - button [ref=e53] [cursor=pointer]:
+                - img [ref=e55] [cursor=pointer]
+            - generic [ref=e58] [cursor=pointer]:
+              - generic [ref=e61] [cursor=pointer]: ОГЭ
+              - img [ref=e63] [cursor=pointer]
+          - generic [ref=e69]:
+            - generic [ref=e71] [cursor=pointer]:
+              - generic [ref=e73] [cursor=pointer]:
+                - generic [ref=e75] [cursor=pointer]: "1."
+                - paragraph [ref=e77] [cursor=pointer]: Задание 2
+              - img [ref=e80] [cursor=pointer]
+            - generic [ref=e83] [cursor=pointer]:
+              - generic [ref=e85] [cursor=pointer]:
+                - generic [ref=e87] [cursor=pointer]: "2."
+                - paragraph [ref=e89] [cursor=pointer]: Задание 3
+              - img [ref=e92] [cursor=pointer]
+            - generic [ref=e95] [cursor=pointer]:
+              - generic [ref=e97] [cursor=pointer]:
+                - generic [ref=e99] [cursor=pointer]: "3."
+                - paragraph [ref=e101] [cursor=pointer]: Задание 4
+              - img [ref=e104] [cursor=pointer]
+            - generic [ref=e107] [cursor=pointer]:
+              - generic [ref=e109] [cursor=pointer]:
+                - generic [ref=e111] [cursor=pointer]: "4."
+                - paragraph [ref=e113] [cursor=pointer]: Задание 5
+              - img [ref=e116] [cursor=pointer]
+            - generic [ref=e119] [cursor=pointer]:
+              - generic [ref=e121] [cursor=pointer]:
+                - generic [ref=e123] [cursor=pointer]: "5."
+                - paragraph [ref=e125] [cursor=pointer]: Задание 6
+              - img [ref=e128] [cursor=pointer]
+            - generic [ref=e131] [cursor=pointer]:
+              - generic [ref=e133] [cursor=pointer]:
+                - generic [ref=e135] [cursor=pointer]: "6."
+                - paragraph [ref=e137] [cursor=pointer]: Задание 7
+              - img [ref=e140] [cursor=pointer]
+            - generic [ref=e143] [cursor=pointer]:
+              - generic [ref=e145] [cursor=pointer]:
+                - generic [ref=e147] [cursor=pointer]: "7."
+                - paragraph [ref=e149] [cursor=pointer]: Задание 8
+              - img [ref=e152] [cursor=pointer]
+            - generic [ref=e155] [cursor=pointer]:
+              - generic [ref=e157] [cursor=pointer]:
+                - generic [ref=e159] [cursor=pointer]: "8."
+                - paragraph [ref=e161] [cursor=pointer]: Задание 9
+              - img [ref=e164] [cursor=pointer]
+            - generic [ref=e167] [cursor=pointer]:
+              - generic [ref=e169] [cursor=pointer]:
+                - generic [ref=e171] [cursor=pointer]: "9."
+                - paragraph [ref=e173] [cursor=pointer]: Задание 10
+              - img [ref=e176] [cursor=pointer]
+            - generic [ref=e179] [cursor=pointer]:
+              - generic [ref=e181] [cursor=pointer]:
+                - generic [ref=e183] [cursor=pointer]: "10."
+                - paragraph [ref=e185] [cursor=pointer]: Задание 11
+              - img [ref=e188] [cursor=pointer]
+            - generic [ref=e191] [cursor=pointer]:
+              - generic [ref=e193] [cursor=pointer]:
+                - generic [ref=e195] [cursor=pointer]: "11."
+                - paragraph [ref=e197] [cursor=pointer]: Задание 12
+              - img [ref=e200] [cursor=pointer]
+    - generic:
+      - generic:
+        - generic [ref=e202]:
+          - generic [ref=e203]:
+            - generic [ref=e204]: Меню разработчика
+            - button [ref=e206] [cursor=pointer]:
+              - img [ref=e208] [cursor=pointer]
+          - button "Выйти из тренажера" [ref=e210] [cursor=pointer]
+          - button "Показывать тест школы в своб. регистрации" [ref=e211] [cursor=pointer]:
+            - text: Показывать тест школы
+            - text: в своб. регистрации
+          - button "Выйти из школьного учителя" [ref=e212] [cursor=pointer]
+        - generic [ref=e216]:
+          - generic [ref=e217]:
+            - region "Задача для решения" [ref=e219] [cursor=pointer]:
+              - generic [ref=e220] [cursor=pointer]:
+                - generic [ref=e222]:
+                  - button "Вернуться обратно к подборке" [ref=e223] [cursor=pointer]:
+                    - img [ref=e226] [cursor=pointer]
+                    - text: Вернуться обратно к подборке
+                  - generic [ref=e228]:
+                    - generic [ref=e229]:
+                      - button "1" [ref=e232] [cursor=pointer]
+                      - button "2" [ref=e235] [cursor=pointer]
+                      - button "3" [ref=e238] [cursor=pointer]
+                      - button "4" [ref=e241] [cursor=pointer]
+                      - button "5" [ref=e244] [cursor=pointer]
+                      - button "6" [ref=e247] [cursor=pointer]
+                      - button "7" [ref=e250] [cursor=pointer]
+                      - button "8" [ref=e253] [cursor=pointer]
+                      - button "9" [ref=e256] [cursor=pointer]
+                      - button "10" [ref=e259] [cursor=pointer]
+                    - generic [ref=e260]:
+                      - button [disabled] [ref=e261]:
+                        - img [ref=e263]
+                      - button [ref=e266] [cursor=pointer]:
+                        - img [ref=e268] [cursor=pointer]
+                - generic [ref=e271]:
+                  - generic [ref=e273]:
+                    - img [ref=e277]
+                    - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e279]:
+                      - generic [ref=e281]: Внесите ответ в специально предназначенное поле.
+                  - generic [ref=e283]:
+                    - img "decore" [ref=e286]
+                    - generic [ref=e291]:
+                      - generic [ref=e292]: Раскройте скобки и запишите слово «абрикосы» в соответствующей форме, соблюдая нормы современного русского литературного языка.
+                      - generic [ref=e293]: Для приготовления вкусного мусса понадобится небольшая банка консервированных (абрикосы).
+                  - generic [ref=e298]:
+                    - strong [ref=e299]: Ответ
+                    - text: ":"
+                    - textbox [ref=e300]
+            - generic [ref=e306]:
+              - generic [ref=e309]:
+                - button [disabled] [ref=e311]:
+                  - img [ref=e313]
+                - generic [ref=e316]: 100%
+                - button [ref=e318] [cursor=pointer]:
+                  - img [ref=e320] [cursor=pointer]
+              - button "2 Показать подсказку" [ref=e325] [cursor=pointer]:
+                - generic [ref=e328] [cursor=pointer]: "2"
+                - generic [ref=e329] [cursor=pointer]: Показать подсказку
+          - generic [ref=e333]:
+            - generic [ref=e336]: Интеллектуальный тренажер
+            - button "Управление учениками" [ref=e342] [cursor=pointer]:
+              - img [ref=e345] [cursor=pointer]
+              - text: Управление учениками
+            - generic [ref=e347]:
+              - generic [ref=e349]:
+                - button "Черновик" [ref=e350] [cursor=pointer]:
+                  - img [ref=e353] [cursor=pointer]
+                  - text: Черновик
+                - button "Сообщить об ошибке" [ref=e356] [cursor=pointer]:
+                  - img [ref=e359] [cursor=pointer]
+                  - text: Сообщить об ошибке
+                - button "Часто задаваемые вопросы" [ref=e363] [cursor=pointer]:
+                  - img [ref=e366] [cursor=pointer]
+                  - text: Часто задаваемые вопросы
+              - generic [ref=e368]:
+                - generic:
+                  - generic:
+                    - img
+                  - generic: Реши задание, прежде чем подтвердить
+                - button "Далее" [ref=e369] [cursor=pointer]:
+                  - text: Далее
+                  - img [ref=e372] [cursor=pointer]
+  - generic [ref=e377]:
+    - generic [ref=e378]:
+      - heading "Успешно" [level=4] [ref=e379]
+      - paragraph [ref=e380]: Вы вошли в аккаунт учителя
+    - img [ref=e382] [cursor=pointer]
+```

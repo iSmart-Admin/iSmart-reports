@@ -1,0 +1,108 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Задания урока
+            - img "Подсказка" [ref=e31] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+          - generic [ref=e36]:
+            - button "1" [ref=e37] [cursor=pointer]
+            - button "2" [ref=e38] [cursor=pointer]
+            - button "3" [ref=e39] [cursor=pointer]
+            - button "4" [ref=e40] [cursor=pointer]
+            - button "5" [ref=e41] [cursor=pointer]
+            - button "6" [ref=e42] [cursor=pointer]
+            - button "7" [ref=e43] [cursor=pointer]
+            - button "8" [ref=e44] [cursor=pointer]
+            - button "9" [ref=e45] [cursor=pointer]
+            - button "10" [ref=e46] [cursor=pointer]
+            - button "+" [ref=e47] [cursor=pointer]
+          - button "Редактировать урок" [ref=e48] [cursor=pointer]
+        - generic [ref=e49]:
+          - generic [ref=e50]:
+            - generic [ref=e51]: Отчёты и аналитика
+            - img "Для учителей" [ref=e52] [cursor=pointer]:
+              - img [ref=e54] [cursor=pointer]
+          - generic [ref=e56]: "Войдите как учитель и настройте класс — тогда вы сможете видеть решения и прогресс учеников: результаты по каждому заданию, ошибки, подсказки, средний балл и общий прогресс."
+          - button "Войти как учитель" [ref=e57] [cursor=pointer]:
+            - generic [ref=e58] [cursor=pointer]: Войти как учитель
+        - generic [ref=e59]:
+          - button "Заметки к уроку видны только вам" [ref=e60] [cursor=pointer]:
+            - generic [ref=e61] [cursor=pointer]:
+              - img [ref=e63] [cursor=pointer]
+              - generic [ref=e65] [cursor=pointer]: Заметки к уроку
+            - button "видны только вам" [ref=e66] [cursor=pointer]:
+              - img [ref=e68] [cursor=pointer]
+          - button "Часто задаваемые вопросы" [ref=e70] [cursor=pointer]:
+            - generic [ref=e71] [cursor=pointer]:
+              - img [ref=e73] [cursor=pointer]
+              - generic [ref=e75] [cursor=pointer]: Часто задаваемые вопросы
+          - button "Сообщить об ошибке" [ref=e76] [cursor=pointer]:
+            - generic [ref=e77] [cursor=pointer]:
+              - img [ref=e79] [cursor=pointer]
+              - generic [ref=e81] [cursor=pointer]: Сообщить об ошибке
+      - generic [ref=e84]:
+        - region "Задача для решения" [ref=e86] [cursor=pointer]:
+          - generic [ref=e89]:
+            - generic [ref=e91]:
+              - img [ref=e95]
+              - heading "Внесите ответы в специально предназначенные поля." [level=4] [ref=e97]:
+                - generic [ref=e99]: Внесите ответы в специально предназначенные поля.
+            - generic [ref=e101]:
+              - img "decore" [ref=e104]
+              - generic [ref=e106]:
+                - generic [ref=e110]:
+                  - text: Установите соответсвие между частями кожи медведя, обозначенными на картинке буквами (А-Д) и их названиями.
+                  - text: 1) Сальная железа 2) Потовая железа 3) Эпидермис 4) Дерма 5) Волос 6) Жировая прослойка
+                - img "кожа медведя" [ref=e113]
+            - generic [ref=e117]:
+              - generic [ref=e118]: Впишите в таблицу под буквами соответсвующие им цифры.
+              - table [ref=e121]:
+                - rowgroup [ref=e122]:
+                  - row "А Б В Г Д Е" [ref=e123]:
+                    - cell "А" [ref=e124]:
+                      - generic [ref=e126]: А
+                    - cell "Б" [ref=e127]:
+                      - generic [ref=e129]: Б
+                    - cell "В" [ref=e130]:
+                      - generic [ref=e132]: В
+                    - cell "Г" [ref=e133]:
+                      - generic [ref=e135]: Г
+                    - cell "Д" [ref=e136]:
+                      - generic [ref=e138]: Д
+                    - cell "Е" [ref=e139]:
+                      - generic [ref=e141]: Е
+                  - row [ref=e142]:
+                    - cell [ref=e143]:
+                      - textbox [active] [ref=e146]
+                    - cell [ref=e147]:
+                      - textbox [ref=e150]
+                    - cell [ref=e151]:
+                      - textbox [ref=e154]
+                    - cell [ref=e155]:
+                      - textbox [ref=e158]
+                    - cell [ref=e159]:
+                      - textbox [ref=e162]
+                    - cell [ref=e163]:
+                      - textbox [ref=e166]
+        - button "2 Взять 1 подсказку" [ref=e176] [cursor=pointer]:
+          - generic [ref=e179] [cursor=pointer]: "2"
+          - generic [ref=e180] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e182] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e185] [cursor=pointer]
+```
