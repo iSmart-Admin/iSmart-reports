@@ -1,0 +1,113 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Выйти из школьного учителя" [ref=e18] [cursor=pointer]
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - button [ref=e25] [cursor=pointer]:
+            - img [ref=e27] [cursor=pointer]
+          - generic [ref=e29]:
+            - paragraph [ref=e30]: Теория 1 (1 из 8)
+            - paragraph [ref=e31]: Понятие функция
+        - generic [ref=e32]:
+          - button "Управление учениками" [ref=e34] [cursor=pointer]:
+            - img [ref=e36] [cursor=pointer]
+            - text: Управление учениками
+          - button "Предыдущее" [disabled] [ref=e39]:
+            - img [ref=e42]
+            - text: Предыдущее
+          - button "Далее" [active] [ref=e44] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e47] [cursor=pointer]
+      - generic [ref=e66]:
+        - generic [ref=e68]:
+          - generic [ref=e69] [cursor=pointer]:
+            - img [ref=e71] [cursor=pointer]
+            - generic [ref=e73] [cursor=pointer]: Описание
+          - generic [ref=e74]:
+            - img [ref=e76]
+            - generic [ref=e78]: Тесты
+        - generic [ref=e83]:
+          - heading "Функция" [level=2] [ref=e84]
+          - generic [ref=e85]:
+            - generic [ref=e86]: Функция
+            - text: являет собой небольшую
+            - generic [ref=e87]: подпрограмму
+            - text: . Если просто программа - это решение какой-то прикладной задачи, то функция – это тоже решение, только уже в рамках программы и, соответственно, она выполняет задачу «попроще». Функции позволяют
+            - generic [ref=e88]: уменьшить размер программы
+            - text: за счет того, что не нужно повторно писать какой-то фрагмент кода - мы просто вызываем сколько угодно и где нужно объявленную функцию.
+            - text: "Объявление функции имеет следующую структуру:"
+          - code [ref=e90]: "def имя\\_функции(аргументы): # тело функции"
+          - generic [ref=e91]:
+            - text: Функция может возвращать значение или не возвращать.
+            - generic [ref=e92]: Аргументы
+            - text: – это те данные, которые необходимы для выполнения функции. Если аргументов несколько, они отделяются запятой. Аргументы могут отсутствовать, тогда после имени функции будут пустые круглые скобки.
+            - generic [ref=e93]: Пример функции, которая не возвращает значение
+            - text: Напишем простую функцию "
+            - generic [ref=e94]: hello
+            - text: "\", которая будет здороваться с тем, чье имя ему передали, то есть функция принимает 1 аргумент \""
+            - generic [ref=e95]: name
+            - text: "\". Так как функция"
+            - generic [ref=e96]: не
+            - text: будет возвращать значение.
+          - code [ref=e98]: "def hello(name): print(\"Hello,\", name)"
+          - generic [ref=e99]: "Функция написана, и теперь используем ее:"
+          - code [ref=e101]: "def hello(name): print(\"Hello,\", name) name = \"Саша\" hello(name) # Вызов функции"
+          - generic [ref=e102]:
+            - generic [ref=e103]: Пример функции, которая возвращает значения
+            - text: Напишем функцию
+            - generic [ref=e104]: total
+            - text: ", которая будет находить"
+            - generic [ref=e105]: сумму двух чисел
+            - text: . Аргументами у этой функции будут
+            - generic [ref=e106]: два целых числа
+            - text: .
+          - code [ref=e108]: "def total(a, b): result = a + b return result"
+          - generic [ref=e109]:
+            - text: Логика у функции проста. Создаем переменную
+            - code [ref=e110]: result
+            - text: ", в которую записываем сумму переданных значений в переменные"
+            - code [ref=e111]: a
+            - text: и
+            - code [ref=e112]: b
+            - text: . Используем оператор
+            - generic [ref=e113]: return
+            - text: ", чтобы вернуть результат."
+            - generic [ref=e114]: Оператор return должен быть обязательно в функции, которая возвращает значение.
+            - text: "Используем нашу функцию:"
+          - code [ref=e116]: "def total(a, b) result = a + b return result a = 3 b = 6 result = total(a, b) # 9 print(sum)"
+          - generic [ref=e117]:
+            - generic [ref=e118]: Пример функции, которая не принимает аргументов
+            - text: Также функции могут
+            - generic [ref=e119]: не принимать аргументов
+            - text: ", тогда после имени функции будут идти"
+            - generic [ref=e120]: пустые
+            - text: "круглые скобки. Например, напишем функцию, которая выводит \"Hello, iSmart!\":"
+          - code [ref=e122]: "def hello(): print(\"Hello, iSmart!\")"
+          - generic [ref=e123]:
+            - text: Функция
+            - code [ref=e124]: hello
+            - text: ничего не принимает, так как внутри круглых скобок никаких аргументов нет, и ничего не возвращает. Она просто выводит на экран "Hello, iSmart!". Давайте ее вызовем
+          - code [ref=e126]: "def hello(): print(\"Hello, iSmart!\") hello()"
+          - generic [ref=e127]:
+            - generic [ref=e128]: Оператор return
+            - text: Когда встречается этот оператор, происходит
+            - generic [ref=e129]: выход из функции
+            - text: и код ниже (если он есть) выполняться не будет (например, в функцию передан такой аргумент, при котором нет смысла выполнять функцию). Он похож на оператор
+            - code [ref=e130]: break
+            - text: ", который используется для выхода из циклов. Этот оператор также можно использовать и в функциях, которые не возвращают значение. Оператор return допустимо использовать несколько раз в функции."
+  - generic [ref=e136]:
+    - generic [ref=e137]:
+      - heading "Ваш прогресс не будет засчитан" [level=4] [ref=e138]
+      - generic [ref=e139]: Вы используете деморежим, поэтому ваши ответы не будут сохранены, и прогресс не будет засчитан.
+    - button "Хорошо" [ref=e140] [cursor=pointer]
+```
