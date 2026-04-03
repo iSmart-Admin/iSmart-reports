@@ -1,0 +1,8 @@
+[
+  {
+    "url": "https://o271089.ingest.sentry.io/api/4505314407022592/envelope/?sentry_key=4a8e266f70be4d47affea7c6a2dc99d5&sentry_version=7&sentry_client=sentry.javascript.react%2F7.54.0",
+    "status": 429,
+    "payload": "{\"event_id\":\"33eb418a8a194042b028c7665d544610\",\"sent_at\":\"2026-04-03T07:17:32.697Z\",\"sdk\":{\"name\":\"sentry.javascript.react\",\"version\":\"7.54.0\"}}\n{\"type\":\"event\"}\n{\"message\":\"Action failed\",\"exception\":{\"values\":[{\"value\":\"Action failed\",\"type\":\"Error\",\"mechanism\":{\"type\":\"generic\",\"handled\":true,\"synthetic\":true}}]},\"level\":\"error\",\"event_id\":\"33eb418a8a194042b028c7665d544610\",\"platform\":\"javascript\",\"timestamp\":1775200652.693,\"environment\":\"ismart-edu\",\"release\":\"7.10.3\",\"sdk\":{\"integrations\":[\"InboundFilters\",\"FunctionToString\",\"TryCatch\",\"Breadcrumbs\",\"GlobalHandlers\",\"LinkedErrors\",\"Dedupe\",\"HttpContext\",\"Replay\"],\"name\":\"sentry.javascript.react\",\"version\":\"7.54.0\",\"packages\":[{\"name\":\"npm:@sentry/react\",\"version\":\"7.54.0\"}]},\"extra\":{\"actionName\":\"fetchUserInfo\"},\"tags\":{\"type\":\"action\",\"scope\":\"anywhere\",\"replayId\":\"93fbdb373a1a45c8ae2e71284151d553\"},\"breadcrumbs\":[{\"timestamp\":1775200652.362,\"category\":\"console\",\"data\":{\"arguments\":[\"socket connected!\"],\"logger\":\"console\"},\"level\":\"log\",\"message\":\"socket connected!\"}],\"request\":{\"url\":\"https://edu.ismart.org/catalog/\",\"headers\":{\"User-Agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36\"}}}",
+    "timestap": "03.04.2026, 10:17:32"
+  }
+]
