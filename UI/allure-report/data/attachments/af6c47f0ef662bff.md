@@ -1,0 +1,96 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - img [ref=e41]
+                  - heading "Выберите верный вариант ответа." [level=4] [ref=e43]:
+                    - generic [ref=e45]: Выберите верный вариант ответа.
+                - generic [ref=e47]:
+                  - img "decore" [ref=e50]
+                  - generic [ref=e55]:
+                    - generic [ref=e56]: Соедините руководителей СССР и годы их правления.
+                    - generic [ref=e57]: Когда СССР руководили эти исторические деятели?
+                - generic [ref=e60]:
+                  - img [ref=e61]
+                  - generic [ref=e62]:
+                    - generic [ref=e68] [cursor=pointer]: 1953-1964
+                    - generic [ref=e75] [cursor=pointer]: Л.И. Брежнев
+                  - generic [ref=e76]:
+                    - generic [ref=e82] [cursor=pointer]: 1982-1984
+                    - generic [ref=e89] [cursor=pointer]: Ю.В. Андропов
+                  - generic [ref=e90]:
+                    - generic [ref=e96] [cursor=pointer]: 1964-1982
+                    - generic [ref=e103] [cursor=pointer]: К.У. Черненко
+                  - generic [ref=e104]:
+                    - generic [ref=e110] [cursor=pointer]: 1984-1985
+                    - generic [ref=e117] [cursor=pointer]: Н.С. Хрущёв
+          - generic [ref=e122]:
+            - generic [ref=e125]:
+              - button [disabled] [ref=e127]:
+                - img [ref=e129]
+              - generic [ref=e132]: 100%
+              - button [ref=e134] [cursor=pointer]:
+                - img [ref=e136] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e141] [cursor=pointer]:
+              - generic [ref=e144] [cursor=pointer]: "2"
+              - generic [ref=e145] [cursor=pointer]: Показать подсказку
+        - generic [ref=e149]:
+          - generic [ref=e152]: Интеллектуальный тренажер
+          - generic [ref=e156]:
+            - generic [ref=e161]: 1 из 6
+            - generic [ref=e163]:
+              - generic [ref=e164]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e166] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e169]:
+            - generic [ref=e171]:
+              - button "Пройти опрос" [ref=e172] [cursor=pointer]:
+                - generic [ref=e174] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e175] [cursor=pointer]:
+                - img [ref=e178] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e181] [cursor=pointer]:
+                - img [ref=e184] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e188] [cursor=pointer]:
+                - img [ref=e191] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e193]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e194] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e197] [cursor=pointer]
+              - generic [ref=e200]: 69cf8d0ef5cbb800063d04ef
+  - generic [ref=e209]:
+    - heading "Внимательно повтори и запомни правило" [level=3] [ref=e210]
+    - generic [ref=e214]:
+      - strong [ref=e215]: Запомните!
+      - text: После смерти
+      - strong [ref=e218]: Иосифа Виссарионовича Сталина
+      - text: в марте 1953 года Первым секретарём ЦК КПСС в сентябре 1953 г. становится
+      - strong [ref=e221]: Никита Сергеевич Хрущёв
+      - text: .
+    - button "К решению" [active] [ref=e223] [cursor=pointer]:
+      - text: К решению
+      - img [ref=e226] [cursor=pointer]
+```
