@@ -1,0 +1,128 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Выйти из школьного учителя" [ref=e18] [cursor=pointer]
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - button [ref=e25] [cursor=pointer]:
+            - img [ref=e27] [cursor=pointer]
+          - generic [ref=e29]:
+            - paragraph [ref=e30]: Задача 1 (6 из 7)
+            - paragraph [ref=e31]: Цикл while
+        - generic [ref=e32]:
+          - button "Управление учениками" [ref=e34] [cursor=pointer]:
+            - img [ref=e36] [cursor=pointer]
+            - text: Управление учениками
+          - button "Предыдущее" [ref=e39] [cursor=pointer]:
+            - img [ref=e42] [cursor=pointer]
+            - text: Предыдущее
+          - button "Далее" [active] [ref=e44] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e47] [cursor=pointer]
+      - generic [ref=e64]:
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - paragraph [ref=e68]: Python 3
+            - button "Запустить тесты" [ref=e69] [cursor=pointer]:
+              - text: Запустить тесты
+              - img [ref=e72] [cursor=pointer]
+          - generic [ref=e76]:
+            - text:                
+            - code [ref=e79]:
+              - generic [ref=e80]:
+                - generic [ref=e85]: "1"
+                - generic [ref=e93]:
+                  - generic [ref=e94]: print
+                  - generic [ref=e95]: (
+                  - generic [ref=e96]: "'Привет, Мир!'"
+                  - generic [ref=e97]: )
+                - textbox "Editor content;Press Alt+F1 for Accessibility Options." [ref=e99]: print('Привет, Мир!')
+        - generic [ref=e101]:
+          - generic [ref=e103]:
+            - generic [ref=e104] [cursor=pointer]:
+              - img [ref=e106] [cursor=pointer]
+              - generic [ref=e108] [cursor=pointer]: Описание
+            - generic [ref=e109] [cursor=pointer]:
+              - img [ref=e111] [cursor=pointer]
+              - generic [ref=e113] [cursor=pointer]: Тесты
+          - generic [ref=e118]:
+            - generic [ref=e119]:
+              - generic [ref=e121]: "1000"
+              - img [ref=e123]
+              - generic [ref=e126]: FAIL
+              - img [ref=e128]
+              - generic [ref=e131]: "3"
+            - generic [ref=e132]:
+              - generic [ref=e134]: "600"
+              - img [ref=e136]
+              - generic [ref=e139]: FAIL
+              - img [ref=e141]
+              - generic [ref=e144]: "3"
+            - generic [ref=e145]:
+              - generic [ref=e147]: "120"
+              - img [ref=e149]
+              - generic [ref=e152]: FAIL
+              - img [ref=e154]
+              - generic [ref=e157]: "3"
+            - generic [ref=e158]:
+              - generic [ref=e160]: "3"
+              - img [ref=e162]
+              - generic [ref=e165]: FAIL
+              - img [ref=e167]
+              - generic [ref=e170]: "0"
+            - generic [ref=e171]:
+              - generic [ref=e173]: "36"
+              - img [ref=e175]
+              - generic [ref=e178]: FAIL
+              - img [ref=e180]
+              - generic [ref=e183]: "2"
+            - generic [ref=e184]:
+              - generic [ref=e186]: "100"
+              - img [ref=e188]
+              - generic [ref=e191]: FAIL
+              - img [ref=e193]
+              - generic [ref=e196]: "2"
+            - generic [ref=e197]:
+              - generic [ref=e199]: "24"
+              - img [ref=e201]
+              - generic [ref=e204]: FAIL
+              - img [ref=e206]
+              - generic [ref=e209]: "3"
+            - generic [ref=e210]:
+              - generic [ref=e212]: "2"
+              - img [ref=e214]
+              - generic [ref=e217]: FAIL
+              - img [ref=e219]
+              - generic [ref=e222]: "1"
+            - generic [ref=e223]:
+              - generic [ref=e225]: "54"
+              - img [ref=e227]
+              - generic [ref=e230]: FAIL
+              - img [ref=e232]
+              - generic [ref=e235]: "1"
+            - generic [ref=e236]:
+              - generic [ref=e238]: "55"
+              - img [ref=e240]
+              - generic [ref=e243]: FAIL
+              - img [ref=e245]
+              - generic [ref=e248]: "0"
+  - generic [ref=e249]:
+    - alert
+    - alert
+    - complementary
+    - complementary
+  - generic [ref=e255]:
+    - generic [ref=e256]:
+      - heading "Ваш прогресс не будет засчитан" [level=4] [ref=e257]
+      - generic [ref=e258]: Вы используете деморежим, поэтому ваши ответы не будут сохранены, и прогресс не будет засчитан.
+    - button "Хорошо" [ref=e259] [cursor=pointer]
+```

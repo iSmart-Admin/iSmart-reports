@@ -1,0 +1,54 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Выйти из школьного учителя" [ref=e18] [cursor=pointer]
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - button [ref=e25] [cursor=pointer]:
+            - img [ref=e27] [cursor=pointer]
+          - generic [ref=e29]:
+            - paragraph [ref=e30]: Вопрос 1 (2 из 13)
+            - paragraph [ref=e31]: Строки
+        - generic [ref=e32]:
+          - button "Управление учениками" [ref=e34] [cursor=pointer]:
+            - img [ref=e36] [cursor=pointer]
+            - text: Управление учениками
+          - button "Предыдущее" [ref=e39] [cursor=pointer]:
+            - img [ref=e42] [cursor=pointer]
+            - text: Предыдущее
+          - button "Далее" [active] [ref=e44] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e47] [cursor=pointer]
+      - generic [ref=e66]:
+        - generic [ref=e68]:
+          - generic [ref=e69] [cursor=pointer]:
+            - img [ref=e71] [cursor=pointer]
+            - generic [ref=e73] [cursor=pointer]: Описание
+          - generic [ref=e74]:
+            - img [ref=e76]
+            - generic [ref=e78]: Тесты
+        - generic [ref=e82]:
+          - generic [ref=e84]: Можно ли сравнивать символы?
+          - generic [ref=e85]:
+            - paragraph [ref=e87]: Выбери все верные утверждения
+            - generic [ref=e88]:
+              - generic [ref=e91] [cursor=pointer]: Можно, сравнение происходит по коду символа
+              - generic [ref=e94] [cursor=pointer]: Можно, но только латинские и русские заглавные и строчные буквы
+              - generic [ref=e97] [cursor=pointer]: Можно, но только латинские заглавные и строчные буквы
+              - generic [ref=e100] [cursor=pointer]: Можно, но только русские заглавные и строчные буквы
+              - generic [ref=e103] [cursor=pointer]: Нельзя, это же не число
+  - generic [ref=e109]:
+    - generic [ref=e110]:
+      - heading "Ваш прогресс не будет засчитан" [level=4] [ref=e111]
+      - generic [ref=e112]: Вы используете деморежим, поэтому ваши ответы не будут сохранены, и прогресс не будет засчитан.
+    - button "Хорошо" [ref=e113] [cursor=pointer]
+```

@@ -1,0 +1,8 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic [ref=e10]: Урок
+  - generic [ref=e11]: Подготовка к ЕГЭ по физике. Задание №15. Законы и величины в процессах
+  - button "Приступить" [active] [ref=e12] [cursor=pointer]
+```

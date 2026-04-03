@@ -1,0 +1,79 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e36]:
+              - generic [ref=e38]:
+                - img [ref=e42]
+                - heading "Выбери выражение и найди его значение." [level=4] [ref=e44]:
+                  - generic [ref=e46]: Выбери выражение и найди его значение.
+              - generic [ref=e48]:
+                - img "decore" [ref=e51]
+                - heading "От числа 73 отняли разность чисел 56 и 29." [level=3] [ref=e54]:
+                  - text: От числа
+                  - strong [ref=e55]: "73"
+                  - text: отняли разность чисел
+                  - strong [ref=e56]: "56"
+                  - text: и
+                  - strong [ref=e57]: "29"
+                  - text: .
+              - heading "=" [level=3] [ref=e62]:
+                - button [ref=e64] [cursor=pointer]
+                - text: =
+                - textbox [ref=e65]
+        - generic [ref=e71]:
+          - generic [ref=e74]:
+            - button [disabled] [ref=e76]:
+              - img [ref=e78]
+            - generic [ref=e81]: 100%
+            - button [ref=e83] [cursor=pointer]:
+              - img [ref=e85] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e90] [cursor=pointer]:
+            - generic [ref=e93] [cursor=pointer]: "2"
+            - generic [ref=e94] [cursor=pointer]: Показать подсказку
+      - generic [ref=e98]:
+        - generic [ref=e101]: Интеллектуальный тренажер
+        - generic [ref=e105]:
+          - generic [ref=e110]: 1 из 15
+          - generic [ref=e114]:
+            - img [ref=e115]
+            - generic [ref=e117]: Вы вошли как ученик 4 «В»
+        - generic [ref=e118]:
+          - generic [ref=e120]:
+            - button "Пройти опрос" [ref=e121] [cursor=pointer]:
+              - generic [ref=e123] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [active] [ref=e124] [cursor=pointer]:
+              - img [ref=e127] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e130] [cursor=pointer]:
+              - img [ref=e133] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e137] [cursor=pointer]:
+              - img [ref=e140] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e142]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e143] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e146] [cursor=pointer]
+            - generic [ref=e149]: 69cf64faef132f000793659e
+```
