@@ -1,0 +1,189 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Рейтинг" [ref=e21] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e24] [cursor=pointer]: Рейтинг
+      - link "Диагностика" [ref=e27] [cursor=pointer]:
+        - /url: /diagnostics
+        - generic [ref=e30] [cursor=pointer]: Диагностика
+      - link "Магазин" [ref=e33] [cursor=pointer]:
+        - /url: /shop/offers
+        - generic [ref=e36] [cursor=pointer]: Магазин
+      - link "Помощник" [ref=e39] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e42] [cursor=pointer]: Помощник
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - button [ref=e47] [cursor=pointer]:
+          - img [ref=e49] [cursor=pointer]
+        - img [ref=e54] [cursor=pointer]
+      - generic [ref=e56] [cursor=pointer]:
+        - generic [ref=e58] [cursor=pointer]:
+          - generic [ref=e59] [cursor=pointer]: "?"
+          - img [ref=e61] [cursor=pointer]
+        - generic [ref=e78] [cursor=pointer]:
+          - paragraph
+          - paragraph [ref=e79] [cursor=pointer]: Гость
+        - img [ref=e81] [cursor=pointer]
+  - generic [ref=e85]:
+    - generic [ref=e87]:
+      - button [ref=e88] [cursor=pointer]:
+        - img [ref=e90] [cursor=pointer]
+      - generic [ref=e94]: Информатика 8.1
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - heading "Купить со скидкой" [level=1] [ref=e100]
+        - heading "-70%" [level=1] [ref=e101]
+      - button "В магазин" [ref=e103] [cursor=pointer]:
+        - text: В магазин
+        - img [ref=e106] [cursor=pointer]
+    - generic [ref=e115]:
+      - generic [ref=e119]:
+        - img [ref=e122]
+        - textbox "Поиск по подтемам" [ref=e125]
+      - generic [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e128] [cursor=pointer]:
+            - generic [ref=e130] [cursor=pointer]: Темы
+            - button [ref=e132] [cursor=pointer]:
+              - img [ref=e134] [cursor=pointer]
+          - generic [ref=e137] [cursor=pointer]:
+            - generic [ref=e140] [cursor=pointer]: Цифровая грамотность
+            - img [ref=e142] [cursor=pointer]
+          - generic [ref=e144] [cursor=pointer]:
+            - generic [ref=e147] [cursor=pointer]: Теоретические основы информатики
+            - img [ref=e149] [cursor=pointer]
+          - generic [ref=e151] [cursor=pointer]:
+            - generic [ref=e154] [cursor=pointer]: Обработка текстовой информации
+            - img [ref=e156] [cursor=pointer]
+          - generic [ref=e158] [cursor=pointer]:
+            - generic [ref=e161] [cursor=pointer]: Обработка графической информации
+            - img [ref=e163] [cursor=pointer]
+          - generic [ref=e165] [cursor=pointer]:
+            - generic [ref=e168] [cursor=pointer]: Мультимедиа
+            - img [ref=e170] [cursor=pointer]
+        - generic [ref=e176]:
+          - link "1. Устройства компьютера" [ref=e177] [cursor=pointer]:
+            - /url: /learn/69ad77d3df5a1f0007c4d866/69ad770cdf5a1f0007c4baab/68ab5e4dd608c0000717c41a/69ad770cdf5a1f0007c4bac8/
+            - generic [ref=e178] [cursor=pointer]:
+              - generic [ref=e180] [cursor=pointer]:
+                - generic [ref=e182] [cursor=pointer]: "1."
+                - paragraph [ref=e184] [cursor=pointer]: Устройства компьютера
+              - img [ref=e187] [cursor=pointer]
+          - link "2. Программное обеспечение" [ref=e189] [cursor=pointer]:
+            - /url: /learn/69ad77d3df5a1f0007c4d866/69ad770cdf5a1f0007c4baab/68ab5e4dd608c0000717c41a/69ad770cdf5a1f0007c4bac7/
+            - generic [ref=e190] [cursor=pointer]:
+              - generic [ref=e192] [cursor=pointer]:
+                - generic [ref=e194] [cursor=pointer]: "2."
+                - paragraph [ref=e196] [cursor=pointer]: Программное обеспечение
+              - img [ref=e199] [cursor=pointer]
+          - link "3. Компьютерные вирусы" [ref=e201] [cursor=pointer]:
+            - /url: /learn/69ad77d3df5a1f0007c4d866/69ad770cdf5a1f0007c4baab/68ab5e4dd608c0000717c41a/69ad770cdf5a1f0007c4bac3/
+            - generic [ref=e202] [cursor=pointer]:
+              - generic [ref=e204] [cursor=pointer]:
+                - generic [ref=e206] [cursor=pointer]: "3."
+                - paragraph [ref=e208] [cursor=pointer]: Компьютерные вирусы
+              - img [ref=e211] [cursor=pointer]
+          - link "4. Файловые структуры" [ref=e213] [cursor=pointer]:
+            - /url: /learn/69ad77d3df5a1f0007c4d866/69ad770cdf5a1f0007c4baab/68ab5e4dd608c0000717c41a/69ad770cdf5a1f0007c4bac4/
+            - generic [ref=e214] [cursor=pointer]:
+              - generic [ref=e216] [cursor=pointer]:
+                - generic [ref=e218] [cursor=pointer]: "4."
+                - paragraph [ref=e220] [cursor=pointer]: Файловые структуры
+              - img [ref=e223] [cursor=pointer]
+          - link "5. Структура адресов веб-ресурсов" [ref=e225] [cursor=pointer]:
+            - /url: /learn/69ad77d3df5a1f0007c4d866/69ad770cdf5a1f0007c4baab/68ab5e4dd608c0000717c41a/69ad770cdf5a1f0007c4bac5/
+            - generic [ref=e226] [cursor=pointer]:
+              - generic [ref=e228] [cursor=pointer]:
+                - generic [ref=e230] [cursor=pointer]: "5."
+                - paragraph [ref=e232] [cursor=pointer]: Структура адресов веб-ресурсов
+              - img [ref=e235] [cursor=pointer]
+          - link "6. Поиск информации по ключевым словам" [ref=e237] [cursor=pointer]:
+            - /url: /learn/69ad77d3df5a1f0007c4d866/69ad770cdf5a1f0007c4baab/68ab5e4dd608c0000717c41a/69ad770cdf5a1f0007c4bac6/
+            - generic [ref=e238] [cursor=pointer]:
+              - generic [ref=e240] [cursor=pointer]:
+                - generic [ref=e242] [cursor=pointer]: "6."
+                - paragraph [ref=e244] [cursor=pointer]: Поиск информации по ключевым словам
+              - img [ref=e247] [cursor=pointer]
+          - link "7. Современные сервисы интернет коммуникаций. Сетевой этикет и безопасность" [ref=e249] [cursor=pointer]:
+            - /url: /learn/69ad77d3df5a1f0007c4d866/69ad770cdf5a1f0007c4baab/68ab5e4dd608c0000717c41a/69ad770cdf5a1f0007c4bac2/
+            - generic [ref=e250] [cursor=pointer]:
+              - generic [ref=e252] [cursor=pointer]:
+                - generic [ref=e254] [cursor=pointer]: "7."
+                - paragraph [ref=e256] [cursor=pointer]: Современные сервисы интернет коммуникаций. Сетевой этикет и безопасность
+              - img [ref=e259] [cursor=pointer]
+          - link "8. Информация в нашей жизни" [ref=e261] [cursor=pointer]:
+            - /url: /learn/69ad77d3df5a1f0007c4d866/69ad770cdf5a1f0007c4baab/68ab5e4dd608c0000717c41a/69ad770cdf5a1f0007c4bac1/
+            - generic [ref=e262] [cursor=pointer]:
+              - generic [ref=e264] [cursor=pointer]:
+                - generic [ref=e266] [cursor=pointer]: "8."
+                - paragraph [ref=e268] [cursor=pointer]: Информация в нашей жизни
+              - img [ref=e271] [cursor=pointer]
+  - generic [ref=e274]:
+    - generic [ref=e275]:
+      - generic [ref=e276]:
+        - generic [ref=e280]:
+          - img [ref=e282]
+          - link "8 (800) 600-44-02" [ref=e284] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e285]:
+          - generic [ref=e286]: "@"
+          - link "support@ismart.org" [ref=e287] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e288]:
+          - img [ref=e290]
+          - generic [ref=e292]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e293]:
+        - link "Наш сайт" [ref=e296] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e298] [cursor=pointer]
+        - generic [ref=e300]:
+          - link "Лицензия" [ref=e302] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e304] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e306] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e308] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e310] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e312]:
+      - generic [ref=e313]:
+        - link [ref=e314] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e318] [cursor=pointer]
+        - generic [ref=e321]:
+          - link "okIcon" [ref=e322] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e323] [cursor=pointer]
+          - link "dzenIcon" [ref=e324] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e325] [cursor=pointer]
+          - link "vkIcon" [ref=e326] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e327] [cursor=pointer]
+      - generic [ref=e329]:
+        - generic [ref=e331]:
+          - generic [ref=e332]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e333] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e334]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e335] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e336]:
+          - generic [ref=e337]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e338] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e339]: © iSmart, 2018-2026
+```
