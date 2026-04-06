@@ -1,0 +1,103 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Задания урока
+            - img "Подсказка" [ref=e31] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+          - generic [ref=e36]:
+            - button "1" [ref=e37] [cursor=pointer]
+            - button "2" [ref=e38] [cursor=pointer]
+            - button "3" [ref=e39] [cursor=pointer]
+            - button "4" [ref=e40] [cursor=pointer]
+            - button "5" [ref=e41] [cursor=pointer]
+            - button "6" [ref=e42] [cursor=pointer]
+            - button "7" [ref=e43] [cursor=pointer]
+            - button "8" [ref=e44] [cursor=pointer]
+            - button "9" [ref=e45] [cursor=pointer]
+            - button "10" [ref=e46] [cursor=pointer]
+            - button "11" [ref=e47] [cursor=pointer]
+            - button "12" [ref=e48] [cursor=pointer]
+            - button "13" [ref=e49] [cursor=pointer]
+            - button "14" [ref=e50] [cursor=pointer]
+            - button "15" [ref=e51] [cursor=pointer]
+            - button "+" [ref=e52] [cursor=pointer]
+          - button "Редактировать урок" [ref=e53] [cursor=pointer]
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - generic [ref=e56]: Отчёты и аналитика
+            - img "Для учителей" [ref=e57] [cursor=pointer]:
+              - img [ref=e59] [cursor=pointer]
+          - generic [ref=e61]: "Войдите как учитель и настройте класс — тогда вы сможете видеть решения и прогресс учеников: результаты по каждому заданию, ошибки, подсказки, средний балл и общий прогресс."
+          - button "Войти как учитель" [ref=e62] [cursor=pointer]:
+            - generic [ref=e63] [cursor=pointer]: Войти как учитель
+        - generic [ref=e64]:
+          - button "Заметки к уроку видны только вам" [ref=e65] [cursor=pointer]:
+            - generic [ref=e66] [cursor=pointer]:
+              - img [ref=e68] [cursor=pointer]
+              - generic [ref=e70] [cursor=pointer]: Заметки к уроку
+            - button "видны только вам" [ref=e71] [cursor=pointer]:
+              - img [ref=e73] [cursor=pointer]
+          - button "Часто задаваемые вопросы" [ref=e75] [cursor=pointer]:
+            - generic [ref=e76] [cursor=pointer]:
+              - img [ref=e78] [cursor=pointer]
+              - generic [ref=e80] [cursor=pointer]: Часто задаваемые вопросы
+          - button "Сообщить об ошибке" [ref=e81] [cursor=pointer]:
+            - generic [ref=e82] [cursor=pointer]:
+              - img [ref=e84] [cursor=pointer]
+              - generic [ref=e86] [cursor=pointer]: Сообщить об ошибке
+      - generic [ref=e89]:
+        - region "Задача для решения" [ref=e91] [cursor=pointer]:
+          - generic [ref=e94]:
+            - generic [ref=e96]:
+              - img [ref=e100]
+              - heading "Перенесите элементы в соответствующие ячейки." [level=4] [ref=e102]:
+                - generic [ref=e104]: Перенесите элементы в соответствующие ячейки.
+            - generic [ref=e106]:
+              - img "decore" [ref=e109]
+              - generic [ref=e115]: "Распределите утверждения в соответствии с тем, к какому процессу они относятся: ароморфоз, идиоадаптация, дегенерация."
+            - generic [ref=e117]:
+              - generic [ref=e118]:
+                - generic [ref=e122]: Ароморфоз
+                - generic [ref=e129]: Идиоадаптация
+                - generic [ref=e136]: Дегенерация
+              - generic [ref=e140]:
+                - button "развитие различных адаптаций" [ref=e144] [cursor=pointer]:
+                  - generic [ref=e146] [cursor=pointer]: развитие различных адаптаций
+                - button "сильное изменение строения" [ref=e150] [cursor=pointer]:
+                  - generic [ref=e152] [cursor=pointer]: сильное изменение строения
+                - button "часто результат сильной специализации" [ref=e156] [cursor=pointer]:
+                  - generic [ref=e158] [cursor=pointer]: часто результат сильной специализации
+                - button "повышение уровня организации" [ref=e162] [cursor=pointer]:
+                  - generic [ref=e164] [cursor=pointer]: повышение уровня организации
+                - button "могут быть различные таксоны" [ref=e168] [cursor=pointer]:
+                  - generic [ref=e170] [cursor=pointer]: могут быть различные таксоны
+                - button "появление классов и типов" [ref=e174] [cursor=pointer]:
+                  - generic [ref=e176] [cursor=pointer]: появление классов и типов
+                - button "упрощение строения" [ref=e180] [cursor=pointer]:
+                  - generic [ref=e182] [cursor=pointer]: упрощение строения
+                - button "приспособление к среде обитания" [ref=e186] [cursor=pointer]:
+                  - generic [ref=e188] [cursor=pointer]: приспособление к среде обитания
+                - button "появление видов и родов" [ref=e192] [cursor=pointer]:
+                  - generic [ref=e194] [cursor=pointer]: появление видов и родов
+        - button "2 Взять 1 подсказку" [ref=e203] [cursor=pointer]:
+          - generic [ref=e206] [cursor=pointer]: "2"
+          - generic [ref=e207] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e209] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e212] [cursor=pointer]
+```
