@@ -1,0 +1,98 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+        - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - region "Задача для решения" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e36]:
+                - generic [ref=e38]:
+                  - img [ref=e42]
+                  - heading "Выберите верный вариант ответа." [level=4] [ref=e44]:
+                    - generic [ref=e46]: Выберите верный вариант ответа.
+                - generic [ref=e48]:
+                  - img "decore" [ref=e51]
+                  - generic [ref=e56]:
+                    - generic [ref=e57]:
+                      - text: "Аня и Паша выполняют проект, посвящённый растению Ландыш майский, по следующему плану:"
+                      - strong [ref=e58]: местообитание
+                      - text: ","
+                      - strong [ref=e59]: внешний вид растения
+                      - text: ","
+                      - strong [ref=e60]: строение и функции его органов
+                      - text: ","
+                      - strong [ref=e61]: значение для человека и роль в природном сообществе
+                      - text: .
+                    - generic [ref=e62]: Обычно при описании растения указывают его размер. Как Вы думаете, какой измерительный прибор ребята взяли с собой для этой цели?
+                - generic [ref=e65]:
+                  - button "Весы" [ref=e67] [cursor=pointer]:
+                    - generic [ref=e69] [cursor=pointer]: Весы
+                  - button "Лупа" [ref=e71] [cursor=pointer]:
+                    - generic [ref=e73] [cursor=pointer]: Лупа
+                  - button "Линейка" [ref=e75] [cursor=pointer]:
+                    - generic [ref=e77] [cursor=pointer]: Линейка
+                  - button "Термометр" [ref=e79] [cursor=pointer]:
+                    - generic [ref=e81] [cursor=pointer]: Термометр
+          - generic [ref=e86]:
+            - generic [ref=e89]:
+              - button [disabled] [ref=e91]:
+                - img [ref=e93]
+              - generic [ref=e96]: 100%
+              - button [ref=e98] [cursor=pointer]:
+                - img [ref=e100] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e105] [cursor=pointer]:
+              - generic [ref=e108] [cursor=pointer]: "2"
+              - generic [ref=e109] [cursor=pointer]: Показать подсказку
+        - generic [ref=e113]:
+          - generic [ref=e116]: Интеллектуальный тренажер
+          - generic [ref=e120]:
+            - generic [ref=e125]: 1 из 5
+            - generic [ref=e129]:
+              - img [ref=e130]
+              - generic [ref=e132]: Вы вошли как ученик 4 «В»
+          - generic [ref=e133]:
+            - generic [ref=e135]:
+              - button "Пройти опрос" [ref=e136] [cursor=pointer]:
+                - generic [ref=e138] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e139] [cursor=pointer]:
+                - img [ref=e142] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e145] [cursor=pointer]:
+                - img [ref=e148] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e152] [cursor=pointer]:
+                - img [ref=e155] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e157]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e158] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e161] [cursor=pointer]
+              - generic [ref=e164]: 69d43b29a3d22a000703f9f9
+  - generic [ref=e173]:
+    - heading "Внимательно повтори и запомни правило" [level=3] [ref=e174]
+    - generic [ref=e178]:
+      - strong [ref=e179]: Обратите внимание!
+      - text: "Обратите внимание на задание: необходимо определить измерительный прибор, который поможет измерить размер растения."
+      - text: Подумайте, какие параметры можно измерить у ландыша майского и какие приборы из списка для этого подходят.
+    - button "К решению" [active] [ref=e181] [cursor=pointer]:
+      - text: К решению
+      - img [ref=e184] [cursor=pointer]
+```

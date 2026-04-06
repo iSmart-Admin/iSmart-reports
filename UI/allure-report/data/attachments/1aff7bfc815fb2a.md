@@ -1,0 +1,102 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+        - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - region "Задача для решения" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e36]:
+                - generic [ref=e38]:
+                  - img [ref=e42]
+                  - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e44]:
+                    - generic [ref=e46]: Внеси ответ в специально предназначенное поле.
+                - generic [ref=e48]:
+                  - img "decore" [ref=e51]
+                  - generic [ref=e56]:
+                    - generic [ref=e57]: Ещё светло перед окном,
+                    - generic [ref=e58]: В разрывы облак солнце блещет,
+                    - generic [ref=e59]: И воробей своим крылом,
+                    - generic [ref=e60]:
+                      - text: В песке купаяся, трепещет.
+                      - text: А уж от неба до земли,
+                    - generic [ref=e61]: Качаясь, движется завеса,
+                    - generic [ref=e62]: И будто в золотой пыли
+                    - generic [ref=e63]:
+                      - text: Стоит за ней опушка леса.
+                      - text: Две капли брызнули в стекло,
+                    - generic [ref=e64]: От лип душистым мёдом тянет,
+                    - generic [ref=e65]: И что-то к саду подошло,
+                    - generic [ref=e66]:
+                      - text: По свежим листьям барабанит.
+                      - text: В какой строфе стихотворения А. Фета «Весенний дождь» дождь пошёл?
+                - generic [ref=e70]:
+                  - generic [ref=e71]: Впиши номер этой строфы в поле для ответов.
+                  - generic [ref=e72]:
+                    - strong [ref=e73]: "Ответ:"
+                    - textbox [ref=e74]
+          - generic [ref=e80]:
+            - generic [ref=e83]:
+              - button [disabled] [ref=e85]:
+                - img [ref=e87]
+              - generic [ref=e90]: 100%
+              - button [ref=e92] [cursor=pointer]:
+                - img [ref=e94] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e99] [cursor=pointer]:
+              - generic [ref=e102] [cursor=pointer]: "2"
+              - generic [ref=e103] [cursor=pointer]: Показать подсказку
+        - generic [ref=e107]:
+          - generic [ref=e110]: Интеллектуальный тренажер
+          - generic [ref=e114]:
+            - generic [ref=e119]: 1 из 6
+            - generic [ref=e123]:
+              - img [ref=e124]
+              - generic [ref=e126]: Вы вошли как ученик 9 «А»
+          - generic [ref=e127]:
+            - generic [ref=e129]:
+              - button "Пройти опрос" [ref=e130] [cursor=pointer]:
+                - generic [ref=e132] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e133] [cursor=pointer]:
+                - img [ref=e136] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e139] [cursor=pointer]:
+                - img [ref=e142] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e146] [cursor=pointer]:
+                - img [ref=e149] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e151]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e152] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e155] [cursor=pointer]
+              - generic [ref=e158]: 69d43b1416778c00072e6b5e
+  - generic [ref=e167]:
+    - heading "Внимательно повтори и запомни правило" [level=3] [ref=e168]
+    - generic [ref=e172]:
+      - strong [ref=e173]: Запомни!
+      - strong [ref=e174]:
+        - generic [ref=e176]: Строфа
+      - text: — основная единица поэзии, это группа строк, которые идут вместе. Из строф состоят стихотворения.
+      - text: Строфы могут быть разной длины и формы, в зависимости от типа поэтического произведения и стиля автора.
+      - text: Строфа, состоящая из двух строк, называется двустишием, из трёх — трёхстишием, из четырёх — четверостишием. Строки связаны по смыслу и ритмически.
+    - button "К решению" [active] [ref=e178] [cursor=pointer]:
+      - text: К решению
+      - img [ref=e181] [cursor=pointer]
+```
