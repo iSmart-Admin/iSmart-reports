@@ -1,8 +1,0 @@
-# Page snapshot
-
-```yaml
-- generic [ref=e7]:
-  - generic [ref=e9]: Урок
-  - generic [ref=e10]: Контрольная работа №9. Россия на рубеже XIX-XX веков. Культура и наука России начала XX в.
-  - button "Приступить" [ref=e11] [cursor=pointer]
-```

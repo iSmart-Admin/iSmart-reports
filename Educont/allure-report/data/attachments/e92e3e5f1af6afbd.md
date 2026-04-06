@@ -1,0 +1,56 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Выйти из школьного учителя" [ref=e18] [cursor=pointer]
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - button [ref=e25] [cursor=pointer]:
+            - img [ref=e27] [cursor=pointer]
+          - generic [ref=e29]:
+            - paragraph [ref=e30]: Вопрос 1 (2 из 7)
+            - paragraph [ref=e31]: Целые числа. Анализ цифр числа
+        - generic [ref=e32]:
+          - button "Управление учениками" [ref=e34] [cursor=pointer]:
+            - img [ref=e36] [cursor=pointer]
+            - text: Управление учениками
+          - button "Предыдущее" [ref=e39] [cursor=pointer]:
+            - img [ref=e42] [cursor=pointer]
+            - text: Предыдущее
+          - button "Далее" [active] [ref=e44] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e47] [cursor=pointer]
+      - generic [ref=e51]:
+        - generic [ref=e53]:
+          - generic [ref=e54] [cursor=pointer]:
+            - img [ref=e56] [cursor=pointer]
+            - generic [ref=e58] [cursor=pointer]: Описание
+          - generic [ref=e59]:
+            - img [ref=e61]
+            - generic [ref=e63]: Тесты
+        - generic [ref=e67]:
+          - generic [ref=e69]:
+            - text: Вычислите остаток от деления.
+            - generic [ref=e70]: 22 % 8
+          - generic [ref=e71]:
+            - paragraph [ref=e73]: Выбери все верные утверждения
+            - generic [ref=e74]:
+              - generic [ref=e77] [cursor=pointer]: "1"
+              - generic [ref=e80] [cursor=pointer]: "3"
+              - generic [ref=e83] [cursor=pointer]: "5"
+              - generic [ref=e86] [cursor=pointer]: "6"
+              - generic [ref=e89] [cursor=pointer]: "10"
+  - generic [ref=e95]:
+    - generic [ref=e96]:
+      - heading "Ваш прогресс не будет засчитан" [level=4] [ref=e97]
+      - generic [ref=e98]: Вы используете деморежим, поэтому ваши ответы не будут сохранены, и прогресс не будет засчитан.
+    - button "Хорошо" [ref=e99] [cursor=pointer]
+```
