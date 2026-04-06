@@ -1,0 +1,8 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e7]:
+  - generic [ref=e9]: Урок
+  - generic [ref=e10]: Контрольная работа №2. Мировые процессы и международные отношения в первой трети XX века. Первая мировая война
+  - button "Приступить" [ref=e11] [cursor=pointer]
+```

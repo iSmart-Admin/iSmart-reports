@@ -1,0 +1,65 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - region "Задача для решения" [ref=e26] [cursor=pointer]:
+        - generic [ref=e27] [cursor=pointer]:
+          - generic [ref=e29]:
+            - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e35]:
+              - generic [ref=e36]:
+                - button "1" [ref=e39] [cursor=pointer]
+                - button "2" [ref=e42] [cursor=pointer]
+                - button "3" [ref=e45] [cursor=pointer]
+                - button "4" [ref=e48] [cursor=pointer]
+                - button "5" [ref=e51] [cursor=pointer]
+                - button "6" [ref=e54] [cursor=pointer]
+              - generic [ref=e55]:
+                - button [disabled] [ref=e56]:
+                  - img [ref=e58]
+                - button [disabled] [ref=e61]:
+                  - img [ref=e63]
+          - generic [ref=e65] [cursor=pointer]:
+            - img [ref=e66] [cursor=pointer]
+            - heading "Ошибка загрузки задания" [level=1] [ref=e86] [cursor=pointer]
+            - paragraph [ref=e87] [cursor=pointer]: Приносим извинения за неудобства.
+      - generic [ref=e93]:
+        - generic [ref=e96]: Интеллектуальный тренажер
+        - button "Управление учениками" [ref=e102] [cursor=pointer]:
+          - img [ref=e105] [cursor=pointer]
+          - text: Управление учениками
+        - generic [ref=e107]:
+          - generic [ref=e109]:
+            - button "Черновик" [ref=e110] [cursor=pointer]:
+              - img [ref=e113] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e116] [cursor=pointer]:
+              - img [ref=e119] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - generic [ref=e121]:
+              - button "Часто задаваемые вопросы" [ref=e123] [cursor=pointer]:
+                - img [ref=e126] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+              - generic [ref=e128]:
+                - button "Информация об уроке" [ref=e130] [cursor=pointer]:
+                  - img [ref=e133] [cursor=pointer]
+                  - text: Информация об уроке
+                - generic [ref=e135]: Вы привязаны к школе ismart_Тест educont 2
+          - button "Пропустить" [ref=e137] [cursor=pointer]:
+            - text: Пропустить
+            - img [ref=e140] [cursor=pointer]
+```
