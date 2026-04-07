@@ -1,0 +1,94 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+        - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - region "Задача для решения" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e36]:
+                - generic [ref=e38]:
+                  - img [ref=e42]
+                  - heading "Какой цвет пропущен?" [level=4] [ref=e44]:
+                    - generic [ref=e46]: Какой цвет пропущен?
+                - generic [ref=e48]:
+                  - img "decore" [ref=e51]
+                  - table [ref=e56]:
+                    - rowgroup [ref=e57]:
+                      - row [ref=e58]:
+                        - cell [ref=e59]:
+                          - img [ref=e62]
+                        - cell [ref=e66]:
+                          - img [ref=e69]
+                        - cell [ref=e73]:
+                          - img [ref=e76]
+                        - cell [ref=e80]:
+                          - img [ref=e83]
+                        - cell [ref=e87]:
+                          - img [ref=e90]
+                        - cell [ref=e94]:
+                          - img [ref=e97]
+                        - cell [ref=e101]:
+                          - img [ref=e104]
+                        - cell [ref=e108]:
+                          - img [ref=e111]
+                - generic [ref=e118]:
+                  - img [ref=e124] [cursor=pointer]
+                  - img [ref=e133] [cursor=pointer]
+          - generic [ref=e144]:
+            - button [disabled] [ref=e146]:
+              - img [ref=e148]
+            - generic [ref=e151]: 100%
+            - button [ref=e153] [cursor=pointer]:
+              - img [ref=e155] [cursor=pointer]
+        - generic [ref=e160]:
+          - generic [ref=e163]: Интеллектуальный тренажер
+          - generic [ref=e167]:
+            - generic [ref=e172]: 1 из 15
+            - generic [ref=e176]:
+              - img [ref=e177]
+              - generic [ref=e179]: Вы вошли как ученик 9 «А»
+          - generic [ref=e180]:
+            - generic [ref=e182]:
+              - button "Пройти опрос" [ref=e183] [cursor=pointer]:
+                - generic [ref=e185] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e186] [cursor=pointer]:
+                - img [ref=e189] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e192] [cursor=pointer]:
+                - img [ref=e195] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e199] [cursor=pointer]:
+                - img [ref=e202] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e204]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e205] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e208] [cursor=pointer]
+              - generic [ref=e211]: 69d591e7a8906c00081c902b
+  - generic [ref=e219]:
+    - button [active] [ref=e221] [cursor=pointer]:
+      - img [ref=e224] [cursor=pointer]
+    - generic [ref=e227]:
+      - heading "Этот опрос о вашем отношении к учебе. Здесь нет правильных ответов — важно только ваше мнение!" [level=1] [ref=e228]:
+        - text: Этот опрос о вашем отношении к учебе.
+        - text: Здесь нет правильных ответов — важно только ваше мнение!
+      - button "Начать" [ref=e229] [cursor=pointer]
+```
