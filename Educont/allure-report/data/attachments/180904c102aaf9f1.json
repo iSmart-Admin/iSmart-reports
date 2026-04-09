@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://edu.ismart.org/trpc/educont.checkAndParseToken?batch=1&input=%7B%220%22%3A%7B%22token%22%3A%22eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6ImEwMGIxOGk4LTJiODMtMDZnYS0waGg5LTdhZjMyMDViNTIxZy10ZWFjaGVyYXV0b3Rlc3QiLCJpc1RlYWNoZXIiOnRydWUsImlzRWR1Y29udERldmVsb3BlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjY4YjZkYWMzOWExNTliNDExODJiZDc1NCIsInNlY3Rpb25Qcm92aWRlcklkIjoiNjhiNmRhYzc5YTE1OWI0MTE4MmJkN2ExIiwidGhlbWVQcm92aWRlcklkIjoiNjhiNmRhYzg5YTE1OWI0MTE4MmJkN2IzIiwibGVzc29uUHJvdmlkZXJJZCI6IjY5YzYxZGJlMzViZmQ4MmFlOWFlNDAxYyIsImlhdCI6MTc3NTc3Mjc0MX0.S4fWSb-WPSm7DqUX-xupFhwmc0xzpmyj0T5TIqZzbYY%22%2C%22lessonId%22%3A%2269c61dbe35bfd82ae9ae401c%22%7D%7D",
+    "status": 400,
+    "payload": null,
+    "timestap": "10.04.2026, 01:12:24"
+  },
+  {
+    "url": "https://edu.ismart.org/trpc/educont.checkAndParseToken?batch=1&input=%7B%220%22%3A%7B%22token%22%3A%22eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6ImEwMGIxOGk4LTJiODMtMDZnYS0waGg5LTdhZjMyMDViNTIxZy10ZWFjaGVyYXV0b3Rlc3QiLCJpc1RlYWNoZXIiOnRydWUsImlzRWR1Y29udERldmVsb3BlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjY4YjZkYWMzOWExNTliNDExODJiZDc1NCIsInNlY3Rpb25Qcm92aWRlcklkIjoiNjhiNmRhYzc5YTE1OWI0MTE4MmJkN2ExIiwidGhlbWVQcm92aWRlcklkIjoiNjhiNmRhYzg5YTE1OWI0MTE4MmJkN2IzIiwibGVzc29uUHJvdmlkZXJJZCI6IjY5YzYxZGJlMzViZmQ4MmFlOWFlNDAxYyIsImlhdCI6MTc3NTc3Mjc0MX0.S4fWSb-WPSm7DqUX-xupFhwmc0xzpmyj0T5TIqZzbYY%22%2C%22lessonId%22%3A%2269c61dbe35bfd82ae9ae401c%22%7D%7D",
+    "status": 400,
+    "payload": null,
+    "timestap": "10.04.2026, 01:12:38"
+  }
+]
