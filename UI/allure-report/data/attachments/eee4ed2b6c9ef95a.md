@@ -1,0 +1,120 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - generic [ref=e10]:
+      - generic [ref=e13]:
+        - link "Каталог заданий" [ref=e15] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e18] [cursor=pointer]: Каталог заданий
+        - link "Кабинет родителя" [ref=e21] [cursor=pointer]:
+          - /url: /parent/dashboard
+          - generic [ref=e24] [cursor=pointer]: Кабинет родителя
+        - link "Рейтинг" [ref=e27] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e30] [cursor=pointer]: Рейтинг
+        - link "Магазин" [ref=e33] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e36] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e39] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e42] [cursor=pointer]: Помощник
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - button [ref=e47] [cursor=pointer]:
+            - img [ref=e49] [cursor=pointer]
+          - img [ref=e54] [cursor=pointer]
+        - generic [ref=e56] [cursor=pointer]:
+          - generic [ref=e59] [cursor=pointer]: Н
+          - generic [ref=e60] [cursor=pointer]:
+            - paragraph [ref=e61] [cursor=pointer]: Родитель
+            - paragraph [ref=e62] [cursor=pointer]: Николай
+          - img [ref=e64] [cursor=pointer]
+    - generic [ref=e71]:
+      - generic [ref=e75]:
+        - paragraph [ref=e79]: Интересные задания? Их на платформе множество!
+        - generic [ref=e81] [cursor=pointer]:
+          - button [ref=e82] [cursor=pointer]:
+            - img [ref=e84] [cursor=pointer]
+          - generic [ref=e86] [cursor=pointer]: Выбрать фильтры
+      - generic [ref=e92]:
+        - generic [ref=e94]:
+          - textbox "Научиться считать от 0 до 100" [ref=e96]: Слово
+          - img [ref=e99] [cursor=pointer]
+        - button "Найти задания" [active] [ref=e101] [cursor=pointer]
+      - generic [ref=e104]: Поиск по базе из 1 000 000 заданий
+      - generic [ref=e108]:
+        - heading "Каталог заданий" [level=1] [ref=e109]
+        - generic [ref=e110] [cursor=pointer]:
+          - generic [ref=e111] [cursor=pointer]:
+            - img [ref=e113] [cursor=pointer]
+            - generic [ref=e116] [cursor=pointer]:
+              - generic [ref=e118] [cursor=pointer]: Доступно заданий
+              - generic [ref=e119] [cursor=pointer]: 0 из 0
+          - button [ref=e120] [cursor=pointer]:
+            - img [ref=e122] [cursor=pointer]
+    - generic [ref=e125]:
+      - generic [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e131]:
+            - img [ref=e133]
+            - link "8 (800) 600-44-02" [ref=e135] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e136]:
+            - generic [ref=e137]: "@"
+            - link "support@ismart.org" [ref=e138] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e139]:
+            - img [ref=e141]
+            - generic [ref=e143]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e144]:
+          - link "Наш сайт" [ref=e147] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e149] [cursor=pointer]
+          - generic [ref=e151]:
+            - link "Лицензия" [ref=e153] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика конфиденциальности" [ref=e155] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e157] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e159] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e161] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e163]:
+        - generic [ref=e164]:
+          - link [ref=e165] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e169] [cursor=pointer]
+          - generic [ref=e172]:
+            - link "okIcon" [ref=e173] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e174] [cursor=pointer]
+            - link "dzenIcon" [ref=e175] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e176] [cursor=pointer]
+            - link "vkIcon" [ref=e177] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e178] [cursor=pointer]
+        - generic [ref=e180]:
+          - generic [ref=e182]:
+            - generic [ref=e183]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e184] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e185]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e186] [cursor=pointer]:
+                - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e187]:
+            - generic [ref=e188]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e189] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e190]: © iSmart, 2018-2026
+  - generic [ref=e191]:
+    - img [ref=e194] [cursor=pointer]
+    - generic [ref=e196]: v.7.10.3
+```

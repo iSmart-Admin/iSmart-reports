@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://beta.ismart.org/cubejs-api/v1/load?query=%7B%22dimensions%22%3A%5B%22Class.classId%22%5D%2C%22filters%22%3A%5B%7B%22member%22%3A%22ClassroomLink.classroomId%22%2C%22operator%22%3A%22equals%22%2C%22values%22%3A%5Bnull%5D%7D%5D%7D&queryType=multi",
+    "status": 400,
+    "payload": null,
+    "timestap": "09.04.2026, 14:31:50"
+  },
+  {
+    "url": "https://beta.ismart.org/cubejs-api/v1/load?query=%7B%22dimensions%22%3A%5B%22Class.classId%22%5D%2C%22filters%22%3A%5B%7B%22member%22%3A%22ClassroomLink.classroomId%22%2C%22operator%22%3A%22equals%22%2C%22values%22%3A%5B%22634cfe1be78bc65adbe8eaa8%22%5D%7D%5D%7D&queryType=multi",
+    "status": 400,
+    "payload": null,
+    "timestap": "09.04.2026, 14:31:50"
+  },
+  {
+    "url": "https://beta.ismart.org/cubejs-api/v1/load?query=%7B%22measures%22%3A%5B%22TaskSolved.experienceSum%22%5D%2C%22order%22%3A%7B%22TaskSolved.experienceSum%22%3A%22desc%22%7D%2C%22dimensions%22%3A%5B%22School.shortName%22%2C%22SchoolUserLink.schoolUuid%22%2C%22School.locality%22%5D%2C%22filters%22%3A%5B%7B%22member%22%3A%22TaskSolved.experienceSum%22%2C%22operator%22%3A%22gt%22%2C%22values%22%3A%5B%220%22%5D%7D%2C%7B%22member%22%3A%22TaskSolved.createDate%22%2C%22operator%22%3A%22gt%22%2C%22values%22%3A%5B%222023-09-01%22%5D%7D%2C%7B%22member%22%3A%22TaskSolved.createDate%22%2C%22operator%22%3A%22lt%22%2C%22values%22%3A%5B%222024-01-01%22%5D%7D%5D%7D&queryType=multi",
+    "status": 400,
+    "payload": null,
+    "timestap": "09.04.2026, 14:31:50"
+  },
+  {
+    "url": "https://beta.ismart.org/cubejs-api/v1/load?query=%7B%22filters%22%3A%5B%7B%22member%22%3A%22ClassroomLink.classroomId%22%2C%22operator%22%3A%22equals%22%2C%22values%22%3A%5B%22634cfe1be78bc65adbe8eaa8%22%5D%7D%2C%7B%22member%22%3A%22TaskSolved.experienceSum%22%2C%22operator%22%3A%22gt%22%2C%22values%22%3A%5B%220%22%5D%7D%2C%7B%22member%22%3A%22TaskSolved.createDate%22%2C%22operator%22%3A%22gt%22%2C%22values%22%3A%5B%222023-09-01%22%5D%7D%2C%7B%22member%22%3A%22TaskSolved.createDate%22%2C%22operator%22%3A%22lt%22%2C%22values%22%3A%5B%222024-01-01%22%5D%7D%5D%2C%22dimensions%22%3A%5B%22Student.firstName%22%2C%22ClassroomLink.studentId%22%2C%22Student.avatar%22%2C%22Student.avatarSkin%22%5D%2C%22order%22%3A%7B%22TaskSolved.experienceSum%22%3A%22desc%22%7D%2C%22measures%22%3A%5B%22TaskSolved.experienceSum%22%5D%2C%22timeDimensions%22%3A%5B%7B%22dimension%22%3A%22TaskSolved.createDate%22%7D%5D%7D&queryType=multi",
+    "status": 400,
+    "payload": null,
+    "timestap": "09.04.2026, 14:31:50"
+  },
+  {
+    "url": "https://beta.ismart.org/cubejs-api/v1/load?query=%7B%22measures%22%3A%5B%22TaskSolved.experienceSum%22%5D%2C%22order%22%3A%7B%22TaskSolved.experienceSum%22%3A%22desc%22%7D%2C%22dimensions%22%3A%5B%22School.shortName%22%2C%22SchoolUserLink.schoolUuid%22%2C%22School.locality%22%5D%2C%22filters%22%3A%5B%7B%22member%22%3A%22TaskSolved.experienceSum%22%2C%22operator%22%3A%22gt%22%2C%22values%22%3A%5B%220%22%5D%7D%2C%7B%22member%22%3A%22TaskSolved.createDate%22%2C%22operator%22%3A%22gt%22%2C%22values%22%3A%5B%222023-09-01%22%5D%7D%2C%7B%22member%22%3A%22TaskSolved.createDate%22%2C%22operator%22%3A%22lt%22%2C%22values%22%3A%5B%222024-01-01%22%5D%7D%5D%7D&queryType=multi",
+    "status": 400,
+    "payload": null,
+    "timestap": "09.04.2026, 14:31:50"
+  }
+]
