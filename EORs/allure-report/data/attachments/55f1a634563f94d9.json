@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query limitData {\n  limitData {\n    limitUsage\n    limitMax\n  }\n}\n"
+    },
+    "timestap": "09.04.2026, 03:15:27"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query UserBalance {\n  userBalance\n}\n"
+    },
+    "timestap": "09.04.2026, 03:15:27"
+  }
+]

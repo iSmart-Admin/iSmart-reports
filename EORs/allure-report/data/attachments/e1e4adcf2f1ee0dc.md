@@ -1,0 +1,238 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Литература 8.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "5" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e31] [cursor=pointer]:
+          - img [ref=e35] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e61]:
+          - img [ref=e65]
+          - text: "11"
+      - generic [ref=e68]:
+        - generic [ref=e72]:
+          - img [ref=e75]
+          - textbox "Поиск по подтемам" [ref=e78]
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic [ref=e81] [cursor=pointer]:
+              - generic [ref=e83] [cursor=pointer]: Темы
+              - button [ref=e85] [cursor=pointer]:
+                - img [ref=e87] [cursor=pointer]
+            - generic [ref=e89] [cursor=pointer]:
+              - generic [ref=e92] [cursor=pointer]: Литература конца XIX – начала XX века. А.И. Куприн
+              - img [ref=e94] [cursor=pointer]
+            - generic [ref=e96] [cursor=pointer]:
+              - generic [ref=e99] [cursor=pointer]: Литература конца XIX – начала XX века. Л.Н. Андреев
+              - img [ref=e101] [cursor=pointer]
+            - generic [ref=e103] [cursor=pointer]:
+              - generic [ref=e106] [cursor=pointer]: Литература конца XIX – начала XX века. М. Горький
+              - img [ref=e108] [cursor=pointer]
+            - generic [ref=e110] [cursor=pointer]:
+              - generic [ref=e113] [cursor=pointer]: Стихотворения поэтов Серебряного века
+              - img [ref=e115] [cursor=pointer]
+            - generic [ref=e117] [cursor=pointer]:
+              - generic [ref=e120] [cursor=pointer]: Литература XX века. И.А. Бунин
+              - img [ref=e122] [cursor=pointer]
+            - generic [ref=e124] [cursor=pointer]:
+              - generic [ref=e127] [cursor=pointer]: Литература XX века. А.А. Блок
+              - img [ref=e129] [cursor=pointer]
+            - generic [ref=e131] [cursor=pointer]:
+              - generic [ref=e134] [cursor=pointer]: Литература XX века. В.В. Маяковский
+              - img [ref=e136] [cursor=pointer]
+            - generic [ref=e138] [cursor=pointer]:
+              - generic [ref=e141] [cursor=pointer]: Литература XX века. С.А. Есенин
+              - img [ref=e143] [cursor=pointer]
+            - generic [ref=e145] [cursor=pointer]:
+              - generic [ref=e148] [cursor=pointer]: Литература XX века. О.Э. Мандельштам
+              - img [ref=e150] [cursor=pointer]
+            - generic [ref=e152] [cursor=pointer]:
+              - generic [ref=e155] [cursor=pointer]: Литература XX века. М.И. Цветаева
+              - img [ref=e157] [cursor=pointer]
+            - generic [ref=e159] [cursor=pointer]:
+              - generic [ref=e162] [cursor=pointer]: Литература XX века. А.А. Ахматова
+              - img [ref=e164] [cursor=pointer]
+            - generic [ref=e166] [cursor=pointer]:
+              - generic [ref=e169] [cursor=pointer]: Литература XX века. Н.А. Островский
+              - img [ref=e171] [cursor=pointer]
+            - generic [ref=e173] [cursor=pointer]:
+              - generic [ref=e176] [cursor=pointer]: Литература XX века. М.А. Шолохов
+              - img [ref=e178] [cursor=pointer]
+            - generic [ref=e180] [cursor=pointer]:
+              - generic [ref=e183] [cursor=pointer]: Литература XX века. М.А. Булгаков
+              - img [ref=e185] [cursor=pointer]
+            - generic [ref=e187] [cursor=pointer]:
+              - generic [ref=e190] [cursor=pointer]: Литература XX века. А.П. Платонов
+              - img [ref=e192] [cursor=pointer]
+            - generic [ref=e194] [cursor=pointer]:
+              - generic [ref=e197] [cursor=pointer]: Литература XX века. А.Т. Твардовский
+              - img [ref=e199] [cursor=pointer]
+            - generic [ref=e201] [cursor=pointer]:
+              - generic [ref=e204] [cursor=pointer]: Проза о Великой Отечественной войне
+              - img [ref=e206] [cursor=pointer]
+            - generic [ref=e208] [cursor=pointer]:
+              - generic [ref=e211] [cursor=pointer]: Проза о Великой Отечественной войне. А.А. Фадеев
+              - img [ref=e213] [cursor=pointer]
+            - generic [ref=e215] [cursor=pointer]:
+              - generic [ref=e218] [cursor=pointer]: Проза о Великой Отечественной войне. В.О. Богомолов
+              - img [ref=e220] [cursor=pointer]
+            - generic [ref=e222] [cursor=pointer]:
+              - generic [ref=e225] [cursor=pointer]: Поэзия о Великой Отечественной войне
+              - img [ref=e227] [cursor=pointer]
+            - generic [ref=e229] [cursor=pointer]:
+              - generic [ref=e232] [cursor=pointer]: Драматургия о Великой Отечественной войне
+              - img [ref=e234] [cursor=pointer]
+            - generic [ref=e236] [cursor=pointer]:
+              - generic [ref=e239] [cursor=pointer]: Литература ХХ века. Б.Л. Пастернак
+              - img [ref=e241] [cursor=pointer]
+            - generic [ref=e243] [cursor=pointer]:
+              - generic [ref=e246] [cursor=pointer]: Литература ХХ века. А.И. Солженицын
+              - img [ref=e248] [cursor=pointer]
+            - generic [ref=e250] [cursor=pointer]:
+              - generic [ref=e253] [cursor=pointer]: Литература ХХ века. В.М. Шукшин
+              - img [ref=e255] [cursor=pointer]
+            - generic [ref=e258] [cursor=pointer]:
+              - generic [ref=e261] [cursor=pointer]: Литература ХХ века. В.Г. Распутин
+              - img [ref=e263] [cursor=pointer]
+            - generic [ref=e265] [cursor=pointer]:
+              - generic [ref=e268] [cursor=pointer]: Литература ХХ века. Н.М. Рубцов
+              - img [ref=e270] [cursor=pointer]
+            - generic [ref=e272] [cursor=pointer]:
+              - generic [ref=e275] [cursor=pointer]: Литература ХХ века. И.А. Бродский
+              - img [ref=e277] [cursor=pointer]
+            - generic [ref=e279] [cursor=pointer]:
+              - generic [ref=e282] [cursor=pointer]: Проза второй половины ХХ – начала ХХI века
+              - img [ref=e284] [cursor=pointer]
+            - generic [ref=e286] [cursor=pointer]:
+              - generic [ref=e289] [cursor=pointer]: Поэзия второй половины XX – начала XXI века
+              - img [ref=e291] [cursor=pointer]
+            - generic [ref=e293] [cursor=pointer]:
+              - generic [ref=e296] [cursor=pointer]: Драматургия второй половины ХХ – начала ХХI века
+              - img [ref=e298] [cursor=pointer]
+            - generic [ref=e300] [cursor=pointer]:
+              - generic [ref=e303] [cursor=pointer]: Литература народов России
+              - img [ref=e305] [cursor=pointer]
+            - generic [ref=e307] [cursor=pointer]:
+              - generic [ref=e310] [cursor=pointer]: Зарубежная проза XX века
+              - img [ref=e312] [cursor=pointer]
+            - generic [ref=e314] [cursor=pointer]:
+              - generic [ref=e317] [cursor=pointer]: Зарубежная поэзия XX века
+              - img [ref=e319] [cursor=pointer]
+            - generic [ref=e321] [cursor=pointer]:
+              - generic [ref=e324] [cursor=pointer]: Зарубежная драматургия XX века
+              - img [ref=e326] [cursor=pointer]
+            - generic [ref=e328] [cursor=pointer]:
+              - generic [ref=e331] [cursor=pointer]: Дополнительные материалы
+              - img [ref=e333] [cursor=pointer]
+          - generic [ref=e339]:
+            - link "1. Страницы жизни и творчества В.Г. Распутина" [ref=e340] [cursor=pointer]:
+              - /url: /learn/69a9e96fdf5a1f00077f809d/69a9e784df5a1f00077e91c8/68ab5e96d608c00007181c48/69a9e87bdf5a1f00077f2a28/
+              - generic [ref=e341] [cursor=pointer]:
+                - generic [ref=e343] [cursor=pointer]:
+                  - generic [ref=e345] [cursor=pointer]: "1."
+                  - paragraph [ref=e347] [cursor=pointer]: Страницы жизни и творчества В.Г. Распутина
+                - img [ref=e350] [cursor=pointer]
+            - link "2. Изображение патриархальной русской деревни в произведениях писателя" [ref=e352] [cursor=pointer]:
+              - /url: /learn/69a9e96fdf5a1f00077f809d/69a9e784df5a1f00077e91c8/68ab5e96d608c00007181c48/69a9e87bdf5a1f00077f2a29/
+              - generic [ref=e353] [cursor=pointer]:
+                - generic [ref=e355] [cursor=pointer]:
+                  - generic [ref=e357] [cursor=pointer]: "2."
+                  - paragraph [ref=e359] [cursor=pointer]: Изображение патриархальной русской деревни в произведениях писателя
+                - img [ref=e362] [cursor=pointer]
+            - 'link "3. «Прощание с Матерой»: тема памяти и преемственности поколений, взаимосвязь нравственных и экологических проблем в произведении" [active] [ref=e364] [cursor=pointer]':
+              - /url: /learn/69a9e96fdf5a1f00077f809d/69a9e784df5a1f00077e91c8/68ab5e96d608c00007181c48/69a9e87bdf5a1f00077f2a2a/
+              - generic [ref=e365] [cursor=pointer]:
+                - generic [ref=e367] [cursor=pointer]:
+                  - generic [ref=e369] [cursor=pointer]: "3."
+                  - paragraph [ref=e371] [cursor=pointer]: "«Прощание с Матерой»: тема памяти и преемственности поколений, взаимосвязь нравственных и экологических проблем в произведении"
+                - img [ref=e374] [cursor=pointer]
+  - generic [ref=e377]:
+    - generic [ref=e378]:
+      - generic [ref=e379]:
+        - generic [ref=e383]:
+          - img [ref=e385]
+          - link "8 (800) 600-44-02" [ref=e387] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e388]:
+          - generic [ref=e389]: "@"
+          - link "support@ismart.org" [ref=e390] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e391]:
+          - img [ref=e393]
+          - generic [ref=e395]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e396]:
+        - link "Наш сайт" [ref=e399] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e401] [cursor=pointer]
+        - generic [ref=e403]:
+          - link "Лицензия" [ref=e405] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e407] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e409] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e411] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e413] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e415]:
+      - generic [ref=e416]:
+        - link [ref=e417] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e421] [cursor=pointer]
+        - generic [ref=e424]:
+          - link "okIcon" [ref=e425] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e426] [cursor=pointer]
+          - link "dzenIcon" [ref=e427] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e428] [cursor=pointer]
+          - link "vkIcon" [ref=e429] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e430] [cursor=pointer]
+      - generic [ref=e432]:
+        - generic [ref=e434]:
+          - generic [ref=e435]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e436] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e437]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e438] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e439]:
+          - generic [ref=e440]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e441] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e442]: © iSmart, 2018-2026
+```

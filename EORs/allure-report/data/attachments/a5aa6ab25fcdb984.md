@@ -1,0 +1,189 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Окружающий мир. 4.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "1" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e31]:
+          - img [ref=e35]
+          - text: "2"
+        - button "3" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "4"
+      - generic [ref=e50]:
+        - generic [ref=e54]:
+          - img [ref=e57]
+          - textbox "Поиск по подтемам" [ref=e60]
+        - generic [ref=e61]:
+          - generic [ref=e62]:
+            - generic [ref=e63] [cursor=pointer]:
+              - generic [ref=e65] [cursor=pointer]: Темы
+              - button [ref=e67] [cursor=pointer]:
+                - img [ref=e69] [cursor=pointer]
+            - generic [ref=e71] [cursor=pointer]:
+              - generic [ref=e74] [cursor=pointer]: Человек и общество. Наша Родина – Россия
+              - img [ref=e76] [cursor=pointer]
+            - generic [ref=e78] [cursor=pointer]:
+              - generic [ref=e81] [cursor=pointer]: Человек и общество. Семья. Родословная
+              - img [ref=e83] [cursor=pointer]
+            - generic [ref=e85] [cursor=pointer]:
+              - generic [ref=e88] [cursor=pointer]: Человек и общество. Культура поведения в общественных местах
+              - img [ref=e90] [cursor=pointer]
+            - generic [ref=e92] [cursor=pointer]:
+              - generic [ref=e95] [cursor=pointer]: Дополнительно. Человек и общество
+              - img [ref=e97] [cursor=pointer]
+            - generic [ref=e99] [cursor=pointer]:
+              - generic [ref=e102] [cursor=pointer]: Человек и природа. Методы познания природы. Земля и другие планеты, звезды и созвездия
+              - img [ref=e104] [cursor=pointer]
+            - generic [ref=e107] [cursor=pointer]:
+              - generic [ref=e110] [cursor=pointer]: Человек и природа. Многообразие растений
+              - img [ref=e112] [cursor=pointer]
+            - generic [ref=e114] [cursor=pointer]:
+              - generic [ref=e117] [cursor=pointer]: Человек и природа. Многообразие животных
+              - img [ref=e119] [cursor=pointer]
+            - generic [ref=e121] [cursor=pointer]:
+              - generic [ref=e124] [cursor=pointer]: Человек и природа. Красная книга России. Заповедники и природные парки
+              - img [ref=e126] [cursor=pointer]
+            - generic [ref=e128] [cursor=pointer]:
+              - generic [ref=e131] [cursor=pointer]: Дополнительно. Природа и рукотворный мир. Что нас окружает
+              - img [ref=e133] [cursor=pointer]
+            - generic [ref=e135] [cursor=pointer]:
+              - generic [ref=e138] [cursor=pointer]: Дополнительно. Глобус и карта
+              - img [ref=e140] [cursor=pointer]
+            - generic [ref=e142] [cursor=pointer]:
+              - generic [ref=e145] [cursor=pointer]: Дополнительно. Разнообразие растений
+              - img [ref=e147] [cursor=pointer]
+            - generic [ref=e149] [cursor=pointer]:
+              - generic [ref=e152] [cursor=pointer]: Дополнительно. Разнообразие животных
+              - img [ref=e154] [cursor=pointer]
+            - generic [ref=e156] [cursor=pointer]:
+              - generic [ref=e159] [cursor=pointer]: Дополнительно. Взаимосвязь природы и человека
+              - img [ref=e161] [cursor=pointer]
+            - generic [ref=e163] [cursor=pointer]:
+              - generic [ref=e166] [cursor=pointer]: Дополнительно. Организм человека
+              - img [ref=e168] [cursor=pointer]
+            - generic [ref=e170] [cursor=pointer]:
+              - generic [ref=e173] [cursor=pointer]: Правила безопасной жизнедеятельности. Здоровый образ жизни школьника
+              - img [ref=e175] [cursor=pointer]
+            - generic [ref=e177] [cursor=pointer]:
+              - generic [ref=e180] [cursor=pointer]: Правила безопасной жизнедеятельности. Безопасность в школе и общественном транспорте, безопасность в сети «Интернет»
+              - img [ref=e182] [cursor=pointer]
+            - generic [ref=e184] [cursor=pointer]:
+              - generic [ref=e187] [cursor=pointer]: Дополнительно. Правила безопасной жизнедеятельности
+              - img [ref=e189] [cursor=pointer]
+          - generic [ref=e195]:
+            - link "1. Многообразие растений. Внешний вид и места обитания" [ref=e196] [cursor=pointer]:
+              - /url: /learn/68ac9f45d7ff8c0007804fc4/68ac9e92d7ff8c00077f3ca5/68ac2d187c622300071b6fc4/68ac9ea4d7ff8c00077f6ddc/
+              - generic [ref=e197] [cursor=pointer]:
+                - generic [ref=e199] [cursor=pointer]:
+                  - generic [ref=e201] [cursor=pointer]: "1."
+                  - paragraph [ref=e203] [cursor=pointer]: Многообразие растений. Внешний вид и места обитания
+                - img [ref=e206] [cursor=pointer]
+            - link "2. Деревья, кустарники, травы" [ref=e208] [cursor=pointer]:
+              - /url: /learn/68ac9f45d7ff8c0007804fc4/68ac9e92d7ff8c00077f3ca5/68ac2d187c622300071b6fc4/68ac9ea4d7ff8c00077f6ddd/
+              - generic [ref=e209] [cursor=pointer]:
+                - generic [ref=e211] [cursor=pointer]:
+                  - generic [ref=e213] [cursor=pointer]: "2."
+                  - paragraph [ref=e215] [cursor=pointer]: Деревья, кустарники, травы
+                - img [ref=e218] [cursor=pointer]
+            - link "3. Дикорастущие и культурные растения" [ref=e220] [cursor=pointer]:
+              - /url: /learn/68ac9f45d7ff8c0007804fc4/68ac9e92d7ff8c00077f3ca5/68ac2d187c622300071b6fc4/68ac9ea4d7ff8c00077f6dde/
+              - generic [ref=e221] [cursor=pointer]:
+                - generic [ref=e223] [cursor=pointer]:
+                  - generic [ref=e225] [cursor=pointer]: "3."
+                  - paragraph [ref=e227] [cursor=pointer]: Дикорастущие и культурные растения
+                - img [ref=e230] [cursor=pointer]
+            - link "4. Связи в природе" [ref=e232] [cursor=pointer]:
+              - /url: /learn/68ac9f45d7ff8c0007804fc4/68ac9e92d7ff8c00077f3ca5/68ac2d187c622300071b6fc4/68ac9ea4d7ff8c00077f6ddb/
+              - generic [ref=e233] [cursor=pointer]:
+                - generic [ref=e235] [cursor=pointer]:
+                  - generic [ref=e237] [cursor=pointer]: "4."
+                  - paragraph [ref=e239] [cursor=pointer]: Связи в природе
+                - img [ref=e242] [cursor=pointer]
+            - link "5 Годовой ход изменений в жизни растений" [active] [ref=e244] [cursor=pointer]:
+              - /url: /learn/68ac9f45d7ff8c0007804fc4/68ac9e92d7ff8c00077f3ca5/68ac2d187c622300071b6fc4/68ac9ea4d7ff8c00077f6ddf/
+              - generic [ref=e245] [cursor=pointer]:
+                - generic [ref=e247] [cursor=pointer]:
+                  - generic [ref=e249] [cursor=pointer]: "5"
+                  - paragraph [ref=e251] [cursor=pointer]: Годовой ход изменений в жизни растений
+                - img [ref=e254] [cursor=pointer]
+  - generic [ref=e257]:
+    - generic [ref=e258]:
+      - generic [ref=e259]:
+        - generic [ref=e263]:
+          - img [ref=e265]
+          - link "8 (800) 600-44-02" [ref=e267] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e268]:
+          - generic [ref=e269]: "@"
+          - link "support@ismart.org" [ref=e270] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e271]:
+          - img [ref=e273]
+          - generic [ref=e275]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e276]:
+        - link "Наш сайт" [ref=e279] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e281] [cursor=pointer]
+        - generic [ref=e283]:
+          - link "Лицензия" [ref=e285] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e287] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e289] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e291] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e293] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e295]:
+      - generic [ref=e296]:
+        - link [ref=e297] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e301] [cursor=pointer]
+        - generic [ref=e304]:
+          - link "okIcon" [ref=e305] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e306] [cursor=pointer]
+          - link "dzenIcon" [ref=e307] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e308] [cursor=pointer]
+          - link "vkIcon" [ref=e309] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e310] [cursor=pointer]
+      - generic [ref=e312]:
+        - generic [ref=e314]:
+          - generic [ref=e315]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e316] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e317]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e318] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e319]:
+          - generic [ref=e320]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e321] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e322]: © iSmart, 2018-2026
+```

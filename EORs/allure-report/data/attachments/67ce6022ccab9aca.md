@@ -1,0 +1,206 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e19]: Литература. 3.1
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - button "5" [ref=e25] [cursor=pointer]:
+          - img [ref=e29] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e31]:
+          - img [ref=e35]
+          - text: "6"
+        - button "7" [ref=e37] [cursor=pointer]:
+          - img [ref=e41] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e43] [cursor=pointer]:
+          - img [ref=e47] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e49] [cursor=pointer]:
+          - img [ref=e53] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e55] [cursor=pointer]:
+          - img [ref=e59] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e61] [cursor=pointer]:
+          - img [ref=e65] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e68]:
+        - generic [ref=e72]:
+          - img [ref=e75]
+          - textbox "Поиск по подтемам" [ref=e78]
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic [ref=e81] [cursor=pointer]:
+              - generic [ref=e83] [cursor=pointer]: Темы
+              - button [ref=e85] [cursor=pointer]:
+                - img [ref=e87] [cursor=pointer]
+            - generic [ref=e89] [cursor=pointer]:
+              - generic [ref=e92] [cursor=pointer]: Античная литература
+              - img [ref=e94] [cursor=pointer]
+            - generic [ref=e96] [cursor=pointer]:
+              - generic [ref=e99] [cursor=pointer]: Устное народное творчество
+              - img [ref=e101] [cursor=pointer]
+            - generic [ref=e103] [cursor=pointer]:
+              - generic [ref=e106] [cursor=pointer]: Древнерусская литература
+              - img [ref=e108] [cursor=pointer]
+            - generic [ref=e110] [cursor=pointer]:
+              - generic [ref=e113] [cursor=pointer]: Литература первой половины XIX века. А.С. Пушкин. Лирика. Роман «Дубровский»
+              - img [ref=e115] [cursor=pointer]
+            - generic [ref=e117] [cursor=pointer]:
+              - generic [ref=e120] [cursor=pointer]: Литература первой половины XIX века. М.Ю. Лермонтов. Лирика
+              - img [ref=e122] [cursor=pointer]
+            - generic [ref=e124] [cursor=pointer]:
+              - generic [ref=e127] [cursor=pointer]: Литература первой половины XIX века. А. В. Кольцов. Лирика
+              - img [ref=e129] [cursor=pointer]
+            - generic [ref=e131] [cursor=pointer]:
+              - generic [ref=e134] [cursor=pointer]: Литература второй половины XIX века. Ф.И. Тютчев. Лирика
+              - img [ref=e136] [cursor=pointer]
+            - generic [ref=e138] [cursor=pointer]:
+              - generic [ref=e141] [cursor=pointer]: Литература второй половины XIX века. А.А. Фет. Лирика
+              - img [ref=e143] [cursor=pointer]
+            - generic [ref=e145] [cursor=pointer]:
+              - generic [ref=e148] [cursor=pointer]: Литература второй половины XIX века. И.С. Тургенев. Рассказ «Бежин луг»
+              - img [ref=e150] [cursor=pointer]
+            - generic [ref=e152] [cursor=pointer]:
+              - generic [ref=e155] [cursor=pointer]: Литература второй половины XIX века. Н.С. Лесков. «Левша»
+              - img [ref=e157] [cursor=pointer]
+            - generic [ref=e159] [cursor=pointer]:
+              - generic [ref=e162] [cursor=pointer]: Литература второй половины XIX века. Л.Н. Толстой. Повесть «Детство»
+              - img [ref=e164] [cursor=pointer]
+            - generic [ref=e167] [cursor=pointer]:
+              - generic [ref=e170] [cursor=pointer]: Литература второй половины XIX века. А.П. Чехов «Толстый и тонкий», «Хамелеон», «Смерть чиновника»
+              - img [ref=e172] [cursor=pointer]
+            - generic [ref=e174] [cursor=pointer]:
+              - generic [ref=e177] [cursor=pointer]: Литература второй половины XIX века. А.И. Куприн. Рассказ «Чудесный доктор»
+              - img [ref=e179] [cursor=pointer]
+            - generic [ref=e181] [cursor=pointer]:
+              - generic [ref=e184] [cursor=pointer]: Литература XX века (стихи русских поэтов начала века)
+              - img [ref=e186] [cursor=pointer]
+            - generic [ref=e188] [cursor=pointer]:
+              - generic [ref=e191] [cursor=pointer]: Литература XX века (стихи русских поэтов второй половины века)
+              - img [ref=e193] [cursor=pointer]
+            - generic [ref=e195] [cursor=pointer]:
+              - generic [ref=e198] [cursor=pointer]: Проза отечественных писателей конца XX — начала XXI века о Великой Отечественной войне
+              - img [ref=e200] [cursor=pointer]
+            - generic [ref=e202] [cursor=pointer]:
+              - generic [ref=e205] [cursor=pointer]: Проза отечественных писателей конца XX - начала XXI века. В.Г. Распутин. «Уроки французского»
+              - img [ref=e207] [cursor=pointer]
+            - generic [ref=e209] [cursor=pointer]:
+              - generic [ref=e212] [cursor=pointer]: Произведения отечественных писателей на тему взросления человека
+              - img [ref=e214] [cursor=pointer]
+            - generic [ref=e216] [cursor=pointer]:
+              - generic [ref=e219] [cursor=pointer]: Произведения современных отечественных писателей-фантастов
+              - img [ref=e221] [cursor=pointer]
+            - generic [ref=e223] [cursor=pointer]:
+              - generic [ref=e226] [cursor=pointer]: Литература народов Российской Федерации. К. Кулиев
+              - img [ref=e228] [cursor=pointer]
+            - generic [ref=e230] [cursor=pointer]:
+              - generic [ref=e233] [cursor=pointer]: Зарубежная литература
+              - img [ref=e235] [cursor=pointer]
+            - generic [ref=e237] [cursor=pointer]:
+              - generic [ref=e240] [cursor=pointer]: Произведения зарубежных писателей на тему взросления человека
+              - img [ref=e242] [cursor=pointer]
+          - generic [ref=e248]:
+            - link "1. Разоблачение лицемерия и чинопочитания в рассказе «Толстый и тонкий»" [ref=e249] [cursor=pointer]:
+              - /url: /learn/69aabb52df5a1f0007958b2f/69aab06bdf5a1f000793f18b/68ab5e3bd608c0000717a356/69aab08bdf5a1f00079400a3/
+              - generic [ref=e250] [cursor=pointer]:
+                - generic [ref=e252] [cursor=pointer]:
+                  - generic [ref=e254] [cursor=pointer]: "1."
+                  - paragraph [ref=e256] [cursor=pointer]: Разоблачение лицемерия и чинопочитания в рассказе «Толстый и тонкий»
+                - img [ref=e259] [cursor=pointer]
+            - link "2. Разоблачение лицемерия и чинопочитания в рассказе «Хамелеон»" [ref=e261] [cursor=pointer]:
+              - /url: /learn/69aabb52df5a1f0007958b2f/69aab06bdf5a1f000793f18b/68ab5e3bd608c0000717a356/69aab08bdf5a1f00079400a4/
+              - generic [ref=e262] [cursor=pointer]:
+                - generic [ref=e264] [cursor=pointer]:
+                  - generic [ref=e266] [cursor=pointer]: "2."
+                  - paragraph [ref=e268] [cursor=pointer]: Разоблачение лицемерия и чинопочитания в рассказе «Хамелеон»
+                - img [ref=e271] [cursor=pointer]
+            - link "3. Разоблачение лицемерия и чинопочитания в рассказе «Смерть чиновника»" [ref=e273] [cursor=pointer]:
+              - /url: /learn/69aabb52df5a1f0007958b2f/69aab06bdf5a1f000793f18b/68ab5e3bd608c0000717a356/69aab08bdf5a1f00079400a5/
+              - generic [ref=e274] [cursor=pointer]:
+                - generic [ref=e276] [cursor=pointer]:
+                  - generic [ref=e278] [cursor=pointer]: "3."
+                  - paragraph [ref=e280] [cursor=pointer]: Разоблачение лицемерия и чинопочитания в рассказе «Смерть чиновника»
+                - img [ref=e283] [cursor=pointer]
+            - link "4. Роль художественной детали" [active] [ref=e285] [cursor=pointer]:
+              - /url: /learn/69aabb52df5a1f0007958b2f/69aab06bdf5a1f000793f18b/68ab5e3bd608c0000717a356/69aab08bdf5a1f00079400a6/
+              - generic [ref=e286] [cursor=pointer]:
+                - generic [ref=e288] [cursor=pointer]:
+                  - generic [ref=e290] [cursor=pointer]: "4."
+                  - paragraph [ref=e292] [cursor=pointer]: Роль художественной детали
+                - img [ref=e295] [cursor=pointer]
+  - generic [ref=e298]:
+    - generic [ref=e299]:
+      - generic [ref=e300]:
+        - generic [ref=e304]:
+          - img [ref=e306]
+          - link "8 (800) 600-44-02" [ref=e308] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e309]:
+          - generic [ref=e310]: "@"
+          - link "support@ismart.org" [ref=e311] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e312]:
+          - img [ref=e314]
+          - generic [ref=e316]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e317]:
+        - link "Наш сайт" [ref=e320] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e322] [cursor=pointer]
+        - generic [ref=e324]:
+          - link "Лицензия" [ref=e326] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e328] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e330] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e332] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e334] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e336]:
+      - generic [ref=e337]:
+        - link [ref=e338] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e342] [cursor=pointer]
+        - generic [ref=e345]:
+          - link "okIcon" [ref=e346] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e347] [cursor=pointer]
+          - link "dzenIcon" [ref=e348] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e349] [cursor=pointer]
+          - link "vkIcon" [ref=e350] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e351] [cursor=pointer]
+      - generic [ref=e353]:
+        - generic [ref=e355]:
+          - generic [ref=e356]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e357] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e358]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e359] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e360]:
+          - generic [ref=e361]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e362] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e363]: © iSmart, 2018-2026
+```

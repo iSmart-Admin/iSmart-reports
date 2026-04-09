@@ -1,0 +1,390 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Рейтинг" [ref=e21] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e24] [cursor=pointer]: Рейтинг
+      - link "Диагностика" [ref=e27] [cursor=pointer]:
+        - /url: /diagnostics
+        - generic [ref=e30] [cursor=pointer]: Диагностика
+      - link "Магазин" [ref=e33] [cursor=pointer]:
+        - /url: /shop/offers
+        - generic [ref=e36] [cursor=pointer]: Магазин
+      - link "Помощник" [ref=e39] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e42] [cursor=pointer]: Помощник
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - button [ref=e47] [cursor=pointer]:
+          - img [ref=e49] [cursor=pointer]
+        - img [ref=e54] [cursor=pointer]
+      - generic [ref=e56] [cursor=pointer]:
+        - generic [ref=e59] [cursor=pointer]: "?"
+        - generic [ref=e60] [cursor=pointer]:
+          - paragraph
+          - paragraph [ref=e61] [cursor=pointer]: Гость
+        - img [ref=e63] [cursor=pointer]
+  - generic [ref=e67]:
+    - generic [ref=e69]:
+      - button [ref=e70] [cursor=pointer]:
+        - img [ref=e72] [cursor=pointer]
+      - generic [ref=e76]: Обществознание 8.1
+    - generic [ref=e80]:
+      - generic [ref=e81]:
+        - heading "Купить со скидкой" [level=1] [ref=e82]
+        - heading "-70%" [level=1] [ref=e83]
+      - button "В магазин" [ref=e85] [cursor=pointer]:
+        - text: В магазин
+        - img [ref=e88] [cursor=pointer]
+    - generic [ref=e90]:
+      - generic [ref=e94]:
+        - button "6" [ref=e95] [cursor=pointer]:
+          - img [ref=e99] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e101] [cursor=pointer]:
+          - img [ref=e105] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e107] [cursor=pointer]:
+          - img [ref=e111] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e113] [cursor=pointer]:
+          - img [ref=e117] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e119] [cursor=pointer]:
+          - img [ref=e123] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e125]:
+          - img [ref=e129]
+          - text: "11"
+      - generic [ref=e132]:
+        - generic [ref=e136]:
+          - img [ref=e139]
+          - textbox "Поиск по подтемам" [ref=e142]
+        - generic [ref=e143]:
+          - generic [ref=e144]:
+            - generic [ref=e145] [cursor=pointer]:
+              - generic [ref=e147] [cursor=pointer]: Темы
+              - button [ref=e149] [cursor=pointer]:
+                - img [ref=e151] [cursor=pointer]
+            - generic [ref=e153] [cursor=pointer]:
+              - generic [ref=e156] [cursor=pointer]: Социология
+              - img [ref=e158] [cursor=pointer]
+            - generic [ref=e161] [cursor=pointer]:
+              - generic [ref=e164] [cursor=pointer]: Политика
+              - img [ref=e166] [cursor=pointer]
+            - generic [ref=e168] [cursor=pointer]:
+              - generic [ref=e171] [cursor=pointer]: Право
+              - img [ref=e173] [cursor=pointer]
+          - generic [ref=e179]:
+            - link "1. Политическая власть и субъекты политики в современном обществе" [ref=e180] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae7a/
+              - generic [ref=e181] [cursor=pointer]:
+                - generic [ref=e183] [cursor=pointer]:
+                  - generic [ref=e185] [cursor=pointer]: "1."
+                  - paragraph [ref=e187] [cursor=pointer]: Политическая власть и субъекты политики в современном обществе
+                - img [ref=e190] [cursor=pointer]
+            - link "2. Структура, ресурсы и функции политической власти" [ref=e192] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae7b/
+              - generic [ref=e193] [cursor=pointer]:
+                - generic [ref=e195] [cursor=pointer]:
+                  - generic [ref=e197] [cursor=pointer]: "2."
+                  - paragraph [ref=e199] [cursor=pointer]: Структура, ресурсы и функции политической власти
+                - img [ref=e202] [cursor=pointer]
+            - link "3. Легитимность и легальность власти" [ref=e204] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae7c/
+              - generic [ref=e205] [cursor=pointer]:
+                - generic [ref=e207] [cursor=pointer]:
+                  - generic [ref=e209] [cursor=pointer]: "3."
+                  - paragraph [ref=e211] [cursor=pointer]: Легитимность и легальность власти
+                - img [ref=e214] [cursor=pointer]
+            - link "4. Политическая система общества, её структура и функции" [ref=e216] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae7d/
+              - generic [ref=e217] [cursor=pointer]:
+                - generic [ref=e219] [cursor=pointer]:
+                  - generic [ref=e221] [cursor=pointer]: "4."
+                  - paragraph [ref=e223] [cursor=pointer]: Политическая система общества, её структура и функции
+                - img [ref=e226] [cursor=pointer]
+            - link "5. Политическая система Российской Федерации на современном этапе" [ref=e228] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae7e/
+              - generic [ref=e229] [cursor=pointer]:
+                - generic [ref=e231] [cursor=pointer]:
+                  - generic [ref=e233] [cursor=pointer]: "5."
+                  - paragraph [ref=e235] [cursor=pointer]: Политическая система Российской Федерации на современном этапе
+                - img [ref=e238] [cursor=pointer]
+            - link "6. Государство как основной институт политической системы" [ref=e240] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae7f/
+              - generic [ref=e241] [cursor=pointer]:
+                - generic [ref=e243] [cursor=pointer]:
+                  - generic [ref=e245] [cursor=pointer]: "6."
+                  - paragraph [ref=e247] [cursor=pointer]: Государство как основной институт политической системы
+                - img [ref=e250] [cursor=pointer]
+            - link "7. Признаки государства" [ref=e252] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae80/
+              - generic [ref=e253] [cursor=pointer]:
+                - generic [ref=e255] [cursor=pointer]:
+                  - generic [ref=e257] [cursor=pointer]: "7."
+                  - paragraph [ref=e259] [cursor=pointer]: Признаки государства
+                - img [ref=e262] [cursor=pointer]
+            - link "8. Функции государства" [ref=e264] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae81/
+              - generic [ref=e265] [cursor=pointer]:
+                - generic [ref=e267] [cursor=pointer]:
+                  - generic [ref=e269] [cursor=pointer]: "8."
+                  - paragraph [ref=e271] [cursor=pointer]: Функции государства
+                - img [ref=e274] [cursor=pointer]
+            - link "9. Формы правления" [ref=e276] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae82/
+              - generic [ref=e277] [cursor=pointer]:
+                - generic [ref=e279] [cursor=pointer]:
+                  - generic [ref=e281] [cursor=pointer]: "9."
+                  - paragraph [ref=e283] [cursor=pointer]: Формы правления
+                - img [ref=e286] [cursor=pointer]
+            - link "10. Государственно-территориальное устройство" [ref=e288] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae83/
+              - generic [ref=e289] [cursor=pointer]:
+                - generic [ref=e291] [cursor=pointer]:
+                  - generic [ref=e293] [cursor=pointer]: "10."
+                  - paragraph [ref=e295] [cursor=pointer]: Государственно-территориальное устройство
+                - img [ref=e298] [cursor=pointer]
+            - link "11. Политический режим" [ref=e300] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae79/
+              - generic [ref=e301] [cursor=pointer]:
+                - generic [ref=e303] [cursor=pointer]:
+                  - generic [ref=e305] [cursor=pointer]: "11."
+                  - paragraph [ref=e307] [cursor=pointer]: Политический режим
+                - img [ref=e310] [cursor=pointer]
+            - link "12. Типы политических режимов" [ref=e312] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae84/
+              - generic [ref=e313] [cursor=pointer]:
+                - generic [ref=e315] [cursor=pointer]:
+                  - generic [ref=e317] [cursor=pointer]: "12."
+                  - paragraph [ref=e319] [cursor=pointer]: Типы политических режимов
+                - img [ref=e322] [cursor=pointer]
+            - link "13. Демократия, её основные ценности и признаки" [ref=e324] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae85/
+              - generic [ref=e325] [cursor=pointer]:
+                - generic [ref=e327] [cursor=pointer]:
+                  - generic [ref=e329] [cursor=pointer]: "13."
+                  - paragraph [ref=e331] [cursor=pointer]: Демократия, её основные ценности и признаки
+                - img [ref=e334] [cursor=pointer]
+            - link "14. Правовое государство" [ref=e336] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae78/
+              - generic [ref=e337] [cursor=pointer]:
+                - generic [ref=e339] [cursor=pointer]:
+                  - generic [ref=e341] [cursor=pointer]: "14."
+                  - paragraph [ref=e343] [cursor=pointer]: Правовое государство
+                - img [ref=e346] [cursor=pointer]
+            - link "15. Гражданское общество" [ref=e348] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae86/
+              - generic [ref=e349] [cursor=pointer]:
+                - generic [ref=e351] [cursor=pointer]:
+                  - generic [ref=e353] [cursor=pointer]: "15."
+                  - paragraph [ref=e355] [cursor=pointer]: Гражданское общество
+                - img [ref=e358] [cursor=pointer]
+            - link "16. Федеративное устройство Российской Федерации" [ref=e360] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae87/
+              - generic [ref=e361] [cursor=pointer]:
+                - generic [ref=e363] [cursor=pointer]:
+                  - generic [ref=e365] [cursor=pointer]: "16."
+                  - paragraph [ref=e367] [cursor=pointer]: Федеративное устройство Российской Федерации
+                - img [ref=e370] [cursor=pointer]
+            - link "17. Субъекты государственной власти в Российской Федерации" [ref=e372] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae88/
+              - generic [ref=e373] [cursor=pointer]:
+                - generic [ref=e375] [cursor=pointer]:
+                  - generic [ref=e377] [cursor=pointer]: "17."
+                  - paragraph [ref=e379] [cursor=pointer]: Субъекты государственной власти в Российской Федерации
+                - img [ref=e382] [cursor=pointer]
+            - link "18. Государственная служба и статус государственного служащего" [ref=e384] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae89/
+              - generic [ref=e385] [cursor=pointer]:
+                - generic [ref=e387] [cursor=pointer]:
+                  - generic [ref=e389] [cursor=pointer]: "18."
+                  - paragraph [ref=e391] [cursor=pointer]: Государственная служба и статус государственного служащего
+                - img [ref=e394] [cursor=pointer]
+            - link "19. Опасность коррупции, антикоррупционная политика государства, механизмы противодействия коррупции" [ref=e396] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae8a/
+              - generic [ref=e397] [cursor=pointer]:
+                - generic [ref=e399] [cursor=pointer]:
+                  - generic [ref=e401] [cursor=pointer]: "19."
+                  - paragraph [ref=e403] [cursor=pointer]: Опасность коррупции, антикоррупционная политика государства, механизмы противодействия коррупции
+                - img [ref=e406] [cursor=pointer]
+            - link "20. Политическая культура общества и личности" [ref=e408] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae8b/
+              - generic [ref=e409] [cursor=pointer]:
+                - generic [ref=e411] [cursor=pointer]:
+                  - generic [ref=e413] [cursor=pointer]: "20."
+                  - paragraph [ref=e415] [cursor=pointer]: Политическая культура общества и личности
+                - img [ref=e418] [cursor=pointer]
+            - link "21. Политическое участие. Формы участия граждан в политике" [ref=e420] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae8c/
+              - generic [ref=e421] [cursor=pointer]:
+                - generic [ref=e423] [cursor=pointer]:
+                  - generic [ref=e425] [cursor=pointer]: "21."
+                  - paragraph [ref=e427] [cursor=pointer]: Политическое участие. Формы участия граждан в политике
+                - img [ref=e430] [cursor=pointer]
+            - link "22. Причины абсентеизма" [ref=e432] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae8d/
+              - generic [ref=e433] [cursor=pointer]:
+                - generic [ref=e435] [cursor=pointer]:
+                  - generic [ref=e437] [cursor=pointer]: "22."
+                  - paragraph [ref=e439] [cursor=pointer]: Причины абсентеизма
+                - img [ref=e442] [cursor=pointer]
+            - link "23. Политический процесс" [ref=e444] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae8e/
+              - generic [ref=e445] [cursor=pointer]:
+                - generic [ref=e447] [cursor=pointer]:
+                  - generic [ref=e449] [cursor=pointer]: "23."
+                  - paragraph [ref=e451] [cursor=pointer]: Политический процесс
+                - img [ref=e454] [cursor=pointer]
+            - link "24. Политические партии как субъекты политики" [ref=e456] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae8f/
+              - generic [ref=e457] [cursor=pointer]:
+                - generic [ref=e459] [cursor=pointer]:
+                  - generic [ref=e461] [cursor=pointer]: "24."
+                  - paragraph [ref=e463] [cursor=pointer]: Политические партии как субъекты политики
+                - img [ref=e466] [cursor=pointer]
+            - link "25. Функции и виды политических партий" [ref=e468] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae6d/
+              - generic [ref=e469] [cursor=pointer]:
+                - generic [ref=e471] [cursor=pointer]:
+                  - generic [ref=e473] [cursor=pointer]: "25."
+                  - paragraph [ref=e475] [cursor=pointer]: Функции и виды политических партий
+                - img [ref=e478] [cursor=pointer]
+            - link "26. Типы партийных систем" [ref=e480] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae6e/
+              - generic [ref=e481] [cursor=pointer]:
+                - generic [ref=e483] [cursor=pointer]:
+                  - generic [ref=e485] [cursor=pointer]: "26."
+                  - paragraph [ref=e487] [cursor=pointer]: Типы партийных систем
+                - img [ref=e490] [cursor=pointer]
+            - link "27. Общественно-политические движения" [ref=e492] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae6f/
+              - generic [ref=e493] [cursor=pointer]:
+                - generic [ref=e495] [cursor=pointer]:
+                  - generic [ref=e497] [cursor=pointer]: "27."
+                  - paragraph [ref=e499] [cursor=pointer]: Общественно-политические движения
+                - img [ref=e502] [cursor=pointer]
+            - link "28. Политическая идеология, её роль в обществе" [ref=e504] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae70/
+              - generic [ref=e505] [cursor=pointer]:
+                - generic [ref=e507] [cursor=pointer]:
+                  - generic [ref=e509] [cursor=pointer]: "28."
+                  - paragraph [ref=e511] [cursor=pointer]: Политическая идеология, её роль в обществе
+                - img [ref=e514] [cursor=pointer]
+            - link "29. Виды политических идеологий" [ref=e516] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae71/
+              - generic [ref=e517] [cursor=pointer]:
+                - generic [ref=e519] [cursor=pointer]:
+                  - generic [ref=e521] [cursor=pointer]: "29."
+                  - paragraph [ref=e523] [cursor=pointer]: Виды политических идеологий
+                - img [ref=e526] [cursor=pointer]
+            - link "30. Избирательная система. Принципы избирательного права" [ref=e528] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae72/
+              - generic [ref=e529] [cursor=pointer]:
+                - generic [ref=e531] [cursor=pointer]:
+                  - generic [ref=e533] [cursor=pointer]: "30."
+                  - paragraph [ref=e535] [cursor=pointer]: Избирательная система. Принципы избирательного права
+                - img [ref=e538] [cursor=pointer]
+            - 'link "31. Типы избирательных систем: мажоритарная, пропорциональная и смешанная" [ref=e540] [cursor=pointer]':
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae73/
+              - generic [ref=e541] [cursor=pointer]:
+                - generic [ref=e543] [cursor=pointer]:
+                  - generic [ref=e545] [cursor=pointer]: "31."
+                  - paragraph [ref=e547] [cursor=pointer]: "Типы избирательных систем: мажоритарная, пропорциональная и смешанная"
+                - img [ref=e550] [cursor=pointer]
+            - link "32. Избирательная система Российской Федерации" [ref=e552] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae74/
+              - generic [ref=e553] [cursor=pointer]:
+                - generic [ref=e555] [cursor=pointer]:
+                  - generic [ref=e557] [cursor=pointer]: "32."
+                  - paragraph [ref=e559] [cursor=pointer]: Избирательная система Российской Федерации
+                - img [ref=e562] [cursor=pointer]
+            - link "33. Политическая элита и политическое лидерство" [ref=e564] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae75/
+              - generic [ref=e565] [cursor=pointer]:
+                - generic [ref=e567] [cursor=pointer]:
+                  - generic [ref=e569] [cursor=pointer]: "33."
+                  - paragraph [ref=e571] [cursor=pointer]: Политическая элита и политическое лидерство
+                - img [ref=e574] [cursor=pointer]
+            - link "34. Типология лидерства. Функции политического лидерства" [ref=e576] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae76/
+              - generic [ref=e577] [cursor=pointer]:
+                - generic [ref=e579] [cursor=pointer]:
+                  - generic [ref=e581] [cursor=pointer]: "34."
+                  - paragraph [ref=e583] [cursor=pointer]: Типология лидерства. Функции политического лидерства
+                - img [ref=e586] [cursor=pointer]
+            - link "35. Роль средств массовой информации в политической жизни общества. Интернет в современной политической коммуникации" [active] [ref=e588] [cursor=pointer]:
+              - /url: /learn/69a9ee47df5a1f000780c314/69a9ecc4df5a1f0007808c4d/68ab5e96d608c00007181c48/69a9ed61df5a1f000780ae77/
+              - generic [ref=e589] [cursor=pointer]:
+                - generic [ref=e591] [cursor=pointer]:
+                  - generic [ref=e593] [cursor=pointer]: "35."
+                  - paragraph [ref=e595] [cursor=pointer]: Роль средств массовой информации в политической жизни общества. Интернет в современной политической коммуникации
+                - img [ref=e598] [cursor=pointer]
+  - generic [ref=e601]:
+    - generic [ref=e602]:
+      - generic [ref=e603]:
+        - generic [ref=e607]:
+          - img [ref=e609]
+          - link "8 (800) 600-44-02" [ref=e611] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e612]:
+          - generic [ref=e613]: "@"
+          - link "support@ismart.org" [ref=e614] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e615]:
+          - img [ref=e617]
+          - generic [ref=e619]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e620]:
+        - link "Наш сайт" [ref=e623] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e625] [cursor=pointer]
+        - generic [ref=e627]:
+          - link "Лицензия" [ref=e629] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e631] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e633] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e635] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e637] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e639]:
+      - generic [ref=e640]:
+        - link [ref=e641] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e645] [cursor=pointer]
+        - generic [ref=e648]:
+          - link "okIcon" [ref=e649] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e650] [cursor=pointer]
+          - link "dzenIcon" [ref=e651] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e652] [cursor=pointer]
+          - link "vkIcon" [ref=e653] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e654] [cursor=pointer]
+      - generic [ref=e656]:
+        - generic [ref=e658]:
+          - generic [ref=e659]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e660] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e661]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e662] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e663]:
+          - generic [ref=e664]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e665] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e666]: © iSmart, 2018-2026
+```
