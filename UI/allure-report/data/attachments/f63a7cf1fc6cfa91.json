@@ -1,0 +1,8 @@
+[
+  {
+    "url": "https://edu.ismart.org/trpc/educont.getTask?batch=1&input=%7B%220%22%3A%7B%22taskId%22%3A%2261e081a09d1ded717ba80a22%22%2C%22lessonId%22%3A%226911ea1a7736c90d99b4e6ac%22%2C%22practiceId%22%3A%22691997f5ec16aa0007556a44%22%7D%7D",
+    "status": 500,
+    "payload": null,
+    "timestap": "09.04.2026, 15:10:54"
+  }
+]
