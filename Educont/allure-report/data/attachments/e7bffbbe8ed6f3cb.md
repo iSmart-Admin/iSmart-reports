@@ -1,0 +1,131 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+        - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - region "Задача для решения" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27] [cursor=pointer]:
+              - generic [ref=e29]:
+                - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                  - img [ref=e33] [cursor=pointer]
+                  - text: Вернуться обратно
+                - generic [ref=e35]:
+                  - generic [ref=e36]:
+                    - button "1" [ref=e39] [cursor=pointer]
+                    - button "2" [ref=e42] [cursor=pointer]
+                    - button "3" [ref=e45] [cursor=pointer]
+                  - generic [ref=e46]:
+                    - button [disabled] [ref=e47]:
+                      - img [ref=e49]
+                    - button [disabled] [ref=e52]:
+                      - img [ref=e54]
+              - generic [ref=e57]:
+                - generic [ref=e59]:
+                  - img [ref=e63]
+                  - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e65]:
+                    - generic [ref=e67]: Внесите ответ в специально предназначенное поле.
+                - generic [ref=e69]:
+                  - img "decore" [ref=e72]
+                  - generic [ref=e78]:
+                    - text: Электродвигатель с силой тока в цепи, равной
+                    - generic [ref=e80]:
+                      - math [ref=e82]:
+                        - generic [ref=e84]:
+                          - generic [ref=e85]: "0"
+                          - generic [ref=e86]: ","
+                          - generic [ref=e87]: "5"
+                          - generic [ref=e88]: А
+                      - generic [ref=e90]:
+                        - generic [ref=e91]: "0"
+                        - generic [ref=e92]: ","
+                        - generic [ref=e93]: "5"
+                        - generic [ref=e94]: А
+                    - text: ", и напряжением на клеммах, равным"
+                    - generic [ref=e96]:
+                      - math [ref=e98]:
+                        - generic [ref=e100]:
+                          - generic [ref=e101]: "12"
+                          - generic [ref=e102]: В
+                      - generic [ref=e104]:
+                        - generic [ref=e105]: "12"
+                        - generic [ref=e106]: В
+                    - text: ", совершает работу. Определите работу двигателя за"
+                    - generic [ref=e108]:
+                      - math [ref=e110]:
+                        - generic [ref=e112]:
+                          - generic [ref=e113]: "10"
+                          - generic [ref=e114]: мин
+                      - generic [ref=e116]:
+                        - generic [ref=e117]: "10"
+                        - generic [ref=e118]: мин
+                    - text: .
+                - generic [ref=e123]:
+                  - strong [ref=e124]: "Ответ:"
+                  - textbox [active] [ref=e125]
+                  - text: Дж.
+          - generic [ref=e131]:
+            - generic [ref=e134]:
+              - button [disabled] [ref=e136]:
+                - img [ref=e138]
+              - generic [ref=e141]: 100%
+              - button [ref=e143] [cursor=pointer]:
+                - img [ref=e145] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e150] [cursor=pointer]:
+              - generic [ref=e153] [cursor=pointer]: "2"
+              - generic [ref=e154] [cursor=pointer]: Показать подсказку
+        - generic [ref=e158]:
+          - generic [ref=e161]: Интеллектуальный тренажер
+          - button "Управление учениками" [ref=e167] [cursor=pointer]:
+            - img [ref=e170] [cursor=pointer]
+            - text: Управление учениками
+          - generic [ref=e172]:
+            - generic [ref=e174]:
+              - button "Черновик" [ref=e175] [cursor=pointer]:
+                - img [ref=e178] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e181] [cursor=pointer]:
+                - img [ref=e184] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - generic [ref=e186]:
+                - button "Часто задаваемые вопросы" [ref=e188] [cursor=pointer]:
+                  - img [ref=e191] [cursor=pointer]
+                  - text: Часто задаваемые вопросы
+                - generic [ref=e193]:
+                  - button "Информация об уроке" [ref=e195] [cursor=pointer]:
+                    - img [ref=e198] [cursor=pointer]
+                    - text: Информация об уроке
+                  - generic [ref=e200]: Вы привязаны к школе ismart_Тест educont 2
+            - generic [ref=e201]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Далее" [ref=e202] [cursor=pointer]:
+                - text: Далее
+                - img [ref=e205] [cursor=pointer]
+  - generic [ref=e214]:
+    - generic [ref=e216]:
+      - generic [ref=e217]:
+        - generic [ref=e220]:
+          - text: "Курс:"
+          - generic [ref=e221]: Закон Джоуля–Ленца.
+        - button [ref=e222] [cursor=pointer]:
+          - img [ref=e224] [cursor=pointer]
+      - heading "Широкие возможности урока от iSmart" [level=1] [ref=e232]
+    - generic [ref=e235]:
+      - button "<- Назад" [disabled] [ref=e236]
+      - button "Подробнее о курсе ->" [ref=e237] [cursor=pointer]
+```

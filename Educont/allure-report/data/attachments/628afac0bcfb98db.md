@@ -1,0 +1,99 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - region "Задача для решения" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+                - img [ref=e32] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e35]:
+                - generic [ref=e37]:
+                  - button "Воспроизвести аудио" [ref=e38] [cursor=pointer]:
+                    - generic:
+                      - img
+                  - heading "Раскрой скобки." [level=4] [ref=e39]:
+                    - generic [ref=e41]: Раскрой скобки.
+                - generic [ref=e43]:
+                  - button "Воспроизвести аудио" [ref=e44] [cursor=pointer]:
+                    - generic:
+                      - img
+                  - img [ref=e49]
+                - generic [ref=e55]:
+                  - text: к
+                  - generic [ref=e57]:
+                    - generic [ref=e58]: (
+                    - generic [ref=e59] [cursor=pointer]: а
+                    - generic [ref=e61] [cursor=pointer]: о
+                    - generic [ref=e62]: )
+                  - text: пуста
+          - generic [ref=e67]:
+            - generic [ref=e70]:
+              - button [disabled] [ref=e72]:
+                - img [ref=e74]
+              - generic [ref=e77]: 100%
+              - button [ref=e79] [cursor=pointer]:
+                - img [ref=e81] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e86] [cursor=pointer]:
+              - generic [ref=e89] [cursor=pointer]: "2"
+              - generic [ref=e90] [cursor=pointer]: Показать подсказку
+        - generic [ref=e94]:
+          - generic [ref=e97]: Интеллектуальный тренажер
+          - generic [ref=e101]:
+            - generic [ref=e106]: 1 из 15
+            - generic [ref=e108]:
+              - generic [ref=e109]: Для выполнения версии урока от учителя введите полученный код
+              - button "Ввести код от учителя" [ref=e111] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e114]:
+            - generic [ref=e116]:
+              - button "Пройти опрос" [ref=e117] [cursor=pointer]:
+                - generic [ref=e119] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e120] [cursor=pointer]:
+                - img [ref=e123] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e126] [cursor=pointer]:
+                - img [ref=e129] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e133] [cursor=pointer]:
+                - img [ref=e136] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e138]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e139] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e142] [cursor=pointer]
+              - generic [ref=e145]: 69d9d0b32156d90008948313
+  - generic [ref=e154]:
+    - heading "Внимательно повтори и запомни правило" [level=3] [ref=e155]
+    - generic [ref=e159]:
+      - strong [ref=e160]: Запомни!
+      - text: В русском языке есть слова, написание которых с помощью однокоренных слов
+      - strong [ref=e161]: проверить нельзя
+      - text: .
+      - text: Такие слова называются
+      - strong [ref=e162]:
+        - generic [ref=e164]: словарными
+      - text: ", потому что проверить их правописание можно только в"
+      - strong [ref=e165]: словаре
+      - text: .
+      - text: Но словарь не всегда есть под рукой, поэтому
+      - strong [ref=e166]: запомни
+      - text: ", как пишутся словарные слова."
+    - button "К решению" [active] [ref=e168] [cursor=pointer]:
+      - text: К решению
+      - img [ref=e171] [cursor=pointer]
+```
