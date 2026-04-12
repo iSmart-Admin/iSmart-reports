@@ -1,0 +1,109 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+        - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+      - generic [ref=e23]:
+        - generic [ref=e27]:
+          - generic [ref=e28]:
+            - generic [ref=e29]:
+              - generic [ref=e30]:
+                - generic [ref=e31]: Задания урока
+                - img "Подсказка" [ref=e32] [cursor=pointer]:
+                  - img [ref=e34] [cursor=pointer]
+              - generic [ref=e37]:
+                - button "1" [ref=e38] [cursor=pointer]
+                - button "2" [ref=e39] [cursor=pointer]
+                - button "3" [ref=e40] [cursor=pointer]
+                - button "4" [ref=e41] [cursor=pointer]
+                - button "5" [ref=e42] [cursor=pointer]
+                - button "6" [ref=e43] [cursor=pointer]
+                - button "7" [ref=e44] [cursor=pointer]
+                - button "8" [ref=e45] [cursor=pointer]
+                - button "9" [ref=e46] [cursor=pointer]
+                - button "10" [ref=e47] [cursor=pointer]
+                - button "11" [ref=e48] [cursor=pointer]
+                - button "12" [ref=e49] [cursor=pointer]
+                - button "13" [ref=e50] [cursor=pointer]
+                - button "+" [ref=e51] [cursor=pointer]
+              - button "Редактировать урок" [ref=e52] [cursor=pointer]
+            - generic [ref=e53]:
+              - generic [ref=e54]:
+                - generic [ref=e55]: Отчёты и аналитика
+                - img "Для учителей" [ref=e56] [cursor=pointer]:
+                  - img [ref=e58] [cursor=pointer]
+              - generic [ref=e60]:
+                - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+                - link "личном кабинете iSmart." [ref=e61] [cursor=pointer]:
+                  - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+              - button "Управление учениками" [ref=e62] [cursor=pointer]:
+                - generic [ref=e63] [cursor=pointer]: Управление учениками
+            - generic [ref=e64]:
+              - button "Заметки к уроку видны только вам" [ref=e65] [cursor=pointer]:
+                - generic [ref=e66] [cursor=pointer]:
+                  - img [ref=e68] [cursor=pointer]
+                  - generic [ref=e70] [cursor=pointer]: Заметки к уроку
+                - button "видны только вам" [ref=e71] [cursor=pointer]:
+                  - img [ref=e73] [cursor=pointer]
+              - button "Часто задаваемые вопросы" [ref=e75] [cursor=pointer]:
+                - generic [ref=e76] [cursor=pointer]:
+                  - img [ref=e78] [cursor=pointer]
+                  - generic [ref=e80] [cursor=pointer]: Часто задаваемые вопросы
+              - button "Сообщить об ошибке" [ref=e81] [cursor=pointer]:
+                - generic [ref=e82] [cursor=pointer]:
+                  - img [ref=e84] [cursor=pointer]
+                  - generic [ref=e86] [cursor=pointer]: Сообщить об ошибке
+          - generic [ref=e87] [cursor=pointer]:
+            - generic [ref=e88] [cursor=pointer]:
+              - img "schoolIcon" [ref=e89] [cursor=pointer]
+              - generic [ref=e90] [cursor=pointer]: ismart_Тест educont 2
+            - link "Перейти в личный кабинет" [ref=e91] [cursor=pointer]:
+              - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+              - img [ref=e93] [cursor=pointer]
+        - generic [ref=e97]:
+          - region "Задача для решения" [ref=e99] [cursor=pointer]:
+            - generic [ref=e102]:
+              - generic [ref=e104]:
+                - img [ref=e108]
+                - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e110]:
+                  - generic [ref=e112]: Внесите ответ в специально предназначенное поле.
+              - generic [ref=e114]:
+                - img "decore" [ref=e117]
+                - generic [ref=e123]:
+                  - text: Выберите из приведённого ниже списка все названия соцветий, которые могут быть у растений, принадлежащих к тому же семейству, что и Земляника лесная.
+                  - text: Впишите номера соцветий в поле ответов без пробелов.
+                  - text: 1) сложный колос; 2) щиток; 3) колос; 4) кисть; 5) головка; 6) початок; 7) серёжка.
+              - generic [ref=e128]:
+                - strong [ref=e129]: "Ответ:"
+                - textbox [active] [ref=e130]
+                - text: .
+          - button "2 Взять 1 подсказку" [ref=e140] [cursor=pointer]:
+            - generic [ref=e143] [cursor=pointer]: "2"
+            - generic [ref=e144] [cursor=pointer]: Взять 1 подсказку
+          - button "Далее" [ref=e146] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e149] [cursor=pointer]
+  - generic [ref=e156]:
+    - generic [ref=e158]:
+      - generic [ref=e159]:
+        - generic [ref=e162]:
+          - text: "Курс:"
+          - generic [ref=e163]: Подготовка к ВПР по биологии. Задание 14–15. Определение признаков классов и семейств цветковых растений (обобщение)
+        - button [ref=e164] [cursor=pointer]:
+          - img [ref=e166] [cursor=pointer]
+      - heading "Широкие возможности урока от iSmart" [level=1] [ref=e174]
+    - generic [ref=e177]:
+      - button "<- Назад" [disabled] [ref=e178]
+      - button "Подробнее о курсе ->" [ref=e179] [cursor=pointer]
+```
