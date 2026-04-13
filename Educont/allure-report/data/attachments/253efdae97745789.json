@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://files.ismart.org/ismart.storage/assets/lottie/questionMark.json",
+    "status": 502,
+    "payload": null,
+    "timestap": "13.04.2026, 07:41:08"
+  },
+  {
+    "url": "https://edu.ismart.org/trpc/course.courseElementTimeSave?batch=1",
+    "status": 500,
+    "payload": {
+      "0": {
+        "unitId": "644a9ae100843dc688450d56",
+        "elementId": "644a9af400843dc688450d57",
+        "practiceId": "0",
+        "usedTime": 0,
+        "lessonId": "69c61d9d1692359d3e6b4cb9"
+      }
+    },
+    "timestap": "13.04.2026, 07:41:12"
+  }
+]
