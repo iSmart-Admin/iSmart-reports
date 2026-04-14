@@ -1,0 +1,216 @@
+[
+  {
+    "url": "https://edu.ismart.org/otel/v1/traces",
+    "status": 503,
+    "payload": {
+      "resourceSpans": [
+        {
+          "resource": {
+            "attributes": [
+              {
+                "key": "service.name",
+                "value": {
+                  "stringValue": "ismart-client"
+                }
+              },
+              {
+                "key": "service.version",
+                "value": {
+                  "stringValue": "7.10.3"
+                }
+              },
+              {
+                "key": "deployment.environment",
+                "value": {
+                  "stringValue": "ismart-edu"
+                }
+              }
+            ],
+            "droppedAttributesCount": 0
+          },
+          "scopeSpans": [
+            {
+              "scope": {
+                "name": "@opentelemetry/instrumentation-fetch",
+                "version": "0.214.0"
+              },
+              "spans": [
+                {
+                  "traceId": "5a03dc1de317f3d01df8492ff00d0931",
+                  "spanId": "178f90a5afe9a92e",
+                  "name": "HTTP POST",
+                  "kind": 3,
+                  "startTimeUnixNano": "1776141784020000000",
+                  "endTimeUnixNano": "1776141784488000000",
+                  "attributes": [
+                    {
+                      "key": "component",
+                      "value": {
+                        "stringValue": "fetch"
+                      }
+                    },
+                    {
+                      "key": "http.method",
+                      "value": {
+                        "stringValue": "POST"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/trpc/tasks.taskUsedTimeSave?batch=1"
+                      }
+                    },
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6ad"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6ad"
+                      }
+                    },
+                    {
+                      "key": "http.status_code",
+                      "value": {
+                        "intValue": 200
+                      }
+                    },
+                    {
+                      "key": "http.status_text",
+                      "value": {
+                        "stringValue": ""
+                      }
+                    },
+                    {
+                      "key": "http.host",
+                      "value": {
+                        "stringValue": "edu.ismart.org"
+                      }
+                    },
+                    {
+                      "key": "http.scheme",
+                      "value": {
+                        "stringValue": "https"
+                      }
+                    },
+                    {
+                      "key": "http.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 24
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141784020499903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141784020499903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141784020499903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141784020499903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141784020499903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141784020499903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141784021599903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141784486599903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141784487199902",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "timestap": "14.04.2026, 07:43:09"
+  }
+]

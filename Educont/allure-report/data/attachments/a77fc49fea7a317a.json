@@ -1,0 +1,4429 @@
+[
+  {
+    "url": "https://edu.ismart.org/otel/v1/traces",
+    "status": 503,
+    "payload": {
+      "resourceSpans": [
+        {
+          "resource": {
+            "attributes": [
+              {
+                "key": "service.name",
+                "value": {
+                  "stringValue": "ismart-client"
+                }
+              },
+              {
+                "key": "service.version",
+                "value": {
+                  "stringValue": "7.10.3"
+                }
+              },
+              {
+                "key": "deployment.environment",
+                "value": {
+                  "stringValue": "ismart-edu"
+                }
+              }
+            ],
+            "droppedAttributesCount": 0
+          },
+          "scopeSpans": [
+            {
+              "scope": {
+                "name": "@opentelemetry/instrumentation-document-load",
+                "version": "0.59.0"
+              },
+              "spans": [
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "bebeb49ccad63c87",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "documentFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141781808500098",
+                  "endTimeUnixNano": "1776141782756800098",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 3596
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 9494
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141781808500098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141781808500098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141781808500098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141781808500098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141781808500098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141781808500098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141781809800098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782756000098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782756800098",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "62664893fc43b439",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782795099903",
+                  "endTimeUnixNano": "1776141782803099903",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://kassa.cdn-tinkoff.ru/integration/integration.js"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 0
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782795099903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782803099903",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "2efc94a5febe0af1",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782795500049",
+                  "endTimeUnixNano": "1776141782904500049",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/assets/index-BeV2s3Aa.js"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 1529204
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 4800861
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782795500049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782795500049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782795500049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782795500049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782795500049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782795500049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782797300049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782797900049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782904500049",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "7a674c12318bde96",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782795700049",
+                  "endTimeUnixNano": "1776141782795700049",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/chunks/antlr-vendor-CPhxfIgO.js"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 34729
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 107755
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782795700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782795700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782795700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782795700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782795700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782795700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782795700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782795700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782795700049",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "e603ba204d920069",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782795799952",
+                  "endTimeUnixNano": "1776141782795799952",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/chunks/otel-vendor-WhoFT_Cq.js"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 63316
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 177053
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782795799952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782795799952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782795799952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782795799952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782795799952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782795799952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782795799952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782795799952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782795799952",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "dfeb710252bb803a",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782795899952",
+                  "endTimeUnixNano": "1776141782950399952",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/chunks/vendor-DHKdOjST.js"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 2698738
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 8279049
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782795899952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782795899952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782795899952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782795899952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782795899952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782795899952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782797399952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782797899952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782950399952",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "bb15871a8decb265",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782796000098",
+                  "endTimeUnixNano": "1776141782796000098",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/chunks/d3-vendor-Cle2N9Yy.js"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 29537
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 75954
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782796000098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782796000098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782796000098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782796000098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782796000098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782796000098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782796000098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782796000098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782796000098",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "c2e77fbf14c490ef",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782797100000",
+                  "endTimeUnixNano": "1776141782797100000",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/chunks/pdf-vendor-BAKW3ES9.js"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 531404
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 1099414
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782797100000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782797100000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782797100000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782797100000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782797100000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782797100000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782797100000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782797100000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782797100000",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "03c7618093b92078",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782797200000",
+                  "endTimeUnixNano": "1776141782797200000",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/chunks/vk-vendor-_pWtokaJ.js"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 39597
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 105559
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782797200000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782797200000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782797200000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782797200000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782797200000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782797200000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782797200000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782797200000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782797200000",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "a19deffef233d111",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782797300001",
+                  "endTimeUnixNano": "1776141782797300001",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/chunks/tldraw-vendor-CRUH-EE4.js"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 293903
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 846082
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782797300001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782797300001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782797300001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782797300001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782797300001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782797300001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782797300001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782797300001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782797300001",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "16e7c462c531dfd4",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782797299903",
+                  "endTimeUnixNano": "1776141782797299903",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/assets/vendor-BK3O7W5_.css"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 16560
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 59207
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782797299903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782797299903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782797299903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782797299903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782797299903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782797299903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782797299903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782797299903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782797299903",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "bf3d7c97d0481c45",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782797400049",
+                  "endTimeUnixNano": "1776141782797400049",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/assets/vk-vendor-AxFl4ooR.css"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 53614
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 274834
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782797400049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782797400049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782797400049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782797400049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782797400049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782797400049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782797400049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782797400049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782797400049",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "385af90ab2ca9751",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782797600049",
+                  "endTimeUnixNano": "1776141782797600049",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/assets/tldraw-vendor-CP1ST-xu.css"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 16524
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 68275
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782797600049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782797600049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782797600049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782797600049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782797600049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782797600049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782797600049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782797600049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782797600049",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "a7dfb9348e694e8b",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782797700049",
+                  "endTimeUnixNano": "1776141782797700049",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/assets/index-Cl4HaoQa.css"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 1473
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 4048
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782797700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782797700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782797700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782797700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782797700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782797700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782797700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782797700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782797700049",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "0e328c17ad3a41ae",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782797800049",
+                  "endTimeUnixNano": "1776141782800900049",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://files.ismart.org/ismart.storage/assets/logo_small_black.svg"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 0
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782797800049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782800900049",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "7d251ea29a55efbe",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782806500049",
+                  "endTimeUnixNano": "1776141782806500049",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/assets/rsuite_depricated-BBQ9W-0g.css"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 77941
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 550443
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782806500049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782806500049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782806500049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782806500049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782806500049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782806500049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782806500049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782806500049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782806500049",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "09184776a27e731d",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782807299952",
+                  "endTimeUnixNano": "1776141782807299952",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://abt.s3.yandex.net/expjs/latest/exp.js"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 0
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782807299952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782807299952",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "66361773e2816120",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782809499952",
+                  "endTimeUnixNano": "1776141782809499952",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://mc.yandex.ru/metrika/tag.js"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 91133
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 276911
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782809499952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782809499952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782809499952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782809499952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782809499952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782809499952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782809499952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782809499952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782809499952",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "65780d2ffadee895",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782810600098",
+                  "endTimeUnixNano": "1776141782810600098",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://top-fwz1.mail.ru/js/code.js"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 19468
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 47940
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782810600098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782810600098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782810600098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782810600098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782810600098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782810600098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782810600098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782810600098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782810600098",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "0357497b0243bd64",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782825900098",
+                  "endTimeUnixNano": "1776141782833100098",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://uaas.yandex.ru/v1/exps/?client_id=metrika.55346662&url=https%3A%2F%2Fedu.ismart.org%2Feducont%2F6911ea1a7736c90d99b4e6a7%3Ftoken%3DeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6ImEwMGIxOGk4LTJiODMtMDZnYS0waGg5LTdhZjMyMDViNTIxZy10ZWFjaGVyYXV0b3Rlc3QiLCJpc1RlYWNoZXIiOnRydWUsImlzRWR1Y29udERldmVsb3BlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjY4YjgzOWJkZmY4NTc0MTRkM2UwYmE0MCIsInNlY3Rpb25Qcm92aWRlcklkIjoiNjhiODM5ZDBmZjg1NzQxNGQzZTBiYWRlIiwidGhlbWVQcm92aWRlcklkIjoiNjhiODM5ZDBmZjg1NzQxNGQzZTBiYWRmIiwibGVzc29uUHJvdmlkZXJJZCI6IjY5MTFlYTFhNzczNmM5MGQ5OWI0ZTZhNyIsImlhdCI6MTc3NjE0MTc3MX0.dhrGfWiJarzMayL-9VTC8kYAn_5_syxF2TucaUAdr_k&i=3T58fEPUk0E8NtlNhDQMKchNjV40_HtbBgDPrr-11RwWAGT3CDR3QFpEtofohjTqQ0A0yJ1NJoOqnaFWIZE75bo8UpU&duid=1776141774593160493&client_features=%7B%7D"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 0
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782825900098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782833100098",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "a90d30bfe30674b5",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782867900098",
+                  "endTimeUnixNano": "1776141782876700098",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://mc.yandex.ru/watch/55346662?wmode=7&page-url=https%3A%2F%2Fedu.ismart.org%2Feducont%2F6911ea1a7736c90d99b4e6a7%3Ftoken%3DeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6ImEwMGIxOGk4LTJiODMtMDZnYS0waGg5LTdhZjMyMDViNTIxZy10ZWFjaGVyYXV0b3Rlc3QiLCJpc1RlYWNoZXIiOnRydWUsImlzRWR1Y29udERldmVsb3BlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjY4YjgzOWJkZmY4NTc0MTRkM2UwYmE0MCIsInNlY3Rpb25Qcm92aWRlcklkIjoiNjhiODM5ZDBmZjg1NzQxNGQzZTBiYWRlIiwidGhlbWVQcm92aWRlcklkIjoiNjhiODM5ZDBmZjg1NzQxNGQzZTBiYWRmIiwibGVzc29uUHJvdmlkZXJJZCI6IjY5MTFlYTFhNzczNmM5MGQ5OWI0ZTZhNyIsImlhdCI6MTc3NjE0MTc3MX0.dhrGfWiJarzMayL-9VTC8kYAn_5_syxF2TucaUAdr_k&charset=utf-8&uah=chu%0A%22Chromium%22%3Bv%3D%22140%22%2C%22Not%3DA%3FBrand%22%3Bv%3D%2224%22%2C%22HeadlessChrome%22%3Bv%3D%22140%22%0Acha%0Ax86%0Achb%0A64%0Achf%0A140.0.7339.16%0Achl%0A%22Chromium%22%3Bv%3D%22140.0.7339.16%22%2C%22Not%3DA%3FBrand%22%3Bv%3D%2224.0.0.0%22%2C%22HeadlessChrome%22%3Bv%3D%22140.0.7339.16%22%0Achm%0A%3F0%0Achp%0ALinux%0Achv%0A5.15.0&browser-info=pv%3A1%3Avf%3A6glgxny3ywoixqvpwypw9eums2yu7%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2460%3Acn%3A1%3Adp%3A0%3Als%3A874389506933%3Ahid%3A104505616%3Az%3A0%3Ai%3A20260414044302%3Aet%3A1776141783%3Ac%3A1%3Arn%3A176854580%3Arqn%3A9%3Au%3A1776141774593160493%3Aw%3A1920x1080%3As%3A1920x1080x24%3Ask%3A1%3Awv%3A2%3Ads%3A0%2C0%2C946%2C1%2C0%2C0%2C%2C62%2C%2C%2C%2C%2C%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1776141781808%3Aadb%3A2%3Arqnl%3A1%3Ast%3A1776141783%3At%3A%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D1%80%D0%B5%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2&t=clt(26)gdpr(14)clc(0-0-0)rqnt(1)aw(1)rcm(0)cdl(na)eco(42009092)ti(1)"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 0
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782867900098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782876700098",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "e19a25ab467460a7",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782875700098",
+                  "endTimeUnixNano": "1776141782875700098",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://top-fwz1.mail.ru/js/dyn-goal-config.js?ids=3568967"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 1725
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length_uncompressed",
+                      "value": {
+                        "intValue": 3573
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782875700098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782875700098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782875700098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782875700098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782875700098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782875700098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782875700098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782875700098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782875700098",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "6ab33d4aa2f7c494",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782875800001",
+                  "endTimeUnixNano": "1776141782885700000",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://top-fwz1.mail.ru/counter?_=0.65251736919171;id=3568967;u=https%3A%2F%2Fedu.ismart.org%2Feducont%2F6911ea1a7736c90d99b4e6a7%3Ftoken%3DeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6ImEwMGIxOGk4LTJiODMtMDZnYS0waGg5LTdhZjMyMDViNTIxZy10ZWFjaGVyYXV0b3Rlc3QiLCJpc1RlYWNoZXIiOnRydWUsImlzRWR1Y29udERldmVsb3BlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjY4YjgzOWJkZmY4NTc0MTRkM2UwYmE0MCIsInNlY3Rpb25Qcm92aWRlcklkIjoiNjhiODM5ZDBmZjg1NzQxNGQzZTBiYWRlIiwidGhlbWVQcm92aWRlcklkIjoiNjhiODM5ZDBmZjg1NzQxNGQzZTBiYWRmIiwibGVzc29uUHJvdmlkZXJJZCI6IjY5MTFlYTFhNzczNmM5MGQ5OWI0ZTZhNyIsImlhdCI6MTc3NjE0MTc3MX0.dhrGfWiJarzMayL-9VTC8kYAn_5_syxF2TucaUAdr_k;title=%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D1%80%D0%B5%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2;s=1920*1080;vp=1920*1080;touch=0;hds=1;sid=7beccedc21dac1c4;ver=60.6.0;tz=0%2FUTC;st=1776141782820;ct=1062/1065/1065//1002;rt=1003/0/0/0/0/1003/1003/1003/1003/1003/1003/1003/1003/1003;gl=u;ni=9.7//4g/0/0/;detect=0;lvid=1776141773600%3A1776141782875%3A4%3A9bd57de8f489bc19f4a446484dfac251;opts=wda%2Ccdt%3Dcache%2Ccnhp%3Dh2%2Ccs%3D19468-47940-0;fpid=MiQq-4pRQj8QqjniU_uWG;visible=true;js=13"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 43
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782875800001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141782875800001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141782875800001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141782875800001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141782875800001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141782875800001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141782877800001",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141782884900000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782885700000",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "c316f714d14a5e2e",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782893100000",
+                  "endTimeUnixNano": "1776141782896500000",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://mc.yandex.ru/ytm-config/55346662?wmode=7"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 0
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782893100000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782896500000",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "1ee9dc72a3f592a3",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782893600000",
+                  "endTimeUnixNano": "1776141782899800001",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://mc.yandex.ru/watch/55346662?page-url=https%3A%2F%2Fedu.ismart.org%2Feducont%2F6911ea1a7736c90d99b4e6a7%3Ftoken%3DeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6ImEwMGIxOGk4LTJiODMtMDZnYS0waGg5LTdhZjMyMDViNTIxZy10ZWFjaGVyYXV0b3Rlc3QiLCJpc1RlYWNoZXIiOnRydWUsImlzRWR1Y29udERldmVsb3BlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjY4YjgzOWJkZmY4NTc0MTRkM2UwYmE0MCIsInNlY3Rpb25Qcm92aWRlcklkIjoiNjhiODM5ZDBmZjg1NzQxNGQzZTBiYWRlIiwidGhlbWVQcm92aWRlcklkIjoiNjhiODM5ZDBmZjg1NzQxNGQzZTBiYWRmIiwibGVzc29uUHJvdmlkZXJJZCI6IjY5MTFlYTFhNzczNmM5MGQ5OWI0ZTZhNyIsImlhdCI6MTc3NjE0MTc3MX0.dhrGfWiJarzMayL-9VTC8kYAn_5_syxF2TucaUAdr_k&exp=P54lnS9LcLo%2C&charset=utf-8&uah=chu%0A%22Chromium%22%3Bv%3D%22140%22%2C%22Not%3DA%3FBrand%22%3Bv%3D%2224%22%2C%22HeadlessChrome%22%3Bv%3D%22140%22%0Acha%0Ax86%0Achb%0A64%0Achf%0A140.0.7339.16%0Achl%0A%22Chromium%22%3Bv%3D%22140.0.7339.16%22%2C%22Not%3DA%3FBrand%22%3Bv%3D%2224.0.0.0%22%2C%22HeadlessChrome%22%3Bv%3D%22140.0.7339.16%22%0Achm%0A%3F0%0Achp%0ALinux%0Achv%0A5.15.0&hidv2=1906988252641099797&hittoken=1776141782_d5dc5bbd668fcb9bbca6d1e07d0951d066fa654e6d8a5e1e1550347a20087991&browser-info=ex%3A1%3Aar%3A1%3Avf%3A6glgxny3ywoixqvpwypw9eums2yu7%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2460%3Acn%3A1%3Adp%3A1%3Als%3A874389506933%3Ahid%3A104505616%3Az%3A0%3Ai%3A20260414044302%3Aet%3A1776141783%3Ac%3A1%3Arn%3A704875545%3Arqn%3A10%3Au%3A1776141774593160493%3Aw%3A1920x1080%3As%3A1920x1080x24%3Ask%3A1%3Afp%3A1060%3Awv%3A2%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1776141781808%3Aadb%3A2%3Arqnl%3A1%3Ast%3A1776141783%3At%3A%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D1%80%D0%B5%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2&t=gdpr(14)mc(ex-2)clc(0-0-0)rqnt(2)aw(1)rcm(0)cdl(na)eco(42009092)ti(0)&force-urlencoded=1"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 0
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782893600000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782899800001",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "0a5f46f62684f0d0",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141782894000000",
+                  "endTimeUnixNano": "1776141782903600000",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://mc.yandex.ru/watch/55346662?page-url=https%3A%2F%2Fedu.ismart.org%2Feducont%2F6911ea1a7736c90d99b4e6a7%3Ftoken%3DeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6ImEwMGIxOGk4LTJiODMtMDZnYS0waGg5LTdhZjMyMDViNTIxZy10ZWFjaGVyYXV0b3Rlc3QiLCJpc1RlYWNoZXIiOnRydWUsImlzRWR1Y29udERldmVsb3BlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjY4YjgzOWJkZmY4NTc0MTRkM2UwYmE0MCIsInNlY3Rpb25Qcm92aWRlcklkIjoiNjhiODM5ZDBmZjg1NzQxNGQzZTBiYWRlIiwidGhlbWVQcm92aWRlcklkIjoiNjhiODM5ZDBmZjg1NzQxNGQzZTBiYWRmIiwibGVzc29uUHJvdmlkZXJJZCI6IjY5MTFlYTFhNzczNmM5MGQ5OWI0ZTZhNyIsImlhdCI6MTc3NjE0MTc3MX0.dhrGfWiJarzMayL-9VTC8kYAn_5_syxF2TucaUAdr_k&exp=P54lnS9LcLo%2C&charset=utf-8&uah=chu%0A%22Chromium%22%3Bv%3D%22140%22%2C%22Not%3DA%3FBrand%22%3Bv%3D%2224%22%2C%22HeadlessChrome%22%3Bv%3D%22140%22%0Acha%0Ax86%0Achb%0A64%0Achf%0A140.0.7339.16%0Achl%0A%22Chromium%22%3Bv%3D%22140.0.7339.16%22%2C%22Not%3DA%3FBrand%22%3Bv%3D%2224.0.0.0%22%2C%22HeadlessChrome%22%3Bv%3D%22140.0.7339.16%22%0Achm%0A%3F0%0Achp%0ALinux%0Achv%0A5.15.0&hidv2=1906988252641099797&hittoken=1776141782_d5dc5bbd668fcb9bbca6d1e07d0951d066fa654e6d8a5e1e1550347a20087991&browser-info=ex%3A1%3Aar%3A1%3Avf%3A6glgxny3ywoixqvpwypw9eums2yu7%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2460%3Acn%3A1%3Adp%3A1%3Als%3A874389506933%3Ahid%3A104505616%3Az%3A0%3Ai%3A20260414044302%3Aet%3A1776141783%3Ac%3A1%3Arn%3A140138203%3Arqn%3A11%3Au%3A1776141774593160493%3Aw%3A1920x1080%3As%3A1920x1080x24%3Ask%3A1%3Awv%3A2%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1776141781808%3Aadb%3A2%3Arqnl%3A1%3Ast%3A1776141783%3At%3A%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D1%80%D0%B5%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2&t=gdpr(14)mc(ex-2)clc(0-0-0)rqnt(3)aw(1)rcm(0)cdl(na)eco(42009092)ti(0)&force-urlencoded=1"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 0
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141782894000000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141782903600000",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "a22f4fae8e7402ea",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141783648399903",
+                  "endTimeUnixNano": "1776141783648399903",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://files.ismart.org/ismart.storage/assets/fonts/Inter-Regular.ttf"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 0
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141783648399903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141783648399903",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "bf838adc62519ccb",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141783648599903",
+                  "endTimeUnixNano": "1776141783648599903",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://files.ismart.org/ismart.storage/assets/fonts/Inter-Medium.ttf"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 0
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141783648599903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141783648599903",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "0ef161e04fb7d2f1",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141783648799903",
+                  "endTimeUnixNano": "1776141783648799903",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://files.ismart.org/ismart.storage/assets/fonts/Inter-SemiBold.ttf"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 0
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141783648799903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141783648799903",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "634814420bd1fc3b",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141783648800049",
+                  "endTimeUnixNano": "1776141783648800049",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://files.ismart.org/ismart.storage/assets/fonts/Inter-Bold.ttf"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 0
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141783648800049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141783648800049",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "137d0a6ba053b7e2",
+                  "parentSpanId": "9dac6d013dc0bd99",
+                  "name": "resourceFetch",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141783777700049",
+                  "endTimeUnixNano": "1776141783784200049",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://top-fwz1.mail.ru/tracker?_=0.6475743628231728;id=3568967;u=https%3A%2F%2Fedu.ismart.org%2Feducont%2F6911ea1a7736c90d99b4e6a7;title=%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D1%80%D0%B5%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2;s=1920*1080;vp=1920*1080;touch=0;hds=1;sid=7beccedc21dac1c4;ver=60.6.0;tz=0%2FUTC;st=1776141782820;nt=0/0/1776141781808/973/973///1/1/1/1/1//2/948/949/985/1012/1905/1905/1966/1967/1969;ct=1062/1065/1065/1068/1002;rt=1003/0/0/0/0/1003/1003/1003/1003/1003/1003/1003/1003/1003;gl=u;ni=9.7//4g/0/0/;detect=0;lvid=1776141773600%3A1776141783778%3A5%3A9bd57de8f489bc19f4a446484dfac251;opts=dl%2Cjst-ym%2Cwda%2Ccdt%3Dcache%2Ccnhp%3Dh2%2Ccs%3D19468-47940-0;fpid=MiQq-4pRQj8QqjniU_uWG;visible=true;js=13;e=RT%2Fload;et=1776141783777"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 43
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141783777700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141783777700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141783777700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141783777700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141783777700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141783777700049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141783778600049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141783783600049",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141783784200049",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "ff121e9f3fa9614f4a1f4047e19ad945",
+                  "spanId": "9dac6d013dc0bd99",
+                  "name": "documentLoad",
+                  "kind": 1,
+                  "startTimeUnixNano": "1776141781808599952",
+                  "endTimeUnixNano": "1776141783776999952",
+                  "attributes": [
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141781808599952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "unloadEventStart",
+                      "timeUnixNano": "1776141782781399952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "unloadEventEnd",
+                      "timeUnixNano": "1776141782781399952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domInteractive",
+                      "timeUnixNano": "1776141782819599952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domContentLoadedEventStart",
+                      "timeUnixNano": "1776141783712499952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domContentLoadedEventEnd",
+                      "timeUnixNano": "1776141783712899952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domComplete",
+                      "timeUnixNano": "1776141783774399952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "loadEventStart",
+                      "timeUnixNano": "1776141783774899952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "loadEventEnd",
+                      "timeUnixNano": "1776141783776999952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "firstPaint",
+                      "timeUnixNano": "1776141782868199952",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "firstContentfulPaint",
+                      "timeUnixNano": "1776141782868199952",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                }
+              ]
+            },
+            {
+              "scope": {
+                "name": "@opentelemetry/instrumentation-fetch",
+                "version": "0.214.0"
+              },
+              "spans": [
+                {
+                  "traceId": "5408799bc5f1c149c4ce2aed90928fd5",
+                  "spanId": "33f048301cf19c51",
+                  "name": "HTTP GET",
+                  "kind": 3,
+                  "startTimeUnixNano": "1776141783773000000",
+                  "endTimeUnixNano": "1776141784470000000",
+                  "attributes": [
+                    {
+                      "key": "component",
+                      "value": {
+                        "stringValue": "fetch"
+                      }
+                    },
+                    {
+                      "key": "http.method",
+                      "value": {
+                        "stringValue": "GET"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/trpc/educont.checkAndParseToken?batch=1&input=%7B%220%22%3A%7B%22token%22%3A%22eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6ImEwMGIxOGk4LTJiODMtMDZnYS0waGg5LTdhZjMyMDViNTIxZy10ZWFjaGVyYXV0b3Rlc3QiLCJpc1RlYWNoZXIiOnRydWUsImlzRWR1Y29udERldmVsb3BlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjY4YjgzOWJkZmY4NTc0MTRkM2UwYmE0MCIsInNlY3Rpb25Qcm92aWRlcklkIjoiNjhiODM5ZDBmZjg1NzQxNGQzZTBiYWRlIiwidGhlbWVQcm92aWRlcklkIjoiNjhiODM5ZDBmZjg1NzQxNGQzZTBiYWRmIiwibGVzc29uUHJvdmlkZXJJZCI6IjY5MTFlYTFhNzczNmM5MGQ5OWI0ZTZhNyIsImlhdCI6MTc3NjE0MTc3MX0.dhrGfWiJarzMayL-9VTC8kYAn_5_syxF2TucaUAdr_k%22%2C%22lessonId%22%3A%226911ea1a7736c90d99b4e6a7%22%7D%7D"
+                      }
+                    },
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.status_code",
+                      "value": {
+                        "intValue": 200
+                      }
+                    },
+                    {
+                      "key": "http.status_text",
+                      "value": {
+                        "stringValue": ""
+                      }
+                    },
+                    {
+                      "key": "http.host",
+                      "value": {
+                        "stringValue": "edu.ismart.org"
+                      }
+                    },
+                    {
+                      "key": "http.scheme",
+                      "value": {
+                        "stringValue": "https"
+                      }
+                    },
+                    {
+                      "key": "http.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 3071
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141783773500098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141783773500098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141783773500098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141783773500098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141783773500098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141783773500098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141783774500098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141784466800098",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141784467800098",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "1fdefcb799639f49d3dff67d72d31c9b",
+                  "spanId": "1fcaaf517148c893",
+                  "name": "HTTP GET",
+                  "kind": 3,
+                  "startTimeUnixNano": "1776141785212000000",
+                  "endTimeUnixNano": "1776141785277000000",
+                  "attributes": [
+                    {
+                      "key": "component",
+                      "value": {
+                        "stringValue": "fetch"
+                      }
+                    },
+                    {
+                      "key": "http.method",
+                      "value": {
+                        "stringValue": "GET"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://mc.yandex.ru/clmap/55346662?page-url=https%3A%2F%2Fedu.ismart.org%2Feducont%2F6911ea1a7736c90d99b4e6a7&pointer-click=rn%3A630840584%3Ax%3A32766%3Ay%3A24575%3At%3A23%3Ap%3A%C2%98%C2%8AW%3FAAAAAAAAA3%3AX%3A1511%3AY%3A199&hidv2=1906988252641099797&browser-info=u%3A1776141774593160493%3Av%3A2460%3Avf%3A6glgxny3ywoixqvpwypw9eums2yu7%3Arqnl%3A1%3Ast%3A1776141785&t=gdpr(14)ti(1)"
+                      }
+                    },
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.status_code",
+                      "value": {
+                        "intValue": 200
+                      }
+                    },
+                    {
+                      "key": "http.status_text",
+                      "value": {
+                        "stringValue": ""
+                      }
+                    },
+                    {
+                      "key": "http.host",
+                      "value": {
+                        "stringValue": "mc.yandex.ru"
+                      }
+                    },
+                    {
+                      "key": "http.scheme",
+                      "value": {
+                        "stringValue": "https"
+                      }
+                    },
+                    {
+                      "key": "http.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 0
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141785212500000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141785220500000",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "0dc6c036d9ece4bdcd29eebbb7fbc000",
+                  "spanId": "ea98e4ac2595bce3",
+                  "name": "HTTP GET",
+                  "kind": 3,
+                  "startTimeUnixNano": "1776141785463000000",
+                  "endTimeUnixNano": "1776141785547000000",
+                  "attributes": [
+                    {
+                      "key": "component",
+                      "value": {
+                        "stringValue": "fetch"
+                      }
+                    },
+                    {
+                      "key": "http.method",
+                      "value": {
+                        "stringValue": "GET"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/trpc/catalog.categoryCourses,groupwork.getJoinedGroupworks?batch=1&input=%7B%220%22%3A%7B%22categoryObjectId%22%3A%22662921cea471430007dc772b%22%7D%7D"
+                      }
+                    },
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.status_code",
+                      "value": {
+                        "intValue": 200
+                      }
+                    },
+                    {
+                      "key": "http.status_text",
+                      "value": {
+                        "stringValue": ""
+                      }
+                    },
+                    {
+                      "key": "http.host",
+                      "value": {
+                        "stringValue": "edu.ismart.org"
+                      }
+                    },
+                    {
+                      "key": "http.scheme",
+                      "value": {
+                        "stringValue": "https"
+                      }
+                    },
+                    {
+                      "key": "http.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 47
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141785463599903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141785463599903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141785463599903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141785463599903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141785463599903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141785463599903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141785464499903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141785544099903",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141785545099903",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                },
+                {
+                  "traceId": "c5ac7a7d3e187b16afe595013676585d",
+                  "spanId": "a1ea53a28bed2b59",
+                  "name": "HTTP GET",
+                  "kind": 3,
+                  "startTimeUnixNano": "1776141785659000000",
+                  "endTimeUnixNano": "1776141785843000000",
+                  "attributes": [
+                    {
+                      "key": "component",
+                      "value": {
+                        "stringValue": "fetch"
+                      }
+                    },
+                    {
+                      "key": "http.method",
+                      "value": {
+                        "stringValue": "GET"
+                      }
+                    },
+                    {
+                      "key": "http.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/trpc/educont.getSubthemesEducontProgress?batch=1&input=%7B%220%22%3A%7B%22themeIds%22%3A%5B%226764410108efeb0007ab7871%22%2C%226764413808efeb0007ab787e%22%2C%226764415e08efeb0007ab788e%22%2C%226764418108efeb0007ab78ac%22%2C%226764419308efeb0007ab78bc%22%2C%226764442c08efeb0007ab7a59%22%2C%226764444d08efeb0007ab7a7e%22%2C%226764446d08efeb0007ab7a87%22%2C%226764449708efeb0007ab7a90%22%2C%22676444b608efeb0007ab7aa2%22%2C%22676444e708efeb0007ab7aad%22%2C%226764450d08efeb0007ab7aee%22%2C%226764453508efeb0007ab7b15%22%2C%226764455308efeb0007ab7b36%22%2C%22676447c683bbe80008f1fdec%22%2C%226764480083bbe80008f1fdf1%22%5D%2C%22lessonId%22%3A%226911ea1a7736c90d99b4e6a7%22%2C%22categoryPracticeId%22%3A%22662921cea471430007dc772d%22%7D%7D"
+                      }
+                    },
+                    {
+                      "key": "browser.language",
+                      "value": {
+                        "stringValue": "en-US"
+                      }
+                    },
+                    {
+                      "key": "browser.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_width",
+                      "value": {
+                        "intValue": 1920
+                      }
+                    },
+                    {
+                      "key": "browser.viewport_height",
+                      "value": {
+                        "intValue": 1080
+                      }
+                    },
+                    {
+                      "key": "browser.connection",
+                      "value": {
+                        "stringValue": "4g"
+                      }
+                    },
+                    {
+                      "key": "page.url",
+                      "value": {
+                        "stringValue": "https://edu.ismart.org/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "page.path",
+                      "value": {
+                        "stringValue": "/educont/6911ea1a7736c90d99b4e6a7"
+                      }
+                    },
+                    {
+                      "key": "http.status_code",
+                      "value": {
+                        "intValue": 200
+                      }
+                    },
+                    {
+                      "key": "http.status_text",
+                      "value": {
+                        "stringValue": ""
+                      }
+                    },
+                    {
+                      "key": "http.host",
+                      "value": {
+                        "stringValue": "edu.ismart.org"
+                      }
+                    },
+                    {
+                      "key": "http.scheme",
+                      "value": {
+                        "stringValue": "https"
+                      }
+                    },
+                    {
+                      "key": "http.user_agent",
+                      "value": {
+                        "stringValue": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36"
+                      }
+                    },
+                    {
+                      "key": "http.response_content_length",
+                      "value": {
+                        "intValue": 12693
+                      }
+                    }
+                  ],
+                  "droppedAttributesCount": 0,
+                  "events": [
+                    {
+                      "attributes": [],
+                      "name": "fetchStart",
+                      "timeUnixNano": "1776141785659600000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupStart",
+                      "timeUnixNano": "1776141785659600000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "domainLookupEnd",
+                      "timeUnixNano": "1776141785659600000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectStart",
+                      "timeUnixNano": "1776141785659600000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "secureConnectionStart",
+                      "timeUnixNano": "1776141785659600000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "connectEnd",
+                      "timeUnixNano": "1776141785659600000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "requestStart",
+                      "timeUnixNano": "1776141785662000000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseStart",
+                      "timeUnixNano": "1776141785808200000",
+                      "droppedAttributesCount": 0
+                    },
+                    {
+                      "attributes": [],
+                      "name": "responseEnd",
+                      "timeUnixNano": "1776141785810600000",
+                      "droppedAttributesCount": 0
+                    }
+                  ],
+                  "droppedEventsCount": 0,
+                  "status": {
+                    "code": 0
+                  },
+                  "links": [],
+                  "droppedLinksCount": 0,
+                  "flags": 257
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "timestap": "14.04.2026, 07:43:08"
+  }
+]
