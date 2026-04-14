@@ -1,0 +1,230 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Математика
+      - generic [ref=e21]: Сложные темы
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - button "1" [ref=e28] [cursor=pointer]:
+          - img [ref=e32] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e34] [cursor=pointer]:
+          - img [ref=e38] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e40]:
+          - img [ref=e44]
+          - text: "3"
+        - button "4" [ref=e46] [cursor=pointer]:
+          - img [ref=e50] [cursor=pointer]
+          - text: "4"
+      - generic [ref=e53]:
+        - generic [ref=e57]:
+          - img [ref=e60]
+          - textbox "Поиск по подтемам" [ref=e63]
+        - generic [ref=e64]:
+          - generic [ref=e65]:
+            - generic [ref=e66] [cursor=pointer]:
+              - generic [ref=e68] [cursor=pointer]: Темы
+              - button [ref=e70] [cursor=pointer]:
+                - img [ref=e72] [cursor=pointer]
+            - generic [ref=e74] [cursor=pointer]:
+              - generic [ref=e77] [cursor=pointer]: Числа от 1 до 100. Сложение и вычитание
+              - img [ref=e79] [cursor=pointer]
+            - generic [ref=e81] [cursor=pointer]:
+              - generic [ref=e84] [cursor=pointer]: Выражения с переменной
+              - img [ref=e86] [cursor=pointer]
+            - generic [ref=e88] [cursor=pointer]:
+              - generic [ref=e91] [cursor=pointer]: Решение уравнений
+              - img [ref=e93] [cursor=pointer]
+            - generic [ref=e95] [cursor=pointer]:
+              - generic [ref=e98] [cursor=pointer]: Действие умножения
+              - img [ref=e100] [cursor=pointer]
+            - generic [ref=e102] [cursor=pointer]:
+              - generic [ref=e105] [cursor=pointer]: Взаимосвязь между компонентами и результатом умножения
+              - img [ref=e107] [cursor=pointer]
+            - generic [ref=e110] [cursor=pointer]:
+              - generic [ref=e113] [cursor=pointer]: Чётные и нечётные числа
+              - img [ref=e115] [cursor=pointer]
+            - generic [ref=e117] [cursor=pointer]:
+              - generic [ref=e120] [cursor=pointer]: "Решение задач с величинами: цена, количество, стоимость"
+              - img [ref=e122] [cursor=pointer]
+            - generic [ref=e124] [cursor=pointer]:
+              - generic [ref=e127] [cursor=pointer]: Порядок выполнения действий
+              - img [ref=e129] [cursor=pointer]
+            - generic [ref=e131] [cursor=pointer]:
+              - generic [ref=e134] [cursor=pointer]: Решение задач разного вида
+              - img [ref=e136] [cursor=pointer]
+          - generic [ref=e142]:
+            - link "1. Раздели поровну или на равные группы" [ref=e143] [cursor=pointer]:
+              - /url: /learn/6c68192bb0972626c6819001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/615da7d049234968825724ff/
+              - generic [ref=e144] [cursor=pointer]:
+                - generic [ref=e146] [cursor=pointer]:
+                  - generic [ref=e148] [cursor=pointer]: "1."
+                  - paragraph [ref=e150] [cursor=pointer]: Раздели поровну или на равные группы
+                - img [ref=e153] [cursor=pointer]
+            - link "2. Раздели поровну или на равные группы и дополни равенства" [ref=e155] [cursor=pointer]:
+              - /url: /learn/6c68192bb0972626c6819001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/615da7f908d9334bbe1549b5/
+              - generic [ref=e156] [cursor=pointer]:
+                - generic [ref=e158] [cursor=pointer]:
+                  - generic [ref=e160] [cursor=pointer]: "2."
+                  - paragraph [ref=e162] [cursor=pointer]: Раздели поровну или на равные группы и дополни равенства
+                - img [ref=e165] [cursor=pointer]
+            - link "3. Связь умножения и деления по рисунку" [ref=e167] [cursor=pointer]:
+              - /url: /learn/6c68192bb0972626c6819001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/615da8174923490704572529/
+              - generic [ref=e168] [cursor=pointer]:
+                - generic [ref=e170] [cursor=pointer]:
+                  - generic [ref=e172] [cursor=pointer]: "3."
+                  - paragraph [ref=e174] [cursor=pointer]: Связь умножения и деления по рисунку
+                - img [ref=e177] [cursor=pointer]
+            - link "4. Деление на 2" [ref=e179] [cursor=pointer]:
+              - /url: /learn/6c68192bb0972626c6819001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/615da8332efe1e70bbc73cd0/
+              - generic [ref=e180] [cursor=pointer]:
+                - generic [ref=e182] [cursor=pointer]:
+                  - generic [ref=e184] [cursor=pointer]: "4."
+                  - paragraph [ref=e186] [cursor=pointer]: Деление на 2
+                - img [ref=e189] [cursor=pointer]
+            - link "5. Чётный или нечётный (ч. 1)" [ref=e191] [cursor=pointer]:
+              - /url: /learn/6c68192bb0972626c6819001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/615da86208d933ae1d1549ca/
+              - generic [ref=e192] [cursor=pointer]:
+                - generic [ref=e194] [cursor=pointer]:
+                  - generic [ref=e196] [cursor=pointer]: "5."
+                  - paragraph [ref=e198] [cursor=pointer]: Чётный или нечётный (ч. 1)
+                - img [ref=e201] [cursor=pointer]
+            - link "6. Чётные или нечётные числа на числовой прямой" [ref=e203] [cursor=pointer]:
+              - /url: /learn/6c68192bb0972626c6819001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/615da8852efe1e76f9c73ce6/
+              - generic [ref=e204] [cursor=pointer]:
+                - generic [ref=e206] [cursor=pointer]:
+                  - generic [ref=e208] [cursor=pointer]: "6."
+                  - paragraph [ref=e210] [cursor=pointer]: Чётные или нечётные числа на числовой прямой
+                - img [ref=e213] [cursor=pointer]
+            - link "7. Определите числа как чётные или нечётные" [ref=e215] [cursor=pointer]:
+              - /url: /learn/6c68192bb0972626c6819001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/615da8a0492349db68572566/
+              - generic [ref=e216] [cursor=pointer]:
+                - generic [ref=e218] [cursor=pointer]:
+                  - generic [ref=e220] [cursor=pointer]: "7."
+                  - paragraph [ref=e222] [cursor=pointer]: Определите числа как чётные или нечётные
+                - img [ref=e225] [cursor=pointer]
+            - link "8. Выберите чётные или нечётные числа" [ref=e227] [cursor=pointer]:
+              - /url: /learn/6c68192bb0972626c6819001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/615da8be2efe1eea22c73cf6/
+              - generic [ref=e228] [cursor=pointer]:
+                - generic [ref=e230] [cursor=pointer]:
+                  - generic [ref=e232] [cursor=pointer]: "8."
+                  - paragraph [ref=e234] [cursor=pointer]: Выберите чётные или нечётные числа
+                - img [ref=e237] [cursor=pointer]
+            - link "9. Какое чётное или нечётное число расположено до или после" [ref=e239] [cursor=pointer]:
+              - /url: /learn/6c68192bb0972626c6819001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/615da8df4923499539572567/
+              - generic [ref=e240] [cursor=pointer]:
+                - generic [ref=e242] [cursor=pointer]:
+                  - generic [ref=e244] [cursor=pointer]: "9."
+                  - paragraph [ref=e246] [cursor=pointer]: Какое чётное или нечётное число расположено до или после
+                - img [ref=e249] [cursor=pointer]
+            - link "10. Прибавление чётных чисел" [active] [ref=e251] [cursor=pointer]:
+              - /url: /learn/6c68192bb0972626c6819001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/615da9064923495eaf57257b/
+              - generic [ref=e252] [cursor=pointer]:
+                - generic [ref=e254] [cursor=pointer]:
+                  - generic [ref=e256] [cursor=pointer]: "10."
+                  - paragraph [ref=e258] [cursor=pointer]: Прибавление чётных чисел
+                - img [ref=e261] [cursor=pointer]
+            - link "11. Прибавление нечётных чисел" [ref=e263] [cursor=pointer]:
+              - /url: /learn/6c68192bb0972626c6819001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/615da9284923499bf5572587/
+              - generic [ref=e264] [cursor=pointer]:
+                - generic [ref=e266] [cursor=pointer]:
+                  - generic [ref=e268] [cursor=pointer]: "11."
+                  - paragraph [ref=e270] [cursor=pointer]: Прибавление нечётных чисел
+                - img [ref=e273] [cursor=pointer]
+            - link "12. Чётные и нечётные числа (ч. 2)" [ref=e275] [cursor=pointer]:
+              - /url: /learn/6c68192bb0972626c6819001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/615da946d45980dab28dd7be/
+              - generic [ref=e276] [cursor=pointer]:
+                - generic [ref=e278] [cursor=pointer]:
+                  - generic [ref=e280] [cursor=pointer]: "12."
+                  - paragraph [ref=e282] [cursor=pointer]: Чётные и нечётные числа (ч. 2)
+                - img [ref=e285] [cursor=pointer]
+            - link "13. Табличные случаи деления" [ref=e287] [cursor=pointer]:
+              - /url: /learn/6c68192bb0972626c6819001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/615da9694eeb3748cb7f27a7/
+              - generic [ref=e288] [cursor=pointer]:
+                - generic [ref=e290] [cursor=pointer]:
+                  - generic [ref=e292] [cursor=pointer]: "13."
+                  - paragraph [ref=e294] [cursor=pointer]: Табличные случаи деления
+                - img [ref=e297] [cursor=pointer]
+            - link "14. Чётный или нечётный результат арифметических действий. Умножение и деление" [ref=e299] [cursor=pointer]:
+              - /url: /learn/6c68192bb0972626c6819001/5a439fcfe4952e0019d5913c/5a3cef238409440019b57b38/615da9934eeb3758df7f27ad/
+              - generic [ref=e300] [cursor=pointer]:
+                - generic [ref=e302] [cursor=pointer]:
+                  - generic [ref=e304] [cursor=pointer]: "14."
+                  - paragraph [ref=e306] [cursor=pointer]: Чётный или нечётный результат арифметических действий. Умножение и деление
+                - img [ref=e309] [cursor=pointer]
+  - generic [ref=e312]:
+    - generic [ref=e313]:
+      - generic [ref=e314]:
+        - generic [ref=e318]:
+          - img [ref=e320]
+          - link "8 (800) 600-44-02" [ref=e322] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e323]:
+          - generic [ref=e324]: "@"
+          - link "support@ismart.org" [ref=e325] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e326]:
+          - img [ref=e328]
+          - generic [ref=e330]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e331]:
+        - link "Наш сайт" [ref=e334] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e336] [cursor=pointer]
+        - generic [ref=e338]:
+          - link "Лицензия" [ref=e340] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e342] [cursor=pointer]:
+            - /url: https://ismart-files.storage.yandexcloud.net/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e344] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e346] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e348] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e350]:
+      - generic [ref=e351]:
+        - link [ref=e352] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e356] [cursor=pointer]
+        - generic [ref=e359]:
+          - link "okIcon" [ref=e360] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e361] [cursor=pointer]
+          - link "dzenIcon" [ref=e362] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e363] [cursor=pointer]
+          - link "vkIcon" [ref=e364] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e365] [cursor=pointer]
+      - generic [ref=e367]:
+        - generic [ref=e369]:
+          - generic [ref=e370]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e371] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e372]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e373] [cursor=pointer]:
+              - /url: https://ismart-files.storage.yandexcloud.net/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e374]:
+          - generic [ref=e375]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e376] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e377]: © iSmart, 2018-2026
+```
