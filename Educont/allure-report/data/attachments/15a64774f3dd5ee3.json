@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://files.ismart.org/ismart.storage/images/5fbe4806ea8f11001dfe1bd7/original",
+    "status": 502,
+    "payload": null,
+    "timestap": "15.04.2026, 07:00:45"
+  },
+  {
+    "url": "https://files.ismart.org/ismart.storage/images/5fbe4806ea8f11001dfe1bd8/original",
+    "status": 502,
+    "payload": null,
+    "timestap": "15.04.2026, 07:00:45"
+  },
+  {
+    "url": "https://files.ismart.org/ismart.storage/images/5fbe4ab57bbe9e001c2ec99a/original",
+    "status": 502,
+    "payload": null,
+    "timestap": "15.04.2026, 07:00:45"
+  }
+]
