@@ -1,0 +1,13 @@
+[
+  {
+    "url": "https://edu.ismart.org/trpc/educont.enterWithTeacherCode?batch=1",
+    "status": 400,
+    "payload": {
+      "0": {
+        "code": "Т1Ы6Х",
+        "lessonId": "69c8e597e921e7c9d5854967"
+      }
+    },
+    "timestap": "15.04.2026, 14:55:56"
+  }
+]
