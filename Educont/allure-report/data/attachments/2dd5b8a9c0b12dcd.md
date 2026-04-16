@@ -1,0 +1,131 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+        - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - region "Задача для решения" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27] [cursor=pointer]:
+              - generic [ref=e29]:
+                - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                  - img [ref=e33] [cursor=pointer]
+                  - text: Вернуться обратно
+                - generic [ref=e35]:
+                  - generic [ref=e36]:
+                    - button "1" [ref=e39] [cursor=pointer]
+                    - button "2" [ref=e42] [cursor=pointer]
+                    - button "3" [ref=e45] [cursor=pointer]
+                    - button "4" [ref=e48] [cursor=pointer]
+                    - button "5" [ref=e51] [cursor=pointer]
+                    - button "6" [ref=e54] [cursor=pointer]
+                    - button "7" [ref=e57] [cursor=pointer]
+                    - button "8" [ref=e60] [cursor=pointer]
+                    - button "9" [ref=e63] [cursor=pointer]
+                    - button "10" [ref=e66] [cursor=pointer]
+                  - generic [ref=e67]:
+                    - button [disabled] [ref=e68]:
+                      - img [ref=e70]
+                    - button [ref=e73] [cursor=pointer]:
+                      - img [ref=e75] [cursor=pointer]
+              - generic [ref=e78]:
+                - generic [ref=e80]:
+                  - img [ref=e84]
+                  - heading "Внесите ответы в специально предназначенные поля." [level=4] [ref=e86]:
+                    - generic [ref=e88]: Внесите ответы в специально предназначенные поля.
+                - generic [ref=e90]:
+                  - img "decore" [ref=e93]
+                  - generic [ref=e95]:
+                    - generic [ref=e98]:
+                      - generic [ref=e99]: "Фрагмент молекулы ДНК, кодирующий участок мРНК для короткого пептида, имеет следующую нуклеотидную последовательность в смысловой цепи:"
+                      - generic [ref=e100]: 5’-ТЦА ГЦА АЦЦ ТТГ-3’
+                      - generic [ref=e101]: Определите нуклеотидную последовательность комплементарной (матричной, транскрибируемой) цепи ДНК и запишите её в направлении 3’→5’. Запишите последовательность иРНК (мРНК), синтезируемую на матрице ДНК, с 5’-конца к 3’-концу. Какая последовательность аминокислот получится в синтезируемом пептиде (используйте таблицу генетического кода)?
+                    - generic [ref=e105]:
+                      - strong [ref=e107]: Правила пользования таблицей
+                      - generic [ref=e108]:
+                        - strong [ref=e109]: Первый
+                        - text: нуклеотид в триплете берётся из левого вертикального ряда;
+                        - strong [ref=e110]: второй
+                        - text: — из верхнего горизонтального ряда и
+                        - strong [ref=e111]: третий
+                        - text: — из правого вертикального. Там, где пересекутся линии, идущие от всех трёх нуклеотидов, и находится искомая аминокислота.
+                - generic [ref=e116]:
+                  - text: Нуклеотидная последовательность матричной цепи ДНК 3'-
+                  - textbox [active] [ref=e117]
+                  - text: "-5' (запишите последовательность нуклеотидов без пробелов)."
+                  - text: Последовательность иРНК 5'-
+                  - textbox [ref=e118]
+                  - text: "-3' (запишите последовательность нуклеотидов без пробелов)."
+                  - text: Последовательность аминокислот в пептиде
+                  - textbox [ref=e119]
+                  - text: "-"
+                  - textbox [ref=e120]
+                  - text: "-"
+                  - textbox [ref=e121]
+                  - text: "-"
+                  - textbox [ref=e122]
+                  - text: .
+          - generic [ref=e128]:
+            - generic [ref=e131]:
+              - button [disabled] [ref=e133]:
+                - img [ref=e135]
+              - generic [ref=e138]: 100%
+              - button [ref=e140] [cursor=pointer]:
+                - img [ref=e142] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e147] [cursor=pointer]:
+              - generic [ref=e150] [cursor=pointer]: "2"
+              - generic [ref=e151] [cursor=pointer]: Показать подсказку
+        - generic [ref=e155]:
+          - generic [ref=e158]: Интеллектуальный тренажер
+          - button "Управление учениками" [ref=e164] [cursor=pointer]:
+            - img [ref=e167] [cursor=pointer]
+            - text: Управление учениками
+          - generic [ref=e169]:
+            - generic [ref=e171]:
+              - button "Черновик" [ref=e172] [cursor=pointer]:
+                - img [ref=e175] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e178] [cursor=pointer]:
+                - img [ref=e181] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - generic [ref=e183]:
+                - button "Часто задаваемые вопросы" [ref=e185] [cursor=pointer]:
+                  - img [ref=e188] [cursor=pointer]
+                  - text: Часто задаваемые вопросы
+                - generic [ref=e190]:
+                  - button "Информация об уроке" [ref=e192] [cursor=pointer]:
+                    - img [ref=e195] [cursor=pointer]
+                    - text: Информация об уроке
+                  - generic [ref=e197]: Вы привязаны к школе ismart_Тест educont 2
+            - generic [ref=e198]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Далее" [ref=e199] [cursor=pointer]:
+                - text: Далее
+                - img [ref=e202] [cursor=pointer]
+  - generic [ref=e211]:
+    - generic [ref=e213]:
+      - generic [ref=e214]:
+        - generic [ref=e217]:
+          - text: "Курс:"
+          - generic [ref=e218]: Подготовка к ЕГЭ по биологии. Задание 27-28. Решение цитологических задач. Решение генетических задач
+        - button [ref=e219] [cursor=pointer]:
+          - img [ref=e221] [cursor=pointer]
+      - heading "Широкие возможности урока от iSmart" [level=1] [ref=e229]
+    - generic [ref=e232]:
+      - button "<- Назад" [disabled] [ref=e233]
+      - button "Подробнее о курсе ->" [ref=e234] [cursor=pointer]
+```

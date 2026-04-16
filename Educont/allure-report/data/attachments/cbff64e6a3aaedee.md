@@ -1,0 +1,126 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+        - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - region "Задача для решения" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27] [cursor=pointer]:
+              - generic [ref=e29]:
+                - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                  - img [ref=e33] [cursor=pointer]
+                  - text: Вернуться обратно
+                - generic [ref=e35]:
+                  - generic [ref=e36]:
+                    - button "1" [ref=e39] [cursor=pointer]
+                    - button "2" [ref=e42] [cursor=pointer]
+                    - button "3" [ref=e45] [cursor=pointer]
+                    - button "4" [ref=e48] [cursor=pointer]
+                    - button "5" [ref=e51] [cursor=pointer]
+                    - button "6" [ref=e54] [cursor=pointer]
+                    - button "7" [ref=e57] [cursor=pointer]
+                    - button "8" [ref=e60] [cursor=pointer]
+                    - button "9" [ref=e63] [cursor=pointer]
+                    - button "10" [ref=e66] [cursor=pointer]
+                  - generic [ref=e67]:
+                    - button [disabled] [ref=e68]:
+                      - img [ref=e70]
+                    - button [ref=e73] [cursor=pointer]:
+                      - img [ref=e75] [cursor=pointer]
+              - generic [ref=e78]:
+                - generic [ref=e80]:
+                  - button "Воспроизвести аудио" [ref=e81] [cursor=pointer]:
+                    - generic:
+                      - img
+                  - heading ". О ком говорится в предложении?" [level=4] [ref=e82]:
+                    - generic [ref=e84]: . О ком говорится в предложении?
+                - generic [ref=e86]:
+                  - img "decore" [ref=e89]
+                  - heading "Однажды зимой Вася поехал в гости к бабушке." [level=2] [ref=e93]
+                - generic [ref=e97]:
+                  - table [ref=e103] [cursor=pointer]:
+                    - rowgroup [ref=e104] [cursor=pointer]:
+                      - row "Вася" [ref=e105] [cursor=pointer]:
+                        - cell "Вася" [ref=e106] [cursor=pointer]:
+                          - generic [ref=e110] [cursor=pointer]: Вася
+                  - table [ref=e116] [cursor=pointer]:
+                    - rowgroup [ref=e117] [cursor=pointer]:
+                      - row "к бабушке" [ref=e118] [cursor=pointer]:
+                        - cell "к бабушке" [ref=e119] [cursor=pointer]:
+                          - generic [ref=e123] [cursor=pointer]: к бабушке
+                  - table [ref=e129] [cursor=pointer]:
+                    - rowgroup [ref=e130] [cursor=pointer]:
+                      - row "поехал" [ref=e131] [cursor=pointer]:
+                        - cell "поехал" [ref=e132] [cursor=pointer]:
+                          - generic [ref=e136] [cursor=pointer]: поехал
+                  - table [ref=e142] [cursor=pointer]:
+                    - rowgroup [ref=e143] [cursor=pointer]:
+                      - row "в гости" [ref=e144] [cursor=pointer]:
+                        - cell "в гости" [ref=e145] [cursor=pointer]:
+                          - generic [ref=e149] [cursor=pointer]: в гости
+                  - table [ref=e155] [cursor=pointer]:
+                    - rowgroup [ref=e156] [cursor=pointer]:
+                      - row "зимой" [ref=e157] [cursor=pointer]:
+                        - cell "зимой" [ref=e158] [cursor=pointer]:
+                          - generic [ref=e162] [cursor=pointer]: зимой
+          - generic [ref=e170]:
+            - button [disabled] [ref=e172]:
+              - img [ref=e174]
+            - generic [ref=e177]: 100%
+            - button [ref=e179] [cursor=pointer]:
+              - img [ref=e181] [cursor=pointer]
+        - generic [ref=e186]:
+          - generic [ref=e189]: Интеллектуальный тренажер
+          - button "Управление учениками" [ref=e195] [cursor=pointer]:
+            - img [ref=e198] [cursor=pointer]
+            - text: Управление учениками
+          - generic [ref=e200]:
+            - generic [ref=e202]:
+              - button "Черновик" [ref=e203] [cursor=pointer]:
+                - img [ref=e206] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e209] [cursor=pointer]:
+                - img [ref=e212] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - generic [ref=e214]:
+                - button "Часто задаваемые вопросы" [ref=e216] [cursor=pointer]:
+                  - img [ref=e219] [cursor=pointer]
+                  - text: Часто задаваемые вопросы
+                - generic [ref=e221]:
+                  - button "Информация об уроке" [ref=e223] [cursor=pointer]:
+                    - img [ref=e226] [cursor=pointer]
+                    - text: Информация об уроке
+                  - generic [ref=e228]: Вы привязаны к школе ismart_Тест educont 2
+            - generic [ref=e229]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Далее" [ref=e230] [cursor=pointer]:
+                - text: Далее
+                - img [ref=e233] [cursor=pointer]
+  - generic [ref=e242]:
+    - generic [ref=e244]:
+      - generic [ref=e245]:
+        - generic [ref=e248]:
+          - text: "Курс:"
+          - generic [ref=e249]: Выделение субъекта в длинном предложении
+        - button [ref=e250] [cursor=pointer]:
+          - img [ref=e252] [cursor=pointer]
+      - heading "Широкие возможности урока от iSmart" [level=1] [ref=e260]
+    - generic [ref=e263]:
+      - button "<- Назад" [disabled] [ref=e264]
+      - button "Подробнее о курсе ->" [ref=e265] [cursor=pointer]
+```

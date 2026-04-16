@@ -1,0 +1,118 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+        - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - region "Задача для решения" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27] [cursor=pointer]:
+              - generic [ref=e29]:
+                - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                  - img [ref=e33] [cursor=pointer]
+                  - text: Вернуться обратно
+                - generic [ref=e35]:
+                  - generic [ref=e36]:
+                    - button "1" [ref=e39] [cursor=pointer]
+                    - button "2" [ref=e42] [cursor=pointer]
+                    - button "3" [ref=e45] [cursor=pointer]
+                    - button "4" [ref=e48] [cursor=pointer]
+                    - button "5" [ref=e51] [cursor=pointer]
+                    - button "6" [ref=e54] [cursor=pointer]
+                    - button "7" [ref=e57] [cursor=pointer]
+                    - button "8" [ref=e60] [cursor=pointer]
+                    - button "9" [ref=e63] [cursor=pointer]
+                    - button "10" [ref=e66] [cursor=pointer]
+                  - generic [ref=e67]:
+                    - button [disabled] [ref=e68]:
+                      - img [ref=e70]
+                    - button [ref=e73] [cursor=pointer]:
+                      - img [ref=e75] [cursor=pointer]
+              - generic [ref=e78]:
+                - generic [ref=e80]:
+                  - button "Воспроизвести аудио" [ref=e81] [cursor=pointer]:
+                    - generic:
+                      - img
+                  - heading "Прочитай и нажми на то, что подходит." [level=4] [ref=e82]:
+                    - generic [ref=e84]: Прочитай и нажми на то, что подходит.
+                - generic [ref=e86]:
+                  - img "decore" [ref=e89]
+                  - heading "Бабушка приехала в гости к внукам. Привезла им клубничное, розовое мороженое." [level=3] [ref=e93]
+                - generic [ref=e97]:
+                  - heading "Какое мороженое привезла бабушка?" [level=3] [ref=e98]
+                  - generic [ref=e99]:
+                    - generic [ref=e101] [cursor=pointer]: шоколадное
+                    - generic [ref=e103] [cursor=pointer]: клубничное
+                    - generic [ref=e105] [cursor=pointer]: молочное
+                  - separator [ref=e106]
+                  - heading "Какого цвета мороженое?" [level=3] [ref=e108]
+                  - generic [ref=e110]:
+                    - generic [ref=e112] [cursor=pointer]: белое
+                    - generic [ref=e114] [cursor=pointer]: красное
+                    - generic [ref=e116] [cursor=pointer]: розовое
+                  - separator [ref=e117]
+                  - heading "Кому бабушка привезла мороженое?" [level=3] [ref=e119]
+                  - generic [ref=e121]:
+                    - generic [ref=e123] [cursor=pointer]: внукам
+                    - generic [ref=e125] [cursor=pointer]: дедушке
+                    - generic [ref=e127] [cursor=pointer]: маме
+          - generic [ref=e135]:
+            - button [disabled] [ref=e137]:
+              - img [ref=e139]
+            - generic [ref=e142]: 100%
+            - button [ref=e144] [cursor=pointer]:
+              - img [ref=e146] [cursor=pointer]
+        - generic [ref=e151]:
+          - generic [ref=e154]: Интеллектуальный тренажер
+          - button "Управление учениками" [ref=e160] [cursor=pointer]:
+            - img [ref=e163] [cursor=pointer]
+            - text: Управление учениками
+          - generic [ref=e165]:
+            - generic [ref=e167]:
+              - button "Черновик" [ref=e168] [cursor=pointer]:
+                - img [ref=e171] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e174] [cursor=pointer]:
+                - img [ref=e177] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - generic [ref=e179]:
+                - button "Часто задаваемые вопросы" [ref=e181] [cursor=pointer]:
+                  - img [ref=e184] [cursor=pointer]
+                  - text: Часто задаваемые вопросы
+                - generic [ref=e186]:
+                  - button "Информация об уроке" [ref=e188] [cursor=pointer]:
+                    - img [ref=e191] [cursor=pointer]
+                    - text: Информация об уроке
+                  - generic [ref=e193]: Вы привязаны к школе ismart_Тест educont 2
+            - generic [ref=e194]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Далее" [ref=e195] [cursor=pointer]:
+                - text: Далее
+                - img [ref=e198] [cursor=pointer]
+  - generic [ref=e207]:
+    - generic [ref=e209]:
+      - generic [ref=e210]:
+        - generic [ref=e213]:
+          - text: "Курс:"
+          - generic [ref=e214]: "Текст и вопросы: Какое/Какая/Какой? Какого цвета? Кому?"
+        - button [ref=e215] [cursor=pointer]:
+          - img [ref=e217] [cursor=pointer]
+      - heading "Широкие возможности урока от iSmart" [level=1] [ref=e225]
+    - generic [ref=e228]:
+      - button "<- Назад" [disabled] [ref=e229]
+      - button "Подробнее о курсе ->" [ref=e230] [cursor=pointer]
+```

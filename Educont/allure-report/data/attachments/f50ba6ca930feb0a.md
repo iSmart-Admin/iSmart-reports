@@ -1,0 +1,114 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+        - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - region "Задача для решения" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27] [cursor=pointer]:
+              - generic [ref=e29]:
+                - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                  - img [ref=e33] [cursor=pointer]
+                  - text: Вернуться обратно
+                - generic [ref=e35]:
+                  - generic [ref=e36]:
+                    - button "1" [ref=e39] [cursor=pointer]
+                    - button "2" [ref=e42] [cursor=pointer]
+                    - button "3" [ref=e45] [cursor=pointer]
+                    - button "4" [ref=e48] [cursor=pointer]
+                    - button "5" [ref=e51] [cursor=pointer]
+                    - button "6" [ref=e54] [cursor=pointer]
+                    - button "7" [ref=e57] [cursor=pointer]
+                    - button "8" [ref=e60] [cursor=pointer]
+                    - button "9" [ref=e63] [cursor=pointer]
+                    - button "10" [ref=e66] [cursor=pointer]
+                  - generic [ref=e67]:
+                    - button [disabled] [ref=e68]:
+                      - img [ref=e70]
+                    - button [ref=e73] [cursor=pointer]:
+                      - img [ref=e75] [cursor=pointer]
+              - generic [ref=e78]:
+                - generic [ref=e80]:
+                  - button "Воспроизвести аудио" [ref=e81] [cursor=pointer]:
+                    - generic:
+                      - img
+                  - heading "Какая схема подходит к слову КАША?" [level=4] [ref=e82]:
+                    - generic [ref=e84]:
+                      - text: Какая схема подходит к слову
+                      - strong [ref=e85]: КАША
+                      - text: "?"
+                - img "decore" [ref=e90]
+                - generic [ref=e97]:
+                  - table [ref=e103] [cursor=pointer]:
+                    - rowgroup [ref=e104] [cursor=pointer]:
+                      - row "- -" [ref=e105] [cursor=pointer]:
+                        - cell "- -" [ref=e106] [cursor=pointer]:
+                          - heading "- -" [level=3] [ref=e108] [cursor=pointer]:
+                            - text: "-"
+                            - text: "-"
+                  - table [ref=e114] [cursor=pointer]:
+                    - rowgroup [ref=e115] [cursor=pointer]:
+                      - row "-" [ref=e116] [cursor=pointer]:
+                        - cell "-" [ref=e117] [cursor=pointer]:
+                          - heading "-" [level=3] [ref=e119] [cursor=pointer]: "-"
+          - generic [ref=e127]:
+            - button [disabled] [ref=e129]:
+              - img [ref=e131]
+            - generic [ref=e134]: 100%
+            - button [ref=e136] [cursor=pointer]:
+              - img [ref=e138] [cursor=pointer]
+        - generic [ref=e143]:
+          - generic [ref=e146]: Интеллектуальный тренажер
+          - button "Управление учениками" [ref=e152] [cursor=pointer]:
+            - img [ref=e155] [cursor=pointer]
+            - text: Управление учениками
+          - generic [ref=e157]:
+            - generic [ref=e159]:
+              - button "Черновик" [ref=e160] [cursor=pointer]:
+                - img [ref=e163] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e166] [cursor=pointer]:
+                - img [ref=e169] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - generic [ref=e171]:
+                - button "Часто задаваемые вопросы" [ref=e173] [cursor=pointer]:
+                  - img [ref=e176] [cursor=pointer]
+                  - text: Часто задаваемые вопросы
+                - generic [ref=e178]:
+                  - button "Информация об уроке" [ref=e180] [cursor=pointer]:
+                    - img [ref=e183] [cursor=pointer]
+                    - text: Информация об уроке
+                  - generic [ref=e185]: Вы привязаны к школе ismart_Тест educont 2
+            - generic [ref=e186]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Далее" [ref=e187] [cursor=pointer]:
+                - text: Далее
+                - img [ref=e190] [cursor=pointer]
+  - generic [ref=e199]:
+    - generic [ref=e201]:
+      - generic [ref=e202]:
+        - generic [ref=e205]:
+          - text: "Курс:"
+          - generic [ref=e206]: Деление слов на слоги для переноса
+        - button [ref=e207] [cursor=pointer]:
+          - img [ref=e209] [cursor=pointer]
+      - heading "Широкие возможности урока от iSmart" [level=1] [ref=e217]
+    - generic [ref=e220]:
+      - button "<- Назад" [disabled] [ref=e221]
+      - button "Подробнее о курсе ->" [ref=e222] [cursor=pointer]
+```
