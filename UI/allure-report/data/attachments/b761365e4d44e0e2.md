@@ -1,0 +1,185 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [active] [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Кабинет ученика" [ref=e21] [cursor=pointer]:
+        - /url: /student/
+        - generic [ref=e24] [cursor=pointer]: Кабинет ученика
+      - link "Рейтинг" [ref=e27] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e30] [cursor=pointer]: Рейтинг
+      - link "Помощник" [ref=e33] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e36] [cursor=pointer]: Помощник
+      - link "Игра" [ref=e39] [cursor=pointer]:
+        - /url: /game
+        - generic [ref=e42] [cursor=pointer]: Игра
+      - link "Хогвартс Хогвартс" [ref=e45] [cursor=pointer]:
+        - /url: /hogwarts
+        - generic [ref=e48] [cursor=pointer]:
+          - img "Хогвартс" [ref=e50] [cursor=pointer]
+          - generic [ref=e51] [cursor=pointer]: Хогвартс
+    - generic [ref=e54]:
+      - generic [ref=e55]:
+        - generic [ref=e58] [cursor=pointer]: "1118"
+        - generic [ref=e61]: "2030"
+      - button [ref=e63] [cursor=pointer]:
+        - img [ref=e65] [cursor=pointer]
+      - generic [ref=e67] [cursor=pointer]:
+        - generic [ref=e70] [cursor=pointer]: С
+        - generic [ref=e71] [cursor=pointer]:
+          - paragraph [ref=e72] [cursor=pointer]: Ученик
+          - paragraph [ref=e73] [cursor=pointer]: София
+        - img [ref=e75] [cursor=pointer]
+  - generic [ref=e80]:
+    - generic [ref=e81]:
+      - generic [ref=e82]:
+        - generic [ref=e83]:
+          - generic [ref=e85]:
+            - img [ref=e89]:
+              - generic [ref=e93]: С
+            - generic [ref=e101]:
+              - generic [ref=e102]: София
+              - paragraph [ref=e103]: Ученик
+          - button "В кабинет родителя" [ref=e104] [cursor=pointer]:
+            - text: В кабинет родителя
+            - img [ref=e107] [cursor=pointer]
+        - generic [ref=e109]:
+          - button "Задания" [ref=e110] [cursor=pointer]:
+            - img [ref=e113] [cursor=pointer]
+            - text: Задания
+          - button "Профиль" [ref=e115] [cursor=pointer]:
+            - img [ref=e118] [cursor=pointer]
+            - text: Профиль
+          - button "Мои классы" [ref=e120] [cursor=pointer]:
+            - img [ref=e123] [cursor=pointer]
+            - text: Мои классы
+          - button "Магазин ученика" [ref=e125] [cursor=pointer]:
+            - img [ref=e128] [cursor=pointer]
+            - text: Магазин ученика
+          - button "Награды" [ref=e130] [cursor=pointer]:
+            - img [ref=e133] [cursor=pointer]
+            - text: Награды
+          - button "Чаты" [ref=e135] [cursor=pointer]:
+            - img [ref=e138] [cursor=pointer]
+            - text: Чаты
+          - button "Доступность" [ref=e140] [cursor=pointer]:
+            - img [ref=e143] [cursor=pointer]
+            - text: Доступность
+      - generic [ref=e145]:
+        - button "Полезная информация" [ref=e146] [cursor=pointer]:
+          - img [ref=e149] [cursor=pointer]
+          - text: Полезная информация
+        - button "Поддержка" [ref=e151] [cursor=pointer]:
+          - img [ref=e154] [cursor=pointer]
+          - text: Поддержка
+    - generic [ref=e160]:
+      - generic [ref=e161]:
+        - generic [ref=e162]:
+          - img [ref=e166]
+          - generic [ref=e170]:
+            - generic [ref=e172]:
+              - textbox "Выберите класс" [disabled]
+            - img [ref=e175] [cursor=pointer]
+        - checkbox "Показать выходные дни" [checked] [ref=e178] [cursor=pointer]:
+          - generic [ref=e181] [cursor=pointer]: Показать выходные дни
+      - generic [ref=e182]:
+        - generic [ref=e184]:
+          - generic [ref=e185]:
+            - button "Сегодня" [ref=e187] [cursor=pointer]
+            - generic [ref=e188]:
+              - button [ref=e189] [cursor=pointer]:
+                - img [ref=e191] [cursor=pointer]
+              - button [ref=e193] [cursor=pointer]:
+                - img [ref=e195] [cursor=pointer]
+            - generic [ref=e197]: апрель 2026
+          - generic [ref=e199]:
+            - button "Неделя" [disabled] [ref=e200]
+            - generic [ref=e203]:
+              - textbox [ref=e205]: 17.04.2026
+              - img [ref=e208]
+        - generic [ref=e210]:
+          - generic [ref=e211]:
+            - generic [ref=e213]: 14.04.2026г, вторник
+            - generic [ref=e218]:
+              - generic [ref=e219]:
+                - generic [ref=e221]:
+                  - img [ref=e224]
+                  - generic [ref=e226]: Домашняя работа
+                - generic [ref=e231]: 0%
+              - generic [ref=e233] [cursor=pointer]:
+                - button [ref=e234] [cursor=pointer]:
+                  - img [ref=e236] [cursor=pointer]
+                - generic [ref=e238] [cursor=pointer]: Задание от мамы
+          - generic [ref=e239]:
+            - generic [ref=e241]: 15.04.2026г, среда
+            - generic [ref=e242]:
+              - generic [ref=e246]:
+                - generic [ref=e247]:
+                  - generic [ref=e249]:
+                    - img [ref=e252]
+                    - generic [ref=e254]: Домашняя работа
+                  - generic [ref=e259]: 0%
+                - generic [ref=e261] [cursor=pointer]:
+                  - button [ref=e262] [cursor=pointer]:
+                    - img [ref=e264] [cursor=pointer]
+                  - generic [ref=e266] [cursor=pointer]: Задание от мамы
+              - generic [ref=e270]:
+                - generic [ref=e271]:
+                  - generic [ref=e273]:
+                    - img [ref=e276]
+                    - generic [ref=e278]: Домашняя работа
+                  - generic [ref=e283]: 0%
+                - generic [ref=e285] [cursor=pointer]:
+                  - button [ref=e286] [cursor=pointer]:
+                    - img [ref=e288] [cursor=pointer]
+                  - generic [ref=e290] [cursor=pointer]: Задание от мамы
+          - generic [ref=e291]:
+            - generic [ref=e293]: 16.04.2026г, четверг
+            - generic [ref=e294]:
+              - generic [ref=e298]:
+                - generic [ref=e299]:
+                  - generic [ref=e301]:
+                    - img [ref=e304]
+                    - generic [ref=e306]: Домашняя работа
+                  - generic [ref=e311]: 0%
+                - generic [ref=e313] [cursor=pointer]:
+                  - button [ref=e314] [cursor=pointer]:
+                    - img [ref=e316] [cursor=pointer]
+                  - generic [ref=e318] [cursor=pointer]: Задание от мамы
+              - generic [ref=e322]:
+                - generic [ref=e323]:
+                  - generic [ref=e325]:
+                    - img [ref=e328]
+                    - generic [ref=e330]: Домашняя работа
+                  - generic [ref=e335]: 0%
+                - generic [ref=e337] [cursor=pointer]:
+                  - button [ref=e338] [cursor=pointer]:
+                    - img [ref=e340] [cursor=pointer]
+                  - generic [ref=e342] [cursor=pointer]: Задание от мамы
+              - generic [ref=e346]:
+                - generic [ref=e347]:
+                  - generic [ref=e349]:
+                    - img [ref=e352]
+                    - generic [ref=e354]: Домашняя работа
+                  - generic [ref=e359]: 0%
+                - generic [ref=e361] [cursor=pointer]:
+                  - button [ref=e362] [cursor=pointer]:
+                    - img [ref=e364] [cursor=pointer]
+                  - generic [ref=e366] [cursor=pointer]: Задание от мамы
+              - generic [ref=e370]:
+                - generic [ref=e371]:
+                  - generic [ref=e373]:
+                    - img [ref=e376]
+                    - generic [ref=e378]: Домашняя работа
+                  - generic [ref=e383]: 0%
+                - generic [ref=e385] [cursor=pointer]:
+                  - button [ref=e386] [cursor=pointer]:
+                    - img [ref=e388] [cursor=pointer]
+                  - generic [ref=e390] [cursor=pointer]: Задание от мамы
+```

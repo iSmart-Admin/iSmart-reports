@@ -1,0 +1,64 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - region "Задача для решения" [ref=e25] [cursor=pointer]:
+          - generic [ref=e26] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+              - img [ref=e32] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e35]:
+              - generic [ref=e37]:
+                - img [ref=e41]
+                - heading "Какой общий признак у фигур?" [level=4] [ref=e43]:
+                  - generic [ref=e45]: Какой общий признак у фигур?
+              - img "decore" [ref=e50]
+              - generic [ref=e54]:
+                - heading "цвет" [level=2] [ref=e58] [cursor=pointer]
+                - heading "форма" [level=2] [ref=e62] [cursor=pointer]
+        - generic [ref=e70]:
+          - button [disabled] [ref=e72]:
+            - img [ref=e74]
+          - generic [ref=e77]: 100%
+          - button [ref=e79] [cursor=pointer]:
+            - img [ref=e81] [cursor=pointer]
+      - generic [ref=e86]:
+        - generic [ref=e89]: Интеллектуальный тренажер
+        - generic [ref=e93]:
+          - generic [ref=e98]: 1 из 15
+          - generic [ref=e100]:
+            - generic [ref=e101]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e103] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e106]:
+          - generic [ref=e108]:
+            - button "Пройти опрос" [ref=e109] [cursor=pointer]:
+              - generic [ref=e111] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e112] [cursor=pointer]:
+              - img [ref=e115] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e118] [cursor=pointer]:
+              - img [ref=e121] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e125] [cursor=pointer]:
+              - img [ref=e128] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e130]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e131] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e134] [cursor=pointer]
+            - generic [ref=e137]: 69e1d2f50510b2000665500b
+```
