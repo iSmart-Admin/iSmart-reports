@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query ClassroomStudents($classroomId: String!) {\n  classroomStudents(classroomId: $classroomId) {\n    ...classroomStudentFragment\n  }\n}\n\nfragment classroomStudentFragment on ClassroomStudent {\n  id\n  invitationAccepted\n  invitationCode\n  name\n  studentUserId\n  educontUid\n}\n",
+      "variables": {
+        "classroomId": "68e615e9744d0a00075a64a4"
+      }
+    },
+    "timestap": "17.04.2026, 12:12:45"
+  },
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 502,
+    "payload": {
+      "query": "query ClassroomStudents($classroomId: String!) {\n  classroomStudents(classroomId: $classroomId) {\n    ...classroomStudentFragment\n  }\n}\n\nfragment classroomStudentFragment on ClassroomStudent {\n  id\n  invitationAccepted\n  invitationCode\n  name\n  studentUserId\n  educontUid\n}\n",
+      "variables": {
+        "classroomId": "68e615e9744d0a00075a64a4"
+      }
+    },
+    "timestap": "17.04.2026, 12:12:45"
+  }
+]
