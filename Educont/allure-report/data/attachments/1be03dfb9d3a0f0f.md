@@ -1,0 +1,105 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e13]:
+          - text: "Курс:"
+          - generic [ref=e14]: "Особенность согласных звуков: парные по звонкости-глухости согласные"
+        - button [ref=e15] [cursor=pointer]:
+          - img [ref=e17] [cursor=pointer]
+      - heading "Широкие возможности урока от iSmart" [level=1] [ref=e25]
+    - generic [ref=e28]:
+      - button "<- Назад" [disabled] [ref=e29]
+      - button "Подробнее о курсе ->" [ref=e30] [cursor=pointer]
+  - generic [ref=e39]:
+    - generic:
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - generic [ref=e42]: Меню разработчика
+          - button [ref=e44] [cursor=pointer]:
+            - img [ref=e46] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e48] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e49] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+        - button "Выйти из школьного учителя" [ref=e50] [cursor=pointer]
+      - generic [ref=e54]:
+        - generic [ref=e58]:
+          - generic [ref=e59]:
+            - generic [ref=e60]:
+              - generic [ref=e61]:
+                - generic [ref=e62]: Задания урока
+                - img "Подсказка" [ref=e63] [cursor=pointer]:
+                  - img [ref=e65] [cursor=pointer]
+              - generic [ref=e68]:
+                - button "1" [ref=e69] [cursor=pointer]
+                - button "2" [ref=e70] [cursor=pointer]
+                - button "3" [ref=e71] [cursor=pointer]
+                - button "4" [ref=e72] [cursor=pointer]
+                - button "5" [ref=e73] [cursor=pointer]
+                - button "6" [ref=e74] [cursor=pointer]
+                - button "7" [ref=e75] [cursor=pointer]
+                - button "8" [ref=e76] [cursor=pointer]
+                - button "9" [ref=e77] [cursor=pointer]
+                - button "10" [ref=e78] [cursor=pointer]
+                - button "+" [ref=e79] [cursor=pointer]
+              - button "Редактировать урок" [ref=e80] [cursor=pointer]
+            - generic [ref=e81]:
+              - generic [ref=e82]:
+                - generic [ref=e83]: Отчёты и аналитика
+                - img "Для учителей" [ref=e84] [cursor=pointer]:
+                  - img [ref=e86] [cursor=pointer]
+              - generic [ref=e88]:
+                - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+                - link "личном кабинете iSmart." [ref=e89] [cursor=pointer]:
+                  - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+              - button "Управление учениками" [ref=e90] [cursor=pointer]:
+                - generic [ref=e91] [cursor=pointer]: Управление учениками
+            - generic [ref=e92]:
+              - button "Заметки к уроку видны только вам" [ref=e93] [cursor=pointer]:
+                - generic [ref=e94] [cursor=pointer]:
+                  - img [ref=e96] [cursor=pointer]
+                  - generic [ref=e98] [cursor=pointer]: Заметки к уроку
+                - button "видны только вам" [ref=e99] [cursor=pointer]:
+                  - img [ref=e101] [cursor=pointer]
+              - button "Часто задаваемые вопросы" [ref=e103] [cursor=pointer]:
+                - generic [ref=e104] [cursor=pointer]:
+                  - img [ref=e106] [cursor=pointer]
+                  - generic [ref=e108] [cursor=pointer]: Часто задаваемые вопросы
+              - button "Сообщить об ошибке" [ref=e109] [cursor=pointer]:
+                - generic [ref=e110] [cursor=pointer]:
+                  - img [ref=e112] [cursor=pointer]
+                  - generic [ref=e114] [cursor=pointer]: Сообщить об ошибке
+          - generic [ref=e115] [cursor=pointer]:
+            - generic [ref=e116] [cursor=pointer]:
+              - img "schoolIcon" [ref=e117] [cursor=pointer]
+              - generic [ref=e118] [cursor=pointer]: ismart_Тест educont 2
+            - link "Перейти в личный кабинет" [ref=e119] [cursor=pointer]:
+              - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+              - img [ref=e121] [cursor=pointer]
+        - generic [ref=e125]:
+          - region "Задача для решения" [ref=e127] [cursor=pointer]:
+            - generic [ref=e130]:
+              - generic [ref=e132]:
+                - img [ref=e136]
+                - heading "Выбери парные согласные звуки." [level=4] [ref=e138]:
+                  - generic [ref=e140]: Выбери парные согласные звуки.
+              - img "decore" [ref=e145]
+              - img [ref=e150]:
+                - generic [ref=e151]:
+                  - img [ref=e156] [cursor=pointer]:
+                    - img [ref=e163] [cursor=pointer]
+                  - img [ref=e165] [cursor=pointer]:
+                    - img [ref=e172] [cursor=pointer]
+                  - img [ref=e174] [cursor=pointer]:
+                    - img [ref=e181] [cursor=pointer]
+          - button "2 Взять 1 подсказку" [ref=e190] [cursor=pointer]:
+            - generic [ref=e193] [cursor=pointer]: "2"
+            - generic [ref=e194] [cursor=pointer]: Взять 1 подсказку
+          - button "Далее" [ref=e196] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e199] [cursor=pointer]
+```
