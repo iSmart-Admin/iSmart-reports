@@ -1,0 +1,97 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e13]:
+          - text: "Курс:"
+          - generic [ref=e14]: М.Ю.Лермонтов. Роман "Герой нашего времени". Загадки образа Печорина
+        - button [ref=e15] [cursor=pointer]:
+          - img [ref=e17] [cursor=pointer]
+      - heading "Широкие возможности урока от iSmart" [level=1] [ref=e25]
+    - generic [ref=e28]:
+      - button "<- Назад" [disabled] [ref=e29]
+      - button "Подробнее о курсе ->" [ref=e30] [cursor=pointer]
+  - generic [ref=e39]:
+    - generic:
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - generic [ref=e42]: Меню разработчика
+          - button [ref=e44] [cursor=pointer]:
+            - img [ref=e46] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e48] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e49] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+        - button "Выйти из школьного учителя" [ref=e50] [cursor=pointer]
+      - generic [ref=e54]:
+        - generic [ref=e58]:
+          - generic [ref=e59]:
+            - generic [ref=e60]:
+              - generic [ref=e61]:
+                - generic [ref=e62]: Задания урока
+                - img "Подсказка" [ref=e63] [cursor=pointer]:
+                  - img [ref=e65] [cursor=pointer]
+              - generic [ref=e68]:
+                - button "1" [ref=e69] [cursor=pointer]
+                - button "2" [ref=e70] [cursor=pointer]
+                - button "3" [ref=e71] [cursor=pointer]
+                - button "+" [ref=e72] [cursor=pointer]
+              - button "Редактировать урок" [ref=e73] [cursor=pointer]
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - generic [ref=e76]: Отчёты и аналитика
+                - img "Для учителей" [ref=e77] [cursor=pointer]:
+                  - img [ref=e79] [cursor=pointer]
+              - generic [ref=e81]:
+                - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+                - link "личном кабинете iSmart." [ref=e82] [cursor=pointer]:
+                  - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+              - button "Управление учениками" [ref=e83] [cursor=pointer]:
+                - generic [ref=e84] [cursor=pointer]: Управление учениками
+            - generic [ref=e85]:
+              - button "Заметки к уроку видны только вам" [ref=e86] [cursor=pointer]:
+                - generic [ref=e87] [cursor=pointer]:
+                  - img [ref=e89] [cursor=pointer]
+                  - generic [ref=e91] [cursor=pointer]: Заметки к уроку
+                - button "видны только вам" [ref=e92] [cursor=pointer]:
+                  - img [ref=e94] [cursor=pointer]
+              - button "Часто задаваемые вопросы" [ref=e96] [cursor=pointer]:
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99] [cursor=pointer]
+                  - generic [ref=e101] [cursor=pointer]: Часто задаваемые вопросы
+              - button "Сообщить об ошибке" [ref=e102] [cursor=pointer]:
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105] [cursor=pointer]
+                  - generic [ref=e107] [cursor=pointer]: Сообщить об ошибке
+          - generic [ref=e108] [cursor=pointer]:
+            - generic [ref=e109] [cursor=pointer]:
+              - img "schoolIcon" [ref=e110] [cursor=pointer]
+              - generic [ref=e111] [cursor=pointer]: ismart_Тест educont 2
+            - link "Перейти в личный кабинет" [ref=e112] [cursor=pointer]:
+              - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+              - img [ref=e114] [cursor=pointer]
+        - generic [ref=e118]:
+          - region "Задача для решения" [ref=e120] [cursor=pointer]:
+            - generic [ref=e123]:
+              - generic [ref=e125]:
+                - img [ref=e129]
+                - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e131]:
+                  - generic [ref=e133]: Внеси ответ в специально предназначенное поле.
+              - generic [ref=e135]:
+                - img "decore" [ref=e138]
+                - generic [ref=e141]:
+                  - generic [ref=e144]: «Он был среднего роста; стройный, тонкий стан его и широкие плечи доказывали крепкое сложение, способное переносить все трудности кочевой жизни и перемены климатов, не побежденное ни развратом столичной жизни, ни бурями душевными; пыльный бархатный сюртучок его, застегнутый только на две нижние пуговицы, позволял разглядеть ослепительно чистое белье, изобличавшее привычки порядочного человека».
+                  - generic [ref=e147]: Как называется художественный приём, который позволяет автору раскрыть характер своих героев через изображение их фигуры, лица, одежды, движений, жестов и манер?
+              - generic [ref=e152]:
+                - strong [ref=e153]: "Ответ:"
+                - textbox [active] [ref=e154]
+          - button "2 Взять 1 подсказку" [ref=e164] [cursor=pointer]:
+            - generic [ref=e167] [cursor=pointer]: "2"
+            - generic [ref=e168] [cursor=pointer]: Взять 1 подсказку
+          - button "Далее" [ref=e170] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e173] [cursor=pointer]
+```

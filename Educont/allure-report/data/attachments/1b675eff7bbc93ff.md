@@ -1,0 +1,146 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e13]:
+          - text: "Курс:"
+          - generic [ref=e14]: Правило равновесия рычага. Момент силы
+        - button [ref=e15] [cursor=pointer]:
+          - img [ref=e17] [cursor=pointer]
+      - heading "Широкие возможности урока от iSmart" [level=1] [ref=e25]
+    - generic [ref=e28]:
+      - button "<- Назад" [disabled] [ref=e29]
+      - button "Подробнее о курсе ->" [ref=e30] [cursor=pointer]
+  - generic [ref=e39]:
+    - generic:
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - generic [ref=e42]: Меню разработчика
+          - button [ref=e44] [cursor=pointer]:
+            - img [ref=e46] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e48] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e49] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+        - button "Выйти из школьного учителя" [ref=e50] [cursor=pointer]
+      - generic [ref=e54]:
+        - generic [ref=e58]:
+          - generic [ref=e59]:
+            - generic [ref=e60]:
+              - generic [ref=e61]:
+                - generic [ref=e62]: Задания урока
+                - img "Подсказка" [ref=e63] [cursor=pointer]:
+                  - img [ref=e65] [cursor=pointer]
+              - generic [ref=e68]:
+                - button "1" [ref=e69] [cursor=pointer]
+                - button "2" [ref=e70] [cursor=pointer]
+                - button "3" [ref=e71] [cursor=pointer]
+                - button "4" [ref=e72] [cursor=pointer]
+                - button "5" [ref=e73] [cursor=pointer]
+                - button "6" [ref=e74] [cursor=pointer]
+                - button "+" [ref=e75] [cursor=pointer]
+              - button "Редактировать урок" [ref=e76] [cursor=pointer]
+            - generic [ref=e77]:
+              - generic [ref=e78]:
+                - generic [ref=e79]: Отчёты и аналитика
+                - img "Для учителей" [ref=e80] [cursor=pointer]:
+                  - img [ref=e82] [cursor=pointer]
+              - generic [ref=e84]:
+                - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+                - link "личном кабинете iSmart." [ref=e85] [cursor=pointer]:
+                  - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+              - button "Управление учениками" [ref=e86] [cursor=pointer]:
+                - generic [ref=e87] [cursor=pointer]: Управление учениками
+            - generic [ref=e88]:
+              - button "Заметки к уроку видны только вам" [ref=e89] [cursor=pointer]:
+                - generic [ref=e90] [cursor=pointer]:
+                  - img [ref=e92] [cursor=pointer]
+                  - generic [ref=e94] [cursor=pointer]: Заметки к уроку
+                - button "видны только вам" [ref=e95] [cursor=pointer]:
+                  - img [ref=e97] [cursor=pointer]
+              - button "Часто задаваемые вопросы" [ref=e99] [cursor=pointer]:
+                - generic [ref=e100] [cursor=pointer]:
+                  - img [ref=e102] [cursor=pointer]
+                  - generic [ref=e104] [cursor=pointer]: Часто задаваемые вопросы
+              - button "Сообщить об ошибке" [ref=e105] [cursor=pointer]:
+                - generic [ref=e106] [cursor=pointer]:
+                  - img [ref=e108] [cursor=pointer]
+                  - generic [ref=e110] [cursor=pointer]: Сообщить об ошибке
+          - generic [ref=e111] [cursor=pointer]:
+            - generic [ref=e112] [cursor=pointer]:
+              - img "schoolIcon" [ref=e113] [cursor=pointer]
+              - generic [ref=e114] [cursor=pointer]: ismart_Тест educont 2
+            - link "Перейти в личный кабинет" [ref=e115] [cursor=pointer]:
+              - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+              - img [ref=e117] [cursor=pointer]
+        - generic [ref=e121]:
+          - region "Задача для решения" [ref=e123] [cursor=pointer]:
+            - generic [ref=e126]:
+              - generic [ref=e128]:
+                - img [ref=e132]
+                - heading "Внеси ответы в специально предназначенные поля." [level=4] [ref=e134]:
+                  - generic [ref=e136]: Внеси ответы в специально предназначенные поля.
+              - generic [ref=e138]:
+                - img "decore" [ref=e141]
+                - generic [ref=e143]:
+                  - generic [ref=e147]:
+                    - text: Определи, чему равен момент силы
+                    - generic [ref=e149]:
+                      - math [ref=e151]:
+                        - generic [ref=e154]:
+                          - generic [ref=e155]: F
+                          - generic [ref=e156]: "1"
+                      - generic [ref=e159]:
+                        - generic [ref=e160]: F
+                        - generic [ref=e166]: "1"
+                    - text: .
+                    - text: Сила
+                    - generic [ref=e171]:
+                      - math [ref=e173]:
+                        - generic [ref=e175]:
+                          - generic [ref=e176]:
+                            - generic [ref=e177]: F
+                            - generic [ref=e178]: "1"
+                          - generic [ref=e179]: =
+                          - generic [ref=e180]: "10"
+                          - generic [ref=e181]: Н
+                      - generic [ref=e182]:
+                        - generic [ref=e183]:
+                          - generic [ref=e184]:
+                            - generic [ref=e185]: F
+                            - generic [ref=e191]: "1"
+                          - generic [ref=e195]: =
+                        - generic [ref=e196]:
+                          - generic [ref=e197]: "10"
+                          - generic [ref=e199]: Н
+                    - text: .
+                  - img "5_5_1_new1" [ref=e202]
+              - table [ref=e206]:
+                - rowgroup [ref=e207]:
+                  - row "F1 ,Н l, м M, Н·м" [ref=e208]:
+                    - cell "F1 ,Н" [ref=e209]:
+                      - generic [ref=e211]:
+                        - text: F
+                        - subscript [ref=e212]: 1 ,Н
+                    - cell "l, м" [ref=e213]:
+                      - generic [ref=e215]: l, м
+                    - cell "M, Н·м" [ref=e216]:
+                      - generic [ref=e218]: M, Н·м
+                - rowgroup [ref=e219]:
+                  - row [ref=e220]:
+                    - cell [ref=e221]:
+                      - textbox [ref=e223]
+                    - cell [ref=e224]:
+                      - textbox [ref=e226]
+                    - cell [ref=e227]:
+                      - textbox [ref=e229]
+          - button "2 Взять 1 подсказку" [ref=e238] [cursor=pointer]:
+            - generic [ref=e241] [cursor=pointer]: "2"
+            - generic [ref=e242] [cursor=pointer]: Взять 1 подсказку
+          - button "Далее" [ref=e244] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e247] [cursor=pointer]
+```
