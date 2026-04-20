@@ -1,0 +1,33 @@
+[
+  {
+    "url": "https://payapi.tbank.ru/api/v1/pf/sessions/gQGRQuKG/paymentTypes/card/activate",
+    "status": 422,
+    "payload": {
+      "device": {
+        "type": "Desktop",
+        "os": "Linux",
+        "browser": "Chrome Headless",
+        "webView": false,
+        "iframe": true,
+        "scope": {
+          "deviceId": "",
+          "language": "en-US",
+          "referrer_url": "beta.ismart.org",
+          "os": "Linux",
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+          "cookieId": "",
+          "screenSize": "1920x1080"
+        }
+      },
+      "paymentParams": {
+        "card": {
+          "pan": "4300000000000777",
+          "expDate": "1235",
+          "cvv": "123",
+          "save": false
+        }
+      }
+    },
+    "timestap": "20.04.2026, 13:27:57"
+  }
+]
