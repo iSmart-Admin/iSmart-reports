@@ -1,0 +1,82 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e7]:
+    - button [ref=e9] [cursor=pointer]:
+      - img [ref=e12] [cursor=pointer]
+    - generic [ref=e15]:
+      - heading "Спасибо, что уделяете время! Ваши ответы очень помогут." [level=1] [ref=e16]
+      - button "Закрыть" [ref=e17] [cursor=pointer]
+  - generic [ref=e26]:
+    - generic:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]: Меню разработчика
+          - button [ref=e31] [cursor=pointer]:
+            - img [ref=e33] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e35] [cursor=pointer]
+        - button "Финальная статистика" [ref=e36] [cursor=pointer]
+        - button "Выйти из кода учителя" [ref=e37] [cursor=pointer]
+      - generic [ref=e41]:
+        - generic [ref=e42]:
+          - region "Задача для решения" [ref=e44] [cursor=pointer]:
+            - generic [ref=e45] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e48] [cursor=pointer]:
+                - img [ref=e51] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e54]:
+                - generic [ref=e56]:
+                  - img [ref=e60]
+                  - heading "Выбери верный вариант ответа." [level=4] [ref=e62]:
+                    - generic [ref=e64]: Выбери верный вариант ответа.
+                - generic [ref=e66]:
+                  - img "decore" [ref=e69]
+                  - generic [ref=e75]: Какой город является родиной Левши?
+                - generic [ref=e78]:
+                  - button "Тула" [ref=e80] [cursor=pointer]:
+                    - generic [ref=e82] [cursor=pointer]: Тула
+                  - button "Орел" [ref=e84] [cursor=pointer]:
+                    - generic [ref=e86] [cursor=pointer]: Орел
+                  - button "Москва" [ref=e88] [cursor=pointer]:
+                    - generic [ref=e90] [cursor=pointer]: Москва
+          - generic [ref=e95]:
+            - generic [ref=e98]:
+              - button [disabled] [ref=e100]:
+                - img [ref=e102]
+              - generic [ref=e105]: 100%
+              - button [ref=e107] [cursor=pointer]:
+                - img [ref=e109] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e114] [cursor=pointer]:
+              - generic [ref=e117] [cursor=pointer]: "2"
+              - generic [ref=e118] [cursor=pointer]: Показать подсказку
+        - generic [ref=e122]:
+          - generic [ref=e125]: Интеллектуальный тренажер
+          - generic [ref=e129]:
+            - generic [ref=e134]: 1 из 6
+            - generic [ref=e138]:
+              - img [ref=e139]
+              - generic [ref=e141]: Вы вошли как ученик 9 «А»
+          - generic [ref=e142]:
+            - generic [ref=e144]:
+              - button "Пройти опрос" [ref=e145] [cursor=pointer]:
+                - generic [ref=e147] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e148] [cursor=pointer]:
+                - img [ref=e151] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e154] [cursor=pointer]:
+                - img [ref=e157] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e161] [cursor=pointer]:
+                - img [ref=e164] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e166]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e167] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e170] [cursor=pointer]
+              - generic [ref=e173]: 69e5abb68da27000079bd9d8
+```

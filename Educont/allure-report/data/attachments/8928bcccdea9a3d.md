@@ -1,0 +1,81 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Задания урока
+            - img "Подсказка" [ref=e31] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+          - generic [ref=e36]:
+            - button "1" [ref=e37] [cursor=pointer]
+            - button "2" [ref=e38] [cursor=pointer]
+            - button "3" [ref=e39] [cursor=pointer]
+            - button "4" [ref=e40] [cursor=pointer]
+            - button "5" [ref=e41] [cursor=pointer]
+            - button "6" [ref=e42] [cursor=pointer]
+            - button "7" [ref=e43] [cursor=pointer]
+            - button "8" [ref=e44] [cursor=pointer]
+            - button "9" [ref=e45] [cursor=pointer]
+            - button "10" [ref=e46] [cursor=pointer]
+            - button "+" [ref=e47] [cursor=pointer]
+          - button "Редактировать урок" [ref=e48] [cursor=pointer]
+        - generic [ref=e49]:
+          - generic [ref=e50]:
+            - generic [ref=e51]: Отчёты и аналитика
+            - img "Для учителей" [ref=e52] [cursor=pointer]:
+              - img [ref=e54] [cursor=pointer]
+          - generic [ref=e56]: "Войдите как учитель и настройте класс — тогда вы сможете видеть решения и прогресс учеников: результаты по каждому заданию, ошибки, подсказки, средний балл и общий прогресс."
+          - button "Войти как учитель" [ref=e57] [cursor=pointer]:
+            - generic [ref=e58] [cursor=pointer]: Войти как учитель
+        - generic [ref=e59]:
+          - button "Заметки к уроку видны только вам" [ref=e60] [cursor=pointer]:
+            - generic [ref=e61] [cursor=pointer]:
+              - img [ref=e63] [cursor=pointer]
+              - generic [ref=e65] [cursor=pointer]: Заметки к уроку
+            - button "видны только вам" [ref=e66] [cursor=pointer]:
+              - img [ref=e68] [cursor=pointer]
+          - button "Часто задаваемые вопросы" [ref=e70] [cursor=pointer]:
+            - generic [ref=e71] [cursor=pointer]:
+              - img [ref=e73] [cursor=pointer]
+              - generic [ref=e75] [cursor=pointer]: Часто задаваемые вопросы
+          - button "Сообщить об ошибке" [ref=e76] [cursor=pointer]:
+            - generic [ref=e77] [cursor=pointer]:
+              - img [ref=e79] [cursor=pointer]
+              - generic [ref=e81] [cursor=pointer]: Сообщить об ошибке
+      - generic [ref=e84]:
+        - region "Задача для решения" [ref=e86] [cursor=pointer]:
+          - generic [ref=e89]:
+            - generic [ref=e91]:
+              - img [ref=e95]
+              - heading "Выбери верный вариант ответа." [level=4] [ref=e97]:
+                - generic [ref=e99]: Выбери верный вариант ответа.
+            - generic [ref=e101]:
+              - img "decore" [ref=e104]
+              - generic [ref=e109]:
+                - generic [ref=e110]: Выбери символ, который, по легенде, Константин велел своим воинам нанести на щиты перед битвой у Мульвийского моста.
+                - generic [ref=e111]: Впоследствии он стал одним из символов римской армии.
+            - generic [ref=e115]:
+              - img "800px-Simple_Labarum2.svg" [ref=e121] [cursor=pointer]
+              - img "Templar_cross_new.svg" [ref=e127] [cursor=pointer]
+              - img "1920px-Ichthys.svg" [ref=e133] [cursor=pointer]
+              - img "800px-Vexilloid_of_the_Roman_Empire.svg" [ref=e139] [cursor=pointer]
+        - button "2 Взять 1 подсказку" [ref=e148] [cursor=pointer]:
+          - generic [ref=e151] [cursor=pointer]: "2"
+          - generic [ref=e152] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e154] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e157] [cursor=pointer]
+```

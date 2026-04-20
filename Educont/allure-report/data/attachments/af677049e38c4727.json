@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://edu.ismart.org/trpc/tasks.taskUsedTimeGet?batch=1&input=%7B%220%22%3A%7B%22taskId%22%3A%226193109065c76b1c562a8e40%22%2C%22practiceId%22%3A%226915d1498218510007404bde%22%7D%7D",
+    "status": 500,
+    "payload": null,
+    "timestap": "20.04.2026, 07:28:30"
+  },
+  {
+    "url": "https://edu.ismart.org/trpc/tasks.taskUsedTimeSave?batch=1",
+    "status": 500,
+    "payload": {
+      "0": {
+        "taskId": "6193109065c76b1c562a8e40",
+        "practiceId": "6915d1498218510007404bde",
+        "categoryId": null,
+        "usedTime": 0
+      }
+    },
+    "timestap": "20.04.2026, 07:28:30"
+  }
+]
