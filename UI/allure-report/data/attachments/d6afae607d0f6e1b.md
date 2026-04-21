@@ -1,0 +1,81 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e8]:
+    - generic:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: Меню разработчика
+          - button [ref=e13] [cursor=pointer]:
+            - img [ref=e15] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+        - button "Финальная статистика" [ref=e18] [cursor=pointer]
+        - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - region "Задача для решения" [ref=e26] [cursor=pointer]:
+            - generic [ref=e27] [cursor=pointer]:
+              - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+                - img [ref=e33] [cursor=pointer]
+                - text: Вернуться обратно
+              - generic [ref=e36]:
+                - generic [ref=e38]:
+                  - img [ref=e42]
+                  - heading "Выбери верный вариант ответа." [level=4] [ref=e44]:
+                    - generic [ref=e46]: Выбери верный вариант ответа.
+                - generic [ref=e48]:
+                  - img "decore" [ref=e51]
+                  - generic [ref=e57]: В каком году турки сумели захватить столицу Византийской империи — Константинополь?
+                - generic [ref=e60]:
+                  - button "1204 г." [ref=e62] [cursor=pointer]:
+                    - generic [ref=e64] [cursor=pointer]: 1204 г.
+                  - button "1346 г." [ref=e66] [cursor=pointer]:
+                    - generic [ref=e68] [cursor=pointer]: 1346 г.
+                  - button "1453 г." [ref=e70] [cursor=pointer]:
+                    - generic [ref=e72] [cursor=pointer]: 1453 г.
+                  - button "1505 г." [ref=e74] [cursor=pointer]:
+                    - generic [ref=e76] [cursor=pointer]: 1505 г.
+          - generic [ref=e81]:
+            - generic [ref=e84]:
+              - button [disabled] [ref=e86]:
+                - img [ref=e88]
+              - generic [ref=e91]: 100%
+              - button [ref=e93] [cursor=pointer]:
+                - img [ref=e95] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e100] [cursor=pointer]:
+              - generic [ref=e103] [cursor=pointer]: "2"
+              - generic [ref=e104] [cursor=pointer]: Показать подсказку
+        - generic [ref=e108]:
+          - generic [ref=e111]: Интеллектуальный тренажер
+          - generic [ref=e115]:
+            - generic [ref=e120]: 1 из 9
+            - generic [ref=e124]:
+              - img [ref=e125]
+              - generic [ref=e127]: Вы вошли как ученик 4 «В»
+          - generic [ref=e128]:
+            - generic [ref=e130]:
+              - button "Пройти опрос" [ref=e131] [cursor=pointer]:
+                - generic [ref=e133] [cursor=pointer]: Пройти опрос
+              - button "Черновик" [ref=e134] [cursor=pointer]:
+                - img [ref=e137] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e140] [cursor=pointer]:
+                - img [ref=e143] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Информация об уроке" [ref=e147] [cursor=pointer]:
+                - img [ref=e150] [cursor=pointer]
+                - text: Информация об уроке
+            - generic [ref=e152]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e153] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e156] [cursor=pointer]
+              - generic [ref=e159]: 69bc9aedd211130007f59726
+  - generic [ref=e162]:
+    - img [ref=e165] [cursor=pointer]
+    - generic [ref=e167]: v.7.10.3
+```
