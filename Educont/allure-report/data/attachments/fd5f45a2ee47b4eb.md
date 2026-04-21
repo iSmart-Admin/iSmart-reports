@@ -1,0 +1,67 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e36]:
+              - generic [ref=e38]:
+                - img [ref=e42]
+                - heading "Найдите предложения, содержащие грамматические ошибки." [level=4] [ref=e44]:
+                  - generic [ref=e46]: Найдите предложения, содержащие грамматические ошибки.
+              - img "decore" [ref=e51]
+              - generic [ref=e55]:
+                - generic [ref=e58] [cursor=pointer]: Утром, торопясь в школу, у меня остались дома тетради.
+                - generic [ref=e61] [cursor=pointer]: По прибытию в установленное место разведка начала свою работу.
+                - generic [ref=e64] [cursor=pointer]: Щенок, громко залаяв, побежал к калитке.
+                - generic [ref=e67] [cursor=pointer]: Солнце, медленно скрывающееся за горизонтом, бросало последние лучи на мёрзлую землю.
+        - generic [ref=e75]:
+          - button [disabled] [ref=e77]:
+            - img [ref=e79]
+          - generic [ref=e82]: 100%
+          - button [ref=e84] [cursor=pointer]:
+            - img [ref=e86] [cursor=pointer]
+      - generic [ref=e91]:
+        - generic [ref=e94]: Интеллектуальный тренажер
+        - generic [ref=e98]:
+          - generic [ref=e103]: 1 из 15
+          - generic [ref=e107]:
+            - img [ref=e108]
+            - generic [ref=e110]: Вы вошли как ученик 9 «А»
+        - generic [ref=e111]:
+          - generic [ref=e113]:
+            - button "Пройти опрос" [ref=e114] [cursor=pointer]:
+              - generic [ref=e116] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e117] [cursor=pointer]:
+              - img [ref=e120] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e123] [cursor=pointer]:
+              - img [ref=e126] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e130] [cursor=pointer]:
+              - img [ref=e133] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e135]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e136] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e139] [cursor=pointer]
+            - generic [ref=e142]: 69e806cad24df80007eca5ca
+```
