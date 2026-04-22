@@ -1,0 +1,179 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "+" [ref=e44] [cursor=pointer]
+            - button "Редактировать урок" [ref=e45] [cursor=pointer]
+          - generic [ref=e46]:
+            - generic [ref=e47]:
+              - generic [ref=e48]: Отчёты и аналитика
+              - img "Для учителей" [ref=e49] [cursor=pointer]:
+                - img [ref=e51] [cursor=pointer]
+            - generic [ref=e53]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e54] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Управление учениками" [ref=e55] [cursor=pointer]:
+              - generic [ref=e56] [cursor=pointer]: Управление учениками
+          - generic [ref=e57]:
+            - button "Заметки к уроку видны только вам" [ref=e58] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]:
+                - img [ref=e61] [cursor=pointer]
+                - generic [ref=e63] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e64] [cursor=pointer]:
+                - img [ref=e66] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e68] [cursor=pointer]:
+              - generic [ref=e69] [cursor=pointer]:
+                - img [ref=e71] [cursor=pointer]
+                - generic [ref=e73] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e74] [cursor=pointer]:
+              - generic [ref=e75] [cursor=pointer]:
+                - img [ref=e77] [cursor=pointer]
+                - generic [ref=e79] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e80] [cursor=pointer]:
+          - generic [ref=e81] [cursor=pointer]:
+            - img "schoolIcon" [ref=e82] [cursor=pointer]
+            - generic [ref=e83] [cursor=pointer]: ismart_Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e84] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e86] [cursor=pointer]
+      - generic [ref=e90]:
+        - region "Задача для решения" [ref=e92] [cursor=pointer]:
+          - generic [ref=e95]:
+            - generic [ref=e97]:
+              - img [ref=e101]
+              - heading "Внеси номер ответа в специально предназначенное поле." [level=4] [ref=e103]:
+                - generic [ref=e105]: Внеси номер ответа в специально предназначенное поле.
+            - generic [ref=e107]:
+              - img "decore" [ref=e110]
+              - generic [ref=e115]:
+                - generic [ref=e116]: Буквы «А», «Б», «В» и «Г» написаны
+                - generic [ref=e117]:
+                  - generic [ref=e119]:
+                    - math [ref=e121]:
+                      - generic [ref=e123]:
+                        - generic [ref=e124]: (
+                        - generic [ref=e125]: "1"
+                        - generic [ref=e126]: )
+                    - generic [ref=e128]:
+                      - generic [ref=e129]: (
+                      - generic [ref=e130]: "1"
+                      - generic [ref=e131]: )
+                  - text: чёрным,
+                - generic [ref=e132]:
+                  - generic [ref=e134]:
+                    - math [ref=e136]:
+                      - generic [ref=e138]:
+                        - generic [ref=e139]: (
+                        - generic [ref=e140]: "2"
+                        - generic [ref=e141]: )
+                    - generic [ref=e143]:
+                      - generic [ref=e144]: (
+                      - generic [ref=e145]: "2"
+                      - generic [ref=e146]: )
+                  - text: синим,
+                - generic [ref=e147]:
+                  - generic [ref=e149]:
+                    - math [ref=e151]:
+                      - generic [ref=e153]:
+                        - generic [ref=e154]: (
+                        - generic [ref=e155]: "3"
+                        - generic [ref=e156]: )
+                    - generic [ref=e158]:
+                      - generic [ref=e159]: (
+                      - generic [ref=e160]: "3"
+                      - generic [ref=e161]: )
+                  - text: красным,
+                - generic [ref=e162]:
+                  - generic [ref=e164]:
+                    - math [ref=e166]:
+                      - generic [ref=e168]:
+                        - generic [ref=e169]: (
+                        - generic [ref=e170]: "4"
+                        - generic [ref=e171]: )
+                    - generic [ref=e173]:
+                      - generic [ref=e174]: (
+                      - generic [ref=e175]: "4"
+                      - generic [ref=e176]: )
+                  - text: зелёным
+                - generic [ref=e177]:
+                  - text: фломастерами в некоторой последовательности. Цвета букв не повторяются.
+                  - text: "Известно, что:"
+                - generic [ref=e178]:
+                  - generic [ref=e180]:
+                    - math [ref=e182]:
+                      - generic [ref=e184]:
+                        - generic [ref=e185]: "1"
+                        - generic [ref=e186]: )
+                    - generic [ref=e188]:
+                      - generic [ref=e189]: "1"
+                      - generic [ref=e190]: )
+                  - text: «Б» не чёрная и не зелёная,
+                - generic [ref=e191]:
+                  - generic [ref=e193]:
+                    - math [ref=e195]:
+                      - generic [ref=e197]:
+                        - generic [ref=e198]: "2"
+                        - generic [ref=e199]: )
+                    - generic [ref=e201]:
+                      - generic [ref=e202]: "2"
+                      - generic [ref=e203]: )
+                  - text: синяя буква написана между буквой «В» и красной буквой,
+                - generic [ref=e204]:
+                  - generic [ref=e206]:
+                    - math [ref=e208]:
+                      - generic [ref=e210]:
+                        - generic [ref=e211]: "3"
+                        - generic [ref=e212]: )
+                    - generic [ref=e214]:
+                      - generic [ref=e215]: "3"
+                      - generic [ref=e216]: )
+                  - text: «Г» не синяя и не зелёная,
+                - generic [ref=e217]:
+                  - generic [ref=e219]:
+                    - math [ref=e221]:
+                      - generic [ref=e223]:
+                        - generic [ref=e224]: "4"
+                        - generic [ref=e225]: )
+                    - generic [ref=e227]:
+                      - generic [ref=e228]: "4"
+                      - generic [ref=e229]: )
+                  - text: буква «А» написана между буквой «Г» и чёрной буквой.
+                  - text: Каким фломастером написана буква «В» (в ответе запиши номер фломастера)?
+            - generic [ref=e234]:
+              - strong [ref=e235]: Ответ
+              - text: ":"
+              - textbox [active] [ref=e236]
+        - button "2 Взять 1 подсказку" [ref=e246] [cursor=pointer]:
+          - generic [ref=e249] [cursor=pointer]: "2"
+          - generic [ref=e250] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e252] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e255] [cursor=pointer]
+```

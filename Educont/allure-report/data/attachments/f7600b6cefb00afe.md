@@ -1,0 +1,157 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+              - button "11" [ref=e48] [cursor=pointer]
+              - button "12" [ref=e49] [cursor=pointer]
+              - button "+" [ref=e50] [cursor=pointer]
+            - button "Редактировать урок" [ref=e51] [cursor=pointer]
+          - generic [ref=e52]:
+            - generic [ref=e53]:
+              - generic [ref=e54]: Отчёты и аналитика
+              - img "Для учителей" [ref=e55] [cursor=pointer]:
+                - img [ref=e57] [cursor=pointer]
+            - generic [ref=e59]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e60] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Управление учениками" [ref=e61] [cursor=pointer]:
+              - generic [ref=e62] [cursor=pointer]: Управление учениками
+          - generic [ref=e63]:
+            - button "Заметки к уроку видны только вам" [ref=e64] [cursor=pointer]:
+              - generic [ref=e65] [cursor=pointer]:
+                - img [ref=e67] [cursor=pointer]
+                - generic [ref=e69] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e70] [cursor=pointer]:
+                - img [ref=e72] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e74] [cursor=pointer]:
+              - generic [ref=e75] [cursor=pointer]:
+                - img [ref=e77] [cursor=pointer]
+                - generic [ref=e79] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e80] [cursor=pointer]:
+              - generic [ref=e81] [cursor=pointer]:
+                - img [ref=e83] [cursor=pointer]
+                - generic [ref=e85] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e86] [cursor=pointer]:
+          - generic [ref=e87] [cursor=pointer]:
+            - img "schoolIcon" [ref=e88] [cursor=pointer]
+            - generic [ref=e89] [cursor=pointer]: ismart_Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e90] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e92] [cursor=pointer]
+      - generic [ref=e96]:
+        - region "Задача для решения" [ref=e98] [cursor=pointer]:
+          - generic [ref=e101]:
+            - generic [ref=e103]:
+              - img [ref=e107]
+              - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e109]:
+                - generic [ref=e111]: Внеси ответ в специально предназначенное поле.
+            - generic [ref=e113]:
+              - img "decore" [ref=e116]
+              - generic [ref=e118]:
+                - generic [ref=e119]:
+                  - generic [ref=e122]: Исполнитель Черепашка движется по клетчатому полю.
+                  - img [ref=e124]
+                - generic [ref=e128]:
+                  - text: "В систему команд исполнителя входят команды:"
+                  - generic [ref=e130]:
+                    - math [ref=e132]:
+                      - generic [ref=e135]: "1."
+                    - generic [ref=e138]: "1."
+                  - text: вперёд(цел
+                  - generic [ref=e140]:
+                    - math [ref=e142]:
+                      - generic [ref=e145]: a
+                    - generic [ref=e148]: a
+                  - text: ) — Черепаха перемещается вперёд на заданное количество
+                  - generic [ref=e150]:
+                    - math [ref=e152]:
+                      - generic [ref=e155]: a
+                    - generic [ref=e158]: a
+                  - text: точек (пикселей).
+                  - generic [ref=e160]:
+                    - math [ref=e162]:
+                      - generic [ref=e165]: "2."
+                    - generic [ref=e168]: "2."
+                  - text: назад(цел
+                  - generic [ref=e170]:
+                    - math [ref=e172]:
+                      - generic [ref=e175]: a
+                    - generic [ref=e178]: a
+                  - text: ) — Черепаха перемещается назад на заданное количество
+                  - generic [ref=e180]:
+                    - math [ref=e182]:
+                      - generic [ref=e185]: a
+                    - generic [ref=e188]: a
+                  - text: точек (пикселей).
+                  - generic [ref=e190]:
+                    - math [ref=e192]:
+                      - generic [ref=e195]: "3."
+                    - generic [ref=e198]: "3."
+                  - text: влево(цел угол) — Черепаха поворачивается влево на заданный угол.
+                  - generic [ref=e200]:
+                    - math [ref=e202]:
+                      - generic [ref=e205]: "4."
+                    - generic [ref=e208]: "4."
+                  - text: вправо(цел угол) — Черепаха поворачивается вправо на заданный угол.
+                  - generic [ref=e210]:
+                    - math [ref=e212]:
+                      - generic [ref=e215]: "5."
+                    - generic [ref=e218]: "5."
+                  - text: опустить хвост — Черепаха опускает хвост. Теперь при перемещении Черепаха будет чертить линию.
+                  - generic [ref=e220]:
+                    - math [ref=e222]:
+                      - generic [ref=e225]: "6."
+                    - generic [ref=e228]: "6."
+                  - text: поднять хвост — Черепаха поднимает хвост. Теперь при перемещении Черепаха не будет чертить линию.
+                  - text: "Черепашка выполнила следующие команды:"
+                  - strong [ref=e231]: опустить хвост
+                  - strong [ref=e234]: вперед(5)
+                  - strong [ref=e237]: вправо(90)
+                  - strong [ref=e240]: вперед(5)
+                  - strong [ref=e243]: вправо(90)
+                  - strong [ref=e246]: вперед(5)
+                  - strong [ref=e249]: вправо(90)
+                  - strong [ref=e252]: вперед(5)
+                  - strong [ref=e255]: вправо(90)
+            - generic [ref=e260]:
+              - text: Какую фигуру нарисовала Черепашка?
+              - strong [ref=e261]: "Ответ:"
+              - textbox [active] [ref=e262]
+        - button "2 Взять 1 подсказку" [ref=e272] [cursor=pointer]:
+          - generic [ref=e275] [cursor=pointer]: "2"
+          - generic [ref=e276] [cursor=pointer]: Взять 1 подсказку
+        - button "Далее" [ref=e278] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e281] [cursor=pointer]
+```
