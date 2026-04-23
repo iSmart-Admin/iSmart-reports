@@ -1,0 +1,92 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - region "Задача для решения" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27] [cursor=pointer]:
+            - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+              - text: Вернуться обратно
+            - generic [ref=e36]:
+              - generic [ref=e38]:
+                - img [ref=e42]
+                - heading "Установи соответствие между элементами." [level=4] [ref=e44]:
+                  - generic [ref=e46]: Установи соответствие между элементами.
+              - generic [ref=e48]:
+                - img "decore" [ref=e51]
+                - generic [ref=e57]: К каждому случайному опыту подбери в пару подходящее случайное событие.
+              - generic [ref=e59]:
+                - generic [ref=e60]:
+                  - generic [ref=e61]:
+                    - generic [ref=e67]: "Стрельба по мишени:"
+                    - button [disabled] [ref=e73]
+                  - generic [ref=e74]:
+                    - generic [ref=e80]: "Подбрасывание игральной кости:"
+                    - button [disabled] [ref=e86]
+                  - generic [ref=e87]:
+                    - generic [ref=e93]: "Подбрасывание монеты:"
+                    - button [disabled] [ref=e99]
+                - generic [ref=e100]:
+                  - button "выпал орёл." [ref=e104] [cursor=pointer]:
+                    - generic [ref=e105] [cursor=pointer]: выпал орёл.
+                  - button "промах." [ref=e109] [cursor=pointer]:
+                    - generic [ref=e110] [cursor=pointer]: промах.
+                  - button "выпало очков." [ref=e114] [cursor=pointer]:
+                    - generic [ref=e117] [cursor=pointer]:
+                      - text: выпало
+                      - generic [ref=e119] [cursor=pointer]:
+                        - math [ref=e121] [cursor=pointer]:
+                          - generic [ref=e124] [cursor=pointer]: "5"
+                        - generic [ref=e127] [cursor=pointer]: "5"
+                      - text: очков.
+        - generic [ref=e132]:
+          - generic [ref=e135]:
+            - button [disabled] [ref=e137]:
+              - img [ref=e139]
+            - generic [ref=e142]: 100%
+            - button [ref=e144] [cursor=pointer]:
+              - img [ref=e146] [cursor=pointer]
+          - button "2 Показать подсказку" [ref=e151] [cursor=pointer]:
+            - generic [ref=e154] [cursor=pointer]: "2"
+            - generic [ref=e155] [cursor=pointer]: Показать подсказку
+      - generic [ref=e159]:
+        - generic [ref=e162]: Интеллектуальный тренажер
+        - generic [ref=e166]:
+          - generic [ref=e171]: 1 из 9
+          - generic [ref=e175]:
+            - img [ref=e176]
+            - generic [ref=e178]: Вы вошли как ученик 9 «А»
+        - generic [ref=e179]:
+          - generic [ref=e181]:
+            - button "Пройти опрос" [ref=e182] [cursor=pointer]:
+              - generic [ref=e184] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e185] [cursor=pointer]:
+              - img [ref=e188] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e191] [cursor=pointer]:
+              - img [ref=e194] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e198] [cursor=pointer]:
+              - img [ref=e201] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e203]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e204] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e207] [cursor=pointer]
+            - generic [ref=e210]: 69eaa941f4868b000737530e
+```
