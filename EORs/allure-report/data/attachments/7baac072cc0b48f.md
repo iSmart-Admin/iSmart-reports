@@ -1,0 +1,216 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Алгебра
+      - generic [ref=e21]: Раздел для обучающихся по алгебре
+    - generic [ref=e22]:
+      - generic [ref=e26]:
+        - button "7" [ref=e27] [cursor=pointer]:
+          - img [ref=e31] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e33]:
+          - img [ref=e37]
+          - text: "8"
+        - button "9" [ref=e39] [cursor=pointer]:
+          - img [ref=e43] [cursor=pointer]
+          - text: "9"
+      - generic [ref=e46]:
+        - generic [ref=e50]:
+          - img [ref=e53]
+          - textbox "Поиск по подтемам" [ref=e56]
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - generic [ref=e59] [cursor=pointer]:
+              - generic [ref=e61] [cursor=pointer]: Темы
+              - button [ref=e63] [cursor=pointer]:
+                - img [ref=e65] [cursor=pointer]
+            - generic [ref=e67] [cursor=pointer]:
+              - generic [ref=e70] [cursor=pointer]: Алгебраические выражения. Алгебраическая дробь
+              - img [ref=e72] [cursor=pointer]
+            - generic [ref=e74] [cursor=pointer]:
+              - generic [ref=e77] [cursor=pointer]: Числа и вычисления. Квадратные корни
+              - img [ref=e79] [cursor=pointer]
+            - generic [ref=e81] [cursor=pointer]:
+              - generic [ref=e84] [cursor=pointer]: Алгебраические выражения. Квадратный трёхчлен
+              - img [ref=e86] [cursor=pointer]
+            - generic [ref=e88] [cursor=pointer]:
+              - generic [ref=e91] [cursor=pointer]: Уравнения и неравенства. Квадратные уравнения
+              - img [ref=e93] [cursor=pointer]
+            - generic [ref=e95] [cursor=pointer]:
+              - generic [ref=e98] [cursor=pointer]: Уравнения и неравенства. Системы уравнений
+              - img [ref=e100] [cursor=pointer]
+            - generic [ref=e103] [cursor=pointer]:
+              - generic [ref=e106] [cursor=pointer]: Уравнения и неравенства. Неравенства
+              - img [ref=e108] [cursor=pointer]
+            - generic [ref=e110] [cursor=pointer]:
+              - generic [ref=e113] [cursor=pointer]: Функции. Основные понятия
+              - img [ref=e115] [cursor=pointer]
+            - generic [ref=e117] [cursor=pointer]:
+              - generic [ref=e120] [cursor=pointer]: Функции. Числовые функции
+              - img [ref=e122] [cursor=pointer]
+            - generic [ref=e124] [cursor=pointer]:
+              - generic [ref=e127] [cursor=pointer]: Числа и вычисления. Степень с целым показателем
+              - img [ref=e129] [cursor=pointer]
+            - generic [ref=e131] [cursor=pointer]:
+              - generic [ref=e134] [cursor=pointer]: Повторение и обобщение
+              - img [ref=e136] [cursor=pointer]
+          - generic [ref=e142]:
+            - link "1. Урок 64. Числовые неравенства и их свойства" [ref=e143] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/6994630c7af47b00072b102e/
+              - generic [ref=e144] [cursor=pointer]:
+                - generic [ref=e146] [cursor=pointer]:
+                  - generic [ref=e148] [cursor=pointer]: "1."
+                  - paragraph [ref=e150] [cursor=pointer]: Урок 64. Числовые неравенства и их свойства
+                - img [ref=e153] [cursor=pointer]
+            - link "2. Урок 65. Числовые неравенства и их свойства" [ref=e155] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/699463177af47b00072b13ff/
+              - generic [ref=e156] [cursor=pointer]:
+                - generic [ref=e158] [cursor=pointer]:
+                  - generic [ref=e160] [cursor=pointer]: "2."
+                  - paragraph [ref=e162] [cursor=pointer]: Урок 65. Числовые неравенства и их свойства
+                - img [ref=e165] [cursor=pointer]
+            - link "3. Урок 66. Неравенство с одной переменной" [ref=e167] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/699463267af47b00072b1913/
+              - generic [ref=e168] [cursor=pointer]:
+                - generic [ref=e170] [cursor=pointer]:
+                  - generic [ref=e172] [cursor=pointer]: "3."
+                  - paragraph [ref=e174] [cursor=pointer]: Урок 66. Неравенство с одной переменной
+                - img [ref=e177] [cursor=pointer]
+            - link "4. Урок 67. Линейные неравенства с одной переменной и их решение" [ref=e179] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/6994635f7af47b00072b2d4e/
+              - generic [ref=e180] [cursor=pointer]:
+                - generic [ref=e182] [cursor=pointer]:
+                  - generic [ref=e184] [cursor=pointer]: "4."
+                  - paragraph [ref=e186] [cursor=pointer]: Урок 67. Линейные неравенства с одной переменной и их решение
+                - img [ref=e189] [cursor=pointer]
+            - link "5. Урок 68. Линейные неравенства с одной переменной и их решение" [ref=e191] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/699463687af47b00072b3048/
+              - generic [ref=e192] [cursor=pointer]:
+                - generic [ref=e194] [cursor=pointer]:
+                  - generic [ref=e196] [cursor=pointer]: "5."
+                  - paragraph [ref=e198] [cursor=pointer]: Урок 68. Линейные неравенства с одной переменной и их решение
+                - img [ref=e201] [cursor=pointer]
+            - link "6. Урок 69. Линейные неравенства с одной переменной и их решение" [ref=e203] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/699463727af47b00072b3301/
+              - generic [ref=e204] [cursor=pointer]:
+                - generic [ref=e206] [cursor=pointer]:
+                  - generic [ref=e208] [cursor=pointer]: "6."
+                  - paragraph [ref=e210] [cursor=pointer]: Урок 69. Линейные неравенства с одной переменной и их решение
+                - img [ref=e213] [cursor=pointer]
+            - link "7. Урок 70. Системы линейных неравенств с одной переменной и их решение" [ref=e215] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/699463877af47b00072b3942/
+              - generic [ref=e216] [cursor=pointer]:
+                - generic [ref=e218] [cursor=pointer]:
+                  - generic [ref=e220] [cursor=pointer]: "7."
+                  - paragraph [ref=e222] [cursor=pointer]: Урок 70. Системы линейных неравенств с одной переменной и их решение
+                - img [ref=e225] [cursor=pointer]
+            - link "8. Урок 71. Системы линейных неравенств с одной переменной и их решение" [ref=e227] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/699463947af47b00072b3f73/
+              - generic [ref=e228] [cursor=pointer]:
+                - generic [ref=e230] [cursor=pointer]:
+                  - generic [ref=e232] [cursor=pointer]: "8."
+                  - paragraph [ref=e234] [cursor=pointer]: Урок 71. Системы линейных неравенств с одной переменной и их решение
+                - img [ref=e237] [cursor=pointer]
+            - link "9. Урок 72. Системы линейных неравенств с одной переменной и их решение" [ref=e239] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/699463a17af47b00072b4381/
+              - generic [ref=e240] [cursor=pointer]:
+                - generic [ref=e242] [cursor=pointer]:
+                  - generic [ref=e244] [cursor=pointer]: "9."
+                  - paragraph [ref=e246] [cursor=pointer]: Урок 72. Системы линейных неравенств с одной переменной и их решение
+                - img [ref=e249] [cursor=pointer]
+            - link "10. Урок 73. Изображение решения линейного неравенства и их систем на числовой прямой" [ref=e251] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/699463c47af47b00072b5134/
+              - generic [ref=e252] [cursor=pointer]:
+                - generic [ref=e254] [cursor=pointer]:
+                  - generic [ref=e256] [cursor=pointer]: "10."
+                  - paragraph [ref=e258] [cursor=pointer]: Урок 73. Изображение решения линейного неравенства и их систем на числовой прямой
+                - img [ref=e261] [cursor=pointer]
+            - link "11. Урок 74. Изображение решения линейного неравенства и их систем на числовой прямой" [ref=e263] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/699463ce7af47b00072b546f/
+              - generic [ref=e264] [cursor=pointer]:
+                - generic [ref=e266] [cursor=pointer]:
+                  - generic [ref=e268] [cursor=pointer]: "11."
+                  - paragraph [ref=e270] [cursor=pointer]: Урок 74. Изображение решения линейного неравенства и их систем на числовой прямой
+                - img [ref=e273] [cursor=pointer]
+            - link "12. Урок 75. Контрольная работа по темам «Неравенства. Системы уравнений»" [active] [ref=e275] [cursor=pointer]:
+              - /url: /learn/666aeb926671bc000725903b/662bb8aea471430007e00617/5f63090daee1af001b415303/699463ee7af47b00072b60f7/
+              - generic [ref=e276] [cursor=pointer]:
+                - generic [ref=e278] [cursor=pointer]:
+                  - generic [ref=e280] [cursor=pointer]: "12."
+                  - paragraph [ref=e282] [cursor=pointer]: Урок 75. Контрольная работа по темам «Неравенства. Системы уравнений»
+                - img [ref=e285] [cursor=pointer]
+  - generic [ref=e288]:
+    - generic [ref=e289]:
+      - generic [ref=e290]:
+        - generic [ref=e294]:
+          - img [ref=e296]
+          - link "8 (800) 600-44-02" [ref=e298] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e299]:
+          - generic [ref=e300]: "@"
+          - link "support@ismart.org" [ref=e301] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e302]:
+          - img [ref=e304]
+          - generic [ref=e306]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e307]:
+        - link "Наш сайт" [ref=e310] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e312] [cursor=pointer]
+        - generic [ref=e314]:
+          - link "Лицензия" [ref=e316] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e318] [cursor=pointer]:
+            - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e320] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e322] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e324] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e326]:
+      - generic [ref=e327]:
+        - link [ref=e328] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e332] [cursor=pointer]
+        - generic [ref=e335]:
+          - link "okIcon" [ref=e336] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e337] [cursor=pointer]
+          - link "dzenIcon" [ref=e338] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e339] [cursor=pointer]
+          - link "vkIcon" [ref=e340] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e341] [cursor=pointer]
+      - generic [ref=e343]:
+        - generic [ref=e345]:
+          - generic [ref=e346]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e347] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e348]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e349] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e350]:
+          - generic [ref=e351]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e352] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e353]: © iSmart, 2018-2026
+```
