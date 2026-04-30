@@ -1,0 +1,123 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "+" [ref=e47] [cursor=pointer]
+            - button "Редактировать урок" [ref=e48] [cursor=pointer]
+          - generic [ref=e49]:
+            - generic [ref=e50]:
+              - generic [ref=e51]: Отчёты и аналитика
+              - img "Для учителей" [ref=e52] [cursor=pointer]:
+                - img [ref=e54] [cursor=pointer]
+            - generic [ref=e56]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e57] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Управление учениками" [ref=e58] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]: Управление учениками
+          - generic [ref=e60]:
+            - button "Заметки к уроку видны только вам" [ref=e61] [cursor=pointer]:
+              - generic [ref=e62] [cursor=pointer]:
+                - img [ref=e64] [cursor=pointer]
+                - generic [ref=e66] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e67] [cursor=pointer]:
+                - img [ref=e69] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e71] [cursor=pointer]:
+              - generic [ref=e72] [cursor=pointer]:
+                - img [ref=e74] [cursor=pointer]
+                - generic [ref=e76] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e77] [cursor=pointer]:
+              - generic [ref=e78] [cursor=pointer]:
+                - img [ref=e80] [cursor=pointer]
+                - generic [ref=e82] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e83] [cursor=pointer]:
+          - generic [ref=e84] [cursor=pointer]:
+            - img "schoolIcon" [ref=e85] [cursor=pointer]
+            - generic [ref=e86] [cursor=pointer]: ismart_Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e87] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e89] [cursor=pointer]
+      - generic [ref=e93]:
+        - region "Задача для решения" [ref=e95] [cursor=pointer]:
+          - generic [ref=e96] [cursor=pointer]:
+            - generic [ref=e99]:
+              - generic [ref=e101]:
+                - img [ref=e105]
+                - heading "Внесите ответы в специально предназначенные поля." [level=4] [ref=e107]:
+                  - generic [ref=e109]: Внесите ответы в специально предназначенные поля.
+              - generic [ref=e111]:
+                - img "decore" [ref=e114]
+                - generic [ref=e119]:
+                  - generic [ref=e120]: Впишите имена литературных героев великих русских классических романов, которые знакомы каждому читателю.
+                  - generic [ref=e121]: Имена записывайте, соблюдая нормы современного русского литературного языка.
+              - table [ref=e125]:
+                - rowgroup [ref=e126]:
+                  - row "Фамилия героя Имя героя Название произведения" [ref=e127]:
+                    - cell "Фамилия героя" [ref=e128]:
+                      - generic [ref=e130]: Фамилия героя
+                    - cell "Имя героя" [ref=e131]:
+                      - generic [ref=e133]: Имя героя
+                    - cell "Название произведения" [ref=e134]:
+                      - generic [ref=e136]: Название произведения
+                - rowgroup [ref=e137]:
+                  - row "Раскольников «Преступление и наказание»" [ref=e138]:
+                    - cell "Раскольников" [ref=e139]:
+                      - generic [ref=e141]: Раскольников
+                    - cell [ref=e142]:
+                      - textbox [ref=e144]
+                    - cell "«Преступление и наказание»" [ref=e145]:
+                      - generic [ref=e147]: «Преступление и наказание»
+                  - row "Ларина «Евгений Онегин»" [ref=e148]:
+                    - cell "Ларина" [ref=e149]:
+                      - generic [ref=e151]: Ларина
+                    - cell [ref=e152]:
+                      - textbox [ref=e154]
+                    - cell "«Евгений Онегин»" [ref=e155]:
+                      - generic [ref=e157]: «Евгений Онегин»
+                  - row "Ростова «Война и мир»" [ref=e158]:
+                    - cell "Ростова" [ref=e159]:
+                      - generic [ref=e161]: Ростова
+                    - cell [ref=e162]:
+                      - textbox [ref=e164]
+                    - cell "«Война и мир»" [ref=e165]:
+                      - generic [ref=e167]: «Война и мир»
+            - button "2 Взять 1 подсказку" [ref=e174] [cursor=pointer]:
+              - generic [ref=e177] [cursor=pointer]: "2"
+              - generic [ref=e178] [cursor=pointer]: Взять 1 подсказку
+        - generic [ref=e184]:
+          - generic [ref=e186]:
+            - textbox [disabled]: 100%
+          - img [ref=e189] [cursor=pointer]
+        - button "Далее" [ref=e192] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e195] [cursor=pointer]
+```
