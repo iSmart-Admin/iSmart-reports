@@ -1,0 +1,80 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - region "Задача для решения" [ref=e26] [cursor=pointer]:
+        - generic [ref=e27] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+            - img [ref=e33] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e37]:
+            - generic [ref=e39]:
+              - img [ref=e43]
+              - heading "Выдели основу в слове." [level=4] [ref=e45]:
+                - generic [ref=e47]: Выдели основу в слове.
+            - generic [ref=e49]:
+              - img "decore" [ref=e52]
+              - list [ref=e55]:
+                - listitem [ref=e56]:
+                  - generic [ref=e57]: Нажми на знак основы;
+                - listitem [ref=e58]:
+                  - generic [ref=e59]: Нажми на первую и последнюю буквы основы.
+            - generic [ref=e62]:
+              - img [ref=e63]:
+                - generic [ref=e64]:
+                  - generic [ref=e66] [cursor=pointer]: п
+                  - generic [ref=e68] [cursor=pointer]: р
+                  - generic [ref=e70] [cursor=pointer]: и
+                  - generic [ref=e72] [cursor=pointer]: р
+                  - generic [ref=e74] [cursor=pointer]: о
+                  - generic [ref=e76] [cursor=pointer]: д
+                  - generic [ref=e78] [cursor=pointer]: а
+              - img [ref=e82] [cursor=pointer]
+          - generic [ref=e86] [cursor=pointer]:
+            - generic [ref=e89] [cursor=pointer]:
+              - button [disabled] [ref=e91]:
+                - img [ref=e93]
+              - generic [ref=e96] [cursor=pointer]: 100%
+              - button [ref=e98] [cursor=pointer]:
+                - img [ref=e100] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e105] [cursor=pointer]:
+              - generic [ref=e108] [cursor=pointer]: "2"
+              - generic [ref=e109] [cursor=pointer]: Показать подсказку
+      - generic [ref=e115]:
+        - generic [ref=e118]: Интеллектуальный тренажер
+        - generic [ref=e122]:
+          - generic [ref=e127]: 1 из 5
+          - generic [ref=e130]: "Ты решаешь задание, собранное учителем: Василий Комров"
+        - generic [ref=e131]:
+          - generic [ref=e133]:
+            - button "Пройти опрос" [ref=e134] [cursor=pointer]:
+              - generic [ref=e136] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e137] [cursor=pointer]:
+              - img [ref=e140] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e143] [cursor=pointer]:
+              - img [ref=e146] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e150] [cursor=pointer]:
+              - img [ref=e153] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e155]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e156] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e159] [cursor=pointer]
+            - generic [ref=e162]: 69f5350d92cc120007ee5bfb
+```
