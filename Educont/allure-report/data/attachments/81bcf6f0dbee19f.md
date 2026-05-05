@@ -1,0 +1,72 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - region "Задача для решения" [ref=e26] [cursor=pointer]:
+        - generic [ref=e27] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+            - img [ref=e33] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e37]:
+            - generic [ref=e39]:
+              - img [ref=e43]
+              - heading "Выбери верный вариант ответа." [level=4] [ref=e45]:
+                - generic [ref=e47]: Выбери верный вариант ответа.
+            - generic [ref=e49]:
+              - img "decore" [ref=e52]
+              - generic [ref=e58]: В какие годы правил император Павел I?
+            - generic [ref=e61]:
+              - button "1761-1762 гг." [ref=e63] [cursor=pointer]:
+                - generic [ref=e65] [cursor=pointer]: 1761-1762 гг.
+              - button "1762-1796 гг." [ref=e67] [cursor=pointer]:
+                - generic [ref=e69] [cursor=pointer]: 1762-1796 гг.
+              - button "1796-1801 гг." [ref=e71] [cursor=pointer]:
+                - generic [ref=e73] [cursor=pointer]: 1796-1801 гг.
+          - generic [ref=e76] [cursor=pointer]:
+            - generic [ref=e79] [cursor=pointer]:
+              - button [disabled] [ref=e81]:
+                - img [ref=e83]
+              - generic [ref=e86] [cursor=pointer]: 100%
+              - button [ref=e88] [cursor=pointer]:
+                - img [ref=e90] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e95] [cursor=pointer]:
+              - generic [ref=e98] [cursor=pointer]: "2"
+              - generic [ref=e99] [cursor=pointer]: Показать подсказку
+      - generic [ref=e105]:
+        - generic [ref=e108]: Интеллектуальный тренажер
+        - generic [ref=e112]:
+          - generic [ref=e117]: 1 из 15
+          - generic [ref=e121]:
+            - img [ref=e122]
+            - generic [ref=e124]: Вы вошли как ученик 9 «А»
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - button "Черновик" [ref=e128] [cursor=pointer]:
+              - img [ref=e131] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e134] [cursor=pointer]:
+              - img [ref=e137] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e141] [cursor=pointer]:
+              - img [ref=e144] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e146]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e147] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e150] [cursor=pointer]
+            - generic [ref=e153]: 69fa7b54e5996a0007a911d2
+```
