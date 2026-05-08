@@ -1,0 +1,167 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - button "animation" [ref=e10]:
+        - img [ref=e11]
+      - generic [ref=e22]:
+        - heading "Произошла ошибка" [level=4] [ref=e23]
+        - paragraph [ref=e24]:
+          - generic [ref=e25]:
+            - generic [ref=e26]: Cannot read properties of undefined (reading 'errors')
+            - generic [ref=e27]: Хотите пропустить задание?
+    - generic [ref=e28]:
+      - button "Закрыть окно" [ref=e29] [cursor=pointer]
+      - button "Пропустить" [ref=e30] [cursor=pointer]
+  - generic [ref=e39]:
+    - generic [ref=e40]:
+      - generic [ref=e41]:
+        - generic [ref=e42]: Меню разработчика
+        - button [ref=e44] [cursor=pointer]:
+          - img [ref=e46] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e48] [cursor=pointer]
+    - generic [ref=e51]:
+      - generic [ref=e52]:
+        - generic [ref=e53]:
+          - button [ref=e55] [cursor=pointer]:
+            - img [ref=e57] [cursor=pointer]
+          - generic [ref=e59]:
+            - paragraph [ref=e60]: Задача 1 (2 из 4)
+            - paragraph [ref=e61]: Цикл while. Последовательности
+        - generic [ref=e62]:
+          - button "Ввести код от учителя" [ref=e66] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e69]:
+            - generic [ref=e70]: 00:00:43
+            - generic [ref=e71]: Время
+          - button "Предыдущее" [ref=e73] [cursor=pointer]:
+            - img [ref=e76] [cursor=pointer]
+            - text: Предыдущее
+          - button "Далее" [active] [ref=e78] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e81] [cursor=pointer]
+      - generic [ref=e83]:
+        - generic [ref=e85]:
+          - generic [ref=e86]:
+            - paragraph [ref=e87]: Python 3
+            - button "Запустить тесты" [ref=e88] [cursor=pointer]:
+              - text: Запустить тесты
+              - img [ref=e91] [cursor=pointer]
+          - generic [ref=e95]:
+            - text:                
+            - code [ref=e98]:
+              - generic [ref=e99]:
+                - generic [ref=e104]: "1"
+                - generic [ref=e112]:
+                  - generic [ref=e113]: print
+                  - generic [ref=e114]: (
+                  - generic [ref=e115]: "'Привет, Мир'"
+                  - generic [ref=e116]: )
+                - textbox "Editor content;Press Alt+F1 for Accessibility Options." [ref=e118]: print('Привет, Мир')
+        - generic [ref=e120]:
+          - generic [ref=e122]:
+            - generic [ref=e123] [cursor=pointer]:
+              - img [ref=e125] [cursor=pointer]
+              - generic [ref=e127] [cursor=pointer]: Описание
+            - generic [ref=e128] [cursor=pointer]:
+              - img [ref=e130] [cursor=pointer]
+              - generic [ref=e132] [cursor=pointer]: Тесты
+            - generic [ref=e133] [cursor=pointer]:
+              - img [ref=e135] [cursor=pointer]
+              - generic [ref=e137] [cursor=pointer]: Консоль
+          - generic [ref=e142]:
+            - generic [ref=e143]:
+              - generic [ref=e144]:
+                - generic [ref=e145]: "1"
+                - generic [ref=e146]: "28"
+                - generic [ref=e147]: "3"
+                - generic [ref=e148]: "9"
+                - generic [ref=e149]: "0"
+              - img [ref=e151]
+              - generic [ref=e154]: FAIL
+              - img [ref=e156]
+              - generic [ref=e159]: "12"
+            - generic [ref=e160]:
+              - generic [ref=e161]:
+                - generic [ref=e162]: "2"
+                - generic [ref=e163]: "6"
+                - generic [ref=e164]: "10"
+                - generic [ref=e165]: "12"
+                - generic [ref=e166]: "16"
+                - generic [ref=e167]: "18"
+                - generic [ref=e168]: "22"
+                - generic [ref=e169]: "24"
+                - generic [ref=e170]: "23"
+                - generic [ref=e171]: "0"
+              - img [ref=e173]
+              - generic [ref=e176]: FAIL
+              - img [ref=e178]
+              - generic [ref=e181]: "0"
+            - generic [ref=e182]:
+              - generic [ref=e183]:
+                - generic [ref=e184]: "3"
+                - generic [ref=e185]: "3"
+                - generic [ref=e186]: "3"
+                - generic [ref=e187]: "3"
+                - generic [ref=e188]: "3"
+                - generic [ref=e189]: "0"
+              - img [ref=e191]
+              - generic [ref=e194]: FAIL
+              - img [ref=e196]
+              - generic [ref=e199]: "15"
+            - generic [ref=e200]:
+              - generic [ref=e201]:
+                - generic [ref=e202]: "12"
+                - generic [ref=e203]: "21"
+                - generic [ref=e204]: "14"
+                - generic [ref=e205]: "15"
+                - generic [ref=e206]: "39"
+                - generic [ref=e207]: "0"
+              - img [ref=e209]
+              - generic [ref=e212]: FAIL
+              - img [ref=e214]
+              - generic [ref=e217]: "75"
+            - generic [ref=e218]:
+              - generic [ref=e219]:
+                - generic [ref=e220]: "1"
+                - generic [ref=e221]: "2"
+                - generic [ref=e222]: "3"
+                - generic [ref=e223]: "4"
+                - generic [ref=e224]: "5"
+                - generic [ref=e225]: "6"
+                - generic [ref=e226]: "7"
+                - generic [ref=e227]: "0"
+              - img [ref=e229]
+              - generic [ref=e232]: FAIL
+              - img [ref=e234]
+              - generic [ref=e237]: "3"
+            - generic [ref=e238]:
+              - generic [ref=e239]:
+                - generic [ref=e240]: "5"
+                - generic [ref=e241]: "6"
+                - generic [ref=e242]: "7"
+                - generic [ref=e243]: "8"
+                - generic [ref=e244]: "9"
+                - generic [ref=e245]: "0"
+              - img [ref=e247]
+              - generic [ref=e250]: FAIL
+              - img [ref=e252]
+              - generic [ref=e255]: "9"
+            - generic [ref=e256]:
+              - generic [ref=e257]:
+                - generic [ref=e258]: "1"
+                - generic [ref=e259]: "3"
+                - generic [ref=e260]: "10"
+                - generic [ref=e261]: "5"
+                - generic [ref=e262]: "0"
+              - img [ref=e264]
+              - generic [ref=e267]: FAIL
+              - img [ref=e269]
+              - generic [ref=e272]: "3"
+  - generic [ref=e275]:
+    - alert
+    - alert
+    - complementary
+    - complementary
+```
