@@ -1,0 +1,64 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - button "animation" [ref=e10]:
+        - img [ref=e11]
+      - generic [ref=e19]:
+        - heading "Произошла ошибка" [level=4] [ref=e20]
+        - paragraph [ref=e21]:
+          - generic [ref=e22]:
+            - generic [ref=e23]: "Invalid `DB_1.prisma.courseElementProgress.create()` invocation in /usr/src/server/dist/resolvers/course/courseElementProgressSave.js:234:57 231 }); 232 } 233 else { → 234 await DB_1.prisma.courseElementProgress.create( Unique constraint failed on the fields: (`element_id`,`practice_id`,`student_id`,`unit_id`)"
+            - generic [ref=e24]: Хотите пропустить задание?
+    - generic [ref=e25]:
+      - button "Закрыть окно" [ref=e26] [cursor=pointer]
+      - button "Пропустить" [ref=e27] [cursor=pointer]
+  - generic [ref=e36]:
+    - generic [ref=e37]:
+      - generic [ref=e38]:
+        - generic [ref=e39]: Меню разработчика
+        - button [ref=e41] [cursor=pointer]:
+          - img [ref=e43] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e45] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e46] [cursor=pointer]
+    - generic [ref=e49]:
+      - generic [ref=e50]:
+        - generic [ref=e51]:
+          - button [ref=e53] [cursor=pointer]:
+            - img [ref=e55] [cursor=pointer]
+          - generic [ref=e57]:
+            - paragraph [ref=e58]: Вопрос 1 (2 из 9)
+            - paragraph [ref=e59]: Вывод данных
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - generic [ref=e62]: 00:00:36
+            - generic [ref=e63]: Время
+          - button "Предыдущее" [ref=e65] [cursor=pointer]:
+            - img [ref=e68] [cursor=pointer]
+            - text: Предыдущее
+          - button "Далее" [active] [ref=e70] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e73] [cursor=pointer]
+      - generic [ref=e77]:
+        - generic [ref=e79]:
+          - generic [ref=e80] [cursor=pointer]:
+            - img [ref=e82] [cursor=pointer]
+            - generic [ref=e84] [cursor=pointer]: Описание
+          - generic [ref=e85]:
+            - img [ref=e87]
+            - generic [ref=e89]: Тесты
+          - generic [ref=e90]:
+            - img [ref=e92]
+            - generic [ref=e94]: Консоль
+        - generic [ref=e98]:
+          - generic [ref=e100]: Какой оператор используется для вывода данных на экран?
+          - generic [ref=e101]:
+            - paragraph [ref=e103]: Выбери все верные утверждения
+            - generic [ref=e104]:
+              - generic [ref=e107] [cursor=pointer]: input()
+              - generic [ref=e110] [cursor=pointer]: print()
+              - generic [ref=e113] [cursor=pointer]: int()
+              - generic [ref=e116] [cursor=pointer]: str()
+```
