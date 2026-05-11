@@ -1,0 +1,185 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Вероятность и статистика
+      - generic [ref=e21]: Раздел для обучающихся по вероятности и статистике
+    - generic [ref=e22]:
+      - generic [ref=e26]:
+        - button "7" [ref=e27]:
+          - img [ref=e31]
+          - text: "7"
+        - button "8" [ref=e33] [cursor=pointer]:
+          - img [ref=e37] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e39] [cursor=pointer]:
+          - img [ref=e43] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e45] [cursor=pointer]:
+          - img [ref=e49] [cursor=pointer]
+          - text: "10"
+        - button "11" [ref=e51] [cursor=pointer]:
+          - img [ref=e55] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e59]:
+        - generic [ref=e63]:
+          - img [ref=e66]
+          - textbox "Поиск по подтемам" [ref=e69]
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - generic [ref=e72] [cursor=pointer]:
+              - generic [ref=e74] [cursor=pointer]: Темы
+              - button [ref=e76] [cursor=pointer]:
+                - img [ref=e78] [cursor=pointer]
+            - generic [ref=e81] [cursor=pointer]:
+              - generic [ref=e84] [cursor=pointer]: Представление данных
+              - img [ref=e86] [cursor=pointer]
+            - generic [ref=e88] [cursor=pointer]:
+              - generic [ref=e91] [cursor=pointer]: Описательная статистика
+              - img [ref=e93] [cursor=pointer]
+            - generic [ref=e95] [cursor=pointer]:
+              - generic [ref=e98] [cursor=pointer]: Случайная изменчивость
+              - img [ref=e100] [cursor=pointer]
+            - generic [ref=e102] [cursor=pointer]:
+              - generic [ref=e105] [cursor=pointer]: Введение в теорию графов
+              - img [ref=e107] [cursor=pointer]
+            - generic [ref=e109] [cursor=pointer]:
+              - generic [ref=e112] [cursor=pointer]: Вероятность и частота случайного события
+              - img [ref=e114] [cursor=pointer]
+            - generic [ref=e116] [cursor=pointer]:
+              - generic [ref=e119] [cursor=pointer]: Обобщение, контроль
+              - img [ref=e121] [cursor=pointer]
+          - generic [ref=e126]:
+            - generic [ref=e127]:
+              - generic [ref=e128]: Скачайте методические материалы к теме
+              - button "Скачать" [ref=e130] [cursor=pointer]:
+                - text: Скачать
+                - img [ref=e133] [cursor=pointer]
+            - generic [ref=e135]:
+              - link "1 Урок 1. Представление данных в таблицах" [ref=e136] [cursor=pointer]:
+                - /url: /learn/676c303f449d7400070f07bc/6741dbcc5cada20008e1e02a/5f3fa2c7f00eca001c8bd3f9/698ff22f4e8e0d00089d250b/
+                - generic [ref=e137] [cursor=pointer]:
+                  - generic [ref=e139] [cursor=pointer]:
+                    - generic [ref=e141] [cursor=pointer]: "1"
+                    - paragraph [ref=e143] [cursor=pointer]: Урок 1. Представление данных в таблицах
+                  - img [ref=e146] [cursor=pointer]
+              - link "2 Урок 2. Практические вычисления по табличным данным" [ref=e148] [cursor=pointer]:
+                - /url: /learn/676c303f449d7400070f07bc/6741dbcc5cada20008e1e02a/5f3fa2c7f00eca001c8bd3f9/698ff25a4e8e0d00089d294e/
+                - generic [ref=e149] [cursor=pointer]:
+                  - generic [ref=e151] [cursor=pointer]:
+                    - generic [ref=e153] [cursor=pointer]: "2"
+                    - paragraph [ref=e155] [cursor=pointer]: Урок 2. Практические вычисления по табличным данным
+                  - img [ref=e158] [cursor=pointer]
+              - link "3 Урок 3. Извлечение и интерпретация табличных данных" [ref=e160] [cursor=pointer]:
+                - /url: /learn/676c303f449d7400070f07bc/6741dbcc5cada20008e1e02a/5f3fa2c7f00eca001c8bd3f9/698ff2764e8e0d00089d2cfa/
+                - generic [ref=e161] [cursor=pointer]:
+                  - generic [ref=e163] [cursor=pointer]:
+                    - generic [ref=e165] [cursor=pointer]: "3"
+                    - paragraph [ref=e167] [cursor=pointer]: Урок 3. Извлечение и интерпретация табличных данных
+                  - img [ref=e170] [cursor=pointer]
+              - link "4 Урок 4. Практическая работа «Таблицы»" [ref=e172] [cursor=pointer]:
+                - /url: /learn/676c303f449d7400070f07bc/6741dbcc5cada20008e1e02a/5f3fa2c7f00eca001c8bd3f9/69997b4e8ee2b100072168a2/
+                - generic [ref=e173] [cursor=pointer]:
+                  - generic [ref=e174] [cursor=pointer]:
+                    - generic [ref=e175] [cursor=pointer]:
+                      - generic [ref=e177] [cursor=pointer]: "4"
+                      - paragraph [ref=e179] [cursor=pointer]: Урок 4. Практическая работа «Таблицы»
+                    - img [ref=e183] [cursor=pointer]
+                  - img [ref=e187] [cursor=pointer]
+              - link "5 Урок 5. Графическое представление данных в виде круговых, столбиковых (столбчатых) диаграмм" [ref=e189] [cursor=pointer]:
+                - /url: /learn/676c303f449d7400070f07bc/6741dbcc5cada20008e1e02a/5f3fa2c7f00eca001c8bd3f9/698ff2d04e8e0d00089d37e2/
+                - generic [ref=e190] [cursor=pointer]:
+                  - generic [ref=e192] [cursor=pointer]:
+                    - generic [ref=e194] [cursor=pointer]: "5"
+                    - paragraph [ref=e196] [cursor=pointer]: Урок 5. Графическое представление данных в виде круговых, столбиковых (столбчатых) диаграмм
+                  - img [ref=e199] [cursor=pointer]
+              - link "6 Урок 6. Чтение и построение диаграмм. Примеры демографических диаграмм" [ref=e201] [cursor=pointer]:
+                - /url: /learn/676c303f449d7400070f07bc/6741dbcc5cada20008e1e02a/5f3fa2c7f00eca001c8bd3f9/698ff2e24e8e0d00089d3a01/
+                - generic [ref=e202] [cursor=pointer]:
+                  - generic [ref=e204] [cursor=pointer]:
+                    - generic [ref=e206] [cursor=pointer]: "6"
+                    - paragraph [ref=e208] [cursor=pointer]: Урок 6. Чтение и построение диаграмм. Примеры демографических диаграмм
+                  - img [ref=e211] [cursor=pointer]
+              - link "7 Урок 7. Практическая работа «Диаграммы»" [ref=e213] [cursor=pointer]:
+                - /url: /learn/676c303f449d7400070f07bc/6741dbcc5cada20008e1e02a/5f3fa2c7f00eca001c8bd3f9/699997a7401e690007ee9d21/
+                - generic [ref=e214] [cursor=pointer]:
+                  - generic [ref=e215] [cursor=pointer]:
+                    - generic [ref=e216] [cursor=pointer]:
+                      - generic [ref=e218] [cursor=pointer]: "7"
+                      - paragraph [ref=e220] [cursor=pointer]: Урок 7. Практическая работа «Диаграммы»
+                    - img [ref=e224] [cursor=pointer]
+                  - img [ref=e228] [cursor=pointer]
+  - generic [ref=e231]:
+    - generic [ref=e232]:
+      - generic [ref=e233]:
+        - generic [ref=e237]:
+          - img [ref=e239]
+          - link "8 (800) 600-44-02" [ref=e241] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e242]:
+          - generic [ref=e243]: "@"
+          - link "support@ismart.org" [ref=e244] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e245]:
+          - img [ref=e247]
+          - generic [ref=e249]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e250]:
+        - link "Наш сайт" [ref=e253] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e255] [cursor=pointer]
+        - generic [ref=e257]:
+          - link "Лицензия" [ref=e259] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e261] [cursor=pointer]:
+            - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e263] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e265] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e267] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e269]:
+      - generic [ref=e270]:
+        - link [ref=e271] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e275] [cursor=pointer]
+        - generic [ref=e278]:
+          - link "okIcon" [ref=e279] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e280] [cursor=pointer]
+          - link "dzenIcon" [ref=e281] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e282] [cursor=pointer]
+          - link "vkIcon" [ref=e283] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e284] [cursor=pointer]
+      - generic [ref=e286]:
+        - generic [ref=e288]:
+          - generic [ref=e289]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e290] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e291]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e292] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e293]:
+          - generic [ref=e294]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e295] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e296]: © iSmart, 2018-2026
+```
