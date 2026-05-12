@@ -1,0 +1,359 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e11]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: П
+        - generic:
+          - paragraph: Учитель
+          - paragraph: Профессиональный
+        - generic:
+          - img
+  - generic [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e18]:
+        - generic [ref=e19]: Математика
+        - generic [ref=e21]: Раздел для обучающихся по математике
+      - button "Методические рекомендации" [ref=e24] [cursor=pointer]
+    - generic [ref=e25]:
+      - generic [ref=e29]:
+        - button "1" [ref=e30] [cursor=pointer]:
+          - img [ref=e34] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e36] [cursor=pointer]:
+          - img [ref=e40] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e42] [cursor=pointer]:
+          - img [ref=e46] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e48] [cursor=pointer]:
+          - img [ref=e52] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e54] [cursor=pointer]:
+          - img [ref=e58] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e60]:
+          - img [ref=e64]
+          - text: "6"
+      - generic [ref=e68]:
+        - generic [ref=e72]:
+          - img [ref=e75]
+          - textbox "Поиск по подтемам" [ref=e78]
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic [ref=e81] [cursor=pointer]:
+              - generic [ref=e83] [cursor=pointer]: Темы
+              - button [ref=e85] [cursor=pointer]:
+                - img [ref=e87] [cursor=pointer]
+            - generic [ref=e90] [cursor=pointer]:
+              - generic [ref=e93] [cursor=pointer]: Натуральные числа
+              - img [ref=e95] [cursor=pointer]
+            - generic [ref=e97] [cursor=pointer]:
+              - generic [ref=e100] [cursor=pointer]: Наглядная геометрия. Прямые на плоскости
+              - img [ref=e102] [cursor=pointer]
+            - generic [ref=e104] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Дроби
+              - img [ref=e109] [cursor=pointer]
+            - generic [ref=e111] [cursor=pointer]:
+              - generic [ref=e114] [cursor=pointer]: Наглядная геометрия. Симметрия
+              - img [ref=e116] [cursor=pointer]
+            - generic [ref=e118] [cursor=pointer]:
+              - generic [ref=e121] [cursor=pointer]: Выражения с буквами
+              - img [ref=e123] [cursor=pointer]
+            - generic [ref=e125] [cursor=pointer]:
+              - generic [ref=e128] [cursor=pointer]: Наглядная геометрия. Фигуры на плоскости
+              - img [ref=e130] [cursor=pointer]
+            - generic [ref=e132] [cursor=pointer]:
+              - generic [ref=e135] [cursor=pointer]: Положительные и отрицательные числа
+              - img [ref=e137] [cursor=pointer]
+            - generic [ref=e139] [cursor=pointer]:
+              - generic [ref=e142] [cursor=pointer]: Представление данных
+              - img [ref=e144] [cursor=pointer]
+            - generic [ref=e146] [cursor=pointer]:
+              - generic [ref=e149] [cursor=pointer]: Наглядная геометрия. Фигуры в пространстве
+              - img [ref=e151] [cursor=pointer]
+            - generic [ref=e153] [cursor=pointer]:
+              - generic [ref=e156] [cursor=pointer]: Повторение, обобщение, систематизация
+              - img [ref=e158] [cursor=pointer]
+          - generic [ref=e163]:
+            - generic [ref=e164]:
+              - generic [ref=e165]: Скачайте методические материалы к теме
+              - button "Скачать" [ref=e167] [cursor=pointer]:
+                - text: Скачать
+                - img [ref=e170] [cursor=pointer]
+            - generic [ref=e172]:
+              - link "1. Арифметические действия с многозначными натуральными числами" [ref=e173] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a440b765e2b000794f406/
+                - generic [ref=e174] [cursor=pointer]:
+                  - generic [ref=e176] [cursor=pointer]:
+                    - generic [ref=e178] [cursor=pointer]: "1."
+                    - paragraph [ref=e180] [cursor=pointer]: Арифметические действия с многозначными натуральными числами
+                  - img [ref=e183] [cursor=pointer]
+              - link "2. Арифметические действия с многозначными натуральными числами" [ref=e185] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a441a765e2b000794f53d/
+                - generic [ref=e186] [cursor=pointer]:
+                  - generic [ref=e188] [cursor=pointer]:
+                    - generic [ref=e190] [cursor=pointer]: "2."
+                    - paragraph [ref=e192] [cursor=pointer]: Арифметические действия с многозначными натуральными числами
+                  - img [ref=e195] [cursor=pointer]
+              - link "3. Арифметические действия с многозначными натуральными числами" [ref=e197] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4428765e2b000794f77b/
+                - generic [ref=e198] [cursor=pointer]:
+                  - generic [ref=e200] [cursor=pointer]:
+                    - generic [ref=e202] [cursor=pointer]: "3."
+                    - paragraph [ref=e204] [cursor=pointer]: Арифметические действия с многозначными натуральными числами
+                  - img [ref=e207] [cursor=pointer]
+              - link "4. Арифметические действия с многозначными натуральными числами" [ref=e209] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4435765e2b000794fa62/
+                - generic [ref=e210] [cursor=pointer]:
+                  - generic [ref=e212] [cursor=pointer]:
+                    - generic [ref=e214] [cursor=pointer]: "4."
+                    - paragraph [ref=e216] [cursor=pointer]: Арифметические действия с многозначными натуральными числами
+                  - img [ref=e219] [cursor=pointer]
+              - link "5. Арифметические действия с многозначными натуральными числами" [ref=e221] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4441765e2b000794fb9d/
+                - generic [ref=e222] [cursor=pointer]:
+                  - generic [ref=e224] [cursor=pointer]:
+                    - generic [ref=e226] [cursor=pointer]: "5."
+                    - paragraph [ref=e228] [cursor=pointer]: Арифметические действия с многозначными натуральными числами
+                  - img [ref=e231] [cursor=pointer]
+              - link "6. Арифметические действия с многозначными натуральными числами" [ref=e233] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4451765e2b000794fd2e/
+                - generic [ref=e234] [cursor=pointer]:
+                  - generic [ref=e236] [cursor=pointer]:
+                    - generic [ref=e238] [cursor=pointer]: "6."
+                    - paragraph [ref=e240] [cursor=pointer]: Арифметические действия с многозначными натуральными числами
+                  - img [ref=e243] [cursor=pointer]
+              - link "7. Числовые выражения, порядок действий, использование скобок" [ref=e245] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4477765e2b00079500d7/
+                - generic [ref=e246] [cursor=pointer]:
+                  - generic [ref=e248] [cursor=pointer]:
+                    - generic [ref=e250] [cursor=pointer]: "7."
+                    - paragraph [ref=e252] [cursor=pointer]: Числовые выражения, порядок действий, использование скобок
+                  - img [ref=e255] [cursor=pointer]
+              - link "8. Числовые выражения, порядок действий, использование скобок" [ref=e257] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4486765e2b00079502ab/
+                - generic [ref=e258] [cursor=pointer]:
+                  - generic [ref=e260] [cursor=pointer]:
+                    - generic [ref=e262] [cursor=pointer]: "8."
+                    - paragraph [ref=e264] [cursor=pointer]: Числовые выражения, порядок действий, использование скобок
+                  - img [ref=e267] [cursor=pointer]
+              - link "9. Числовые выражения, порядок действий, использование скобок" [ref=e269] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4497765e2b00079503e4/
+                - generic [ref=e270] [cursor=pointer]:
+                  - generic [ref=e272] [cursor=pointer]:
+                    - generic [ref=e274] [cursor=pointer]: "9."
+                    - paragraph [ref=e276] [cursor=pointer]: Числовые выражения, порядок действий, использование скобок
+                  - img [ref=e279] [cursor=pointer]
+              - link "10. Числовые выражения, порядок действий, использование скобок" [ref=e281] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a44a6765e2b0007950561/
+                - generic [ref=e282] [cursor=pointer]:
+                  - generic [ref=e284] [cursor=pointer]:
+                    - generic [ref=e286] [cursor=pointer]: "10."
+                    - paragraph [ref=e288] [cursor=pointer]: Числовые выражения, порядок действий, использование скобок
+                  - img [ref=e291] [cursor=pointer]
+              - link "11. Числовые выражения, порядок действий, использование скобок" [ref=e293] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a45fe765e2b0007952923/
+                - generic [ref=e294] [cursor=pointer]:
+                  - generic [ref=e296] [cursor=pointer]:
+                    - generic [ref=e298] [cursor=pointer]: "11."
+                    - paragraph [ref=e300] [cursor=pointer]: Числовые выражения, порядок действий, использование скобок
+                  - img [ref=e303] [cursor=pointer]
+              - link "12. Округление натуральных чисел" [ref=e305] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a461e765e2b0007952c93/
+                - generic [ref=e306] [cursor=pointer]:
+                  - generic [ref=e308] [cursor=pointer]:
+                    - generic [ref=e310] [cursor=pointer]: "12."
+                    - paragraph [ref=e312] [cursor=pointer]: Округление натуральных чисел
+                  - img [ref=e315] [cursor=pointer]
+              - link "13. Округление натуральных чисел" [ref=e317] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a462f765e2b0007952e3b/
+                - generic [ref=e318] [cursor=pointer]:
+                  - generic [ref=e320] [cursor=pointer]:
+                    - generic [ref=e322] [cursor=pointer]: "13."
+                    - paragraph [ref=e324] [cursor=pointer]: Округление натуральных чисел
+                  - img [ref=e327] [cursor=pointer]
+              - link "14. Округление натуральных чисел" [ref=e329] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4730765e2b0007954ce2/
+                - generic [ref=e330] [cursor=pointer]:
+                  - generic [ref=e332] [cursor=pointer]:
+                    - generic [ref=e334] [cursor=pointer]: "14."
+                    - paragraph [ref=e336] [cursor=pointer]: Округление натуральных чисел
+                  - img [ref=e339] [cursor=pointer]
+              - link "15. Делители и кратные числа; наибольший общий делитель и наименьшее общее кратное" [ref=e341] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4747765e2b0007955074/
+                - generic [ref=e342] [cursor=pointer]:
+                  - generic [ref=e344] [cursor=pointer]:
+                    - generic [ref=e346] [cursor=pointer]: "15."
+                    - paragraph [ref=e348] [cursor=pointer]: Делители и кратные числа; наибольший общий делитель и наименьшее общее кратное
+                  - img [ref=e351] [cursor=pointer]
+              - link "16. Делители и кратные числа; наибольший общий делитель и наименьшее общее кратное" [ref=e353] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a475e765e2b0007955311/
+                - generic [ref=e354] [cursor=pointer]:
+                  - generic [ref=e356] [cursor=pointer]:
+                    - generic [ref=e358] [cursor=pointer]: "16."
+                    - paragraph [ref=e360] [cursor=pointer]: Делители и кратные числа; наибольший общий делитель и наименьшее общее кратное
+                  - img [ref=e363] [cursor=pointer]
+              - link "17. Делители и кратные числа; наибольший общий делитель и наименьшее общее кратное" [ref=e365] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a47f4765e2b00079560b9/
+                - generic [ref=e366] [cursor=pointer]:
+                  - generic [ref=e368] [cursor=pointer]:
+                    - generic [ref=e370] [cursor=pointer]: "17."
+                    - paragraph [ref=e372] [cursor=pointer]: Делители и кратные числа; наибольший общий делитель и наименьшее общее кратное
+                  - img [ref=e375] [cursor=pointer]
+              - link "18. Делители и кратные числа; наибольший общий делитель и наименьшее общее кратное" [ref=e377] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4807765e2b00079562cb/
+                - generic [ref=e378] [cursor=pointer]:
+                  - generic [ref=e380] [cursor=pointer]:
+                    - generic [ref=e382] [cursor=pointer]: "18."
+                    - paragraph [ref=e384] [cursor=pointer]: Делители и кратные числа; наибольший общий делитель и наименьшее общее кратное
+                  - img [ref=e387] [cursor=pointer]
+              - link "19. Делители и кратные числа; наибольший общий делитель и наименьшее общее кратное" [ref=e389] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4817765e2b0007956389/
+                - generic [ref=e390] [cursor=pointer]:
+                  - generic [ref=e392] [cursor=pointer]:
+                    - generic [ref=e394] [cursor=pointer]: "19."
+                    - paragraph [ref=e396] [cursor=pointer]: Делители и кратные числа; наибольший общий делитель и наименьшее общее кратное
+                  - img [ref=e399] [cursor=pointer]
+              - link "20. Делители и кратные числа; наибольший общий делитель и наименьшее общее кратное" [ref=e401] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4829765e2b0007956578/
+                - generic [ref=e402] [cursor=pointer]:
+                  - generic [ref=e404] [cursor=pointer]:
+                    - generic [ref=e406] [cursor=pointer]: "20."
+                    - paragraph [ref=e408] [cursor=pointer]: Делители и кратные числа; наибольший общий делитель и наименьшее общее кратное
+                  - img [ref=e411] [cursor=pointer]
+              - link "21. Делимость суммы и произведения" [ref=e413] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4841765e2b0007956865/
+                - generic [ref=e414] [cursor=pointer]:
+                  - generic [ref=e416] [cursor=pointer]:
+                    - generic [ref=e418] [cursor=pointer]: "21."
+                    - paragraph [ref=e420] [cursor=pointer]: Делимость суммы и произведения
+                  - img [ref=e423] [cursor=pointer]
+              - link "22. Делимость суммы и произведения" [ref=e425] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4858765e2b00079569a4/
+                - generic [ref=e426] [cursor=pointer]:
+                  - generic [ref=e428] [cursor=pointer]:
+                    - generic [ref=e430] [cursor=pointer]: "22."
+                    - paragraph [ref=e432] [cursor=pointer]: Делимость суммы и произведения
+                  - img [ref=e435] [cursor=pointer]
+              - link "23. Деление с остатком" [ref=e437] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a486d765e2b0007956c33/
+                - generic [ref=e438] [cursor=pointer]:
+                  - generic [ref=e440] [cursor=pointer]:
+                    - generic [ref=e442] [cursor=pointer]: "23."
+                    - paragraph [ref=e444] [cursor=pointer]: Деление с остатком
+                  - img [ref=e447] [cursor=pointer]
+              - link "24. Деление с остатком" [ref=e449] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4880765e2b0007956df9/
+                - generic [ref=e450] [cursor=pointer]:
+                  - generic [ref=e452] [cursor=pointer]:
+                    - generic [ref=e454] [cursor=pointer]: "24."
+                    - paragraph [ref=e456] [cursor=pointer]: Деление с остатком
+                  - img [ref=e459] [cursor=pointer]
+              - link "25. Решение текстовых задач" [ref=e461] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a489d765e2b00079570a5/
+                - generic [ref=e462] [cursor=pointer]:
+                  - generic [ref=e464] [cursor=pointer]:
+                    - generic [ref=e466] [cursor=pointer]: "25."
+                    - paragraph [ref=e468] [cursor=pointer]: Решение текстовых задач
+                  - img [ref=e471] [cursor=pointer]
+              - link "26. Решение текстовых задач" [ref=e473] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a48b1765e2b0007957370/
+                - generic [ref=e474] [cursor=pointer]:
+                  - generic [ref=e476] [cursor=pointer]:
+                    - generic [ref=e478] [cursor=pointer]: "26."
+                    - paragraph [ref=e480] [cursor=pointer]: Решение текстовых задач
+                  - img [ref=e483] [cursor=pointer]
+              - link "27. Решение текстовых задач" [ref=e485] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a48c2765e2b00079574b0/
+                - generic [ref=e486] [cursor=pointer]:
+                  - generic [ref=e488] [cursor=pointer]:
+                    - generic [ref=e490] [cursor=pointer]: "27."
+                    - paragraph [ref=e492] [cursor=pointer]: Решение текстовых задач
+                  - img [ref=e495] [cursor=pointer]
+              - link "28. Решение текстовых задач" [ref=e497] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a48ef765e2b0007957ba0/
+                - generic [ref=e498] [cursor=pointer]:
+                  - generic [ref=e500] [cursor=pointer]:
+                    - generic [ref=e502] [cursor=pointer]: "28."
+                    - paragraph [ref=e504] [cursor=pointer]: Решение текстовых задач
+                  - img [ref=e507] [cursor=pointer]
+              - link "29. Решение текстовых задач" [ref=e509] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4906765e2b0007957e59/
+                - generic [ref=e510] [cursor=pointer]:
+                  - generic [ref=e512] [cursor=pointer]:
+                    - generic [ref=e514] [cursor=pointer]: "29."
+                    - paragraph [ref=e516] [cursor=pointer]: Решение текстовых задач
+                  - img [ref=e519] [cursor=pointer]
+              - link "30. Контрольная работа по теме \"Натуральные числа\"" [ref=e521] [cursor=pointer]:
+                - /url: /learn/666ae4b86671bc0007258b8e/5a439fcfe4952e0019d5913c/5f197003b96284001b29733d/698a4920765e2b000795810e/
+                - generic [ref=e522] [cursor=pointer]:
+                  - generic [ref=e524] [cursor=pointer]:
+                    - generic [ref=e526] [cursor=pointer]: "30."
+                    - paragraph [ref=e528] [cursor=pointer]: Контрольная работа по теме "Натуральные числа"
+                  - img [ref=e531] [cursor=pointer]
+  - generic [ref=e534]:
+    - generic [ref=e535]:
+      - generic [ref=e536]:
+        - generic [ref=e540]:
+          - img [ref=e542]
+          - link "8 (800) 600-44-02" [ref=e544] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e545]:
+          - generic [ref=e546]: "@"
+          - link "support@ismart.org" [ref=e547] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e548]:
+          - img [ref=e550]
+          - generic [ref=e552]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e553]:
+        - link "Наш сайт" [ref=e556] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e558] [cursor=pointer]
+        - generic [ref=e560]:
+          - link "Лицензия" [ref=e562] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e564] [cursor=pointer]:
+            - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e566] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e568] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e570] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e572]:
+      - generic [ref=e573]:
+        - link [ref=e574] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e578] [cursor=pointer]
+        - generic [ref=e581]:
+          - link "okIcon" [ref=e582] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e583] [cursor=pointer]
+          - link "dzenIcon" [ref=e584] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e585] [cursor=pointer]
+          - link "vkIcon" [ref=e586] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e587] [cursor=pointer]
+      - generic [ref=e589]:
+        - generic [ref=e591]:
+          - generic [ref=e592]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e593] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e594]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e595] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e596]:
+          - generic [ref=e597]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e598] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e599]: © iSmart, 2018-2026
+```
