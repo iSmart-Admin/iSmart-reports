@@ -1,0 +1,118 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Задания урока
+            - img "Подсказка" [ref=e31] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+          - generic [ref=e36]:
+            - button "1" [ref=e37] [cursor=pointer]
+            - button "2" [ref=e38] [cursor=pointer]
+            - button "3" [ref=e39] [cursor=pointer]
+            - button "4" [ref=e40] [cursor=pointer]
+            - button "5" [ref=e41] [cursor=pointer]
+            - button "6" [ref=e42] [cursor=pointer]
+            - button "7" [ref=e43] [cursor=pointer]
+            - button "8" [ref=e44] [cursor=pointer]
+            - button "9" [ref=e45] [cursor=pointer]
+            - button "10" [ref=e46] [cursor=pointer]
+            - button "11" [ref=e47] [cursor=pointer]
+            - button "12" [ref=e48] [cursor=pointer]
+            - button "13" [ref=e49] [cursor=pointer]
+            - button "14" [ref=e50] [cursor=pointer]
+            - button "15" [ref=e51] [cursor=pointer]
+            - button "+" [ref=e52] [cursor=pointer]
+          - button "Редактировать урок" [ref=e53] [cursor=pointer]
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - generic [ref=e56]: Отчёты и аналитика
+            - img "Для учителей" [ref=e57] [cursor=pointer]:
+              - img [ref=e59] [cursor=pointer]
+          - generic [ref=e61]: "Войдите как учитель и настройте класс — тогда вы сможете видеть решения и прогресс учеников: результаты по каждому заданию, ошибки, подсказки, средний балл и общий прогресс."
+          - button "Войти как учитель" [ref=e62] [cursor=pointer]:
+            - generic [ref=e63] [cursor=pointer]: Войти как учитель
+        - generic [ref=e64]:
+          - button "Заметки к уроку видны только вам" [ref=e65] [cursor=pointer]:
+            - generic [ref=e66] [cursor=pointer]:
+              - img [ref=e68] [cursor=pointer]
+              - generic [ref=e70] [cursor=pointer]: Заметки к уроку
+            - button "видны только вам" [ref=e71] [cursor=pointer]:
+              - img [ref=e73] [cursor=pointer]
+          - button "Часто задаваемые вопросы" [ref=e75] [cursor=pointer]:
+            - generic [ref=e76] [cursor=pointer]:
+              - img [ref=e78] [cursor=pointer]
+              - generic [ref=e80] [cursor=pointer]: Часто задаваемые вопросы
+          - button "Сообщить об ошибке" [ref=e81] [cursor=pointer]:
+            - generic [ref=e82] [cursor=pointer]:
+              - img [ref=e84] [cursor=pointer]
+              - generic [ref=e86] [cursor=pointer]: Сообщить об ошибке
+      - generic [ref=e89]:
+        - region "Задача для решения" [ref=e91] [cursor=pointer]:
+          - generic [ref=e92] [cursor=pointer]:
+            - generic [ref=e95]:
+              - generic [ref=e97]:
+                - img [ref=e101]
+                - heading "Поставь знаки препинания в предложениях с однородными членами." [level=4] [ref=e103]:
+                  - generic [ref=e105]: Поставь знаки препинания в предложениях с однородными членами.
+              - img "decore" [ref=e110]
+              - generic [ref=e113]:
+                - generic [ref=e114]:
+                  - paragraph [ref=e115]:
+                    - generic [ref=e117]: Днём
+                    - generic [ref=e120]: поднялся
+                    - generic [ref=e123]: сильный
+                    - generic [ref=e126]: ветер
+                    - generic [ref=e129]: но
+                    - generic [ref=e132]: быстро
+                    - generic [ref=e134]:
+                      - generic [ref=e135]: утих
+                      - button "." [disabled] [ref=e136]
+                  - paragraph
+                  - paragraph [ref=e137]:
+                    - generic [ref=e139]: Тропинка
+                    - generic [ref=e142]: к
+                    - generic [ref=e145]: лесу
+                    - generic [ref=e148]: была
+                    - generic [ref=e151]: не
+                    - generic [ref=e154]: широкой
+                    - generic [ref=e157]: а
+                    - generic [ref=e159]:
+                      - generic [ref=e160]: узкой
+                      - button "." [disabled] [ref=e161]
+                  - paragraph
+                  - paragraph [ref=e162]:
+                    - generic [ref=e164]: Утром
+                    - generic [ref=e167]: на
+                    - generic [ref=e170]: траве
+                    - generic [ref=e173]: и
+                    - generic [ref=e176]: деревьях
+                    - generic [ref=e179]: сияла
+                    - generic [ref=e181]:
+                      - generic [ref=e182]: роса
+                      - button "." [disabled] [ref=e183]
+                - button "," [ref=e189]
+            - button "2 Взять 1 подсказку" [ref=e198] [cursor=pointer]:
+              - generic [ref=e201] [cursor=pointer]: "2"
+              - generic [ref=e202] [cursor=pointer]: Взять 1 подсказку
+        - generic [ref=e208]:
+          - generic [ref=e210]:
+            - textbox [disabled]: 100%
+          - img [ref=e213] [cursor=pointer]
+        - button "Далее" [ref=e216] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e219] [cursor=pointer]
+```
