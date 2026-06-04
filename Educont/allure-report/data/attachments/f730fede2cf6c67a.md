@@ -1,0 +1,95 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - region "Задача для решения" [ref=e26] [cursor=pointer]:
+        - generic [ref=e27] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+            - img [ref=e33] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e37]:
+            - generic [ref=e39]:
+              - img [ref=e43]
+              - heading "Распредели слова на 2 группы." [level=4] [ref=e45]:
+                - generic [ref=e47]: Распредели слова на 2 группы.
+            - img "decore" [ref=e52]
+            - generic [ref=e54]:
+              - generic [ref=e55]:
+                - generic [ref=e59]: в корне а
+                - generic [ref=e66]: в корне о
+              - generic [ref=e70]:
+                - button "отр_сль" [ref=e71]:
+                  - button "отр_сль" [ref=e74] [cursor=pointer]:
+                    - generic [ref=e76] [cursor=pointer]: отр_сль
+                - button "прол_гать" [ref=e77]:
+                  - button "прол_гать" [ref=e80] [cursor=pointer]:
+                    - generic [ref=e82] [cursor=pointer]: прол_гать
+                - button "к_саться" [ref=e83]:
+                  - button "к_саться" [ref=e86] [cursor=pointer]:
+                    - generic [ref=e88] [cursor=pointer]: к_саться
+                - button "прор_стать" [ref=e89]:
+                  - button "прор_стать" [ref=e92] [cursor=pointer]:
+                    - generic [ref=e94] [cursor=pointer]: прор_стать
+                - button "прор_сли" [ref=e95]:
+                  - button "прор_сли" [ref=e98] [cursor=pointer]:
+                    - generic [ref=e100] [cursor=pointer]: прор_сли
+                - button "р_сток" [ref=e101]:
+                  - button "р_сток" [ref=e104] [cursor=pointer]:
+                    - generic [ref=e106] [cursor=pointer]: р_сток
+                - button "прик_снуться" [ref=e107]:
+                  - button "прик_снуться" [ref=e110] [cursor=pointer]:
+                    - generic [ref=e112] [cursor=pointer]: прик_снуться
+                - button "пол_жить" [ref=e113]:
+                  - button "пол_жить" [ref=e116] [cursor=pointer]:
+                    - generic [ref=e118] [cursor=pointer]: пол_жить
+              - status [ref=e119]
+          - generic [ref=e122] [cursor=pointer]:
+            - generic [ref=e125] [cursor=pointer]:
+              - button [disabled] [ref=e127]:
+                - img [ref=e129]
+              - generic [ref=e132] [cursor=pointer]: 100%
+              - button [ref=e134] [cursor=pointer]:
+                - img [ref=e136] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e141] [cursor=pointer]:
+              - generic [ref=e144] [cursor=pointer]: "2"
+              - generic [ref=e145] [cursor=pointer]: Показать подсказку
+      - generic [ref=e151]:
+        - generic [ref=e154]: Интеллектуальный тренажер
+        - generic [ref=e158]:
+          - generic [ref=e163]: 1 из 15
+          - generic [ref=e167]:
+            - img [ref=e168]
+            - generic [ref=e170]: Вы вошли как ученик 9 «А»
+        - generic [ref=e171]:
+          - generic [ref=e173]:
+            - button "Пройти опрос" [ref=e174] [cursor=pointer]:
+              - generic [ref=e176] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e177] [cursor=pointer]:
+              - img [ref=e180] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e183] [cursor=pointer]:
+              - img [ref=e186] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e190] [cursor=pointer]:
+              - img [ref=e193] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e195]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e196] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e199] [cursor=pointer]
+            - generic [ref=e202]: 6a220972fcede800078f1796
+```
