@@ -1,0 +1,114 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Задания урока
+            - img "Подсказка" [ref=e31] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+          - generic [ref=e36]:
+            - button "1" [ref=e37] [cursor=pointer]
+            - button "2" [ref=e38] [cursor=pointer]
+            - button "3" [ref=e39] [cursor=pointer]
+            - button "+" [ref=e40] [cursor=pointer]
+          - button "Редактировать урок" [ref=e41] [cursor=pointer]
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - generic [ref=e44]: Отчёты и аналитика
+            - img "Для учителей" [ref=e45] [cursor=pointer]:
+              - img [ref=e47] [cursor=pointer]
+          - generic [ref=e49]: "Войдите как учитель и настройте класс — тогда вы сможете видеть решения и прогресс учеников: результаты по каждому заданию, ошибки, подсказки, средний балл и общий прогресс."
+          - button "Войти как учитель" [ref=e50] [cursor=pointer]:
+            - generic [ref=e51] [cursor=pointer]: Войти как учитель
+        - generic [ref=e52]:
+          - button "Заметки к уроку видны только вам" [ref=e53] [cursor=pointer]:
+            - generic [ref=e54] [cursor=pointer]:
+              - img [ref=e56] [cursor=pointer]
+              - generic [ref=e58] [cursor=pointer]: Заметки к уроку
+            - button "видны только вам" [ref=e59] [cursor=pointer]:
+              - img [ref=e61] [cursor=pointer]
+          - button "Часто задаваемые вопросы" [ref=e63] [cursor=pointer]:
+            - generic [ref=e64] [cursor=pointer]:
+              - img [ref=e66] [cursor=pointer]
+              - generic [ref=e68] [cursor=pointer]: Часто задаваемые вопросы
+          - button "Сообщить об ошибке" [ref=e69] [cursor=pointer]:
+            - generic [ref=e70] [cursor=pointer]:
+              - img [ref=e72] [cursor=pointer]
+              - generic [ref=e74] [cursor=pointer]: Сообщить об ошибке
+      - generic [ref=e77]:
+        - region "Задача для решения" [ref=e79] [cursor=pointer]:
+          - generic [ref=e80] [cursor=pointer]:
+            - generic [ref=e83]:
+              - generic [ref=e85]:
+                - img [ref=e89]
+                - heading "Внесите ответы в специально предназначенные поля." [level=4] [ref=e91]:
+                  - generic [ref=e93]: Внесите ответы в специально предназначенные поля.
+              - generic [ref=e95]:
+                - img "decore" [ref=e98]
+                - generic [ref=e103]:
+                  - generic [ref=e104]:
+                    - text: Соотнесите каждый признак с соответствующим типом кровеносных сосудов. Для этого выберите подходящую позицию из второго столбца для каждого элемента первого столбца и запишите соответствующие цифры в таблицу.
+                    - strong [ref=e105]: ПРИЗНАК
+                    - text: А) Переносят кровь к сердцу.
+                    - text: Б) Несут кровь от сердца.
+                    - text: В) Имеют клапаны внутри.
+                    - text: Г) Стенки состоят из одного слоя клеток.
+                    - text: Д) Имеют толстые и упругие мышечные стенки.
+                    - text: Е) Обеспечивают передачу кислорода тканям.
+                    - strong [ref=e106]: ТИП КРОВЕНОСНЫХ СОСУДОВ
+                  - list [ref=e107]:
+                    - listitem [ref=e108]: Вены
+                    - listitem [ref=e109]: Артерии
+                    - listitem [ref=e110]: Капилляры
+              - table [ref=e117]:
+                - rowgroup [ref=e118]:
+                  - row "А Б В Г Д Е" [ref=e119]:
+                    - cell "А" [ref=e120]:
+                      - generic [ref=e122]: А
+                    - cell "Б" [ref=e123]:
+                      - generic [ref=e125]: Б
+                    - cell "В" [ref=e126]:
+                      - generic [ref=e128]: В
+                    - cell "Г" [ref=e129]:
+                      - generic [ref=e131]: Г
+                    - cell "Д" [ref=e132]:
+                      - generic [ref=e134]: Д
+                    - cell "Е" [ref=e135]:
+                      - generic [ref=e137]: Е
+                  - row [ref=e138]:
+                    - cell [ref=e139]:
+                      - textbox [active] [ref=e142]
+                    - cell [ref=e143]:
+                      - textbox [ref=e146]
+                    - cell [ref=e147]:
+                      - textbox [ref=e150]
+                    - cell [ref=e151]:
+                      - textbox [ref=e154]
+                    - cell [ref=e155]:
+                      - textbox [ref=e158]
+                    - cell [ref=e159]:
+                      - textbox [ref=e162]
+            - button "2 Взять 1 подсказку" [ref=e170] [cursor=pointer]:
+              - generic [ref=e173] [cursor=pointer]: "2"
+              - generic [ref=e174] [cursor=pointer]: Взять 1 подсказку
+        - generic [ref=e180]:
+          - generic [ref=e182]:
+            - textbox [disabled]: 100%
+          - img [ref=e185] [cursor=pointer]
+        - button "Далее" [ref=e188] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e191] [cursor=pointer]
+```
