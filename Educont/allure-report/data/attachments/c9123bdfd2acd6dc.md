@@ -1,0 +1,156 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e8]:
+    - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+      - img [ref=e14] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e18]:
+      - generic [ref=e23]: Раздел для обучающихся с ограниченными возможностями здоровья
+      - generic [ref=e27] [cursor=pointer]:
+        - img [ref=e29] [cursor=pointer]
+        - generic [ref=e31] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e34]:
+      - generic [ref=e38]:
+        - img [ref=e41]
+        - textbox "Поиск по подтемам" [ref=e44]
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - generic [ref=e47] [cursor=pointer]:
+            - generic [ref=e49] [cursor=pointer]: Темы
+            - button [ref=e51] [cursor=pointer]:
+              - img [ref=e53] [cursor=pointer]
+          - generic [ref=e56] [cursor=pointer]:
+            - generic [ref=e59] [cursor=pointer]: Предложение
+            - img [ref=e61] [cursor=pointer]
+          - generic [ref=e63] [cursor=pointer]:
+            - generic [ref=e66] [cursor=pointer]: Слово
+            - img [ref=e68] [cursor=pointer]
+          - generic [ref=e70] [cursor=pointer]:
+            - generic [ref=e73] [cursor=pointer]: Гласные звуки
+            - img [ref=e75] [cursor=pointer]
+          - generic [ref=e77] [cursor=pointer]:
+            - generic [ref=e80] [cursor=pointer]: Согласные звуки
+            - img [ref=e82] [cursor=pointer]
+          - generic [ref=e84] [cursor=pointer]:
+            - generic [ref=e87] [cursor=pointer]: Ударение и перенос
+            - img [ref=e89] [cursor=pointer]
+          - generic [ref=e91] [cursor=pointer]:
+            - generic [ref=e94] [cursor=pointer]: Понимание прочитанного (текст из 2-х предложений)
+            - img [ref=e96] [cursor=pointer]
+          - generic [ref=e98] [cursor=pointer]:
+            - generic [ref=e101] [cursor=pointer]: Понимание прочитанного вопроса
+            - img [ref=e103] [cursor=pointer]
+        - generic [ref=e109]:
+          - generic [ref=e111] [cursor=pointer]:
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e115] [cursor=pointer]: "1."
+              - paragraph [ref=e117] [cursor=pointer]: Количество предложений в тексте
+            - img [ref=e120] [cursor=pointer]
+          - generic [ref=e123] [cursor=pointer]:
+            - generic [ref=e125] [cursor=pointer]:
+              - generic [ref=e127] [cursor=pointer]: "2."
+              - paragraph [ref=e129] [cursor=pointer]: Знак в конце предложения
+            - img [ref=e132] [cursor=pointer]
+          - generic [ref=e135] [cursor=pointer]:
+            - generic [ref=e137] [cursor=pointer]:
+              - generic [ref=e139] [cursor=pointer]: "3."
+              - paragraph [ref=e141] [cursor=pointer]: Восклицательный знак в конце предложения (ч. 1)
+            - img [ref=e144] [cursor=pointer]
+          - generic [ref=e147] [cursor=pointer]:
+            - generic [ref=e149] [cursor=pointer]:
+              - generic [ref=e151] [cursor=pointer]: "4."
+              - paragraph [ref=e153] [cursor=pointer]: Восклицательный знак в конце предложения (ч. 2)
+            - img [ref=e156] [cursor=pointer]
+          - generic [ref=e159] [cursor=pointer]:
+            - generic [ref=e161] [cursor=pointer]:
+              - generic [ref=e163] [cursor=pointer]: "5."
+              - paragraph [ref=e165] [cursor=pointer]: Вопросительный знак в конце предложения
+            - img [ref=e168] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e170]:
+        - generic [ref=e171]:
+          - generic [ref=e172]: Меню разработчика
+          - button [ref=e174] [cursor=pointer]:
+            - img [ref=e176] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e178] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e179] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+      - generic [ref=e183]:
+        - region "Задача для решения" [ref=e186] [cursor=pointer]:
+          - generic [ref=e187] [cursor=pointer]:
+            - generic [ref=e189]:
+              - button "Вернуться обратно к подборке" [ref=e190] [cursor=pointer]:
+                - img [ref=e193] [cursor=pointer]
+                - text: Вернуться обратно к подборке
+              - generic [ref=e195]:
+                - generic [ref=e196]:
+                  - button "1" [ref=e199] [cursor=pointer]
+                  - button "2" [ref=e202] [cursor=pointer]
+                  - button "3" [ref=e205] [cursor=pointer]
+                  - button "4" [ref=e208] [cursor=pointer]
+                  - button "5" [ref=e211] [cursor=pointer]
+                  - button "6" [ref=e214] [cursor=pointer]
+                  - button "7" [ref=e217] [cursor=pointer]
+                  - button "8" [ref=e220] [cursor=pointer]
+                  - button "9" [ref=e223] [cursor=pointer]
+                  - button "10" [ref=e226] [cursor=pointer]
+                - generic [ref=e227]:
+                  - button [disabled] [ref=e228]:
+                    - img [ref=e230]
+                  - button [ref=e233] [cursor=pointer]:
+                    - img [ref=e235] [cursor=pointer]
+            - generic [ref=e239]:
+              - generic [ref=e241]:
+                - img [ref=e245]
+                - heading "Какой знак препинания нужно поставить в конце предложения?" [level=4] [ref=e247]:
+                  - generic [ref=e249]: Какой знак препинания нужно поставить в конце предложения?
+              - img "decore" [ref=e254]
+              - generic [ref=e257]:
+                - paragraph [ref=e259]:
+                  - generic [ref=e261]: Что
+                  - generic [ref=e264]: это
+                  - generic [ref=e267]: чернеет
+                  - generic [ref=e270]: вдалеке
+                - generic [ref=e271]:
+                  - button "." [ref=e276]
+                  - button "!" [ref=e281]
+                  - button "?" [ref=e286]
+            - generic [ref=e289] [cursor=pointer]:
+              - generic [ref=e292] [cursor=pointer]:
+                - button [disabled] [ref=e294]:
+                  - img [ref=e296]
+                - generic [ref=e299] [cursor=pointer]: 100%
+                - button [ref=e301] [cursor=pointer]:
+                  - img [ref=e303] [cursor=pointer]
+              - button "2 Показать подсказку" [ref=e308] [cursor=pointer]:
+                - generic [ref=e311] [cursor=pointer]: "2"
+                - generic [ref=e312] [cursor=pointer]: Показать подсказку
+        - generic [ref=e318]:
+          - generic [ref=e321]: Интеллектуальный тренажер
+          - button "Войти как учитель" [ref=e329] [cursor=pointer]:
+            - img [ref=e332] [cursor=pointer]
+            - text: Войти как учитель
+          - generic [ref=e334]:
+            - generic [ref=e336]:
+              - button "Черновик" [ref=e337] [cursor=pointer]:
+                - img [ref=e340] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e343] [cursor=pointer]:
+                - img [ref=e346] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Часто задаваемые вопросы" [ref=e350] [cursor=pointer]:
+                - img [ref=e353] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+            - generic [ref=e355]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Далее" [ref=e356] [cursor=pointer]:
+                - text: Далее
+                - img [ref=e359] [cursor=pointer]
+```
