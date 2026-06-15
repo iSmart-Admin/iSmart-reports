@@ -1,0 +1,106 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - region "Задача для решения" [ref=e26] [cursor=pointer]:
+        - generic [ref=e27] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+            - img [ref=e33] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e37]:
+            - generic [ref=e39]:
+              - img [ref=e43]
+              - heading "Реши задачу." [level=4] [ref=e45]:
+                - generic [ref=e47]: Реши задачу.
+            - img "decore" [ref=e52]
+            - generic [ref=e56]:
+              - generic [ref=e57]: В детском центре всего 8 игровых автоматов. На 7 из них Костя купил по 2 жетона, а на восьмой, самый интересный, — 5 жетонов.
+              - generic [ref=e58]: Сколько всего жетонов купил Костя на игровые автоматы?
+              - separator [ref=e59]
+              - strong [ref=e61]: "Дано:"
+              - generic [ref=e64]:
+                - generic [ref=e65]:
+                  - generic [ref=e66]:
+                    - text: На 7 игровых автоматов —
+                    - textbox [active] [ref=e67]
+                    - button [ref=e69] [cursor=pointer]
+                    - textbox [ref=e70]
+                    - text: жет.
+                  - generic [ref=e71]:
+                    - text: На любимый игровой автомат —
+                    - textbox [ref=e72]
+                    - text: жет.
+                - img [ref=e73]
+                - generic [ref=e78]:
+                  - strong [ref=e79]:
+                    - generic [ref=e81]: "?"
+                  - text: жет.
+              - separator [ref=e82]
+              - strong [ref=e84]: "Решение:"
+              - generic [ref=e85]:
+                - textbox [ref=e86]
+                - button [ref=e88] [cursor=pointer]
+                - textbox [ref=e89]
+                - button [ref=e91] [cursor=pointer]
+                - textbox [ref=e92]
+                - text: =
+                - textbox [ref=e93]
+                - button [ref=e95] [cursor=pointer]
+                - textbox [ref=e96]
+                - text: =
+                - textbox [ref=e97]
+                - text: (жет.)
+              - generic [ref=e98]:
+                - strong [ref=e99]: "Ответ:"
+                - textbox [ref=e100]
+                - text: жетонов купил Костя.
+          - generic [ref=e104] [cursor=pointer]:
+            - generic [ref=e107] [cursor=pointer]:
+              - button [disabled] [ref=e109]:
+                - img [ref=e111]
+              - generic [ref=e114] [cursor=pointer]: 100%
+              - button [ref=e116] [cursor=pointer]:
+                - img [ref=e118] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e123] [cursor=pointer]:
+              - generic [ref=e126] [cursor=pointer]: "2"
+              - generic [ref=e127] [cursor=pointer]: Показать подсказку
+      - generic [ref=e133]:
+        - generic [ref=e136]: Интеллектуальный тренажер
+        - generic [ref=e140]:
+          - generic [ref=e145]: 1 из 15
+          - generic [ref=e149]:
+            - img [ref=e150]
+            - generic [ref=e152]: Вы вошли как ученик 9 «А»
+        - generic [ref=e153]:
+          - generic [ref=e155]:
+            - button "Пройти опрос" [ref=e156] [cursor=pointer]:
+              - generic [ref=e158] [cursor=pointer]: Пройти опрос
+            - button "Черновик" [ref=e159] [cursor=pointer]:
+              - img [ref=e162] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e165] [cursor=pointer]:
+              - img [ref=e168] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e172] [cursor=pointer]:
+              - img [ref=e175] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e177]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e178] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e181] [cursor=pointer]
+            - generic [ref=e184]: 6a3087e1379016000752c824
+```

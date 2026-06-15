@@ -1,0 +1,182 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e8]:
+    - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+      - img [ref=e14] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e18]:
+      - generic [ref=e23]: Раздел для обучающихся с ограниченными возможностями здоровья
+      - generic [ref=e27] [cursor=pointer]:
+        - img [ref=e29] [cursor=pointer]
+        - generic [ref=e31] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e34]:
+      - generic [ref=e38]:
+        - img [ref=e41]
+        - textbox "Поиск по подтемам" [ref=e44]
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - generic [ref=e47] [cursor=pointer]:
+            - generic [ref=e49] [cursor=pointer]: Темы
+            - button [ref=e51] [cursor=pointer]:
+              - img [ref=e53] [cursor=pointer]
+          - generic [ref=e56] [cursor=pointer]:
+            - generic [ref=e59] [cursor=pointer]: Последовательность по примеру
+            - img [ref=e61] [cursor=pointer]
+          - generic [ref=e63] [cursor=pointer]:
+            - generic [ref=e66] [cursor=pointer]: Единицы измерения
+            - img [ref=e68] [cursor=pointer]
+          - generic [ref=e70] [cursor=pointer]:
+            - generic [ref=e73] [cursor=pointer]: Изучение геометрического материала
+            - img [ref=e75] [cursor=pointer]
+          - generic [ref=e77] [cursor=pointer]:
+            - generic [ref=e80] [cursor=pointer]: Деньги
+            - img [ref=e82] [cursor=pointer]
+          - generic [ref=e84] [cursor=pointer]:
+            - generic [ref=e87] [cursor=pointer]: Часы, циферблат, стрелки
+            - img [ref=e89] [cursor=pointer]
+          - generic [ref=e91] [cursor=pointer]:
+            - generic [ref=e94] [cursor=pointer]: Времена года
+            - img [ref=e96] [cursor=pointer]
+          - generic [ref=e98] [cursor=pointer]:
+            - generic [ref=e101] [cursor=pointer]: Сложение от 0 до 10
+            - img [ref=e103] [cursor=pointer]
+          - generic [ref=e105] [cursor=pointer]:
+            - generic [ref=e108] [cursor=pointer]: Состав числа
+            - img [ref=e110] [cursor=pointer]
+          - generic [ref=e112] [cursor=pointer]:
+            - generic [ref=e115] [cursor=pointer]: Сложение в пределах 10
+            - img [ref=e117] [cursor=pointer]
+          - generic [ref=e119] [cursor=pointer]:
+            - generic [ref=e122] [cursor=pointer]: Сложение в пределах 20 без перехода через десяток
+            - img [ref=e124] [cursor=pointer]
+          - generic [ref=e126] [cursor=pointer]:
+            - generic [ref=e129] [cursor=pointer]: Связь сложения и вычитания
+            - img [ref=e131] [cursor=pointer]
+          - generic [ref=e133] [cursor=pointer]:
+            - generic [ref=e136] [cursor=pointer]: Вычитание от 0 до 10
+            - img [ref=e138] [cursor=pointer]
+          - generic [ref=e140] [cursor=pointer]:
+            - generic [ref=e143] [cursor=pointer]: Вычитание в пределах 10
+            - img [ref=e145] [cursor=pointer]
+          - generic [ref=e147] [cursor=pointer]:
+            - generic [ref=e150] [cursor=pointer]: Вычитание в пределах 20 без перехода через десяток
+            - img [ref=e152] [cursor=pointer]
+          - generic [ref=e154] [cursor=pointer]:
+            - generic [ref=e157] [cursor=pointer]: Состав числа (ч. 2)
+            - img [ref=e159] [cursor=pointer]
+          - generic [ref=e161] [cursor=pointer]:
+            - generic [ref=e164] [cursor=pointer]: Знаки неравенства
+            - img [ref=e166] [cursor=pointer]
+          - generic [ref=e168] [cursor=pointer]:
+            - generic [ref=e171] [cursor=pointer]: Сравнение
+            - img [ref=e173] [cursor=pointer]
+          - generic [ref=e175] [cursor=pointer]:
+            - generic [ref=e178] [cursor=pointer]: Сравнение чисел
+            - img [ref=e180] [cursor=pointer]
+          - generic [ref=e182] [cursor=pointer]:
+            - generic [ref=e185] [cursor=pointer]: Знакомство с задачей
+            - img [ref=e187] [cursor=pointer]
+          - generic [ref=e189] [cursor=pointer]:
+            - generic [ref=e192] [cursor=pointer]: Соотнесение слов в задачах со словами «меньше на» «больше на» со знаками
+            - img [ref=e194] [cursor=pointer]
+          - generic [ref=e196] [cursor=pointer]:
+            - generic [ref=e199] [cursor=pointer]: Составить и решить задачу со словами «больше на» и «меньше на» по рисунку
+            - img [ref=e201] [cursor=pointer]
+        - generic [ref=e207]:
+          - generic [ref=e209] [cursor=pointer]:
+            - generic [ref=e211] [cursor=pointer]:
+              - generic [ref=e213] [cursor=pointer]: "1.1"
+              - paragraph [ref=e215] [cursor=pointer]: Последовательности из двух элементов
+            - img [ref=e218] [cursor=pointer]
+          - generic [ref=e221] [cursor=pointer]:
+            - generic [ref=e223] [cursor=pointer]:
+              - generic [ref=e225] [cursor=pointer]: "1.2"
+              - paragraph [ref=e227] [cursor=pointer]: Последовательности из трёх элементов
+            - img [ref=e230] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e232]:
+        - generic [ref=e233]:
+          - generic [ref=e234]: Меню разработчика
+          - button [ref=e236] [cursor=pointer]:
+            - img [ref=e238] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e240] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e241] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+      - generic [ref=e245]:
+        - region "Задача для решения" [ref=e248] [cursor=pointer]:
+          - generic [ref=e249] [cursor=pointer]:
+            - generic [ref=e251]:
+              - button "Вернуться обратно к подборке" [ref=e252] [cursor=pointer]:
+                - img [ref=e255] [cursor=pointer]
+                - text: Вернуться обратно к подборке
+              - generic [ref=e257]:
+                - generic [ref=e258]:
+                  - button "1" [ref=e261] [cursor=pointer]
+                  - button "2" [ref=e264] [cursor=pointer]
+                  - button "3" [ref=e267] [cursor=pointer]
+                  - button "4" [ref=e270] [cursor=pointer]
+                  - button "5" [ref=e273] [cursor=pointer]
+                  - button "6" [ref=e276] [cursor=pointer]
+                  - button "7" [ref=e279] [cursor=pointer]
+                  - button "8" [ref=e282] [cursor=pointer]
+                  - button "9" [ref=e285] [cursor=pointer]
+                  - button "10" [ref=e288] [cursor=pointer]
+                - generic [ref=e289]:
+                  - button [disabled] [ref=e290]:
+                    - img [ref=e292]
+                  - button [ref=e295] [cursor=pointer]:
+                    - img [ref=e297] [cursor=pointer]
+            - generic [ref=e301]:
+              - generic [ref=e303]:
+                - button "Воспроизвести аудио" [ref=e304] [cursor=pointer]:
+                  - generic:
+                    - img
+                - heading "Продолжите последовательность" [level=4] [ref=e305]:
+                  - generic [ref=e307]: Продолжите последовательность
+              - img "decore" [ref=e312]
+              - generic [ref=e314]:
+                - generic [ref=e315]:
+                  - img [ref=e317]
+                  - img [ref=e319]
+                  - img [ref=e321]
+                  - img [ref=e323]
+                - generic [ref=e326]:
+                  - generic [ref=e330]:
+                    - img
+                  - generic [ref=e336]:
+                    - img
+            - generic [ref=e344] [cursor=pointer]:
+              - button [disabled] [ref=e346]:
+                - img [ref=e348]
+              - generic [ref=e351] [cursor=pointer]: 100%
+              - button [ref=e353] [cursor=pointer]:
+                - img [ref=e355] [cursor=pointer]
+        - generic [ref=e362]:
+          - generic [ref=e365]: Интеллектуальный тренажер
+          - button "Войти как учитель" [ref=e373] [cursor=pointer]:
+            - img [ref=e376] [cursor=pointer]
+            - text: Войти как учитель
+          - generic [ref=e378]:
+            - generic [ref=e380]:
+              - button "Черновик" [ref=e381] [cursor=pointer]:
+                - img [ref=e384] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e387] [cursor=pointer]:
+                - img [ref=e390] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Часто задаваемые вопросы" [ref=e394] [cursor=pointer]:
+                - img [ref=e397] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+            - generic [ref=e399]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Далее" [ref=e400] [cursor=pointer]:
+                - text: Далее
+                - img [ref=e403] [cursor=pointer]
+```
