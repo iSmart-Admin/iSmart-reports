@@ -1,0 +1,87 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - region "Задача для решения" [ref=e26] [cursor=pointer]:
+        - generic [ref=e27] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+            - img [ref=e33] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e37]:
+            - generic [ref=e39]:
+              - img [ref=e43]
+              - heading "Распредели глаголы в два столбика." [level=4] [ref=e45]:
+                - generic [ref=e47]: Распредели глаголы в два столбика.
+            - img "decore" [ref=e52]
+            - generic [ref=e54]:
+              - generic [ref=e55]:
+                - generic [ref=e59]: переходные
+                - generic [ref=e66]: непереходные
+              - generic [ref=e70]:
+                - button "заметил нору" [ref=e71]:
+                  - button "заметил нору" [ref=e74] [cursor=pointer]:
+                    - generic [ref=e76] [cursor=pointer]: заметил нору
+                - button "гордится сестрой" [ref=e77]:
+                  - button "гордится сестрой" [ref=e80] [cursor=pointer]:
+                    - generic [ref=e82] [cursor=pointer]: гордится сестрой
+                - button "встретил товарища" [ref=e83]:
+                  - button "встретил товарища" [ref=e86] [cursor=pointer]:
+                    - generic [ref=e88] [cursor=pointer]: встретил товарища
+                - button "плывут по морю" [ref=e89]:
+                  - button "плывут по морю" [ref=e92] [cursor=pointer]:
+                    - generic [ref=e94] [cursor=pointer]: плывут по морю
+                - button "помог дедушке" [ref=e95]:
+                  - button "помог дедушке" [ref=e98] [cursor=pointer]:
+                    - generic [ref=e100] [cursor=pointer]: помог дедушке
+                - button "собирают ромашки" [ref=e101]:
+                  - button "собирают ромашки" [ref=e104] [cursor=pointer]:
+                    - generic [ref=e106] [cursor=pointer]: собирают ромашки
+              - status [ref=e107]
+          - generic [ref=e110] [cursor=pointer]:
+            - generic [ref=e113] [cursor=pointer]:
+              - button [disabled] [ref=e115]:
+                - img [ref=e117]
+              - generic [ref=e120] [cursor=pointer]: 100%
+              - button [ref=e122] [cursor=pointer]:
+                - img [ref=e124] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e129] [cursor=pointer]:
+              - generic [ref=e132] [cursor=pointer]: "2"
+              - generic [ref=e133] [cursor=pointer]: Показать подсказку
+      - generic [ref=e137]:
+        - generic [ref=e140]: Интеллектуальный тренажер
+        - generic [ref=e144]:
+          - generic [ref=e149]: 1 из 10
+          - generic [ref=e153]:
+            - img [ref=e154]
+            - generic [ref=e156]: Вы вошли как ученик 9 «А»
+        - generic [ref=e157]:
+          - generic [ref=e159]:
+            - button "Черновик" [ref=e160] [cursor=pointer]:
+              - img [ref=e163] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e166] [cursor=pointer]:
+              - img [ref=e169] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e173] [cursor=pointer]:
+              - img [ref=e176] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e178]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e179] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e182] [cursor=pointer]
+            - generic [ref=e185]: 6a31db596163d50007f9067d
+```
