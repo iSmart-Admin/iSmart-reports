@@ -1,0 +1,91 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - region "Задача для решения" [ref=e26] [cursor=pointer]:
+        - generic [ref=e27] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+            - img [ref=e33] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e37]:
+            - generic [ref=e39]:
+              - button "Воспроизвести аудио" [ref=e40] [cursor=pointer]:
+                - generic:
+                  - img
+              - heading "Реши пример, сравни полученный ответ с числом." [level=4] [ref=e41]:
+                - generic [ref=e43]: Реши пример, сравни полученный ответ с числом.
+            - img "decore" [ref=e48]
+            - generic [ref=e52]:
+              - heading "2 + 2 ? 10" [level=2] [ref=e53]:
+                - text: 2 + 2
+                - strong [ref=e54]:
+                  - generic [ref=e56]: "?"
+                - text: "10"
+              - heading "1. =" [level=3] [ref=e58]:
+                - strong [ref=e59]:
+                  - generic [ref=e61]: "1"
+                - text: .
+                - textbox [active] [ref=e62]
+                - button [ref=e64] [cursor=pointer]
+                - textbox [ref=e65]
+                - text: =
+                - textbox [ref=e66]
+                - img [ref=e68]
+              - heading "2. 10" [level=3] [ref=e75]:
+                - strong [ref=e76]:
+                  - generic [ref=e78]: "2"
+                - text: .
+                - textbox [ref=e79]
+                - button [ref=e81] [cursor=pointer]
+                - text: "10"
+                - img [ref=e83]
+              - heading "3. 2 + 2 10" [level=3] [ref=e89]:
+                - strong [ref=e90]:
+                  - generic [ref=e92]: "3"
+                - text: . 2 + 2
+                - button [ref=e94] [cursor=pointer]
+                - text: "10"
+          - generic [ref=e101] [cursor=pointer]:
+            - button [disabled] [ref=e103]:
+              - img [ref=e105]
+            - generic [ref=e108] [cursor=pointer]: 100%
+            - button [ref=e110] [cursor=pointer]:
+              - img [ref=e112] [cursor=pointer]
+      - generic [ref=e117]:
+        - generic [ref=e120]: Интеллектуальный тренажер
+        - generic [ref=e124]:
+          - generic [ref=e129]: 1 из 15
+          - generic [ref=e133]:
+            - img [ref=e134]
+            - generic [ref=e136]: Вы вошли как ученик 9 «А»
+        - generic [ref=e137]:
+          - generic [ref=e139]:
+            - button "Черновик" [ref=e140] [cursor=pointer]:
+              - img [ref=e143] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e146] [cursor=pointer]:
+              - img [ref=e149] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e153] [cursor=pointer]:
+              - img [ref=e156] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e158]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e159] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e162] [cursor=pointer]
+            - generic [ref=e165]: 6a3720cd4854780007e22d10
+```
