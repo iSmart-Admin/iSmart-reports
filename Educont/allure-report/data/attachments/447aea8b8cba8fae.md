@@ -1,0 +1,84 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Задания урока
+            - img "Подсказка" [ref=e31] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+          - generic [ref=e36]:
+            - button "1" [ref=e37] [cursor=pointer]
+            - button "2" [ref=e38] [cursor=pointer]
+            - button "3" [ref=e39] [cursor=pointer]
+            - button "4" [ref=e40] [cursor=pointer]
+            - button "5" [ref=e41] [cursor=pointer]
+            - button "6" [ref=e42] [cursor=pointer]
+            - button "7" [ref=e43] [cursor=pointer]
+            - button "8" [ref=e44] [cursor=pointer]
+            - button "9" [ref=e45] [cursor=pointer]
+            - button "+" [ref=e46] [cursor=pointer]
+          - button "Редактировать урок" [ref=e47] [cursor=pointer]
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - generic [ref=e50]: Отчёты и аналитика
+            - img "Для учителей" [ref=e51] [cursor=pointer]:
+              - img [ref=e53] [cursor=pointer]
+          - generic [ref=e55]: "Войдите как учитель и настройте класс — тогда вы сможете видеть решения и прогресс учеников: результаты по каждому заданию, ошибки, подсказки, средний балл и общий прогресс."
+          - button "Войти как учитель" [ref=e56] [cursor=pointer]:
+            - generic [ref=e57] [cursor=pointer]: Войти как учитель
+        - generic [ref=e58]:
+          - button "Заметки к уроку видны только вам" [ref=e59] [cursor=pointer]:
+            - generic [ref=e60] [cursor=pointer]:
+              - img [ref=e62] [cursor=pointer]
+              - generic [ref=e64] [cursor=pointer]: Заметки к уроку
+            - button "видны только вам" [ref=e65] [cursor=pointer]:
+              - img [ref=e67] [cursor=pointer]
+          - button "Часто задаваемые вопросы" [ref=e69] [cursor=pointer]:
+            - generic [ref=e70] [cursor=pointer]:
+              - img [ref=e72] [cursor=pointer]
+              - generic [ref=e74] [cursor=pointer]: Часто задаваемые вопросы
+          - button "Сообщить об ошибке" [ref=e75] [cursor=pointer]:
+            - generic [ref=e76] [cursor=pointer]:
+              - img [ref=e78] [cursor=pointer]
+              - generic [ref=e80] [cursor=pointer]: Сообщить об ошибке
+      - generic [ref=e83]:
+        - region "Задача для решения" [ref=e85] [cursor=pointer]:
+          - generic [ref=e86] [cursor=pointer]:
+            - generic [ref=e89]:
+              - generic [ref=e91]:
+                - img [ref=e95]
+                - heading "Выбери все верные варианты ответа." [level=4] [ref=e97]:
+                  - generic [ref=e99]: Выбери все верные варианты ответа.
+              - generic [ref=e101]:
+                - img "decore" [ref=e104]
+                - generic [ref=e110]: Какие повести вошли в «Журнал Печорина»?
+              - generic [ref=e115]:
+                - generic [ref=e117] [cursor=pointer]: «Бэла»
+                - generic [ref=e119] [cursor=pointer]: «Максим Максимыч»
+                - generic [ref=e121] [cursor=pointer]: «Тамань»
+                - generic [ref=e123] [cursor=pointer]: «Княжна Мери»
+                - generic [ref=e125] [cursor=pointer]: «Фаталист»
+            - button "2 Взять 1 подсказку" [ref=e132] [cursor=pointer]:
+              - generic [ref=e135] [cursor=pointer]: "2"
+              - generic [ref=e136] [cursor=pointer]: Взять 1 подсказку
+        - generic [ref=e140]:
+          - generic [ref=e142]:
+            - textbox [disabled]: 100%
+          - img [ref=e145] [cursor=pointer]
+        - button "Далее" [ref=e148] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e151] [cursor=pointer]
+```
