@@ -1,0 +1,95 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - region "Задача для решения" [ref=e25] [cursor=pointer]:
+        - generic [ref=e26] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+            - img [ref=e32] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e36]:
+            - generic [ref=e38]:
+              - img [ref=e42]
+              - heading "Внесите числовой ответ в специально предназначенное поле." [level=4] [ref=e44]:
+                - generic [ref=e46]: Внесите числовой ответ в специально предназначенное поле.
+            - generic [ref=e48]:
+              - img "decore" [ref=e51]
+              - generic [ref=e57]: Выберите все правильные утверждения о свойствах металлов IA группы.
+            - generic [ref=e61]:
+              - list [ref=e62]:
+                - listitem [ref=e63]: Электроотрицательность у калия меньше, чем у цезия.
+                - listitem [ref=e64]: Металлы IA группы называются щелочные металлы.
+                - listitem [ref=e65]: Радиус атома у натрия больше, чем у лития.
+                - listitem [ref=e66]: Металлы IA группы называются щелочно-земельные металлы.
+                - listitem [ref=e67]: Металлические свойства у франция выражены сильнее, чем у калия.
+                - listitem [ref=e68]: Восстановительные свойства натрия выше, чем у рубидия.
+                - listitem [ref=e69]:
+                  - text: Электронная конфигурация внешнего слоя металлов IA группы –
+                  - generic [ref=e71]:
+                    - math [ref=e73]:
+                      - generic [ref=e75]:
+                        - generic [ref=e76]: "n"
+                        - generic [ref=e77]:
+                          - generic [ref=e78]: s
+                          - generic [ref=e79]: "2"
+                    - generic [ref=e82]:
+                      - generic [ref=e83]: "n"
+                      - generic [ref=e84]:
+                        - generic [ref=e85]: s
+                        - generic [ref=e91]: "2"
+                  - text: .
+                - listitem [ref=e92]: Все металлы IA группы при взаимодействии с кислородом дают оксиды.
+                - listitem [ref=e93]: Металлы IA группы мягкие и имеют небольшую плотность по сравнению с другими.
+                - listitem [ref=e94]:
+                  - text: В природе металлы IA группы встречаются в чистом виде.
+                  - text: Запишите ответ в виде последовательности цифр в порядке возрастания.
+              - generic [ref=e95]:
+                - strong [ref=e96]: "Ответ:"
+                - textbox [active] [ref=e97]
+          - generic [ref=e101] [cursor=pointer]:
+            - generic [ref=e104] [cursor=pointer]:
+              - button [disabled] [ref=e106]:
+                - img [ref=e108]
+              - generic [ref=e111] [cursor=pointer]: 100%
+              - button [ref=e113] [cursor=pointer]:
+                - img [ref=e115] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e120] [cursor=pointer]:
+              - generic [ref=e123] [cursor=pointer]: "2"
+              - generic [ref=e124] [cursor=pointer]: Показать подсказку
+      - generic [ref=e128]:
+        - generic [ref=e131]: Интеллектуальный тренажер
+        - generic [ref=e135]:
+          - generic [ref=e140]: 1 из 15
+          - generic [ref=e142]:
+            - generic [ref=e143]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e145] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e148]:
+          - generic [ref=e150]:
+            - button "Черновик" [ref=e151] [cursor=pointer]:
+              - img [ref=e154] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e157] [cursor=pointer]:
+              - img [ref=e160] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e164] [cursor=pointer]:
+              - img [ref=e167] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e169]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e170] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e173] [cursor=pointer]
+            - generic [ref=e176]: 6a3b15674854780007f7604c
+```

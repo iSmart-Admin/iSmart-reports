@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "mutation courseElementProgressSave($elementId: String!, $practiceId: String, $code: String!, $signatures: [String!], $answer: String, $educontLessonId: String) {\n  courseElementProgressSave(\n    elementId: $elementId\n    practiceId: $practiceId\n    code: $code\n    signatures: $signatures\n    answer: $answer\n    educontLessonId: $educontLessonId\n  ) {\n    passed\n    recomendation\n  }\n}\n",
+      "variables": {
+        "elementId": "644ab27037bb5027732157ca",
+        "practiceId": "0",
+        "code": "",
+        "signatures": [
+          "644ab2a837bb5027732157d0"
+        ],
+        "educontLessonId": "69c61d9d1692359d3e6b4cb9"
+      }
+    },
+    "timestap": "24.06.2026, 02:21:46"
+  }
+]
