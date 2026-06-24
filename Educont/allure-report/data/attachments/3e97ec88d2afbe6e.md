@@ -1,0 +1,126 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+    - img [ref=e14] [cursor=pointer]
+    - text: Вернуться обратно
+  - generic [ref=e18]:
+    - generic [ref=e21]:
+      - generic [ref=e22]: Физика
+      - generic [ref=e24]: Тренировочные варианты тестов для подготовки к ЕГЭ по физике
+    - generic [ref=e30] [cursor=pointer]:
+      - img [ref=e32] [cursor=pointer]
+      - generic [ref=e34] [cursor=pointer]: Нашли ошибку?
+  - generic [ref=e37]:
+    - generic [ref=e41]:
+      - img [ref=e44]
+      - textbox "Поиск по подтемам" [ref=e47]
+    - generic [ref=e48]:
+      - generic [ref=e49]:
+        - generic [ref=e50] [cursor=pointer]:
+          - generic [ref=e52] [cursor=pointer]: Темы
+          - button [ref=e54] [cursor=pointer]:
+            - img [ref=e56] [cursor=pointer]
+        - generic [ref=e58] [cursor=pointer]:
+          - generic [ref=e59] [cursor=pointer]:
+            - generic [ref=e61] [cursor=pointer]: Задание ЕГЭ №1
+            - generic [ref=e65] [cursor=pointer]: 0 %
+          - img [ref=e67] [cursor=pointer]
+        - generic [ref=e69] [cursor=pointer]:
+          - generic [ref=e70] [cursor=pointer]:
+            - generic [ref=e72] [cursor=pointer]: Задание ЕГЭ №2
+            - generic [ref=e76] [cursor=pointer]: 0 %
+          - img [ref=e78] [cursor=pointer]
+        - generic [ref=e80] [cursor=pointer]:
+          - generic [ref=e81] [cursor=pointer]:
+            - generic [ref=e83] [cursor=pointer]: Задание ЕГЭ №3
+            - generic [ref=e87] [cursor=pointer]: 0 %
+          - img [ref=e89] [cursor=pointer]
+        - generic [ref=e91] [cursor=pointer]:
+          - generic [ref=e92] [cursor=pointer]:
+            - generic [ref=e94] [cursor=pointer]: Задание ЕГЭ №4
+            - generic [ref=e98] [cursor=pointer]: 0 %
+          - img [ref=e100] [cursor=pointer]
+        - generic [ref=e102] [cursor=pointer]:
+          - generic [ref=e103] [cursor=pointer]:
+            - generic [ref=e105] [cursor=pointer]: Задание ЕГЭ №5
+            - generic [ref=e109] [cursor=pointer]: 0 %
+          - img [ref=e111] [cursor=pointer]
+        - generic [ref=e113] [cursor=pointer]:
+          - generic [ref=e114] [cursor=pointer]:
+            - generic [ref=e116] [cursor=pointer]: Задание ЕГЭ №6
+            - generic [ref=e120] [cursor=pointer]: 0 %
+          - img [ref=e122] [cursor=pointer]
+        - generic [ref=e124] [cursor=pointer]:
+          - generic [ref=e125] [cursor=pointer]:
+            - generic [ref=e127] [cursor=pointer]: Задание ЕГЭ №7
+            - generic [ref=e131] [cursor=pointer]: 0 %
+          - img [ref=e133] [cursor=pointer]
+        - generic [ref=e135] [cursor=pointer]:
+          - generic [ref=e136] [cursor=pointer]:
+            - generic [ref=e138] [cursor=pointer]: Задание ЕГЭ №8
+            - generic [ref=e142] [cursor=pointer]: 0 %
+          - img [ref=e144] [cursor=pointer]
+        - generic [ref=e146] [cursor=pointer]:
+          - generic [ref=e147] [cursor=pointer]:
+            - generic [ref=e149] [cursor=pointer]: Задание ЕГЭ №9
+            - generic [ref=e153] [cursor=pointer]: 0 %
+          - img [ref=e155] [cursor=pointer]
+        - generic [ref=e157] [cursor=pointer]:
+          - generic [ref=e158] [cursor=pointer]:
+            - generic [ref=e160] [cursor=pointer]: Задание ЕГЭ №10
+            - generic [ref=e164] [cursor=pointer]: 0 %
+          - img [ref=e166] [cursor=pointer]
+        - generic [ref=e168] [cursor=pointer]:
+          - generic [ref=e169] [cursor=pointer]:
+            - generic [ref=e171] [cursor=pointer]: Задание ЕГЭ №11
+            - generic [ref=e175] [cursor=pointer]: 0 %
+          - img [ref=e177] [cursor=pointer]
+        - generic [ref=e179] [cursor=pointer]:
+          - generic [ref=e180] [cursor=pointer]:
+            - generic [ref=e182] [cursor=pointer]: Задание ЕГЭ №12
+            - generic [ref=e186] [cursor=pointer]: 0 %
+          - img [ref=e188] [cursor=pointer]
+        - generic [ref=e190] [cursor=pointer]:
+          - generic [ref=e191] [cursor=pointer]:
+            - generic [ref=e193] [cursor=pointer]: Задание ЕГЭ №13
+            - generic [ref=e197] [cursor=pointer]: 0 %
+          - img [ref=e199] [cursor=pointer]
+        - generic [ref=e201] [cursor=pointer]:
+          - generic [ref=e202] [cursor=pointer]:
+            - generic [ref=e204] [cursor=pointer]: Задание ЕГЭ №14
+            - generic [ref=e208] [cursor=pointer]: 0 %
+          - img [ref=e210] [cursor=pointer]
+        - generic [ref=e212] [cursor=pointer]:
+          - generic [ref=e213] [cursor=pointer]:
+            - generic [ref=e215] [cursor=pointer]: Задание ЕГЭ №15
+            - generic [ref=e219] [cursor=pointer]: 0 %
+          - img [ref=e221] [cursor=pointer]
+        - generic [ref=e223] [cursor=pointer]:
+          - generic [ref=e224] [cursor=pointer]:
+            - generic [ref=e226] [cursor=pointer]: Задание ЕГЭ №16
+            - generic [ref=e230] [cursor=pointer]: 0 %
+          - img [ref=e232] [cursor=pointer]
+        - generic [ref=e234] [cursor=pointer]:
+          - generic [ref=e235] [cursor=pointer]:
+            - generic [ref=e237] [cursor=pointer]: Задание ЕГЭ №17
+            - generic [ref=e241] [cursor=pointer]: 0 %
+          - img [ref=e243] [cursor=pointer]
+        - generic [ref=e245] [cursor=pointer]:
+          - generic [ref=e246] [cursor=pointer]:
+            - generic [ref=e248] [cursor=pointer]: Задание ЕГЭ №18
+            - generic [ref=e252] [cursor=pointer]: 0 %
+          - img [ref=e254] [cursor=pointer]
+        - generic [ref=e256] [cursor=pointer]:
+          - generic [ref=e257] [cursor=pointer]:
+            - generic [ref=e259] [cursor=pointer]: Задание ЕГЭ №19
+            - generic [ref=e263] [cursor=pointer]: 0 %
+          - img [ref=e265] [cursor=pointer]
+        - generic [ref=e267] [cursor=pointer]:
+          - generic [ref=e268] [cursor=pointer]:
+            - generic [ref=e270] [cursor=pointer]: Задание ЕГЭ №20
+            - generic [ref=e274] [cursor=pointer]: 0 %
+          - img [ref=e276] [cursor=pointer]
+      - generic [ref=e281]: По вашему запросу ничего не найдено
+```
