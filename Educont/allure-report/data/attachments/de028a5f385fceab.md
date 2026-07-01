@@ -1,0 +1,160 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - region "Задача для решения" [ref=e25] [cursor=pointer]:
+        - generic [ref=e26] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+            - img [ref=e32] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e36]:
+            - generic [ref=e38]:
+              - img [ref=e42]
+              - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e44]:
+                - generic [ref=e46]: Внеси ответ в специально предназначенное поле.
+            - generic [ref=e48]:
+              - img "decore" [ref=e51]
+              - generic [ref=e56]:
+                - generic [ref=e57]:
+                  - generic [ref=e59]:
+                    - math [ref=e61]:
+                      - generic [ref=e63]:
+                        - generic [ref=e64]: а
+                        - generic: ⁣
+                        - generic [ref=e65]: ":"
+                        - generic [ref=e66]: =
+                        - generic [ref=e67]: "\""
+                        - generic [ref=e68]: воскресенье
+                        - generic [ref=e69]: "\""
+                    - generic [ref=e70]:
+                      - generic [ref=e71]:
+                        - generic [ref=e72]: а
+                        - generic [ref=e74]: ":"
+                        - generic [ref=e75]: =
+                      - generic [ref=e76]:
+                        - generic [ref=e77]: "\""
+                        - generic [ref=e78]: воскресенье
+                        - generic [ref=e79]: "\""
+                  - generic [ref=e81]:
+                    - math [ref=e83]:
+                      - generic [ref=e85]:
+                        - generic [ref=e86]: если а
+                        - generic [ref=e87]: =
+                        - generic [ref=e88]: "\""
+                        - generic [ref=e89]: воскресенье
+                        - generic [ref=e90]: "\""
+                        - generic [ref=e91]: то
+                    - generic [ref=e92]:
+                      - generic [ref=e93]:
+                        - generic [ref=e94]: если
+                        - generic [ref=e96]: а
+                        - generic [ref=e97]: =
+                      - generic [ref=e98]:
+                        - generic [ref=e99]: "\""
+                        - generic [ref=e100]: воскресенье
+                        - generic [ref=e101]: "\""
+                        - generic [ref=e103]: то
+                  - generic [ref=e105]:
+                    - math [ref=e107]:
+                      - generic [ref=e109]:
+                        - generic [ref=e110]: вывести
+                        - generic [ref=e111]: "\""
+                        - generic [ref=e112]: иду в театр
+                        - generic [ref=e113]: "\""
+                    - generic [ref=e115]:
+                      - generic [ref=e116]: вывести
+                      - generic [ref=e118]: "\""
+                      - generic [ref=e119]: иду
+                      - generic [ref=e121]: в
+                      - generic [ref=e123]: театр
+                      - generic [ref=e124]: "\""
+                  - generic [ref=e126]:
+                    - math [ref=e128]:
+                      - generic [ref=e131]: иначе
+                    - generic [ref=e134]: иначе
+                  - generic [ref=e136]:
+                    - math [ref=e138]:
+                      - generic [ref=e140]:
+                        - generic [ref=e141]: вывести
+                        - generic [ref=e142]: "\""
+                        - generic [ref=e143]: иду на работу
+                        - generic [ref=e144]: "\""
+                    - generic [ref=e146]:
+                      - generic [ref=e147]: вывести
+                      - generic [ref=e149]: "\""
+                      - generic [ref=e150]: иду
+                      - generic [ref=e152]: на
+                      - generic [ref=e154]: работу
+                      - generic [ref=e155]: "\""
+                - generic [ref=e156]: Что выведет данный алгоритм?
+            - generic [ref=e161]:
+              - strong [ref=e162]: "Ответ:"
+              - textbox [ref=e163]
+          - generic [ref=e167] [cursor=pointer]:
+            - generic [ref=e171]:
+              - button [active] [ref=e174] [cursor=pointer]
+              - button [ref=e178] [cursor=pointer]:
+                - img [ref=e180] [cursor=pointer]
+              - button [ref=e183] [cursor=pointer]:
+                - img [ref=e185] [cursor=pointer]
+              - button [ref=e188] [cursor=pointer]:
+                - img [ref=e190] [cursor=pointer]
+              - button [ref=e193] [cursor=pointer]:
+                - img [ref=e195] [cursor=pointer]
+              - button [ref=e198] [cursor=pointer]:
+                - img [ref=e200] [cursor=pointer]
+              - button [ref=e203] [cursor=pointer]:
+                - img [ref=e205] [cursor=pointer]
+              - button [ref=e208] [cursor=pointer]:
+                - img [ref=e210] [cursor=pointer]
+              - button [ref=e213] [cursor=pointer]:
+                - img [ref=e215] [cursor=pointer]
+              - button [ref=e218] [cursor=pointer]:
+                - img [ref=e220] [cursor=pointer]
+              - button [ref=e223] [cursor=pointer]:
+                - img [ref=e225] [cursor=pointer]
+              - button [ref=e229] [cursor=pointer]:
+                - img [ref=e231] [cursor=pointer]
+            - generic [ref=e236] [cursor=pointer]:
+              - button [disabled] [ref=e238]:
+                - img [ref=e240]
+              - generic [ref=e243] [cursor=pointer]: 100%
+              - button [ref=e245] [cursor=pointer]:
+                - img [ref=e247] [cursor=pointer]
+      - generic [ref=e252]:
+        - generic [ref=e255]: Интеллектуальный тренажер
+        - generic [ref=e259]:
+          - generic [ref=e264]: 1 из 15
+          - generic [ref=e266]:
+            - generic [ref=e267]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e269] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e272]:
+          - generic [ref=e274]:
+            - button "Черновик" [ref=e275] [cursor=pointer]:
+              - img [ref=e278] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e281] [cursor=pointer]:
+              - img [ref=e284] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e288] [cursor=pointer]:
+              - img [ref=e291] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e293]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e294] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e297] [cursor=pointer]
+            - generic [ref=e300]: 6a45a11eb08aac0007f45ec6
+```
