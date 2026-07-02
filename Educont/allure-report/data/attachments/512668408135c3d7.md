@@ -1,0 +1,166 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e8]:
+    - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+      - img [ref=e14] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e18]:
+      - generic [ref=e21]:
+        - generic [ref=e22]: Физика
+        - generic [ref=e24]: Тренировочные варианты тестов ОГЭ по физике
+      - generic [ref=e30] [cursor=pointer]:
+        - img [ref=e32] [cursor=pointer]
+        - generic [ref=e34] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e37]:
+      - generic [ref=e41]:
+        - img [ref=e44]
+        - textbox "Поиск по подтемам" [ref=e47]
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - generic [ref=e50] [cursor=pointer]:
+            - generic [ref=e52] [cursor=pointer]: Темы
+            - button [ref=e54] [cursor=pointer]:
+              - img [ref=e56] [cursor=pointer]
+          - generic [ref=e59] [cursor=pointer]:
+            - generic [ref=e62] [cursor=pointer]: Задание ОГЭ № 1
+            - img [ref=e64] [cursor=pointer]
+          - generic [ref=e66] [cursor=pointer]:
+            - generic [ref=e69] [cursor=pointer]: Задание ОГЭ № 2
+            - img [ref=e71] [cursor=pointer]
+          - generic [ref=e73] [cursor=pointer]:
+            - generic [ref=e76] [cursor=pointer]: Задание ОГЭ № 3
+            - img [ref=e78] [cursor=pointer]
+          - generic [ref=e80] [cursor=pointer]:
+            - generic [ref=e83] [cursor=pointer]: Задание ОГЭ № 4
+            - img [ref=e85] [cursor=pointer]
+          - generic [ref=e87] [cursor=pointer]:
+            - generic [ref=e90] [cursor=pointer]: Задание ОГЭ № 5
+            - img [ref=e92] [cursor=pointer]
+          - generic [ref=e94] [cursor=pointer]:
+            - generic [ref=e97] [cursor=pointer]: Задание ОГЭ № 6
+            - img [ref=e99] [cursor=pointer]
+          - generic [ref=e101] [cursor=pointer]:
+            - generic [ref=e104] [cursor=pointer]: Задание ОГЭ № 7
+            - img [ref=e106] [cursor=pointer]
+          - generic [ref=e108] [cursor=pointer]:
+            - generic [ref=e111] [cursor=pointer]: Задание ОГЭ № 8
+            - img [ref=e113] [cursor=pointer]
+          - generic [ref=e115] [cursor=pointer]:
+            - generic [ref=e118] [cursor=pointer]: Задание ОГЭ № 9
+            - img [ref=e120] [cursor=pointer]
+          - generic [ref=e122] [cursor=pointer]:
+            - generic [ref=e125] [cursor=pointer]: Задание ОГЭ № 10
+            - img [ref=e127] [cursor=pointer]
+          - generic [ref=e129] [cursor=pointer]:
+            - generic [ref=e132] [cursor=pointer]: Задание ОГЭ № 11
+            - img [ref=e134] [cursor=pointer]
+          - generic [ref=e136] [cursor=pointer]:
+            - generic [ref=e139] [cursor=pointer]: Задание ОГЭ № 12
+            - img [ref=e141] [cursor=pointer]
+          - generic [ref=e143] [cursor=pointer]:
+            - generic [ref=e146] [cursor=pointer]: Задание ОГЭ № 13
+            - img [ref=e148] [cursor=pointer]
+          - generic [ref=e150] [cursor=pointer]:
+            - generic [ref=e153] [cursor=pointer]: Задание ОГЭ № 14
+            - img [ref=e155] [cursor=pointer]
+          - generic [ref=e157] [cursor=pointer]:
+            - generic [ref=e160] [cursor=pointer]: Задание ОГЭ № 15
+            - img [ref=e162] [cursor=pointer]
+          - generic [ref=e164] [cursor=pointer]:
+            - generic [ref=e167] [cursor=pointer]: Задание ОГЭ № 16
+            - img [ref=e169] [cursor=pointer]
+        - generic [ref=e177] [cursor=pointer]:
+          - generic [ref=e179] [cursor=pointer]:
+            - generic [ref=e181] [cursor=pointer]: "1."
+            - paragraph [ref=e183] [cursor=pointer]: Физические понятия, величины, явления
+          - img [ref=e186] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e188]:
+        - generic [ref=e189]:
+          - generic [ref=e190]: Меню разработчика
+          - button [ref=e192] [cursor=pointer]:
+            - img [ref=e194] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e196] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e197] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+      - generic [ref=e201]:
+        - region "Задача для решения" [ref=e204] [cursor=pointer]:
+          - generic [ref=e205] [cursor=pointer]:
+            - generic [ref=e207]:
+              - button "Вернуться обратно к подборке" [ref=e208] [cursor=pointer]:
+                - img [ref=e211] [cursor=pointer]
+                - text: Вернуться обратно к подборке
+              - generic [ref=e213]:
+                - generic [ref=e214]:
+                  - button "1" [ref=e217] [cursor=pointer]
+                  - button "2" [ref=e220] [cursor=pointer]
+                  - button "3" [ref=e223] [cursor=pointer]
+                  - button "4" [ref=e226] [cursor=pointer]
+                  - button "5" [ref=e229] [cursor=pointer]
+                  - button "6" [ref=e232] [cursor=pointer]
+                  - button "7" [ref=e235] [cursor=pointer]
+                  - button "8" [ref=e238] [cursor=pointer]
+                - generic [ref=e239]:
+                  - button [disabled] [ref=e240]:
+                    - img [ref=e242]
+                  - button [disabled] [ref=e245]:
+                    - img [ref=e247]
+            - generic [ref=e251]:
+              - generic [ref=e253]:
+                - img [ref=e257]
+                - heading "Установите соответствие между элементами." [level=4] [ref=e259]:
+                  - generic [ref=e261]: Установите соответствие между элементами.
+              - img "decore" [ref=e266]
+              - generic [ref=e269]:
+                - img [ref=e270]
+                - generic [ref=e271]:
+                  - generic [ref=e277] [cursor=pointer]: Амперметр
+                  - generic [ref=e284] [cursor=pointer]: Сопротивление
+                - generic [ref=e285]:
+                  - generic [ref=e291] [cursor=pointer]: Электрометр
+                  - generic [ref=e298] [cursor=pointer]: Электрический заряд
+                - generic [ref=e299]:
+                  - generic [ref=e305] [cursor=pointer]: Омметр
+                  - generic [ref=e312] [cursor=pointer]: Сила тока
+                - generic [ref=e313]:
+                  - generic [ref=e319] [cursor=pointer]: Барометр
+                  - generic [ref=e326] [cursor=pointer]: Давление
+            - generic [ref=e329] [cursor=pointer]:
+              - generic [ref=e332] [cursor=pointer]:
+                - button [disabled] [ref=e334]:
+                  - img [ref=e336]
+                - generic [ref=e339] [cursor=pointer]: 100%
+                - button [ref=e341] [cursor=pointer]:
+                  - img [ref=e343] [cursor=pointer]
+              - button "2 Показать подсказку" [ref=e348] [cursor=pointer]:
+                - generic [ref=e351] [cursor=pointer]: "2"
+                - generic [ref=e352] [cursor=pointer]: Показать подсказку
+        - generic [ref=e356]:
+          - generic [ref=e359]: Интеллектуальный тренажер
+          - button "Войти как учитель" [ref=e367] [cursor=pointer]:
+            - img [ref=e370] [cursor=pointer]
+            - text: Войти как учитель
+          - generic [ref=e372]:
+            - generic [ref=e374]:
+              - button "Черновик" [ref=e375] [cursor=pointer]:
+                - img [ref=e378] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e381] [cursor=pointer]:
+                - img [ref=e384] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Часто задаваемые вопросы" [ref=e388] [cursor=pointer]:
+                - img [ref=e391] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+            - generic [ref=e393]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Далее" [ref=e394] [cursor=pointer]:
+                - text: Далее
+                - img [ref=e397] [cursor=pointer]
+```

@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://edu.ismart.org/trpc/course.courseElementTimeSave?batch=1",
+    "status": 500,
+    "payload": {
+      "0": {
+        "unitId": "645fdac460f2733f93e59cd5",
+        "elementId": "6460d7e31aa9fe40d07febc7",
+        "practiceId": "0",
+        "usedTime": 0,
+        "lessonId": "69c61dbc2c15bb6fbefe45f3"
+      }
+    },
+    "timestap": "03.07.2026, 02:20:46"
+  },
+  {
+    "url": "https://edu.ismart.org/trpc/course.courseElementTimeSave?batch=1",
+    "status": 500,
+    "payload": {
+      "0": {
+        "unitId": "645fdac460f2733f93e59cd5",
+        "elementId": "646b469cd4b9a70e0068aeb9",
+        "practiceId": "0",
+        "usedTime": 0,
+        "lessonId": "69c61dbc2c15bb6fbefe45f3"
+      }
+    },
+    "timestap": "03.07.2026, 02:20:46"
+  }
+]
