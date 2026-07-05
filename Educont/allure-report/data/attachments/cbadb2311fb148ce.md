@@ -1,0 +1,148 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+              - button "11" [ref=e48] [cursor=pointer]
+              - button "12" [ref=e49] [cursor=pointer]
+              - button "+" [ref=e50] [cursor=pointer]
+            - button "Редактировать урок" [ref=e51] [cursor=pointer]
+          - generic [ref=e52]:
+            - generic [ref=e53]:
+              - generic [ref=e54]: Отчёты и аналитика
+              - img "Для учителей" [ref=e55] [cursor=pointer]:
+                - img [ref=e57] [cursor=pointer]
+            - generic [ref=e59]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e60] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Управление учениками" [ref=e61] [cursor=pointer]:
+              - generic [ref=e62] [cursor=pointer]: Управление учениками
+          - generic [ref=e63]:
+            - button "Заметки к уроку видны только вам" [ref=e64] [cursor=pointer]:
+              - generic [ref=e65] [cursor=pointer]:
+                - img [ref=e67] [cursor=pointer]
+                - generic [ref=e69] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e70] [cursor=pointer]:
+                - img [ref=e72] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e74] [cursor=pointer]:
+              - generic [ref=e75] [cursor=pointer]:
+                - img [ref=e77] [cursor=pointer]
+                - generic [ref=e79] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e80] [cursor=pointer]:
+              - generic [ref=e81] [cursor=pointer]:
+                - img [ref=e83] [cursor=pointer]
+                - generic [ref=e85] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e86] [cursor=pointer]:
+          - generic [ref=e87] [cursor=pointer]:
+            - img "schoolIcon" [ref=e88] [cursor=pointer]
+            - generic [ref=e89] [cursor=pointer]: ismart_Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e90] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e92] [cursor=pointer]
+      - generic [ref=e96]:
+        - region "Задача для решения" [ref=e98] [cursor=pointer]:
+          - generic [ref=e99] [cursor=pointer]:
+            - generic [ref=e102]:
+              - generic [ref=e104]:
+                - img [ref=e108]
+                - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e110]:
+                  - generic [ref=e112]: Внеси ответ в специально предназначенное поле.
+              - generic [ref=e114]:
+                - img "decore" [ref=e117]
+                - generic [ref=e119]:
+                  - generic [ref=e123]:
+                    - text: Ниже представлен фрагмент электронной таблицы. Какое значение появится в ячейке
+                    - generic [ref=e125]:
+                      - math [ref=e127]:
+                        - generic [ref=e129]:
+                          - generic [ref=e130]: A
+                          - generic [ref=e131]: "4"
+                      - generic [ref=e133]:
+                        - generic [ref=e134]: A
+                        - generic [ref=e135]: "4"
+                    - text: ", если внести в неё формулу: = МАКС("
+                    - generic [ref=e137]:
+                      - math [ref=e139]:
+                        - generic [ref=e141]:
+                          - generic [ref=e142]: A
+                          - generic [ref=e143]: "2"
+                      - generic [ref=e145]:
+                        - generic [ref=e146]: A
+                        - generic [ref=e147]: "2"
+                    - text: ":"
+                    - generic [ref=e149]:
+                      - math [ref=e151]:
+                        - generic [ref=e153]:
+                          - generic [ref=e154]: C
+                          - generic [ref=e155]: "3"
+                      - generic [ref=e157]:
+                        - generic [ref=e158]: C
+                        - generic [ref=e159]: "3"
+                    - text: )?
+                  - img "9-28" [ref=e162]
+              - generic [ref=e167]:
+                - strong [ref=e168]: "Ответ:"
+                - textbox [ref=e169]
+                - text: .
+            - generic [ref=e177]:
+              - button [active] [ref=e180] [cursor=pointer]
+              - button [ref=e184] [cursor=pointer]:
+                - img [ref=e186] [cursor=pointer]
+              - button [ref=e189] [cursor=pointer]:
+                - img [ref=e191] [cursor=pointer]
+              - button [ref=e194] [cursor=pointer]:
+                - img [ref=e196] [cursor=pointer]
+              - button [ref=e199] [cursor=pointer]:
+                - img [ref=e201] [cursor=pointer]
+              - button [ref=e204] [cursor=pointer]:
+                - img [ref=e206] [cursor=pointer]
+              - button [ref=e209] [cursor=pointer]:
+                - img [ref=e211] [cursor=pointer]
+              - button [ref=e214] [cursor=pointer]:
+                - img [ref=e216] [cursor=pointer]
+              - button [ref=e219] [cursor=pointer]:
+                - img [ref=e221] [cursor=pointer]
+              - button [ref=e224] [cursor=pointer]:
+                - img [ref=e226] [cursor=pointer]
+              - button [ref=e229] [cursor=pointer]:
+                - img [ref=e231] [cursor=pointer]
+              - button [ref=e235] [cursor=pointer]:
+                - img [ref=e237] [cursor=pointer]
+        - generic [ref=e242]:
+          - generic [ref=e244]:
+            - textbox [disabled]: 100%
+          - img [ref=e247] [cursor=pointer]
+        - button "Далее" [ref=e250] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e253] [cursor=pointer]
+```
