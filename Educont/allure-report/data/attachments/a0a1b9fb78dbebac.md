@@ -1,0 +1,96 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - region "Задача для решения" [ref=e25] [cursor=pointer]:
+        - generic [ref=e26] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+            - img [ref=e32] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e36]:
+            - generic [ref=e38]:
+              - img [ref=e42]
+              - heading "Выбери верный вариант ответа." [level=4] [ref=e44]:
+                - generic [ref=e46]: Выбери верный вариант ответа.
+            - generic [ref=e48]:
+              - img "decore" [ref=e51]
+              - generic [ref=e57]: Как называется общественно-опасное виновное деяние, которое противоречит нормам права и влечёт юридическую ответственность?
+            - generic [ref=e60]:
+              - button "Действие" [ref=e62] [cursor=pointer]:
+                - generic [ref=e64] [cursor=pointer]: Действие
+              - button "Бездействие" [ref=e66] [cursor=pointer]:
+                - generic [ref=e68] [cursor=pointer]: Бездействие
+              - button "Правонарушение" [ref=e70] [cursor=pointer]:
+                - generic [ref=e72] [cursor=pointer]: Правонарушение
+              - button "Вина" [ref=e74] [cursor=pointer]:
+                - generic [ref=e76] [cursor=pointer]: Вина
+              - button "Ответственность" [ref=e78] [cursor=pointer]:
+                - generic [ref=e80] [cursor=pointer]: Ответственность
+          - generic [ref=e83] [cursor=pointer]:
+            - generic [ref=e87]:
+              - button [active] [ref=e90] [cursor=pointer]
+              - button [ref=e94] [cursor=pointer]:
+                - img [ref=e96] [cursor=pointer]
+              - button [ref=e99] [cursor=pointer]:
+                - img [ref=e101] [cursor=pointer]
+              - button [ref=e104] [cursor=pointer]:
+                - img [ref=e106] [cursor=pointer]
+              - button [ref=e109] [cursor=pointer]:
+                - img [ref=e111] [cursor=pointer]
+              - button [ref=e114] [cursor=pointer]:
+                - img [ref=e116] [cursor=pointer]
+              - button [ref=e119] [cursor=pointer]:
+                - img [ref=e121] [cursor=pointer]
+              - button [ref=e124] [cursor=pointer]:
+                - img [ref=e126] [cursor=pointer]
+              - button [ref=e129] [cursor=pointer]:
+                - img [ref=e131] [cursor=pointer]
+              - button [ref=e134] [cursor=pointer]:
+                - img [ref=e136] [cursor=pointer]
+              - button [ref=e139] [cursor=pointer]:
+                - img [ref=e141] [cursor=pointer]
+              - button [ref=e145] [cursor=pointer]:
+                - img [ref=e147] [cursor=pointer]
+            - generic [ref=e152] [cursor=pointer]:
+              - button [disabled] [ref=e154]:
+                - img [ref=e156]
+              - generic [ref=e159] [cursor=pointer]: 100%
+              - button [ref=e161] [cursor=pointer]:
+                - img [ref=e163] [cursor=pointer]
+      - generic [ref=e168]:
+        - generic [ref=e171]: Интеллектуальный тренажер
+        - generic [ref=e175]:
+          - generic [ref=e180]: 1 из 9
+          - generic [ref=e182]:
+            - generic [ref=e183]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e185] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e188]:
+          - generic [ref=e190]:
+            - button "Черновик" [ref=e191] [cursor=pointer]:
+              - img [ref=e194] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e197] [cursor=pointer]:
+              - img [ref=e200] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e204] [cursor=pointer]:
+              - img [ref=e207] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e209]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e210] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e213] [cursor=pointer]
+            - generic [ref=e216]: 6a4d8a742888ca0008fd13fa
+```
