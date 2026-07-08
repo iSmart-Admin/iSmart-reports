@@ -1,0 +1,15 @@
+[
+  {
+    "url": "https://api.s.mindbox.ru/v1.1/customer/track-visit?version=1.0.803&transport=XmlHttpRequest",
+    "status": 503,
+    "payload": {
+      "requestUrl": "https://edu.ismart.org/educont/69c77184a4bb3e5c81924a2d?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGlhcyI6ImEwMGIxOGk4LTJiODMtMDZnYS0waGg5LTdhZjMyMDViNTIxZy10ZWFjaGVyYXV0b3Rlc3QiLCJpc1RlYWNoZXIiOnRydWUsImlzRWR1Y29udERldmVsb3BlciI6dHJ1ZSwiY291cnNlUHJvdmlkZXJJZCI6IjY4YjgzYTc1ZmY4NTc0MTRkM2UwYzAxOCIsInNlY3Rpb25Qcm92aWRlcklkIjoiNjhiODNhNzZmZjg1NzQxNGQzZTBjMDE5IiwidGhlbWVQcm92aWRlcklkIjoiNjhiODNhNzZmZjg1NzQxNGQzZTBjMDFhIiwibGVzc29uUHJvdmlkZXJJZCI6IjY5Yzc3MTg0YTRiYjNlNWM4MTkyNGEyZCIsImlhdCI6MTc4MzU1MTE0NH0.C1WaDPXlFTzGgs-d00sNhRApUVhcfVcCA-FxPz0F6fg",
+      "referrerUrl": "",
+      "ianaTimeZone": "UTC",
+      "endpointId": "ismart.Website",
+      "originDomain": "edu.ismart.org",
+      "screenResolution": "1920x1080"
+    },
+    "timestap": "09.07.2026, 01:52:26"
+  }
+]

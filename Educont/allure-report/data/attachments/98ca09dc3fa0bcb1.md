@@ -1,0 +1,122 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e9]:
+    - button [active] [ref=e11] [cursor=pointer]:
+      - img [ref=e13] [cursor=pointer]
+    - generic [ref=e16]:
+      - generic [ref=e22]:
+        - heading "Аналитика доступна после подключения класса" [level=4] [ref=e23]
+        - generic [ref=e24]:
+          - generic [ref=e25]: 1. Войдите или зарегистрируйтесь как учитель.
+          - generic [ref=e26]: 2. Заведите класс в личном кабинете iSmart и пригласите учеников по кодам.
+          - generic [ref=e27]: 3. Изучайте аналитику, результаты и общую динамику класса в личном кабинете iSmart.
+      - generic [ref=e30]:
+        - heading "Вход для учителя" [level=4] [ref=e34]
+        - generic [ref=e35]:
+          - generic [ref=e36]:
+            - generic [ref=e37]: Email или логин
+            - textbox "Email или логин" [ref=e41]
+          - button "Далее" [disabled] [ref=e42]:
+            - generic [ref=e43]: Далее
+          - generic [ref=e44]:
+            - text: "Если у вас возникли вопросы, вы можете обратиться в службу поддержки iSmart:"
+            - link "support@ismart.org" [ref=e45] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+  - generic [ref=e54]:
+    - generic:
+      - generic [ref=e55]:
+        - generic [ref=e56]:
+          - generic [ref=e57]: Меню разработчика
+          - button [ref=e59] [cursor=pointer]:
+            - img [ref=e61] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e63] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e64] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+      - generic [ref=e68]:
+        - generic [ref=e73]:
+          - generic [ref=e74]:
+            - generic [ref=e75]:
+              - generic [ref=e76]: Задания урока
+              - img "Подсказка" [ref=e77] [cursor=pointer]:
+                - img [ref=e79] [cursor=pointer]
+            - generic [ref=e82]:
+              - button "1" [ref=e83] [cursor=pointer]
+              - button "2" [ref=e84] [cursor=pointer]
+              - button "3" [ref=e85] [cursor=pointer]
+              - button "4" [ref=e86] [cursor=pointer]
+              - button "5" [ref=e87] [cursor=pointer]
+              - button "6" [ref=e88] [cursor=pointer]
+              - button "7" [ref=e89] [cursor=pointer]
+              - button "8" [ref=e90] [cursor=pointer]
+              - button "9" [ref=e91] [cursor=pointer]
+              - button "10" [ref=e92] [cursor=pointer]
+              - button "11" [ref=e93] [cursor=pointer]
+              - button "12" [ref=e94] [cursor=pointer]
+              - button "13" [ref=e95] [cursor=pointer]
+              - button "14" [ref=e96] [cursor=pointer]
+              - button "+" [ref=e97] [cursor=pointer]
+            - button "Редактировать урок" [ref=e98] [cursor=pointer]
+          - generic [ref=e99]:
+            - generic [ref=e100]:
+              - generic [ref=e101]: Отчёты и аналитика
+              - img "Для учителей" [ref=e102] [cursor=pointer]:
+                - img [ref=e104] [cursor=pointer]
+            - generic [ref=e106]: "Войдите как учитель и настройте класс — тогда вы сможете видеть решения и прогресс учеников: результаты по каждому заданию, ошибки, подсказки, средний балл и общий прогресс."
+            - button "Войти как учитель" [ref=e107] [cursor=pointer]:
+              - generic [ref=e108] [cursor=pointer]: Войти как учитель
+          - generic [ref=e109]:
+            - button "Заметки к уроку видны только вам" [ref=e110] [cursor=pointer]:
+              - generic [ref=e111] [cursor=pointer]:
+                - img [ref=e113] [cursor=pointer]
+                - generic [ref=e115] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e116] [cursor=pointer]:
+                - img [ref=e118] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e120] [cursor=pointer]:
+              - generic [ref=e121] [cursor=pointer]:
+                - img [ref=e123] [cursor=pointer]
+                - generic [ref=e125] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e126] [cursor=pointer]:
+              - generic [ref=e127] [cursor=pointer]:
+                - img [ref=e129] [cursor=pointer]
+                - generic [ref=e131] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e134]:
+          - region "Задача для решения" [ref=e136] [cursor=pointer]:
+            - generic [ref=e137] [cursor=pointer]:
+              - generic [ref=e140]:
+                - generic [ref=e142]:
+                  - img [ref=e146]
+                  - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e148]:
+                    - generic [ref=e150]: Внеси ответ в специально предназначенное поле.
+                - generic [ref=e152]:
+                  - img "decore" [ref=e155]
+                  - generic [ref=e157]:
+                    - img "800px-Bust_of_Marius_(GL_319)_-_Glyptothek_-_Munich_-_Germany_2017" [ref=e160]
+                    - generic [ref=e164]: Составь название политического течения (во множественном числе) поздней Римской республики, которое поддерживало интересы плебеев и возглавлялось Гаем Марием.
+                - generic [ref=e166]:
+                  - generic [ref=e176]:
+                    - button "Л" [ref=e177] [cursor=pointer]
+                    - button "Т" [ref=e178] [cursor=pointer]
+                    - button "А" [ref=e179] [cursor=pointer]
+                    - button "М" [ref=e180] [cursor=pointer]
+                    - button "П" [ref=e181] [cursor=pointer]
+                    - button "Ы" [ref=e182] [cursor=pointer]
+                    - button "У" [ref=e183] [cursor=pointer]
+                    - button "И" [ref=e184] [cursor=pointer]
+                    - button "О" [ref=e185] [cursor=pointer]
+                    - button "Я" [ref=e186] [cursor=pointer]
+                    - button "Р" [ref=e187] [cursor=pointer]
+                  - status [ref=e188]
+              - button "1 Взять 1 подсказку" [ref=e195] [cursor=pointer]:
+                - generic [ref=e198] [cursor=pointer]: "1"
+                - generic [ref=e199] [cursor=pointer]: Взять 1 подсказку
+          - generic [ref=e203]:
+            - generic [ref=e205]:
+              - textbox [disabled]: 100%
+            - img [ref=e208] [cursor=pointer]
+          - button "Далее" [ref=e211] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e214] [cursor=pointer]
+```
