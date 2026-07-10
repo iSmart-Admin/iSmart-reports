@@ -1,0 +1,216 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+    - img [ref=e14] [cursor=pointer]
+    - text: Вернуться обратно
+  - generic [ref=e18]:
+    - generic [ref=e21]:
+      - generic [ref=e22]: Русский язык
+      - generic [ref=e24]: Тренировочные варианты тестов для подготовки к ЕГЭ по русскому языку
+    - generic [ref=e30] [cursor=pointer]:
+      - img [ref=e32] [cursor=pointer]
+      - generic [ref=e34] [cursor=pointer]: Нашли ошибку?
+  - generic [ref=e37]:
+    - generic [ref=e41]:
+      - img [ref=e44]
+      - textbox "Поиск по подтемам" [ref=e47]
+    - generic [ref=e48]:
+      - generic [ref=e49]:
+        - generic [ref=e50] [cursor=pointer]:
+          - generic [ref=e52] [cursor=pointer]: Темы
+          - button [ref=e54] [cursor=pointer]:
+            - img [ref=e56] [cursor=pointer]
+        - generic [ref=e59] [cursor=pointer]:
+          - generic [ref=e60] [cursor=pointer]:
+            - generic [ref=e62] [cursor=pointer]: ЕГЭ
+            - generic [ref=e66] [cursor=pointer]: 0 %
+          - img [ref=e68] [cursor=pointer]
+      - generic [ref=e74]:
+        - generic [ref=e76] [cursor=pointer]:
+          - generic [ref=e77] [cursor=pointer]:
+            - generic [ref=e78] [cursor=pointer]:
+              - generic [ref=e80] [cursor=pointer]: "1."
+              - paragraph [ref=e82] [cursor=pointer]: Задание 1
+            - img [ref=e86] [cursor=pointer]
+          - img [ref=e91] [cursor=pointer]
+        - generic [ref=e94] [cursor=pointer]:
+          - generic [ref=e95] [cursor=pointer]:
+            - generic [ref=e96] [cursor=pointer]:
+              - generic [ref=e98] [cursor=pointer]: "3."
+              - paragraph [ref=e100] [cursor=pointer]: Задание 3
+            - img [ref=e104] [cursor=pointer]
+          - img [ref=e109] [cursor=pointer]
+        - generic [ref=e112] [cursor=pointer]:
+          - generic [ref=e113] [cursor=pointer]:
+            - generic [ref=e114] [cursor=pointer]:
+              - generic [ref=e116] [cursor=pointer]: "4."
+              - paragraph [ref=e118] [cursor=pointer]: Задание 4
+            - img [ref=e122] [cursor=pointer]
+          - img [ref=e127] [cursor=pointer]
+        - generic [ref=e130] [cursor=pointer]:
+          - generic [ref=e131] [cursor=pointer]:
+            - generic [ref=e132] [cursor=pointer]:
+              - generic [ref=e134] [cursor=pointer]: "5."
+              - paragraph [ref=e136] [cursor=pointer]: Задание 5
+            - img [ref=e140] [cursor=pointer]
+          - img [ref=e145] [cursor=pointer]
+        - generic [ref=e148] [cursor=pointer]:
+          - generic [ref=e149] [cursor=pointer]:
+            - generic [ref=e150] [cursor=pointer]:
+              - generic [ref=e152] [cursor=pointer]: "6."
+              - paragraph [ref=e154] [cursor=pointer]: Задание 6
+            - img [ref=e158] [cursor=pointer]
+          - img [ref=e163] [cursor=pointer]
+        - generic [ref=e166] [cursor=pointer]:
+          - generic [ref=e167] [cursor=pointer]:
+            - generic [ref=e168] [cursor=pointer]:
+              - generic [ref=e170] [cursor=pointer]: "7."
+              - paragraph [ref=e172] [cursor=pointer]: Задание 7
+            - img [ref=e176] [cursor=pointer]
+          - img [ref=e181] [cursor=pointer]
+        - generic [ref=e184] [cursor=pointer]:
+          - generic [ref=e185] [cursor=pointer]:
+            - generic [ref=e186] [cursor=pointer]:
+              - generic [ref=e188] [cursor=pointer]: "8."
+              - paragraph [ref=e190] [cursor=pointer]: Задание 8
+            - img [ref=e194] [cursor=pointer]
+          - img [ref=e199] [cursor=pointer]
+        - generic [ref=e202] [cursor=pointer]:
+          - generic [ref=e203] [cursor=pointer]:
+            - generic [ref=e204] [cursor=pointer]:
+              - generic [ref=e206] [cursor=pointer]: "10."
+              - paragraph [ref=e208] [cursor=pointer]: Задание 10
+            - generic [ref=e209] [cursor=pointer]:
+              - generic [ref=e211] [cursor=pointer]:
+                - generic [ref=e212] [cursor=pointer]: "1"
+                - text: из 56
+              - img [ref=e215] [cursor=pointer]
+          - img [ref=e220] [cursor=pointer]
+        - generic [ref=e223] [cursor=pointer]:
+          - generic [ref=e224] [cursor=pointer]:
+            - generic [ref=e225] [cursor=pointer]:
+              - generic [ref=e227] [cursor=pointer]: "11."
+              - paragraph [ref=e229] [cursor=pointer]: Задание 11
+            - img [ref=e233] [cursor=pointer]
+          - img [ref=e238] [cursor=pointer]
+        - generic [ref=e241] [cursor=pointer]:
+          - generic [ref=e242] [cursor=pointer]:
+            - generic [ref=e243] [cursor=pointer]:
+              - generic [ref=e245] [cursor=pointer]: "12."
+              - paragraph [ref=e247] [cursor=pointer]: Задание 12
+            - img [ref=e251] [cursor=pointer]
+          - img [ref=e256] [cursor=pointer]
+        - generic [ref=e259] [cursor=pointer]:
+          - generic [ref=e260] [cursor=pointer]:
+            - generic [ref=e261] [cursor=pointer]:
+              - generic [ref=e263] [cursor=pointer]: "14."
+              - paragraph [ref=e265] [cursor=pointer]: Задание 14
+            - generic [ref=e266] [cursor=pointer]:
+              - generic [ref=e268] [cursor=pointer]:
+                - generic [ref=e269] [cursor=pointer]: "1"
+                - text: из 56
+              - img [ref=e272] [cursor=pointer]
+          - img [ref=e277] [cursor=pointer]
+        - generic [ref=e280] [cursor=pointer]:
+          - generic [ref=e281] [cursor=pointer]:
+            - generic [ref=e282] [cursor=pointer]:
+              - generic [ref=e284] [cursor=pointer]: "15."
+              - paragraph [ref=e286] [cursor=pointer]: Задание 15
+            - generic [ref=e287] [cursor=pointer]:
+              - generic [ref=e289] [cursor=pointer]:
+                - generic [ref=e290] [cursor=pointer]: "1"
+                - text: из 57
+              - img [ref=e293] [cursor=pointer]
+          - img [ref=e298] [cursor=pointer]
+        - generic [ref=e301] [cursor=pointer]:
+          - generic [ref=e302] [cursor=pointer]:
+            - generic [ref=e303] [cursor=pointer]:
+              - generic [ref=e305] [cursor=pointer]: "16."
+              - paragraph [ref=e307] [cursor=pointer]: Задание 16
+            - generic [ref=e308] [cursor=pointer]:
+              - generic [ref=e310] [cursor=pointer]:
+                - generic [ref=e311] [cursor=pointer]: "1"
+                - text: из 56
+              - img [ref=e314] [cursor=pointer]
+          - img [ref=e319] [cursor=pointer]
+        - generic [ref=e322] [cursor=pointer]:
+          - generic [ref=e323] [cursor=pointer]:
+            - generic [ref=e324] [cursor=pointer]:
+              - generic [ref=e326] [cursor=pointer]: "17."
+              - paragraph [ref=e328] [cursor=pointer]: Задание 17
+            - img [ref=e332] [cursor=pointer]
+          - img [ref=e337] [cursor=pointer]
+        - generic [ref=e340] [cursor=pointer]:
+          - generic [ref=e341] [cursor=pointer]:
+            - generic [ref=e342] [cursor=pointer]:
+              - generic [ref=e344] [cursor=pointer]: "18."
+              - paragraph [ref=e346] [cursor=pointer]: Задание 18
+            - img [ref=e350] [cursor=pointer]
+          - img [ref=e355] [cursor=pointer]
+        - generic [ref=e358] [cursor=pointer]:
+          - generic [ref=e359] [cursor=pointer]:
+            - generic [ref=e360] [cursor=pointer]:
+              - generic [ref=e362] [cursor=pointer]: "19."
+              - paragraph [ref=e364] [cursor=pointer]: Задание 19
+            - img [ref=e368] [cursor=pointer]
+          - img [ref=e373] [cursor=pointer]
+        - generic [ref=e376] [cursor=pointer]:
+          - generic [ref=e377] [cursor=pointer]:
+            - generic [ref=e378] [cursor=pointer]:
+              - generic [ref=e380] [cursor=pointer]: "20."
+              - paragraph [ref=e382] [cursor=pointer]: Задание 20
+            - generic [ref=e383] [cursor=pointer]:
+              - generic [ref=e385] [cursor=pointer]:
+                - generic [ref=e386] [cursor=pointer]: "1"
+                - text: из 56
+              - img [ref=e389] [cursor=pointer]
+          - img [ref=e394] [cursor=pointer]
+        - generic [ref=e397] [cursor=pointer]:
+          - generic [ref=e398] [cursor=pointer]:
+            - generic [ref=e399] [cursor=pointer]:
+              - generic [ref=e401] [cursor=pointer]: "21."
+              - paragraph [ref=e403] [cursor=pointer]: Задание 21
+            - img [ref=e407] [cursor=pointer]
+          - img [ref=e412] [cursor=pointer]
+        - generic [ref=e415] [cursor=pointer]:
+          - generic [ref=e416] [cursor=pointer]:
+            - generic [ref=e417] [cursor=pointer]:
+              - generic [ref=e419] [cursor=pointer]: "22."
+              - paragraph [ref=e421] [cursor=pointer]: Задание 22
+            - generic [ref=e422] [cursor=pointer]:
+              - generic [ref=e424] [cursor=pointer]:
+                - generic [ref=e425] [cursor=pointer]: "1"
+                - text: из 3
+              - img [ref=e428] [cursor=pointer]
+          - img [ref=e433] [cursor=pointer]
+        - generic [ref=e436] [cursor=pointer]:
+          - generic [ref=e437] [cursor=pointer]:
+            - generic [ref=e438] [cursor=pointer]:
+              - generic [ref=e440] [cursor=pointer]: "23."
+              - paragraph [ref=e442] [cursor=pointer]: Задание 23
+            - img [ref=e446] [cursor=pointer]
+          - img [ref=e451] [cursor=pointer]
+        - generic [ref=e454] [cursor=pointer]:
+          - generic [ref=e455] [cursor=pointer]:
+            - generic [ref=e456] [cursor=pointer]:
+              - generic [ref=e458] [cursor=pointer]: "24."
+              - paragraph [ref=e460] [cursor=pointer]: Задание 24
+            - img [ref=e464] [cursor=pointer]
+          - img [ref=e469] [cursor=pointer]
+        - generic [ref=e472] [cursor=pointer]:
+          - generic [ref=e473] [cursor=pointer]:
+            - generic [ref=e474] [cursor=pointer]:
+              - generic [ref=e476] [cursor=pointer]: "25."
+              - paragraph [ref=e478] [cursor=pointer]: Задание 25
+            - img [ref=e482] [cursor=pointer]
+          - img [ref=e487] [cursor=pointer]
+        - generic [ref=e490] [cursor=pointer]:
+          - generic [ref=e491] [cursor=pointer]:
+            - generic [ref=e492] [cursor=pointer]:
+              - generic [ref=e494] [cursor=pointer]: "26."
+              - paragraph [ref=e496] [cursor=pointer]: Задание 26
+            - img [ref=e500] [cursor=pointer]
+          - img [ref=e505] [cursor=pointer]
+```
