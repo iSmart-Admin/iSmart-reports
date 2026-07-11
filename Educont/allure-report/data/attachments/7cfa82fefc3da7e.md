@@ -1,0 +1,130 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "6" [ref=e43] [cursor=pointer]
+              - button "7" [ref=e44] [cursor=pointer]
+              - button "8" [ref=e45] [cursor=pointer]
+              - button "9" [ref=e46] [cursor=pointer]
+              - button "10" [ref=e47] [cursor=pointer]
+              - button "+" [ref=e48] [cursor=pointer]
+            - button "Редактировать урок" [ref=e49] [cursor=pointer]
+          - generic [ref=e50]:
+            - generic [ref=e51]:
+              - generic [ref=e52]: Отчёты и аналитика
+              - img "Для учителей" [ref=e53] [cursor=pointer]:
+                - img [ref=e55] [cursor=pointer]
+            - generic [ref=e57]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e58] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Управление учениками" [ref=e59] [cursor=pointer]:
+              - generic [ref=e60] [cursor=pointer]: Управление учениками
+          - generic [ref=e61]:
+            - button "Заметки к уроку видны только вам" [ref=e62] [cursor=pointer]:
+              - generic [ref=e63] [cursor=pointer]:
+                - img [ref=e65] [cursor=pointer]
+                - generic [ref=e67] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e68] [cursor=pointer]:
+                - img [ref=e70] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e72] [cursor=pointer]:
+              - generic [ref=e73] [cursor=pointer]:
+                - img [ref=e75] [cursor=pointer]
+                - generic [ref=e77] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e78] [cursor=pointer]:
+              - generic [ref=e79] [cursor=pointer]:
+                - img [ref=e81] [cursor=pointer]
+                - generic [ref=e83] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e84] [cursor=pointer]:
+          - generic [ref=e85] [cursor=pointer]:
+            - img "schoolIcon" [ref=e86] [cursor=pointer]
+            - generic [ref=e87] [cursor=pointer]: ismart_Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e88] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e90] [cursor=pointer]
+      - generic [ref=e94]:
+        - region "Задача для решения" [ref=e96] [cursor=pointer]:
+          - generic [ref=e100]:
+            - generic [ref=e102]:
+              - img [ref=e106]
+              - heading "Внесите ответы в специально предназначенные поля." [level=4] [ref=e108]:
+                - generic [ref=e110]: Внесите ответы в специально предназначенные поля.
+            - generic [ref=e112]:
+              - img "decore" [ref=e115]
+              - generic [ref=e118]:
+                - table [ref=e120]:
+                  - rowgroup [ref=e121]:
+                    - row "Примеры Средства художественной выразительности" [ref=e122]:
+                      - cell "Примеры" [ref=e123]:
+                        - strong [ref=e128]: Примеры
+                      - cell "Средства художественной выразительности" [ref=e129]:
+                        - strong [ref=e134]: Средства художественной выразительности
+                    - row "А) Заскользили по реке лодки с упругими парусами Б) Но вот подул с юга тёплый ветер и точно разгладил лица людей В) Оскудел батюшко Енисей 1) эпитет 2) олицетворение 3) сравнение" [ref=e135]:
+                      - cell "А) Заскользили по реке лодки с упругими парусами Б) Но вот подул с юга тёплый ветер и точно разгладил лица людей В) Оскудел батюшко Енисей" [ref=e136]:
+                        - generic [ref=e139]:
+                          - generic [ref=e140]:
+                            - text: А) Заскользили по реке
+                            - strong [ref=e141]: лодки с упругими парусами
+                          - generic [ref=e142]:
+                            - text: Б) Но вот подул с юга тёплый
+                            - strong [ref=e143]: ветер и точно разгладил лица людей
+                          - generic [ref=e144]:
+                            - text: В)
+                            - strong [ref=e145]: Оскудел батюшко Енисей
+                      - cell "1) эпитет 2) олицетворение 3) сравнение" [ref=e146]:
+                        - generic [ref=e149]:
+                          - generic [ref=e150]: 1) эпитет
+                          - generic [ref=e151]: 2) олицетворение
+                          - generic [ref=e152]: 3) сравнение
+                - generic [ref=e155]: "Установите соответствие между примерами из текста и названиями средств художественной выразительности: к каждой позиции первого столбца подберите соответствующую позицию из второго столбца."
+            - generic [ref=e159]:
+              - generic [ref=e160]: Запишите в таблицу ниже выбранные цифры под соответствующими буквами.
+              - table [ref=e163]:
+                - rowgroup [ref=e164]:
+                  - row "А Б В" [ref=e165]:
+                    - cell "А" [ref=e166]:
+                      - strong [ref=e169]: А
+                    - cell "Б" [ref=e170]:
+                      - strong [ref=e173]: Б
+                    - cell "В" [ref=e174]:
+                      - strong [ref=e177]: В
+                  - row [ref=e178]:
+                    - cell [ref=e179]:
+                      - textbox [active] [ref=e182]
+                    - cell [ref=e183]:
+                      - textbox [ref=e186]
+                    - cell [ref=e187]:
+                      - textbox [ref=e190]
+        - generic [ref=e196]:
+          - generic [ref=e198]:
+            - textbox [disabled]: 100%
+          - img [ref=e201] [cursor=pointer]
+        - button "Далее" [ref=e204] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e207] [cursor=pointer]
+```
