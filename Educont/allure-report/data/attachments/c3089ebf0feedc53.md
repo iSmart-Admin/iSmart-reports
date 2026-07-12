@@ -1,0 +1,236 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e8]:
+    - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+      - img [ref=e14] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e18]:
+      - generic [ref=e21]:
+        - generic [ref=e22]: Биология
+        - generic [ref=e24]: Тренировочные варианты тестов для подготовки к ЕГЭ по биологии
+      - generic [ref=e30] [cursor=pointer]:
+        - img [ref=e32] [cursor=pointer]
+        - generic [ref=e34] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e37]:
+      - generic [ref=e41]:
+        - img [ref=e44]
+        - textbox "Поиск по подтемам" [ref=e47]
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - generic [ref=e50] [cursor=pointer]:
+            - generic [ref=e52] [cursor=pointer]: Темы
+            - button [ref=e54] [cursor=pointer]:
+              - img [ref=e56] [cursor=pointer]
+          - generic [ref=e59] [cursor=pointer]:
+            - generic [ref=e60] [cursor=pointer]:
+              - generic [ref=e62] [cursor=pointer]: Задание 1. Биология — комплексная наука. Биологические науки, методы биологии.
+              - generic [ref=e66] [cursor=pointer]: 0 %
+            - img [ref=e68] [cursor=pointer]
+          - generic [ref=e70] [cursor=pointer]:
+            - generic [ref=e71] [cursor=pointer]:
+              - generic [ref=e73] [cursor=pointer]: Задание 2. Прогноз результатов экспериментов
+              - generic [ref=e77] [cursor=pointer]: 0 %
+            - img [ref=e79] [cursor=pointer]
+          - generic [ref=e81] [cursor=pointer]:
+            - generic [ref=e82] [cursor=pointer]:
+              - generic [ref=e84] [cursor=pointer]: Задание 3. Решение биологических расчётных задач
+              - generic [ref=e88] [cursor=pointer]: 0 %
+            - img [ref=e90] [cursor=pointer]
+          - generic [ref=e92] [cursor=pointer]:
+            - generic [ref=e93] [cursor=pointer]:
+              - generic [ref=e95] [cursor=pointer]: Задание 4. Моно- и дигибридное скрещивание, анализирующее скрещивание
+              - generic [ref=e99] [cursor=pointer]: 0 %
+            - img [ref=e101] [cursor=pointer]
+          - generic [ref=e103] [cursor=pointer]:
+            - generic [ref=e104] [cursor=pointer]:
+              - generic [ref=e106] [cursor=pointer]: Задание 5. Клетка как биологическая система. Организм как биологическая система
+              - generic [ref=e110] [cursor=pointer]: 0 %
+            - img [ref=e112] [cursor=pointer]
+          - generic [ref=e114] [cursor=pointer]:
+            - generic [ref=e115] [cursor=pointer]:
+              - generic [ref=e117] [cursor=pointer]: Задание 6. Клетка как биологическая система. Организм как биологическая система
+              - generic [ref=e121] [cursor=pointer]: 0 %
+            - img [ref=e123] [cursor=pointer]
+          - generic [ref=e125] [cursor=pointer]:
+            - generic [ref=e126] [cursor=pointer]:
+              - generic [ref=e128] [cursor=pointer]: Задание 7. Клетка как биологическая система. Организм как биологическая система
+              - generic [ref=e132] [cursor=pointer]: 0 %
+            - img [ref=e134] [cursor=pointer]
+          - generic [ref=e136] [cursor=pointer]:
+            - generic [ref=e137] [cursor=pointer]:
+              - generic [ref=e139] [cursor=pointer]: Задание 8. Клетка как биологическая система. Организм как биологическая система
+              - generic [ref=e143] [cursor=pointer]: 0 %
+            - img [ref=e145] [cursor=pointer]
+          - generic [ref=e147] [cursor=pointer]:
+            - generic [ref=e148] [cursor=pointer]:
+              - generic [ref=e150] [cursor=pointer]: Задание 9. Многообразие организмов
+              - generic [ref=e154] [cursor=pointer]: 0 %
+            - img [ref=e156] [cursor=pointer]
+          - generic [ref=e158] [cursor=pointer]:
+            - generic [ref=e159] [cursor=pointer]:
+              - generic [ref=e161] [cursor=pointer]: Задание 10. Многообразие организмов (установление соответствия)
+              - generic [ref=e165] [cursor=pointer]: 0 %
+            - img [ref=e167] [cursor=pointer]
+          - generic [ref=e169] [cursor=pointer]:
+            - generic [ref=e170] [cursor=pointer]:
+              - generic [ref=e172] [cursor=pointer]: Задание 11. Многообразие организмов (множественный выбор)
+              - generic [ref=e176] [cursor=pointer]: 0 %
+            - img [ref=e178] [cursor=pointer]
+          - generic [ref=e180] [cursor=pointer]:
+            - generic [ref=e181] [cursor=pointer]:
+              - generic [ref=e183] [cursor=pointer]: Задание 12. Основные систематические категории и их соподчинённость
+              - generic [ref=e187] [cursor=pointer]: 0 %
+            - img [ref=e189] [cursor=pointer]
+          - generic [ref=e191] [cursor=pointer]:
+            - generic [ref=e192] [cursor=pointer]:
+              - generic [ref=e194] [cursor=pointer]: Задание 13. Организм человека
+              - generic [ref=e198] [cursor=pointer]: 0 %
+            - img [ref=e200] [cursor=pointer]
+          - generic [ref=e202] [cursor=pointer]:
+            - generic [ref=e203] [cursor=pointer]:
+              - generic [ref=e205] [cursor=pointer]: Задание 14. Организм человека
+              - generic [ref=e209] [cursor=pointer]: 0 %
+            - img [ref=e211] [cursor=pointer]
+          - generic [ref=e213] [cursor=pointer]:
+            - generic [ref=e214] [cursor=pointer]:
+              - generic [ref=e216] [cursor=pointer]: Задание 15. Организм человека
+              - generic [ref=e220] [cursor=pointer]: 0 %
+            - img [ref=e222] [cursor=pointer]
+          - generic [ref=e224] [cursor=pointer]:
+            - generic [ref=e225] [cursor=pointer]:
+              - generic [ref=e227] [cursor=pointer]: Задание 16. Организм человека
+              - generic [ref=e231] [cursor=pointer]: 0 %
+            - img [ref=e233] [cursor=pointer]
+          - generic [ref=e235] [cursor=pointer]:
+            - generic [ref=e236] [cursor=pointer]:
+              - generic [ref=e238] [cursor=pointer]: Задание 17. Эволюция живой природы
+              - generic [ref=e242] [cursor=pointer]: 0 %
+            - img [ref=e244] [cursor=pointer]
+          - generic [ref=e246] [cursor=pointer]:
+            - generic [ref=e247] [cursor=pointer]:
+              - generic [ref=e249] [cursor=pointer]: Задание 18. Экосистема и присущие ей закономерности. Биосфера
+              - generic [ref=e253] [cursor=pointer]: 0 %
+            - img [ref=e255] [cursor=pointer]
+          - generic [ref=e257] [cursor=pointer]:
+            - generic [ref=e258] [cursor=pointer]:
+              - generic [ref=e260] [cursor=pointer]: Задание 19. Эволюция живой природы. Происхождение человека. Экосистемы и присущие им закономерности. Биосфера
+              - generic [ref=e264] [cursor=pointer]: 0 %
+            - img [ref=e266] [cursor=pointer]
+          - generic [ref=e268] [cursor=pointer]:
+            - generic [ref=e269] [cursor=pointer]:
+              - generic [ref=e271] [cursor=pointer]: Задание 20. Общебиологические закономерности
+              - generic [ref=e275] [cursor=pointer]: 0 %
+            - img [ref=e277] [cursor=pointer]
+          - generic [ref=e279] [cursor=pointer]:
+            - generic [ref=e280] [cursor=pointer]:
+              - generic [ref=e282] [cursor=pointer]: Задание 21. Анализ данных в виде графиков или таблиц
+              - generic [ref=e286] [cursor=pointer]: 0 %
+            - img [ref=e288] [cursor=pointer]
+          - generic [ref=e290] [cursor=pointer]:
+            - generic [ref=e291] [cursor=pointer]:
+              - generic [ref=e293] [cursor=pointer]: Задание 27. Решение цитологических задач
+              - generic [ref=e297] [cursor=pointer]: 0 %
+            - img [ref=e299] [cursor=pointer]
+          - generic [ref=e301] [cursor=pointer]:
+            - generic [ref=e302] [cursor=pointer]:
+              - generic [ref=e304] [cursor=pointer]: Задание 28. Решение генетических задач
+              - generic [ref=e308] [cursor=pointer]: 0 %
+            - img [ref=e310] [cursor=pointer]
+        - generic [ref=e316]:
+          - generic [ref=e318] [cursor=pointer]:
+            - generic [ref=e319] [cursor=pointer]:
+              - generic [ref=e320] [cursor=pointer]:
+                - generic [ref=e322] [cursor=pointer]: "1."
+                - paragraph [ref=e324] [cursor=pointer]: Биология как наука
+              - img [ref=e328] [cursor=pointer]
+            - img [ref=e333] [cursor=pointer]
+          - generic [ref=e336] [cursor=pointer]:
+            - generic [ref=e337] [cursor=pointer]:
+              - generic [ref=e338] [cursor=pointer]:
+                - generic [ref=e340] [cursor=pointer]: "2."
+                - paragraph [ref=e342] [cursor=pointer]: Методы биологических исследований
+              - img [ref=e346] [cursor=pointer]
+            - img [ref=e351] [cursor=pointer]
+          - generic [ref=e354] [cursor=pointer]:
+            - generic [ref=e355] [cursor=pointer]:
+              - generic [ref=e356] [cursor=pointer]:
+                - generic [ref=e358] [cursor=pointer]: "3."
+                - paragraph [ref=e360] [cursor=pointer]: Уровни организации живой природы
+              - img [ref=e364] [cursor=pointer]
+            - img [ref=e369] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e371]:
+        - generic [ref=e372]:
+          - generic [ref=e373]: Меню разработчика
+          - button [ref=e375] [cursor=pointer]:
+            - img [ref=e377] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e379] [cursor=pointer]
+        - button "Финальная статистика" [ref=e380] [cursor=pointer]
+      - generic [ref=e384]:
+        - region "Задача для решения" [ref=e387] [cursor=pointer]:
+          - generic [ref=e388] [cursor=pointer]:
+            - button "Вернуться обратно к подборке" [ref=e391] [cursor=pointer]:
+              - img [ref=e394] [cursor=pointer]
+              - text: Вернуться обратно к подборке
+            - generic [ref=e398]:
+              - generic [ref=e400]:
+                - img [ref=e404]
+                - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e406]:
+                  - generic [ref=e408]: Внесите ответ в специально предназначенное поле.
+              - generic [ref=e410]:
+                - img "decore" [ref=e413]
+                - generic [ref=e419]: Рассмотрите таблицу «Биология как наука» и заполните пустую ячейку вписав соответствующий термин.
+              - table [ref=e423]:
+                - rowgroup [ref=e424]:
+                  - row "Раздел биологии Объект изучения" [ref=e425]:
+                    - cell "Раздел биологии" [ref=e426]:
+                      - generic [ref=e428]: Раздел биологии
+                    - cell "Объект изучения" [ref=e429]:
+                      - generic [ref=e431]: Объект изучения
+                - rowgroup [ref=e432]:
+                  - row "Анатомия Расположение костей в скелете нижней конечности.человека" [ref=e433]:
+                    - cell "Анатомия" [ref=e434]:
+                      - generic [ref=e436]: Анатомия
+                    - cell "Расположение костей в скелете нижней конечности.человека" [ref=e437]:
+                      - generic [ref=e439]: Расположение костей в скелете нижней конечности.человека
+                  - row "Форма и строение мхов." [ref=e440]:
+                    - cell [ref=e441]:
+                      - textbox [ref=e443]
+                    - cell "Форма и строение мхов." [ref=e444]:
+                      - generic [ref=e446]: Форма и строение мхов.
+            - generic [ref=e449] [cursor=pointer]:
+              - generic [ref=e452] [cursor=pointer]:
+                - button [disabled] [ref=e454]:
+                  - img [ref=e456]
+                - generic [ref=e459] [cursor=pointer]: 100%
+                - button [ref=e461] [cursor=pointer]:
+                  - img [ref=e463] [cursor=pointer]
+              - button "2 Показать подсказку" [ref=e468] [cursor=pointer]:
+                - generic [ref=e471] [cursor=pointer]: "2"
+                - generic [ref=e472] [cursor=pointer]: Показать подсказку
+        - generic [ref=e476]:
+          - generic [ref=e479]: Интеллектуальный тренажер
+          - generic [ref=e483]:
+            - generic [ref=e488]: 1 из 5
+            - button "Ввести код от учителя" [ref=e492] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e495]:
+            - generic [ref=e497]:
+              - button "Черновик" [ref=e498] [cursor=pointer]:
+                - img [ref=e501] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e504] [cursor=pointer]:
+                - img [ref=e507] [cursor=pointer]
+                - text: Сообщить об ошибке
+            - generic [ref=e509]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e510] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e513] [cursor=pointer]
+              - generic [ref=e516]: 6a542163e330510007b3c1cc
+```

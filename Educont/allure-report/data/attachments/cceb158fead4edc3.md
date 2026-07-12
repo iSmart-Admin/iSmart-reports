@@ -1,0 +1,99 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - region "Задача для решения" [ref=e25] [cursor=pointer]:
+        - generic [ref=e26] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+            - img [ref=e32] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e36]:
+            - generic [ref=e38]:
+              - img [ref=e42]
+              - heading "Установите соответствие между элементами." [level=4] [ref=e44]:
+                - generic [ref=e46]: Установите соответствие между элементами.
+            - generic [ref=e48]:
+              - img "decore" [ref=e51]
+              - generic [ref=e57]: Сопоставьте методам научного познания их определения.
+            - generic [ref=e60]:
+              - img [ref=e61]
+              - generic [ref=e62]:
+                - generic [ref=e68] [cursor=pointer]: Выявление главного и отбрасывание второстепенного в физическом исследовании.
+                - generic [ref=e75] [cursor=pointer]: Гипотеза
+              - generic [ref=e76]:
+                - generic [ref=e82] [cursor=pointer]: Теоретическое предположение, сделанное на основе наблюдений и экспериментов.
+                - generic [ref=e89] [cursor=pointer]: Наблюдение
+              - generic [ref=e90]:
+                - generic [ref=e96] [cursor=pointer]: Проверка гипотезы и её следствий на практике в специально созданных условиях.
+                - generic [ref=e103] [cursor=pointer]: Эксперимент
+              - generic [ref=e104]:
+                - generic [ref=e110] [cursor=pointer]: Изучение явлений в естественных условиях.
+                - generic [ref=e117] [cursor=pointer]: Моделирование
+          - generic [ref=e120] [cursor=pointer]:
+            - generic [ref=e124]:
+              - button [active] [ref=e127] [cursor=pointer]
+              - button [ref=e131] [cursor=pointer]:
+                - img [ref=e133] [cursor=pointer]
+              - button [ref=e136] [cursor=pointer]:
+                - img [ref=e138] [cursor=pointer]
+              - button [ref=e141] [cursor=pointer]:
+                - img [ref=e143] [cursor=pointer]
+              - button [ref=e146] [cursor=pointer]:
+                - img [ref=e148] [cursor=pointer]
+              - button [ref=e151] [cursor=pointer]:
+                - img [ref=e153] [cursor=pointer]
+              - button [ref=e156] [cursor=pointer]:
+                - img [ref=e158] [cursor=pointer]
+              - button [ref=e161] [cursor=pointer]:
+                - img [ref=e163] [cursor=pointer]
+              - button [ref=e166] [cursor=pointer]:
+                - img [ref=e168] [cursor=pointer]
+              - button [ref=e171] [cursor=pointer]:
+                - img [ref=e173] [cursor=pointer]
+              - button [ref=e176] [cursor=pointer]:
+                - img [ref=e178] [cursor=pointer]
+              - button [ref=e182] [cursor=pointer]:
+                - img [ref=e184] [cursor=pointer]
+            - generic [ref=e189] [cursor=pointer]:
+              - button [disabled] [ref=e191]:
+                - img [ref=e193]
+              - generic [ref=e196] [cursor=pointer]: 100%
+              - button [ref=e198] [cursor=pointer]:
+                - img [ref=e200] [cursor=pointer]
+      - generic [ref=e205]:
+        - generic [ref=e208]: Интеллектуальный тренажер
+        - generic [ref=e212]:
+          - generic [ref=e217]: 1 из 5
+          - generic [ref=e219]:
+            - generic [ref=e220]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e222] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e225]:
+          - generic [ref=e227]:
+            - button "Черновик" [ref=e228] [cursor=pointer]:
+              - img [ref=e231] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e234] [cursor=pointer]:
+              - img [ref=e237] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e241] [cursor=pointer]:
+              - img [ref=e244] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e246]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e247] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e250] [cursor=pointer]
+            - generic [ref=e253]: 6a54210ce330510007b3bcff
+```
