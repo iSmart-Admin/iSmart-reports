@@ -1,0 +1,78 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - region "Задача для решения" [ref=e25] [cursor=pointer]:
+        - generic [ref=e26] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+            - img [ref=e32] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e36]:
+            - generic [ref=e38]:
+              - button "Воспроизвести аудио" [ref=e39] [cursor=pointer]:
+                - generic:
+                  - img
+              - heading "ноль." [level=4] [ref=e40]:
+                - generic [ref=e42]:
+                  - img [ref=e44]
+                  - text: ноль.
+            - img "decore" [ref=e49]
+            - generic [ref=e53]:
+              - 'heading "1 : 0 ≠" [level=3] [ref=e54]':
+                - text: "1 :"
+                - generic [ref=e56] [cursor=pointer]: "0"
+                - strong [ref=e57]:
+                  - generic [ref=e59]: ≠
+              - 'heading "3 : 0 ≠" [level=3] [ref=e60]':
+                - text: "3 :"
+                - generic [ref=e62] [cursor=pointer]: "0"
+                - strong [ref=e63]:
+                  - generic [ref=e65]: ≠
+              - 'heading "10 : 0 ≠" [level=3] [ref=e66]':
+                - text: "10 :"
+                - generic [ref=e68] [cursor=pointer]: "0"
+                - strong [ref=e69]:
+                  - generic [ref=e71]: ≠
+          - generic [ref=e77] [cursor=pointer]:
+            - button [disabled] [ref=e79]:
+              - img [ref=e81]
+            - generic [ref=e84] [cursor=pointer]: 100%
+            - button [ref=e86] [cursor=pointer]:
+              - img [ref=e88] [cursor=pointer]
+      - generic [ref=e93]:
+        - generic [ref=e96]: Интеллектуальный тренажер
+        - generic [ref=e100]:
+          - generic [ref=e105]: 1 из 10
+          - generic [ref=e107]:
+            - generic [ref=e108]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e110] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e113]:
+          - generic [ref=e115]:
+            - button "Черновик" [ref=e116] [cursor=pointer]:
+              - img [ref=e119] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e122] [cursor=pointer]:
+              - img [ref=e125] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e129] [cursor=pointer]:
+              - img [ref=e132] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e134]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e135] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e138] [cursor=pointer]
+            - generic [ref=e141]: 6a5572be9e16c700078d77c1
+```
