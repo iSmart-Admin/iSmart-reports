@@ -1,0 +1,172 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Рейтинг" [ref=e21] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e24] [cursor=pointer]: Рейтинг
+      - link "Диагностика" [ref=e27] [cursor=pointer]:
+        - /url: /diagnostics
+        - generic [ref=e30] [cursor=pointer]: Диагностика
+      - link "Магазин" [ref=e33] [cursor=pointer]:
+        - /url: /shop/offers
+        - generic [ref=e36] [cursor=pointer]: Магазин
+      - link "Помощник" [ref=e39] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e42] [cursor=pointer]: Помощник
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - button [ref=e47] [cursor=pointer]:
+          - img [ref=e49] [cursor=pointer]
+        - img [ref=e54] [cursor=pointer]
+      - generic [ref=e56] [cursor=pointer]:
+        - generic [ref=e59] [cursor=pointer]: "?"
+        - generic [ref=e60] [cursor=pointer]:
+          - paragraph
+          - paragraph [ref=e61] [cursor=pointer]: Гость
+        - img [ref=e63] [cursor=pointer]
+  - generic [ref=e67]:
+    - generic [ref=e69]:
+      - button [ref=e70] [cursor=pointer]:
+        - img [ref=e72] [cursor=pointer]
+      - generic [ref=e76]: Геометрия. 4.1
+    - generic [ref=e80]:
+      - generic [ref=e81]:
+        - heading "Купить со скидкой" [level=1] [ref=e82]
+        - heading "-70%" [level=1] [ref=e83]
+      - button "В магазин" [ref=e85] [cursor=pointer]:
+        - text: В магазин
+        - img [ref=e88] [cursor=pointer]
+    - generic [ref=e90]:
+      - generic [ref=e94]:
+        - button "7" [ref=e95] [cursor=pointer]:
+          - img [ref=e99] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e101] [cursor=pointer]:
+          - img [ref=e105] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e107] [cursor=pointer]:
+          - img [ref=e111] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e113]:
+          - img [ref=e117]
+          - text: "10"
+        - button "11" [ref=e119] [cursor=pointer]:
+          - img [ref=e123] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e127]:
+        - generic [ref=e131]:
+          - img [ref=e134]
+          - textbox "Поиск по подтемам" [ref=e137]
+        - generic [ref=e138]:
+          - generic [ref=e139]:
+            - generic [ref=e140] [cursor=pointer]:
+              - generic [ref=e142] [cursor=pointer]: Темы
+              - button [ref=e144] [cursor=pointer]:
+                - img [ref=e146] [cursor=pointer]
+            - generic [ref=e149] [cursor=pointer]:
+              - generic [ref=e152] [cursor=pointer]: Введение в стереометрию
+              - img [ref=e154] [cursor=pointer]
+            - generic [ref=e156] [cursor=pointer]:
+              - generic [ref=e159] [cursor=pointer]: Параллельность прямых и плоскостей
+              - img [ref=e161] [cursor=pointer]
+            - generic [ref=e163] [cursor=pointer]:
+              - generic [ref=e166] [cursor=pointer]: Перпендикулярность прямых и плоскостей
+              - img [ref=e168] [cursor=pointer]
+            - generic [ref=e170] [cursor=pointer]:
+              - generic [ref=e173] [cursor=pointer]: Углы между прямыми и плоскостями
+              - img [ref=e175] [cursor=pointer]
+            - generic [ref=e177] [cursor=pointer]:
+              - generic [ref=e180] [cursor=pointer]: Многогранники
+              - img [ref=e182] [cursor=pointer]
+            - generic [ref=e184] [cursor=pointer]:
+              - generic [ref=e187] [cursor=pointer]: Объёмы многогранников
+              - img [ref=e189] [cursor=pointer]
+          - generic [ref=e195]:
+            - 'link "1. Основные понятия стереометрии. Понятие об аксиоматическом построении стереометрии: аксиомы стереометрии и следствия из них" [ref=e196] [cursor=pointer]':
+              - /url: /learn/68ac8580cd51150006102995/68ac8408cd5115000610048f/68ab5e86d608c000071814f6/68ac8440cd51150006101e5c
+              - generic [ref=e197] [cursor=pointer]:
+                - generic [ref=e199] [cursor=pointer]:
+                  - generic [ref=e201] [cursor=pointer]: "1."
+                  - paragraph [ref=e203] [cursor=pointer]: "Основные понятия стереометрии. Понятие об аксиоматическом построении стереометрии: аксиомы стереометрии и следствия из них"
+                - img [ref=e206] [cursor=pointer]
+            - link "2. Знакомство с многогранниками. Начальные сведения о кубе, пирамиде и призме, их развёртки и модели" [ref=e208] [cursor=pointer]:
+              - /url: /learn/68ac8580cd51150006102995/68ac8408cd5115000610048f/68ab5e86d608c000071814f6/68ac8440cd51150006101e59
+              - generic [ref=e209] [cursor=pointer]:
+                - generic [ref=e211] [cursor=pointer]:
+                  - generic [ref=e213] [cursor=pointer]: "2."
+                  - paragraph [ref=e215] [cursor=pointer]: Знакомство с многогранниками. Начальные сведения о кубе, пирамиде и призме, их развёртки и модели
+                - img [ref=e218] [cursor=pointer]
+            - link "3. Понятие сечения многогранника. Построение сечений в многогранниках" [ref=e220] [cursor=pointer]:
+              - /url: /learn/68ac8580cd51150006102995/68ac8408cd5115000610048f/68ab5e86d608c000071814f6/68ac8440cd51150006101e58
+              - generic [ref=e221] [cursor=pointer]:
+                - generic [ref=e223] [cursor=pointer]:
+                  - generic [ref=e225] [cursor=pointer]: "3."
+                  - paragraph [ref=e227] [cursor=pointer]: Понятие сечения многогранника. Построение сечений в многогранниках
+                - img [ref=e230] [cursor=pointer]
+  - generic [ref=e233]:
+    - generic [ref=e234]:
+      - generic [ref=e235]:
+        - generic [ref=e239]:
+          - img [ref=e241]
+          - link "8 (800) 600-44-02" [ref=e243] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e244]:
+          - generic [ref=e245]: "@"
+          - link "support@ismart.org" [ref=e246] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e247]:
+          - img [ref=e249]
+          - generic [ref=e251]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e252]:
+        - link "Наш сайт" [ref=e255] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e257] [cursor=pointer]
+        - generic [ref=e259]:
+          - link "Лицензия" [ref=e261] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e263] [cursor=pointer]:
+            - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e265] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e267] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e269] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e271]:
+      - generic [ref=e272]:
+        - link [ref=e273] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e277] [cursor=pointer]
+        - generic [ref=e280]:
+          - link "okIcon" [ref=e281] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e282] [cursor=pointer]
+          - link "dzenIcon" [ref=e283] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e284] [cursor=pointer]
+          - link "vkIcon" [ref=e285] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e286] [cursor=pointer]
+      - generic [ref=e288]:
+        - generic [ref=e290]:
+          - generic [ref=e291]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e292] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e293]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e294] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e295]:
+          - generic [ref=e296]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e297] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e298]: © iSmart, 2018-2026
+```
