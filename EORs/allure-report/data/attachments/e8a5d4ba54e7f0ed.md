@@ -1,0 +1,227 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Рейтинг" [ref=e21] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e24] [cursor=pointer]: Рейтинг
+      - link "Диагностика" [ref=e27] [cursor=pointer]:
+        - /url: /diagnostics
+        - generic [ref=e30] [cursor=pointer]: Диагностика
+      - link "Магазин" [ref=e33] [cursor=pointer]:
+        - /url: /shop/offers
+        - generic [ref=e36] [cursor=pointer]: Магазин
+      - link "Помощник" [ref=e39] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e42] [cursor=pointer]: Помощник
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - button [ref=e47] [cursor=pointer]:
+          - img [ref=e49] [cursor=pointer]
+        - img [ref=e54] [cursor=pointer]
+      - generic [ref=e56] [cursor=pointer]:
+        - generic [ref=e59] [cursor=pointer]: "?"
+        - generic [ref=e60] [cursor=pointer]:
+          - paragraph
+          - paragraph [ref=e61] [cursor=pointer]: Гость
+        - img [ref=e63] [cursor=pointer]
+  - generic [ref=e67]:
+    - generic [ref=e69]:
+      - button [ref=e70] [cursor=pointer]:
+        - img [ref=e72] [cursor=pointer]
+      - generic [ref=e76]: Русский язык. 7.1
+    - generic [ref=e80]:
+      - generic [ref=e81]:
+        - heading "Купить со скидкой" [level=1] [ref=e82]
+        - heading "-70%" [level=1] [ref=e83]
+      - button "В магазин" [ref=e85] [cursor=pointer]:
+        - text: В магазин
+        - img [ref=e88] [cursor=pointer]
+    - generic [ref=e90]:
+      - generic [ref=e94]:
+        - button "1" [ref=e95] [cursor=pointer]:
+          - img [ref=e99] [cursor=pointer]
+          - text: "1"
+        - button "2" [ref=e101] [cursor=pointer]:
+          - img [ref=e105] [cursor=pointer]
+          - text: "2"
+        - button "3" [ref=e107] [cursor=pointer]:
+          - img [ref=e111] [cursor=pointer]
+          - text: "3"
+        - button "4" [ref=e113] [cursor=pointer]:
+          - img [ref=e117] [cursor=pointer]
+          - text: "4"
+        - button "5" [ref=e119] [cursor=pointer]:
+          - img [ref=e123] [cursor=pointer]
+          - text: "5"
+        - button "6" [ref=e125] [cursor=pointer]:
+          - img [ref=e129] [cursor=pointer]
+          - text: "6"
+        - button "7" [ref=e131] [cursor=pointer]:
+          - img [ref=e135] [cursor=pointer]
+          - text: "7"
+        - button "8" [ref=e137] [cursor=pointer]:
+          - img [ref=e141] [cursor=pointer]
+          - text: "8"
+        - button "9" [ref=e143] [cursor=pointer]:
+          - img [ref=e147] [cursor=pointer]
+          - text: "9"
+        - button "10" [ref=e149]:
+          - img [ref=e153]
+          - text: "10"
+        - button "11" [ref=e155] [cursor=pointer]:
+          - img [ref=e159] [cursor=pointer]
+          - text: "11"
+      - generic [ref=e163]:
+        - generic [ref=e167]:
+          - img [ref=e170]
+          - textbox "Поиск по подтемам" [ref=e173]
+        - generic [ref=e174]:
+          - generic [ref=e175]:
+            - generic [ref=e176] [cursor=pointer]:
+              - generic [ref=e178] [cursor=pointer]: Темы
+              - button [ref=e180] [cursor=pointer]:
+                - img [ref=e182] [cursor=pointer]
+            - generic [ref=e185] [cursor=pointer]:
+              - generic [ref=e188] [cursor=pointer]: Общие сведения о языке
+              - img [ref=e190] [cursor=pointer]
+            - generic [ref=e192] [cursor=pointer]:
+              - generic [ref=e195] [cursor=pointer]: Язык и речь. Система языка. Культура речи
+              - img [ref=e197] [cursor=pointer]
+            - generic [ref=e199] [cursor=pointer]:
+              - generic [ref=e202] [cursor=pointer]: Фонетика. Орфоэпия. Орфоэпические нормы
+              - img [ref=e204] [cursor=pointer]
+            - generic [ref=e206] [cursor=pointer]:
+              - generic [ref=e209] [cursor=pointer]: Лексикология и фразеология. Лексические нормы
+              - img [ref=e211] [cursor=pointer]
+            - generic [ref=e213] [cursor=pointer]:
+              - generic [ref=e216] [cursor=pointer]: Морфемика и словообразование. Словообразовательные нормы
+              - img [ref=e218] [cursor=pointer]
+            - generic [ref=e220] [cursor=pointer]:
+              - generic [ref=e223] [cursor=pointer]: Морфология. Морфологические нормы
+              - img [ref=e225] [cursor=pointer]
+            - generic [ref=e227] [cursor=pointer]:
+              - generic [ref=e230] [cursor=pointer]: Орфография. Основные правила орфографии
+              - img [ref=e232] [cursor=pointer]
+            - generic [ref=e234] [cursor=pointer]:
+              - generic [ref=e237] [cursor=pointer]: Речь. Речевое общение
+              - img [ref=e239] [cursor=pointer]
+            - generic [ref=e241] [cursor=pointer]:
+              - generic [ref=e244] [cursor=pointer]: Текст. Информационно-смысловая переработка текста
+              - img [ref=e246] [cursor=pointer]
+          - generic [ref=e252]:
+            - link "1. Язык как знаковая система. Основные функции языка" [ref=e253] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469670
+              - generic [ref=e254] [cursor=pointer]:
+                - generic [ref=e256] [cursor=pointer]:
+                  - generic [ref=e258] [cursor=pointer]: "1."
+                  - paragraph [ref=e260] [cursor=pointer]: Язык как знаковая система. Основные функции языка
+                - img [ref=e263] [cursor=pointer]
+            - link "2. Лингвистика как наука" [ref=e265] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469671
+              - generic [ref=e266] [cursor=pointer]:
+                - generic [ref=e268] [cursor=pointer]:
+                  - generic [ref=e270] [cursor=pointer]: "2."
+                  - paragraph [ref=e272] [cursor=pointer]: Лингвистика как наука
+                - img [ref=e275] [cursor=pointer]
+            - link "3. Язык и культура" [ref=e277] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469672
+              - generic [ref=e278] [cursor=pointer]:
+                - generic [ref=e280] [cursor=pointer]:
+                  - generic [ref=e282] [cursor=pointer]: "3."
+                  - paragraph [ref=e284] [cursor=pointer]: Язык и культура
+                - img [ref=e287] [cursor=pointer]
+            - link "3.1. Отражение истории и культуры русского народа в фразеологизмах" [ref=e289] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c000746966b
+              - generic [ref=e290] [cursor=pointer]:
+                - generic [ref=e292] [cursor=pointer]:
+                  - generic [ref=e294] [cursor=pointer]: 3.1.
+                  - paragraph [ref=e296] [cursor=pointer]: Отражение истории и культуры русского народа в фразеологизмах
+                - img [ref=e299] [cursor=pointer]
+            - link "4. Русский язык - государственный язык Российской Федерации, средство межнационального общения, национальный язык русского народа, один из мировых языков" [ref=e301] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469673
+              - generic [ref=e302] [cursor=pointer]:
+                - generic [ref=e304] [cursor=pointer]:
+                  - generic [ref=e306] [cursor=pointer]: "4."
+                  - paragraph [ref=e308] [cursor=pointer]: Русский язык - государственный язык Российской Федерации, средство межнационального общения, национальный язык русского народа, один из мировых языков
+                - img [ref=e311] [cursor=pointer]
+            - link "5. Формы существования русского национального языка" [ref=e313] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469674
+              - generic [ref=e314] [cursor=pointer]:
+                - generic [ref=e316] [cursor=pointer]:
+                  - generic [ref=e318] [cursor=pointer]: "5."
+                  - paragraph [ref=e320] [cursor=pointer]: Формы существования русского национального языка
+                - img [ref=e323] [cursor=pointer]
+            - link "6. Роль литературного языка в обществе" [ref=e325] [cursor=pointer]:
+              - /url: /learn/68ac3da5d7ff8c000746baca/68ac3af0d7ff8c00074100f9/68ab5e86d608c000071814f6/68ac3c18d7ff8c0007469675
+              - generic [ref=e326] [cursor=pointer]:
+                - generic [ref=e328] [cursor=pointer]:
+                  - generic [ref=e330] [cursor=pointer]: "6."
+                  - paragraph [ref=e332] [cursor=pointer]: Роль литературного языка в обществе
+                - img [ref=e335] [cursor=pointer]
+  - generic [ref=e338]:
+    - generic [ref=e339]:
+      - generic [ref=e340]:
+        - generic [ref=e344]:
+          - img [ref=e346]
+          - link "8 (800) 600-44-02" [ref=e348] [cursor=pointer]:
+            - /url: tel:88006004402
+        - generic [ref=e349]:
+          - generic [ref=e350]: "@"
+          - link "support@ismart.org" [ref=e351] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e352]:
+          - img [ref=e354]
+          - generic [ref=e356]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+      - generic [ref=e357]:
+        - link "Наш сайт" [ref=e360] [cursor=pointer]:
+          - /url: https://ismart.org/
+          - text: Наш сайт
+          - img [ref=e362] [cursor=pointer]
+        - generic [ref=e364]:
+          - link "Лицензия" [ref=e366] [cursor=pointer]:
+            - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+          - link "Политика конфиденциальности" [ref=e368] [cursor=pointer]:
+            - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+          - link "Пользовательское соглашение" [ref=e370] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+          - link "Согласие на обработку персональных данных" [ref=e372] [cursor=pointer]:
+            - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+          - link "Курсы и цены" [ref=e374] [cursor=pointer]:
+            - /url: https://ismart.org/tariffs
+    - generic [ref=e376]:
+      - generic [ref=e377]:
+        - link [ref=e378] [cursor=pointer]:
+          - /url: https://navigator.sk.ru/orn/1124996
+          - img [ref=e382] [cursor=pointer]
+        - generic [ref=e385]:
+          - link "okIcon" [ref=e386] [cursor=pointer]:
+            - /url: https://ok.ru/ismart.official
+            - img "okIcon" [ref=e387] [cursor=pointer]
+          - link "dzenIcon" [ref=e388] [cursor=pointer]:
+            - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+            - img "dzenIcon" [ref=e389] [cursor=pointer]
+          - link "vkIcon" [ref=e390] [cursor=pointer]:
+            - /url: https://vk.com/ismartorg
+            - img "vkIcon" [ref=e391] [cursor=pointer]
+      - generic [ref=e393]:
+        - generic [ref=e395]:
+          - generic [ref=e396]:
+            - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+            - link "№22517 от 14.05.2024." [ref=e397] [cursor=pointer]:
+              - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+          - generic [ref=e398]:
+            - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+            - link "№511 от 02.06.2025" [ref=e399] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+        - generic [ref=e400]:
+          - generic [ref=e401]: "Техническая служба поддержки:"
+          - link "support@ismart.org" [ref=e402] [cursor=pointer]:
+            - /url: mailto:support@ismart.org
+        - generic [ref=e403]: © iSmart, 2018-2026
+```
