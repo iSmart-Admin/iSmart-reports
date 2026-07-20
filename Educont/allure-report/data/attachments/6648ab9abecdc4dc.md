@@ -1,0 +1,93 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+    - generic [ref=e22]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Задания урока
+            - img "Подсказка" [ref=e31] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+          - generic [ref=e36]:
+            - button "1" [ref=e37] [cursor=pointer]
+            - button "2" [ref=e38] [cursor=pointer]
+            - button "3" [ref=e39] [cursor=pointer]
+            - button "4" [ref=e40] [cursor=pointer]
+            - button "5" [ref=e41] [cursor=pointer]
+            - button "6" [ref=e42] [cursor=pointer]
+            - button "7" [ref=e43] [cursor=pointer]
+            - button "8" [ref=e44] [cursor=pointer]
+            - button "9" [ref=e45] [cursor=pointer]
+            - button "10" [ref=e46] [cursor=pointer]
+            - button "11" [ref=e47] [cursor=pointer]
+            - button "12" [ref=e48] [cursor=pointer]
+            - button "13" [ref=e49] [cursor=pointer]
+            - button "14" [ref=e50] [cursor=pointer]
+            - button "+" [ref=e51] [cursor=pointer]
+          - button "Редактировать урок" [ref=e52] [cursor=pointer]
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - generic [ref=e55]: Отчёты и аналитика
+            - img "Для учителей" [ref=e56] [cursor=pointer]:
+              - img [ref=e58] [cursor=pointer]
+          - generic [ref=e60]: "Войдите как учитель и настройте класс — тогда вы сможете видеть решения и прогресс учеников: результаты по каждому заданию, ошибки, подсказки, средний балл и общий прогресс."
+          - button "Войти как учитель" [ref=e61] [cursor=pointer]:
+            - generic [ref=e62] [cursor=pointer]: Войти как учитель
+        - generic [ref=e63]:
+          - button "Заметки к уроку видны только вам" [ref=e64] [cursor=pointer]:
+            - generic [ref=e65] [cursor=pointer]:
+              - img [ref=e67] [cursor=pointer]
+              - generic [ref=e69] [cursor=pointer]: Заметки к уроку
+            - button "видны только вам" [ref=e70] [cursor=pointer]:
+              - img [ref=e72] [cursor=pointer]
+          - button "Часто задаваемые вопросы" [ref=e74] [cursor=pointer]:
+            - generic [ref=e75] [cursor=pointer]:
+              - img [ref=e77] [cursor=pointer]
+              - generic [ref=e79] [cursor=pointer]: Часто задаваемые вопросы
+          - button "Сообщить об ошибке" [ref=e80] [cursor=pointer]:
+            - generic [ref=e81] [cursor=pointer]:
+              - img [ref=e83] [cursor=pointer]
+              - generic [ref=e85] [cursor=pointer]: Сообщить об ошибке
+      - generic [ref=e88]:
+        - region "Задача для решения" [ref=e90] [cursor=pointer]:
+          - generic [ref=e91] [cursor=pointer]:
+            - generic [ref=e94]:
+              - generic [ref=e96]:
+                - img [ref=e100]
+                - heading "Внесите ответы в специально предназначенные поля." [level=4] [ref=e102]:
+                  - generic [ref=e104]: Внесите ответы в специально предназначенные поля.
+              - generic [ref=e106]:
+                - img "decore" [ref=e109]
+                - generic [ref=e111]:
+                  - generic [ref=e115]: Рассмотрите изображение цветка.
+                  - img "bio.v6.4.1u_Строение цветка" [ref=e118]
+              - generic [ref=e123]:
+                - text: "Впишите буквы, которыми обозначены: лепесток, завязь, тычиночная нить."
+                - text: Лепесток —
+                - textbox [active] [ref=e124]
+                - text: Завязь —
+                - textbox [ref=e125]
+                - text: Тычиночная нить —
+                - textbox [ref=e126]
+            - button "2 Взять 1 подсказку" [ref=e134] [cursor=pointer]:
+              - generic [ref=e137] [cursor=pointer]: "2"
+              - generic [ref=e138] [cursor=pointer]: Взять 1 подсказку
+        - generic [ref=e142]:
+          - generic [ref=e144]:
+            - textbox [disabled]: 100%
+          - img [ref=e147] [cursor=pointer]
+        - button "Далее" [ref=e150] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e153] [cursor=pointer]
+```

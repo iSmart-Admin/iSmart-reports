@@ -1,0 +1,171 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e8]:
+    - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+      - img [ref=e14] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e18]:
+      - generic [ref=e21]:
+        - generic [ref=e22]: Английский язык
+        - generic [ref=e24]: Тренировочные варианты тестов ОГЭ по английскому языку
+      - generic [ref=e28] [cursor=pointer]:
+        - img [ref=e30] [cursor=pointer]
+        - generic [ref=e32] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e35]:
+      - generic [ref=e39]:
+        - img [ref=e42]
+        - textbox "Поиск по подтемам" [ref=e45]
+      - generic [ref=e46]:
+        - generic [ref=e47]:
+          - generic [ref=e48] [cursor=pointer]:
+            - generic [ref=e50] [cursor=pointer]: Темы
+            - button [ref=e52] [cursor=pointer]:
+              - img [ref=e54] [cursor=pointer]
+          - generic [ref=e57] [cursor=pointer]:
+            - generic [ref=e60] [cursor=pointer]: "ОГЭ: Чтение"
+            - img [ref=e62] [cursor=pointer]
+          - generic [ref=e64] [cursor=pointer]:
+            - generic [ref=e67] [cursor=pointer]: "ОГЭ: Словообразование"
+            - img [ref=e69] [cursor=pointer]
+        - generic [ref=e75]:
+          - generic [ref=e77] [cursor=pointer]:
+            - generic [ref=e79] [cursor=pointer]:
+              - generic [ref=e81] [cursor=pointer]: "1."
+              - paragraph [ref=e83] [cursor=pointer]: Match the headings with the paragraphs
+            - img [ref=e86] [cursor=pointer]
+          - generic [ref=e89] [cursor=pointer]:
+            - generic [ref=e91] [cursor=pointer]:
+              - generic [ref=e93] [cursor=pointer]: "2."
+              - paragraph [ref=e95] [cursor=pointer]: Read the text. Choose True, False or Not Stated
+            - img [ref=e98] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - generic [ref=e102]: Меню разработчика
+          - button [ref=e104] [cursor=pointer]:
+            - img [ref=e106] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e108] [cursor=pointer]
+        - button "Показывать тест школы в своб. регистрации" [ref=e109] [cursor=pointer]:
+          - text: Показывать тест школы
+          - text: в своб. регистрации
+      - generic [ref=e113]:
+        - region "Задача для решения" [ref=e116] [cursor=pointer]:
+          - generic [ref=e117] [cursor=pointer]:
+            - generic [ref=e119]:
+              - button "Вернуться обратно к подборке" [ref=e120] [cursor=pointer]:
+                - img [ref=e123] [cursor=pointer]
+                - text: Вернуться обратно к подборке
+              - generic [ref=e125]:
+                - generic [ref=e126]:
+                  - button "1" [ref=e129] [cursor=pointer]
+                  - button "2" [ref=e132] [cursor=pointer]
+                  - button "3" [ref=e135] [cursor=pointer]
+                  - button "4" [ref=e138] [cursor=pointer]
+                  - button "5" [ref=e141] [cursor=pointer]
+                  - button "6" [ref=e144] [cursor=pointer]
+                  - button "7" [ref=e147] [cursor=pointer]
+                  - button "8" [ref=e150] [cursor=pointer]
+                  - button "9" [ref=e153] [cursor=pointer]
+                - generic [ref=e154]:
+                  - button [disabled] [ref=e155]:
+                    - img [ref=e157]
+                  - button [disabled] [ref=e160]:
+                    - img [ref=e162]
+            - generic [ref=e166]:
+              - generic [ref=e168]:
+                - img [ref=e172]
+                - heading "Прочитай текст. Определи, какие из приведённых утверждений 13–19 соответствуют содержанию текста." [level=4] [ref=e174]:
+                  - generic [ref=e176]: Прочитай текст. Определи, какие из приведённых утверждений 13–19 соответствуют содержанию текста.
+              - generic [ref=e178]:
+                - img "decore" [ref=e181]
+                - generic [ref=e186]:
+                  - generic [ref=e187]: One night in December 2011, a bear came into the city of Vancouver in Canada. The bear was walking among the shops and houses until it found some food in bins outside a restaurant and started eating. Eventually someone noticed the bear and called the police. The police came with a vet from the city zoo. They drove the bear away to the mountains outside the city. Fortunately, in Vancouver it is unusual to see a bear. But what happens in other countries when a lot of wild animals come into cities?
+                  - generic [ref=e188]: Usually the big animals that come into cities are looking for some food. It is quite common in Cape Town in South Africa when baboons come into the city if they are hungry. They usually go into gardens and eat fruit from trees, but sometimes they may even go into houses and take food from cupboards and fridges! This situation is dangerous for both sides. On the one hand, baboons are strong animals and they may scare or injure people. On the other hand, the city can be dangerous for baboons too. Sometimes, cars and buses kill baboons in accidents. Moreover, human food is very bad for the baboons’ teeth because of the sugar. As a result, there are Baboon Monitors working in Cape Town. Their job is to find baboons in the city and return them to the countryside.
+                  - generic [ref=e189]: "In Berlin, Germany, pigs also sometimes come into the city to look for food. They are relatively harmless, as they mostly eat flowers and plants or vegetables in parks and gardens. However, they may walk in the street and cause traffic or even car accidents. Berlin citizens treat them differently: some people like the pigs and give them food and water, others want the government and the police to stop them entering the city."
+                  - generic [ref=e190]: The main animal problem of Moscow is stray dogs. There are over 35,000 wild dogs living in parks, old houses, markets and train stations. Dogs that live in groups have more chances to find some food and survive than those who live alone. Most people in Moscow feel pity for such dogs. They give them food and water. Some people even make small houses for the dogs, so they can keep warm in winter, when the temperature in Moscow can get to -20 ºC.
+                  - generic [ref=e191]: Thus, it is common for many animals to live in cities. But sometimes, it may get dangerous when wild animals come into cities to find food. We have to find ways of preventing animals from coming into the city without hurting them.
+              - table [ref=e198]:
+                - rowgroup [ref=e199]:
+                  - row "13 In Vancouver the police took the bear to the zoo." [ref=e200]:
+                    - cell "13" [ref=e201]:
+                      - generic [ref=e203]: "13"
+                    - cell "In Vancouver the police took the bear to the zoo." [ref=e204]:
+                      - generic [ref=e206]: In Vancouver the police took the bear to the zoo.
+                    - cell [ref=e207]:
+                      - button [ref=e211] [cursor=pointer]
+                  - row "14 Sometimes people may find baboons in their houses." [ref=e212]:
+                    - cell "14" [ref=e213]:
+                      - generic [ref=e215]: "14"
+                    - cell "Sometimes people may find baboons in their houses." [ref=e216]:
+                      - generic [ref=e218]: Sometimes people may find baboons in their houses.
+                    - cell [ref=e219]:
+                      - button [ref=e223] [cursor=pointer]
+                  - row "15 There were some cases when baboons had seriously injured a group of people in Cape Town." [ref=e224]:
+                    - cell "15" [ref=e225]:
+                      - generic [ref=e227]: "15"
+                    - cell "There were some cases when baboons had seriously injured a group of people in Cape Town." [ref=e228]:
+                      - generic [ref=e230]: There were some cases when baboons had seriously injured a group of people in Cape Town.
+                    - cell [ref=e231]:
+                      - button [ref=e235] [cursor=pointer]
+                  - row "16 In Berlin pigs may be found in city parks." [ref=e236]:
+                    - cell "16" [ref=e237]:
+                      - generic [ref=e239]: "16"
+                    - cell "In Berlin pigs may be found in city parks." [ref=e240]:
+                      - generic [ref=e242]: In Berlin pigs may be found in city parks.
+                    - cell [ref=e243]:
+                      - button [ref=e247] [cursor=pointer]
+                  - row "17 Pigs have caused a lot of car accidents in Berlin." [ref=e248]:
+                    - cell "17" [ref=e249]:
+                      - generic [ref=e251]: "17"
+                    - cell "Pigs have caused a lot of car accidents in Berlin." [ref=e252]:
+                      - generic [ref=e254]: Pigs have caused a lot of car accidents in Berlin.
+                    - cell [ref=e255]:
+                      - button [ref=e259] [cursor=pointer]
+                  - row "18 The stray dogs of Moscow can only survive if they’re living in packs." [ref=e260]:
+                    - cell "18" [ref=e261]:
+                      - generic [ref=e263]: "18"
+                    - cell "The stray dogs of Moscow can only survive if they’re living in packs." [ref=e264]:
+                      - generic [ref=e266]: The stray dogs of Moscow can only survive if they’re living in packs.
+                    - cell [ref=e267]:
+                      - button [ref=e271] [cursor=pointer]
+                  - row "19 Some Moscow citizens let wild dogs into their houses in winter." [ref=e272]:
+                    - cell "19" [ref=e273]:
+                      - generic [ref=e275]: "19"
+                    - cell "Some Moscow citizens let wild dogs into their houses in winter." [ref=e276]:
+                      - generic [ref=e278]: Some Moscow citizens let wild dogs into their houses in winter.
+                    - cell [ref=e279]:
+                      - button [ref=e283] [cursor=pointer]
+            - generic [ref=e290] [cursor=pointer]:
+              - button [disabled] [ref=e292]:
+                - img [ref=e294]
+              - generic [ref=e297] [cursor=pointer]: 100%
+              - button [ref=e299] [cursor=pointer]:
+                - img [ref=e301] [cursor=pointer]
+        - generic [ref=e306]:
+          - generic [ref=e309]: Интеллектуальный тренажер
+          - button "Войти как учитель" [ref=e317] [cursor=pointer]:
+            - img [ref=e320] [cursor=pointer]
+            - text: Войти как учитель
+          - generic [ref=e322]:
+            - generic [ref=e324]:
+              - button "Черновик" [ref=e325] [cursor=pointer]:
+                - img [ref=e328] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e331] [cursor=pointer]:
+                - img [ref=e334] [cursor=pointer]
+                - text: Сообщить об ошибке
+              - button "Часто задаваемые вопросы" [ref=e338] [cursor=pointer]:
+                - img [ref=e341] [cursor=pointer]
+                - text: Часто задаваемые вопросы
+            - generic [ref=e343]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Далее" [ref=e344] [cursor=pointer]:
+                - text: Далее
+                - img [ref=e347] [cursor=pointer]
+```
