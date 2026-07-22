@@ -1,0 +1,299 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - link "Каталог заданий" [ref=e15] [cursor=pointer]:
+        - /url: /catalog
+        - generic [ref=e18] [cursor=pointer]: Каталог заданий
+      - link "Кабинет учителя" [ref=e21] [cursor=pointer]:
+        - /url: /teacher/dashboard
+        - generic [ref=e24] [cursor=pointer]: Кабинет учителя
+      - link "Рейтинг" [ref=e27] [cursor=pointer]:
+        - /url: /rating
+        - generic [ref=e30] [cursor=pointer]: Рейтинг
+      - link "Помощник" [ref=e33] [cursor=pointer]:
+        - /url: /smarty_ai
+        - generic [ref=e36] [cursor=pointer]: Помощник
+      - link "Школы" [ref=e39] [cursor=pointer]:
+        - /url: /schools
+        - generic [ref=e42] [cursor=pointer]: Школы
+    - generic [ref=e46] [cursor=pointer]:
+      - generic [ref=e50] [cursor=pointer]: e
+      - generic [ref=e51] [cursor=pointer]:
+        - paragraph [ref=e52] [cursor=pointer]: Учитель
+        - paragraph [ref=e53] [cursor=pointer]: edu_N07fgO0y
+      - img [ref=e55] [cursor=pointer]
+  - generic [ref=e60]:
+    - button "К классам школы" [ref=e61] [cursor=pointer]:
+      - img [ref=e64] [cursor=pointer]
+      - text: К классам школы
+    - 'heading "Класс: 9 «А»" [level=2] [ref=e66]'
+    - link "educontIcon Перейти в \"Моя школа\"" [ref=e67] [cursor=pointer]:
+      - /url: https://www.gosuslugi.ru/school/schedule
+      - img "educontIcon" [ref=e69] [cursor=pointer]
+      - generic [ref=e70] [cursor=pointer]: Перейти в "Моя школа"
+      - img [ref=e72] [cursor=pointer]
+    - generic [ref=e74]:
+      - generic [ref=e75]:
+        - link "Информация о классе" [ref=e77] [cursor=pointer]:
+          - /url: https://edu.ismart.org/schools/68f768de4e12860007c1e6ae/classes/696a463884026e00070852cb/childrens/info
+          - generic [ref=e81] [cursor=pointer]: Информация о классе
+        - link "Ученики" [ref=e83]:
+          - /url: https://edu.ismart.org/schools/68f768de4e12860007c1e6ae/classes/696a463884026e00070852cb/childrens/childrens
+          - generic [ref=e87]: Ученики
+        - link "Учителя" [ref=e89] [cursor=pointer]:
+          - /url: https://edu.ismart.org/schools/68f768de4e12860007c1e6ae/classes/696a463884026e00070852cb/childrens/employees
+          - generic [ref=e92] [cursor=pointer]:
+            - generic [ref=e93] [cursor=pointer]: Учителя
+            - img [ref=e96] [cursor=pointer]
+      - button "Добавить учеников" [ref=e98] [cursor=pointer]:
+        - img [ref=e101] [cursor=pointer]
+        - text: Добавить учеников
+    - generic [ref=e103]:
+      - generic [ref=e104]:
+        - generic [ref=e105]: Раздайте приглашения ученикам для присоединения к классу
+        - button "Распечатать коды" [ref=e106] [cursor=pointer]:
+          - text: Распечатать коды
+          - img [ref=e109] [cursor=pointer]
+      - generic [ref=e114]:
+        - img [ref=e117]
+        - textbox "Введите имя ученика" [ref=e120]
+      - table [ref=e123]:
+        - rowgroup [ref=e124]:
+          - row "Ученики" [ref=e125]:
+            - cell [ref=e126]
+            - cell "Ученики" [ref=e127]
+            - cell [ref=e128]
+            - cell [ref=e129]
+            - cell [ref=e130]
+            - cell [ref=e131]
+        - rowgroup [ref=e132]:
+          - row "1 А Автотесты Илья0" [ref=e133]:
+            - cell "1" [ref=e134]:
+              - generic [ref=e135]: "1"
+            - cell "А Автотесты Илья0" [ref=e136]:
+              - generic [ref=e137]:
+                - generic [ref=e139]: А
+                - generic [ref=e140]: Автотесты Илья0
+            - cell [ref=e141]
+            - cell [ref=e142]
+            - cell [ref=e143]:
+              - img [ref=e147] [cursor=pointer]
+            - cell [ref=e149]:
+              - button [ref=e150] [cursor=pointer]:
+                - img [ref=e152] [cursor=pointer]
+          - row "2 А Автотесты Илья0" [ref=e154]:
+            - cell "2" [ref=e155]:
+              - generic [ref=e156]: "2"
+            - cell "А Автотесты Илья0" [ref=e157]:
+              - generic [ref=e158]:
+                - generic [ref=e160]: А
+                - generic [ref=e161]: Автотесты Илья0
+            - cell [ref=e162]
+            - cell [ref=e163]
+            - cell [ref=e164]:
+              - img [ref=e168] [cursor=pointer]
+            - cell [ref=e170]:
+              - button [ref=e171] [cursor=pointer]:
+                - img [ref=e173] [cursor=pointer]
+          - row "3 А Автотесты Илья0 Щ1С6Ч" [ref=e175]:
+            - cell "3" [ref=e176]:
+              - generic [ref=e177]: "3"
+            - cell "А Автотесты Илья0" [ref=e178]:
+              - generic [ref=e179]:
+                - generic [ref=e181]: А
+                - generic [ref=e182]: Автотесты Илья0
+            - cell [ref=e183]
+            - cell "Щ1С6Ч" [ref=e184]:
+              - generic [ref=e188] [cursor=pointer]: Щ1С6Ч
+            - cell [ref=e189]:
+              - img [ref=e193] [cursor=pointer]
+            - cell [ref=e195]:
+              - button [ref=e196] [cursor=pointer]:
+                - img [ref=e198] [cursor=pointer]
+          - row "4 А Автотесты Илья1" [ref=e200]:
+            - cell "4" [ref=e201]:
+              - generic [ref=e202]: "4"
+            - cell "А Автотесты Илья1" [ref=e203]:
+              - generic [ref=e204]:
+                - generic [ref=e206]: А
+                - generic [ref=e207]: Автотесты Илья1
+            - cell [ref=e208]
+            - cell [ref=e209]
+            - cell [ref=e210]:
+              - img [ref=e214] [cursor=pointer]
+            - cell [ref=e216]:
+              - button [ref=e217] [cursor=pointer]:
+                - img [ref=e219] [cursor=pointer]
+          - row "5 А Автотесты Илья1" [ref=e221]:
+            - cell "5" [ref=e222]:
+              - generic [ref=e223]: "5"
+            - cell "А Автотесты Илья1" [ref=e224]:
+              - generic [ref=e225]:
+                - generic [ref=e227]: А
+                - generic [ref=e228]: Автотесты Илья1
+            - cell [ref=e229]
+            - cell [ref=e230]
+            - cell [ref=e231]:
+              - img [ref=e235] [cursor=pointer]
+            - cell [ref=e237]:
+              - button [ref=e238] [cursor=pointer]:
+                - img [ref=e240] [cursor=pointer]
+          - row "6 А Автотесты Илья1 С1Л5Л" [ref=e242]:
+            - cell "6" [ref=e243]:
+              - generic [ref=e244]: "6"
+            - cell "А Автотесты Илья1" [ref=e245]:
+              - generic [ref=e246]:
+                - generic [ref=e248]: А
+                - generic [ref=e249]: Автотесты Илья1
+            - cell [ref=e250]
+            - cell "С1Л5Л" [ref=e251]:
+              - generic [ref=e255] [cursor=pointer]: С1Л5Л
+            - cell [ref=e256]:
+              - img [ref=e260] [cursor=pointer]
+            - cell [ref=e262]:
+              - button [ref=e263] [cursor=pointer]:
+                - img [ref=e265] [cursor=pointer]
+          - row "7 А Автотесты Илья2" [ref=e267]:
+            - cell "7" [ref=e268]:
+              - generic [ref=e269]: "7"
+            - cell "А Автотесты Илья2" [ref=e270]:
+              - generic [ref=e271]:
+                - generic [ref=e273]: А
+                - generic [ref=e274]: Автотесты Илья2
+            - cell [ref=e275]
+            - cell [ref=e276]
+            - cell [ref=e277]:
+              - img [ref=e281] [cursor=pointer]
+            - cell [ref=e283]:
+              - button [ref=e284] [cursor=pointer]:
+                - img [ref=e286] [cursor=pointer]
+          - row "8 А Автотесты Илья2" [ref=e288]:
+            - cell "8" [ref=e289]:
+              - generic [ref=e290]: "8"
+            - cell "А Автотесты Илья2" [ref=e291]:
+              - generic [ref=e292]:
+                - generic [ref=e294]: А
+                - generic [ref=e295]: Автотесты Илья2
+            - cell [ref=e296]
+            - cell [ref=e297]
+            - cell [ref=e298]:
+              - img [ref=e302] [cursor=pointer]
+            - cell [ref=e304]:
+              - button [ref=e305] [cursor=pointer]:
+                - img [ref=e307] [cursor=pointer]
+          - row "9 А Автотесты Илья2 Ц6Х7Ы" [ref=e309]:
+            - cell "9" [ref=e310]:
+              - generic [ref=e311]: "9"
+            - cell "А Автотесты Илья2" [ref=e312]:
+              - generic [ref=e313]:
+                - generic [ref=e315]: А
+                - generic [ref=e316]: Автотесты Илья2
+            - cell [ref=e317]
+            - cell "Ц6Х7Ы" [ref=e318]:
+              - generic [ref=e322] [cursor=pointer]: Ц6Х7Ы
+            - cell [ref=e323]:
+              - img [ref=e327] [cursor=pointer]
+            - cell [ref=e329]:
+              - button [ref=e330] [cursor=pointer]:
+                - img [ref=e332] [cursor=pointer]
+          - row "10 А Автотесты Илья3" [ref=e334]:
+            - cell "10" [ref=e335]:
+              - generic [ref=e336]: "10"
+            - cell "А Автотесты Илья3" [ref=e337]:
+              - generic [ref=e338]:
+                - generic [ref=e340]: А
+                - generic [ref=e341]: Автотесты Илья3
+            - cell [ref=e342]
+            - cell [ref=e343]
+            - cell [ref=e344]:
+              - img [ref=e348] [cursor=pointer]
+            - cell [ref=e350]:
+              - button [ref=e351] [cursor=pointer]:
+                - img [ref=e353] [cursor=pointer]
+          - row "11 А Автотесты Илья3" [ref=e355]:
+            - cell "11" [ref=e356]:
+              - generic [ref=e357]: "11"
+            - cell "А Автотесты Илья3" [ref=e358]:
+              - generic [ref=e359]:
+                - generic [ref=e361]: А
+                - generic [ref=e362]: Автотесты Илья3
+            - cell [ref=e363]
+            - cell [ref=e364]
+            - cell [ref=e365]:
+              - img [ref=e369] [cursor=pointer]
+            - cell [ref=e371]:
+              - button [ref=e372] [cursor=pointer]:
+                - img [ref=e374] [cursor=pointer]
+          - row "12 А Автотесты Илья3 Г6Ш2Щ" [ref=e376]:
+            - cell "12" [ref=e377]:
+              - generic [ref=e378]: "12"
+            - cell "А Автотесты Илья3" [ref=e379]:
+              - generic [ref=e380]:
+                - generic [ref=e382]: А
+                - generic [ref=e383]: Автотесты Илья3
+            - cell [ref=e384]
+            - cell "Г6Ш2Щ" [ref=e385]:
+              - generic [ref=e389] [cursor=pointer]: Г6Ш2Щ
+            - cell [ref=e390]:
+              - img [ref=e394] [cursor=pointer]
+            - cell [ref=e396]:
+              - button [ref=e397] [cursor=pointer]:
+                - img [ref=e399] [cursor=pointer]
+          - row "13 А Автотесты Илья4 Ц2С9П" [ref=e401]:
+            - cell "13" [ref=e402]:
+              - generic [ref=e403]: "13"
+            - cell "А Автотесты Илья4" [ref=e404]:
+              - generic [ref=e405]:
+                - generic [ref=e407]: А
+                - generic [ref=e408]: Автотесты Илья4
+            - cell [ref=e409]
+            - cell "Ц2С9П" [ref=e410]:
+              - generic [ref=e414] [cursor=pointer]: Ц2С9П
+            - cell [ref=e415]:
+              - img [ref=e419] [cursor=pointer]
+            - cell [ref=e421]:
+              - button [ref=e422] [cursor=pointer]:
+                - img [ref=e424] [cursor=pointer]
+          - row "14 А Автотесты Илья4 К1Б6Ч" [ref=e426]:
+            - cell "14" [ref=e427]:
+              - generic [ref=e428]: "14"
+            - cell "А Автотесты Илья4" [ref=e429]:
+              - generic [ref=e430]:
+                - generic [ref=e432]: А
+                - generic [ref=e433]: Автотесты Илья4
+            - cell [ref=e434]
+            - cell "К1Б6Ч" [ref=e435]:
+              - generic [ref=e439] [cursor=pointer]: К1Б6Ч
+            - cell [ref=e440]:
+              - img [ref=e444] [cursor=pointer]
+            - cell [ref=e446]:
+              - button [ref=e447] [cursor=pointer]:
+                - img [ref=e449] [cursor=pointer]
+          - row "15 А Автотесты Илья4 Г1В8Ж" [ref=e451]:
+            - cell "15" [ref=e452]:
+              - generic [ref=e453]: "15"
+            - cell "А Автотесты Илья4" [ref=e454]:
+              - generic [ref=e455]:
+                - generic [ref=e457]: А
+                - generic [ref=e458]: Автотесты Илья4
+            - cell [ref=e459]
+            - cell "Г1В8Ж" [ref=e460]:
+              - generic [ref=e464] [cursor=pointer]: Г1В8Ж
+            - cell [ref=e465]:
+              - img [ref=e469] [cursor=pointer]
+            - cell [ref=e471]:
+              - button [ref=e472] [cursor=pointer]:
+                - img [ref=e474] [cursor=pointer]
+        - rowgroup [ref=e476]:
+          - 'row "Записей: 15 1" [ref=e477]':
+            - 'cell "Записей: 15 1" [ref=e478]':
+              - generic [ref=e480]:
+                - generic [ref=e482]: "Записей: 15"
+                - generic [ref=e483]:
+                  - img [ref=e485]
+                  - generic [ref=e488]: "1"
+                  - img [ref=e490]
+```
