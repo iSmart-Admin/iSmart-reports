@@ -1,0 +1,707 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e8]:
+    - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+      - img [ref=e14] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e18]:
+      - generic [ref=e23]: Раздел для обучающихся с ограниченными возможностями здоровья
+      - generic [ref=e27] [cursor=pointer]:
+        - img [ref=e29] [cursor=pointer]
+        - generic [ref=e31] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e34]:
+      - generic [ref=e38]:
+        - img [ref=e41]
+        - textbox "Поиск по подтемам" [ref=e44]
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - generic [ref=e47] [cursor=pointer]:
+            - generic [ref=e49] [cursor=pointer]: Темы
+            - button [ref=e51] [cursor=pointer]:
+              - img [ref=e53] [cursor=pointer]
+          - generic [ref=e56] [cursor=pointer]:
+            - generic [ref=e57] [cursor=pointer]:
+              - generic [ref=e59] [cursor=pointer]: Цвета
+              - generic [ref=e63] [cursor=pointer]: 0 %
+            - img [ref=e65] [cursor=pointer]
+          - generic [ref=e67] [cursor=pointer]:
+            - generic [ref=e68] [cursor=pointer]:
+              - generic [ref=e70] [cursor=pointer]: Формы
+              - generic [ref=e74] [cursor=pointer]: 0 %
+            - img [ref=e76] [cursor=pointer]
+          - generic [ref=e78] [cursor=pointer]:
+            - generic [ref=e79] [cursor=pointer]:
+              - generic [ref=e81] [cursor=pointer]: Различение и наименование признаков (прилагательные)
+              - generic [ref=e85] [cursor=pointer]: 0 %
+            - img [ref=e87] [cursor=pointer]
+          - generic [ref=e89] [cursor=pointer]:
+            - generic [ref=e90] [cursor=pointer]:
+              - generic [ref=e92] [cursor=pointer]: Речевые представления
+              - generic [ref=e96] [cursor=pointer]: 0 %
+            - img [ref=e98] [cursor=pointer]
+          - generic [ref=e100] [cursor=pointer]:
+            - generic [ref=e101] [cursor=pointer]:
+              - generic [ref=e103] [cursor=pointer]: Различение и наименование действий (глаголы)
+              - generic [ref=e107] [cursor=pointer]: 0 %
+            - img [ref=e109] [cursor=pointer]
+          - generic [ref=e111] [cursor=pointer]:
+            - generic [ref=e112] [cursor=pointer]:
+              - generic [ref=e114] [cursor=pointer]: Различение и наименование предметов (существительные) (ч. 1)
+              - generic [ref=e118] [cursor=pointer]: 0 %
+            - img [ref=e120] [cursor=pointer]
+          - generic [ref=e122] [cursor=pointer]:
+            - generic [ref=e123] [cursor=pointer]:
+              - generic [ref=e125] [cursor=pointer]: Различение и наименование предметов (существительные) (ч. 2)
+              - generic [ref=e129] [cursor=pointer]: 0 %
+            - img [ref=e131] [cursor=pointer]
+          - generic [ref=e133] [cursor=pointer]:
+            - generic [ref=e134] [cursor=pointer]:
+              - generic [ref=e136] [cursor=pointer]: Различение и наименование предметов (существительные) (ч. 3)
+              - generic [ref=e140] [cursor=pointer]: 0 %
+            - img [ref=e142] [cursor=pointer]
+          - generic [ref=e144] [cursor=pointer]:
+            - generic [ref=e145] [cursor=pointer]:
+              - generic [ref=e147] [cursor=pointer]: Части тела
+              - generic [ref=e151] [cursor=pointer]: 0 %
+            - img [ref=e153] [cursor=pointer]
+          - generic [ref=e155] [cursor=pointer]:
+            - generic [ref=e156] [cursor=pointer]:
+              - generic [ref=e158] [cursor=pointer]: Буквы А-Й
+              - generic [ref=e162] [cursor=pointer]: 0 %
+            - img [ref=e164] [cursor=pointer]
+          - generic [ref=e166] [cursor=pointer]:
+            - generic [ref=e167] [cursor=pointer]:
+              - generic [ref=e169] [cursor=pointer]: Буквы К-Ф
+              - generic [ref=e173] [cursor=pointer]: 0 %
+            - img [ref=e175] [cursor=pointer]
+          - generic [ref=e177] [cursor=pointer]:
+            - generic [ref=e178] [cursor=pointer]:
+              - generic [ref=e180] [cursor=pointer]: Буквы Х-Я
+              - generic [ref=e184] [cursor=pointer]: 0 %
+            - img [ref=e186] [cursor=pointer]
+          - generic [ref=e188] [cursor=pointer]:
+            - generic [ref=e189] [cursor=pointer]:
+              - generic [ref=e191] [cursor=pointer]: Деление слов на слоги для переноса
+              - generic [ref=e195] [cursor=pointer]: 0 %
+            - img [ref=e197] [cursor=pointer]
+          - generic [ref=e199] [cursor=pointer]:
+            - generic [ref=e200] [cursor=pointer]:
+              - generic [ref=e202] [cursor=pointer]: Изучение слогов
+              - generic [ref=e206] [cursor=pointer]: 0 %
+            - img [ref=e208] [cursor=pointer]
+          - generic [ref=e210] [cursor=pointer]:
+            - generic [ref=e211] [cursor=pointer]:
+              - generic [ref=e213] [cursor=pointer]: Предложение, слово, точка
+              - generic [ref=e217] [cursor=pointer]: 0 %
+            - img [ref=e219] [cursor=pointer]
+          - generic [ref=e221] [cursor=pointer]:
+            - generic [ref=e222] [cursor=pointer]:
+              - generic [ref=e224] [cursor=pointer]: Глобальное чтение
+              - generic [ref=e228] [cursor=pointer]: 0 %
+            - img [ref=e230] [cursor=pointer]
+          - generic [ref=e232] [cursor=pointer]:
+            - generic [ref=e233] [cursor=pointer]:
+              - generic [ref=e235] [cursor=pointer]: Понимание прочитанного (существительные)
+              - generic [ref=e239] [cursor=pointer]: 0 %
+            - img [ref=e241] [cursor=pointer]
+          - generic [ref=e243] [cursor=pointer]:
+            - generic [ref=e244] [cursor=pointer]:
+              - generic [ref=e246] [cursor=pointer]: Понимание прочитанного (прилагательные)
+              - generic [ref=e250] [cursor=pointer]: 0 %
+            - img [ref=e252] [cursor=pointer]
+          - generic [ref=e254] [cursor=pointer]:
+            - generic [ref=e255] [cursor=pointer]:
+              - generic [ref=e257] [cursor=pointer]: Понимание прочитанного (формы)
+              - generic [ref=e261] [cursor=pointer]: 0 %
+            - img [ref=e263] [cursor=pointer]
+          - generic [ref=e265] [cursor=pointer]:
+            - generic [ref=e266] [cursor=pointer]:
+              - generic [ref=e268] [cursor=pointer]: Сортировка прочитанного цвета к 3 картинкам
+              - generic [ref=e272] [cursor=pointer]: 0 %
+            - img [ref=e274] [cursor=pointer]
+          - generic [ref=e276] [cursor=pointer]:
+            - generic [ref=e277] [cursor=pointer]:
+              - generic [ref=e279] [cursor=pointer]: Понимание прочитанного (существительное + глагол)
+              - generic [ref=e283] [cursor=pointer]: 0 %
+            - img [ref=e285] [cursor=pointer]
+          - generic [ref=e287] [cursor=pointer]:
+            - generic [ref=e288] [cursor=pointer]:
+              - generic [ref=e290] [cursor=pointer]: 1 кл. доп. Вставлять пропущенные слова в предложения (до трёх слов в сложные предложения)
+              - generic [ref=e294] [cursor=pointer]: 0 %
+            - img [ref=e296] [cursor=pointer]
+          - generic [ref=e298] [cursor=pointer]:
+            - generic [ref=e299] [cursor=pointer]:
+              - generic [ref=e301] [cursor=pointer]: 1 кл. доп. Предложение, текст, слово, точка
+              - generic [ref=e305] [cursor=pointer]: 0 %
+            - img [ref=e307] [cursor=pointer]
+          - generic [ref=e309] [cursor=pointer]:
+            - generic [ref=e310] [cursor=pointer]:
+              - generic [ref=e312] [cursor=pointer]: 1 кл. доп. Составление предложений, восстановление в них нарушенного порядка слов с ориентацией на серию сюжетных картинок
+              - generic [ref=e316] [cursor=pointer]: 0 %
+            - img [ref=e318] [cursor=pointer]
+          - generic [ref=e320] [cursor=pointer]:
+            - generic [ref=e321] [cursor=pointer]:
+              - generic [ref=e323] [cursor=pointer]: 1 кл. доп. Предлоги
+              - generic [ref=e327] [cursor=pointer]: 0 %
+            - img [ref=e329] [cursor=pointer]
+          - generic [ref=e331] [cursor=pointer]:
+            - generic [ref=e332] [cursor=pointer]:
+              - generic [ref=e334] [cursor=pointer]: 1 кл. доп. Деление слов на слоги для переноса
+              - generic [ref=e338] [cursor=pointer]: 0 %
+            - img [ref=e340] [cursor=pointer]
+          - generic [ref=e342] [cursor=pointer]:
+            - generic [ref=e343] [cursor=pointer]:
+              - generic [ref=e345] [cursor=pointer]: 1 кл. доп. Изучение слогов
+              - generic [ref=e349] [cursor=pointer]: 0 %
+            - img [ref=e351] [cursor=pointer]
+          - generic [ref=e353] [cursor=pointer]:
+            - generic [ref=e354] [cursor=pointer]:
+              - generic [ref=e356] [cursor=pointer]: 1 кл. доп. Подсчёт слогов
+              - generic [ref=e360] [cursor=pointer]: 0 %
+            - img [ref=e362] [cursor=pointer]
+          - generic [ref=e364] [cursor=pointer]:
+            - generic [ref=e365] [cursor=pointer]:
+              - generic [ref=e367] [cursor=pointer]: 1 кл. доп. ЖИ-ШИ, ЧА-ЩА, ЧУ-ЩУ
+              - generic [ref=e371] [cursor=pointer]: 0 %
+            - img [ref=e373] [cursor=pointer]
+          - generic [ref=e375] [cursor=pointer]:
+            - generic [ref=e376] [cursor=pointer]:
+              - generic [ref=e378] [cursor=pointer]: 1 кл. доп. Развитие речи
+              - generic [ref=e382] [cursor=pointer]: 0 %
+            - img [ref=e384] [cursor=pointer]
+          - generic [ref=e386] [cursor=pointer]:
+            - generic [ref=e387] [cursor=pointer]:
+              - generic [ref=e389] [cursor=pointer]: 1 кл. доп. Различение гласных и согласных букв
+              - generic [ref=e393] [cursor=pointer]: 0 %
+            - img [ref=e395] [cursor=pointer]
+          - generic [ref=e397] [cursor=pointer]:
+            - generic [ref=e398] [cursor=pointer]:
+              - generic [ref=e400] [cursor=pointer]: 1 кл. доп. Алфавит
+              - generic [ref=e404] [cursor=pointer]: 0 %
+            - img [ref=e406] [cursor=pointer]
+          - generic [ref=e408] [cursor=pointer]:
+            - generic [ref=e409] [cursor=pointer]:
+              - generic [ref=e411] [cursor=pointer]: 1 кл. доп. Гласные звуки
+              - generic [ref=e415] [cursor=pointer]: 0 %
+            - img [ref=e417] [cursor=pointer]
+          - generic [ref=e419] [cursor=pointer]:
+            - generic [ref=e420] [cursor=pointer]:
+              - generic [ref=e422] [cursor=pointer]: 1 кл. доп. Согласные звуки
+              - generic [ref=e426] [cursor=pointer]: 0 %
+            - img [ref=e428] [cursor=pointer]
+          - generic [ref=e430] [cursor=pointer]:
+            - generic [ref=e431] [cursor=pointer]:
+              - generic [ref=e433] [cursor=pointer]: 1 кл. доп. Буквы, не обозначающие звука
+              - generic [ref=e437] [cursor=pointer]: 0 %
+            - img [ref=e439] [cursor=pointer]
+          - generic [ref=e441] [cursor=pointer]:
+            - generic [ref=e442] [cursor=pointer]:
+              - generic [ref=e444] [cursor=pointer]: 1 кл. доп. Понимание прочитанного (существительное + глагол)
+              - generic [ref=e448] [cursor=pointer]: 0 %
+            - img [ref=e450] [cursor=pointer]
+          - generic [ref=e452] [cursor=pointer]:
+            - generic [ref=e453] [cursor=pointer]:
+              - generic [ref=e455] [cursor=pointer]: 1 кл. доп. Определение лишней буквы в слове
+              - generic [ref=e459] [cursor=pointer]: 0 %
+            - img [ref=e461] [cursor=pointer]
+          - generic [ref=e463] [cursor=pointer]:
+            - generic [ref=e464] [cursor=pointer]:
+              - generic [ref=e466] [cursor=pointer]: 1 кл. доп. Чтение словосочетания сущ. + глаг. и ответ на вопросы к глаголу
+              - generic [ref=e470] [cursor=pointer]: 0 %
+            - img [ref=e472] [cursor=pointer]
+          - generic [ref=e474] [cursor=pointer]:
+            - generic [ref=e475] [cursor=pointer]:
+              - generic [ref=e477] [cursor=pointer]: 1 кл. доп. Чтение словосочетания сущ. + глаг. и ответ на вопросы к существительному
+              - generic [ref=e481] [cursor=pointer]: 0 %
+            - img [ref=e483] [cursor=pointer]
+          - generic [ref=e485] [cursor=pointer]:
+            - generic [ref=e486] [cursor=pointer]:
+              - generic [ref=e488] [cursor=pointer]: 1 кл. доп. Чтение словосочетания сущ. + признак/цвет и вопрос о цвете
+              - generic [ref=e492] [cursor=pointer]: 0 %
+            - img [ref=e494] [cursor=pointer]
+          - generic [ref=e496] [cursor=pointer]:
+            - generic [ref=e497] [cursor=pointer]:
+              - generic [ref=e499] [cursor=pointer]: 1 кл. доп. Понимание прочитанного (фразы-вопросы)
+              - generic [ref=e503] [cursor=pointer]: 0 %
+            - img [ref=e505] [cursor=pointer]
+        - generic [ref=e511]:
+          - generic [ref=e513] [cursor=pointer]:
+            - generic [ref=e514] [cursor=pointer]:
+              - generic [ref=e515] [cursor=pointer]:
+                - generic [ref=e517] [cursor=pointer]: "1."
+                - paragraph [ref=e519] [cursor=pointer]: Красный (уровень 1)
+              - img [ref=e523] [cursor=pointer]
+            - img [ref=e528] [cursor=pointer]
+          - generic [ref=e531] [cursor=pointer]:
+            - generic [ref=e532] [cursor=pointer]:
+              - generic [ref=e533] [cursor=pointer]:
+                - generic [ref=e535] [cursor=pointer]: "2."
+                - paragraph [ref=e537] [cursor=pointer]: Красный (уровень 2)
+              - img [ref=e541] [cursor=pointer]
+            - img [ref=e546] [cursor=pointer]
+          - generic [ref=e549] [cursor=pointer]:
+            - generic [ref=e550] [cursor=pointer]:
+              - generic [ref=e551] [cursor=pointer]:
+                - generic [ref=e553] [cursor=pointer]: "3."
+                - paragraph [ref=e555] [cursor=pointer]: Красный (уровень 3)
+              - img [ref=e559] [cursor=pointer]
+            - img [ref=e564] [cursor=pointer]
+          - generic [ref=e567] [cursor=pointer]:
+            - generic [ref=e568] [cursor=pointer]:
+              - generic [ref=e569] [cursor=pointer]:
+                - generic [ref=e571] [cursor=pointer]: "4."
+                - paragraph [ref=e573] [cursor=pointer]: Красный (уровень 4)
+              - img [ref=e577] [cursor=pointer]
+            - img [ref=e582] [cursor=pointer]
+          - generic [ref=e585] [cursor=pointer]:
+            - generic [ref=e586] [cursor=pointer]:
+              - generic [ref=e587] [cursor=pointer]:
+                - generic [ref=e589] [cursor=pointer]: "5."
+                - paragraph [ref=e591] [cursor=pointer]: Синий (уровень 1)
+              - img [ref=e595] [cursor=pointer]
+            - img [ref=e600] [cursor=pointer]
+          - generic [ref=e603] [cursor=pointer]:
+            - generic [ref=e604] [cursor=pointer]:
+              - generic [ref=e605] [cursor=pointer]:
+                - generic [ref=e607] [cursor=pointer]: "6."
+                - paragraph [ref=e609] [cursor=pointer]: Синий (уровень 2)
+              - img [ref=e613] [cursor=pointer]
+            - img [ref=e618] [cursor=pointer]
+          - generic [ref=e621] [cursor=pointer]:
+            - generic [ref=e622] [cursor=pointer]:
+              - generic [ref=e623] [cursor=pointer]:
+                - generic [ref=e625] [cursor=pointer]: "7."
+                - paragraph [ref=e627] [cursor=pointer]: Синий (уровень 3)
+              - img [ref=e631] [cursor=pointer]
+            - img [ref=e636] [cursor=pointer]
+          - generic [ref=e639] [cursor=pointer]:
+            - generic [ref=e640] [cursor=pointer]:
+              - generic [ref=e641] [cursor=pointer]:
+                - generic [ref=e643] [cursor=pointer]: "8."
+                - paragraph [ref=e645] [cursor=pointer]: Синий (уровень 4)
+              - img [ref=e649] [cursor=pointer]
+            - img [ref=e654] [cursor=pointer]
+          - generic [ref=e657] [cursor=pointer]:
+            - generic [ref=e658] [cursor=pointer]:
+              - generic [ref=e659] [cursor=pointer]:
+                - generic [ref=e661] [cursor=pointer]: "9."
+                - paragraph [ref=e663] [cursor=pointer]: Жёлтый (уровень 1)
+              - img [ref=e667] [cursor=pointer]
+            - img [ref=e672] [cursor=pointer]
+          - generic [ref=e675] [cursor=pointer]:
+            - generic [ref=e676] [cursor=pointer]:
+              - generic [ref=e677] [cursor=pointer]:
+                - generic [ref=e679] [cursor=pointer]: "10."
+                - paragraph [ref=e681] [cursor=pointer]: Жёлтый (уровень 2)
+              - img [ref=e685] [cursor=pointer]
+            - img [ref=e690] [cursor=pointer]
+          - generic [ref=e693] [cursor=pointer]:
+            - generic [ref=e694] [cursor=pointer]:
+              - generic [ref=e695] [cursor=pointer]:
+                - generic [ref=e697] [cursor=pointer]: "11."
+                - paragraph [ref=e699] [cursor=pointer]: Жёлтый (уровень 3)
+              - img [ref=e703] [cursor=pointer]
+            - img [ref=e708] [cursor=pointer]
+          - generic [ref=e711] [cursor=pointer]:
+            - generic [ref=e712] [cursor=pointer]:
+              - generic [ref=e713] [cursor=pointer]:
+                - generic [ref=e715] [cursor=pointer]: "12."
+                - paragraph [ref=e717] [cursor=pointer]: Жёлтый (уровень 4)
+              - img [ref=e721] [cursor=pointer]
+            - img [ref=e726] [cursor=pointer]
+          - generic [ref=e729] [cursor=pointer]:
+            - generic [ref=e730] [cursor=pointer]:
+              - generic [ref=e731] [cursor=pointer]:
+                - generic [ref=e733] [cursor=pointer]: "13."
+                - paragraph [ref=e735] [cursor=pointer]: Зелёный (уровень 1)
+              - img [ref=e739] [cursor=pointer]
+            - img [ref=e744] [cursor=pointer]
+          - generic [ref=e747] [cursor=pointer]:
+            - generic [ref=e748] [cursor=pointer]:
+              - generic [ref=e749] [cursor=pointer]:
+                - generic [ref=e751] [cursor=pointer]: "14."
+                - paragraph [ref=e753] [cursor=pointer]: Зелёный (уровень 2)
+              - img [ref=e757] [cursor=pointer]
+            - img [ref=e762] [cursor=pointer]
+          - generic [ref=e765] [cursor=pointer]:
+            - generic [ref=e766] [cursor=pointer]:
+              - generic [ref=e767] [cursor=pointer]:
+                - generic [ref=e769] [cursor=pointer]: "15."
+                - paragraph [ref=e771] [cursor=pointer]: Зелёный (уровень 3)
+              - img [ref=e775] [cursor=pointer]
+            - img [ref=e780] [cursor=pointer]
+          - generic [ref=e783] [cursor=pointer]:
+            - generic [ref=e784] [cursor=pointer]:
+              - generic [ref=e785] [cursor=pointer]:
+                - generic [ref=e787] [cursor=pointer]: "16."
+                - paragraph [ref=e789] [cursor=pointer]: Зелёный (уровень 4)
+              - img [ref=e793] [cursor=pointer]
+            - img [ref=e798] [cursor=pointer]
+          - generic [ref=e801] [cursor=pointer]:
+            - generic [ref=e802] [cursor=pointer]:
+              - generic [ref=e803] [cursor=pointer]:
+                - generic [ref=e805] [cursor=pointer]: "17."
+                - paragraph [ref=e807] [cursor=pointer]: Сортировка цветных изображений
+              - img [ref=e811] [cursor=pointer]
+            - img [ref=e816] [cursor=pointer]
+          - generic [ref=e819] [cursor=pointer]:
+            - generic [ref=e820] [cursor=pointer]:
+              - generic [ref=e821] [cursor=pointer]:
+                - generic [ref=e823] [cursor=pointer]: "18."
+                - paragraph [ref=e825] [cursor=pointer]: Сортировка цветных изображений (картинки)
+              - img [ref=e829] [cursor=pointer]
+            - img [ref=e834] [cursor=pointer]
+          - generic [ref=e837] [cursor=pointer]:
+            - generic [ref=e838] [cursor=pointer]:
+              - generic [ref=e839] [cursor=pointer]:
+                - generic [ref=e841] [cursor=pointer]: "19."
+                - paragraph [ref=e843] [cursor=pointer]: Сортировка цветных изображений (фотографии)
+              - img [ref=e847] [cursor=pointer]
+            - img [ref=e852] [cursor=pointer]
+          - generic [ref=e855] [cursor=pointer]:
+            - generic [ref=e856] [cursor=pointer]:
+              - generic [ref=e857] [cursor=pointer]:
+                - generic [ref=e859] [cursor=pointer]: "20."
+                - paragraph [ref=e861] [cursor=pointer]: Различение цветных изображений
+              - img [ref=e865] [cursor=pointer]
+            - img [ref=e870] [cursor=pointer]
+          - generic [ref=e873] [cursor=pointer]:
+            - generic [ref=e874] [cursor=pointer]:
+              - generic [ref=e875] [cursor=pointer]:
+                - generic [ref=e877] [cursor=pointer]: "21."
+                - paragraph [ref=e879] [cursor=pointer]: Различение цветных изображений (картинки)
+              - img [ref=e883] [cursor=pointer]
+            - img [ref=e888] [cursor=pointer]
+          - generic [ref=e891] [cursor=pointer]:
+            - generic [ref=e892] [cursor=pointer]:
+              - generic [ref=e893] [cursor=pointer]:
+                - generic [ref=e895] [cursor=pointer]: "22."
+                - paragraph [ref=e897] [cursor=pointer]: Различение цветных изображений (фотографии)
+              - img [ref=e901] [cursor=pointer]
+            - img [ref=e906] [cursor=pointer]
+          - generic [ref=e909] [cursor=pointer]:
+            - generic [ref=e910] [cursor=pointer]:
+              - generic [ref=e911] [cursor=pointer]:
+                - generic [ref=e913] [cursor=pointer]: "23."
+                - paragraph [ref=e915] [cursor=pointer]: Соединение изображений одного цвета (уровень 1)
+              - img [ref=e919] [cursor=pointer]
+            - img [ref=e924] [cursor=pointer]
+          - generic [ref=e927] [cursor=pointer]:
+            - generic [ref=e928] [cursor=pointer]:
+              - generic [ref=e929] [cursor=pointer]:
+                - generic [ref=e931] [cursor=pointer]: "24."
+                - paragraph [ref=e933] [cursor=pointer]: Соединение изображений одного цвета (уровень 2)
+              - img [ref=e937] [cursor=pointer]
+            - img [ref=e942] [cursor=pointer]
+          - generic [ref=e945] [cursor=pointer]:
+            - generic [ref=e946] [cursor=pointer]:
+              - generic [ref=e947] [cursor=pointer]:
+                - generic [ref=e949] [cursor=pointer]: "25."
+                - paragraph [ref=e951] [cursor=pointer]: Соединение изображений одного цвета (уровень 3)
+              - img [ref=e955] [cursor=pointer]
+            - img [ref=e960] [cursor=pointer]
+          - generic [ref=e963] [cursor=pointer]:
+            - generic [ref=e964] [cursor=pointer]:
+              - generic [ref=e965] [cursor=pointer]:
+                - generic [ref=e967] [cursor=pointer]: "26."
+                - paragraph [ref=e969] [cursor=pointer]: Соединение изображений одного цвета (уровень 4)
+              - img [ref=e973] [cursor=pointer]
+            - img [ref=e978] [cursor=pointer]
+          - generic [ref=e981] [cursor=pointer]:
+            - generic [ref=e982] [cursor=pointer]:
+              - generic [ref=e983] [cursor=pointer]:
+                - generic [ref=e985] [cursor=pointer]: "27."
+                - paragraph [ref=e987] [cursor=pointer]: Соединение изображений одного цвета (уровень 5)
+              - img [ref=e991] [cursor=pointer]
+            - img [ref=e996] [cursor=pointer]
+          - generic [ref=e999] [cursor=pointer]:
+            - generic [ref=e1000] [cursor=pointer]:
+              - generic [ref=e1001] [cursor=pointer]:
+                - generic [ref=e1003] [cursor=pointer]: "28."
+                - paragraph [ref=e1005] [cursor=pointer]: Соединение изображений одного цвета (уровень 6)
+              - img [ref=e1009] [cursor=pointer]
+            - img [ref=e1014] [cursor=pointer]
+          - generic [ref=e1017] [cursor=pointer]:
+            - generic [ref=e1018] [cursor=pointer]:
+              - generic [ref=e1019] [cursor=pointer]:
+                - generic [ref=e1021] [cursor=pointer]: "29."
+                - paragraph [ref=e1023] [cursor=pointer]: Соединение изображений одного цвета (уровень 7)
+              - img [ref=e1027] [cursor=pointer]
+            - img [ref=e1032] [cursor=pointer]
+          - generic [ref=e1035] [cursor=pointer]:
+            - generic [ref=e1036] [cursor=pointer]:
+              - generic [ref=e1037] [cursor=pointer]:
+                - generic [ref=e1039] [cursor=pointer]: "30."
+                - paragraph [ref=e1041] [cursor=pointer]: Соединение изображений одного цвета (уровень 8)
+              - img [ref=e1045] [cursor=pointer]
+            - img [ref=e1050] [cursor=pointer]
+          - generic [ref=e1053] [cursor=pointer]:
+            - generic [ref=e1054] [cursor=pointer]:
+              - generic [ref=e1055] [cursor=pointer]:
+                - generic [ref=e1057] [cursor=pointer]: "31."
+                - paragraph [ref=e1059] [cursor=pointer]: Соединение изображений одного цвета (уровень 9)
+              - img [ref=e1063] [cursor=pointer]
+            - img [ref=e1068] [cursor=pointer]
+          - generic [ref=e1071] [cursor=pointer]:
+            - generic [ref=e1072] [cursor=pointer]:
+              - generic [ref=e1073] [cursor=pointer]:
+                - generic [ref=e1075] [cursor=pointer]: "32."
+                - paragraph [ref=e1077] [cursor=pointer]: Найди жёлтый предмет в ряду других
+              - img [ref=e1081] [cursor=pointer]
+            - img [ref=e1086] [cursor=pointer]
+          - generic [ref=e1089] [cursor=pointer]:
+            - generic [ref=e1090] [cursor=pointer]:
+              - generic [ref=e1091] [cursor=pointer]:
+                - generic [ref=e1093] [cursor=pointer]: "33."
+                - paragraph [ref=e1095] [cursor=pointer]: Найди красный предмет в ряду других
+              - img [ref=e1099] [cursor=pointer]
+            - img [ref=e1104] [cursor=pointer]
+          - generic [ref=e1107] [cursor=pointer]:
+            - generic [ref=e1108] [cursor=pointer]:
+              - generic [ref=e1109] [cursor=pointer]:
+                - generic [ref=e1111] [cursor=pointer]: "34."
+                - paragraph [ref=e1113] [cursor=pointer]: Найди синий предмет в ряду других
+              - img [ref=e1117] [cursor=pointer]
+            - img [ref=e1122] [cursor=pointer]
+          - generic [ref=e1125] [cursor=pointer]:
+            - generic [ref=e1126] [cursor=pointer]:
+              - generic [ref=e1127] [cursor=pointer]:
+                - generic [ref=e1129] [cursor=pointer]: "35."
+                - paragraph [ref=e1131] [cursor=pointer]: Найди зелёный предмет в ряду других
+              - img [ref=e1135] [cursor=pointer]
+            - img [ref=e1140] [cursor=pointer]
+          - generic [ref=e1143] [cursor=pointer]:
+            - generic [ref=e1144] [cursor=pointer]:
+              - generic [ref=e1145] [cursor=pointer]:
+                - generic [ref=e1147] [cursor=pointer]: "36."
+                - paragraph [ref=e1149] [cursor=pointer]: Найди все синие (уровень 1)
+              - img [ref=e1153] [cursor=pointer]
+            - img [ref=e1158] [cursor=pointer]
+          - generic [ref=e1161] [cursor=pointer]:
+            - generic [ref=e1162] [cursor=pointer]:
+              - generic [ref=e1163] [cursor=pointer]:
+                - generic [ref=e1165] [cursor=pointer]: "37."
+                - paragraph [ref=e1167] [cursor=pointer]: Найди все синие (уровень 2)
+              - img [ref=e1171] [cursor=pointer]
+            - img [ref=e1176] [cursor=pointer]
+          - generic [ref=e1179] [cursor=pointer]:
+            - generic [ref=e1180] [cursor=pointer]:
+              - generic [ref=e1181] [cursor=pointer]:
+                - generic [ref=e1183] [cursor=pointer]: "38."
+                - paragraph [ref=e1185] [cursor=pointer]: Найди все синие (уровень 3)
+              - img [ref=e1189] [cursor=pointer]
+            - img [ref=e1194] [cursor=pointer]
+          - generic [ref=e1197] [cursor=pointer]:
+            - generic [ref=e1198] [cursor=pointer]:
+              - generic [ref=e1199] [cursor=pointer]:
+                - generic [ref=e1201] [cursor=pointer]: "39."
+                - paragraph [ref=e1203] [cursor=pointer]: Найди все синие (уровень 4)
+              - img [ref=e1207] [cursor=pointer]
+            - img [ref=e1212] [cursor=pointer]
+          - generic [ref=e1215] [cursor=pointer]:
+            - generic [ref=e1216] [cursor=pointer]:
+              - generic [ref=e1217] [cursor=pointer]:
+                - generic [ref=e1219] [cursor=pointer]: "40."
+                - paragraph [ref=e1221] [cursor=pointer]: Найди все синие (уровень 5)
+              - img [ref=e1225] [cursor=pointer]
+            - img [ref=e1230] [cursor=pointer]
+          - generic [ref=e1233] [cursor=pointer]:
+            - generic [ref=e1234] [cursor=pointer]:
+              - generic [ref=e1235] [cursor=pointer]:
+                - generic [ref=e1237] [cursor=pointer]: "41."
+                - paragraph [ref=e1239] [cursor=pointer]: Найди все синие (уровень 6)
+              - img [ref=e1243] [cursor=pointer]
+            - img [ref=e1248] [cursor=pointer]
+          - generic [ref=e1251] [cursor=pointer]:
+            - generic [ref=e1252] [cursor=pointer]:
+              - generic [ref=e1253] [cursor=pointer]:
+                - generic [ref=e1255] [cursor=pointer]: "42."
+                - paragraph [ref=e1257] [cursor=pointer]: Найди все красные (уровень 1)
+              - img [ref=e1261] [cursor=pointer]
+            - img [ref=e1266] [cursor=pointer]
+          - generic [ref=e1269] [cursor=pointer]:
+            - generic [ref=e1270] [cursor=pointer]:
+              - generic [ref=e1271] [cursor=pointer]:
+                - generic [ref=e1273] [cursor=pointer]: "43."
+                - paragraph [ref=e1275] [cursor=pointer]: Найди все красные (уровень 2)
+              - img [ref=e1279] [cursor=pointer]
+            - img [ref=e1284] [cursor=pointer]
+          - generic [ref=e1287] [cursor=pointer]:
+            - generic [ref=e1288] [cursor=pointer]:
+              - generic [ref=e1289] [cursor=pointer]:
+                - generic [ref=e1291] [cursor=pointer]: "44."
+                - paragraph [ref=e1293] [cursor=pointer]: Найди все красные (уровень 3)
+              - img [ref=e1297] [cursor=pointer]
+            - img [ref=e1302] [cursor=pointer]
+          - generic [ref=e1305] [cursor=pointer]:
+            - generic [ref=e1306] [cursor=pointer]:
+              - generic [ref=e1307] [cursor=pointer]:
+                - generic [ref=e1309] [cursor=pointer]: "45."
+                - paragraph [ref=e1311] [cursor=pointer]: Найди все красные (уровень 4)
+              - img [ref=e1315] [cursor=pointer]
+            - img [ref=e1320] [cursor=pointer]
+          - generic [ref=e1323] [cursor=pointer]:
+            - generic [ref=e1324] [cursor=pointer]:
+              - generic [ref=e1325] [cursor=pointer]:
+                - generic [ref=e1327] [cursor=pointer]: "46."
+                - paragraph [ref=e1329] [cursor=pointer]: Найди все красные (уровень 5)
+              - img [ref=e1333] [cursor=pointer]
+            - img [ref=e1338] [cursor=pointer]
+          - generic [ref=e1341] [cursor=pointer]:
+            - generic [ref=e1342] [cursor=pointer]:
+              - generic [ref=e1343] [cursor=pointer]:
+                - generic [ref=e1345] [cursor=pointer]: "47."
+                - paragraph [ref=e1347] [cursor=pointer]: Найди все красные (уровень 6)
+              - img [ref=e1351] [cursor=pointer]
+            - img [ref=e1356] [cursor=pointer]
+          - generic [ref=e1359] [cursor=pointer]:
+            - generic [ref=e1360] [cursor=pointer]:
+              - generic [ref=e1361] [cursor=pointer]:
+                - generic [ref=e1363] [cursor=pointer]: "48."
+                - paragraph [ref=e1365] [cursor=pointer]: Найди все жёлтые (уровень 1)
+              - img [ref=e1369] [cursor=pointer]
+            - img [ref=e1374] [cursor=pointer]
+          - generic [ref=e1377] [cursor=pointer]:
+            - generic [ref=e1378] [cursor=pointer]:
+              - generic [ref=e1379] [cursor=pointer]:
+                - generic [ref=e1381] [cursor=pointer]: "49."
+                - paragraph [ref=e1383] [cursor=pointer]: Найди все жёлтые (уровень 2)
+              - img [ref=e1387] [cursor=pointer]
+            - img [ref=e1392] [cursor=pointer]
+          - generic [ref=e1395] [cursor=pointer]:
+            - generic [ref=e1396] [cursor=pointer]:
+              - generic [ref=e1397] [cursor=pointer]:
+                - generic [ref=e1399] [cursor=pointer]: "50."
+                - paragraph [ref=e1401] [cursor=pointer]: Найди все жёлтые (уровень 3)
+              - img [ref=e1405] [cursor=pointer]
+            - img [ref=e1410] [cursor=pointer]
+          - generic [ref=e1413] [cursor=pointer]:
+            - generic [ref=e1414] [cursor=pointer]:
+              - generic [ref=e1415] [cursor=pointer]:
+                - generic [ref=e1417] [cursor=pointer]: "51."
+                - paragraph [ref=e1419] [cursor=pointer]: Найди все жёлтые (уровень 4)
+              - img [ref=e1423] [cursor=pointer]
+            - img [ref=e1428] [cursor=pointer]
+          - generic [ref=e1431] [cursor=pointer]:
+            - generic [ref=e1432] [cursor=pointer]:
+              - generic [ref=e1433] [cursor=pointer]:
+                - generic [ref=e1435] [cursor=pointer]: "52."
+                - paragraph [ref=e1437] [cursor=pointer]: Найди все жёлтые (уровень 5)
+              - img [ref=e1441] [cursor=pointer]
+            - img [ref=e1446] [cursor=pointer]
+          - generic [ref=e1449] [cursor=pointer]:
+            - generic [ref=e1450] [cursor=pointer]:
+              - generic [ref=e1451] [cursor=pointer]:
+                - generic [ref=e1453] [cursor=pointer]: "53."
+                - paragraph [ref=e1455] [cursor=pointer]: Найди все жёлтые (уровень 6)
+              - img [ref=e1459] [cursor=pointer]
+            - img [ref=e1464] [cursor=pointer]
+          - generic [ref=e1467] [cursor=pointer]:
+            - generic [ref=e1468] [cursor=pointer]:
+              - generic [ref=e1469] [cursor=pointer]:
+                - generic [ref=e1471] [cursor=pointer]: "54."
+                - paragraph [ref=e1473] [cursor=pointer]: Найди все зелёные (уровень 1)
+              - img [ref=e1477] [cursor=pointer]
+            - img [ref=e1482] [cursor=pointer]
+          - generic [ref=e1485] [cursor=pointer]:
+            - generic [ref=e1486] [cursor=pointer]:
+              - generic [ref=e1487] [cursor=pointer]:
+                - generic [ref=e1489] [cursor=pointer]: "55."
+                - paragraph [ref=e1491] [cursor=pointer]: Найди все зелёные (уровень 2)
+              - img [ref=e1495] [cursor=pointer]
+            - img [ref=e1500] [cursor=pointer]
+          - generic [ref=e1503] [cursor=pointer]:
+            - generic [ref=e1504] [cursor=pointer]:
+              - generic [ref=e1505] [cursor=pointer]:
+                - generic [ref=e1507] [cursor=pointer]: "56."
+                - paragraph [ref=e1509] [cursor=pointer]: Найди все зелёные (уровень 3)
+              - img [ref=e1513] [cursor=pointer]
+            - img [ref=e1518] [cursor=pointer]
+          - generic [ref=e1521] [cursor=pointer]:
+            - generic [ref=e1522] [cursor=pointer]:
+              - generic [ref=e1523] [cursor=pointer]:
+                - generic [ref=e1525] [cursor=pointer]: "57."
+                - paragraph [ref=e1527] [cursor=pointer]: Найди все зелёные (уровень 4)
+              - img [ref=e1531] [cursor=pointer]
+            - img [ref=e1536] [cursor=pointer]
+          - generic [ref=e1539] [cursor=pointer]:
+            - generic [ref=e1540] [cursor=pointer]:
+              - generic [ref=e1541] [cursor=pointer]:
+                - generic [ref=e1543] [cursor=pointer]: "58."
+                - paragraph [ref=e1545] [cursor=pointer]: Найди все зелёные (уровень 5)
+              - img [ref=e1549] [cursor=pointer]
+            - img [ref=e1554] [cursor=pointer]
+          - generic [ref=e1557] [cursor=pointer]:
+            - generic [ref=e1558] [cursor=pointer]:
+              - generic [ref=e1559] [cursor=pointer]:
+                - generic [ref=e1561] [cursor=pointer]: "59."
+                - paragraph [ref=e1563] [cursor=pointer]: Найди все зелёные (уровень 6)
+              - img [ref=e1567] [cursor=pointer]
+            - img [ref=e1572] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e1574]:
+        - generic [ref=e1575]:
+          - generic [ref=e1576]: Меню разработчика
+          - button [ref=e1578] [cursor=pointer]:
+            - img [ref=e1580] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e1582] [cursor=pointer]
+        - button "Финальная статистика" [ref=e1583] [cursor=pointer]
+      - generic [ref=e1587]:
+        - region "Задача для решения" [ref=e1590] [cursor=pointer]:
+          - generic [ref=e1591] [cursor=pointer]:
+            - button "Вернуться обратно к подборке" [ref=e1594] [cursor=pointer]:
+              - img [ref=e1597] [cursor=pointer]
+              - text: Вернуться обратно к подборке
+            - generic [ref=e1601]:
+              - generic [ref=e1603]:
+                - button "Воспроизвести аудио" [ref=e1604] [cursor=pointer]:
+                  - generic:
+                    - img
+                - heading "синий." [level=4] [ref=e1605]:
+                  - generic [ref=e1607]: синий.
+              - img "decore" [ref=e1612]
+              - generic [ref=e1616]:
+                - table [ref=e1622] [cursor=pointer]:
+                  - rowgroup [ref=e1623] [cursor=pointer]:
+                    - row [ref=e1624] [cursor=pointer]:
+                      - cell [ref=e1625] [cursor=pointer]
+                - table [ref=e1634] [cursor=pointer]:
+                  - rowgroup [ref=e1635] [cursor=pointer]:
+                    - row [ref=e1636] [cursor=pointer]:
+                      - cell [ref=e1637] [cursor=pointer]
+                - table [ref=e1646] [cursor=pointer]:
+                  - rowgroup [ref=e1647] [cursor=pointer]:
+                    - row [ref=e1648] [cursor=pointer]:
+                      - cell [ref=e1649] [cursor=pointer]
+            - generic [ref=e1658] [cursor=pointer]:
+              - button [disabled] [ref=e1660]:
+                - img [ref=e1662]
+              - generic [ref=e1665] [cursor=pointer]: 100%
+              - button [ref=e1667] [cursor=pointer]:
+                - img [ref=e1669] [cursor=pointer]
+        - generic [ref=e1674]:
+          - generic [ref=e1677]: Интеллектуальный тренажер
+          - generic [ref=e1681]:
+            - generic [ref=e1686]: 1 из 5
+            - button "Ввести код от учителя" [ref=e1690] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e1693]:
+            - generic [ref=e1695]:
+              - button "Черновик" [ref=e1696] [cursor=pointer]:
+                - img [ref=e1699] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e1702] [cursor=pointer]:
+                - img [ref=e1705] [cursor=pointer]
+                - text: Сообщить об ошибке
+            - generic [ref=e1707]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e1708] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e1711] [cursor=pointer]
+              - generic [ref=e1714]: 6a62a3948fff890007ce5722
+```
