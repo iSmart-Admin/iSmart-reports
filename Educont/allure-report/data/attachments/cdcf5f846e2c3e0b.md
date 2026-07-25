@@ -1,0 +1,125 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Показывать тест школы в своб. регистрации" [ref=e18] [cursor=pointer]:
+        - text: Показывать тест школы
+        - text: в своб. регистрации
+      - button "Выйти из школьного учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Задания урока
+              - img "Подсказка" [ref=e32] [cursor=pointer]:
+                - img [ref=e34] [cursor=pointer]
+            - generic [ref=e37]:
+              - button "1" [ref=e38] [cursor=pointer]
+              - button "2" [ref=e39] [cursor=pointer]
+              - button "3" [ref=e40] [cursor=pointer]
+              - button "4" [ref=e41] [cursor=pointer]
+              - button "5" [ref=e42] [cursor=pointer]
+              - button "+" [ref=e43] [cursor=pointer]
+            - button "Редактировать урок" [ref=e44] [cursor=pointer]
+          - generic [ref=e45]:
+            - generic [ref=e46]:
+              - generic [ref=e47]: Отчёты и аналитика
+              - img "Для учителей" [ref=e48] [cursor=pointer]:
+                - img [ref=e50] [cursor=pointer]
+            - generic [ref=e52]:
+              - text: Заведите класс и пригласите учеников по кодам, чтобы смотреть результаты заданий и общую динамику класса в
+              - link "личном кабинете iSmart." [ref=e53] [cursor=pointer]:
+                - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - button "Управление учениками" [ref=e54] [cursor=pointer]:
+              - generic [ref=e55] [cursor=pointer]: Управление учениками
+          - generic [ref=e56]:
+            - button "Заметки к уроку видны только вам" [ref=e57] [cursor=pointer]:
+              - generic [ref=e58] [cursor=pointer]:
+                - img [ref=e60] [cursor=pointer]
+                - generic [ref=e62] [cursor=pointer]: Заметки к уроку
+              - button "видны только вам" [ref=e63] [cursor=pointer]:
+                - img [ref=e65] [cursor=pointer]
+            - button "Часто задаваемые вопросы" [ref=e67] [cursor=pointer]:
+              - generic [ref=e68] [cursor=pointer]:
+                - img [ref=e70] [cursor=pointer]
+                - generic [ref=e72] [cursor=pointer]: Часто задаваемые вопросы
+            - button "Сообщить об ошибке" [ref=e73] [cursor=pointer]:
+              - generic [ref=e74] [cursor=pointer]:
+                - img [ref=e76] [cursor=pointer]
+                - generic [ref=e78] [cursor=pointer]: Сообщить об ошибке
+        - generic [ref=e79] [cursor=pointer]:
+          - generic [ref=e80] [cursor=pointer]:
+            - img "schoolIcon" [ref=e81] [cursor=pointer]
+            - generic [ref=e82] [cursor=pointer]: ismart_Тест educont 2
+          - link "Перейти в личный кабинет" [ref=e83] [cursor=pointer]:
+            - /url: /schools/68de8222b0019c00074daee3/employees/697b2f4a647bc60007c5f333/classes
+            - img [ref=e85] [cursor=pointer]
+      - generic [ref=e89]:
+        - region "Задача для решения" [ref=e91] [cursor=pointer]:
+          - generic [ref=e95]:
+            - generic [ref=e97]:
+              - img [ref=e101]
+              - heading "Внесите ответы в специально предназначенные поля." [level=4] [ref=e103]:
+                - generic [ref=e105]: Внесите ответы в специально предназначенные поля.
+            - generic [ref=e107]:
+              - img "decore" [ref=e110]
+              - generic [ref=e113]:
+                - table [ref=e115]:
+                  - rowgroup [ref=e116]:
+                    - row "Произведение Герой" [ref=e117]:
+                      - cell "Произведение" [ref=e118]:
+                        - strong [ref=e123]: Произведение
+                      - cell "Герой" [ref=e124]:
+                        - strong [ref=e129]: Герой
+                    - row "А) «Кавказский пленник» Б) «Муму» В) «Ночь перед Рождеством» Г) «Васюткино озеро» 1) Вакула 2) Костылин 3) Герасим 4) дед Афанасий" [ref=e130]:
+                      - cell "А) «Кавказский пленник» Б) «Муму» В) «Ночь перед Рождеством» Г) «Васюткино озеро»" [ref=e131]:
+                        - generic [ref=e134]:
+                          - generic [ref=e135]: А) «Кавказский пленник»
+                          - generic [ref=e136]: Б) «Муму»
+                          - generic [ref=e137]: В) «Ночь перед Рождеством»
+                          - generic [ref=e138]: Г) «Васюткино озеро»
+                      - cell "1) Вакула 2) Костылин 3) Герасим 4) дед Афанасий" [ref=e139]:
+                        - generic [ref=e142]:
+                          - generic [ref=e143]: 1) Вакула
+                          - generic [ref=e144]: 2) Костылин
+                          - generic [ref=e145]: 3) Герасим
+                          - generic [ref=e146]: 4) дед Афанасий
+                - generic [ref=e149]: Соотнесите название произведения и героя.
+            - generic [ref=e153]:
+              - generic [ref=e154]: Запишите в таблицу ниже выбранные цифры под соответствующими буквами.
+              - table [ref=e157]:
+                - rowgroup [ref=e158]:
+                  - row "А Б В Г" [ref=e159]:
+                    - cell "А" [ref=e160]:
+                      - strong [ref=e163]: А
+                    - cell "Б" [ref=e164]:
+                      - strong [ref=e167]: Б
+                    - cell "В" [ref=e168]:
+                      - strong [ref=e171]: В
+                    - cell "Г" [ref=e172]:
+                      - strong [ref=e175]: Г
+                  - row [ref=e176]:
+                    - cell [ref=e177]:
+                      - textbox [active] [ref=e180]
+                    - cell [ref=e181]:
+                      - textbox [ref=e184]
+                    - cell [ref=e185]:
+                      - textbox [ref=e188]
+                    - cell [ref=e189]:
+                      - textbox [ref=e192]
+        - generic [ref=e198]:
+          - generic [ref=e200]:
+            - textbox [disabled]: 100%
+          - img [ref=e203] [cursor=pointer]
+        - button "Далее" [ref=e206] [cursor=pointer]:
+          - text: Далее
+          - img [ref=e209] [cursor=pointer]
+```

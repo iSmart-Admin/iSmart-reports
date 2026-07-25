@@ -1,0 +1,176 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e8]:
+    - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+      - img [ref=e14] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e18]:
+      - generic [ref=e21]:
+        - generic [ref=e22]: Математика
+        - generic [ref=e24]: Подготовка к ВПР
+      - generic [ref=e28] [cursor=pointer]:
+        - img [ref=e30] [cursor=pointer]
+        - generic [ref=e32] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e35]:
+      - generic [ref=e39]:
+        - img [ref=e42]
+        - textbox "Поиск по подтемам" [ref=e45]
+      - generic [ref=e46]:
+        - generic [ref=e47]:
+          - generic [ref=e48] [cursor=pointer]:
+            - generic [ref=e50] [cursor=pointer]: Темы
+            - button [ref=e52] [cursor=pointer]:
+              - img [ref=e54] [cursor=pointer]
+          - generic [ref=e57] [cursor=pointer]:
+            - generic [ref=e58] [cursor=pointer]:
+              - generic [ref=e60] [cursor=pointer]: Задание 1. Арифметические действия
+              - generic [ref=e64] [cursor=pointer]: 0 %
+            - img [ref=e66] [cursor=pointer]
+          - generic [ref=e68] [cursor=pointer]:
+            - generic [ref=e69] [cursor=pointer]:
+              - generic [ref=e71] [cursor=pointer]: Задание 2. Арифметические действия
+              - generic [ref=e75] [cursor=pointer]: 0 %
+            - img [ref=e77] [cursor=pointer]
+          - generic [ref=e79] [cursor=pointer]:
+            - generic [ref=e80] [cursor=pointer]:
+              - generic [ref=e82] [cursor=pointer]: Задание 3. Текстовые задачи
+              - generic [ref=e86] [cursor=pointer]: 0 %
+            - img [ref=e88] [cursor=pointer]
+          - generic [ref=e90] [cursor=pointer]:
+            - generic [ref=e91] [cursor=pointer]:
+              - generic [ref=e93] [cursor=pointer]: Задание 4. Текстовые задачи
+              - generic [ref=e97] [cursor=pointer]: 0 %
+            - img [ref=e99] [cursor=pointer]
+          - generic [ref=e101] [cursor=pointer]:
+            - generic [ref=e102] [cursor=pointer]:
+              - generic [ref=e104] [cursor=pointer]: Задание 5. Пространственные отношения и геометрические фигуры
+              - generic [ref=e108] [cursor=pointer]: 0 %
+            - img [ref=e110] [cursor=pointer]
+          - generic [ref=e112] [cursor=pointer]:
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e115] [cursor=pointer]: Задание 6. Математическая информация
+              - generic [ref=e119] [cursor=pointer]: 0 %
+            - img [ref=e121] [cursor=pointer]
+          - generic [ref=e123] [cursor=pointer]:
+            - generic [ref=e124] [cursor=pointer]:
+              - generic [ref=e126] [cursor=pointer]: Задание 7. Арифметические действия
+              - generic [ref=e130] [cursor=pointer]: 0 %
+            - img [ref=e132] [cursor=pointer]
+          - generic [ref=e134] [cursor=pointer]:
+            - generic [ref=e135] [cursor=pointer]:
+              - generic [ref=e137] [cursor=pointer]: Задание 8. Текстовые задачи
+              - generic [ref=e141] [cursor=pointer]: 0 %
+            - img [ref=e143] [cursor=pointer]
+          - generic [ref=e145] [cursor=pointer]:
+            - generic [ref=e146] [cursor=pointer]:
+              - generic [ref=e148] [cursor=pointer]: Задание 9. Математическая информация
+              - generic [ref=e152] [cursor=pointer]: 0 %
+            - img [ref=e154] [cursor=pointer]
+          - generic [ref=e156] [cursor=pointer]:
+            - generic [ref=e157] [cursor=pointer]:
+              - generic [ref=e159] [cursor=pointer]: Задание 10. Пространственные отношения и геометрические фигуры
+              - generic [ref=e163] [cursor=pointer]: 0 %
+            - img [ref=e165] [cursor=pointer]
+          - generic [ref=e167] [cursor=pointer]:
+            - generic [ref=e168] [cursor=pointer]:
+              - generic [ref=e170] [cursor=pointer]: Задание 11. Текстовые задачи
+              - generic [ref=e174] [cursor=pointer]: 0 %
+            - img [ref=e176] [cursor=pointer]
+        - generic [ref=e182]:
+          - generic [ref=e184] [cursor=pointer]:
+            - generic [ref=e185] [cursor=pointer]:
+              - generic [ref=e186] [cursor=pointer]:
+                - generic [ref=e188] [cursor=pointer]: "1."
+                - paragraph [ref=e190] [cursor=pointer]: Сложение и вычитание с многозначными числами устно
+              - img [ref=e194] [cursor=pointer]
+            - img [ref=e199] [cursor=pointer]
+          - generic [ref=e202] [cursor=pointer]:
+            - generic [ref=e203] [cursor=pointer]:
+              - generic [ref=e204] [cursor=pointer]:
+                - generic [ref=e206] [cursor=pointer]: "2."
+                - paragraph [ref=e208] [cursor=pointer]: Сложение и вычитание с многозначными числами письменно
+              - img [ref=e212] [cursor=pointer]
+            - img [ref=e217] [cursor=pointer]
+          - generic [ref=e220] [cursor=pointer]:
+            - generic [ref=e221] [cursor=pointer]:
+              - generic [ref=e222] [cursor=pointer]:
+                - generic [ref=e224] [cursor=pointer]: "3."
+                - paragraph [ref=e226] [cursor=pointer]: Умножение и деление многозначного числа на однозначное
+              - img [ref=e230] [cursor=pointer]
+            - img [ref=e235] [cursor=pointer]
+          - generic [ref=e238] [cursor=pointer]:
+            - generic [ref=e239] [cursor=pointer]:
+              - generic [ref=e240] [cursor=pointer]:
+                - generic [ref=e242] [cursor=pointer]: "4."
+                - paragraph [ref=e244] [cursor=pointer]: Умножение и деление многозначного числа на двузначное устно
+              - img [ref=e248] [cursor=pointer]
+            - img [ref=e253] [cursor=pointer]
+          - generic [ref=e256] [cursor=pointer]:
+            - generic [ref=e257] [cursor=pointer]:
+              - generic [ref=e258] [cursor=pointer]:
+                - generic [ref=e260] [cursor=pointer]: "5."
+                - paragraph [ref=e262] [cursor=pointer]: Умножение и деление многозначного числа на двузначное число письменно
+              - img [ref=e266] [cursor=pointer]
+            - img [ref=e271] [cursor=pointer]
+          - generic [ref=e274] [cursor=pointer]:
+            - generic [ref=e275] [cursor=pointer]:
+              - generic [ref=e276] [cursor=pointer]:
+                - generic [ref=e278] [cursor=pointer]: "6."
+                - paragraph [ref=e280] [cursor=pointer]: Деление с остатком
+              - img [ref=e284] [cursor=pointer]
+            - img [ref=e289] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e291]:
+        - generic [ref=e292]:
+          - generic [ref=e293]: Меню разработчика
+          - button [ref=e295] [cursor=pointer]:
+            - img [ref=e297] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e299] [cursor=pointer]
+        - button "Финальная статистика" [ref=e300] [cursor=pointer]
+      - generic [ref=e304]:
+        - region "Задача для решения" [ref=e307] [cursor=pointer]:
+          - generic [ref=e308] [cursor=pointer]:
+            - button "Вернуться обратно к подборке" [ref=e311] [cursor=pointer]:
+              - img [ref=e314] [cursor=pointer]
+              - text: Вернуться обратно к подборке
+            - generic [ref=e318]:
+              - generic [ref=e320]:
+                - img [ref=e324]
+                - heading "Вычисли." [level=4] [ref=e326]:
+                  - generic [ref=e328]: Вычисли.
+              - img "decore" [ref=e333]
+              - 'heading "72 : 4 =" [level=2] [ref=e338]':
+                - text: "72 : 4 ="
+                - textbox [active] [ref=e339]
+            - generic [ref=e346] [cursor=pointer]:
+              - button [disabled] [ref=e348]:
+                - img [ref=e350]
+              - generic [ref=e353] [cursor=pointer]: 100%
+              - button [ref=e355] [cursor=pointer]:
+                - img [ref=e357] [cursor=pointer]
+        - generic [ref=e362]:
+          - generic [ref=e365]: Интеллектуальный тренажер
+          - generic [ref=e369]:
+            - generic [ref=e374]: 1 из 16
+            - button "Ввести код от учителя" [ref=e378] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e381]:
+            - generic [ref=e383]:
+              - button "Черновик" [ref=e384] [cursor=pointer]:
+                - img [ref=e387] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e390] [cursor=pointer]:
+                - img [ref=e393] [cursor=pointer]
+                - text: Сообщить об ошибке
+            - generic [ref=e395]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e396] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e399] [cursor=pointer]
+              - generic [ref=e402]: 6a654654bc793e0007b3de3c
+```
