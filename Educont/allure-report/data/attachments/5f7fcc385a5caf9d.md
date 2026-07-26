@@ -1,0 +1,191 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e8]:
+    - button "Вернуться обратно" [ref=e11] [cursor=pointer]:
+      - img [ref=e14] [cursor=pointer]
+      - text: Вернуться обратно
+    - generic [ref=e18]:
+      - generic [ref=e21]:
+        - generic [ref=e22]: Русский язык
+        - generic [ref=e24]: Тренировочные варианты тестов ОГЭ по русскому языку
+      - generic [ref=e30] [cursor=pointer]:
+        - img [ref=e32] [cursor=pointer]
+        - generic [ref=e34] [cursor=pointer]: Нашли ошибку?
+    - generic [ref=e37]:
+      - generic [ref=e41]:
+        - img [ref=e44]
+        - textbox "Поиск по подтемам" [ref=e47]
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - generic [ref=e50] [cursor=pointer]:
+            - generic [ref=e52] [cursor=pointer]: Темы
+            - button [ref=e54] [cursor=pointer]:
+              - img [ref=e56] [cursor=pointer]
+          - generic [ref=e59] [cursor=pointer]:
+            - generic [ref=e60] [cursor=pointer]:
+              - generic [ref=e62] [cursor=pointer]: ОГЭ
+              - generic [ref=e66] [cursor=pointer]: 0 %
+            - img [ref=e68] [cursor=pointer]
+        - generic [ref=e74]:
+          - generic [ref=e76] [cursor=pointer]:
+            - generic [ref=e77] [cursor=pointer]:
+              - generic [ref=e78] [cursor=pointer]:
+                - generic [ref=e80] [cursor=pointer]: "1."
+                - paragraph [ref=e82] [cursor=pointer]: Задание 2
+              - img [ref=e86] [cursor=pointer]
+            - img [ref=e91] [cursor=pointer]
+          - generic [ref=e94] [cursor=pointer]:
+            - generic [ref=e95] [cursor=pointer]:
+              - generic [ref=e96] [cursor=pointer]:
+                - generic [ref=e98] [cursor=pointer]: "2."
+                - paragraph [ref=e100] [cursor=pointer]: Задание 3
+              - img [ref=e104] [cursor=pointer]
+            - img [ref=e109] [cursor=pointer]
+          - generic [ref=e112] [cursor=pointer]:
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e114] [cursor=pointer]:
+                - generic [ref=e116] [cursor=pointer]: "3."
+                - paragraph [ref=e118] [cursor=pointer]: Задание 4
+              - img [ref=e122] [cursor=pointer]
+            - img [ref=e127] [cursor=pointer]
+          - generic [ref=e130] [cursor=pointer]:
+            - generic [ref=e131] [cursor=pointer]:
+              - generic [ref=e132] [cursor=pointer]:
+                - generic [ref=e134] [cursor=pointer]: "4."
+                - paragraph [ref=e136] [cursor=pointer]: Задание 5
+              - img [ref=e140] [cursor=pointer]
+            - img [ref=e145] [cursor=pointer]
+          - generic [ref=e148] [cursor=pointer]:
+            - generic [ref=e149] [cursor=pointer]:
+              - generic [ref=e150] [cursor=pointer]:
+                - generic [ref=e152] [cursor=pointer]: "5."
+                - paragraph [ref=e154] [cursor=pointer]: Задание 6
+              - img [ref=e158] [cursor=pointer]
+            - img [ref=e163] [cursor=pointer]
+          - generic [ref=e166] [cursor=pointer]:
+            - generic [ref=e167] [cursor=pointer]:
+              - generic [ref=e168] [cursor=pointer]:
+                - generic [ref=e170] [cursor=pointer]: "6."
+                - paragraph [ref=e172] [cursor=pointer]: Задание 7
+              - img [ref=e176] [cursor=pointer]
+            - img [ref=e181] [cursor=pointer]
+          - generic [ref=e184] [cursor=pointer]:
+            - generic [ref=e185] [cursor=pointer]:
+              - generic [ref=e186] [cursor=pointer]:
+                - generic [ref=e188] [cursor=pointer]: "7."
+                - paragraph [ref=e190] [cursor=pointer]: Задание 8
+              - img [ref=e194] [cursor=pointer]
+            - img [ref=e199] [cursor=pointer]
+          - generic [ref=e202] [cursor=pointer]:
+            - generic [ref=e203] [cursor=pointer]:
+              - generic [ref=e204] [cursor=pointer]:
+                - generic [ref=e206] [cursor=pointer]: "8."
+                - paragraph [ref=e208] [cursor=pointer]: Задание 9
+              - img [ref=e212] [cursor=pointer]
+            - img [ref=e217] [cursor=pointer]
+          - generic [ref=e220] [cursor=pointer]:
+            - generic [ref=e221] [cursor=pointer]:
+              - generic [ref=e222] [cursor=pointer]:
+                - generic [ref=e224] [cursor=pointer]: "9."
+                - paragraph [ref=e226] [cursor=pointer]: Задание 10
+              - img [ref=e230] [cursor=pointer]
+            - img [ref=e235] [cursor=pointer]
+          - generic [ref=e238] [cursor=pointer]:
+            - generic [ref=e239] [cursor=pointer]:
+              - generic [ref=e240] [cursor=pointer]:
+                - generic [ref=e242] [cursor=pointer]: "10."
+                - paragraph [ref=e244] [cursor=pointer]: Задание 11
+              - img [ref=e248] [cursor=pointer]
+            - img [ref=e253] [cursor=pointer]
+          - generic [ref=e256] [cursor=pointer]:
+            - generic [ref=e257] [cursor=pointer]:
+              - generic [ref=e258] [cursor=pointer]:
+                - generic [ref=e260] [cursor=pointer]: "11."
+                - paragraph [ref=e262] [cursor=pointer]: Задание 12
+              - img [ref=e266] [cursor=pointer]
+            - img [ref=e271] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e273]:
+        - generic [ref=e274]:
+          - generic [ref=e275]: Меню разработчика
+          - button [ref=e277] [cursor=pointer]:
+            - img [ref=e279] [cursor=pointer]
+        - button "Выйти из тренажера" [ref=e281] [cursor=pointer]
+        - button "Финальная статистика" [ref=e282] [cursor=pointer]
+      - generic [ref=e286]:
+        - region "Задача для решения" [ref=e289] [cursor=pointer]:
+          - generic [ref=e290] [cursor=pointer]:
+            - button "Вернуться обратно к подборке" [ref=e293] [cursor=pointer]:
+              - img [ref=e296] [cursor=pointer]
+              - text: Вернуться обратно к подборке
+            - generic [ref=e300]:
+              - generic [ref=e302]:
+                - img [ref=e306]
+                - heading "Внесите ответ в специально предназначенное поле." [level=4] [ref=e308]:
+                  - generic [ref=e310]: Внесите ответ в специально предназначенное поле.
+              - generic [ref=e312]:
+                - img "decore" [ref=e315]
+                - generic [ref=e320]:
+                  - generic [ref=e321]: Укажите варианты ответов, в которых дано верное объяснение написания выделенного слова.
+                  - generic [ref=e322]:
+                    - strong [ref=e323]:
+                      - generic [ref=e325]: "1."
+                      - text: ОСЕННИЙ
+                    - text: — в прилагательном, образованном от существительного с помощью суффикса -ЕНН-, пишется НН.
+                    - strong [ref=e326]:
+                      - generic [ref=e328]: "2."
+                      - text: ОПАЗДЫВАТЬ
+                    - text: — в неопределённой форме глагола пишется суффикс -ЫВА-, так как в форме 1 лица настоящего времени глагол оканчивается на -ЫВАЮ.
+                    - strong [ref=e329]:
+                      - generic [ref=e331]: "3."
+                      - text: ПОЛ-ЛИСТА
+                    - text: — сложное существительное с ПОЛ пишется через дефис, так как второй корень начинается с буквы Л.
+                    - strong [ref=e332]:
+                      - generic [ref=e334]: "4."
+                      - text: НЕВЗРАЧНЫЙ
+                    - text: — НЕ с прилагательным пишется слитно, так как можно подобрать синоним без НЕ.
+                    - strong [ref=e335]:
+                      - generic [ref=e337]: "5."
+                      - text: ПОКАЯНИЕ
+                    - text: — в корне слова безударная гласная, проверяемая ударением.
+              - generic [ref=e342]:
+                - generic [ref=e345]: Цифры записывайте по порядку без пробелов.
+                - strong [ref=e346]: "Ответ:"
+                - textbox [active] [ref=e347]
+                - text: .
+            - generic [ref=e351] [cursor=pointer]:
+              - generic [ref=e354] [cursor=pointer]:
+                - button [disabled] [ref=e356]:
+                  - img [ref=e358]
+                - generic [ref=e361] [cursor=pointer]: 100%
+                - button [ref=e363] [cursor=pointer]:
+                  - img [ref=e365] [cursor=pointer]
+              - button "2 Показать подсказку" [ref=e370] [cursor=pointer]:
+                - generic [ref=e373] [cursor=pointer]: "2"
+                - generic [ref=e374] [cursor=pointer]: Показать подсказку
+        - generic [ref=e378]:
+          - generic [ref=e381]: Интеллектуальный тренажер
+          - generic [ref=e385]:
+            - generic [ref=e390]: 1 из 56
+            - button "Ввести код от учителя" [ref=e394] [cursor=pointer]: Ввести код от учителя
+          - generic [ref=e397]:
+            - generic [ref=e399]:
+              - button "Черновик" [ref=e400] [cursor=pointer]:
+                - img [ref=e403] [cursor=pointer]
+                - text: Черновик
+              - button "Сообщить об ошибке" [ref=e406] [cursor=pointer]:
+                - img [ref=e409] [cursor=pointer]
+                - text: Сообщить об ошибке
+            - generic [ref=e411]:
+              - generic:
+                - generic:
+                  - img
+                - generic: Реши задание, прежде чем подтвердить
+              - button "Подтвердить" [ref=e412] [cursor=pointer]:
+                - text: Подтвердить
+                - img [ref=e415] [cursor=pointer]
+              - generic [ref=e418]: 6a6697d2ce598900070015d5
+```
