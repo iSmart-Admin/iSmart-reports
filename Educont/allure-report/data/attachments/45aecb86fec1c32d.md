@@ -1,0 +1,95 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - region "Задача для решения" [ref=e26] [cursor=pointer]:
+        - generic [ref=e27] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+            - img [ref=e33] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e37]:
+            - generic [ref=e39]:
+              - img [ref=e43]
+              - heading "Выбери верный вариант ответа." [level=4] [ref=e45]:
+                - generic [ref=e47]: Выбери верный вариант ответа.
+            - generic [ref=e49]:
+              - img "decore" [ref=e52]
+              - generic [ref=e58]: Как называется наука, которая помогает разобраться в том, что такое нравственность?
+            - generic [ref=e61]:
+              - button "Эстетика" [ref=e63] [cursor=pointer]:
+                - generic [ref=e65] [cursor=pointer]: Эстетика
+              - button "Этика" [ref=e67] [cursor=pointer]:
+                - generic [ref=e69] [cursor=pointer]: Этика
+              - button "Археология" [ref=e71] [cursor=pointer]:
+                - generic [ref=e73] [cursor=pointer]: Археология
+              - button "Политология" [ref=e75] [cursor=pointer]:
+                - generic [ref=e77] [cursor=pointer]: Политология
+          - generic [ref=e80] [cursor=pointer]:
+            - generic [ref=e84]:
+              - button [active] [ref=e87] [cursor=pointer]
+              - button [ref=e91] [cursor=pointer]:
+                - img [ref=e93] [cursor=pointer]
+              - button [ref=e96] [cursor=pointer]:
+                - img [ref=e98] [cursor=pointer]
+              - button [ref=e101] [cursor=pointer]:
+                - img [ref=e103] [cursor=pointer]
+              - button [ref=e106] [cursor=pointer]:
+                - img [ref=e108] [cursor=pointer]
+              - button [ref=e111] [cursor=pointer]:
+                - img [ref=e113] [cursor=pointer]
+              - button [ref=e116] [cursor=pointer]:
+                - img [ref=e118] [cursor=pointer]
+              - button [ref=e121] [cursor=pointer]:
+                - img [ref=e123] [cursor=pointer]
+              - button [ref=e126] [cursor=pointer]:
+                - img [ref=e128] [cursor=pointer]
+              - button [ref=e131] [cursor=pointer]:
+                - img [ref=e133] [cursor=pointer]
+              - button [ref=e136] [cursor=pointer]:
+                - img [ref=e138] [cursor=pointer]
+              - button [ref=e142] [cursor=pointer]:
+                - img [ref=e144] [cursor=pointer]
+            - generic [ref=e149] [cursor=pointer]:
+              - button [disabled] [ref=e151]:
+                - img [ref=e153]
+              - generic [ref=e156] [cursor=pointer]: 100%
+              - button [ref=e158] [cursor=pointer]:
+                - img [ref=e160] [cursor=pointer]
+      - generic [ref=e165]:
+        - generic [ref=e168]: Интеллектуальный тренажер
+        - generic [ref=e172]:
+          - generic [ref=e177]: 1 из 15
+          - generic [ref=e181]:
+            - img [ref=e182]
+            - generic [ref=e184]: Вы вошли как ученик 11 «Я»
+        - generic [ref=e185]:
+          - generic [ref=e187]:
+            - button "Черновик" [ref=e188] [cursor=pointer]:
+              - img [ref=e191] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e194] [cursor=pointer]:
+              - img [ref=e197] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e201] [cursor=pointer]:
+              - img [ref=e204] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e206]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e207] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e210] [cursor=pointer]
+            - generic [ref=e213]: 6a67e99abc793e0007c01caf
+```

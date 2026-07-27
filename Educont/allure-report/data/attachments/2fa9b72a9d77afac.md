@@ -1,0 +1,123 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Выйти из школьного учителя" [ref=e18] [cursor=pointer]
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - button [ref=e25] [cursor=pointer]:
+            - img [ref=e27] [cursor=pointer]
+          - generic [ref=e29]:
+            - paragraph [ref=e30]: Задача 1 (6 из 7)
+            - paragraph [ref=e31]: Цикл while
+        - generic [ref=e32]:
+          - button "Управление учениками" [ref=e34] [cursor=pointer]:
+            - img [ref=e36] [cursor=pointer]
+            - text: Управление учениками
+          - button "Предыдущее" [ref=e39] [cursor=pointer]:
+            - img [ref=e42] [cursor=pointer]
+            - text: Предыдущее
+          - button "Далее" [ref=e44] [cursor=pointer]:
+            - text: Далее
+            - img [ref=e47] [cursor=pointer]
+      - generic [ref=e49]:
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - paragraph [ref=e53]: Python 3
+            - button "Стоп" [active] [ref=e54] [cursor=pointer]:
+              - text: Стоп
+              - img [ref=e57] [cursor=pointer]
+          - generic [ref=e61]:
+            - text:                
+            - code [ref=e64]:
+              - generic [ref=e65]:
+                - generic [ref=e70]: "1"
+                - generic [ref=e78]:
+                  - generic [ref=e79]: print
+                  - generic [ref=e80]: (
+                  - generic [ref=e81]: "'Привет, Мир!'"
+                  - generic [ref=e82]: )
+                - textbox "Editor content;Press Alt+F1 for Accessibility Options." [ref=e84]: print('Привет, Мир!')
+        - generic [ref=e86]:
+          - generic [ref=e88]:
+            - generic [ref=e89] [cursor=pointer]:
+              - img [ref=e91] [cursor=pointer]
+              - generic [ref=e93] [cursor=pointer]: Описание
+            - generic [ref=e94] [cursor=pointer]:
+              - img [ref=e96] [cursor=pointer]
+              - generic [ref=e98] [cursor=pointer]: Тесты
+          - generic [ref=e103]:
+            - generic [ref=e104]:
+              - generic [ref=e106]: "1000"
+              - img [ref=e108]
+              - generic [ref=e111]: FAIL
+              - img [ref=e113]
+              - generic [ref=e116]: "3"
+            - generic [ref=e117]:
+              - generic [ref=e119]: "600"
+              - img [ref=e121]
+              - generic [ref=e124]: FAIL
+              - img [ref=e126]
+              - generic [ref=e129]: "3"
+            - generic [ref=e130]:
+              - generic [ref=e132]: "120"
+              - img [ref=e134]
+              - generic [ref=e137]: FAIL
+              - img [ref=e139]
+              - generic [ref=e142]: "3"
+            - generic [ref=e143]:
+              - generic [ref=e145]: "3"
+              - img [ref=e147]
+              - generic [ref=e150]: FAIL
+              - img [ref=e152]
+              - generic [ref=e155]: "0"
+            - generic [ref=e156]:
+              - generic [ref=e158]: "36"
+              - img [ref=e160]
+              - generic [ref=e163]: FAIL
+              - img [ref=e165]
+              - generic [ref=e168]: "2"
+            - generic [ref=e169]:
+              - generic [ref=e171]: "100"
+              - img [ref=e173]
+              - generic [ref=e176]: FAIL
+              - img [ref=e178]
+              - generic [ref=e181]: "2"
+            - generic [ref=e182]:
+              - generic [ref=e184]: "24"
+              - img [ref=e186]
+              - generic [ref=e189]: FAIL
+              - img [ref=e191]
+              - generic [ref=e194]: "3"
+            - generic [ref=e195]:
+              - generic [ref=e197]: "2"
+              - img [ref=e199]
+              - generic [ref=e202]: FAIL
+              - img [ref=e204]
+              - generic [ref=e207]: "1"
+            - generic [ref=e208]:
+              - generic [ref=e210]: "54"
+              - img [ref=e212]
+              - img [ref=e217]
+              - img [ref=e235]
+              - generic [ref=e238]: "1"
+            - generic [ref=e239]:
+              - generic [ref=e241]: "55"
+              - img [ref=e243]
+              - img [ref=e247]
+              - img [ref=e250]
+              - generic [ref=e253]: "0"
+  - generic [ref=e254]:
+    - alert
+    - alert
+    - complementary
+    - complementary
+```
