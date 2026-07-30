@@ -1,0 +1,76 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - region "Задача для решения" [ref=e25] [cursor=pointer]:
+        - generic [ref=e26] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+            - img [ref=e32] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e36]:
+            - generic [ref=e38]:
+              - img [ref=e42]
+              - heading "Составьте план текста из трёх пунктов, используя предложенные варианты." [level=4] [ref=e44]:
+                - generic [ref=e46]: Составьте план текста из трёх пунктов, используя предложенные варианты.
+            - generic [ref=e48]:
+              - img "decore" [ref=e51]
+              - generic [ref=e53]:
+                - generic [ref=e56]:
+                  - generic [ref=e57]: К ночи наш мозг уже устал, и это лучшее время для обработки информации, потому что отдыхают области мозга, отвечающие за эмоции.
+                  - generic [ref=e58]: Если перед сном немного подумать, что было сделано сегодня и какие задачи поставлены на завтра, то во время сна мозг разложит по полочкам все эти мысли.
+                  - generic [ref=e59]: "Многие думают, что нельзя засыпать, пока не додумаешься до идеального решения, но часто бывает наоборот: чтобы найти лучший ответ, нужно поспать."
+                - heading "(Т. Цукияма «Как забыть всё забывать». Пер. И. Заболотнова)" [level=4] [ref=e60]:
+                  - emphasis [ref=e61]: (Т. Цукияма «Как забыть всё забывать». Пер. И. Заболотнова)
+            - generic [ref=e66]:
+              - strong [ref=e67]: "1"
+              - text: .
+              - button [ref=e69] [cursor=pointer]
+              - strong [ref=e70]: "2"
+              - text: .
+              - button [ref=e72] [cursor=pointer]
+              - strong [ref=e73]: "3"
+              - text: .
+              - button [ref=e75] [cursor=pointer]
+          - generic [ref=e82] [cursor=pointer]:
+            - button [disabled] [ref=e84]:
+              - img [ref=e86]
+            - generic [ref=e89] [cursor=pointer]: 100%
+            - button [ref=e91] [cursor=pointer]:
+              - img [ref=e93] [cursor=pointer]
+      - generic [ref=e98]:
+        - generic [ref=e101]: Интеллектуальный тренажер
+        - generic [ref=e105]:
+          - generic [ref=e110]: 1 из 12
+          - generic [ref=e112]:
+            - generic [ref=e113]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e115] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e118]:
+          - generic [ref=e120]:
+            - button "Черновик" [ref=e121] [cursor=pointer]:
+              - img [ref=e124] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e127] [cursor=pointer]:
+              - img [ref=e130] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e134] [cursor=pointer]:
+              - img [ref=e137] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e139]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e140] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e143] [cursor=pointer]
+            - generic [ref=e146]: 6a6bdd8a86119a0007fa3f51
+```
