@@ -1,0 +1,92 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+    - generic [ref=e22]:
+      - region "Задача для решения" [ref=e25] [cursor=pointer]:
+        - generic [ref=e26] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e29] [cursor=pointer]:
+            - img [ref=e32] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e36]:
+            - generic [ref=e38]:
+              - img [ref=e42]
+              - heading "Выбери верный вариант ответа." [level=4] [ref=e44]:
+                - generic [ref=e46]: Выбери верный вариант ответа.
+            - generic [ref=e48]:
+              - img "decore" [ref=e51]
+              - generic [ref=e57]: От нейтрального атома гелия отделился один электрон. Какой заряд у получившегося иона гелия?
+            - generic [ref=e60]:
+              - button "отрицательный" [ref=e62] [cursor=pointer]:
+                - generic [ref=e64] [cursor=pointer]: отрицательный
+              - button "положительный" [ref=e66] [cursor=pointer]:
+                - generic [ref=e68] [cursor=pointer]: положительный
+              - button "нейтральный" [ref=e70] [cursor=pointer]:
+                - generic [ref=e72] [cursor=pointer]: нейтральный
+          - generic [ref=e75] [cursor=pointer]:
+            - generic [ref=e79]:
+              - button [active] [ref=e82] [cursor=pointer]
+              - button [ref=e86] [cursor=pointer]:
+                - img [ref=e88] [cursor=pointer]
+              - button [ref=e91] [cursor=pointer]:
+                - img [ref=e93] [cursor=pointer]
+              - button [ref=e96] [cursor=pointer]:
+                - img [ref=e98] [cursor=pointer]
+              - button [ref=e101] [cursor=pointer]:
+                - img [ref=e103] [cursor=pointer]
+              - button [ref=e106] [cursor=pointer]:
+                - img [ref=e108] [cursor=pointer]
+              - button [ref=e111] [cursor=pointer]:
+                - img [ref=e113] [cursor=pointer]
+              - button [ref=e116] [cursor=pointer]:
+                - img [ref=e118] [cursor=pointer]
+              - button [ref=e121] [cursor=pointer]:
+                - img [ref=e123] [cursor=pointer]
+              - button [ref=e126] [cursor=pointer]:
+                - img [ref=e128] [cursor=pointer]
+              - button [ref=e131] [cursor=pointer]:
+                - img [ref=e133] [cursor=pointer]
+              - button [ref=e137] [cursor=pointer]:
+                - img [ref=e139] [cursor=pointer]
+            - generic [ref=e144] [cursor=pointer]:
+              - button [disabled] [ref=e146]:
+                - img [ref=e148]
+              - generic [ref=e151] [cursor=pointer]: 100%
+              - button [ref=e153] [cursor=pointer]:
+                - img [ref=e155] [cursor=pointer]
+      - generic [ref=e160]:
+        - generic [ref=e163]: Интеллектуальный тренажер
+        - generic [ref=e167]:
+          - generic [ref=e172]: 1 из 3
+          - generic [ref=e174]:
+            - generic [ref=e175]: Для выполнения версии урока от учителя введите полученный код
+            - button "Ввести код от учителя" [ref=e177] [cursor=pointer]: Ввести код от учителя
+        - generic [ref=e180]:
+          - generic [ref=e182]:
+            - button "Черновик" [ref=e183] [cursor=pointer]:
+              - img [ref=e186] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e189] [cursor=pointer]:
+              - img [ref=e192] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e196] [cursor=pointer]:
+              - img [ref=e199] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e201]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e202] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e205] [cursor=pointer]
+            - generic [ref=e208]: 6a6e808186119a000705aae2
+```
