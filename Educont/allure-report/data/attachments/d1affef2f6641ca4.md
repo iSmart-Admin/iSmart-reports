@@ -1,0 +1,77 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - region "Задача для решения" [ref=e26] [cursor=pointer]:
+        - generic [ref=e27] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+            - img [ref=e33] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e37]:
+            - generic [ref=e39]:
+              - img [ref=e43]
+              - heading "Match words and their translation. Соотнесите слова с их переводом на русский язык." [level=4] [ref=e45]:
+                - generic [ref=e47]: Match words and their translation. Соотнесите слова с их переводом на русский язык.
+            - img "decore" [ref=e52]
+            - generic [ref=e55]:
+              - img [ref=e56]
+              - generic [ref=e57]:
+                - generic [ref=e63] [cursor=pointer]: longing
+                - generic [ref=e70] [cursor=pointer]: процветание
+              - generic [ref=e71]:
+                - generic [ref=e77] [cursor=pointer]: hope
+                - generic [ref=e84] [cursor=pointer]: тоска, вожделение
+              - generic [ref=e85]:
+                - generic [ref=e91] [cursor=pointer]: purpose
+                - generic [ref=e98] [cursor=pointer]: цель
+              - generic [ref=e99]:
+                - generic [ref=e105] [cursor=pointer]: prosperity
+                - generic [ref=e112] [cursor=pointer]: надежда
+          - generic [ref=e115] [cursor=pointer]:
+            - generic [ref=e118] [cursor=pointer]:
+              - button [disabled] [ref=e120]:
+                - img [ref=e122]
+              - generic [ref=e125] [cursor=pointer]: 100%
+              - button [ref=e127] [cursor=pointer]:
+                - img [ref=e129] [cursor=pointer]
+            - button "1 Показать подсказку" [ref=e134] [cursor=pointer]:
+              - generic [ref=e137] [cursor=pointer]: "1"
+              - generic [ref=e138] [cursor=pointer]: Показать подсказку
+      - generic [ref=e142]:
+        - generic [ref=e145]: Интеллектуальный тренажер
+        - generic [ref=e149]:
+          - generic [ref=e154]: 1 из 11
+          - generic [ref=e158]:
+            - img [ref=e159]
+            - generic [ref=e161]: Вы вошли как ученик 9 «А»
+        - generic [ref=e162]:
+          - generic [ref=e164]:
+            - button "Черновик" [ref=e165] [cursor=pointer]:
+              - img [ref=e168] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e171] [cursor=pointer]:
+              - img [ref=e174] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e178] [cursor=pointer]:
+              - img [ref=e181] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e183]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e184] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e187] [cursor=pointer]
+            - generic [ref=e190]: 6a6fd1e67e1b3d0007ee9bd7
+```
