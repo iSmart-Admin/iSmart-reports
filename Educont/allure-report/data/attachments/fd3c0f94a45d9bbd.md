@@ -1,0 +1,96 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - region "Задача для решения" [ref=e26] [cursor=pointer]:
+        - generic [ref=e27] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+            - img [ref=e33] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e37]:
+            - generic [ref=e39]:
+              - img [ref=e43]
+              - heading "Сколько в данных строках неопределённо-личных предложений? Ответ запиши цифрой." [level=4] [ref=e45]:
+                - generic [ref=e46]:
+                  - generic [ref=e47]: Сколько в данных строках неопределённо-личных предложений?
+                  - generic [ref=e48]: Ответ запиши цифрой.
+            - generic [ref=e50]:
+              - img "decore" [ref=e53]
+              - generic [ref=e58]:
+                - generic [ref=e59]: Дни поздней осени бранят обыкновенно,
+                - generic [ref=e60]: Но мне она мила, читатель дорогой,
+                - generic [ref=e61]: Красою тихою, блистающей смиренно.
+                - emphasis [ref=e63]: (по А. С. Пушкину)
+            - generic [ref=e71]:
+              - text: "Ответ:"
+              - textbox [ref=e72]
+              - text: .
+          - generic [ref=e76] [cursor=pointer]:
+            - generic [ref=e80]:
+              - button [active] [ref=e83] [cursor=pointer]
+              - button [ref=e87] [cursor=pointer]:
+                - img [ref=e89] [cursor=pointer]
+              - button [ref=e92] [cursor=pointer]:
+                - img [ref=e94] [cursor=pointer]
+              - button [ref=e97] [cursor=pointer]:
+                - img [ref=e99] [cursor=pointer]
+              - button [ref=e102] [cursor=pointer]:
+                - img [ref=e104] [cursor=pointer]
+              - button [ref=e107] [cursor=pointer]:
+                - img [ref=e109] [cursor=pointer]
+              - button [ref=e112] [cursor=pointer]:
+                - img [ref=e114] [cursor=pointer]
+              - button [ref=e117] [cursor=pointer]:
+                - img [ref=e119] [cursor=pointer]
+              - button [ref=e122] [cursor=pointer]:
+                - img [ref=e124] [cursor=pointer]
+              - button [ref=e127] [cursor=pointer]:
+                - img [ref=e129] [cursor=pointer]
+              - button [ref=e132] [cursor=pointer]:
+                - img [ref=e134] [cursor=pointer]
+              - button [ref=e138] [cursor=pointer]:
+                - img [ref=e140] [cursor=pointer]
+            - generic [ref=e145] [cursor=pointer]:
+              - button [disabled] [ref=e147]:
+                - img [ref=e149]
+              - generic [ref=e152] [cursor=pointer]: 100%
+              - button [ref=e154] [cursor=pointer]:
+                - img [ref=e156] [cursor=pointer]
+      - generic [ref=e161]:
+        - generic [ref=e164]: Интеллектуальный тренажер
+        - generic [ref=e168]:
+          - generic [ref=e173]: 1 из 15
+          - generic [ref=e177]:
+            - img [ref=e178]
+            - generic [ref=e180]: Вы вошли как ученик 11 «Я»
+        - generic [ref=e181]:
+          - generic [ref=e183]:
+            - button "Черновик" [ref=e184] [cursor=pointer]:
+              - img [ref=e187] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e190] [cursor=pointer]:
+              - img [ref=e193] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e197] [cursor=pointer]:
+              - img [ref=e200] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e202]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e203] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e206] [cursor=pointer]
+            - generic [ref=e209]: 6a7121387e1b3d0007f57421
+```
