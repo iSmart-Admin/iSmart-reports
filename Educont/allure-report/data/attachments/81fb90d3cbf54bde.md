@@ -1,0 +1,81 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e8]:
+  - generic:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Меню разработчика
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15] [cursor=pointer]
+      - button "Выйти из тренажера" [ref=e17] [cursor=pointer]
+      - button "Финальная статистика" [ref=e18] [cursor=pointer]
+      - button "Выйти из кода учителя" [ref=e19] [cursor=pointer]
+    - generic [ref=e23]:
+      - region "Задача для решения" [ref=e26] [cursor=pointer]:
+        - generic [ref=e27] [cursor=pointer]:
+          - button "Вернуться обратно" [ref=e30] [cursor=pointer]:
+            - img [ref=e33] [cursor=pointer]
+            - text: Вернуться обратно
+          - generic [ref=e37]:
+            - generic [ref=e39]:
+              - img [ref=e43]
+              - heading "Внеси ответ в специально предназначенное поле." [level=4] [ref=e45]:
+                - generic [ref=e47]: Внеси ответ в специально предназначенное поле.
+            - generic [ref=e49]:
+              - img "decore" [ref=e52]
+              - generic [ref=e57]:
+                - generic [ref=e58]: Переведи число в десятичную систему счисления.
+                - generic [ref=e59]:
+                  - text: Число задано в шестнадцатеричной системе счисления и имеет следующий вид
+                  - generic [ref=e61]:
+                    - math [ref=e63]:
+                      - generic [ref=e65]:
+                        - generic [ref=e66]: "17"
+                        - generic [ref=e67]: АС
+                    - generic [ref=e69]:
+                      - generic [ref=e70]: "17"
+                      - generic [ref=e71]: АС
+                  - text: .
+            - generic [ref=e76]:
+              - strong [ref=e77]: Ответ
+              - text: ":"
+              - textbox [active] [ref=e78]
+          - generic [ref=e82] [cursor=pointer]:
+            - generic [ref=e85] [cursor=pointer]:
+              - button [disabled] [ref=e87]:
+                - img [ref=e89]
+              - generic [ref=e92] [cursor=pointer]: 100%
+              - button [ref=e94] [cursor=pointer]:
+                - img [ref=e96] [cursor=pointer]
+            - button "2 Показать подсказку" [ref=e101] [cursor=pointer]:
+              - generic [ref=e104] [cursor=pointer]: "2"
+              - generic [ref=e105] [cursor=pointer]: Показать подсказку
+      - generic [ref=e109]:
+        - generic [ref=e112]: Интеллектуальный тренажер
+        - generic [ref=e116]:
+          - generic [ref=e121]: 1 из 12
+          - generic [ref=e125]:
+            - img [ref=e126]
+            - generic [ref=e128]: Вы вошли как ученик 9 «А»
+        - generic [ref=e129]:
+          - generic [ref=e131]:
+            - button "Черновик" [ref=e132] [cursor=pointer]:
+              - img [ref=e135] [cursor=pointer]
+              - text: Черновик
+            - button "Сообщить об ошибке" [ref=e138] [cursor=pointer]:
+              - img [ref=e141] [cursor=pointer]
+              - text: Сообщить об ошибке
+            - button "Информация об уроке" [ref=e145] [cursor=pointer]:
+              - img [ref=e148] [cursor=pointer]
+              - text: Информация об уроке
+          - generic [ref=e150]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e151] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e154] [cursor=pointer]
+            - generic [ref=e157]: 6a72729bdb896a0007f146bc
+```
