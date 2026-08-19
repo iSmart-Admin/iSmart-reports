@@ -1,0 +1,488 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e6]:
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - heading "Фильтр" [level=1] [ref=e10]
+        - paragraph [ref=e11]: Найти
+      - button [ref=e12] [cursor=pointer]:
+        - img [ref=e14] [cursor=pointer]
+    - generic [ref=e16]:
+      - checkbox "Точный поиск" [ref=e17] [cursor=pointer]:
+        - img [ref=e20] [cursor=pointer]
+        - generic [ref=e22] [cursor=pointer]: Точный поиск
+      - img [ref=e24] [cursor=pointer]
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - generic [ref=e28]: Роль
+        - generic [ref=e29]:
+          - textbox [ref=e32]
+          - img [ref=e35] [cursor=pointer]
+      - generic [ref=e37]:
+        - generic [ref=e38]: Эл.Почта
+        - generic [ref=e39]:
+          - textbox [ref=e41]
+          - img [ref=e44] [cursor=pointer]
+      - generic [ref=e46]:
+        - generic [ref=e47]: Телефон
+        - generic [ref=e48]:
+          - textbox [ref=e50]
+          - img [ref=e53] [cursor=pointer]
+      - generic [ref=e55]:
+        - generic [ref=e56]: Имя
+        - generic [ref=e57]:
+          - textbox [ref=e59]
+          - img [ref=e62] [cursor=pointer]
+      - generic [ref=e64]:
+        - generic [ref=e65]: Логин
+        - generic [ref=e66]:
+          - textbox [ref=e68]
+          - img [ref=e71] [cursor=pointer]
+    - generic [ref=e73]:
+      - button "Сбросить фильтр" [disabled] [ref=e74]
+      - button "Применить" [ref=e75] [cursor=pointer]
+  - generic [ref=e81]:
+    - generic [ref=e86]:
+      - generic [ref=e89]:
+        - link "Пользователи" [ref=e91] [cursor=pointer]:
+          - /url: /admin/users
+          - generic [ref=e94] [cursor=pointer]: Пользователи
+        - link "ПС" [ref=e97] [cursor=pointer]:
+          - /url: /admin/paymentSystem
+          - generic [ref=e100] [cursor=pointer]: ПС
+        - link "Геймификация" [ref=e103] [cursor=pointer]:
+          - /url: /admin/game
+          - generic [ref=e106] [cursor=pointer]: Геймификация
+        - link "Черновики" [ref=e109] [cursor=pointer]:
+          - /url: /admin/userDraws
+          - generic [ref=e112] [cursor=pointer]: Черновики
+        - link "Каталог заданий" [ref=e115] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e118] [cursor=pointer]: Каталог заданий
+        - link "Диагностика" [ref=e121] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e124] [cursor=pointer]: Диагностика
+        - link "Задания" [ref=e127] [cursor=pointer]:
+          - /url: /design/tasks
+          - generic [ref=e130] [cursor=pointer]: Задания
+        - link "Уроки" [ref=e133] [cursor=pointer]:
+          - /url: /admin/lessons
+          - generic [ref=e136] [cursor=pointer]: Уроки
+        - link "Классы" [ref=e139] [cursor=pointer]:
+          - /url: /admin/classes
+          - generic [ref=e142] [cursor=pointer]: Классы
+        - link "Предметы" [ref=e145] [cursor=pointer]:
+          - /url: /admin/subjects
+          - generic [ref=e148] [cursor=pointer]: Предметы
+        - link "Темы" [ref=e151] [cursor=pointer]:
+          - /url: /admin/themes
+          - generic [ref=e154] [cursor=pointer]: Темы
+        - link "Подтемы" [ref=e157] [cursor=pointer]:
+          - /url: /admin/subthemes
+          - generic [ref=e160] [cursor=pointer]: Подтемы
+        - link "Файлы" [ref=e163] [cursor=pointer]:
+          - /url: /design/fs
+          - generic [ref=e166] [cursor=pointer]: Файлы
+        - link "Школы" [ref=e169] [cursor=pointer]:
+          - /url: /schools
+          - generic [ref=e172] [cursor=pointer]: Школы
+      - generic [ref=e176] [cursor=pointer]:
+        - generic [ref=e179] [cursor=pointer]: Н
+        - generic [ref=e180] [cursor=pointer]:
+          - paragraph [ref=e181] [cursor=pointer]: Суперпользователь
+          - paragraph [ref=e182] [cursor=pointer]: Николай
+        - img [ref=e184] [cursor=pointer]
+    - generic [ref=e187]:
+      - generic [ref=e188]:
+        - generic [ref=e189]:
+          - heading "Пользователи" [level=2] [ref=e191]
+          - generic [ref=e192]: Администрирование
+        - button "Фильтр" [active] [ref=e193] [cursor=pointer]:
+          - img [ref=e196] [cursor=pointer]
+          - text: Фильтр
+        - button "Добавить" [ref=e198] [cursor=pointer]:
+          - img [ref=e201] [cursor=pointer]
+          - text: Добавить
+      - table [ref=e204]:
+        - rowgroup [ref=e205]:
+          - row "Роль Имя Контакты Дата создания" [ref=e206]:
+            - cell "Роль" [ref=e207]
+            - cell "Имя" [ref=e208]
+            - cell "Контакты" [ref=e209]
+            - cell "Дата создания" [ref=e210]
+            - cell [ref=e211]
+        - rowgroup [ref=e212]:
+          - row "Ученик 6a8618e53965730007c13b7a polinashanaurova5@gmail.com 19 Августа 2026 в 20:58" [ref=e213]:
+            - cell "Ученик 6a8618e53965730007c13b7a" [ref=e214]:
+              - generic [ref=e217]:
+                - paragraph [ref=e218]: Ученик
+                - paragraph [ref=e219]: 6a8618e53965730007c13b7a
+            - cell [ref=e220]
+            - cell "polinashanaurova5@gmail.com" [ref=e221]:
+              - paragraph [ref=e222]: polinashanaurova5@gmail.com
+            - cell "19 Августа 2026 в 20:58" [ref=e223]:
+              - paragraph [ref=e224]: 19 Августа 2026
+              - paragraph [ref=e225]: в 20:58
+            - cell [ref=e226]:
+              - generic [ref=e227]:
+                - button [ref=e228] [cursor=pointer]:
+                  - img [ref=e230] [cursor=pointer]
+                - button [ref=e232] [cursor=pointer]:
+                  - img [ref=e234] [cursor=pointer]
+          - row "Ученик 6a85fdf1962b92000710cabb Екатерина Скрибот ekaterina.skribot+student@gmail.com 19 Августа 2026 в 19:03" [ref=e236]:
+            - cell "Ученик 6a85fdf1962b92000710cabb" [ref=e237]:
+              - generic [ref=e240]:
+                - paragraph [ref=e241]: Ученик
+                - paragraph [ref=e242]: 6a85fdf1962b92000710cabb
+            - cell "Екатерина Скрибот" [ref=e243]:
+              - paragraph [ref=e244]: Екатерина
+              - paragraph [ref=e245]: Скрибот
+            - cell "ekaterina.skribot+student@gmail.com" [ref=e246]:
+              - paragraph [ref=e247]: ekaterina.skribot+student@gmail.com
+            - cell "19 Августа 2026 в 19:03" [ref=e248]:
+              - paragraph [ref=e249]: 19 Августа 2026
+              - paragraph [ref=e250]: в 19:03
+            - cell [ref=e251]:
+              - generic [ref=e252]:
+                - button [ref=e253] [cursor=pointer]:
+                  - img [ref=e255] [cursor=pointer]
+                - button [ref=e257] [cursor=pointer]:
+                  - img [ref=e259] [cursor=pointer]
+          - row "Родитель 6a85e4963965730007c11bf5 zavialovaoy@mail.ru 19 Августа 2026 в 17:15" [ref=e261]:
+            - cell "Родитель 6a85e4963965730007c11bf5" [ref=e262]:
+              - generic [ref=e265]:
+                - paragraph [ref=e266]: Родитель
+                - paragraph [ref=e267]: 6a85e4963965730007c11bf5
+            - cell [ref=e268]
+            - cell "zavialovaoy@mail.ru" [ref=e269]:
+              - paragraph [ref=e270]: zavialovaoy@mail.ru
+            - cell "19 Августа 2026 в 17:15" [ref=e271]:
+              - paragraph [ref=e272]: 19 Августа 2026
+              - paragraph [ref=e273]: в 17:15
+            - cell [ref=e274]:
+              - generic [ref=e275]:
+                - button [ref=e276] [cursor=pointer]:
+                  - img [ref=e278] [cursor=pointer]
+                - button [ref=e280] [cursor=pointer]:
+                  - img [ref=e282] [cursor=pointer]
+          - row "Ученик 6a85bb926c394000075ede10 Студент 19 Августа 2026 в 14:20" [ref=e284]:
+            - cell "Ученик 6a85bb926c394000075ede10" [ref=e285]:
+              - generic [ref=e288]:
+                - paragraph [ref=e289]: Ученик
+                - paragraph [ref=e290]: 6a85bb926c394000075ede10
+            - cell "Студент" [ref=e291]:
+              - paragraph [ref=e292]: Студент
+            - cell [ref=e293]
+            - cell "19 Августа 2026 в 14:20" [ref=e294]:
+              - paragraph [ref=e295]: 19 Августа 2026
+              - paragraph [ref=e296]: в 14:20
+            - cell [ref=e297]:
+              - generic [ref=e298]:
+                - button [ref=e299] [cursor=pointer]:
+                  - img [ref=e301] [cursor=pointer]
+                - button [ref=e303] [cursor=pointer]:
+                  - img [ref=e305] [cursor=pointer]
+          - row "Учитель 6a859572dc4ae000070fe026 semynova1986@yandex.ru 19 Августа 2026 в 11:37" [ref=e307]:
+            - cell "Учитель 6a859572dc4ae000070fe026" [ref=e308]:
+              - generic [ref=e311]:
+                - paragraph [ref=e312]: Учитель
+                - paragraph [ref=e313]: 6a859572dc4ae000070fe026
+            - cell [ref=e314]
+            - cell "semynova1986@yandex.ru" [ref=e315]:
+              - paragraph [ref=e316]: semynova1986@yandex.ru
+            - cell "19 Августа 2026 в 11:37" [ref=e317]:
+              - paragraph [ref=e318]: 19 Августа 2026
+              - paragraph [ref=e319]: в 11:37
+            - cell [ref=e320]:
+              - generic [ref=e321]:
+                - button [ref=e322] [cursor=pointer]:
+                  - img [ref=e324] [cursor=pointer]
+                - button [ref=e326] [cursor=pointer]:
+                  - img [ref=e328] [cursor=pointer]
+          - row "Родитель 6a8590fb3b1dac0007797faf semynova-irina@yandex.ru 19 Августа 2026 в 11:18" [ref=e330]:
+            - cell "Родитель 6a8590fb3b1dac0007797faf" [ref=e331]:
+              - generic [ref=e334]:
+                - paragraph [ref=e335]: Родитель
+                - paragraph [ref=e336]: 6a8590fb3b1dac0007797faf
+            - cell [ref=e337]
+            - cell "semynova-irina@yandex.ru" [ref=e338]:
+              - paragraph [ref=e339]: semynova-irina@yandex.ru
+            - cell "19 Августа 2026 в 11:18" [ref=e340]:
+              - paragraph [ref=e341]: 19 Августа 2026
+              - paragraph [ref=e342]: в 11:18
+            - cell [ref=e343]:
+              - generic [ref=e344]:
+                - button [ref=e345] [cursor=pointer]:
+                  - img [ref=e347] [cursor=pointer]
+                - button [ref=e349] [cursor=pointer]:
+                  - img [ref=e351] [cursor=pointer]
+          - row "Учитель 6a858fafdc4ae000070fdaf6 Наталья Машурова nmashurova@bk.ru 8 961 144-89-36 19 Августа 2026 в 11:12" [ref=e353]:
+            - cell "Учитель 6a858fafdc4ae000070fdaf6" [ref=e354]:
+              - generic [ref=e357]:
+                - paragraph [ref=e358]: Учитель
+                - paragraph [ref=e359]: 6a858fafdc4ae000070fdaf6
+            - cell "Наталья Машурова" [ref=e360]:
+              - paragraph [ref=e361]: Наталья
+              - paragraph [ref=e362]: Машурова
+            - cell "nmashurova@bk.ru 8 961 144-89-36" [ref=e363]:
+              - paragraph [ref=e364]: nmashurova@bk.ru
+              - paragraph [ref=e365]: 8 961 144-89-36
+            - cell "19 Августа 2026 в 11:12" [ref=e366]:
+              - paragraph [ref=e367]: 19 Августа 2026
+              - paragraph [ref=e368]: в 11:12
+            - cell [ref=e369]:
+              - generic [ref=e370]:
+                - button [ref=e371] [cursor=pointer]:
+                  - img [ref=e373] [cursor=pointer]
+                - button [ref=e375] [cursor=pointer]:
+                  - img [ref=e377] [cursor=pointer]
+          - row "Учитель 6a858c803b1dac0007797d95 Нина Сергеева sergeevannina@mail.ru 19 Августа 2026 в 10:59" [ref=e379]:
+            - cell "Учитель 6a858c803b1dac0007797d95" [ref=e380]:
+              - generic [ref=e383]:
+                - paragraph [ref=e384]: Учитель
+                - paragraph [ref=e385]: 6a858c803b1dac0007797d95
+            - cell "Нина Сергеева" [ref=e386]:
+              - paragraph [ref=e387]: Нина
+              - paragraph [ref=e388]: Сергеева
+            - cell "sergeevannina@mail.ru" [ref=e389]:
+              - paragraph [ref=e390]: sergeevannina@mail.ru
+            - cell "19 Августа 2026 в 10:59" [ref=e391]:
+              - paragraph [ref=e392]: 19 Августа 2026
+              - paragraph [ref=e393]: в 10:59
+            - cell [ref=e394]:
+              - generic [ref=e395]:
+                - button [ref=e396] [cursor=pointer]:
+                  - img [ref=e398] [cursor=pointer]
+                - button [ref=e400] [cursor=pointer]:
+                  - img [ref=e402] [cursor=pointer]
+          - row "Родитель 6a8577156c394000075e8b9a decojig201@neplis.com 19 Августа 2026 в 09:27" [ref=e404]:
+            - cell "Родитель 6a8577156c394000075e8b9a" [ref=e405]:
+              - generic [ref=e408]:
+                - paragraph [ref=e409]: Родитель
+                - paragraph [ref=e410]: 6a8577156c394000075e8b9a
+            - cell [ref=e411]
+            - cell "decojig201@neplis.com" [ref=e412]:
+              - paragraph [ref=e413]: decojig201@neplis.com
+            - cell "19 Августа 2026 в 09:27" [ref=e414]:
+              - paragraph [ref=e415]: 19 Августа 2026
+              - paragraph [ref=e416]: в 09:27
+            - cell [ref=e417]:
+              - generic [ref=e418]:
+                - button [ref=e419] [cursor=pointer]:
+                  - img [ref=e421] [cursor=pointer]
+                - button [ref=e423] [cursor=pointer]:
+                  - img [ref=e425] [cursor=pointer]
+          - row "Родитель 6a857206dc4ae000070f9168 daria.nikiforova@ya.ru 19 Августа 2026 в 09:06" [ref=e427]:
+            - cell "Родитель 6a857206dc4ae000070f9168" [ref=e428]:
+              - generic [ref=e431]:
+                - paragraph [ref=e432]: Родитель
+                - paragraph [ref=e433]: 6a857206dc4ae000070f9168
+            - cell [ref=e434]
+            - cell "daria.nikiforova@ya.ru" [ref=e435]:
+              - paragraph [ref=e436]: daria.nikiforova@ya.ru
+            - cell "19 Августа 2026 в 09:06" [ref=e437]:
+              - paragraph [ref=e438]: 19 Августа 2026
+              - paragraph [ref=e439]: в 09:06
+            - cell [ref=e440]:
+              - generic [ref=e441]:
+                - button [ref=e442] [cursor=pointer]:
+                  - img [ref=e444] [cursor=pointer]
+                - button [ref=e446] [cursor=pointer]:
+                  - img [ref=e448] [cursor=pointer]
+          - row "Родитель 6a857112dc4ae000070f8e1d twinky@mail.ru 19 Августа 2026 в 09:02" [ref=e450]:
+            - cell "Родитель 6a857112dc4ae000070f8e1d" [ref=e451]:
+              - generic [ref=e454]:
+                - paragraph [ref=e455]: Родитель
+                - paragraph [ref=e456]: 6a857112dc4ae000070f8e1d
+            - cell [ref=e457]
+            - cell "twinky@mail.ru" [ref=e458]:
+              - paragraph [ref=e459]: twinky@mail.ru
+            - cell "19 Августа 2026 в 09:02" [ref=e460]:
+              - paragraph [ref=e461]: 19 Августа 2026
+              - paragraph [ref=e462]: в 09:02
+            - cell [ref=e463]:
+              - generic [ref=e464]:
+                - button [ref=e465] [cursor=pointer]:
+                  - img [ref=e467] [cursor=pointer]
+                - button [ref=e469] [cursor=pointer]:
+                  - img [ref=e471] [cursor=pointer]
+          - row "Родитель 6a856ba56c394000075e6fd1 Ирина Воронцова ira.vorontso2012@yandex.ru +7 (928) 471-12-85 19 Августа 2026 в 08:39" [ref=e473]:
+            - cell "Родитель 6a856ba56c394000075e6fd1" [ref=e474]:
+              - generic [ref=e477]:
+                - paragraph [ref=e478]: Родитель
+                - paragraph [ref=e479]: 6a856ba56c394000075e6fd1
+            - cell "Ирина Воронцова" [ref=e480]:
+              - paragraph [ref=e481]: Ирина
+              - paragraph [ref=e482]: Воронцова
+            - cell "ira.vorontso2012@yandex.ru +7 (928) 471-12-85" [ref=e483]:
+              - paragraph [ref=e484]: ira.vorontso2012@yandex.ru
+              - paragraph [ref=e485]: +7 (928) 471-12-85
+            - cell "19 Августа 2026 в 08:39" [ref=e486]:
+              - paragraph [ref=e487]: 19 Августа 2026
+              - paragraph [ref=e488]: в 08:39
+            - cell [ref=e489]:
+              - generic [ref=e490]:
+                - button [ref=e491] [cursor=pointer]:
+                  - img [ref=e493] [cursor=pointer]
+                - button [ref=e495] [cursor=pointer]:
+                  - img [ref=e497] [cursor=pointer]
+          - row "Ученик 6a85645f3b1dac0007795a67 Владимир Д sergenarhi+vladimir@gmail.com 19 Августа 2026 в 08:07" [ref=e499]:
+            - cell "Ученик 6a85645f3b1dac0007795a67" [ref=e500]:
+              - generic [ref=e503]:
+                - paragraph [ref=e504]: Ученик
+                - paragraph [ref=e505]: 6a85645f3b1dac0007795a67
+            - cell "Владимир Д" [ref=e506]:
+              - paragraph [ref=e507]: Владимир
+              - paragraph [ref=e508]: Д
+            - cell "sergenarhi+vladimir@gmail.com" [ref=e509]:
+              - paragraph [ref=e510]: sergenarhi+vladimir@gmail.com
+            - cell "19 Августа 2026 в 08:07" [ref=e511]:
+              - paragraph [ref=e512]: 19 Августа 2026
+              - paragraph [ref=e513]: в 08:07
+            - cell [ref=e514]:
+              - generic [ref=e515]:
+                - button [ref=e516] [cursor=pointer]:
+                  - img [ref=e518] [cursor=pointer]
+                - button [ref=e520] [cursor=pointer]:
+                  - img [ref=e522] [cursor=pointer]
+          - row "Ученик 6a855d973b1dac0007795008 19 Августа 2026 в 07:39" [ref=e524]:
+            - cell "Ученик 6a855d973b1dac0007795008" [ref=e525]:
+              - generic [ref=e528]:
+                - paragraph [ref=e529]: Ученик
+                - paragraph [ref=e530]: 6a855d973b1dac0007795008
+            - cell [ref=e531]
+            - cell [ref=e532]
+            - cell "19 Августа 2026 в 07:39" [ref=e533]:
+              - paragraph [ref=e534]: 19 Августа 2026
+              - paragraph [ref=e535]: в 07:39
+            - cell [ref=e536]:
+              - generic [ref=e537]:
+                - button [ref=e538] [cursor=pointer]:
+                  - img [ref=e540] [cursor=pointer]
+                - button [ref=e542] [cursor=pointer]:
+                  - img [ref=e544] [cursor=pointer]
+          - row "Учитель 6a855d503b1dac0007794d45 Ольга Владимировна Киселёва olgakiseleva_donntu@mail.ru +79897194897 19 Августа 2026 в 07:37" [ref=e546]:
+            - cell "Учитель 6a855d503b1dac0007794d45" [ref=e547]:
+              - generic [ref=e550]:
+                - paragraph [ref=e551]: Учитель
+                - paragraph [ref=e552]: 6a855d503b1dac0007794d45
+            - cell "Ольга Владимировна Киселёва" [ref=e553]:
+              - paragraph [ref=e554]: Ольга Владимировна
+              - paragraph [ref=e555]: Киселёва
+            - cell "olgakiseleva_donntu@mail.ru +79897194897" [ref=e556]:
+              - paragraph [ref=e557]: olgakiseleva_donntu@mail.ru
+              - paragraph [ref=e558]: "+79897194897"
+            - cell "19 Августа 2026 в 07:37" [ref=e559]:
+              - paragraph [ref=e560]: 19 Августа 2026
+              - paragraph [ref=e561]: в 07:37
+            - cell [ref=e562]:
+              - generic [ref=e563]:
+                - button [ref=e564] [cursor=pointer]:
+                  - img [ref=e566] [cursor=pointer]
+                - button [ref=e568] [cursor=pointer]:
+                  - img [ref=e570] [cursor=pointer]
+          - row "Ученик 6a85463e6c394000075e57da Студент 19 Августа 2026 в 05:59" [ref=e572]:
+            - cell "Ученик 6a85463e6c394000075e57da" [ref=e573]:
+              - generic [ref=e576]:
+                - paragraph [ref=e577]: Ученик
+                - paragraph [ref=e578]: 6a85463e6c394000075e57da
+            - cell "Студент" [ref=e579]:
+              - paragraph [ref=e580]: Студент
+            - cell [ref=e581]
+            - cell "19 Августа 2026 в 05:59" [ref=e582]:
+              - paragraph [ref=e583]: 19 Августа 2026
+              - paragraph [ref=e584]: в 05:59
+            - cell [ref=e585]:
+              - generic [ref=e586]:
+                - button [ref=e587] [cursor=pointer]:
+                  - img [ref=e589] [cursor=pointer]
+                - button [ref=e591] [cursor=pointer]:
+                  - img [ref=e593] [cursor=pointer]
+          - row "Ученик 6a84ef4a14eb1800078a1d7c Оксана КК sergenarhi+uu@gmail.com 18 Августа 2026 в 23:48" [ref=e595]:
+            - cell "Ученик 6a84ef4a14eb1800078a1d7c" [ref=e596]:
+              - generic [ref=e599]:
+                - paragraph [ref=e600]: Ученик
+                - paragraph [ref=e601]: 6a84ef4a14eb1800078a1d7c
+            - cell "Оксана КК" [ref=e602]:
+              - paragraph [ref=e603]: Оксана
+              - paragraph [ref=e604]: КК
+            - cell "sergenarhi+uu@gmail.com" [ref=e605]:
+              - paragraph [ref=e606]: sergenarhi+uu@gmail.com
+            - cell "18 Августа 2026 в 23:48" [ref=e607]:
+              - paragraph [ref=e608]: 18 Августа 2026
+              - paragraph [ref=e609]: в 23:48
+            - cell [ref=e610]:
+              - generic [ref=e611]:
+                - button [ref=e612] [cursor=pointer]:
+                  - img [ref=e614] [cursor=pointer]
+                - button [ref=e616] [cursor=pointer]:
+                  - img [ref=e618] [cursor=pointer]
+          - row "Родитель 6a8492ade0d9bd0007e50668 solni-fko@mail.ru 18 Августа 2026 в 17:13" [ref=e620]:
+            - cell "Родитель 6a8492ade0d9bd0007e50668" [ref=e621]:
+              - generic [ref=e624]:
+                - paragraph [ref=e625]: Родитель
+                - paragraph [ref=e626]: 6a8492ade0d9bd0007e50668
+            - cell [ref=e627]
+            - cell "solni-fko@mail.ru" [ref=e628]:
+              - paragraph [ref=e629]: solni-fko@mail.ru
+            - cell "18 Августа 2026 в 17:13" [ref=e630]:
+              - paragraph [ref=e631]: 18 Августа 2026
+              - paragraph [ref=e632]: в 17:13
+            - cell [ref=e633]:
+              - generic [ref=e634]:
+                - button [ref=e635] [cursor=pointer]:
+                  - img [ref=e637] [cursor=pointer]
+                - button [ref=e639] [cursor=pointer]:
+                  - img [ref=e641] [cursor=pointer]
+          - row "Ученик 6a848943fc3e2200071f7e8e zima-02@bk.ru 18 Августа 2026 в 16:33" [ref=e643]:
+            - cell "Ученик 6a848943fc3e2200071f7e8e" [ref=e644]:
+              - generic [ref=e647]:
+                - paragraph [ref=e648]: Ученик
+                - paragraph [ref=e649]: 6a848943fc3e2200071f7e8e
+            - cell [ref=e650]
+            - cell "zima-02@bk.ru" [ref=e651]:
+              - paragraph [ref=e652]: zima-02@bk.ru
+            - cell "18 Августа 2026 в 16:33" [ref=e653]:
+              - paragraph [ref=e654]: 18 Августа 2026
+              - paragraph [ref=e655]: в 16:33
+            - cell [ref=e656]:
+              - generic [ref=e657]:
+                - button [ref=e658] [cursor=pointer]:
+                  - img [ref=e660] [cursor=pointer]
+                - button [ref=e662] [cursor=pointer]:
+                  - img [ref=e664] [cursor=pointer]
+          - row "Родитель 6a848785fc3e2200071f726a Татьяна Нерознак ntv3010@mail.ru +7 (916) 394-14-97 18 Августа 2026 в 16:25" [ref=e666]:
+            - cell "Родитель 6a848785fc3e2200071f726a" [ref=e667]:
+              - generic [ref=e670]:
+                - paragraph [ref=e671]: Родитель
+                - paragraph [ref=e672]: 6a848785fc3e2200071f726a
+            - cell "Татьяна Нерознак" [ref=e673]:
+              - paragraph [ref=e674]: Татьяна
+              - paragraph [ref=e675]: Нерознак
+            - cell "ntv3010@mail.ru +7 (916) 394-14-97" [ref=e676]:
+              - paragraph [ref=e677]: ntv3010@mail.ru
+              - paragraph [ref=e678]: +7 (916) 394-14-97
+            - cell "18 Августа 2026 в 16:25" [ref=e679]:
+              - paragraph [ref=e680]: 18 Августа 2026
+              - paragraph [ref=e681]: в 16:25
+            - cell [ref=e682]:
+              - generic [ref=e683]:
+                - button [ref=e684] [cursor=pointer]:
+                  - img [ref=e686] [cursor=pointer]
+                - button [ref=e688] [cursor=pointer]:
+                  - img [ref=e690] [cursor=pointer]
+        - rowgroup [ref=e692]:
+          - 'row "Записей: 990369 1 2 ... 49519" [ref=e693]':
+            - 'cell "Записей: 990369 1 2 ... 49519" [ref=e694]':
+              - generic [ref=e696]:
+                - generic [ref=e698]: "Записей: 990369"
+                - generic [ref=e699]:
+                  - img [ref=e701]
+                  - generic [ref=e704]: "1"
+                  - generic [ref=e706] [cursor=pointer]: "2"
+                  - generic [ref=e707]: ...
+                  - generic [ref=e709] [cursor=pointer]: "49519"
+                  - img [ref=e711] [cursor=pointer]
+```
