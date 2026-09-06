@@ -1,0 +1,13 @@
+[
+  {
+    "url": "https://edu.ismart.org/graphql",
+    "status": 500,
+    "payload": {
+      "query": "query catalogCategoryByCode($categoryCode: String!) {\n  catalogCategoryByCode(categoryCode: $categoryCode) {\n    id\n    parentId\n    parentCode\n    name\n    shortDescription\n    description\n    fullDescription\n    image\n    lottie\n    imageOffsetX\n    imageOffsetY\n    imageScale\n    color\n    weight\n    iconUrl\n    tariffTitle\n    code\n    size\n    type\n    availabilityType\n    tags\n    classId\n    subjectId\n    coursesObjectIds\n    externalMaterial\n    hidden\n    isActive\n    isPurchased\n    practiceId\n    durationMinutes\n    validFromDate\n    validToDate\n    practiceId\n    bannerComponent\n    updatedAt\n    educont\n    educontOnly\n    educontCourses {\n      externalId\n      label\n      link\n    }\n    randomizedContent {\n      classId\n      subjectId\n      taskQuantity\n    }\n    showKeys\n    teacherThemeGroupMode\n    eor\n    badges\n    about\n    additionalInfo\n    name\n    childCategories {\n      ...catalogCategoryFields\n    }\n    aiConfig {\n      audioTitles {\n        autogenerate\n        takePauses\n        voice\n        speed\n      }\n    }\n  }\n}\n\nfragment catalogCategoryFields on Category {\n  id\n  parentId\n  parentCode\n  name\n  shortDescription\n  description\n  fullDescription\n  image\n  lottie\n  imageOffsetX\n  imageOffsetY\n  imageScale\n  color\n  weight\n  code\n  size\n  type\n  availabilityType\n  tags\n  classId\n  subjectId\n  coursesObjectIds\n  externalMaterial\n  hidden\n  isActive\n  practiceId\n  durationMinutes\n  validFromDate\n  validToDate\n  practiceId\n  bannerComponent\n  updatedAt\n  educont\n  educontOnly\n  iconUrl\n  educontCourses {\n    externalId\n    label\n    link\n  }\n  randomizedContent {\n    classId\n    subjectId\n    taskQuantity\n  }\n  showKeys\n  teacherThemeGroupMode\n  eor\n  isPurchased\n  tariffTitle\n  aiConfig {\n    audioTitles {\n      autogenerate\n      takePauses\n      voice\n      speed\n    }\n  }\n}\n",
+      "variables": {
+        "categoryCode": "undefined"
+      }
+    },
+    "timestap": "07.09.2026, 01:04:50"
+  }
+]
