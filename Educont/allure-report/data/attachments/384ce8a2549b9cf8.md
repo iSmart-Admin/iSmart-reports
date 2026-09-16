@@ -1,0 +1,164 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - img [ref=e13]
+          - img [ref=e17]
+        - generic [ref=e19]:
+          - heading "Классы обновлены!" [level=3] [ref=e20]
+          - generic [ref=e21]: Ежегодное обновление завершено успешно
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - img [ref=e26]
+          - generic [ref=e28]: Что изменилось?
+        - generic [ref=e29]:
+          - generic [ref=e30]:
+            - img [ref=e33]
+            - generic [ref=e35]: "Все активные классы повышены на 1 ступень (например: 9-А → 10-А)"
+          - generic [ref=e36]:
+            - img [ref=e39]
+            - generic [ref=e41]: Классы 11-е автоматически перемещены в архив
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - generic [ref=e44]: Было
+          - generic [ref=e45]: Стало
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - generic [ref=e51]:
+              - generic [ref=e52]: 9 «А»
+              - generic [ref=e53]: 0 учеников
+            - img [ref=e56]
+            - generic [ref=e59]:
+              - generic [ref=e60]: 10 класс «А»
+              - generic [ref=e61]: 0 учеников
+          - generic [ref=e62]:
+            - generic [ref=e64]:
+              - generic [ref=e65]: 11 «Я»
+              - generic [ref=e66]: 1 ученик
+            - img [ref=e69]
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - generic [ref=e75]: 11 «Я»
+                - generic [ref=e77]: Выпуск 2026
+              - generic [ref=e78]: 1 ученик
+    - generic [ref=e80]:
+      - button "Сообщить о проблеме" [ref=e81] [cursor=pointer]
+      - button "Все верно, к классам" [ref=e82] [cursor=pointer]:
+        - img [ref=e85] [cursor=pointer]
+        - text: Все верно, к классам
+  - generic [ref=e92]:
+    - generic [ref=e97]:
+      - generic [ref=e100]:
+        - link "Каталог заданий" [ref=e102] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e105] [cursor=pointer]: Каталог заданий
+        - link "Кабинет учителя" [ref=e108] [cursor=pointer]:
+          - /url: /teacher/dashboard
+          - generic [ref=e111] [cursor=pointer]: Кабинет учителя
+        - link "Рейтинг" [ref=e114] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e117] [cursor=pointer]: Рейтинг
+        - link "Помощник" [ref=e120] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e123] [cursor=pointer]: Помощник
+        - link "Школы" [ref=e126] [cursor=pointer]:
+          - /url: /schools
+          - generic [ref=e129] [cursor=pointer]: Школы
+      - generic [ref=e133] [cursor=pointer]:
+        - generic [ref=e137] [cursor=pointer]: e
+        - generic [ref=e138] [cursor=pointer]:
+          - paragraph [ref=e139] [cursor=pointer]: Учитель
+          - paragraph [ref=e140] [cursor=pointer]: edu_N07fgO0y
+        - img [ref=e142] [cursor=pointer]
+    - generic [ref=e147]:
+      - button "Назад" [ref=e148] [cursor=pointer]:
+        - img [ref=e151] [cursor=pointer]
+        - text: Назад
+      - heading "ismart_Тест Коммунар_эдуконт" [level=2] [ref=e153]
+      - link "educontIcon Перейти в \"Моя школа\"" [ref=e154] [cursor=pointer]:
+        - /url: https://www.gosuslugi.ru/school/schedule
+        - img "educontIcon" [ref=e156] [cursor=pointer]
+        - generic [ref=e157] [cursor=pointer]: Перейти в "Моя школа"
+        - img [ref=e159] [cursor=pointer]
+      - generic [ref=e162]:
+        - link "Информация о школе" [ref=e164]:
+          - /url: https://edu.ismart.org/schools/68f768de4e12860007c1e6ae/info/info
+          - generic [ref=e168]: Информация о школе
+        - link "Сотрудники" [ref=e170] [cursor=pointer]:
+          - /url: https://edu.ismart.org/schools/68f768de4e12860007c1e6ae/info/employees
+          - generic [ref=e174] [cursor=pointer]: Сотрудники
+        - link "Классы" [ref=e176] [cursor=pointer]:
+          - /url: https://edu.ismart.org/schools/68f768de4e12860007c1e6ae/info/classes
+          - generic [ref=e179] [cursor=pointer]:
+            - generic [ref=e180] [cursor=pointer]: Классы
+            - img [ref=e183] [cursor=pointer]
+        - link "Ученики школы" [ref=e186] [cursor=pointer]:
+          - /url: https://edu.ismart.org/schools/68f768de4e12860007c1e6ae/info/childrens
+          - generic [ref=e190] [cursor=pointer]: Ученики школы
+      - generic [ref=e191]:
+        - generic [ref=e192]:
+          - generic [ref=e195]: Контактная информация
+          - generic [ref=e197]:
+            - generic [ref=e198]:
+              - generic [ref=e199]: Индекс
+              - generic [ref=e202]: "234568"
+            - generic [ref=e203]:
+              - generic [ref=e204]: Город
+              - generic [ref=e207]: Коммунары
+            - generic [ref=e208]:
+              - generic [ref=e209]: Адрес
+              - generic [ref=e211]:
+                - generic [ref=e212]: Ленинградская обл., г. Коммунар, ул. Павловская, д.9
+                - button [ref=e214] [cursor=pointer]:
+                  - img [ref=e216] [cursor=pointer]
+            - generic [ref=e218]:
+              - generic [ref=e219]: Телефон
+              - generic [ref=e220]:
+                - img [ref=e223]
+                - generic [ref=e226]: +7 (374) 983-49-88
+            - generic [ref=e227]:
+              - generic [ref=e228]: Администратор школы
+              - generic [ref=e231]: Танвир Ганон Семенович
+            - generic [ref=e232]:
+              - generic [ref=e233]: Email
+              - generic [ref=e234]:
+                - img [ref=e237]
+                - link "kommunar@mail.ru" [ref=e239] [cursor=pointer]:
+                  - /url: mailto:kommunar@mail.ru
+            - generic [ref=e240]:
+              - generic [ref=e241]: Веб-сайт
+              - generic [ref=e242]:
+                - img [ref=e245]
+                - link "Коммунар.ру" [ref=e247] [cursor=pointer]:
+                  - /url: Коммунар.ру
+          - generic [ref=e249]: "Документы:"
+          - generic [ref=e250]:
+            - generic [ref=e251]:
+              - generic [ref=e252]:
+                - img [ref=e256]
+                - generic [ref=e258]:
+                  - generic [ref=e259]: 4.5 Тестирование с использованием граничных значений — копия.pdf
+                  - generic [ref=e260]: 753 Кбайт
+              - link [ref=e262] [cursor=pointer]:
+                - /url: https://ismart-files.storage.yandexcloud.net/documents/4.5 Тестирование с использованием граничных значений — копия.pdf
+                - button [ref=e263] [cursor=pointer]:
+                  - img [ref=e265] [cursor=pointer]
+            - generic [ref=e267]:
+              - generic [ref=e268]:
+                - img [ref=e272]
+                - generic [ref=e274]:
+                  - generic [ref=e275]: Функции работы со строками.pdf
+                  - generic [ref=e276]: 1577 Кбайт
+              - link [ref=e278] [cursor=pointer]:
+                - /url: https://ismart-files.storage.yandexcloud.net/documents/Функции работы со строками.pdf
+                - button [ref=e279] [cursor=pointer]:
+                  - img [ref=e281] [cursor=pointer]
+        - button "Отсоединиться от школы" [ref=e285] [cursor=pointer]:
+          - generic [ref=e286] [cursor=pointer]:
+            - img [ref=e287] [cursor=pointer]
+            - generic [ref=e290] [cursor=pointer]: Отсоединиться от школы
+```
