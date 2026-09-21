@@ -1,0 +1,128 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e7]:
+    - button [ref=e8] [cursor=pointer]:
+      - img [ref=e10] [cursor=pointer]
+    - generic [ref=e13]:
+      - heading "Введите пароль" [level=1] [ref=e14]:
+        - img [ref=e17] [cursor=pointer]
+        - generic [ref=e19]: Введите пароль
+      - paragraph [ref=e20]: Пожалуйста, введите пароль
+      - generic:
+        - generic:
+          - generic:
+            - textbox
+      - generic [ref=e21]:
+        - generic [ref=e22]: Пароль
+        - generic [ref=e23]:
+          - textbox "Введите пароль" [ref=e25]
+          - img [ref=e28] [cursor=pointer]
+      - generic [ref=e30]:
+        - img [ref=e32]
+        - generic [ref=e34]: Введите пароль
+      - button "Войти" [active] [ref=e36] [cursor=pointer]
+      - button "Не помню пароль" [ref=e37] [cursor=pointer]
+  - generic [ref=e43]:
+    - generic [ref=e48]:
+      - generic [ref=e51]:
+        - link "Каталог заданий" [ref=e53] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e56] [cursor=pointer]: Каталог заданий
+        - link "Рейтинг" [ref=e59] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e62] [cursor=pointer]: Рейтинг
+        - link "Диагностика" [ref=e65] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e68] [cursor=pointer]: Диагностика
+        - link "Магазин" [ref=e71] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e74] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e77] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e80] [cursor=pointer]: Помощник
+      - generic [ref=e83]:
+        - generic [ref=e84]:
+          - button [ref=e85] [cursor=pointer]:
+            - img [ref=e87] [cursor=pointer]
+          - img [ref=e92] [cursor=pointer]
+        - generic [ref=e94] [cursor=pointer]:
+          - generic [ref=e97] [cursor=pointer]: "?"
+          - generic [ref=e98] [cursor=pointer]:
+            - paragraph
+            - paragraph [ref=e99] [cursor=pointer]: Гость
+          - img [ref=e101] [cursor=pointer]
+    - generic [ref=e108]:
+      - generic [ref=e112]:
+        - paragraph [ref=e116]: Интересные задания? Их на платформе множество!
+        - generic [ref=e118] [cursor=pointer]:
+          - button [ref=e119] [cursor=pointer]:
+            - img [ref=e121] [cursor=pointer]
+          - generic [ref=e123] [cursor=pointer]: Выбрать фильтры
+      - generic [ref=e129]:
+        - textbox "Научиться считать от 0 до 100" [ref=e133]
+        - button "Найти задания" [ref=e134] [cursor=pointer]
+      - generic [ref=e137]: Поиск по базе из 1 000 000 заданий
+      - heading "Каталог заданий" [level=1] [ref=e141]
+    - generic [ref=e143]:
+      - generic [ref=e144]:
+        - generic [ref=e145]:
+          - generic [ref=e149]:
+            - img [ref=e151]
+            - link "8 (800) 600-44-02" [ref=e153] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e154]:
+            - generic [ref=e155]: "@"
+            - link "support@ismart.org" [ref=e156] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e157]:
+            - img [ref=e159]
+            - generic [ref=e161]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e162]:
+          - link "Наш сайт" [ref=e165] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e167] [cursor=pointer]
+          - generic [ref=e169]:
+            - link "Лицензия" [ref=e171] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика обработки персональных данных" [ref=e173] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e175] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e177] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e179] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e181]:
+        - generic [ref=e182]:
+          - link [ref=e183] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e187] [cursor=pointer]
+          - generic [ref=e190]:
+            - link "okIcon" [ref=e191] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e192] [cursor=pointer]
+            - link "dzenIcon" [ref=e193] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e194] [cursor=pointer]
+            - link "vkIcon" [ref=e195] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e196] [cursor=pointer]
+        - generic [ref=e198]:
+          - generic [ref=e200]:
+            - generic [ref=e201]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e202] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e203]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e204] [cursor=pointer]:
+                - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e205]:
+            - generic [ref=e206]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e207] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e208]: © iSmart, 2018-2026
+```
