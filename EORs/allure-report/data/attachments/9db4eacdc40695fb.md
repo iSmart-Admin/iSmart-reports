@@ -1,0 +1,316 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - img [ref=e7]
+    - generic [ref=e9]:
+      - generic [ref=e10]: Только до 15 октября
+      - heading "2 месяца занятий по математике в подарок" [level=2] [ref=e11]:
+        - strong [ref=e12]: 2 месяца
+        - text: занятий по математике
+        - strong [ref=e13]: в подарок
+      - generic [ref=e14]: Онлайн-занятия с преподавателем, который поможет ребёнку разобраться в сложных темах
+      - link "Оставить заявку и получить подарок" [ref=e15] [cursor=pointer]:
+        - /url: https://school.ismart.org/math-group/2-months-free?utm_source=ismart_site&utm_medium=mindbox&utm_campaign=math_group_2_months_free&utm_content=main_site__popup
+    - button "Закрыть поп-ап" [ref=e16] [cursor=pointer]: ×
+  - generic [ref=e22]:
+    - generic [ref=e27]:
+      - generic [ref=e30]:
+        - link "Каталог заданий" [ref=e32] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e35] [cursor=pointer]: Каталог заданий
+        - link "Рейтинг" [ref=e38] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e41] [cursor=pointer]: Рейтинг
+        - link "Диагностика" [ref=e44] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e47] [cursor=pointer]: Диагностика
+        - link "Магазин" [ref=e50] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e53] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e56] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e59] [cursor=pointer]: Помощник
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - button [ref=e64] [cursor=pointer]:
+            - img [ref=e66] [cursor=pointer]
+          - img [ref=e71] [cursor=pointer]
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e76] [cursor=pointer]: "?"
+          - generic [ref=e77] [cursor=pointer]:
+            - paragraph
+            - paragraph [ref=e78] [cursor=pointer]: Гость
+          - img [ref=e80] [cursor=pointer]
+    - generic [ref=e84]:
+      - generic [ref=e86]:
+        - button [ref=e87] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+        - generic [ref=e93]: Обществознание 6.1
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - heading "Купить со скидкой" [level=1] [ref=e99]
+          - heading "-70%" [level=1] [ref=e100]
+        - button "В магазин" [ref=e102] [cursor=pointer]:
+          - text: В магазин
+          - img [ref=e105] [cursor=pointer]
+      - generic [ref=e107]:
+        - generic [ref=e111]:
+          - button "6" [ref=e112] [cursor=pointer]:
+            - img [ref=e116] [cursor=pointer]
+            - text: "6"
+          - button "7" [ref=e118] [cursor=pointer]:
+            - img [ref=e122] [cursor=pointer]
+            - text: "7"
+          - button "8" [ref=e124]:
+            - img [ref=e128]
+            - text: "8"
+          - button "9" [ref=e130] [cursor=pointer]:
+            - img [ref=e134] [cursor=pointer]
+            - text: "9"
+          - button "10" [ref=e136] [cursor=pointer]:
+            - img [ref=e140] [cursor=pointer]
+            - text: "10"
+          - button "11" [ref=e142] [cursor=pointer]:
+            - img [ref=e146] [cursor=pointer]
+            - text: "11"
+        - generic [ref=e150]:
+          - generic [ref=e154]:
+            - img [ref=e157]
+            - textbox "Поиск по подтемам" [ref=e160]
+          - generic [ref=e161]:
+            - generic [ref=e162]:
+              - generic [ref=e163] [cursor=pointer]:
+                - generic [ref=e165] [cursor=pointer]: Темы
+                - button [ref=e167] [cursor=pointer]:
+                  - img [ref=e169] [cursor=pointer]
+              - generic [ref=e172] [cursor=pointer]:
+                - generic [ref=e175] [cursor=pointer]: Человек в экономических отношениях
+                - img [ref=e177] [cursor=pointer]
+              - generic [ref=e179] [cursor=pointer]:
+                - generic [ref=e182] [cursor=pointer]: Человек в мире культуры
+                - img [ref=e184] [cursor=pointer]
+            - generic [ref=e190]:
+              - link "1. Экономическая жизнь общества" [ref=e191] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c706fb
+                - generic [ref=e192] [cursor=pointer]:
+                  - generic [ref=e194] [cursor=pointer]:
+                    - generic [ref=e196] [cursor=pointer]: "1."
+                    - paragraph [ref=e198] [cursor=pointer]: Экономическая жизнь общества
+                  - img [ref=e201] [cursor=pointer]
+              - link "2. Потребности и ресурсы, ограниченность ресурсов. Экономический выбор" [ref=e203] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c70713
+                - generic [ref=e204] [cursor=pointer]:
+                  - generic [ref=e206] [cursor=pointer]:
+                    - generic [ref=e208] [cursor=pointer]: "2."
+                    - paragraph [ref=e210] [cursor=pointer]: Потребности и ресурсы, ограниченность ресурсов. Экономический выбор
+                  - img [ref=e213] [cursor=pointer]
+              - link "3. Экономическая система и её функции" [ref=e215] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c706fc
+                - generic [ref=e216] [cursor=pointer]:
+                  - generic [ref=e218] [cursor=pointer]:
+                    - generic [ref=e220] [cursor=pointer]: "3."
+                    - paragraph [ref=e222] [cursor=pointer]: Экономическая система и её функции
+                  - img [ref=e225] [cursor=pointer]
+              - link "4. Собственность" [ref=e227] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c706fd
+                - generic [ref=e228] [cursor=pointer]:
+                  - generic [ref=e230] [cursor=pointer]:
+                    - generic [ref=e232] [cursor=pointer]: "4."
+                    - paragraph [ref=e234] [cursor=pointer]: Собственность
+                  - img [ref=e237] [cursor=pointer]
+              - link "5. Производство — источник экономических благ. Факторы производства" [ref=e239] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c70711
+                - generic [ref=e240] [cursor=pointer]:
+                  - generic [ref=e242] [cursor=pointer]:
+                    - generic [ref=e244] [cursor=pointer]: "5."
+                    - paragraph [ref=e246] [cursor=pointer]: Производство — источник экономических благ. Факторы производства
+                  - img [ref=e249] [cursor=pointer]
+              - link "6. Трудовая деятельность. Производительность труда. Разделение труда" [ref=e251] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c706fe
+                - generic [ref=e252] [cursor=pointer]:
+                  - generic [ref=e254] [cursor=pointer]:
+                    - generic [ref=e256] [cursor=pointer]: "6."
+                    - paragraph [ref=e258] [cursor=pointer]: Трудовая деятельность. Производительность труда. Разделение труда
+                  - img [ref=e261] [cursor=pointer]
+              - link "7. Предпринимательство. Виды и формы предпринимательской деятельности" [ref=e263] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c706ff
+                - generic [ref=e264] [cursor=pointer]:
+                  - generic [ref=e266] [cursor=pointer]:
+                    - generic [ref=e268] [cursor=pointer]: "7."
+                    - paragraph [ref=e270] [cursor=pointer]: Предпринимательство. Виды и формы предпринимательской деятельности
+                  - img [ref=e273] [cursor=pointer]
+              - link "8. Обмен. Деньги и их функции" [ref=e275] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c70700
+                - generic [ref=e276] [cursor=pointer]:
+                  - generic [ref=e278] [cursor=pointer]:
+                    - generic [ref=e280] [cursor=pointer]: "8."
+                    - paragraph [ref=e282] [cursor=pointer]: Обмен. Деньги и их функции
+                  - img [ref=e285] [cursor=pointer]
+              - link "9. Торговля и её формы" [ref=e287] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c70701
+                - generic [ref=e288] [cursor=pointer]:
+                  - generic [ref=e290] [cursor=pointer]:
+                    - generic [ref=e292] [cursor=pointer]: "9."
+                    - paragraph [ref=e294] [cursor=pointer]: Торговля и её формы
+                  - img [ref=e297] [cursor=pointer]
+              - link "10. Рыночная экономика. Конкуренция" [ref=e299] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c70702
+                - generic [ref=e300] [cursor=pointer]:
+                  - generic [ref=e302] [cursor=pointer]:
+                    - generic [ref=e304] [cursor=pointer]: "10."
+                    - paragraph [ref=e306] [cursor=pointer]: Рыночная экономика. Конкуренция
+                  - img [ref=e309] [cursor=pointer]
+              - link "11. Спрос и предложение. Рыночное равновесие. Невидимая рука рынка" [ref=e311] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c70703
+                - generic [ref=e312] [cursor=pointer]:
+                  - generic [ref=e314] [cursor=pointer]:
+                    - generic [ref=e316] [cursor=pointer]: "11."
+                    - paragraph [ref=e318] [cursor=pointer]: Спрос и предложение. Рыночное равновесие. Невидимая рука рынка
+                  - img [ref=e321] [cursor=pointer]
+              - link "12. Многообразие рынков" [ref=e323] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c70704
+                - generic [ref=e324] [cursor=pointer]:
+                  - generic [ref=e326] [cursor=pointer]:
+                    - generic [ref=e328] [cursor=pointer]: "12."
+                    - paragraph [ref=e330] [cursor=pointer]: Многообразие рынков
+                  - img [ref=e333] [cursor=pointer]
+              - link "13. Предприятие в экономике. Издержки, выручка и прибыль. Как повысить эффективность производства" [ref=e335] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c70712
+                - generic [ref=e336] [cursor=pointer]:
+                  - generic [ref=e338] [cursor=pointer]:
+                    - generic [ref=e340] [cursor=pointer]: "13."
+                    - paragraph [ref=e342] [cursor=pointer]: Предприятие в экономике. Издержки, выручка и прибыль. Как повысить эффективность производства
+                  - img [ref=e345] [cursor=pointer]
+              - link "14. Заработная плата и стимулирование труда. Занятость и безработица" [ref=e347] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c70705
+                - generic [ref=e348] [cursor=pointer]:
+                  - generic [ref=e350] [cursor=pointer]:
+                    - generic [ref=e352] [cursor=pointer]: "14."
+                    - paragraph [ref=e354] [cursor=pointer]: Заработная плата и стимулирование труда. Занятость и безработица
+                  - img [ref=e357] [cursor=pointer]
+              - link "15. Финансовый рынок и посредники (банки, страховые компании, кредитные союзы, участники фондового рынка). Услуги финансовых посредников" [ref=e359] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c70706
+                - generic [ref=e360] [cursor=pointer]:
+                  - generic [ref=e362] [cursor=pointer]:
+                    - generic [ref=e364] [cursor=pointer]: "15."
+                    - paragraph [ref=e366] [cursor=pointer]: Финансовый рынок и посредники (банки, страховые компании, кредитные союзы, участники фондового рынка). Услуги финансовых посредников
+                  - img [ref=e369] [cursor=pointer]
+              - 'link "16. Основные типы финансовых инструментов: акции и облигации" [ref=e371] [cursor=pointer]':
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c70707
+                - generic [ref=e372] [cursor=pointer]:
+                  - generic [ref=e374] [cursor=pointer]:
+                    - generic [ref=e376] [cursor=pointer]: "16."
+                    - paragraph [ref=e378] [cursor=pointer]: "Основные типы финансовых инструментов: акции и облигации"
+                  - img [ref=e381] [cursor=pointer]
+              - link "17. Банковские услуги, предоставляемые гражданам (депозит, кредит, платёжная карта, денежные переводы, обмен валюты)" [ref=e383] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c70708
+                - generic [ref=e384] [cursor=pointer]:
+                  - generic [ref=e386] [cursor=pointer]:
+                    - generic [ref=e388] [cursor=pointer]: "17."
+                    - paragraph [ref=e390] [cursor=pointer]: Банковские услуги, предоставляемые гражданам (депозит, кредит, платёжная карта, денежные переводы, обмен валюты)
+                  - img [ref=e393] [cursor=pointer]
+              - link "19. Экономические функции домохозяйств" [ref=e395] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c70709
+                - generic [ref=e396] [cursor=pointer]:
+                  - generic [ref=e398] [cursor=pointer]:
+                    - generic [ref=e400] [cursor=pointer]: "19."
+                    - paragraph [ref=e402] [cursor=pointer]: Экономические функции домохозяйств
+                  - img [ref=e405] [cursor=pointer]
+              - link "20. Потребление домашних хозяйств. Потребительские товары и товары длительного пользования" [ref=e407] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c7070a
+                - generic [ref=e408] [cursor=pointer]:
+                  - generic [ref=e410] [cursor=pointer]:
+                    - generic [ref=e412] [cursor=pointer]: "20."
+                    - paragraph [ref=e414] [cursor=pointer]: Потребление домашних хозяйств. Потребительские товары и товары длительного пользования
+                  - img [ref=e417] [cursor=pointer]
+              - link "21. Источники доходов и расходов семьи. Семейный бюджет. Личный финансовый план. Способы и формы сбережений" [active] [ref=e419] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c7070b
+                - generic [ref=e420] [cursor=pointer]:
+                  - generic [ref=e422] [cursor=pointer]:
+                    - generic [ref=e424] [cursor=pointer]: "21."
+                    - paragraph [ref=e426] [cursor=pointer]: Источники доходов и расходов семьи. Семейный бюджет. Личный финансовый план. Способы и формы сбережений
+                  - img [ref=e429] [cursor=pointer]
+              - link "22. Экономические цели и функции государства" [ref=e431] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c7070d
+                - generic [ref=e432] [cursor=pointer]:
+                  - generic [ref=e434] [cursor=pointer]:
+                    - generic [ref=e436] [cursor=pointer]: "22."
+                    - paragraph [ref=e438] [cursor=pointer]: Экономические цели и функции государства
+                  - img [ref=e441] [cursor=pointer]
+              - link "23. Налоги. Доходы и расходы государства. Государственный бюджет. Государственная бюджетная и денежно-кредитная политика Российской Федерации" [ref=e443] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c7070e
+                - generic [ref=e444] [cursor=pointer]:
+                  - generic [ref=e446] [cursor=pointer]:
+                    - generic [ref=e448] [cursor=pointer]: "23."
+                    - paragraph [ref=e450] [cursor=pointer]: Налоги. Доходы и расходы государства. Государственный бюджет. Государственная бюджетная и денежно-кредитная политика Российской Федерации
+                  - img [ref=e453] [cursor=pointer]
+              - link "24. Государственная политика по развитию конкуренции" [ref=e455] [cursor=pointer]:
+                - /url: /learn/69a9e057a2db7b0007c74705/69a9df3fa2db7b0007c6f7ef/68ab5e5fd608c0000717dff0/69a9df7aa2db7b0007c7070f
+                - generic [ref=e456] [cursor=pointer]:
+                  - generic [ref=e458] [cursor=pointer]:
+                    - generic [ref=e460] [cursor=pointer]: "24."
+                    - paragraph [ref=e462] [cursor=pointer]: Государственная политика по развитию конкуренции
+                  - img [ref=e465] [cursor=pointer]
+    - generic [ref=e468]:
+      - generic [ref=e469]:
+        - generic [ref=e470]:
+          - generic [ref=e474]:
+            - img [ref=e476]
+            - link "8 (800) 600-44-02" [ref=e478] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e479]:
+            - generic [ref=e480]: "@"
+            - link "support@ismart.org" [ref=e481] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e482]:
+            - img [ref=e484]
+            - generic [ref=e486]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e487]:
+          - link "Наш сайт" [ref=e490] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e492] [cursor=pointer]
+          - generic [ref=e494]:
+            - link "Лицензия" [ref=e496] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика обработки персональных данных" [ref=e498] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e500] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e502] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e504] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e506]:
+        - generic [ref=e507]:
+          - link [ref=e508] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e512] [cursor=pointer]
+          - generic [ref=e515]:
+            - link "okIcon" [ref=e516] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e517] [cursor=pointer]
+            - link "dzenIcon" [ref=e518] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e519] [cursor=pointer]
+            - link "vkIcon" [ref=e520] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e521] [cursor=pointer]
+        - generic [ref=e523]:
+          - generic [ref=e525]:
+            - generic [ref=e526]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e527] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e528]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e529] [cursor=pointer]:
+                - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e530]:
+            - generic [ref=e531]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e532] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e533]: © iSmart, 2018-2026
+```

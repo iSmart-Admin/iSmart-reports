@@ -1,0 +1,433 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - img [ref=e7]
+    - generic [ref=e9]:
+      - generic [ref=e10]: Только до 15 октября
+      - heading "2 месяца занятий по математике в подарок" [level=2] [ref=e11]:
+        - strong [ref=e12]: 2 месяца
+        - text: занятий по математике
+        - strong [ref=e13]: в подарок
+      - generic [ref=e14]: Онлайн-занятия с преподавателем, который поможет ребёнку разобраться в сложных темах
+      - link "Оставить заявку и получить подарок" [ref=e15] [cursor=pointer]:
+        - /url: https://school.ismart.org/math-group/2-months-free?utm_source=ismart_site&utm_medium=mindbox&utm_campaign=math_group_2_months_free&utm_content=main_site__popup
+    - button "Закрыть поп-ап" [ref=e16] [cursor=pointer]: ×
+  - generic [ref=e22]:
+    - generic [ref=e27]:
+      - generic [ref=e30]:
+        - link "Каталог заданий" [ref=e32] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e35] [cursor=pointer]: Каталог заданий
+        - link "Рейтинг" [ref=e38] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e41] [cursor=pointer]: Рейтинг
+        - link "Диагностика" [ref=e44] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e47] [cursor=pointer]: Диагностика
+        - link "Магазин" [ref=e50] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e53] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e56] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e59] [cursor=pointer]: Помощник
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - button [ref=e64] [cursor=pointer]:
+            - img [ref=e66] [cursor=pointer]
+          - img [ref=e71] [cursor=pointer]
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e76] [cursor=pointer]: "?"
+          - generic [ref=e77] [cursor=pointer]:
+            - paragraph
+            - paragraph [ref=e78] [cursor=pointer]: Гость
+          - img [ref=e80] [cursor=pointer]
+    - generic [ref=e84]:
+      - generic [ref=e86]:
+        - button [ref=e87] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+        - generic [ref=e93]: Развитие речи (1-4 классы)
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - heading "Купить со скидкой" [level=1] [ref=e99]
+          - heading "-70%" [level=1] [ref=e100]
+        - button "В магазин" [ref=e102] [cursor=pointer]:
+          - text: В магазин
+          - img [ref=e105] [cursor=pointer]
+      - generic [ref=e107]:
+        - generic [ref=e112]:
+          - button "1" [ref=e113] [cursor=pointer]:
+            - img [ref=e117] [cursor=pointer]
+            - text: "1"
+          - button "2" [ref=e119] [cursor=pointer]:
+            - img [ref=e123] [cursor=pointer]
+            - text: "2"
+          - button "3" [ref=e125] [cursor=pointer]:
+            - img [ref=e129] [cursor=pointer]
+            - text: "3"
+          - button "4" [ref=e131]:
+            - img [ref=e135]
+            - text: "4"
+        - generic [ref=e139]:
+          - generic [ref=e143]:
+            - img [ref=e146]
+            - textbox "Поиск по подтемам" [ref=e149]
+          - generic [ref=e150]:
+            - generic [ref=e151]:
+              - generic [ref=e152] [cursor=pointer]:
+                - generic [ref=e154] [cursor=pointer]: Темы
+                - button [ref=e156] [cursor=pointer]:
+                  - img [ref=e158] [cursor=pointer]
+              - generic [ref=e161] [cursor=pointer]:
+                - generic [ref=e164] [cursor=pointer]: Развитие речи
+                - img [ref=e166] [cursor=pointer]
+            - generic [ref=e172]:
+              - link "1. Что такое текст?" [ref=e173] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c62de2a1b2b0007df4183
+                - generic [ref=e174] [cursor=pointer]:
+                  - generic [ref=e176] [cursor=pointer]:
+                    - generic [ref=e178] [cursor=pointer]: "1."
+                    - paragraph [ref=e180] [cursor=pointer]: Что такое текст?
+                  - img [ref=e183] [cursor=pointer]
+              - link "2. Как связаны предложения в тексте?" [ref=e185] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c63052a1b2b0007df5aba
+                - generic [ref=e186] [cursor=pointer]:
+                  - generic [ref=e188] [cursor=pointer]:
+                    - generic [ref=e190] [cursor=pointer]: "2."
+                    - paragraph [ref=e192] [cursor=pointer]: Как связаны предложения в тексте?
+                  - img [ref=e195] [cursor=pointer]
+              - link "3. Как определить основную мысль текста?" [ref=e197] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c63152a1b2b0007df64e4
+                - generic [ref=e198] [cursor=pointer]:
+                  - generic [ref=e200] [cursor=pointer]:
+                    - generic [ref=e202] [cursor=pointer]: "3."
+                    - paragraph [ref=e204] [cursor=pointer]: Как определить основную мысль текста?
+                  - img [ref=e207] [cursor=pointer]
+              - link "4. Как определить тему и основную мысль текста?" [ref=e209] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c63232a1b2b0007df6e67
+                - generic [ref=e210] [cursor=pointer]:
+                  - generic [ref=e212] [cursor=pointer]:
+                    - generic [ref=e214] [cursor=pointer]: "4."
+                    - paragraph [ref=e216] [cursor=pointer]: Как определить тему и основную мысль текста?
+                  - img [ref=e219] [cursor=pointer]
+              - link "5. Как подобрать заголовок к тексту?" [ref=e221] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c63332a1b2b0007df775b
+                - generic [ref=e222] [cursor=pointer]:
+                  - generic [ref=e224] [cursor=pointer]:
+                    - generic [ref=e226] [cursor=pointer]: "5."
+                    - paragraph [ref=e228] [cursor=pointer]: Как подобрать заголовок к тексту?
+                  - img [ref=e231] [cursor=pointer]
+              - link "6. Как составить текст по заглавию?" [ref=e233] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c63452a1b2b0007df82b7
+                - generic [ref=e234] [cursor=pointer]:
+                  - generic [ref=e236] [cursor=pointer]:
+                    - generic [ref=e238] [cursor=pointer]: "6."
+                    - paragraph [ref=e240] [cursor=pointer]: Как составить текст по заглавию?
+                  - img [ref=e243] [cursor=pointer]
+              - link "7. Как разделить текст на части?" [ref=e245] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c63722a1b2b0007df9f74
+                - generic [ref=e246] [cursor=pointer]:
+                  - generic [ref=e248] [cursor=pointer]:
+                    - generic [ref=e250] [cursor=pointer]: "7."
+                    - paragraph [ref=e252] [cursor=pointer]: Как разделить текст на части?
+                  - img [ref=e255] [cursor=pointer]
+              - link "8. Как составить текст по заданным абзацам?" [ref=e257] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c63872a1b2b0007dfaec4
+                - generic [ref=e258] [cursor=pointer]:
+                  - generic [ref=e260] [cursor=pointer]:
+                    - generic [ref=e262] [cursor=pointer]: "8."
+                    - paragraph [ref=e264] [cursor=pointer]: Как составить текст по заданным абзацам?
+                  - img [ref=e267] [cursor=pointer]
+              - link "9. Как составить план текста?" [ref=e269] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c63b22a1b2b0007dfdd25
+                - generic [ref=e270] [cursor=pointer]:
+                  - generic [ref=e272] [cursor=pointer]:
+                    - generic [ref=e274] [cursor=pointer]: "9."
+                    - paragraph [ref=e276] [cursor=pointer]: Как составить план текста?
+                  - img [ref=e279] [cursor=pointer]
+              - link "10. Как составить текст по плану?" [active] [ref=e281] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c63c82a1b2b0007dff14e
+                - generic [ref=e282] [cursor=pointer]:
+                  - generic [ref=e284] [cursor=pointer]:
+                    - generic [ref=e286] [cursor=pointer]: "10."
+                    - paragraph [ref=e288] [cursor=pointer]: Как составить текст по плану?
+                  - img [ref=e291] [cursor=pointer]
+              - link "11. Какие бывают тексты?" [ref=e293] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c63d62a1b2b0007dffdb8
+                - generic [ref=e294] [cursor=pointer]:
+                  - generic [ref=e296] [cursor=pointer]:
+                    - generic [ref=e298] [cursor=pointer]: "11."
+                    - paragraph [ref=e300] [cursor=pointer]: Какие бывают тексты?
+                  - img [ref=e303] [cursor=pointer]
+              - link "12. Как составить рассказ по серии сюжетных рисунков, вопросам и опорным словам?" [ref=e305] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c63e62a1b2b0007e00b5e
+                - generic [ref=e306] [cursor=pointer]:
+                  - generic [ref=e308] [cursor=pointer]:
+                    - generic [ref=e310] [cursor=pointer]: "12."
+                    - paragraph [ref=e312] [cursor=pointer]: Как составить рассказ по серии сюжетных рисунков, вопросам и опорным словам?
+                  - img [ref=e315] [cursor=pointer]
+              - link "13. Как составить рассказ по репродукции картины и опорным словам?" [ref=e317] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c65d62a1b2b0007e10c95
+                - generic [ref=e318] [cursor=pointer]:
+                  - generic [ref=e320] [cursor=pointer]:
+                    - generic [ref=e322] [cursor=pointer]: "13."
+                    - paragraph [ref=e324] [cursor=pointer]: Как составить рассказ по репродукции картины и опорным словам?
+                  - img [ref=e327] [cursor=pointer]
+              - link "14. Как найти в тексте ответы на вопросы?" [ref=e329] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c65ed2a1b2b0007e115e6
+                - generic [ref=e330] [cursor=pointer]:
+                  - generic [ref=e332] [cursor=pointer]:
+                    - generic [ref=e334] [cursor=pointer]: "14."
+                    - paragraph [ref=e336] [cursor=pointer]: Как найти в тексте ответы на вопросы?
+                  - img [ref=e339] [cursor=pointer]
+              - link "15. Как составить текст по вопросам и опорным словам?" [ref=e341] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c65fc2a1b2b0007e11be7
+                - generic [ref=e342] [cursor=pointer]:
+                  - generic [ref=e344] [cursor=pointer]:
+                    - generic [ref=e346] [cursor=pointer]: "15."
+                    - paragraph [ref=e348] [cursor=pointer]: Как составить текст по вопросам и опорным словам?
+                  - img [ref=e351] [cursor=pointer]
+              - link "16. Как избавить текст от повтора слов?" [ref=e353] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c66102a1b2b0007e122c2
+                - generic [ref=e354] [cursor=pointer]:
+                  - generic [ref=e356] [cursor=pointer]:
+                    - generic [ref=e358] [cursor=pointer]: "16."
+                    - paragraph [ref=e360] [cursor=pointer]: Как избавить текст от повтора слов?
+                  - img [ref=e363] [cursor=pointer]
+              - link "17. Как изменить лицо повествователя в тексте?" [ref=e365] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c66202a1b2b0007e128ba
+                - generic [ref=e366] [cursor=pointer]:
+                  - generic [ref=e368] [cursor=pointer]:
+                    - generic [ref=e370] [cursor=pointer]: "17."
+                    - paragraph [ref=e372] [cursor=pointer]: Как изменить лицо повествователя в тексте?
+                  - img [ref=e375] [cursor=pointer]
+              - link "18. Как написать поздравительную открытку?" [ref=e377] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c66342a1b2b0007e13051
+                - generic [ref=e378] [cursor=pointer]:
+                  - generic [ref=e380] [cursor=pointer]:
+                    - generic [ref=e382] [cursor=pointer]: "18."
+                    - paragraph [ref=e384] [cursor=pointer]: Как написать поздравительную открытку?
+                  - img [ref=e387] [cursor=pointer]
+              - link "19. Сколько значений у слова?" [ref=e389] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c66442a1b2b0007e13694
+                - generic [ref=e390] [cursor=pointer]:
+                  - generic [ref=e392] [cursor=pointer]:
+                    - generic [ref=e394] [cursor=pointer]: "19."
+                    - paragraph [ref=e396] [cursor=pointer]: Сколько значений у слова?
+                  - img [ref=e399] [cursor=pointer]
+              - link "20. Какие бывают значения у слов?" [ref=e401] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c66572a1b2b0007e14260
+                - generic [ref=e402] [cursor=pointer]:
+                  - generic [ref=e404] [cursor=pointer]:
+                    - generic [ref=e406] [cursor=pointer]: "20."
+                    - paragraph [ref=e408] [cursor=pointer]: Какие бывают значения у слов?
+                  - img [ref=e411] [cursor=pointer]
+              - link "21. Что такое синонимы?" [ref=e413] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c66622a1b2b0007e14640
+                - generic [ref=e414] [cursor=pointer]:
+                  - generic [ref=e416] [cursor=pointer]:
+                    - generic [ref=e418] [cursor=pointer]: "21."
+                    - paragraph [ref=e420] [cursor=pointer]: Что такое синонимы?
+                  - img [ref=e423] [cursor=pointer]
+              - link "22. Что такое антонимы?" [ref=e425] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c666f2a1b2b0007e14c1f
+                - generic [ref=e426] [cursor=pointer]:
+                  - generic [ref=e428] [cursor=pointer]:
+                    - generic [ref=e430] [cursor=pointer]: "22."
+                    - paragraph [ref=e432] [cursor=pointer]: Что такое антонимы?
+                  - img [ref=e435] [cursor=pointer]
+              - link "23. Что такое омонимы?" [ref=e437] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c667e2a1b2b0007e1522f
+                - generic [ref=e438] [cursor=pointer]:
+                  - generic [ref=e440] [cursor=pointer]:
+                    - generic [ref=e442] [cursor=pointer]: "23."
+                    - paragraph [ref=e444] [cursor=pointer]: Что такое омонимы?
+                  - img [ref=e447] [cursor=pointer]
+              - link "24. Что такое фразеологизмы?" [ref=e449] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c668a2a1b2b0007e15664
+                - generic [ref=e450] [cursor=pointer]:
+                  - generic [ref=e452] [cursor=pointer]:
+                    - generic [ref=e454] [cursor=pointer]: "24."
+                    - paragraph [ref=e456] [cursor=pointer]: Что такое фразеологизмы?
+                  - img [ref=e459] [cursor=pointer]
+              - link "25. Какие слова называют устаревшими?" [ref=e461] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/697c669c2a1b2b0007e15de9
+                - generic [ref=e462] [cursor=pointer]:
+                  - generic [ref=e464] [cursor=pointer]:
+                    - generic [ref=e466] [cursor=pointer]: "25."
+                    - paragraph [ref=e468] [cursor=pointer]: Какие слова называют устаревшими?
+                  - img [ref=e471] [cursor=pointer]
+              - link "26. Какие бывают виды речи?" [ref=e473] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d006a2db7b0007c1966f
+                - generic [ref=e474] [cursor=pointer]:
+                  - generic [ref=e476] [cursor=pointer]:
+                    - generic [ref=e478] [cursor=pointer]: "26."
+                    - paragraph [ref=e480] [cursor=pointer]: Какие бывают виды речи?
+                  - img [ref=e483] [cursor=pointer]
+              - link "27. Может ли быть речь без слов?" [ref=e485] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d028a2db7b0007c1a285
+                - generic [ref=e486] [cursor=pointer]:
+                  - generic [ref=e488] [cursor=pointer]:
+                    - generic [ref=e490] [cursor=pointer]: "27."
+                    - paragraph [ref=e492] [cursor=pointer]: Может ли быть речь без слов?
+                  - img [ref=e495] [cursor=pointer]
+              - link "28. Какие слова помогают нам общаться?" [ref=e497] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d0c3a2db7b0007c1d51d
+                - generic [ref=e498] [cursor=pointer]:
+                  - generic [ref=e500] [cursor=pointer]:
+                    - generic [ref=e502] [cursor=pointer]: "28."
+                    - paragraph [ref=e504] [cursor=pointer]: Какие слова помогают нам общаться?
+                  - img [ref=e507] [cursor=pointer]
+              - link "29. Что такое диалог и монолог?" [ref=e509] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d101a2db7b0007c1e88d
+                - generic [ref=e510] [cursor=pointer]:
+                  - generic [ref=e512] [cursor=pointer]:
+                    - generic [ref=e514] [cursor=pointer]: "29."
+                    - paragraph [ref=e516] [cursor=pointer]: Что такое диалог и монолог?
+                  - img [ref=e519] [cursor=pointer]
+              - link "30. Как оформить диалог?" [ref=e521] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d140a2db7b0007c1fa03
+                - generic [ref=e522] [cursor=pointer]:
+                  - generic [ref=e524] [cursor=pointer]:
+                    - generic [ref=e526] [cursor=pointer]: "30."
+                    - paragraph [ref=e528] [cursor=pointer]: Как оформить диалог?
+                  - img [ref=e531] [cursor=pointer]
+              - link "31. Как отличить текст от предложения?" [ref=e533] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d1bda2db7b0007c21719
+                - generic [ref=e534] [cursor=pointer]:
+                  - generic [ref=e536] [cursor=pointer]:
+                    - generic [ref=e538] [cursor=pointer]: "31."
+                    - paragraph [ref=e540] [cursor=pointer]: Как отличить текст от предложения?
+                  - img [ref=e543] [cursor=pointer]
+              - link "32. Что такое абзац?" [ref=e545] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d1f9a2db7b0007c227bd
+                - generic [ref=e546] [cursor=pointer]:
+                  - generic [ref=e548] [cursor=pointer]:
+                    - generic [ref=e550] [cursor=pointer]: "32."
+                    - paragraph [ref=e552] [cursor=pointer]: Что такое абзац?
+                  - img [ref=e555] [cursor=pointer]
+              - link "33. Как составить план текста? (ч. 2)" [ref=e557] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d25ca2db7b0007c24371
+                - generic [ref=e558] [cursor=pointer]:
+                  - generic [ref=e560] [cursor=pointer]:
+                    - generic [ref=e562] [cursor=pointer]: "33."
+                    - paragraph [ref=e564] [cursor=pointer]: Как составить план текста? (ч. 2)
+                  - img [ref=e567] [cursor=pointer]
+              - link "34. Как определить начало текста?" [ref=e569] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d2a2a2db7b0007c25274
+                - generic [ref=e570] [cursor=pointer]:
+                  - generic [ref=e572] [cursor=pointer]:
+                    - generic [ref=e574] [cursor=pointer]: "34."
+                    - paragraph [ref=e576] [cursor=pointer]: Как определить начало текста?
+                  - img [ref=e579] [cursor=pointer]
+              - link "35. Как подобрать окончание к тексту?" [ref=e581] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d2f0a2db7b0007c26561
+                - generic [ref=e582] [cursor=pointer]:
+                  - generic [ref=e584] [cursor=pointer]:
+                    - generic [ref=e586] [cursor=pointer]: "35."
+                    - paragraph [ref=e588] [cursor=pointer]: Как подобрать окончание к тексту?
+                  - img [ref=e591] [cursor=pointer]
+              - link "36. Как составить текст-повествование?" [ref=e593] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d396a2db7b0007c296d6
+                - generic [ref=e594] [cursor=pointer]:
+                  - generic [ref=e596] [cursor=pointer]:
+                    - generic [ref=e598] [cursor=pointer]: "36."
+                    - paragraph [ref=e600] [cursor=pointer]: Как составить текст-повествование?
+                  - img [ref=e603] [cursor=pointer]
+              - link "37. Как составить текст-рассуждение?" [ref=e605] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d3d8a2db7b0007c2a9d6
+                - generic [ref=e606] [cursor=pointer]:
+                  - generic [ref=e608] [cursor=pointer]:
+                    - generic [ref=e610] [cursor=pointer]: "37."
+                    - paragraph [ref=e612] [cursor=pointer]: Как составить текст-рассуждение?
+                  - img [ref=e615] [cursor=pointer]
+              - link "38. Как составить текст-описание?" [ref=e617] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d418a2db7b0007c2b8bc
+                - generic [ref=e618] [cursor=pointer]:
+                  - generic [ref=e620] [cursor=pointer]:
+                    - generic [ref=e622] [cursor=pointer]: "38."
+                    - paragraph [ref=e624] [cursor=pointer]: Как составить текст-описание?
+                  - img [ref=e627] [cursor=pointer]
+              - link "39. Как составить рассказ по личным наблюдениям и вопросам?" [ref=e629] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d464a2db7b0007c2ce65
+                - generic [ref=e630] [cursor=pointer]:
+                  - generic [ref=e632] [cursor=pointer]:
+                    - generic [ref=e634] [cursor=pointer]: "39."
+                    - paragraph [ref=e636] [cursor=pointer]: Как составить рассказ по личным наблюдениям и вопросам?
+                  - img [ref=e639] [cursor=pointer]
+              - link "40. Как написать письмо?" [ref=e641] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d565a2db7b0007c36ebf
+                - generic [ref=e642] [cursor=pointer]:
+                  - generic [ref=e644] [cursor=pointer]:
+                    - generic [ref=e646] [cursor=pointer]: "40."
+                    - paragraph [ref=e648] [cursor=pointer]: Как написать письмо?
+                  - img [ref=e651] [cursor=pointer]
+              - link "41. Как различить слово и словосочетание?" [ref=e653] [cursor=pointer]:
+                - /url: /learn/698459476d3b1a00083ce5c2/5a33b10acefdee00198efa13/5a3cef308409440019b57b39/69a9d677a2db7b0007c3c1b6
+                - generic [ref=e654] [cursor=pointer]:
+                  - generic [ref=e656] [cursor=pointer]:
+                    - generic [ref=e658] [cursor=pointer]: "41."
+                    - paragraph [ref=e660] [cursor=pointer]: Как различить слово и словосочетание?
+                  - img [ref=e663] [cursor=pointer]
+    - generic [ref=e666]:
+      - generic [ref=e667]:
+        - generic [ref=e668]:
+          - generic [ref=e672]:
+            - img [ref=e674]
+            - link "8 (800) 600-44-02" [ref=e676] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e677]:
+            - generic [ref=e678]: "@"
+            - link "support@ismart.org" [ref=e679] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e680]:
+            - img [ref=e682]
+            - generic [ref=e684]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e685]:
+          - link "Наш сайт" [ref=e688] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e690] [cursor=pointer]
+          - generic [ref=e692]:
+            - link "Лицензия" [ref=e694] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика обработки персональных данных" [ref=e696] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e698] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e700] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e702] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e704]:
+        - generic [ref=e705]:
+          - link [ref=e706] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e710] [cursor=pointer]
+          - generic [ref=e713]:
+            - link "okIcon" [ref=e714] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e715] [cursor=pointer]
+            - link "dzenIcon" [ref=e716] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e717] [cursor=pointer]
+            - link "vkIcon" [ref=e718] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e719] [cursor=pointer]
+        - generic [ref=e721]:
+          - generic [ref=e723]:
+            - generic [ref=e724]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e725] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e726]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e727] [cursor=pointer]:
+                - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e728]:
+            - generic [ref=e729]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e730] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e731]: © iSmart, 2018-2026
+```

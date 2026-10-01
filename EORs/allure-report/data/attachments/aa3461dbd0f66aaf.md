@@ -1,0 +1,430 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - img [ref=e7]
+    - generic [ref=e9]:
+      - generic [ref=e10]: Только до 15 октября
+      - heading "2 месяца занятий по математике в подарок" [level=2] [ref=e11]:
+        - strong [ref=e12]: 2 месяца
+        - text: занятий по математике
+        - strong [ref=e13]: в подарок
+      - generic [ref=e14]: Онлайн-занятия с преподавателем, который поможет ребёнку разобраться в сложных темах
+      - link "Оставить заявку и получить подарок" [ref=e15] [cursor=pointer]:
+        - /url: https://school.ismart.org/math-group/2-months-free?utm_source=ismart_site&utm_medium=mindbox&utm_campaign=math_group_2_months_free&utm_content=main_site__popup
+    - button "Закрыть поп-ап" [ref=e16] [cursor=pointer]: ×
+  - generic [ref=e22]:
+    - generic [ref=e27]:
+      - generic [ref=e30]:
+        - link "Каталог заданий" [ref=e32] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e35] [cursor=pointer]: Каталог заданий
+        - link "Рейтинг" [ref=e38] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e41] [cursor=pointer]: Рейтинг
+        - link "Диагностика" [ref=e44] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e47] [cursor=pointer]: Диагностика
+        - link "Магазин" [ref=e50] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e53] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e56] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e59] [cursor=pointer]: Помощник
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - button [ref=e64] [cursor=pointer]:
+            - img [ref=e66] [cursor=pointer]
+          - img [ref=e71] [cursor=pointer]
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e76] [cursor=pointer]: "?"
+          - generic [ref=e77] [cursor=pointer]:
+            - paragraph
+            - paragraph [ref=e78] [cursor=pointer]: Гость
+          - img [ref=e80] [cursor=pointer]
+    - generic [ref=e84]:
+      - generic [ref=e86]:
+        - button [ref=e87] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+        - generic [ref=e93]: Русский язык. 5.1
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - heading "Купить со скидкой" [level=1] [ref=e99]
+          - heading "-70%" [level=1] [ref=e100]
+        - button "В магазин" [ref=e102] [cursor=pointer]:
+          - text: В магазин
+          - img [ref=e105] [cursor=pointer]
+      - generic [ref=e107]:
+        - generic [ref=e111]:
+          - button "1" [ref=e112] [cursor=pointer]:
+            - img [ref=e116] [cursor=pointer]
+            - text: "1"
+          - button "2" [ref=e118] [cursor=pointer]:
+            - img [ref=e122] [cursor=pointer]
+            - text: "2"
+          - button "3" [ref=e124] [cursor=pointer]:
+            - img [ref=e128] [cursor=pointer]
+            - text: "3"
+          - button "4" [ref=e130] [cursor=pointer]:
+            - img [ref=e134] [cursor=pointer]
+            - text: "4"
+          - button "5" [ref=e136] [cursor=pointer]:
+            - img [ref=e140] [cursor=pointer]
+            - text: "5"
+          - button "6" [ref=e142] [cursor=pointer]:
+            - img [ref=e146] [cursor=pointer]
+            - text: "6"
+          - button "7" [ref=e148] [cursor=pointer]:
+            - img [ref=e152] [cursor=pointer]
+            - text: "7"
+          - button "8" [ref=e154] [cursor=pointer]:
+            - img [ref=e158] [cursor=pointer]
+            - text: "8"
+          - button "9" [ref=e160]:
+            - img [ref=e164]
+            - text: "9"
+          - button "10" [ref=e166] [cursor=pointer]:
+            - img [ref=e170] [cursor=pointer]
+            - text: "10"
+          - button "11" [ref=e172] [cursor=pointer]:
+            - img [ref=e176] [cursor=pointer]
+            - text: "11"
+        - generic [ref=e180]:
+          - generic [ref=e184]:
+            - img [ref=e187]
+            - textbox "Поиск по подтемам" [ref=e190]
+          - generic [ref=e191]:
+            - generic [ref=e192]:
+              - generic [ref=e193] [cursor=pointer]:
+                - generic [ref=e195] [cursor=pointer]: Темы
+                - button [ref=e197] [cursor=pointer]:
+                  - img [ref=e199] [cursor=pointer]
+              - generic [ref=e201] [cursor=pointer]:
+                - generic [ref=e204] [cursor=pointer]: Фонетика. Графика. Орфоэпия
+                - img [ref=e206] [cursor=pointer]
+              - generic [ref=e208] [cursor=pointer]:
+                - generic [ref=e211] [cursor=pointer]: Орфография
+                - img [ref=e213] [cursor=pointer]
+              - generic [ref=e215] [cursor=pointer]:
+                - generic [ref=e218] [cursor=pointer]: Синтаксис. Словосочетание
+                - img [ref=e220] [cursor=pointer]
+              - generic [ref=e223] [cursor=pointer]:
+                - generic [ref=e226] [cursor=pointer]: Синтаксис. Предложение
+                - img [ref=e228] [cursor=pointer]
+              - generic [ref=e230] [cursor=pointer]:
+                - generic [ref=e233] [cursor=pointer]: Язык и речь. Текст
+                - img [ref=e235] [cursor=pointer]
+              - generic [ref=e237] [cursor=pointer]:
+                - generic [ref=e240] [cursor=pointer]: Лексика и фразеология
+                - img [ref=e242] [cursor=pointer]
+              - generic [ref=e244] [cursor=pointer]:
+                - generic [ref=e247] [cursor=pointer]: Морфология и словообразование
+                - img [ref=e249] [cursor=pointer]
+            - generic [ref=e255]:
+              - link "1. Грамматическая основа предложения" [ref=e256] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc3a
+                - generic [ref=e257] [cursor=pointer]:
+                  - generic [ref=e259] [cursor=pointer]:
+                    - generic [ref=e261] [cursor=pointer]: "1."
+                    - paragraph [ref=e263] [cursor=pointer]: Грамматическая основа предложения
+                  - img [ref=e266] [cursor=pointer]
+              - link "2. Односоставные предложения. Виды односоставных предложений" [ref=e268] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc3b
+                - generic [ref=e269] [cursor=pointer]:
+                  - generic [ref=e271] [cursor=pointer]:
+                    - generic [ref=e273] [cursor=pointer]: "2."
+                    - paragraph [ref=e275] [cursor=pointer]: Односоставные предложения. Виды односоставных предложений
+                  - img [ref=e278] [cursor=pointer]
+              - link "3. Грамматическая основа в односоставных определённо-личных предложениях" [ref=e280] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc3c
+                - generic [ref=e281] [cursor=pointer]:
+                  - generic [ref=e283] [cursor=pointer]:
+                    - generic [ref=e285] [cursor=pointer]: "3."
+                    - paragraph [ref=e287] [cursor=pointer]: Грамматическая основа в односоставных определённо-личных предложениях
+                  - img [ref=e290] [cursor=pointer]
+              - link "4. Грамматическая основа в односоставных неопределённо-личных предложениях" [ref=e292] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc3d
+                - generic [ref=e293] [cursor=pointer]:
+                  - generic [ref=e295] [cursor=pointer]:
+                    - generic [ref=e297] [cursor=pointer]: "4."
+                    - paragraph [ref=e299] [cursor=pointer]: Грамматическая основа в односоставных неопределённо-личных предложениях
+                  - img [ref=e302] [cursor=pointer]
+              - link "5. Грамматическая основа в односоставных безличных предложениях" [ref=e304] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc3e
+                - generic [ref=e305] [cursor=pointer]:
+                  - generic [ref=e307] [cursor=pointer]:
+                    - generic [ref=e309] [cursor=pointer]: "5."
+                    - paragraph [ref=e311] [cursor=pointer]: Грамматическая основа в односоставных безличных предложениях
+                  - img [ref=e314] [cursor=pointer]
+              - link "6. Грамматическая основа в односоставных назывных предложениях" [ref=e316] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc3f
+                - generic [ref=e317] [cursor=pointer]:
+                  - generic [ref=e319] [cursor=pointer]:
+                    - generic [ref=e321] [cursor=pointer]: "6."
+                    - paragraph [ref=e323] [cursor=pointer]: Грамматическая основа в односоставных назывных предложениях
+                  - img [ref=e326] [cursor=pointer]
+              - link "7. Грамматическая основа сложного предложения" [ref=e328] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc40
+                - generic [ref=e329] [cursor=pointer]:
+                  - generic [ref=e331] [cursor=pointer]:
+                    - generic [ref=e333] [cursor=pointer]: "7."
+                    - paragraph [ref=e335] [cursor=pointer]: Грамматическая основа сложного предложения
+                  - img [ref=e338] [cursor=pointer]
+              - link "8. Союзные и бессоюзные сложные предложения" [ref=e340] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc41
+                - generic [ref=e341] [cursor=pointer]:
+                  - generic [ref=e343] [cursor=pointer]:
+                    - generic [ref=e345] [cursor=pointer]: "8."
+                    - paragraph [ref=e347] [cursor=pointer]: Союзные и бессоюзные сложные предложения
+                  - img [ref=e350] [cursor=pointer]
+              - link "9. Сложносочинённые предложения" [ref=e352] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc42
+                - generic [ref=e353] [cursor=pointer]:
+                  - generic [ref=e355] [cursor=pointer]:
+                    - generic [ref=e357] [cursor=pointer]: "9."
+                    - paragraph [ref=e359] [cursor=pointer]: Сложносочинённые предложения
+                  - img [ref=e362] [cursor=pointer]
+              - link "10. Грамматическая основа сложносочинённого предложения" [ref=e364] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc43
+                - generic [ref=e365] [cursor=pointer]:
+                  - generic [ref=e367] [cursor=pointer]:
+                    - generic [ref=e369] [cursor=pointer]: "10."
+                    - paragraph [ref=e371] [cursor=pointer]: Грамматическая основа сложносочинённого предложения
+                  - img [ref=e374] [cursor=pointer]
+              - link "11. Сложноподчинённые предложения" [ref=e376] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc44
+                - generic [ref=e377] [cursor=pointer]:
+                  - generic [ref=e379] [cursor=pointer]:
+                    - generic [ref=e381] [cursor=pointer]: "11."
+                    - paragraph [ref=e383] [cursor=pointer]: Сложноподчинённые предложения
+                  - img [ref=e386] [cursor=pointer]
+              - link "12. Грамматическая основа сложноподчинённого предложения" [ref=e388] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc45
+                - generic [ref=e389] [cursor=pointer]:
+                  - generic [ref=e391] [cursor=pointer]:
+                    - generic [ref=e393] [cursor=pointer]: "12."
+                    - paragraph [ref=e395] [cursor=pointer]: Грамматическая основа сложноподчинённого предложения
+                  - img [ref=e398] [cursor=pointer]
+              - link "13. Сложноподчинённые предложения с придаточными определительными" [ref=e400] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc46
+                - generic [ref=e401] [cursor=pointer]:
+                  - generic [ref=e403] [cursor=pointer]:
+                    - generic [ref=e405] [cursor=pointer]: "13."
+                    - paragraph [ref=e407] [cursor=pointer]: Сложноподчинённые предложения с придаточными определительными
+                  - img [ref=e410] [cursor=pointer]
+              - link "14. Сложноподчинённые предложения с придаточными изъяснительными" [ref=e412] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc47
+                - generic [ref=e413] [cursor=pointer]:
+                  - generic [ref=e415] [cursor=pointer]:
+                    - generic [ref=e417] [cursor=pointer]: "14."
+                    - paragraph [ref=e419] [cursor=pointer]: Сложноподчинённые предложения с придаточными изъяснительными
+                  - img [ref=e422] [cursor=pointer]
+              - link "15. Сложноподчинённые предложения с придаточными обстоятельственными" [ref=e424] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc48
+                - generic [ref=e425] [cursor=pointer]:
+                  - generic [ref=e427] [cursor=pointer]:
+                    - generic [ref=e429] [cursor=pointer]: "15."
+                    - paragraph [ref=e431] [cursor=pointer]: Сложноподчинённые предложения с придаточными обстоятельственными
+                  - img [ref=e434] [cursor=pointer]
+              - link "16. Сложноподчинённые предложения с несколькими придаточными" [ref=e436] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc49
+                - generic [ref=e437] [cursor=pointer]:
+                  - generic [ref=e439] [cursor=pointer]:
+                    - generic [ref=e441] [cursor=pointer]: "16."
+                    - paragraph [ref=e443] [cursor=pointer]: Сложноподчинённые предложения с несколькими придаточными
+                  - img [ref=e446] [cursor=pointer]
+              - link "17. Бессоюзное сложное предложение" [ref=e448] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc4a
+                - generic [ref=e449] [cursor=pointer]:
+                  - generic [ref=e451] [cursor=pointer]:
+                    - generic [ref=e453] [cursor=pointer]: "17."
+                    - paragraph [ref=e455] [cursor=pointer]: Бессоюзное сложное предложение
+                  - img [ref=e458] [cursor=pointer]
+              - link "18. Тире между подлежащим и сказуемым" [ref=e460] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc4b
+                - generic [ref=e461] [cursor=pointer]:
+                  - generic [ref=e463] [cursor=pointer]:
+                    - generic [ref=e465] [cursor=pointer]: "18."
+                    - paragraph [ref=e467] [cursor=pointer]: Тире между подлежащим и сказуемым
+                  - img [ref=e470] [cursor=pointer]
+              - link "19. Знаки препинания между частями сложносочинённого предложения" [ref=e472] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc4c
+                - generic [ref=e473] [cursor=pointer]:
+                  - generic [ref=e475] [cursor=pointer]:
+                    - generic [ref=e477] [cursor=pointer]: "19."
+                    - paragraph [ref=e479] [cursor=pointer]: Знаки препинания между частями сложносочинённого предложения
+                  - img [ref=e482] [cursor=pointer]
+              - link "20. Знаки препинания между частями сложноподчинённого предложения" [active] [ref=e484] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc4d
+                - generic [ref=e485] [cursor=pointer]:
+                  - generic [ref=e487] [cursor=pointer]:
+                    - generic [ref=e489] [cursor=pointer]: "20."
+                    - paragraph [ref=e491] [cursor=pointer]: Знаки препинания между частями сложноподчинённого предложения
+                  - img [ref=e494] [cursor=pointer]
+              - link "21. Знаки препинания в сложноподчинённых предложениях с несколькими придаточными" [ref=e496] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc4e
+                - generic [ref=e497] [cursor=pointer]:
+                  - generic [ref=e499] [cursor=pointer]:
+                    - generic [ref=e501] [cursor=pointer]: "21."
+                    - paragraph [ref=e503] [cursor=pointer]: Знаки препинания в сложноподчинённых предложениях с несколькими придаточными
+                  - img [ref=e506] [cursor=pointer]
+              - link "22. Запятая и точка с запятой в бессоюзном сложном предложении" [ref=e508] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc4f
+                - generic [ref=e509] [cursor=pointer]:
+                  - generic [ref=e511] [cursor=pointer]:
+                    - generic [ref=e513] [cursor=pointer]: "22."
+                    - paragraph [ref=e515] [cursor=pointer]: Запятая и точка с запятой в бессоюзном сложном предложении
+                  - img [ref=e518] [cursor=pointer]
+              - link "23. Двоеточие в бессоюзном сложном предложении" [ref=e520] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc50
+                - generic [ref=e521] [cursor=pointer]:
+                  - generic [ref=e523] [cursor=pointer]:
+                    - generic [ref=e525] [cursor=pointer]: "23."
+                    - paragraph [ref=e527] [cursor=pointer]: Двоеточие в бессоюзном сложном предложении
+                  - img [ref=e530] [cursor=pointer]
+              - link "24. Тире в бессоюзном сложном предложении" [ref=e532] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc51
+                - generic [ref=e533] [cursor=pointer]:
+                  - generic [ref=e535] [cursor=pointer]:
+                    - generic [ref=e537] [cursor=pointer]: "24."
+                    - paragraph [ref=e539] [cursor=pointer]: Тире в бессоюзном сложном предложении
+                  - img [ref=e542] [cursor=pointer]
+              - link "25. Знаки препинания в сложных предложениях с различными видами связи" [ref=e544] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc52
+                - generic [ref=e545] [cursor=pointer]:
+                  - generic [ref=e547] [cursor=pointer]:
+                    - generic [ref=e549] [cursor=pointer]: "25."
+                    - paragraph [ref=e551] [cursor=pointer]: Знаки препинания в сложных предложениях с различными видами связи
+                  - img [ref=e554] [cursor=pointer]
+              - link "26. Предложения с однородными членами" [ref=e556] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc53
+                - generic [ref=e557] [cursor=pointer]:
+                  - generic [ref=e559] [cursor=pointer]:
+                    - generic [ref=e561] [cursor=pointer]: "26."
+                    - paragraph [ref=e563] [cursor=pointer]: Предложения с однородными членами
+                  - img [ref=e566] [cursor=pointer]
+              - link "27. Знаки препинания в предложениях с однородными членами" [ref=e568] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc54
+                - generic [ref=e569] [cursor=pointer]:
+                  - generic [ref=e571] [cursor=pointer]:
+                    - generic [ref=e573] [cursor=pointer]: "27."
+                    - paragraph [ref=e575] [cursor=pointer]: Знаки препинания в предложениях с однородными членами
+                  - img [ref=e578] [cursor=pointer]
+              - link "28. Знаки препинания в предложениях с обобщающими словами" [ref=e580] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc55
+                - generic [ref=e581] [cursor=pointer]:
+                  - generic [ref=e583] [cursor=pointer]:
+                    - generic [ref=e585] [cursor=pointer]: "28."
+                    - paragraph [ref=e587] [cursor=pointer]: Знаки препинания в предложениях с обобщающими словами
+                  - img [ref=e590] [cursor=pointer]
+              - link "29. Знаки препинания в предложениях с обособленными определениями" [ref=e592] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc56
+                - generic [ref=e593] [cursor=pointer]:
+                  - generic [ref=e595] [cursor=pointer]:
+                    - generic [ref=e597] [cursor=pointer]: "29."
+                    - paragraph [ref=e599] [cursor=pointer]: Знаки препинания в предложениях с обособленными определениями
+                  - img [ref=e602] [cursor=pointer]
+              - link "30. Знаки препинания в предложениях с обособленными приложениями" [ref=e604] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc57
+                - generic [ref=e605] [cursor=pointer]:
+                  - generic [ref=e607] [cursor=pointer]:
+                    - generic [ref=e609] [cursor=pointer]: "30."
+                    - paragraph [ref=e611] [cursor=pointer]: Знаки препинания в предложениях с обособленными приложениями
+                  - img [ref=e614] [cursor=pointer]
+              - link "31. Знаки препинания в предложениях с обособленными обстоятельствами" [ref=e616] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc58
+                - generic [ref=e617] [cursor=pointer]:
+                  - generic [ref=e619] [cursor=pointer]:
+                    - generic [ref=e621] [cursor=pointer]: "31."
+                    - paragraph [ref=e623] [cursor=pointer]: Знаки препинания в предложениях с обособленными обстоятельствами
+                  - img [ref=e626] [cursor=pointer]
+              - link "32. Знаки препинания при сравнительных оборотах" [ref=e628] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc59
+                - generic [ref=e629] [cursor=pointer]:
+                  - generic [ref=e631] [cursor=pointer]:
+                    - generic [ref=e633] [cursor=pointer]: "32."
+                    - paragraph [ref=e635] [cursor=pointer]: Знаки препинания при сравнительных оборотах
+                  - img [ref=e638] [cursor=pointer]
+              - link "33. Знаки препинания при уточняющих и пояснительных членах предложения" [ref=e640] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc5a
+                - generic [ref=e641] [cursor=pointer]:
+                  - generic [ref=e643] [cursor=pointer]:
+                    - generic [ref=e645] [cursor=pointer]: "33."
+                    - paragraph [ref=e647] [cursor=pointer]: Знаки препинания при уточняющих и пояснительных членах предложения
+                  - img [ref=e650] [cursor=pointer]
+              - link "34. Знаки препинания в предложениях с обращениями" [ref=e652] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc5b
+                - generic [ref=e653] [cursor=pointer]:
+                  - generic [ref=e655] [cursor=pointer]:
+                    - generic [ref=e657] [cursor=pointer]: "34."
+                    - paragraph [ref=e659] [cursor=pointer]: Знаки препинания в предложениях с обращениями
+                  - img [ref=e662] [cursor=pointer]
+              - link "35. Знаки препинания в предложениях с вводными словами и словосочетаниями" [ref=e664] [cursor=pointer]:
+                - /url: /learn/68ab6114d608c00007184489/68ab5d1cd608c0000713122b/68ab5e71d608c0000717fbf8/68ab5e71d608c0000717fc5c
+                - generic [ref=e665] [cursor=pointer]:
+                  - generic [ref=e667] [cursor=pointer]:
+                    - generic [ref=e669] [cursor=pointer]: "35."
+                    - paragraph [ref=e671] [cursor=pointer]: Знаки препинания в предложениях с вводными словами и словосочетаниями
+                  - img [ref=e674] [cursor=pointer]
+    - generic [ref=e677]:
+      - generic [ref=e678]:
+        - generic [ref=e679]:
+          - generic [ref=e683]:
+            - img [ref=e685]
+            - link "8 (800) 600-44-02" [ref=e687] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e688]:
+            - generic [ref=e689]: "@"
+            - link "support@ismart.org" [ref=e690] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e691]:
+            - img [ref=e693]
+            - generic [ref=e695]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e696]:
+          - link "Наш сайт" [ref=e699] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e701] [cursor=pointer]
+          - generic [ref=e703]:
+            - link "Лицензия" [ref=e705] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика обработки персональных данных" [ref=e707] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e709] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e711] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e713] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e715]:
+        - generic [ref=e716]:
+          - link [ref=e717] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e721] [cursor=pointer]
+          - generic [ref=e724]:
+            - link "okIcon" [ref=e725] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e726] [cursor=pointer]
+            - link "dzenIcon" [ref=e727] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e728] [cursor=pointer]
+            - link "vkIcon" [ref=e729] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e730] [cursor=pointer]
+        - generic [ref=e732]:
+          - generic [ref=e734]:
+            - generic [ref=e735]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e736] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e737]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e738] [cursor=pointer]:
+                - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e739]:
+            - generic [ref=e740]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e741] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e742]: © iSmart, 2018-2026
+```
