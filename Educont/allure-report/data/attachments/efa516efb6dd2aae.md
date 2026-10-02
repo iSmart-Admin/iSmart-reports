@@ -1,0 +1,440 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - img [ref=e7]
+    - generic [ref=e9]:
+      - generic [ref=e10]: Только до 15 октября
+      - heading "2 месяца занятий по математике в подарок" [level=2] [ref=e11]:
+        - strong [ref=e12]: 2 месяца
+        - text: занятий по математике
+        - strong [ref=e13]: в подарок
+      - generic [ref=e14]: Онлайн-занятия с преподавателем, который поможет ребёнку разобраться в сложных темах
+      - link "Оставить заявку и получить подарок" [ref=e15] [cursor=pointer]:
+        - /url: https://school.ismart.org/math-group/2-months-free?utm_source=ismart_site&utm_medium=mindbox&utm_campaign=math_group_2_months_free&utm_content=main_site__popup
+    - button "Закрыть поп-ап" [ref=e16] [cursor=pointer]: ×
+  - generic [ref=e22]:
+    - generic [ref=e27]:
+      - generic [ref=e30]:
+        - link "Пользователи" [active] [ref=e32] [cursor=pointer]:
+          - /url: /admin/users
+          - generic [ref=e35] [cursor=pointer]: Пользователи
+        - link "ПС" [ref=e38] [cursor=pointer]:
+          - /url: /admin/paymentSystem
+          - generic [ref=e41] [cursor=pointer]: ПС
+        - link "Геймификация" [ref=e44] [cursor=pointer]:
+          - /url: /admin/game
+          - generic [ref=e47] [cursor=pointer]: Геймификация
+        - link "Черновики" [ref=e50] [cursor=pointer]:
+          - /url: /admin/userDraws
+          - generic [ref=e53] [cursor=pointer]: Черновики
+        - link "Каталог заданий" [ref=e56] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e59] [cursor=pointer]: Каталог заданий
+        - link "Диагностика" [ref=e62] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e65] [cursor=pointer]: Диагностика
+        - link "Задания" [ref=e68] [cursor=pointer]:
+          - /url: /design/tasks
+          - generic [ref=e71] [cursor=pointer]: Задания
+        - link "Уроки" [ref=e74] [cursor=pointer]:
+          - /url: /admin/lessons
+          - generic [ref=e77] [cursor=pointer]: Уроки
+        - link "Классы" [ref=e80] [cursor=pointer]:
+          - /url: /admin/classes
+          - generic [ref=e83] [cursor=pointer]: Классы
+        - link "Предметы" [ref=e86] [cursor=pointer]:
+          - /url: /admin/subjects
+          - generic [ref=e89] [cursor=pointer]: Предметы
+        - link "Темы" [ref=e92] [cursor=pointer]:
+          - /url: /admin/themes
+          - generic [ref=e95] [cursor=pointer]: Темы
+        - link "Подтемы" [ref=e98] [cursor=pointer]:
+          - /url: /admin/subthemes
+          - generic [ref=e101] [cursor=pointer]: Подтемы
+        - link "Файлы" [ref=e104] [cursor=pointer]:
+          - /url: /design/fs
+          - generic [ref=e107] [cursor=pointer]: Файлы
+        - link "Школы" [ref=e110] [cursor=pointer]:
+          - /url: /schools
+          - generic [ref=e113] [cursor=pointer]: Школы
+      - generic [ref=e117] [cursor=pointer]:
+        - generic [ref=e120] [cursor=pointer]: Н
+        - generic [ref=e121] [cursor=pointer]:
+          - paragraph [ref=e122] [cursor=pointer]: Суперпользователь
+          - paragraph [ref=e123] [cursor=pointer]: Николай
+        - img [ref=e125] [cursor=pointer]
+    - generic [ref=e128]:
+      - generic [ref=e129]:
+        - generic [ref=e130]:
+          - heading "Пользователи" [level=2] [ref=e132]
+          - generic [ref=e133]: Администрирование
+        - button "Фильтр" [ref=e134] [cursor=pointer]:
+          - img [ref=e137] [cursor=pointer]
+          - text: Фильтр
+        - button "Добавить" [ref=e139] [cursor=pointer]:
+          - img [ref=e142] [cursor=pointer]
+          - text: Добавить
+      - table [ref=e145]:
+        - rowgroup [ref=e146]:
+          - row "Роль Имя Контакты Дата создания" [ref=e147]:
+            - cell "Роль" [ref=e148]
+            - cell "Имя" [ref=e149]
+            - cell "Контакты" [ref=e150]
+            - cell "Дата создания" [ref=e151]
+            - cell [ref=e152]
+        - rowgroup [ref=e153]:
+          - row "Ученик 6ac02aa53b01690006cc17bc Студент 02 Октября 2026 в 22:05" [ref=e154]:
+            - cell "Ученик 6ac02aa53b01690006cc17bc" [ref=e155]:
+              - generic [ref=e158]:
+                - paragraph [ref=e159]: Ученик
+                - paragraph [ref=e160]: 6ac02aa53b01690006cc17bc
+            - cell "Студент" [ref=e161]:
+              - paragraph [ref=e162]: Студент
+            - cell [ref=e163]
+            - cell "02 Октября 2026 в 22:05" [ref=e164]:
+              - paragraph [ref=e165]: 02 Октября 2026
+              - paragraph [ref=e166]: в 22:05
+            - cell [ref=e167]:
+              - generic [ref=e168]:
+                - button [ref=e169] [cursor=pointer]:
+                  - img [ref=e171] [cursor=pointer]
+                - button [ref=e173] [cursor=pointer]:
+                  - img [ref=e175] [cursor=pointer]
+          - row "Ученик 6ac02a153b01690006cc10c6 Студент 02 Октября 2026 в 22:03" [ref=e177]:
+            - cell "Ученик 6ac02a153b01690006cc10c6" [ref=e178]:
+              - generic [ref=e181]:
+                - paragraph [ref=e182]: Ученик
+                - paragraph [ref=e183]: 6ac02a153b01690006cc10c6
+            - cell "Студент" [ref=e184]:
+              - paragraph [ref=e185]: Студент
+            - cell [ref=e186]
+            - cell "02 Октября 2026 в 22:03" [ref=e187]:
+              - paragraph [ref=e188]: 02 Октября 2026
+              - paragraph [ref=e189]: в 22:03
+            - cell [ref=e190]:
+              - generic [ref=e191]:
+                - button [ref=e192] [cursor=pointer]:
+                  - img [ref=e194] [cursor=pointer]
+                - button [ref=e196] [cursor=pointer]:
+                  - img [ref=e198] [cursor=pointer]
+          - row "Ученик 6ac028453b01690006cc0187 Студент 02 Октября 2026 в 21:55" [ref=e200]:
+            - cell "Ученик 6ac028453b01690006cc0187" [ref=e201]:
+              - generic [ref=e204]:
+                - paragraph [ref=e205]: Ученик
+                - paragraph [ref=e206]: 6ac028453b01690006cc0187
+            - cell "Студент" [ref=e207]:
+              - paragraph [ref=e208]: Студент
+            - cell [ref=e209]
+            - cell "02 Октября 2026 в 21:55" [ref=e210]:
+              - paragraph [ref=e211]: 02 Октября 2026
+              - paragraph [ref=e212]: в 21:55
+            - cell [ref=e213]:
+              - generic [ref=e214]:
+                - button [ref=e215] [cursor=pointer]:
+                  - img [ref=e217] [cursor=pointer]
+                - button [ref=e219] [cursor=pointer]:
+                  - img [ref=e221] [cursor=pointer]
+          - row "Ученик 6ac023fa3b01690006cbf1c5 Студент 02 Октября 2026 в 21:36" [ref=e223]:
+            - cell "Ученик 6ac023fa3b01690006cbf1c5" [ref=e224]:
+              - generic [ref=e227]:
+                - paragraph [ref=e228]: Ученик
+                - paragraph [ref=e229]: 6ac023fa3b01690006cbf1c5
+            - cell "Студент" [ref=e230]:
+              - paragraph [ref=e231]: Студент
+            - cell [ref=e232]
+            - cell "02 Октября 2026 в 21:36" [ref=e233]:
+              - paragraph [ref=e234]: 02 Октября 2026
+              - paragraph [ref=e235]: в 21:36
+            - cell [ref=e236]:
+              - generic [ref=e237]:
+                - button [ref=e238] [cursor=pointer]:
+                  - img [ref=e240] [cursor=pointer]
+                - button [ref=e242] [cursor=pointer]:
+                  - img [ref=e244] [cursor=pointer]
+          - row "Ученик 6ac022c95eb656000753ec2f Студент 02 Октября 2026 в 21:31" [ref=e246]:
+            - cell "Ученик 6ac022c95eb656000753ec2f" [ref=e247]:
+              - generic [ref=e250]:
+                - paragraph [ref=e251]: Ученик
+                - paragraph [ref=e252]: 6ac022c95eb656000753ec2f
+            - cell "Студент" [ref=e253]:
+              - paragraph [ref=e254]: Студент
+            - cell [ref=e255]
+            - cell "02 Октября 2026 в 21:31" [ref=e256]:
+              - paragraph [ref=e257]: 02 Октября 2026
+              - paragraph [ref=e258]: в 21:31
+            - cell [ref=e259]:
+              - generic [ref=e260]:
+                - button [ref=e261] [cursor=pointer]:
+                  - img [ref=e263] [cursor=pointer]
+                - button [ref=e265] [cursor=pointer]:
+                  - img [ref=e267] [cursor=pointer]
+          - row "Ученик 6ac021f65eb656000753e13f Студент 02 Октября 2026 в 21:28" [ref=e269]:
+            - cell "Ученик 6ac021f65eb656000753e13f" [ref=e270]:
+              - generic [ref=e273]:
+                - paragraph [ref=e274]: Ученик
+                - paragraph [ref=e275]: 6ac021f65eb656000753e13f
+            - cell "Студент" [ref=e276]:
+              - paragraph [ref=e277]: Студент
+            - cell [ref=e278]
+            - cell "02 Октября 2026 в 21:28" [ref=e279]:
+              - paragraph [ref=e280]: 02 Октября 2026
+              - paragraph [ref=e281]: в 21:28
+            - cell [ref=e282]:
+              - generic [ref=e283]:
+                - button [ref=e284] [cursor=pointer]:
+                  - img [ref=e286] [cursor=pointer]
+                - button [ref=e288] [cursor=pointer]:
+                  - img [ref=e290] [cursor=pointer]
+          - row "Ученик 6ac021445eb656000753d72c Студент 02 Октября 2026 в 21:25" [ref=e292]:
+            - cell "Ученик 6ac021445eb656000753d72c" [ref=e293]:
+              - generic [ref=e296]:
+                - paragraph [ref=e297]: Ученик
+                - paragraph [ref=e298]: 6ac021445eb656000753d72c
+            - cell "Студент" [ref=e299]:
+              - paragraph [ref=e300]: Студент
+            - cell [ref=e301]
+            - cell "02 Октября 2026 в 21:25" [ref=e302]:
+              - paragraph [ref=e303]: 02 Октября 2026
+              - paragraph [ref=e304]: в 21:25
+            - cell [ref=e305]:
+              - generic [ref=e306]:
+                - button [ref=e307] [cursor=pointer]:
+                  - img [ref=e309] [cursor=pointer]
+                - button [ref=e311] [cursor=pointer]:
+                  - img [ref=e313] [cursor=pointer]
+          - row "Ученик 6ac0209e5eb656000753cf3a Студент 02 Октября 2026 в 21:22" [ref=e315]:
+            - cell "Ученик 6ac0209e5eb656000753cf3a" [ref=e316]:
+              - generic [ref=e319]:
+                - paragraph [ref=e320]: Ученик
+                - paragraph [ref=e321]: 6ac0209e5eb656000753cf3a
+            - cell "Студент" [ref=e322]:
+              - paragraph [ref=e323]: Студент
+            - cell [ref=e324]
+            - cell "02 Октября 2026 в 21:22" [ref=e325]:
+              - paragraph [ref=e326]: 02 Октября 2026
+              - paragraph [ref=e327]: в 21:22
+            - cell [ref=e328]:
+              - generic [ref=e329]:
+                - button [ref=e330] [cursor=pointer]:
+                  - img [ref=e332] [cursor=pointer]
+                - button [ref=e334] [cursor=pointer]:
+                  - img [ref=e336] [cursor=pointer]
+          - row "Ученик 6ac01fdd5eb656000753c6a0 Студент 02 Октября 2026 в 21:19" [ref=e338]:
+            - cell "Ученик 6ac01fdd5eb656000753c6a0" [ref=e339]:
+              - generic [ref=e342]:
+                - paragraph [ref=e343]: Ученик
+                - paragraph [ref=e344]: 6ac01fdd5eb656000753c6a0
+            - cell "Студент" [ref=e345]:
+              - paragraph [ref=e346]: Студент
+            - cell [ref=e347]
+            - cell "02 Октября 2026 в 21:19" [ref=e348]:
+              - paragraph [ref=e349]: 02 Октября 2026
+              - paragraph [ref=e350]: в 21:19
+            - cell [ref=e351]:
+              - generic [ref=e352]:
+                - button [ref=e353] [cursor=pointer]:
+                  - img [ref=e355] [cursor=pointer]
+                - button [ref=e357] [cursor=pointer]:
+                  - img [ref=e359] [cursor=pointer]
+          - row "Ученик 6ac01fc65eb656000753c60a Студент 02 Октября 2026 в 21:19" [ref=e361]:
+            - cell "Ученик 6ac01fc65eb656000753c60a" [ref=e362]:
+              - generic [ref=e365]:
+                - paragraph [ref=e366]: Ученик
+                - paragraph [ref=e367]: 6ac01fc65eb656000753c60a
+            - cell "Студент" [ref=e368]:
+              - paragraph [ref=e369]: Студент
+            - cell [ref=e370]
+            - cell "02 Октября 2026 в 21:19" [ref=e371]:
+              - paragraph [ref=e372]: 02 Октября 2026
+              - paragraph [ref=e373]: в 21:19
+            - cell [ref=e374]:
+              - generic [ref=e375]:
+                - button [ref=e376] [cursor=pointer]:
+                  - img [ref=e378] [cursor=pointer]
+                - button [ref=e380] [cursor=pointer]:
+                  - img [ref=e382] [cursor=pointer]
+          - row "Ученик 6ac01fb15eb656000753c5c8 Студент 02 Октября 2026 в 21:18" [ref=e384]:
+            - cell "Ученик 6ac01fb15eb656000753c5c8" [ref=e385]:
+              - generic [ref=e388]:
+                - paragraph [ref=e389]: Ученик
+                - paragraph [ref=e390]: 6ac01fb15eb656000753c5c8
+            - cell "Студент" [ref=e391]:
+              - paragraph [ref=e392]: Студент
+            - cell [ref=e393]
+            - cell "02 Октября 2026 в 21:18" [ref=e394]:
+              - paragraph [ref=e395]: 02 Октября 2026
+              - paragraph [ref=e396]: в 21:18
+            - cell [ref=e397]:
+              - generic [ref=e398]:
+                - button [ref=e399] [cursor=pointer]:
+                  - img [ref=e401] [cursor=pointer]
+                - button [ref=e403] [cursor=pointer]:
+                  - img [ref=e405] [cursor=pointer]
+          - row "Ученик 6ac01f3b3b01690006cbdeb5 Студент 02 Октября 2026 в 21:16" [ref=e407]:
+            - cell "Ученик 6ac01f3b3b01690006cbdeb5" [ref=e408]:
+              - generic [ref=e411]:
+                - paragraph [ref=e412]: Ученик
+                - paragraph [ref=e413]: 6ac01f3b3b01690006cbdeb5
+            - cell "Студент" [ref=e414]:
+              - paragraph [ref=e415]: Студент
+            - cell [ref=e416]
+            - cell "02 Октября 2026 в 21:16" [ref=e417]:
+              - paragraph [ref=e418]: 02 Октября 2026
+              - paragraph [ref=e419]: в 21:16
+            - cell [ref=e420]:
+              - generic [ref=e421]:
+                - button [ref=e422] [cursor=pointer]:
+                  - img [ref=e424] [cursor=pointer]
+                - button [ref=e426] [cursor=pointer]:
+                  - img [ref=e428] [cursor=pointer]
+          - row "Ученик 6ac01ee15eb656000753c056 Студент 02 Октября 2026 в 21:15" [ref=e430]:
+            - cell "Ученик 6ac01ee15eb656000753c056" [ref=e431]:
+              - generic [ref=e434]:
+                - paragraph [ref=e435]: Ученик
+                - paragraph [ref=e436]: 6ac01ee15eb656000753c056
+            - cell "Студент" [ref=e437]:
+              - paragraph [ref=e438]: Студент
+            - cell [ref=e439]
+            - cell "02 Октября 2026 в 21:15" [ref=e440]:
+              - paragraph [ref=e441]: 02 Октября 2026
+              - paragraph [ref=e442]: в 21:15
+            - cell [ref=e443]:
+              - generic [ref=e444]:
+                - button [ref=e445] [cursor=pointer]:
+                  - img [ref=e447] [cursor=pointer]
+                - button [ref=e449] [cursor=pointer]:
+                  - img [ref=e451] [cursor=pointer]
+          - row "Ученик 6ac01d965eb656000753bb3a Студент 02 Октября 2026 в 21:09" [ref=e453]:
+            - cell "Ученик 6ac01d965eb656000753bb3a" [ref=e454]:
+              - generic [ref=e457]:
+                - paragraph [ref=e458]: Ученик
+                - paragraph [ref=e459]: 6ac01d965eb656000753bb3a
+            - cell "Студент" [ref=e460]:
+              - paragraph [ref=e461]: Студент
+            - cell [ref=e462]
+            - cell "02 Октября 2026 в 21:09" [ref=e463]:
+              - paragraph [ref=e464]: 02 Октября 2026
+              - paragraph [ref=e465]: в 21:09
+            - cell [ref=e466]:
+              - generic [ref=e467]:
+                - button [ref=e468] [cursor=pointer]:
+                  - img [ref=e470] [cursor=pointer]
+                - button [ref=e472] [cursor=pointer]:
+                  - img [ref=e474] [cursor=pointer]
+          - row "Ученик 6ac01d5f3b01690006cbd819 Студент 02 Октября 2026 в 21:08" [ref=e476]:
+            - cell "Ученик 6ac01d5f3b01690006cbd819" [ref=e477]:
+              - generic [ref=e480]:
+                - paragraph [ref=e481]: Ученик
+                - paragraph [ref=e482]: 6ac01d5f3b01690006cbd819
+            - cell "Студент" [ref=e483]:
+              - paragraph [ref=e484]: Студент
+            - cell [ref=e485]
+            - cell "02 Октября 2026 в 21:08" [ref=e486]:
+              - paragraph [ref=e487]: 02 Октября 2026
+              - paragraph [ref=e488]: в 21:08
+            - cell [ref=e489]:
+              - generic [ref=e490]:
+                - button [ref=e491] [cursor=pointer]:
+                  - img [ref=e493] [cursor=pointer]
+                - button [ref=e495] [cursor=pointer]:
+                  - img [ref=e497] [cursor=pointer]
+          - row "Ученик 6ac01d473b01690006cbd797 Студент 02 Октября 2026 в 21:08" [ref=e499]:
+            - cell "Ученик 6ac01d473b01690006cbd797" [ref=e500]:
+              - generic [ref=e503]:
+                - paragraph [ref=e504]: Ученик
+                - paragraph [ref=e505]: 6ac01d473b01690006cbd797
+            - cell "Студент" [ref=e506]:
+              - paragraph [ref=e507]: Студент
+            - cell [ref=e508]
+            - cell "02 Октября 2026 в 21:08" [ref=e509]:
+              - paragraph [ref=e510]: 02 Октября 2026
+              - paragraph [ref=e511]: в 21:08
+            - cell [ref=e512]:
+              - generic [ref=e513]:
+                - button [ref=e514] [cursor=pointer]:
+                  - img [ref=e516] [cursor=pointer]
+                - button [ref=e518] [cursor=pointer]:
+                  - img [ref=e520] [cursor=pointer]
+          - row "Ученик 6ac01ce65eb656000753b0ac Студент 02 Октября 2026 в 21:06" [ref=e522]:
+            - cell "Ученик 6ac01ce65eb656000753b0ac" [ref=e523]:
+              - generic [ref=e526]:
+                - paragraph [ref=e527]: Ученик
+                - paragraph [ref=e528]: 6ac01ce65eb656000753b0ac
+            - cell "Студент" [ref=e529]:
+              - paragraph [ref=e530]: Студент
+            - cell [ref=e531]
+            - cell "02 Октября 2026 в 21:06" [ref=e532]:
+              - paragraph [ref=e533]: 02 Октября 2026
+              - paragraph [ref=e534]: в 21:06
+            - cell [ref=e535]:
+              - generic [ref=e536]:
+                - button [ref=e537] [cursor=pointer]:
+                  - img [ref=e539] [cursor=pointer]
+                - button [ref=e541] [cursor=pointer]:
+                  - img [ref=e543] [cursor=pointer]
+          - row "Ученик 6ac01ce43b01690006cbd6b0 Студент 02 Октября 2026 в 21:06" [ref=e545]:
+            - cell "Ученик 6ac01ce43b01690006cbd6b0" [ref=e546]:
+              - generic [ref=e549]:
+                - paragraph [ref=e550]: Ученик
+                - paragraph [ref=e551]: 6ac01ce43b01690006cbd6b0
+            - cell "Студент" [ref=e552]:
+              - paragraph [ref=e553]: Студент
+            - cell [ref=e554]
+            - cell "02 Октября 2026 в 21:06" [ref=e555]:
+              - paragraph [ref=e556]: 02 Октября 2026
+              - paragraph [ref=e557]: в 21:06
+            - cell [ref=e558]:
+              - generic [ref=e559]:
+                - button [ref=e560] [cursor=pointer]:
+                  - img [ref=e562] [cursor=pointer]
+                - button [ref=e564] [cursor=pointer]:
+                  - img [ref=e566] [cursor=pointer]
+          - row "Ученик 6ac01c3a5eb656000753a7f6 Студент 02 Октября 2026 в 21:03" [ref=e568]:
+            - cell "Ученик 6ac01c3a5eb656000753a7f6" [ref=e569]:
+              - generic [ref=e572]:
+                - paragraph [ref=e573]: Ученик
+                - paragraph [ref=e574]: 6ac01c3a5eb656000753a7f6
+            - cell "Студент" [ref=e575]:
+              - paragraph [ref=e576]: Студент
+            - cell [ref=e577]
+            - cell "02 Октября 2026 в 21:03" [ref=e578]:
+              - paragraph [ref=e579]: 02 Октября 2026
+              - paragraph [ref=e580]: в 21:03
+            - cell [ref=e581]:
+              - generic [ref=e582]:
+                - button [ref=e583] [cursor=pointer]:
+                  - img [ref=e585] [cursor=pointer]
+                - button [ref=e587] [cursor=pointer]:
+                  - img [ref=e589] [cursor=pointer]
+          - row "Ученик 6ac01c095eb656000753a62d Студент 02 Октября 2026 в 21:03" [ref=e591]:
+            - cell "Ученик 6ac01c095eb656000753a62d" [ref=e592]:
+              - generic [ref=e595]:
+                - paragraph [ref=e596]: Ученик
+                - paragraph [ref=e597]: 6ac01c095eb656000753a62d
+            - cell "Студент" [ref=e598]:
+              - paragraph [ref=e599]: Студент
+            - cell [ref=e600]
+            - cell "02 Октября 2026 в 21:03" [ref=e601]:
+              - paragraph [ref=e602]: 02 Октября 2026
+              - paragraph [ref=e603]: в 21:03
+            - cell [ref=e604]:
+              - generic [ref=e605]:
+                - button [ref=e606] [cursor=pointer]:
+                  - img [ref=e608] [cursor=pointer]
+                - button [ref=e610] [cursor=pointer]:
+                  - img [ref=e612] [cursor=pointer]
+        - rowgroup [ref=e614]:
+          - 'row "Записей: 1083415 1 2 ... 54171" [ref=e615]':
+            - 'cell "Записей: 1083415 1 2 ... 54171" [ref=e616]':
+              - generic [ref=e618]:
+                - generic [ref=e620]: "Записей: 1083415"
+                - generic [ref=e621]:
+                  - img [ref=e623]
+                  - generic [ref=e626]: "1"
+                  - generic [ref=e628] [cursor=pointer]: "2"
+                  - generic [ref=e629]: ...
+                  - generic [ref=e631] [cursor=pointer]: "54171"
+                  - img [ref=e633] [cursor=pointer]
+```
