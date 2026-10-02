@@ -1,0 +1,403 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - img [ref=e7]
+    - generic [ref=e9]:
+      - generic [ref=e10]: Только до 15 октября
+      - heading "2 месяца занятий по математике в подарок" [level=2] [ref=e11]:
+        - strong [ref=e12]: 2 месяца
+        - text: занятий по математике
+        - strong [ref=e13]: в подарок
+      - generic [ref=e14]: Онлайн-занятия с преподавателем, который поможет ребёнку разобраться в сложных темах
+      - link "Оставить заявку и получить подарок" [ref=e15] [cursor=pointer]:
+        - /url: https://school.ismart.org/math-group/2-months-free?utm_source=ismart_site&utm_medium=mindbox&utm_campaign=math_group_2_months_free&utm_content=main_site__popup
+    - button "Закрыть поп-ап" [ref=e16] [cursor=pointer]: ×
+  - generic [ref=e22]:
+    - generic [ref=e27]:
+      - generic [ref=e30]:
+        - link "Каталог заданий" [ref=e32] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e35] [cursor=pointer]: Каталог заданий
+        - link "Рейтинг" [ref=e38] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e41] [cursor=pointer]: Рейтинг
+        - link "Диагностика" [ref=e44] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e47] [cursor=pointer]: Диагностика
+        - link "Магазин" [ref=e50] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e53] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e56] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e59] [cursor=pointer]: Помощник
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - button [ref=e64] [cursor=pointer]:
+            - img [ref=e66] [cursor=pointer]
+          - img [ref=e71] [cursor=pointer]
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e76] [cursor=pointer]: "?"
+          - generic [ref=e77] [cursor=pointer]:
+            - paragraph
+            - paragraph [ref=e78] [cursor=pointer]: Гость
+          - img [ref=e80] [cursor=pointer]
+    - generic [ref=e84]:
+      - generic [ref=e86]:
+        - button [ref=e87] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+        - generic [ref=e93]: Русский язык. 2.1
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - heading "Купить со скидкой" [level=1] [ref=e99]
+          - heading "-70%" [level=1] [ref=e100]
+        - button "В магазин" [ref=e102] [cursor=pointer]:
+          - text: В магазин
+          - img [ref=e105] [cursor=pointer]
+      - generic [ref=e107]:
+        - generic [ref=e111]:
+          - button "1" [ref=e112] [cursor=pointer]:
+            - img [ref=e116] [cursor=pointer]
+            - text: "1"
+          - button "2" [ref=e118] [cursor=pointer]:
+            - img [ref=e122] [cursor=pointer]
+            - text: "2"
+          - button "3" [ref=e124]:
+            - img [ref=e128]
+            - text: "3"
+          - button "4" [ref=e130] [cursor=pointer]:
+            - img [ref=e134] [cursor=pointer]
+            - text: "4"
+          - button "5" [ref=e136] [cursor=pointer]:
+            - img [ref=e140] [cursor=pointer]
+            - text: "5"
+          - button "6" [ref=e142] [cursor=pointer]:
+            - img [ref=e146] [cursor=pointer]
+            - text: "6"
+          - button "7" [ref=e148] [cursor=pointer]:
+            - img [ref=e152] [cursor=pointer]
+            - text: "7"
+          - button "8" [ref=e154] [cursor=pointer]:
+            - img [ref=e158] [cursor=pointer]
+            - text: "8"
+          - button "9" [ref=e160] [cursor=pointer]:
+            - img [ref=e164] [cursor=pointer]
+            - text: "9"
+          - button "10" [ref=e166] [cursor=pointer]:
+            - img [ref=e170] [cursor=pointer]
+            - text: "10"
+          - button "11" [ref=e172] [cursor=pointer]:
+            - img [ref=e176] [cursor=pointer]
+            - text: "11"
+        - generic [ref=e180]:
+          - generic [ref=e184]:
+            - img [ref=e187]
+            - textbox "Поиск по подтемам" [ref=e190]
+          - generic [ref=e191]:
+            - generic [ref=e192]:
+              - generic [ref=e193] [cursor=pointer]:
+                - generic [ref=e195] [cursor=pointer]: Темы
+                - button [ref=e197] [cursor=pointer]:
+                  - img [ref=e199] [cursor=pointer]
+              - generic [ref=e201] [cursor=pointer]:
+                - generic [ref=e204] [cursor=pointer]: Что мы знаем о предложении?
+                - img [ref=e206] [cursor=pointer]
+              - generic [ref=e208] [cursor=pointer]:
+                - generic [ref=e211] [cursor=pointer]: Что мы знаем о словах и словосочетаниях?
+                - img [ref=e213] [cursor=pointer]
+              - generic [ref=e215] [cursor=pointer]:
+                - generic [ref=e218] [cursor=pointer]: Что мы знаем о составе слова?
+                - img [ref=e220] [cursor=pointer]
+              - generic [ref=e222] [cursor=pointer]:
+                - generic [ref=e225] [cursor=pointer]: Правописание гласных и согласных в частях слов
+                - img [ref=e227] [cursor=pointer]
+              - generic [ref=e230] [cursor=pointer]:
+                - generic [ref=e233] [cursor=pointer]: Что мы знаем об имени существительном?
+                - img [ref=e235] [cursor=pointer]
+              - generic [ref=e237] [cursor=pointer]:
+                - generic [ref=e240] [cursor=pointer]: Что мы знаем об имени прилагательном?
+                - img [ref=e242] [cursor=pointer]
+              - generic [ref=e244] [cursor=pointer]:
+                - generic [ref=e247] [cursor=pointer]: Что мы знаем о местоимении?
+                - img [ref=e249] [cursor=pointer]
+              - generic [ref=e251] [cursor=pointer]:
+                - generic [ref=e254] [cursor=pointer]: Что мы знаем о глаголе?
+                - img [ref=e256] [cursor=pointer]
+              - generic [ref=e258] [cursor=pointer]:
+                - generic [ref=e261] [cursor=pointer]: Что мы знаем об имени числительном?
+                - img [ref=e263] [cursor=pointer]
+              - generic [ref=e265] [cursor=pointer]:
+                - generic [ref=e268] [cursor=pointer]: Что мы знаем о звуках и буквах?
+                - img [ref=e270] [cursor=pointer]
+              - generic [ref=e272] [cursor=pointer]:
+                - generic [ref=e275] [cursor=pointer]: Работа с текстом
+                - img [ref=e277] [cursor=pointer]
+              - generic [ref=e279] [cursor=pointer]:
+                - generic [ref=e282] [cursor=pointer]: Словарные слова
+                - img [ref=e284] [cursor=pointer]
+            - generic [ref=e290]:
+              - link "1. Что такое имя существительное?" [ref=e291] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198b9
+                - generic [ref=e292] [cursor=pointer]:
+                  - generic [ref=e294] [cursor=pointer]:
+                    - generic [ref=e296] [cursor=pointer]: "1."
+                    - paragraph [ref=e298] [cursor=pointer]: Что такое имя существительное?
+                  - img [ref=e301] [cursor=pointer]
+              - link "2. Как поставить имя существительное в начальную форму?" [ref=e303] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198b5
+                - generic [ref=e304] [cursor=pointer]:
+                  - generic [ref=e306] [cursor=pointer]:
+                    - generic [ref=e308] [cursor=pointer]: "2."
+                    - paragraph [ref=e310] [cursor=pointer]: Как поставить имя существительное в начальную форму?
+                  - img [ref=e313] [cursor=pointer]
+              - link "3. Как распознать одушевлённые и неодушевлённые имена существительные?" [ref=e315] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198be
+                - generic [ref=e316] [cursor=pointer]:
+                  - generic [ref=e318] [cursor=pointer]:
+                    - generic [ref=e320] [cursor=pointer]: "3."
+                    - paragraph [ref=e322] [cursor=pointer]: Как распознать одушевлённые и неодушевлённые имена существительные?
+                  - img [ref=e325] [cursor=pointer]
+              - link "4. Как распознать собственные и нарицательные имена существительные?" [ref=e327] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198bf
+                - generic [ref=e328] [cursor=pointer]:
+                  - generic [ref=e330] [cursor=pointer]:
+                    - generic [ref=e332] [cursor=pointer]: "4."
+                    - paragraph [ref=e334] [cursor=pointer]: Как распознать собственные и нарицательные имена существительные?
+                  - img [ref=e337] [cursor=pointer]
+              - link "5. В каком числе могут употребляться имена существительные?" [ref=e339] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198ba
+                - generic [ref=e340] [cursor=pointer]:
+                  - generic [ref=e342] [cursor=pointer]:
+                    - generic [ref=e344] [cursor=pointer]: "5."
+                    - paragraph [ref=e346] [cursor=pointer]: В каком числе могут употребляться имена существительные?
+                  - img [ref=e349] [cursor=pointer]
+              - link "6. Какие имена существительные имеют форму одного числа?" [ref=e351] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198b1
+                - generic [ref=e352] [cursor=pointer]:
+                  - generic [ref=e354] [cursor=pointer]:
+                    - generic [ref=e356] [cursor=pointer]: "6."
+                    - paragraph [ref=e358] [cursor=pointer]: Какие имена существительные имеют форму одного числа?
+                  - img [ref=e361] [cursor=pointer]
+              - link "7. Как определить род имени существительного? (ч. 1)" [ref=e363] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198c0
+                - generic [ref=e364] [cursor=pointer]:
+                  - generic [ref=e366] [cursor=pointer]:
+                    - generic [ref=e368] [cursor=pointer]: "7."
+                    - paragraph [ref=e370] [cursor=pointer]: Как определить род имени существительного? (ч. 1)
+                  - img [ref=e373] [cursor=pointer]
+              - link "8. Как определить род имени существительного? (ч. 2)" [ref=e375] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198b6
+                - generic [ref=e376] [cursor=pointer]:
+                  - generic [ref=e378] [cursor=pointer]:
+                    - generic [ref=e380] [cursor=pointer]: "8."
+                    - paragraph [ref=e382] [cursor=pointer]: Как определить род имени существительного? (ч. 2)
+                  - img [ref=e385] [cursor=pointer]
+              - link "9. Какие имена существительные имеют форму общего рода?" [ref=e387] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198bb
+                - generic [ref=e388] [cursor=pointer]:
+                  - generic [ref=e390] [cursor=pointer]:
+                    - generic [ref=e392] [cursor=pointer]: "9."
+                    - paragraph [ref=e394] [cursor=pointer]: Какие имена существительные имеют форму общего рода?
+                  - img [ref=e397] [cursor=pointer]
+              - link "10. Как склоняются имена существительные? (ч. 1)" [active] [ref=e399] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198b2
+                - generic [ref=e400] [cursor=pointer]:
+                  - generic [ref=e402] [cursor=pointer]:
+                    - generic [ref=e404] [cursor=pointer]: "10."
+                    - paragraph [ref=e406] [cursor=pointer]: Как склоняются имена существительные? (ч. 1)
+                  - img [ref=e409] [cursor=pointer]
+              - link "11. Как склоняются имена существительные? (ч. 2)" [ref=e411] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198ac
+                - generic [ref=e412] [cursor=pointer]:
+                  - generic [ref=e414] [cursor=pointer]:
+                    - generic [ref=e416] [cursor=pointer]: "11."
+                    - paragraph [ref=e418] [cursor=pointer]: Как склоняются имена существительные? (ч. 2)
+                  - img [ref=e421] [cursor=pointer]
+              - link "12. Как определить именительный падеж имён существительных?" [ref=e423] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198ad
+                - generic [ref=e424] [cursor=pointer]:
+                  - generic [ref=e426] [cursor=pointer]:
+                    - generic [ref=e428] [cursor=pointer]: "12."
+                    - paragraph [ref=e430] [cursor=pointer]: Как определить именительный падеж имён существительных?
+                  - img [ref=e433] [cursor=pointer]
+              - link "13. Как определить родительный падеж имён существительных?" [ref=e435] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198bc
+                - generic [ref=e436] [cursor=pointer]:
+                  - generic [ref=e438] [cursor=pointer]:
+                    - generic [ref=e440] [cursor=pointer]: "13."
+                    - paragraph [ref=e442] [cursor=pointer]: Как определить родительный падеж имён существительных?
+                  - img [ref=e445] [cursor=pointer]
+              - link "14. Как определить дательный падеж имён существительных?" [ref=e447] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198af
+                - generic [ref=e448] [cursor=pointer]:
+                  - generic [ref=e450] [cursor=pointer]:
+                    - generic [ref=e452] [cursor=pointer]: "14."
+                    - paragraph [ref=e454] [cursor=pointer]: Как определить дательный падеж имён существительных?
+                  - img [ref=e457] [cursor=pointer]
+              - link "15. Как определить винительный падеж имён существительных?" [ref=e459] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198ae
+                - generic [ref=e460] [cursor=pointer]:
+                  - generic [ref=e462] [cursor=pointer]:
+                    - generic [ref=e464] [cursor=pointer]: "15."
+                    - paragraph [ref=e466] [cursor=pointer]: Как определить винительный падеж имён существительных?
+                  - img [ref=e469] [cursor=pointer]
+              - link "16. Как определить творительный падеж имён существительных?" [ref=e471] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198b3
+                - generic [ref=e472] [cursor=pointer]:
+                  - generic [ref=e474] [cursor=pointer]:
+                    - generic [ref=e476] [cursor=pointer]: "16."
+                    - paragraph [ref=e478] [cursor=pointer]: Как определить творительный падеж имён существительных?
+                  - img [ref=e481] [cursor=pointer]
+              - link "17. Как определить предложный падеж имён существительных?" [ref=e483] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198bd
+                - generic [ref=e484] [cursor=pointer]:
+                  - generic [ref=e486] [cursor=pointer]:
+                    - generic [ref=e488] [cursor=pointer]: "17."
+                    - paragraph [ref=e490] [cursor=pointer]: Как определить предложный падеж имён существительных?
+                  - img [ref=e493] [cursor=pointer]
+              - link "18. Как определить падеж имени существительного? (ч. 1)" [ref=e495] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198b7
+                - generic [ref=e496] [cursor=pointer]:
+                  - generic [ref=e498] [cursor=pointer]:
+                    - generic [ref=e500] [cursor=pointer]: "18."
+                    - paragraph [ref=e502] [cursor=pointer]: Как определить падеж имени существительного? (ч. 1)
+                  - img [ref=e505] [cursor=pointer]
+              - link "19. Как определить падеж имени существительного? (ч. 1)" [ref=e507] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198b8
+                - generic [ref=e508] [cursor=pointer]:
+                  - generic [ref=e510] [cursor=pointer]:
+                    - generic [ref=e512] [cursor=pointer]: "19."
+                    - paragraph [ref=e514] [cursor=pointer]: Как определить падеж имени существительного? (ч. 1)
+                  - img [ref=e517] [cursor=pointer]
+              - link "20. Как образуются имена существительные?" [ref=e519] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198b0
+                - generic [ref=e520] [cursor=pointer]:
+                  - generic [ref=e522] [cursor=pointer]:
+                    - generic [ref=e524] [cursor=pointer]: "20."
+                    - paragraph [ref=e526] [cursor=pointer]: Как образуются имена существительные?
+                  - img [ref=e529] [cursor=pointer]
+              - link "21. Как определить тип склонения имени существительного?" [ref=e531] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198b4
+                - generic [ref=e532] [cursor=pointer]:
+                  - generic [ref=e534] [cursor=pointer]:
+                    - generic [ref=e536] [cursor=pointer]: "21."
+                    - paragraph [ref=e538] [cursor=pointer]: Как определить тип склонения имени существительного?
+                  - img [ref=e541] [cursor=pointer]
+              - link "22. Какие имена существительные относятся к 1 склонению?" [ref=e543] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198c1
+                - generic [ref=e544] [cursor=pointer]:
+                  - generic [ref=e546] [cursor=pointer]:
+                    - generic [ref=e548] [cursor=pointer]: "22."
+                    - paragraph [ref=e550] [cursor=pointer]: Какие имена существительные относятся к 1 склонению?
+                  - img [ref=e553] [cursor=pointer]
+              - link "23. Какие имена существительные относятся ко 2 склонению?" [ref=e555] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198c2
+                - generic [ref=e556] [cursor=pointer]:
+                  - generic [ref=e558] [cursor=pointer]:
+                    - generic [ref=e560] [cursor=pointer]: "23."
+                    - paragraph [ref=e562] [cursor=pointer]: Какие имена существительные относятся ко 2 склонению?
+                  - img [ref=e565] [cursor=pointer]
+              - link "24. Какие имена существительные относятся к 3 склонению?" [ref=e567] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198c3
+                - generic [ref=e568] [cursor=pointer]:
+                  - generic [ref=e570] [cursor=pointer]:
+                    - generic [ref=e572] [cursor=pointer]: "24."
+                    - paragraph [ref=e574] [cursor=pointer]: Какие имена существительные относятся к 3 склонению?
+                  - img [ref=e577] [cursor=pointer]
+              - link "25. Как склоняются имена существительные во множественном числе?" [ref=e579] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198c4
+                - generic [ref=e580] [cursor=pointer]:
+                  - generic [ref=e582] [cursor=pointer]:
+                    - generic [ref=e584] [cursor=pointer]: "25."
+                    - paragraph [ref=e586] [cursor=pointer]: Как склоняются имена существительные во множественном числе?
+                  - img [ref=e589] [cursor=pointer]
+              - link "26. Как пишутся безударные окончания имён существительных 1-го склонения?" [ref=e591] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198c5
+                - generic [ref=e592] [cursor=pointer]:
+                  - generic [ref=e594] [cursor=pointer]:
+                    - generic [ref=e596] [cursor=pointer]: "26."
+                    - paragraph [ref=e598] [cursor=pointer]: Как пишутся безударные окончания имён существительных 1-го склонения?
+                  - img [ref=e601] [cursor=pointer]
+              - link "27. Как пишутся безударные окончания имён существительных 2-го склонения?" [ref=e603] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198c6
+                - generic [ref=e604] [cursor=pointer]:
+                  - generic [ref=e606] [cursor=pointer]:
+                    - generic [ref=e608] [cursor=pointer]: "27."
+                    - paragraph [ref=e610] [cursor=pointer]: Как пишутся безударные окончания имён существительных 2-го склонения?
+                  - img [ref=e613] [cursor=pointer]
+              - link "28. Как пишутся безударные окончания имён существительных 3-го склонения?" [ref=e615] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198c7
+                - generic [ref=e616] [cursor=pointer]:
+                  - generic [ref=e618] [cursor=pointer]:
+                    - generic [ref=e620] [cursor=pointer]: "28."
+                    - paragraph [ref=e622] [cursor=pointer]: Как пишутся безударные окончания имён существительных 3-го склонения?
+                  - img [ref=e625] [cursor=pointer]
+              - link "29. Как пишутся безударные окончания имён существительных множественного числа?" [ref=e627] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f198c8
+                - generic [ref=e628] [cursor=pointer]:
+                  - generic [ref=e630] [cursor=pointer]:
+                    - generic [ref=e632] [cursor=pointer]: "29."
+                    - paragraph [ref=e634] [cursor=pointer]: Как пишутся безударные окончания имён существительных множественного числа?
+                  - img [ref=e637] [cursor=pointer]
+    - generic [ref=e640]:
+      - generic [ref=e641]:
+        - generic [ref=e642]:
+          - generic [ref=e646]:
+            - img [ref=e648]
+            - link "8 (800) 600-44-02" [ref=e650] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e651]:
+            - generic [ref=e652]: "@"
+            - link "support@ismart.org" [ref=e653] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e654]:
+            - img [ref=e656]
+            - generic [ref=e658]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e659]:
+          - link "Наш сайт" [ref=e662] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e664] [cursor=pointer]
+          - generic [ref=e666]:
+            - link "Лицензия" [ref=e668] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика обработки персональных данных" [ref=e670] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e672] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e674] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e676] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e678]:
+        - generic [ref=e679]:
+          - link [ref=e680] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e684] [cursor=pointer]
+          - generic [ref=e687]:
+            - link "okIcon" [ref=e688] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e689] [cursor=pointer]
+            - link "dzenIcon" [ref=e690] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e691] [cursor=pointer]
+            - link "vkIcon" [ref=e692] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e693] [cursor=pointer]
+        - generic [ref=e695]:
+          - generic [ref=e697]:
+            - generic [ref=e698]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e699] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e700]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e701] [cursor=pointer]:
+                - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e702]:
+            - generic [ref=e703]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e704] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e705]: © iSmart, 2018-2026
+```

@@ -1,0 +1,536 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - img [ref=e7]
+    - generic [ref=e9]:
+      - generic [ref=e10]: Только до 15 октября
+      - heading "2 месяца занятий по математике в подарок" [level=2] [ref=e11]:
+        - strong [ref=e12]: 2 месяца
+        - text: занятий по математике
+        - strong [ref=e13]: в подарок
+      - generic [ref=e14]: Онлайн-занятия с преподавателем, который поможет ребёнку разобраться в сложных темах
+      - link "Оставить заявку и получить подарок" [ref=e15] [cursor=pointer]:
+        - /url: https://school.ismart.org/math-group/2-months-free?utm_source=ismart_site&utm_medium=mindbox&utm_campaign=math_group_2_months_free&utm_content=main_site__popup
+    - button "Закрыть поп-ап" [ref=e16] [cursor=pointer]: ×
+  - generic [ref=e22]:
+    - generic [ref=e27]:
+      - generic [ref=e30]:
+        - link "Каталог заданий" [ref=e32] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e35] [cursor=pointer]: Каталог заданий
+        - link "Рейтинг" [ref=e38] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e41] [cursor=pointer]: Рейтинг
+        - link "Диагностика" [ref=e44] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e47] [cursor=pointer]: Диагностика
+        - link "Магазин" [ref=e50] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e53] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e56] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e59] [cursor=pointer]: Помощник
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - button [ref=e64] [cursor=pointer]:
+            - img [ref=e66] [cursor=pointer]
+          - img [ref=e71] [cursor=pointer]
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e76] [cursor=pointer]: "?"
+          - generic [ref=e77] [cursor=pointer]:
+            - paragraph
+            - paragraph [ref=e78] [cursor=pointer]: Гость
+          - img [ref=e80] [cursor=pointer]
+    - generic [ref=e84]:
+      - generic [ref=e85]:
+        - generic [ref=e86]:
+          - button [ref=e87] [cursor=pointer]:
+            - img [ref=e89] [cursor=pointer]
+          - generic [ref=e92]:
+            - generic [ref=e93]: Русский язык
+            - generic [ref=e95]: Подготовка к контрольным работам
+        - button "Методические рекомендации" [ref=e98] [cursor=pointer]
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - heading "Купить со скидкой" [level=1] [ref=e104]
+          - heading "-70%" [level=1] [ref=e105]
+        - button "В магазин" [ref=e107] [cursor=pointer]:
+          - text: В магазин
+          - img [ref=e110] [cursor=pointer]
+      - generic [ref=e112]:
+        - generic [ref=e117]:
+          - button "2" [ref=e118] [cursor=pointer]:
+            - img [ref=e122] [cursor=pointer]
+            - text: "2"
+          - button "3" [ref=e124] [cursor=pointer]:
+            - img [ref=e128] [cursor=pointer]
+            - text: "3"
+          - button "4" [ref=e130] [cursor=pointer]:
+            - img [ref=e134] [cursor=pointer]
+            - text: "4"
+          - button "5" [ref=e136] [cursor=pointer]:
+            - img [ref=e140] [cursor=pointer]
+            - text: "5"
+          - button "6" [ref=e142]:
+            - img [ref=e146]
+            - text: "6"
+          - button "7" [ref=e148] [cursor=pointer]:
+            - img [ref=e152] [cursor=pointer]
+            - text: "7"
+          - button "8" [ref=e154] [cursor=pointer]:
+            - img [ref=e158] [cursor=pointer]
+            - text: "8"
+          - button "9" [ref=e160] [cursor=pointer]:
+            - img [ref=e164] [cursor=pointer]
+            - text: "9"
+          - button "10" [ref=e166] [cursor=pointer]:
+            - img [ref=e170] [cursor=pointer]
+            - text: "10"
+          - button "11" [ref=e172] [cursor=pointer]:
+            - img [ref=e176] [cursor=pointer]
+            - text: "11"
+        - generic [ref=e180]:
+          - generic [ref=e184]:
+            - img [ref=e187]
+            - textbox "Поиск по подтемам" [ref=e190]
+          - generic [ref=e191]:
+            - generic [ref=e192]:
+              - generic [ref=e193] [cursor=pointer]:
+                - generic [ref=e195] [cursor=pointer]: Темы
+                - button [ref=e197] [cursor=pointer]:
+                  - img [ref=e199] [cursor=pointer]
+              - generic [ref=e201] [cursor=pointer]:
+                - generic [ref=e204] [cursor=pointer]: Контрольная работа «Глагол»
+                - img [ref=e206] [cursor=pointer]
+              - generic [ref=e208] [cursor=pointer]:
+                - generic [ref=e211] [cursor=pointer]: Контрольная работа «Имя прилагательное»
+                - img [ref=e213] [cursor=pointer]
+              - generic [ref=e215] [cursor=pointer]:
+                - generic [ref=e218] [cursor=pointer]: Контрольная работа «Имя существительное»
+                - img [ref=e220] [cursor=pointer]
+              - generic [ref=e222] [cursor=pointer]:
+                - generic [ref=e225] [cursor=pointer]: Контрольная работа «Словообразование. Культура речи. Орфография»
+                - img [ref=e227] [cursor=pointer]
+              - generic [ref=e229] [cursor=pointer]:
+                - generic [ref=e232] [cursor=pointer]: Контрольная работа «Текст. Функциональные разновидности языка»
+                - img [ref=e234] [cursor=pointer]
+              - generic [ref=e237] [cursor=pointer]:
+                - generic [ref=e240] [cursor=pointer]: Контрольная работа «Итоговый контроль»
+                - img [ref=e242] [cursor=pointer]
+              - generic [ref=e244] [cursor=pointer]:
+                - generic [ref=e247] [cursor=pointer]: Контрольная работа «Повторение изученного в 5 классе»
+                - img [ref=e249] [cursor=pointer]
+            - generic [ref=e255]:
+              - link "1. Орфоэпические нормы" [ref=e256] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678df945eeaa1200068c3ea3
+                - generic [ref=e257] [cursor=pointer]:
+                  - generic [ref=e259] [cursor=pointer]:
+                    - generic [ref=e261] [cursor=pointer]: "1."
+                    - paragraph [ref=e263] [cursor=pointer]: Орфоэпические нормы
+                  - img [ref=e266] [cursor=pointer]
+              - link "2. Фонетический разбор" [ref=e268] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678df955eeaa1200068c3eae
+                - generic [ref=e269] [cursor=pointer]:
+                  - generic [ref=e271] [cursor=pointer]:
+                    - generic [ref=e273] [cursor=pointer]: "2."
+                    - paragraph [ref=e275] [cursor=pointer]: Фонетический разбор
+                  - img [ref=e278] [cursor=pointer]
+              - link "3. Слово и его лексическое значение" [ref=e280] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678df962eeaa1200068c3ebb
+                - generic [ref=e281] [cursor=pointer]:
+                  - generic [ref=e283] [cursor=pointer]:
+                    - generic [ref=e285] [cursor=pointer]: "3."
+                    - paragraph [ref=e287] [cursor=pointer]: Слово и его лексическое значение
+                  - img [ref=e290] [cursor=pointer]
+              - link "4. Фразеологизмы" [ref=e292] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678df974eeaa1200068c3edf
+                - generic [ref=e293] [cursor=pointer]:
+                  - generic [ref=e295] [cursor=pointer]:
+                    - generic [ref=e297] [cursor=pointer]: "4."
+                    - paragraph [ref=e299] [cursor=pointer]: Фразеологизмы
+                  - img [ref=e302] [cursor=pointer]
+              - link "5. Стилистическая принадлежность слова" [ref=e304] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678df982eeaa1200068c3ee7
+                - generic [ref=e305] [cursor=pointer]:
+                  - generic [ref=e307] [cursor=pointer]:
+                    - generic [ref=e309] [cursor=pointer]: "5."
+                    - paragraph [ref=e311] [cursor=pointer]: Стилистическая принадлежность слова
+                  - img [ref=e314] [cursor=pointer]
+              - link "6. Устаревшие слова" [ref=e316] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678df993eeaa1200068c3f1b
+                - generic [ref=e317] [cursor=pointer]:
+                  - generic [ref=e319] [cursor=pointer]:
+                    - generic [ref=e321] [cursor=pointer]: "6."
+                    - paragraph [ref=e323] [cursor=pointer]: Устаревшие слова
+                  - img [ref=e326] [cursor=pointer]
+              - link "7. Корень слова и родственные слова" [ref=e328] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678df9a2eeaa1200068c3f30
+                - generic [ref=e329] [cursor=pointer]:
+                  - generic [ref=e331] [cursor=pointer]:
+                    - generic [ref=e333] [cursor=pointer]: "7."
+                    - paragraph [ref=e335] [cursor=pointer]: Корень слова и родственные слова
+                  - img [ref=e338] [cursor=pointer]
+              - link "8. Окончание" [ref=e340] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678df9b4eeaa1200068c3f59
+                - generic [ref=e341] [cursor=pointer]:
+                  - generic [ref=e343] [cursor=pointer]:
+                    - generic [ref=e345] [cursor=pointer]: "8."
+                    - paragraph [ref=e347] [cursor=pointer]: Окончание
+                  - img [ref=e350] [cursor=pointer]
+              - link "9. Основа" [ref=e352] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678df9c9eeaa1200068c4009
+                - generic [ref=e353] [cursor=pointer]:
+                  - generic [ref=e355] [cursor=pointer]:
+                    - generic [ref=e357] [cursor=pointer]: "9."
+                    - paragraph [ref=e359] [cursor=pointer]: Основа
+                  - img [ref=e362] [cursor=pointer]
+              - link "10. Суффиксы" [ref=e364] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678df9d8eeaa1200068c4048
+                - generic [ref=e365] [cursor=pointer]:
+                  - generic [ref=e367] [cursor=pointer]:
+                    - generic [ref=e369] [cursor=pointer]: "10."
+                    - paragraph [ref=e371] [cursor=pointer]: Суффиксы
+                  - img [ref=e374] [cursor=pointer]
+              - link "11. Приставки" [ref=e376] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678df9e3eeaa1200068c4077
+                - generic [ref=e377] [cursor=pointer]:
+                  - generic [ref=e379] [cursor=pointer]:
+                    - generic [ref=e381] [cursor=pointer]: "11."
+                    - paragraph [ref=e383] [cursor=pointer]: Приставки
+                  - img [ref=e386] [cursor=pointer]
+              - link "12. Несклоняемые имена существительные" [ref=e388] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678df9f0eeaa1200068c4096
+                - generic [ref=e389] [cursor=pointer]:
+                  - generic [ref=e391] [cursor=pointer]:
+                    - generic [ref=e393] [cursor=pointer]: "12."
+                    - paragraph [ref=e395] [cursor=pointer]: Несклоняемые имена существительные
+                  - img [ref=e398] [cursor=pointer]
+              - link "13. Род несклоняемых имён существительных" [ref=e400] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678df9fdeeaa1200068c40c0
+                - generic [ref=e401] [cursor=pointer]:
+                  - generic [ref=e403] [cursor=pointer]:
+                    - generic [ref=e405] [cursor=pointer]: "13."
+                    - paragraph [ref=e407] [cursor=pointer]: Род несклоняемых имён существительных
+                  - img [ref=e410] [cursor=pointer]
+              - link "14. Имена существительные общего рода" [ref=e412] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfa0aeeaa1200068c40e8
+                - generic [ref=e413] [cursor=pointer]:
+                  - generic [ref=e415] [cursor=pointer]:
+                    - generic [ref=e417] [cursor=pointer]: "14."
+                    - paragraph [ref=e419] [cursor=pointer]: Имена существительные общего рода
+                  - img [ref=e422] [cursor=pointer]
+              - link "15. Имя существительное" [active] [ref=e424] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfa18eeaa1200068c40ef
+                - generic [ref=e425] [cursor=pointer]:
+                  - generic [ref=e427] [cursor=pointer]:
+                    - generic [ref=e429] [cursor=pointer]: "15."
+                    - paragraph [ref=e431] [cursor=pointer]: Имя существительное
+                  - img [ref=e434] [cursor=pointer]
+              - link "16. Степени сравнения имён прилагательных" [ref=e436] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfa22eeaa1200068c40f6
+                - generic [ref=e437] [cursor=pointer]:
+                  - generic [ref=e439] [cursor=pointer]:
+                    - generic [ref=e441] [cursor=pointer]: "16."
+                    - paragraph [ref=e443] [cursor=pointer]: Степени сравнения имён прилагательных
+                  - img [ref=e446] [cursor=pointer]
+              - link "17. Разряды имён прилагательных по значению" [ref=e448] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfa2feeaa1200068c40fd
+                - generic [ref=e449] [cursor=pointer]:
+                  - generic [ref=e451] [cursor=pointer]:
+                    - generic [ref=e453] [cursor=pointer]: "17."
+                    - paragraph [ref=e455] [cursor=pointer]: Разряды имён прилагательных по значению
+                  - img [ref=e458] [cursor=pointer]
+              - link "18. Имя прилагательное" [ref=e460] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfa41eeaa1200068c4104
+                - generic [ref=e461] [cursor=pointer]:
+                  - generic [ref=e463] [cursor=pointer]:
+                    - generic [ref=e465] [cursor=pointer]: "18."
+                    - paragraph [ref=e467] [cursor=pointer]: Имя прилагательное
+                  - img [ref=e470] [cursor=pointer]
+              - link "19. Имена прилагательные полные и краткие" [ref=e472] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfa50eeaa1200068c410b
+                - generic [ref=e473] [cursor=pointer]:
+                  - generic [ref=e475] [cursor=pointer]:
+                    - generic [ref=e477] [cursor=pointer]: "19."
+                    - paragraph [ref=e479] [cursor=pointer]: Имена прилагательные полные и краткие
+                  - img [ref=e482] [cursor=pointer]
+              - link "20. Простые, сложные и составные числительные" [ref=e484] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfaecc3d68b0007c9fcc3
+                - generic [ref=e485] [cursor=pointer]:
+                  - generic [ref=e487] [cursor=pointer]:
+                    - generic [ref=e489] [cursor=pointer]: "20."
+                    - paragraph [ref=e491] [cursor=pointer]: Простые, сложные и составные числительные
+                  - img [ref=e494] [cursor=pointer]
+              - link "21. Количественные и порядковые числительные" [ref=e496] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfaf8c3d68b0007c9fcca
+                - generic [ref=e497] [cursor=pointer]:
+                  - generic [ref=e499] [cursor=pointer]:
+                    - generic [ref=e501] [cursor=pointer]: "21."
+                    - paragraph [ref=e503] [cursor=pointer]: Количественные и порядковые числительные
+                  - img [ref=e506] [cursor=pointer]
+              - link "22. Разряды количественных числительных" [ref=e508] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfb0bc3d68b0007c9fcd1
+                - generic [ref=e509] [cursor=pointer]:
+                  - generic [ref=e511] [cursor=pointer]:
+                    - generic [ref=e513] [cursor=pointer]: "22."
+                    - paragraph [ref=e515] [cursor=pointer]: Разряды количественных числительных
+                  - img [ref=e518] [cursor=pointer]
+              - link "23. Личные местоимения" [ref=e520] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfb19c3d68b0007c9fcd8
+                - generic [ref=e521] [cursor=pointer]:
+                  - generic [ref=e523] [cursor=pointer]:
+                    - generic [ref=e525] [cursor=pointer]: "23."
+                    - paragraph [ref=e527] [cursor=pointer]: Личные местоимения
+                  - img [ref=e530] [cursor=pointer]
+              - link "24. Возвратное местоимение себя" [ref=e532] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfb25c3d68b0007c9fd1a
+                - generic [ref=e533] [cursor=pointer]:
+                  - generic [ref=e535] [cursor=pointer]:
+                    - generic [ref=e537] [cursor=pointer]: "24."
+                    - paragraph [ref=e539] [cursor=pointer]: Возвратное местоимение себя
+                  - img [ref=e542] [cursor=pointer]
+              - link "25. Разряды местоимений по значению" [ref=e544] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfb32c3d68b0007c9fd21
+                - generic [ref=e545] [cursor=pointer]:
+                  - generic [ref=e547] [cursor=pointer]:
+                    - generic [ref=e549] [cursor=pointer]: "25."
+                    - paragraph [ref=e551] [cursor=pointer]: Разряды местоимений по значению
+                  - img [ref=e554] [cursor=pointer]
+              - link "26. Разноспрягаемые глаголы" [ref=e556] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfb41c3d68b0007c9fd28
+                - generic [ref=e557] [cursor=pointer]:
+                  - generic [ref=e559] [cursor=pointer]:
+                    - generic [ref=e561] [cursor=pointer]: "26."
+                    - paragraph [ref=e563] [cursor=pointer]: Разноспрягаемые глаголы
+                  - img [ref=e566] [cursor=pointer]
+              - link "27. Переходные и непереходные глаголы" [ref=e568] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfb53c3d68b0007c9fd2f
+                - generic [ref=e569] [cursor=pointer]:
+                  - generic [ref=e571] [cursor=pointer]:
+                    - generic [ref=e573] [cursor=pointer]: "27."
+                    - paragraph [ref=e575] [cursor=pointer]: Переходные и непереходные глаголы
+                  - img [ref=e578] [cursor=pointer]
+              - link "28. Возвратные глаголы" [ref=e580] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfb5fc3d68b0007c9fd36
+                - generic [ref=e581] [cursor=pointer]:
+                  - generic [ref=e583] [cursor=pointer]:
+                    - generic [ref=e585] [cursor=pointer]: "28."
+                    - paragraph [ref=e587] [cursor=pointer]: Возвратные глаголы
+                  - img [ref=e590] [cursor=pointer]
+              - link "29. Наклонение глагола" [ref=e592] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfb6bc3d68b0007c9fd3d
+                - generic [ref=e593] [cursor=pointer]:
+                  - generic [ref=e595] [cursor=pointer]:
+                    - generic [ref=e597] [cursor=pointer]: "29."
+                    - paragraph [ref=e599] [cursor=pointer]: Наклонение глагола
+                  - img [ref=e602] [cursor=pointer]
+              - link "30. Безличные глаголы" [ref=e604] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfb77c3d68b0007c9fd44
+                - generic [ref=e605] [cursor=pointer]:
+                  - generic [ref=e607] [cursor=pointer]:
+                    - generic [ref=e609] [cursor=pointer]: "30."
+                    - paragraph [ref=e611] [cursor=pointer]: Безличные глаголы
+                  - img [ref=e614] [cursor=pointer]
+              - link "31. Глагол" [ref=e616] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfb87c3d68b0007c9fd4b
+                - generic [ref=e617] [cursor=pointer]:
+                  - generic [ref=e619] [cursor=pointer]:
+                    - generic [ref=e621] [cursor=pointer]: "31."
+                    - paragraph [ref=e623] [cursor=pointer]: Глагол
+                  - img [ref=e626] [cursor=pointer]
+              - link "32. Чередование гласных в корнях -кас-//-кос-, -лаг-//-лож-, -раст-//-рос-" [ref=e628] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfb94c3d68b0007c9fd52
+                - generic [ref=e629] [cursor=pointer]:
+                  - generic [ref=e631] [cursor=pointer]:
+                    - generic [ref=e633] [cursor=pointer]: "32."
+                    - paragraph [ref=e635] [cursor=pointer]: Чередование гласных в корнях -кас-//-кос-, -лаг-//-лож-, -раст-//-рос-
+                  - img [ref=e638] [cursor=pointer]
+              - link "33. Чередование гласных в корнях -гор-//-гар-, -зор-//-зар-" [ref=e640] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfbb4c3d68b0007c9fd61
+                - generic [ref=e641] [cursor=pointer]:
+                  - generic [ref=e643] [cursor=pointer]:
+                    - generic [ref=e645] [cursor=pointer]: "33."
+                    - paragraph [ref=e647] [cursor=pointer]: Чередование гласных в корнях -гор-//-гар-, -зор-//-зар-
+                  - img [ref=e650] [cursor=pointer]
+              - link "34. Чередование букв е//и в корнях" [ref=e652] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfbc2c3d68b0007c9fd68
+                - generic [ref=e653] [cursor=pointer]:
+                  - generic [ref=e655] [cursor=pointer]:
+                    - generic [ref=e657] [cursor=pointer]: "34."
+                    - paragraph [ref=e659] [cursor=pointer]: Чередование букв е//и в корнях
+                  - img [ref=e662] [cursor=pointer]
+              - link "35. Буквы Ы и И после приставок" [ref=e664] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfbcec3d68b0007c9fd6f
+                - generic [ref=e665] [cursor=pointer]:
+                  - generic [ref=e667] [cursor=pointer]:
+                    - generic [ref=e669] [cursor=pointer]: "35."
+                    - paragraph [ref=e671] [cursor=pointer]: Буквы Ы и И после приставок
+                  - img [ref=e674] [cursor=pointer]
+              - link "36. Гласные в приставках пре- и при-" [ref=e676] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfbdbc3d68b0007c9fd76
+                - generic [ref=e677] [cursor=pointer]:
+                  - generic [ref=e679] [cursor=pointer]:
+                    - generic [ref=e681] [cursor=pointer]: "36."
+                    - paragraph [ref=e683] [cursor=pointer]: Гласные в приставках пре- и при-
+                  - img [ref=e686] [cursor=pointer]
+              - link "37. Правописание НЕ с именами существительными" [ref=e688] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfbebc3d68b0007c9fd7d
+                - generic [ref=e689] [cursor=pointer]:
+                  - generic [ref=e691] [cursor=pointer]:
+                    - generic [ref=e693] [cursor=pointer]: "37."
+                    - paragraph [ref=e695] [cursor=pointer]: Правописание НЕ с именами существительными
+                  - img [ref=e698] [cursor=pointer]
+              - link "38. Правописание НЕ с именами прилагательными" [ref=e700] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfbf7c3d68b0007c9fd84
+                - generic [ref=e701] [cursor=pointer]:
+                  - generic [ref=e703] [cursor=pointer]:
+                    - generic [ref=e705] [cursor=pointer]: "38."
+                    - paragraph [ref=e707] [cursor=pointer]: Правописание НЕ с именами прилагательными
+                  - img [ref=e710] [cursor=pointer]
+              - link "39. Правописание НЕ с глаголами" [ref=e712] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfc03c3d68b0007c9fd8b
+                - generic [ref=e713] [cursor=pointer]:
+                  - generic [ref=e715] [cursor=pointer]:
+                    - generic [ref=e717] [cursor=pointer]: "39."
+                    - paragraph [ref=e719] [cursor=pointer]: Правописание НЕ с глаголами
+                  - img [ref=e722] [cursor=pointer]
+              - link "40. Правописание суффиксов -ек- и -ик- в именах существительных" [ref=e724] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfc0fc3d68b0007c9fd92
+                - generic [ref=e725] [cursor=pointer]:
+                  - generic [ref=e727] [cursor=pointer]:
+                    - generic [ref=e729] [cursor=pointer]: "40."
+                    - paragraph [ref=e731] [cursor=pointer]: Правописание суффиксов -ек- и -ик- в именах существительных
+                  - img [ref=e734] [cursor=pointer]
+              - link "41. Правописание гласных О и Ё после шипящих в суффиксах имён существительных" [ref=e736] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfc1fc3d68b0007c9fd99
+                - generic [ref=e737] [cursor=pointer]:
+                  - generic [ref=e739] [cursor=pointer]:
+                    - generic [ref=e741] [cursor=pointer]: "41."
+                    - paragraph [ref=e743] [cursor=pointer]: Правописание гласных О и Ё после шипящих в суффиксах имён существительных
+                  - img [ref=e746] [cursor=pointer]
+              - link "42. Правописание гласных О и Ё после шипящих и Ц в суффиксах имён прилагательных" [ref=e748] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfc2bc3d68b0007c9fda0
+                - generic [ref=e749] [cursor=pointer]:
+                  - generic [ref=e751] [cursor=pointer]:
+                    - generic [ref=e753] [cursor=pointer]: "42."
+                    - paragraph [ref=e755] [cursor=pointer]: Правописание гласных О и Ё после шипящих и Ц в суффиксах имён прилагательных
+                  - img [ref=e758] [cursor=pointer]
+              - link "43. Буквы Н и НН в суффиксах имён прилагательных" [ref=e760] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfc37c3d68b0007c9fda7
+                - generic [ref=e761] [cursor=pointer]:
+                  - generic [ref=e763] [cursor=pointer]:
+                    - generic [ref=e765] [cursor=pointer]: "43."
+                    - paragraph [ref=e767] [cursor=pointer]: Буквы Н и НН в суффиксах имён прилагательных
+                  - img [ref=e770] [cursor=pointer]
+              - link "44. Правописание имён прилагательных с суффиксами -к- и -ск-" [ref=e772] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfc44c3d68b0007c9fdae
+                - generic [ref=e773] [cursor=pointer]:
+                  - generic [ref=e775] [cursor=pointer]:
+                    - generic [ref=e777] [cursor=pointer]: "44."
+                    - paragraph [ref=e779] [cursor=pointer]: Правописание имён прилагательных с суффиксами -к- и -ск-
+                  - img [ref=e782] [cursor=pointer]
+              - link "45. Правописание сложных имён прилагательных" [ref=e784] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfc50c3d68b0007c9fdb5
+                - generic [ref=e785] [cursor=pointer]:
+                  - generic [ref=e787] [cursor=pointer]:
+                    - generic [ref=e789] [cursor=pointer]: "45."
+                    - paragraph [ref=e791] [cursor=pointer]: Правописание сложных имён прилагательных
+                  - img [ref=e794] [cursor=pointer]
+              - link "46. Правописание гласных в суффиксах глаголов -ова- (-ева-), -ыва- (-ива-)" [ref=e796] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfc5dc3d68b0007c9fdc1
+                - generic [ref=e797] [cursor=pointer]:
+                  - generic [ref=e799] [cursor=pointer]:
+                    - generic [ref=e801] [cursor=pointer]: "46."
+                    - paragraph [ref=e803] [cursor=pointer]: Правописание гласных в суффиксах глаголов -ова- (-ева-), -ыва- (-ива-)
+                  - img [ref=e806] [cursor=pointer]
+              - link "47. Мягкий знак на конце и в середине числительных" [ref=e808] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfc6bc3d68b0007c9fdc8
+                - generic [ref=e809] [cursor=pointer]:
+                  - generic [ref=e811] [cursor=pointer]:
+                    - generic [ref=e813] [cursor=pointer]: "47."
+                    - paragraph [ref=e815] [cursor=pointer]: Мягкий знак на конце и в середине числительных
+                  - img [ref=e818] [cursor=pointer]
+              - link "48. Правописание личных окончаний глаголов" [ref=e820] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfc7bc3d68b0007c9fdcf
+                - generic [ref=e821] [cursor=pointer]:
+                  - generic [ref=e823] [cursor=pointer]:
+                    - generic [ref=e825] [cursor=pointer]: "48."
+                    - paragraph [ref=e827] [cursor=pointer]: Правописание личных окончаний глаголов
+                  - img [ref=e830] [cursor=pointer]
+              - link "49. -Тся и -ться в глаголах" [ref=e832] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfc88c3d68b0007c9fdd6
+                - generic [ref=e833] [cursor=pointer]:
+                  - generic [ref=e835] [cursor=pointer]:
+                    - generic [ref=e837] [cursor=pointer]: "49."
+                    - paragraph [ref=e839] [cursor=pointer]: "-Тся и -ться в глаголах"
+                  - img [ref=e842] [cursor=pointer]
+              - link "50. Правописание о/е (ё) после шипящих и Ц в именах существительных" [ref=e844] [cursor=pointer]:
+                - /url: /learn/9c68c6726816092bb2619002/5a33b10acefdee00198efa13/5f197003b96284001b29733d/678dfc97c3d68b0007c9fddd
+                - generic [ref=e845] [cursor=pointer]:
+                  - generic [ref=e847] [cursor=pointer]:
+                    - generic [ref=e849] [cursor=pointer]: "50."
+                    - paragraph [ref=e851] [cursor=pointer]: Правописание о/е (ё) после шипящих и Ц в именах существительных
+                  - img [ref=e854] [cursor=pointer]
+    - generic [ref=e857]:
+      - generic [ref=e858]:
+        - generic [ref=e859]:
+          - generic [ref=e863]:
+            - img [ref=e865]
+            - link "8 (800) 600-44-02" [ref=e867] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e868]:
+            - generic [ref=e869]: "@"
+            - link "support@ismart.org" [ref=e870] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e871]:
+            - img [ref=e873]
+            - generic [ref=e875]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e876]:
+          - link "Наш сайт" [ref=e879] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e881] [cursor=pointer]
+          - generic [ref=e883]:
+            - link "Лицензия" [ref=e885] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика обработки персональных данных" [ref=e887] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e889] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e891] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e893] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e895]:
+        - generic [ref=e896]:
+          - link [ref=e897] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e901] [cursor=pointer]
+          - generic [ref=e904]:
+            - link "okIcon" [ref=e905] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e906] [cursor=pointer]
+            - link "dzenIcon" [ref=e907] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e908] [cursor=pointer]
+            - link "vkIcon" [ref=e909] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e910] [cursor=pointer]
+        - generic [ref=e912]:
+          - generic [ref=e914]:
+            - generic [ref=e915]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e916] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e917]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e918] [cursor=pointer]:
+                - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e919]:
+            - generic [ref=e920]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e921] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e922]: © iSmart, 2018-2026
+```

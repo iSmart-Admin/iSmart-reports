@@ -1,0 +1,238 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - img [ref=e7]
+    - generic [ref=e9]:
+      - generic [ref=e10]: Только до 15 октября
+      - heading "2 месяца занятий по математике в подарок" [level=2] [ref=e11]:
+        - strong [ref=e12]: 2 месяца
+        - text: занятий по математике
+        - strong [ref=e13]: в подарок
+      - generic [ref=e14]: Онлайн-занятия с преподавателем, который поможет ребёнку разобраться в сложных темах
+      - link "Оставить заявку и получить подарок" [ref=e15] [cursor=pointer]:
+        - /url: https://school.ismart.org/math-group/2-months-free?utm_source=ismart_site&utm_medium=mindbox&utm_campaign=math_group_2_months_free&utm_content=main_site__popup
+    - button "Закрыть поп-ап" [ref=e16] [cursor=pointer]: ×
+  - generic [ref=e22]:
+    - generic [ref=e27]:
+      - generic [ref=e30]:
+        - link "Каталог заданий" [ref=e32] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e35] [cursor=pointer]: Каталог заданий
+        - link "Рейтинг" [ref=e38] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e41] [cursor=pointer]: Рейтинг
+        - link "Диагностика" [ref=e44] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e47] [cursor=pointer]: Диагностика
+        - link "Магазин" [ref=e50] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e53] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e56] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e59] [cursor=pointer]: Помощник
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - button [ref=e64] [cursor=pointer]:
+            - img [ref=e66] [cursor=pointer]
+          - img [ref=e71] [cursor=pointer]
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e76] [cursor=pointer]: "?"
+          - generic [ref=e77] [cursor=pointer]:
+            - paragraph
+            - paragraph [ref=e78] [cursor=pointer]: Гость
+          - img [ref=e80] [cursor=pointer]
+    - generic [ref=e84]:
+      - generic [ref=e86]:
+        - button [ref=e87] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+        - generic [ref=e93]: Алгебра. 7.1
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - heading "Купить со скидкой" [level=1] [ref=e99]
+          - heading "-70%" [level=1] [ref=e100]
+        - button "В магазин" [ref=e102] [cursor=pointer]:
+          - text: В магазин
+          - img [ref=e105] [cursor=pointer]
+      - generic [ref=e107]:
+        - generic [ref=e111]:
+          - button "7" [ref=e112] [cursor=pointer]:
+            - img [ref=e116] [cursor=pointer]
+            - text: "7"
+          - button "8" [ref=e118]:
+            - img [ref=e122]
+            - text: "8"
+          - button "9" [ref=e124] [cursor=pointer]:
+            - img [ref=e128] [cursor=pointer]
+            - text: "9"
+        - generic [ref=e132]:
+          - generic [ref=e136]:
+            - img [ref=e139]
+            - textbox "Поиск по подтемам" [ref=e142]
+          - generic [ref=e143]:
+            - generic [ref=e144]:
+              - generic [ref=e145] [cursor=pointer]:
+                - generic [ref=e147] [cursor=pointer]: Темы
+                - button [ref=e149] [cursor=pointer]:
+                  - img [ref=e151] [cursor=pointer]
+              - generic [ref=e154] [cursor=pointer]:
+                - generic [ref=e157] [cursor=pointer]: Числа и вычисления
+                - img [ref=e159] [cursor=pointer]
+              - generic [ref=e161] [cursor=pointer]:
+                - generic [ref=e164] [cursor=pointer]: Алгебраические выражения. Квадратный трёхчлен
+                - img [ref=e166] [cursor=pointer]
+              - generic [ref=e168] [cursor=pointer]:
+                - generic [ref=e171] [cursor=pointer]: Алгебраические выражения. Алгебраическая дробь
+                - img [ref=e173] [cursor=pointer]
+              - generic [ref=e175] [cursor=pointer]:
+                - generic [ref=e178] [cursor=pointer]: Уравнения и неравенства. Квадратные уравнения
+                - img [ref=e180] [cursor=pointer]
+              - generic [ref=e182] [cursor=pointer]:
+                - generic [ref=e185] [cursor=pointer]: Уравнения и неравенства. Системы уравнений
+                - img [ref=e187] [cursor=pointer]
+              - generic [ref=e189] [cursor=pointer]:
+                - generic [ref=e192] [cursor=pointer]: Уравнения и неравенства. Неравенства
+                - img [ref=e194] [cursor=pointer]
+              - generic [ref=e196] [cursor=pointer]:
+                - generic [ref=e199] [cursor=pointer]: Функции
+                - img [ref=e201] [cursor=pointer]
+            - generic [ref=e207]:
+              - link "1. Квадратный корень из числа" [ref=e208] [cursor=pointer]:
+                - /url: /learn/68ac756fd7ff8c00077d14f6/68ac7429d7ff8c00077cc049/68ab5e5fd608c0000717dff0/68ac7442d7ff8c00077cd466
+                - generic [ref=e209] [cursor=pointer]:
+                  - generic [ref=e211] [cursor=pointer]:
+                    - generic [ref=e213] [cursor=pointer]: "1."
+                    - paragraph [ref=e215] [cursor=pointer]: Квадратный корень из числа
+                  - img [ref=e218] [cursor=pointer]
+              - link "2. Понятие об иррациональном числе" [ref=e220] [cursor=pointer]:
+                - /url: /learn/68ac756fd7ff8c00077d14f6/68ac7429d7ff8c00077cc049/68ab5e5fd608c0000717dff0/68ac7442d7ff8c00077cd467
+                - generic [ref=e221] [cursor=pointer]:
+                  - generic [ref=e223] [cursor=pointer]:
+                    - generic [ref=e225] [cursor=pointer]: "2."
+                    - paragraph [ref=e227] [cursor=pointer]: Понятие об иррациональном числе
+                  - img [ref=e230] [cursor=pointer]
+              - link "3. Десятичные приближения иррациональных чисел" [ref=e232] [cursor=pointer]:
+                - /url: /learn/68ac756fd7ff8c00077d14f6/68ac7429d7ff8c00077cc049/68ab5e5fd608c0000717dff0/68ac7442d7ff8c00077cd468
+                - generic [ref=e233] [cursor=pointer]:
+                  - generic [ref=e235] [cursor=pointer]:
+                    - generic [ref=e237] [cursor=pointer]: "3."
+                    - paragraph [ref=e239] [cursor=pointer]: Десятичные приближения иррациональных чисел
+                  - img [ref=e242] [cursor=pointer]
+              - link "4. Свойства арифметических квадратных корней" [ref=e244] [cursor=pointer]:
+                - /url: /learn/68ac756fd7ff8c00077d14f6/68ac7429d7ff8c00077cc049/68ab5e5fd608c0000717dff0/68ac7442d7ff8c00077cd469
+                - generic [ref=e245] [cursor=pointer]:
+                  - generic [ref=e247] [cursor=pointer]:
+                    - generic [ref=e249] [cursor=pointer]: "4."
+                    - paragraph [ref=e251] [cursor=pointer]: Свойства арифметических квадратных корней
+                  - img [ref=e254] [cursor=pointer]
+              - link "5. Применение свойств арифметических квадратных корней к преобразованию числовых выражений и вычислениям" [ref=e256] [cursor=pointer]:
+                - /url: /learn/68ac756fd7ff8c00077d14f6/68ac7429d7ff8c00077cc049/68ab5e5fd608c0000717dff0/68ac7442d7ff8c00077cd46a
+                - generic [ref=e257] [cursor=pointer]:
+                  - generic [ref=e259] [cursor=pointer]:
+                    - generic [ref=e261] [cursor=pointer]: "5."
+                    - paragraph [ref=e263] [cursor=pointer]: Применение свойств арифметических квадратных корней к преобразованию числовых выражений и вычислениям
+                  - img [ref=e266] [cursor=pointer]
+              - link "6. Действительные числа" [ref=e268] [cursor=pointer]:
+                - /url: /learn/68ac756fd7ff8c00077d14f6/68ac7429d7ff8c00077cc049/68ab5e5fd608c0000717dff0/68ac7442d7ff8c00077cd46b
+                - generic [ref=e269] [cursor=pointer]:
+                  - generic [ref=e271] [cursor=pointer]:
+                    - generic [ref=e273] [cursor=pointer]: "6."
+                    - paragraph [ref=e275] [cursor=pointer]: Действительные числа
+                  - img [ref=e278] [cursor=pointer]
+              - link "7. Степень с целым показателем" [ref=e280] [cursor=pointer]:
+                - /url: /learn/68ac756fd7ff8c00077d14f6/68ac7429d7ff8c00077cc049/68ab5e5fd608c0000717dff0/68ac7442d7ff8c00077cd46c
+                - generic [ref=e281] [cursor=pointer]:
+                  - generic [ref=e283] [cursor=pointer]:
+                    - generic [ref=e285] [cursor=pointer]: "7."
+                    - paragraph [ref=e287] [cursor=pointer]: Степень с целым показателем
+                  - img [ref=e290] [cursor=pointer]
+              - link "8. Свойства степени с целым показателем" [ref=e292] [cursor=pointer]:
+                - /url: /learn/68ac756fd7ff8c00077d14f6/68ac7429d7ff8c00077cc049/68ab5e5fd608c0000717dff0/68ac7442d7ff8c00077cd46d
+                - generic [ref=e293] [cursor=pointer]:
+                  - generic [ref=e295] [cursor=pointer]:
+                    - generic [ref=e297] [cursor=pointer]: "8."
+                    - paragraph [ref=e299] [cursor=pointer]: Свойства степени с целым показателем
+                  - img [ref=e302] [cursor=pointer]
+              - link "9. Стандартная запись числа" [ref=e304] [cursor=pointer]:
+                - /url: /learn/68ac756fd7ff8c00077d14f6/68ac7429d7ff8c00077cc049/68ab5e5fd608c0000717dff0/68ac7442d7ff8c00077cd46e
+                - generic [ref=e305] [cursor=pointer]:
+                  - generic [ref=e307] [cursor=pointer]:
+                    - generic [ref=e309] [cursor=pointer]: "9."
+                    - paragraph [ref=e311] [cursor=pointer]: Стандартная запись числа
+                  - img [ref=e314] [cursor=pointer]
+              - link "10. Размеры объектов окружающего мира" [active] [ref=e316] [cursor=pointer]:
+                - /url: /learn/68ac756fd7ff8c00077d14f6/68ac7429d7ff8c00077cc049/68ab5e5fd608c0000717dff0/68ac7442d7ff8c00077cd464
+                - generic [ref=e317] [cursor=pointer]:
+                  - generic [ref=e319] [cursor=pointer]:
+                    - generic [ref=e321] [cursor=pointer]: "10."
+                    - paragraph [ref=e323] [cursor=pointer]: Размеры объектов окружающего мира
+                  - img [ref=e326] [cursor=pointer]
+              - link "11. Длительность процессов в окружающем мире" [ref=e328] [cursor=pointer]:
+                - /url: /learn/68ac756fd7ff8c00077d14f6/68ac7429d7ff8c00077cc049/68ab5e5fd608c0000717dff0/68ac7442d7ff8c00077cd465
+                - generic [ref=e329] [cursor=pointer]:
+                  - generic [ref=e331] [cursor=pointer]:
+                    - generic [ref=e333] [cursor=pointer]: "11."
+                    - paragraph [ref=e335] [cursor=pointer]: Длительность процессов в окружающем мире
+                  - img [ref=e338] [cursor=pointer]
+    - generic [ref=e341]:
+      - generic [ref=e342]:
+        - generic [ref=e343]:
+          - generic [ref=e347]:
+            - img [ref=e349]
+            - link "8 (800) 600-44-02" [ref=e351] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e352]:
+            - generic [ref=e353]: "@"
+            - link "support@ismart.org" [ref=e354] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e355]:
+            - img [ref=e357]
+            - generic [ref=e359]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e360]:
+          - link "Наш сайт" [ref=e363] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e365] [cursor=pointer]
+          - generic [ref=e367]:
+            - link "Лицензия" [ref=e369] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика обработки персональных данных" [ref=e371] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e373] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e375] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e377] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e379]:
+        - generic [ref=e380]:
+          - link [ref=e381] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e385] [cursor=pointer]
+          - generic [ref=e388]:
+            - link "okIcon" [ref=e389] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e390] [cursor=pointer]
+            - link "dzenIcon" [ref=e391] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e392] [cursor=pointer]
+            - link "vkIcon" [ref=e393] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e394] [cursor=pointer]
+        - generic [ref=e396]:
+          - generic [ref=e398]:
+            - generic [ref=e399]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e400] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e401]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e402] [cursor=pointer]:
+                - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e403]:
+            - generic [ref=e404]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e405] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e406]: © iSmart, 2018-2026
+```
