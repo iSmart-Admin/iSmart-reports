@@ -1,0 +1,255 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - img [ref=e7]
+    - generic [ref=e9]:
+      - generic [ref=e10]: Только до 15 октября
+      - heading "2 месяца занятий по математике в подарок" [level=2] [ref=e11]:
+        - strong [ref=e12]: 2 месяца
+        - text: занятий по математике
+        - strong [ref=e13]: в подарок
+      - generic [ref=e14]: Онлайн-занятия с преподавателем, который поможет ребёнку разобраться в сложных темах
+      - link "Оставить заявку и получить подарок" [ref=e15] [cursor=pointer]:
+        - /url: https://school.ismart.org/math-group/2-months-free?utm_source=ismart_site&utm_medium=mindbox&utm_campaign=math_group_2_months_free&utm_content=main_site__popup
+    - button "Закрыть поп-ап" [ref=e16] [cursor=pointer]: ×
+  - generic [ref=e22]:
+    - generic [ref=e27]:
+      - generic [ref=e30]:
+        - link "Каталог заданий" [ref=e32] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e35] [cursor=pointer]: Каталог заданий
+        - link "Рейтинг" [ref=e38] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e41] [cursor=pointer]: Рейтинг
+        - link "Диагностика" [ref=e44] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e47] [cursor=pointer]: Диагностика
+        - link "Магазин" [ref=e50] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e53] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e56] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e59] [cursor=pointer]: Помощник
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - button [ref=e64] [cursor=pointer]:
+            - img [ref=e66] [cursor=pointer]
+          - img [ref=e71] [cursor=pointer]
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e76] [cursor=pointer]: "?"
+          - generic [ref=e77] [cursor=pointer]:
+            - paragraph
+            - paragraph [ref=e78] [cursor=pointer]: Гость
+          - img [ref=e80] [cursor=pointer]
+    - generic [ref=e84]:
+      - generic [ref=e86]:
+        - button [ref=e87] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+        - generic [ref=e92]:
+          - generic [ref=e93]: Алгебра и начала математического анализа
+          - generic [ref=e95]: Раздел для обучающихся по алгебре и начала математического анализа
+      - generic [ref=e99]:
+        - generic [ref=e100]:
+          - heading "Купить со скидкой" [level=1] [ref=e101]
+          - heading "-70%" [level=1] [ref=e102]
+        - button "В магазин" [ref=e104] [cursor=pointer]:
+          - text: В магазин
+          - img [ref=e107] [cursor=pointer]
+      - generic [ref=e109]:
+        - generic [ref=e113]:
+          - button "10" [ref=e114]:
+            - img [ref=e118]
+            - text: "10"
+          - button "11" [ref=e120] [cursor=pointer]:
+            - img [ref=e124] [cursor=pointer]
+            - text: "11"
+        - generic [ref=e128]:
+          - generic [ref=e132]:
+            - img [ref=e135]
+            - textbox "Поиск по подтемам" [ref=e138]
+          - generic [ref=e139]:
+            - generic [ref=e140]:
+              - generic [ref=e141] [cursor=pointer]:
+                - generic [ref=e143] [cursor=pointer]: Темы
+                - button [ref=e145] [cursor=pointer]:
+                  - img [ref=e147] [cursor=pointer]
+              - generic [ref=e150] [cursor=pointer]:
+                - generic [ref=e153] [cursor=pointer]: Множества рациональных и действительных чисел. Рациональные уравнения и неравенства
+                - img [ref=e155] [cursor=pointer]
+              - generic [ref=e157] [cursor=pointer]:
+                - generic [ref=e160] [cursor=pointer]: Функции и графики. Степень с целым показателем
+                - img [ref=e162] [cursor=pointer]
+              - generic [ref=e164] [cursor=pointer]:
+                - generic [ref=e167] [cursor=pointer]: Арифметический корень n–ой степени. Иррациональные уравнения и неравенства
+                - img [ref=e169] [cursor=pointer]
+              - generic [ref=e171] [cursor=pointer]:
+                - generic [ref=e174] [cursor=pointer]: Формулы тригонометрии. Тригонометрические уравнения
+                - img [ref=e176] [cursor=pointer]
+              - generic [ref=e178] [cursor=pointer]:
+                - generic [ref=e181] [cursor=pointer]: Последовательности и прогрессии
+                - img [ref=e183] [cursor=pointer]
+              - generic [ref=e185] [cursor=pointer]:
+                - generic [ref=e188] [cursor=pointer]: Повторение, обобщение, систематизация знаний
+                - img [ref=e190] [cursor=pointer]
+            - generic [ref=e196]:
+              - link "1. Урок 1. Множество, операции над множествами. Диаграммы Эйлера―Венна" [ref=e197] [cursor=pointer]:
+                - /url: /learn/67c1da0525f2910008418918/662bb8aea471430007e00617/64bfa63cd00b08794c3f8b29/698ef7d88dc3d90008c2f82a
+                - generic [ref=e198] [cursor=pointer]:
+                  - generic [ref=e200] [cursor=pointer]:
+                    - generic [ref=e202] [cursor=pointer]: "1."
+                    - paragraph [ref=e204] [cursor=pointer]: Урок 1. Множество, операции над множествами. Диаграммы Эйлера―Венна
+                  - img [ref=e207] [cursor=pointer]
+              - link "2. Урок 2. Рациональные числа. Обыкновенные и десятичные дроби, проценты, бесконечные периодические дроби" [ref=e209] [cursor=pointer]:
+                - /url: /learn/67c1da0525f2910008418918/662bb8aea471430007e00617/64bfa63cd00b08794c3f8b29/699026384e8e0d0008a3a4d5
+                - generic [ref=e210] [cursor=pointer]:
+                  - generic [ref=e212] [cursor=pointer]:
+                    - generic [ref=e214] [cursor=pointer]: "2."
+                    - paragraph [ref=e216] [cursor=pointer]: Урок 2. Рациональные числа. Обыкновенные и десятичные дроби, проценты, бесконечные периодические дроби
+                  - img [ref=e219] [cursor=pointer]
+              - link "3. Урок 3. Арифметические операции с рациональными числами, преобразования числовых выражений" [ref=e221] [cursor=pointer]:
+                - /url: /learn/67c1da0525f2910008418918/662bb8aea471430007e00617/64bfa63cd00b08794c3f8b29/6990267a4e8e0d0008a3b48f
+                - generic [ref=e222] [cursor=pointer]:
+                  - generic [ref=e224] [cursor=pointer]:
+                    - generic [ref=e226] [cursor=pointer]: "3."
+                    - paragraph [ref=e228] [cursor=pointer]: Урок 3. Арифметические операции с рациональными числами, преобразования числовых выражений
+                  - img [ref=e231] [cursor=pointer]
+              - link "4. Урок 4. Применение дробей и процентов для решения прикладных задач из различных отраслей знаний и реальной жизни" [ref=e233] [cursor=pointer]:
+                - /url: /learn/67c1da0525f2910008418918/662bb8aea471430007e00617/64bfa63cd00b08794c3f8b29/699026a24e8e0d0008a3be03
+                - generic [ref=e234] [cursor=pointer]:
+                  - generic [ref=e236] [cursor=pointer]:
+                    - generic [ref=e238] [cursor=pointer]: "4."
+                    - paragraph [ref=e240] [cursor=pointer]: Урок 4. Применение дробей и процентов для решения прикладных задач из различных отраслей знаний и реальной жизни
+                  - img [ref=e243] [cursor=pointer]
+              - link "5. Урок 5. Применение дробей и процентов для решения прикладных задач из различных отраслей знаний и реальной жизни" [ref=e245] [cursor=pointer]:
+                - /url: /learn/67c1da0525f2910008418918/662bb8aea471430007e00617/64bfa63cd00b08794c3f8b29/699026e54e8e0d0008a3cbf0
+                - generic [ref=e246] [cursor=pointer]:
+                  - generic [ref=e248] [cursor=pointer]:
+                    - generic [ref=e250] [cursor=pointer]: "5."
+                    - paragraph [ref=e252] [cursor=pointer]: Урок 5. Применение дробей и процентов для решения прикладных задач из различных отраслей знаний и реальной жизни
+                  - img [ref=e255] [cursor=pointer]
+              - link "6. Урок 6. Действительные числа. Рациональные и иррациональные числа" [ref=e257] [cursor=pointer]:
+                - /url: /learn/67c1da0525f2910008418918/662bb8aea471430007e00617/64bfa63cd00b08794c3f8b29/699027314e8e0d0008a3da37
+                - generic [ref=e258] [cursor=pointer]:
+                  - generic [ref=e260] [cursor=pointer]:
+                    - generic [ref=e262] [cursor=pointer]: "6."
+                    - paragraph [ref=e264] [cursor=pointer]: Урок 6. Действительные числа. Рациональные и иррациональные числа
+                  - img [ref=e267] [cursor=pointer]
+              - link "7. Урок 7. Арифметические операции с действительными числами" [ref=e269] [cursor=pointer]:
+                - /url: /learn/67c1da0525f2910008418918/662bb8aea471430007e00617/64bfa63cd00b08794c3f8b29/6990275b4e8e0d0008a3e382
+                - generic [ref=e270] [cursor=pointer]:
+                  - generic [ref=e272] [cursor=pointer]:
+                    - generic [ref=e274] [cursor=pointer]: "7."
+                    - paragraph [ref=e276] [cursor=pointer]: Урок 7. Арифметические операции с действительными числами
+                  - img [ref=e279] [cursor=pointer]
+              - link "8. Урок 8. Приближённые вычисления, правила округления, прикидка и оценка результата вычислений" [ref=e281] [cursor=pointer]:
+                - /url: /learn/67c1da0525f2910008418918/662bb8aea471430007e00617/64bfa63cd00b08794c3f8b29/69902be44e8e0d0008a4e01a
+                - generic [ref=e282] [cursor=pointer]:
+                  - generic [ref=e284] [cursor=pointer]:
+                    - generic [ref=e286] [cursor=pointer]: "8."
+                    - paragraph [ref=e288] [cursor=pointer]: Урок 8. Приближённые вычисления, правила округления, прикидка и оценка результата вычислений
+                  - img [ref=e291] [cursor=pointer]
+              - link "9. Урок 9. Тождества и тождественные преобразования" [ref=e293] [cursor=pointer]:
+                - /url: /learn/67c1da0525f2910008418918/662bb8aea471430007e00617/64bfa63cd00b08794c3f8b29/69902c144e8e0d0008a4e82c
+                - generic [ref=e294] [cursor=pointer]:
+                  - generic [ref=e296] [cursor=pointer]:
+                    - generic [ref=e298] [cursor=pointer]: "9."
+                    - paragraph [ref=e300] [cursor=pointer]: Урок 9. Тождества и тождественные преобразования
+                  - img [ref=e303] [cursor=pointer]
+              - link "10. Урок 10. Уравнение, корень уравнения" [active] [ref=e305] [cursor=pointer]:
+                - /url: /learn/67c1da0525f2910008418918/662bb8aea471430007e00617/64bfa63cd00b08794c3f8b29/69902c384e8e0d0008a4ef54
+                - generic [ref=e306] [cursor=pointer]:
+                  - generic [ref=e308] [cursor=pointer]:
+                    - generic [ref=e310] [cursor=pointer]: "10."
+                    - paragraph [ref=e312] [cursor=pointer]: Урок 10. Уравнение, корень уравнения
+                  - img [ref=e315] [cursor=pointer]
+              - link "11. Урок 11. Неравенство, решение неравенства" [ref=e317] [cursor=pointer]:
+                - /url: /learn/67c1da0525f2910008418918/662bb8aea471430007e00617/64bfa63cd00b08794c3f8b29/69902c604e8e0d0008a4f66f
+                - generic [ref=e318] [cursor=pointer]:
+                  - generic [ref=e320] [cursor=pointer]:
+                    - generic [ref=e322] [cursor=pointer]: "11."
+                    - paragraph [ref=e324] [cursor=pointer]: Урок 11. Неравенство, решение неравенства
+                  - img [ref=e327] [cursor=pointer]
+              - link "12. Урок 12. Метод интервалов" [ref=e329] [cursor=pointer]:
+                - /url: /learn/67c1da0525f2910008418918/662bb8aea471430007e00617/64bfa63cd00b08794c3f8b29/69902c834e8e0d0008a4fc18
+                - generic [ref=e330] [cursor=pointer]:
+                  - generic [ref=e332] [cursor=pointer]:
+                    - generic [ref=e334] [cursor=pointer]: "12."
+                    - paragraph [ref=e336] [cursor=pointer]: Урок 12. Метод интервалов
+                  - img [ref=e339] [cursor=pointer]
+              - link "13. Урок 13. Решение целых и дробно-рациональных уравнений и неравенств" [ref=e341] [cursor=pointer]:
+                - /url: /learn/67c1da0525f2910008418918/662bb8aea471430007e00617/64bfa63cd00b08794c3f8b29/69902ca34e8e0d0008a5023c
+                - generic [ref=e342] [cursor=pointer]:
+                  - generic [ref=e344] [cursor=pointer]:
+                    - generic [ref=e346] [cursor=pointer]: "13."
+                    - paragraph [ref=e348] [cursor=pointer]: Урок 13. Решение целых и дробно-рациональных уравнений и неравенств
+                  - img [ref=e351] [cursor=pointer]
+              - link "14. Урок 14. Контрольная работа по теме \"Множества рациональных и действительных чисел. Рациональные уравнения и неравенств\"" [ref=e353] [cursor=pointer]:
+                - /url: /learn/67c1da0525f2910008418918/662bb8aea471430007e00617/64bfa63cd00b08794c3f8b29/69902cce4e8e0d0008a50aa0
+                - generic [ref=e354] [cursor=pointer]:
+                  - generic [ref=e356] [cursor=pointer]:
+                    - generic [ref=e358] [cursor=pointer]: "14."
+                    - paragraph [ref=e360] [cursor=pointer]: Урок 14. Контрольная работа по теме "Множества рациональных и действительных чисел. Рациональные уравнения и неравенств"
+                  - img [ref=e363] [cursor=pointer]
+    - generic [ref=e366]:
+      - generic [ref=e367]:
+        - generic [ref=e368]:
+          - generic [ref=e372]:
+            - img [ref=e374]
+            - link "8 (800) 600-44-02" [ref=e376] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e377]:
+            - generic [ref=e378]: "@"
+            - link "support@ismart.org" [ref=e379] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e380]:
+            - img [ref=e382]
+            - generic [ref=e384]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e385]:
+          - link "Наш сайт" [ref=e388] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e390] [cursor=pointer]
+          - generic [ref=e392]:
+            - link "Лицензия" [ref=e394] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика обработки персональных данных" [ref=e396] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e398] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e400] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e402] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e404]:
+        - generic [ref=e405]:
+          - link [ref=e406] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e410] [cursor=pointer]
+          - generic [ref=e413]:
+            - link "okIcon" [ref=e414] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e415] [cursor=pointer]
+            - link "dzenIcon" [ref=e416] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e417] [cursor=pointer]
+            - link "vkIcon" [ref=e418] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e419] [cursor=pointer]
+        - generic [ref=e421]:
+          - generic [ref=e423]:
+            - generic [ref=e424]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e425] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e426]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e427] [cursor=pointer]:
+                - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e428]:
+            - generic [ref=e429]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e430] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e431]: © iSmart, 2018-2026
+```
