@@ -1,0 +1,346 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - img [ref=e7]
+    - generic [ref=e9]:
+      - generic [ref=e10]: Только до 15 октября
+      - heading "2 месяца занятий по математике в подарок" [level=2] [ref=e11]:
+        - strong [ref=e12]: 2 месяца
+        - text: занятий по математике
+        - strong [ref=e13]: в подарок
+      - generic [ref=e14]: Онлайн-занятия с преподавателем, который поможет ребёнку разобраться в сложных темах
+      - link "Оставить заявку и получить подарок" [ref=e15] [cursor=pointer]:
+        - /url: https://school.ismart.org/math-group/2-months-free?utm_source=ismart_site&utm_medium=mindbox&utm_campaign=math_group_2_months_free&utm_content=main_site__popup
+    - button "Закрыть поп-ап" [ref=e16] [cursor=pointer]: ×
+  - generic [ref=e22]:
+    - generic [ref=e27]:
+      - generic [ref=e30]:
+        - link "Каталог заданий" [ref=e32] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e35] [cursor=pointer]: Каталог заданий
+        - link "Рейтинг" [ref=e38] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e41] [cursor=pointer]: Рейтинг
+        - link "Диагностика" [ref=e44] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e47] [cursor=pointer]: Диагностика
+        - link "Магазин" [ref=e50] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e53] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e56] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e59] [cursor=pointer]: Помощник
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - button [ref=e64] [cursor=pointer]:
+            - img [ref=e66] [cursor=pointer]
+          - img [ref=e71] [cursor=pointer]
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e76] [cursor=pointer]: "?"
+          - generic [ref=e77] [cursor=pointer]:
+            - paragraph
+            - paragraph [ref=e78] [cursor=pointer]: Гость
+          - img [ref=e80] [cursor=pointer]
+    - generic [ref=e84]:
+      - generic [ref=e86]:
+        - button [ref=e87] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+        - generic [ref=e93]: Русский язык. 7.1
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - heading "Купить со скидкой" [level=1] [ref=e99]
+          - heading "-70%" [level=1] [ref=e100]
+        - button "В магазин" [ref=e102] [cursor=pointer]:
+          - text: В магазин
+          - img [ref=e105] [cursor=pointer]
+      - generic [ref=e107]:
+        - generic [ref=e111]:
+          - button "1" [ref=e112] [cursor=pointer]:
+            - img [ref=e116] [cursor=pointer]
+            - text: "1"
+          - button "2" [ref=e118] [cursor=pointer]:
+            - img [ref=e122] [cursor=pointer]
+            - text: "2"
+          - button "3" [ref=e124] [cursor=pointer]:
+            - img [ref=e128] [cursor=pointer]
+            - text: "3"
+          - button "4" [ref=e130] [cursor=pointer]:
+            - img [ref=e134] [cursor=pointer]
+            - text: "4"
+          - button "5" [ref=e136] [cursor=pointer]:
+            - img [ref=e140] [cursor=pointer]
+            - text: "5"
+          - button "6" [ref=e142] [cursor=pointer]:
+            - img [ref=e146] [cursor=pointer]
+            - text: "6"
+          - button "7" [ref=e148]:
+            - img [ref=e152]
+            - text: "7"
+          - button "8" [ref=e154] [cursor=pointer]:
+            - img [ref=e158] [cursor=pointer]
+            - text: "8"
+          - button "9" [ref=e160] [cursor=pointer]:
+            - img [ref=e164] [cursor=pointer]
+            - text: "9"
+          - button "10" [ref=e166] [cursor=pointer]:
+            - img [ref=e170] [cursor=pointer]
+            - text: "10"
+          - button "11" [ref=e172] [cursor=pointer]:
+            - img [ref=e176] [cursor=pointer]
+            - text: "11"
+        - generic [ref=e180]:
+          - generic [ref=e184]:
+            - img [ref=e187]
+            - textbox "Поиск по подтемам" [ref=e190]
+          - generic [ref=e191]:
+            - generic [ref=e192]:
+              - generic [ref=e193] [cursor=pointer]:
+                - generic [ref=e195] [cursor=pointer]: Темы
+                - button [ref=e197] [cursor=pointer]:
+                  - img [ref=e199] [cursor=pointer]
+              - generic [ref=e201] [cursor=pointer]:
+                - generic [ref=e204] [cursor=pointer]: Язык и речь. Текст
+                - img [ref=e206] [cursor=pointer]
+              - generic [ref=e208] [cursor=pointer]:
+                - generic [ref=e211] [cursor=pointer]: Фонетика. Графика. Орфоэпия.
+                - img [ref=e213] [cursor=pointer]
+              - generic [ref=e215] [cursor=pointer]:
+                - generic [ref=e218] [cursor=pointer]: Лексикология
+                - img [ref=e220] [cursor=pointer]
+              - generic [ref=e222] [cursor=pointer]:
+                - generic [ref=e225] [cursor=pointer]: Морфемика
+                - img [ref=e227] [cursor=pointer]
+              - generic [ref=e229] [cursor=pointer]:
+                - generic [ref=e232] [cursor=pointer]: Орфография
+                - img [ref=e234] [cursor=pointer]
+              - generic [ref=e236] [cursor=pointer]:
+                - generic [ref=e239] [cursor=pointer]: Синтаксис и пунктуация
+                - img [ref=e241] [cursor=pointer]
+              - generic [ref=e244] [cursor=pointer]:
+                - generic [ref=e247] [cursor=pointer]: Морфология
+                - img [ref=e249] [cursor=pointer]
+            - generic [ref=e255]:
+              - link "1. Самостоятельные и служебные части речи" [ref=e256] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645d4
+                - generic [ref=e257] [cursor=pointer]:
+                  - generic [ref=e259] [cursor=pointer]:
+                    - generic [ref=e261] [cursor=pointer]: "1."
+                    - paragraph [ref=e263] [cursor=pointer]: Самостоятельные и служебные части речи
+                  - img [ref=e266] [cursor=pointer]
+              - link "2. Предлог как часть речи" [ref=e268] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645d5
+                - generic [ref=e269] [cursor=pointer]:
+                  - generic [ref=e271] [cursor=pointer]:
+                    - generic [ref=e273] [cursor=pointer]: "2."
+                    - paragraph [ref=e275] [cursor=pointer]: Предлог как часть речи
+                  - img [ref=e278] [cursor=pointer]
+              - link "3. Производные и непроизводные предлоги" [ref=e280] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645d6
+                - generic [ref=e281] [cursor=pointer]:
+                  - generic [ref=e283] [cursor=pointer]:
+                    - generic [ref=e285] [cursor=pointer]: "3."
+                    - paragraph [ref=e287] [cursor=pointer]: Производные и непроизводные предлоги
+                  - img [ref=e290] [cursor=pointer]
+              - link "4. Простые и составные предлоги" [ref=e292] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645d7
+                - generic [ref=e293] [cursor=pointer]:
+                  - generic [ref=e295] [cursor=pointer]:
+                    - generic [ref=e297] [cursor=pointer]: "4."
+                    - paragraph [ref=e299] [cursor=pointer]: Простые и составные предлоги
+                  - img [ref=e302] [cursor=pointer]
+              - link "5. Союз как часть речи" [ref=e304] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645d8
+                - generic [ref=e305] [cursor=pointer]:
+                  - generic [ref=e307] [cursor=pointer]:
+                    - generic [ref=e309] [cursor=pointer]: "5."
+                    - paragraph [ref=e311] [cursor=pointer]: Союз как часть речи
+                  - img [ref=e314] [cursor=pointer]
+              - link "6. Простые и составные союзы" [ref=e316] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645d9
+                - generic [ref=e317] [cursor=pointer]:
+                  - generic [ref=e319] [cursor=pointer]:
+                    - generic [ref=e321] [cursor=pointer]: "6."
+                    - paragraph [ref=e323] [cursor=pointer]: Простые и составные союзы
+                  - img [ref=e326] [cursor=pointer]
+              - link "7. Союзы сочинительные и подчинительные" [ref=e328] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645da
+                - generic [ref=e329] [cursor=pointer]:
+                  - generic [ref=e331] [cursor=pointer]:
+                    - generic [ref=e333] [cursor=pointer]: "7."
+                    - paragraph [ref=e335] [cursor=pointer]: Союзы сочинительные и подчинительные
+                  - img [ref=e338] [cursor=pointer]
+              - link "8. Частица как часть речи" [ref=e340] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645db
+                - generic [ref=e341] [cursor=pointer]:
+                  - generic [ref=e343] [cursor=pointer]:
+                    - generic [ref=e345] [cursor=pointer]: "8."
+                    - paragraph [ref=e347] [cursor=pointer]: Частица как часть речи
+                  - img [ref=e350] [cursor=pointer]
+              - link "9. Разряды частиц" [ref=e352] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645dc
+                - generic [ref=e353] [cursor=pointer]:
+                  - generic [ref=e355] [cursor=pointer]:
+                    - generic [ref=e357] [cursor=pointer]: "9."
+                    - paragraph [ref=e359] [cursor=pointer]: Разряды частиц
+                  - img [ref=e362] [cursor=pointer]
+              - link "10. Междометие как часть речи" [active] [ref=e364] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645dd
+                - generic [ref=e365] [cursor=pointer]:
+                  - generic [ref=e367] [cursor=pointer]:
+                    - generic [ref=e369] [cursor=pointer]: "10."
+                    - paragraph [ref=e371] [cursor=pointer]: Междометие как часть речи
+                  - img [ref=e374] [cursor=pointer]
+              - link "11. Разряды наречий" [ref=e376] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645d3
+                - generic [ref=e377] [cursor=pointer]:
+                  - generic [ref=e379] [cursor=pointer]:
+                    - generic [ref=e381] [cursor=pointer]: "11."
+                    - paragraph [ref=e383] [cursor=pointer]: Разряды наречий
+                  - img [ref=e386] [cursor=pointer]
+              - link "12. Степени сравнения наречий" [ref=e388] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645de
+                - generic [ref=e389] [cursor=pointer]:
+                  - generic [ref=e391] [cursor=pointer]:
+                    - generic [ref=e393] [cursor=pointer]: "12."
+                    - paragraph [ref=e395] [cursor=pointer]: Степени сравнения наречий
+                  - img [ref=e398] [cursor=pointer]
+              - link "13. Причастие как часть речи" [ref=e400] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645df
+                - generic [ref=e401] [cursor=pointer]:
+                  - generic [ref=e403] [cursor=pointer]:
+                    - generic [ref=e405] [cursor=pointer]: "13."
+                    - paragraph [ref=e407] [cursor=pointer]: Причастие как часть речи
+                  - img [ref=e410] [cursor=pointer]
+              - link "14. Склонение причастий" [ref=e412] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645e0
+                - generic [ref=e413] [cursor=pointer]:
+                  - generic [ref=e415] [cursor=pointer]:
+                    - generic [ref=e417] [cursor=pointer]: "14."
+                    - paragraph [ref=e419] [cursor=pointer]: Склонение причастий
+                  - img [ref=e422] [cursor=pointer]
+              - link "15. Причастный оборот" [ref=e424] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645e1
+                - generic [ref=e425] [cursor=pointer]:
+                  - generic [ref=e427] [cursor=pointer]:
+                    - generic [ref=e429] [cursor=pointer]: "15."
+                    - paragraph [ref=e431] [cursor=pointer]: Причастный оборот
+                  - img [ref=e434] [cursor=pointer]
+              - link "16. Действительные и страдательные причастия" [ref=e436] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645e2
+                - generic [ref=e437] [cursor=pointer]:
+                  - generic [ref=e439] [cursor=pointer]:
+                    - generic [ref=e441] [cursor=pointer]: "16."
+                    - paragraph [ref=e443] [cursor=pointer]: Действительные и страдательные причастия
+                  - img [ref=e446] [cursor=pointer]
+              - link "17. Краткие и полные страдательные причастия" [ref=e448] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645e3
+                - generic [ref=e449] [cursor=pointer]:
+                  - generic [ref=e451] [cursor=pointer]:
+                    - generic [ref=e453] [cursor=pointer]: "17."
+                    - paragraph [ref=e455] [cursor=pointer]: Краткие и полные страдательные причастия
+                  - img [ref=e458] [cursor=pointer]
+              - link "18. Изменение действительных и страдательных причастий по временам" [ref=e460] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645e4
+                - generic [ref=e461] [cursor=pointer]:
+                  - generic [ref=e463] [cursor=pointer]:
+                    - generic [ref=e465] [cursor=pointer]: "18."
+                    - paragraph [ref=e467] [cursor=pointer]: Изменение действительных и страдательных причастий по временам
+                  - img [ref=e470] [cursor=pointer]
+              - link "19. Морфологический разбор причастия" [ref=e472] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645e5
+                - generic [ref=e473] [cursor=pointer]:
+                  - generic [ref=e475] [cursor=pointer]:
+                    - generic [ref=e477] [cursor=pointer]: "19."
+                    - paragraph [ref=e479] [cursor=pointer]: Морфологический разбор причастия
+                  - img [ref=e482] [cursor=pointer]
+              - link "20. Деепричастие как часть речи" [ref=e484] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645e6
+                - generic [ref=e485] [cursor=pointer]:
+                  - generic [ref=e487] [cursor=pointer]:
+                    - generic [ref=e489] [cursor=pointer]: "20."
+                    - paragraph [ref=e491] [cursor=pointer]: Деепричастие как часть речи
+                  - img [ref=e494] [cursor=pointer]
+              - link "21. Деепричастный оборот" [ref=e496] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645e7
+                - generic [ref=e497] [cursor=pointer]:
+                  - generic [ref=e499] [cursor=pointer]:
+                    - generic [ref=e501] [cursor=pointer]: "21."
+                    - paragraph [ref=e503] [cursor=pointer]: Деепричастный оборот
+                  - img [ref=e506] [cursor=pointer]
+              - link "22. Деепричастия совершенного и несовершенного вида" [ref=e508] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645e8
+                - generic [ref=e509] [cursor=pointer]:
+                  - generic [ref=e511] [cursor=pointer]:
+                    - generic [ref=e513] [cursor=pointer]: "22."
+                    - paragraph [ref=e515] [cursor=pointer]: Деепричастия совершенного и несовершенного вида
+                  - img [ref=e518] [cursor=pointer]
+              - link "23. Морфологический разбор деепричастия" [ref=e520] [cursor=pointer]:
+                - /url: /learn/68ac3d54d7ff8c000746b6c5/68ac3af0d7ff8c00074100f9/68ab5e4dd608c0000717c41a/68ac3be1d7ff8c00074645e9
+                - generic [ref=e521] [cursor=pointer]:
+                  - generic [ref=e523] [cursor=pointer]:
+                    - generic [ref=e525] [cursor=pointer]: "23."
+                    - paragraph [ref=e527] [cursor=pointer]: Морфологический разбор деепричастия
+                  - img [ref=e530] [cursor=pointer]
+    - generic [ref=e533]:
+      - generic [ref=e534]:
+        - generic [ref=e535]:
+          - generic [ref=e539]:
+            - img [ref=e541]
+            - link "8 (800) 600-44-02" [ref=e543] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e544]:
+            - generic [ref=e545]: "@"
+            - link "support@ismart.org" [ref=e546] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e547]:
+            - img [ref=e549]
+            - generic [ref=e551]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e552]:
+          - link "Наш сайт" [ref=e555] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e557] [cursor=pointer]
+          - generic [ref=e559]:
+            - link "Лицензия" [ref=e561] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика обработки персональных данных" [ref=e563] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e565] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e567] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e569] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e571]:
+        - generic [ref=e572]:
+          - link [ref=e573] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e577] [cursor=pointer]
+          - generic [ref=e580]:
+            - link "okIcon" [ref=e581] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e582] [cursor=pointer]
+            - link "dzenIcon" [ref=e583] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e584] [cursor=pointer]
+            - link "vkIcon" [ref=e585] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e586] [cursor=pointer]
+        - generic [ref=e588]:
+          - generic [ref=e590]:
+            - generic [ref=e591]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e592] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e593]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e594] [cursor=pointer]:
+                - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e595]:
+            - generic [ref=e596]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e597] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e598]: © iSmart, 2018-2026
+```

@@ -1,0 +1,402 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - img [ref=e7]
+    - generic [ref=e9]:
+      - generic [ref=e10]: Только до 15 октября
+      - heading "2 месяца занятий по математике в подарок" [level=2] [ref=e11]:
+        - strong [ref=e12]: 2 месяца
+        - text: занятий по математике
+        - strong [ref=e13]: в подарок
+      - generic [ref=e14]: Онлайн-занятия с преподавателем, который поможет ребёнку разобраться в сложных темах
+      - link "Оставить заявку и получить подарок" [ref=e15] [cursor=pointer]:
+        - /url: https://school.ismart.org/math-group/2-months-free?utm_source=ismart_site&utm_medium=mindbox&utm_campaign=math_group_2_months_free&utm_content=main_site__popup
+    - button "Закрыть поп-ап" [ref=e16] [cursor=pointer]: ×
+  - generic [ref=e22]:
+    - generic [ref=e27]:
+      - generic [ref=e30]:
+        - link "Каталог заданий" [ref=e32] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e35] [cursor=pointer]: Каталог заданий
+        - link "Рейтинг" [ref=e38] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e41] [cursor=pointer]: Рейтинг
+        - link "Диагностика" [ref=e44] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e47] [cursor=pointer]: Диагностика
+        - link "Магазин" [ref=e50] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e53] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e56] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e59] [cursor=pointer]: Помощник
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - button [ref=e64] [cursor=pointer]:
+            - img [ref=e66] [cursor=pointer]
+          - img [ref=e71] [cursor=pointer]
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e76] [cursor=pointer]: "?"
+          - generic [ref=e77] [cursor=pointer]:
+            - paragraph
+            - paragraph [ref=e78] [cursor=pointer]: Гость
+          - img [ref=e80] [cursor=pointer]
+    - generic [ref=e84]:
+      - generic [ref=e86]:
+        - button [ref=e87] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+        - generic [ref=e93]: Окружающий мир. 8.1
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - heading "Купить со скидкой" [level=1] [ref=e99]
+          - heading "-70%" [level=1] [ref=e100]
+        - button "В магазин" [ref=e102] [cursor=pointer]:
+          - text: В магазин
+          - img [ref=e105] [cursor=pointer]
+      - generic [ref=e107]:
+        - generic [ref=e111]:
+          - button "1" [ref=e112]:
+            - img [ref=e116]
+            - text: "1"
+          - button "2" [ref=e118] [cursor=pointer]:
+            - img [ref=e122] [cursor=pointer]
+            - text: "2"
+          - button "3" [ref=e124] [cursor=pointer]:
+            - img [ref=e128] [cursor=pointer]
+            - text: "3"
+          - button "4" [ref=e130] [cursor=pointer]:
+            - img [ref=e134] [cursor=pointer]
+            - text: "4"
+        - generic [ref=e138]:
+          - generic [ref=e142]:
+            - img [ref=e145]
+            - textbox "Поиск по подтемам" [ref=e148]
+          - generic [ref=e149]:
+            - generic [ref=e150]:
+              - generic [ref=e151] [cursor=pointer]:
+                - generic [ref=e153] [cursor=pointer]: Темы
+                - button [ref=e155] [cursor=pointer]:
+                  - img [ref=e157] [cursor=pointer]
+              - generic [ref=e159] [cursor=pointer]:
+                - generic [ref=e162] [cursor=pointer]: Человек и общество. Школа и школьная жизнь
+                - img [ref=e164] [cursor=pointer]
+              - generic [ref=e166] [cursor=pointer]:
+                - generic [ref=e169] [cursor=pointer]: Человек и общество. Семья, взаимоотношения и взаимопомощь в семье
+                - img [ref=e171] [cursor=pointer]
+              - generic [ref=e173] [cursor=pointer]:
+                - generic [ref=e176] [cursor=pointer]: Человек и общество. Россия ‒ наша Родина
+                - img [ref=e178] [cursor=pointer]
+              - generic [ref=e180] [cursor=pointer]:
+                - generic [ref=e183] [cursor=pointer]: Дополнительно. Человек и общество
+                - img [ref=e185] [cursor=pointer]
+              - generic [ref=e187] [cursor=pointer]:
+                - generic [ref=e190] [cursor=pointer]: Человек и природа. Природа – среда обитания человека. Взаимосвязи между человеком и природой
+                - img [ref=e192] [cursor=pointer]
+              - generic [ref=e194] [cursor=pointer]:
+                - generic [ref=e197] [cursor=pointer]: Человек и природа. Растительный мир
+                - img [ref=e199] [cursor=pointer]
+              - generic [ref=e201] [cursor=pointer]:
+                - generic [ref=e204] [cursor=pointer]: Человек и природа. Мир животных. Разные группы животных
+                - img [ref=e206] [cursor=pointer]
+              - generic [ref=e208] [cursor=pointer]:
+                - generic [ref=e211] [cursor=pointer]: Дополнительно. Наша планета Земля
+                - img [ref=e213] [cursor=pointer]
+              - generic [ref=e216] [cursor=pointer]:
+                - generic [ref=e219] [cursor=pointer]: Дополнительно. Природа и рукотворный мир. Что нас окружает?
+                - img [ref=e221] [cursor=pointer]
+              - generic [ref=e223] [cursor=pointer]:
+                - generic [ref=e226] [cursor=pointer]: Дополнительно. Разнообразие животных
+                - img [ref=e228] [cursor=pointer]
+              - generic [ref=e230] [cursor=pointer]:
+                - generic [ref=e233] [cursor=pointer]: Дополнительно. Взаимосвязь природы и человека
+                - img [ref=e235] [cursor=pointer]
+              - generic [ref=e237] [cursor=pointer]:
+                - generic [ref=e240] [cursor=pointer]: Правила безопасной жизнедеятельности. Режим дня школьника
+                - img [ref=e242] [cursor=pointer]
+              - generic [ref=e244] [cursor=pointer]:
+                - generic [ref=e247] [cursor=pointer]: Правила безопасной жизнедеятельности. Безопасность в быту, безопасность пешехода, безопасность в сети «Интернет»
+                - img [ref=e249] [cursor=pointer]
+              - generic [ref=e251] [cursor=pointer]:
+                - generic [ref=e254] [cursor=pointer]: Дополнительно. Правила безопасной жизнедеятельности
+                - img [ref=e256] [cursor=pointer]
+            - generic [ref=e262]:
+              - link "1. Что нас окружает. Группы предметов" [ref=e263] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7d6
+                - generic [ref=e264] [cursor=pointer]:
+                  - generic [ref=e266] [cursor=pointer]:
+                    - generic [ref=e268] [cursor=pointer]: "1."
+                    - paragraph [ref=e270] [cursor=pointer]: Что нас окружает. Группы предметов
+                  - img [ref=e273] [cursor=pointer]
+              - link "2. Что нас окружает. Группы предметов. Выбор лишнего предмета" [ref=e275] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7d7
+                - generic [ref=e276] [cursor=pointer]:
+                  - generic [ref=e278] [cursor=pointer]:
+                    - generic [ref=e280] [cursor=pointer]: "2."
+                    - paragraph [ref=e282] [cursor=pointer]: Что нас окружает. Группы предметов. Выбор лишнего предмета
+                  - img [ref=e285] [cursor=pointer]
+              - link "3. Что умеет компьютер? Строение компьютера и ноутбука" [ref=e287] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7ca
+                - generic [ref=e288] [cursor=pointer]:
+                  - generic [ref=e290] [cursor=pointer]:
+                    - generic [ref=e292] [cursor=pointer]: "3."
+                    - paragraph [ref=e294] [cursor=pointer]: Что умеет компьютер? Строение компьютера и ноутбука
+                  - img [ref=e297] [cursor=pointer]
+              - link "4. Части компьютера. Назначение частей. Роль компьютера в современной жизни. Правила безопасного обращения" [ref=e299] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7d8
+                - generic [ref=e300] [cursor=pointer]:
+                  - generic [ref=e302] [cursor=pointer]:
+                    - generic [ref=e304] [cursor=pointer]: "4."
+                    - paragraph [ref=e306] [cursor=pointer]: Части компьютера. Назначение частей. Роль компьютера в современной жизни. Правила безопасного обращения
+                  - img [ref=e309] [cursor=pointer]
+              - 'link "5. Средства массовой информации: радио, телевидение, пресса, интернет" [ref=e311] [cursor=pointer]':
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7cb
+                - generic [ref=e312] [cursor=pointer]:
+                  - generic [ref=e314] [cursor=pointer]:
+                    - generic [ref=e316] [cursor=pointer]: "5."
+                    - paragraph [ref=e318] [cursor=pointer]: "Средства массовой информации: радио, телевидение, пресса, интернет"
+                  - img [ref=e321] [cursor=pointer]
+              - link "6. Откуда в наш дом приходит вода и куда она уходит? Работа со схемой" [ref=e323] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7cc
+                - generic [ref=e324] [cursor=pointer]:
+                  - generic [ref=e326] [cursor=pointer]:
+                    - generic [ref=e328] [cursor=pointer]: "6."
+                    - paragraph [ref=e330] [cursor=pointer]: Откуда в наш дом приходит вода и куда она уходит? Работа со схемой
+                  - img [ref=e333] [cursor=pointer]
+              - link "7. Откуда в наш дом приходит вода?" [ref=e335] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7cd
+                - generic [ref=e336] [cursor=pointer]:
+                  - generic [ref=e338] [cursor=pointer]:
+                    - generic [ref=e340] [cursor=pointer]: "7."
+                    - paragraph [ref=e342] [cursor=pointer]: Откуда в наш дом приходит вода?
+                  - img [ref=e345] [cursor=pointer]
+              - link "8. Откуда в наш дом приходит вода и куда она уходит?" [ref=e347] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7ce
+                - generic [ref=e348] [cursor=pointer]:
+                  - generic [ref=e350] [cursor=pointer]:
+                    - generic [ref=e352] [cursor=pointer]: "8."
+                    - paragraph [ref=e354] [cursor=pointer]: Откуда в наш дом приходит вода и куда она уходит?
+                  - img [ref=e357] [cursor=pointer]
+              - link "9 Откуда в наш дом приходит вода и куда она уходит? Очистка воды. Фильтрация" [ref=e359] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7cf
+                - generic [ref=e360] [cursor=pointer]:
+                  - generic [ref=e362] [cursor=pointer]:
+                    - generic [ref=e364] [cursor=pointer]: "9"
+                    - paragraph [ref=e366] [cursor=pointer]: Откуда в наш дом приходит вода и куда она уходит? Очистка воды. Фильтрация
+                  - img [ref=e369] [cursor=pointer]
+              - link "10. Значение электроприборов в жизни современного человека. Разнообразие бытовых электроприборов" [ref=e371] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7d0
+                - generic [ref=e372] [cursor=pointer]:
+                  - generic [ref=e374] [cursor=pointer]:
+                    - generic [ref=e376] [cursor=pointer]: "10."
+                    - paragraph [ref=e378] [cursor=pointer]: Значение электроприборов в жизни современного человека. Разнообразие бытовых электроприборов
+                  - img [ref=e381] [cursor=pointer]
+              - link "11. Способы выработки электричества и доставки его потребителям" [ref=e383] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7d1
+                - generic [ref=e384] [cursor=pointer]:
+                  - generic [ref=e386] [cursor=pointer]:
+                    - generic [ref=e388] [cursor=pointer]: "11."
+                    - paragraph [ref=e390] [cursor=pointer]: Способы выработки электричества и доставки его потребителям
+                  - img [ref=e393] [cursor=pointer]
+              - link "12. Куда текут реки? Путь воды из реки в море" [ref=e395] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7d2
+                - generic [ref=e396] [cursor=pointer]:
+                  - generic [ref=e398] [cursor=pointer]:
+                    - generic [ref=e400] [cursor=pointer]: "12."
+                    - paragraph [ref=e402] [cursor=pointer]: Куда текут реки? Путь воды из реки в море
+                  - img [ref=e405] [cursor=pointer]
+              - link "13. Куда текут реки? Сравнение реки и моря" [ref=e407] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7d3
+                - generic [ref=e408] [cursor=pointer]:
+                  - generic [ref=e410] [cursor=pointer]:
+                    - generic [ref=e412] [cursor=pointer]: "13."
+                    - paragraph [ref=e414] [cursor=pointer]: Куда текут реки? Сравнение реки и моря
+                  - img [ref=e417] [cursor=pointer]
+              - link "14. Откуда берутся снег и лёд? Состояния воды" [ref=e419] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7d4
+                - generic [ref=e420] [cursor=pointer]:
+                  - generic [ref=e422] [cursor=pointer]:
+                    - generic [ref=e424] [cursor=pointer]: "14."
+                    - paragraph [ref=e426] [cursor=pointer]: Откуда берутся снег и лёд? Состояния воды
+                  - img [ref=e429] [cursor=pointer]
+              - link "15. Откуда берутся снег и лёд? Снег и лёд. Исследование свойств снега и льда" [ref=e431] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7d5
+                - generic [ref=e432] [cursor=pointer]:
+                  - generic [ref=e434] [cursor=pointer]:
+                    - generic [ref=e436] [cursor=pointer]: "15."
+                    - paragraph [ref=e438] [cursor=pointer]: Откуда берутся снег и лёд? Снег и лёд. Исследование свойств снега и льда
+                  - img [ref=e441] [cursor=pointer]
+              - link "16. Когда появилась одежда?" [ref=e443] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7d9
+                - generic [ref=e444] [cursor=pointer]:
+                  - generic [ref=e446] [cursor=pointer]:
+                    - generic [ref=e448] [cursor=pointer]: "16."
+                    - paragraph [ref=e450] [cursor=pointer]: Когда появилась одежда?
+                  - img [ref=e453] [cursor=pointer]
+              - link "17. Виды одежды" [ref=e455] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7da
+                - generic [ref=e456] [cursor=pointer]:
+                  - generic [ref=e458] [cursor=pointer]:
+                    - generic [ref=e460] [cursor=pointer]: "17."
+                    - paragraph [ref=e462] [cursor=pointer]: Виды одежды
+                  - img [ref=e465] [cursor=pointer]
+              - link "18. Как правильно одеваться? (ч. 1)" [ref=e467] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7db
+                - generic [ref=e468] [cursor=pointer]:
+                  - generic [ref=e470] [cursor=pointer]:
+                    - generic [ref=e472] [cursor=pointer]: "18."
+                    - paragraph [ref=e474] [cursor=pointer]: Как правильно одеваться? (ч. 1)
+                  - img [ref=e477] [cursor=pointer]
+              - link "19. Как правильно одеваться? (ч. 2)" [ref=e479] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7dc
+                - generic [ref=e480] [cursor=pointer]:
+                  - generic [ref=e482] [cursor=pointer]:
+                    - generic [ref=e484] [cursor=pointer]: "19."
+                    - paragraph [ref=e486] [cursor=pointer]: Как правильно одеваться? (ч. 2)
+                  - img [ref=e489] [cursor=pointer]
+              - link "20. Изобретение велосипедов" [active] [ref=e491] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7dd
+                - generic [ref=e492] [cursor=pointer]:
+                  - generic [ref=e494] [cursor=pointer]:
+                    - generic [ref=e496] [cursor=pointer]: "20."
+                    - paragraph [ref=e498] [cursor=pointer]: Изобретение велосипедов
+                  - img [ref=e501] [cursor=pointer]
+              - link "21. Устройство велосипеда" [ref=e503] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7de
+                - generic [ref=e504] [cursor=pointer]:
+                  - generic [ref=e506] [cursor=pointer]:
+                    - generic [ref=e508] [cursor=pointer]: "21."
+                    - paragraph [ref=e510] [cursor=pointer]: Устройство велосипеда
+                  - img [ref=e513] [cursor=pointer]
+              - link "22. Виды велосипедов" [ref=e515] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7df
+                - generic [ref=e516] [cursor=pointer]:
+                  - generic [ref=e518] [cursor=pointer]:
+                    - generic [ref=e520] [cursor=pointer]: "22."
+                    - paragraph [ref=e522] [cursor=pointer]: Виды велосипедов
+                  - img [ref=e525] [cursor=pointer]
+              - link "23. Автомобиль. Устройство автомобиля" [ref=e527] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7e0
+                - generic [ref=e528] [cursor=pointer]:
+                  - generic [ref=e530] [cursor=pointer]:
+                    - generic [ref=e532] [cursor=pointer]: "23."
+                    - paragraph [ref=e534] [cursor=pointer]: Автомобиль. Устройство автомобиля
+                  - img [ref=e537] [cursor=pointer]
+              - link "24. Виды автомобилей" [ref=e539] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7e1
+                - generic [ref=e540] [cursor=pointer]:
+                  - generic [ref=e542] [cursor=pointer]:
+                    - generic [ref=e544] [cursor=pointer]: "24."
+                    - paragraph [ref=e546] [cursor=pointer]: Виды автомобилей
+                  - img [ref=e549] [cursor=pointer]
+              - link "25. Поезд. Значение поездов" [ref=e551] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7e2
+                - generic [ref=e552] [cursor=pointer]:
+                  - generic [ref=e554] [cursor=pointer]:
+                    - generic [ref=e556] [cursor=pointer]: "25."
+                    - paragraph [ref=e558] [cursor=pointer]: Поезд. Значение поездов
+                  - img [ref=e561] [cursor=pointer]
+              - link "26. Виды поездов" [ref=e563] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7e3
+                - generic [ref=e564] [cursor=pointer]:
+                  - generic [ref=e566] [cursor=pointer]:
+                    - generic [ref=e568] [cursor=pointer]: "26."
+                    - paragraph [ref=e570] [cursor=pointer]: Виды поездов
+                  - img [ref=e573] [cursor=pointer]
+              - link "27. Железная дорога" [ref=e575] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7e4
+                - generic [ref=e576] [cursor=pointer]:
+                  - generic [ref=e578] [cursor=pointer]:
+                    - generic [ref=e580] [cursor=pointer]: "27."
+                    - paragraph [ref=e582] [cursor=pointer]: Железная дорога
+                  - img [ref=e585] [cursor=pointer]
+              - link "28. Корабли. Виды кораблей" [ref=e587] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7e5
+                - generic [ref=e588] [cursor=pointer]:
+                  - generic [ref=e590] [cursor=pointer]:
+                    - generic [ref=e592] [cursor=pointer]: "28."
+                    - paragraph [ref=e594] [cursor=pointer]: Корабли. Виды кораблей
+                  - img [ref=e597] [cursor=pointer]
+              - link "29. Строение корабля" [ref=e599] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7e6
+                - generic [ref=e600] [cursor=pointer]:
+                  - generic [ref=e602] [cursor=pointer]:
+                    - generic [ref=e604] [cursor=pointer]: "29."
+                    - paragraph [ref=e606] [cursor=pointer]: Строение корабля
+                  - img [ref=e609] [cursor=pointer]
+              - link "30. Самолёты. Виды самолётов" [ref=e611] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7e7
+                - generic [ref=e612] [cursor=pointer]:
+                  - generic [ref=e614] [cursor=pointer]:
+                    - generic [ref=e616] [cursor=pointer]: "30."
+                    - paragraph [ref=e618] [cursor=pointer]: Самолёты. Виды самолётов
+                  - img [ref=e621] [cursor=pointer]
+              - link "31. Строение самолётов" [ref=e623] [cursor=pointer]:
+                - /url: /learn/68aca443d7ff8c000784ba48/68aca3b7d7ff8c000783a751/68ab5d1cd608c00007131227/68aca3b7d7ff8c000783a7e8
+                - generic [ref=e624] [cursor=pointer]:
+                  - generic [ref=e626] [cursor=pointer]:
+                    - generic [ref=e628] [cursor=pointer]: "31."
+                    - paragraph [ref=e630] [cursor=pointer]: Строение самолётов
+                  - img [ref=e633] [cursor=pointer]
+    - generic [ref=e636]:
+      - generic [ref=e637]:
+        - generic [ref=e638]:
+          - generic [ref=e642]:
+            - img [ref=e644]
+            - link "8 (800) 600-44-02" [ref=e646] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e647]:
+            - generic [ref=e648]: "@"
+            - link "support@ismart.org" [ref=e649] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e650]:
+            - img [ref=e652]
+            - generic [ref=e654]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e655]:
+          - link "Наш сайт" [ref=e658] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e660] [cursor=pointer]
+          - generic [ref=e662]:
+            - link "Лицензия" [ref=e664] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика обработки персональных данных" [ref=e666] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e668] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e670] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e672] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e674]:
+        - generic [ref=e675]:
+          - link [ref=e676] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e680] [cursor=pointer]
+          - generic [ref=e683]:
+            - link "okIcon" [ref=e684] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e685] [cursor=pointer]
+            - link "dzenIcon" [ref=e686] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e687] [cursor=pointer]
+            - link "vkIcon" [ref=e688] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e689] [cursor=pointer]
+        - generic [ref=e691]:
+          - generic [ref=e693]:
+            - generic [ref=e694]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e695] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e696]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e697] [cursor=pointer]:
+                - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e698]:
+            - generic [ref=e699]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e700] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e701]: © iSmart, 2018-2026
+```

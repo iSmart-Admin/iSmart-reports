@@ -1,0 +1,508 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - img [ref=e7]
+    - generic [ref=e9]:
+      - generic [ref=e10]: Только до 15 октября
+      - heading "2 месяца занятий по математике в подарок" [level=2] [ref=e11]:
+        - strong [ref=e12]: 2 месяца
+        - text: занятий по математике
+        - strong [ref=e13]: в подарок
+      - generic [ref=e14]: Онлайн-занятия с преподавателем, который поможет ребёнку разобраться в сложных темах
+      - link "Оставить заявку и получить подарок" [ref=e15] [cursor=pointer]:
+        - /url: https://school.ismart.org/math-group/2-months-free?utm_source=ismart_site&utm_medium=mindbox&utm_campaign=math_group_2_months_free&utm_content=main_site__popup
+    - button "Закрыть поп-ап" [ref=e16] [cursor=pointer]: ×
+  - generic [ref=e22]:
+    - generic [ref=e27]:
+      - generic [ref=e30]:
+        - link "Каталог заданий" [ref=e32] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e35] [cursor=pointer]: Каталог заданий
+        - link "Рейтинг" [ref=e38] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e41] [cursor=pointer]: Рейтинг
+        - link "Диагностика" [ref=e44] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e47] [cursor=pointer]: Диагностика
+        - link "Магазин" [ref=e50] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e53] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e56] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e59] [cursor=pointer]: Помощник
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - button [ref=e64] [cursor=pointer]:
+            - img [ref=e66] [cursor=pointer]
+          - img [ref=e71] [cursor=pointer]
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e76] [cursor=pointer]: "?"
+          - generic [ref=e77] [cursor=pointer]:
+            - paragraph
+            - paragraph [ref=e78] [cursor=pointer]: Гость
+          - img [ref=e80] [cursor=pointer]
+    - generic [ref=e84]:
+      - generic [ref=e86]:
+        - button [ref=e87] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+        - generic [ref=e93]: Русский язык. 2.1
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - heading "Купить со скидкой" [level=1] [ref=e99]
+          - heading "-70%" [level=1] [ref=e100]
+        - button "В магазин" [ref=e102] [cursor=pointer]:
+          - text: В магазин
+          - img [ref=e105] [cursor=pointer]
+      - generic [ref=e107]:
+        - generic [ref=e111]:
+          - button "1" [ref=e112] [cursor=pointer]:
+            - img [ref=e116] [cursor=pointer]
+            - text: "1"
+          - button "2" [ref=e118] [cursor=pointer]:
+            - img [ref=e122] [cursor=pointer]
+            - text: "2"
+          - button "3" [ref=e124]:
+            - img [ref=e128]
+            - text: "3"
+          - button "4" [ref=e130] [cursor=pointer]:
+            - img [ref=e134] [cursor=pointer]
+            - text: "4"
+          - button "5" [ref=e136] [cursor=pointer]:
+            - img [ref=e140] [cursor=pointer]
+            - text: "5"
+          - button "6" [ref=e142] [cursor=pointer]:
+            - img [ref=e146] [cursor=pointer]
+            - text: "6"
+          - button "7" [ref=e148] [cursor=pointer]:
+            - img [ref=e152] [cursor=pointer]
+            - text: "7"
+          - button "8" [ref=e154] [cursor=pointer]:
+            - img [ref=e158] [cursor=pointer]
+            - text: "8"
+          - button "9" [ref=e160] [cursor=pointer]:
+            - img [ref=e164] [cursor=pointer]
+            - text: "9"
+          - button "10" [ref=e166] [cursor=pointer]:
+            - img [ref=e170] [cursor=pointer]
+            - text: "10"
+          - button "11" [ref=e172] [cursor=pointer]:
+            - img [ref=e176] [cursor=pointer]
+            - text: "11"
+        - generic [ref=e180]:
+          - generic [ref=e184]:
+            - img [ref=e187]
+            - textbox "Поиск по подтемам" [ref=e190]
+          - generic [ref=e191]:
+            - generic [ref=e192]:
+              - generic [ref=e193] [cursor=pointer]:
+                - generic [ref=e195] [cursor=pointer]: Темы
+                - button [ref=e197] [cursor=pointer]:
+                  - img [ref=e199] [cursor=pointer]
+              - generic [ref=e201] [cursor=pointer]:
+                - generic [ref=e204] [cursor=pointer]: Что мы знаем о предложении?
+                - img [ref=e206] [cursor=pointer]
+              - generic [ref=e208] [cursor=pointer]:
+                - generic [ref=e211] [cursor=pointer]: Что мы знаем о словах и словосочетаниях?
+                - img [ref=e213] [cursor=pointer]
+              - generic [ref=e215] [cursor=pointer]:
+                - generic [ref=e218] [cursor=pointer]: Что мы знаем о составе слова?
+                - img [ref=e220] [cursor=pointer]
+              - generic [ref=e222] [cursor=pointer]:
+                - generic [ref=e225] [cursor=pointer]: Правописание гласных и согласных в частях слов
+                - img [ref=e227] [cursor=pointer]
+              - generic [ref=e229] [cursor=pointer]:
+                - generic [ref=e232] [cursor=pointer]: Что мы знаем об имени существительном?
+                - img [ref=e234] [cursor=pointer]
+              - generic [ref=e236] [cursor=pointer]:
+                - generic [ref=e239] [cursor=pointer]: Что мы знаем об имени прилагательном?
+                - img [ref=e241] [cursor=pointer]
+              - generic [ref=e243] [cursor=pointer]:
+                - generic [ref=e246] [cursor=pointer]: Что мы знаем о местоимении?
+                - img [ref=e248] [cursor=pointer]
+              - generic [ref=e250] [cursor=pointer]:
+                - generic [ref=e253] [cursor=pointer]: Что мы знаем о глаголе?
+                - img [ref=e255] [cursor=pointer]
+              - generic [ref=e257] [cursor=pointer]:
+                - generic [ref=e260] [cursor=pointer]: Что мы знаем об имени числительном?
+                - img [ref=e262] [cursor=pointer]
+              - generic [ref=e264] [cursor=pointer]:
+                - generic [ref=e267] [cursor=pointer]: Что мы знаем о звуках и буквах?
+                - img [ref=e269] [cursor=pointer]
+              - generic [ref=e271] [cursor=pointer]:
+                - generic [ref=e274] [cursor=pointer]: Работа с текстом
+                - img [ref=e276] [cursor=pointer]
+              - generic [ref=e279] [cursor=pointer]:
+                - generic [ref=e282] [cursor=pointer]: Словарные слова
+                - img [ref=e284] [cursor=pointer]
+            - generic [ref=e290]:
+              - link "1. Словарные слова на букву А (аб — ал)" [ref=e291] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f1986f
+                - generic [ref=e292] [cursor=pointer]:
+                  - generic [ref=e294] [cursor=pointer]:
+                    - generic [ref=e296] [cursor=pointer]: "1."
+                    - paragraph [ref=e298] [cursor=pointer]: Словарные слова на букву А (аб — ал)
+                  - img [ref=e301] [cursor=pointer]
+              - link "2. Словарные слова на букву А (ан — ат)" [ref=e303] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19870
+                - generic [ref=e304] [cursor=pointer]:
+                  - generic [ref=e306] [cursor=pointer]:
+                    - generic [ref=e308] [cursor=pointer]: "2."
+                    - paragraph [ref=e310] [cursor=pointer]: Словарные слова на букву А (ан — ат)
+                  - img [ref=e313] [cursor=pointer]
+              - link "3. Словарные слова на букву Б (ба — бер)" [ref=e315] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19871
+                - generic [ref=e316] [cursor=pointer]:
+                  - generic [ref=e318] [cursor=pointer]:
+                    - generic [ref=e320] [cursor=pointer]: "3."
+                    - paragraph [ref=e322] [cursor=pointer]: Словарные слова на букву Б (ба — бер)
+                  - img [ref=e325] [cursor=pointer]
+              - link "4. Словарные слова на букву Б (бес — быс)" [ref=e327] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19872
+                - generic [ref=e328] [cursor=pointer]:
+                  - generic [ref=e330] [cursor=pointer]:
+                    - generic [ref=e332] [cursor=pointer]: "4."
+                    - paragraph [ref=e334] [cursor=pointer]: Словарные слова на букву Б (бес — быс)
+                  - img [ref=e337] [cursor=pointer]
+              - link "5. Словарные слова на букву В (ва — вел)" [ref=e339] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19873
+                - generic [ref=e340] [cursor=pointer]:
+                  - generic [ref=e342] [cursor=pointer]:
+                    - generic [ref=e344] [cursor=pointer]: "5."
+                    - paragraph [ref=e346] [cursor=pointer]: Словарные слова на букву В (ва — вел)
+                  - img [ref=e349] [cursor=pointer]
+              - link "6. Словарные слова на букву В (вес — во)" [ref=e351] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19874
+                - generic [ref=e352] [cursor=pointer]:
+                  - generic [ref=e354] [cursor=pointer]:
+                    - generic [ref=e356] [cursor=pointer]: "6."
+                    - paragraph [ref=e358] [cursor=pointer]: Словарные слова на букву В (вес — во)
+                  - img [ref=e361] [cursor=pointer]
+              - link "7. Словарные слова на букву В (вор — вч)" [ref=e363] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19875
+                - generic [ref=e364] [cursor=pointer]:
+                  - generic [ref=e366] [cursor=pointer]:
+                    - generic [ref=e368] [cursor=pointer]: "7."
+                    - paragraph [ref=e370] [cursor=pointer]: Словарные слова на букву В (вор — вч)
+                  - img [ref=e373] [cursor=pointer]
+              - link "8. Словарные слова на букву Г (га — гл)" [ref=e375] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19876
+                - generic [ref=e376] [cursor=pointer]:
+                  - generic [ref=e378] [cursor=pointer]:
+                    - generic [ref=e380] [cursor=pointer]: "8."
+                    - paragraph [ref=e382] [cursor=pointer]: Словарные слова на букву Г (га — гл)
+                  - img [ref=e385] [cursor=pointer]
+              - link "9. Словарные слова на букву Г (го — гр)" [ref=e387] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19877
+                - generic [ref=e388] [cursor=pointer]:
+                  - generic [ref=e390] [cursor=pointer]:
+                    - generic [ref=e392] [cursor=pointer]: "9."
+                    - paragraph [ref=e394] [cursor=pointer]: Словарные слова на букву Г (го — гр)
+                  - img [ref=e397] [cursor=pointer]
+              - link "10. Словарные слова на букву Д (дв — де)" [ref=e399] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19878
+                - generic [ref=e400] [cursor=pointer]:
+                  - generic [ref=e402] [cursor=pointer]:
+                    - generic [ref=e404] [cursor=pointer]: "10."
+                    - paragraph [ref=e406] [cursor=pointer]: Словарные слова на букву Д (дв — де)
+                  - img [ref=e409] [cursor=pointer]
+              - link "11. Словарные слова на букву Д (ди — дя)" [ref=e411] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19879
+                - generic [ref=e412] [cursor=pointer]:
+                  - generic [ref=e414] [cursor=pointer]:
+                    - generic [ref=e416] [cursor=pointer]: "11."
+                    - paragraph [ref=e418] [cursor=pointer]: Словарные слова на букву Д (ди — дя)
+                  - img [ref=e421] [cursor=pointer]
+              - link "12. Словарные слова на буквы Е, Ж" [ref=e423] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f1987a
+                - generic [ref=e424] [cursor=pointer]:
+                  - generic [ref=e426] [cursor=pointer]:
+                    - generic [ref=e428] [cursor=pointer]: "12."
+                    - paragraph [ref=e430] [cursor=pointer]: Словарные слова на буквы Е, Ж
+                  - img [ref=e433] [cursor=pointer]
+              - link "13. Словарные слова на букву З (за)" [ref=e435] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f1987b
+                - generic [ref=e436] [cursor=pointer]:
+                  - generic [ref=e438] [cursor=pointer]:
+                    - generic [ref=e440] [cursor=pointer]: "13."
+                    - paragraph [ref=e442] [cursor=pointer]: Словарные слова на букву З (за)
+                  - img [ref=e445] [cursor=pointer]
+              - link "14. Словарные слова на букву З (зв — зо)" [ref=e447] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f1987c
+                - generic [ref=e448] [cursor=pointer]:
+                  - generic [ref=e450] [cursor=pointer]:
+                    - generic [ref=e452] [cursor=pointer]: "14."
+                    - paragraph [ref=e454] [cursor=pointer]: Словарные слова на букву З (зв — зо)
+                  - img [ref=e457] [cursor=pointer]
+              - link "15. Словарные слова на букву И" [ref=e459] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f1987d
+                - generic [ref=e460] [cursor=pointer]:
+                  - generic [ref=e462] [cursor=pointer]:
+                    - generic [ref=e464] [cursor=pointer]: "15."
+                    - paragraph [ref=e466] [cursor=pointer]: Словарные слова на букву И
+                  - img [ref=e469] [cursor=pointer]
+              - link "16. Словарные слова на букву К (ка)" [ref=e471] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f1987e
+                - generic [ref=e472] [cursor=pointer]:
+                  - generic [ref=e474] [cursor=pointer]:
+                    - generic [ref=e476] [cursor=pointer]: "16."
+                    - paragraph [ref=e478] [cursor=pointer]: Словарные слова на букву К (ка)
+                  - img [ref=e481] [cursor=pointer]
+              - link "17. Словарные слова на букву К (кв — кол)" [ref=e483] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f1987f
+                - generic [ref=e484] [cursor=pointer]:
+                  - generic [ref=e486] [cursor=pointer]:
+                    - generic [ref=e488] [cursor=pointer]: "17."
+                    - paragraph [ref=e490] [cursor=pointer]: Словарные слова на букву К (кв — кол)
+                  - img [ref=e493] [cursor=pointer]
+              - link "18. Словарные слова на букву К (ком — кор)" [ref=e495] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19880
+                - generic [ref=e496] [cursor=pointer]:
+                  - generic [ref=e498] [cursor=pointer]:
+                    - generic [ref=e500] [cursor=pointer]: "18."
+                    - paragraph [ref=e502] [cursor=pointer]: Словарные слова на букву К (ком — кор)
+                  - img [ref=e505] [cursor=pointer]
+              - link "19. Словарные слова на букву К (кос — кр)" [ref=e507] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19881
+                - generic [ref=e508] [cursor=pointer]:
+                  - generic [ref=e510] [cursor=pointer]:
+                    - generic [ref=e512] [cursor=pointer]: "19."
+                    - paragraph [ref=e514] [cursor=pointer]: Словарные слова на букву К (кос — кр)
+                  - img [ref=e517] [cursor=pointer]
+              - link "20. Словарные слова на букву Л" [active] [ref=e519] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19882
+                - generic [ref=e520] [cursor=pointer]:
+                  - generic [ref=e522] [cursor=pointer]:
+                    - generic [ref=e524] [cursor=pointer]: "20."
+                    - paragraph [ref=e526] [cursor=pointer]: Словарные слова на букву Л
+                  - img [ref=e529] [cursor=pointer]
+              - link "21. Словарные слова на букву М (ма — мет)" [ref=e531] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f1986d
+                - generic [ref=e532] [cursor=pointer]:
+                  - generic [ref=e534] [cursor=pointer]:
+                    - generic [ref=e536] [cursor=pointer]: "21."
+                    - paragraph [ref=e538] [cursor=pointer]: Словарные слова на букву М (ма — мет)
+                  - img [ref=e541] [cursor=pointer]
+              - link "22. Словарные слова на букву М (меч — му)" [ref=e543] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19883
+                - generic [ref=e544] [cursor=pointer]:
+                  - generic [ref=e546] [cursor=pointer]:
+                    - generic [ref=e548] [cursor=pointer]: "22."
+                    - paragraph [ref=e550] [cursor=pointer]: Словарные слова на букву М (меч — му)
+                  - img [ref=e553] [cursor=pointer]
+              - link "23. Словарные слова на букву Н" [ref=e555] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19884
+                - generic [ref=e556] [cursor=pointer]:
+                  - generic [ref=e558] [cursor=pointer]:
+                    - generic [ref=e560] [cursor=pointer]: "23."
+                    - paragraph [ref=e562] [cursor=pointer]: Словарные слова на букву Н
+                  - img [ref=e565] [cursor=pointer]
+              - link "24. Словарные слова на букву О (об — ов)" [ref=e567] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19885
+                - generic [ref=e568] [cursor=pointer]:
+                  - generic [ref=e570] [cursor=pointer]:
+                    - generic [ref=e572] [cursor=pointer]: "24."
+                    - paragraph [ref=e574] [cursor=pointer]: Словарные слова на букву О (об — ов)
+                  - img [ref=e577] [cursor=pointer]
+              - link "25. Словарные слова на букву О (ог — оп)" [ref=e579] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19886
+                - generic [ref=e580] [cursor=pointer]:
+                  - generic [ref=e582] [cursor=pointer]:
+                    - generic [ref=e584] [cursor=pointer]: "25."
+                    - paragraph [ref=e586] [cursor=pointer]: Словарные слова на букву О (ог — оп)
+                  - img [ref=e589] [cursor=pointer]
+              - link "26. Словарные слова на букву О (ор — оч)" [ref=e591] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19887
+                - generic [ref=e592] [cursor=pointer]:
+                  - generic [ref=e594] [cursor=pointer]:
+                    - generic [ref=e596] [cursor=pointer]: "26."
+                    - paragraph [ref=e598] [cursor=pointer]: Словарные слова на букву О (ор — оч)
+                  - img [ref=e601] [cursor=pointer]
+              - link "27. Словарные слова на букву П (па — пла)" [ref=e603] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19888
+                - generic [ref=e604] [cursor=pointer]:
+                  - generic [ref=e606] [cursor=pointer]:
+                    - generic [ref=e608] [cursor=pointer]: "27."
+                    - paragraph [ref=e610] [cursor=pointer]: Словарные слова на букву П (па — пла)
+                  - img [ref=e613] [cursor=pointer]
+              - link "28. Словарные слова на букву П (пло — поп)" [ref=e615] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19889
+                - generic [ref=e616] [cursor=pointer]:
+                  - generic [ref=e618] [cursor=pointer]:
+                    - generic [ref=e620] [cursor=pointer]: "28."
+                    - paragraph [ref=e622] [cursor=pointer]: Словарные слова на букву П (пло — поп)
+                  - img [ref=e625] [cursor=pointer]
+              - link "29. Словарные слова на букву П (пор — пра)" [ref=e627] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f1988a
+                - generic [ref=e628] [cursor=pointer]:
+                  - generic [ref=e630] [cursor=pointer]:
+                    - generic [ref=e632] [cursor=pointer]: "29."
+                    - paragraph [ref=e634] [cursor=pointer]: Словарные слова на букву П (пор — пра)
+                  - img [ref=e637] [cursor=pointer]
+              - link "30. Словарные слова на букву П (пре — пш)" [ref=e639] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f1988b
+                - generic [ref=e640] [cursor=pointer]:
+                  - generic [ref=e642] [cursor=pointer]:
+                    - generic [ref=e644] [cursor=pointer]: "30."
+                    - paragraph [ref=e646] [cursor=pointer]: Словарные слова на букву П (пре — пш)
+                  - img [ref=e649] [cursor=pointer]
+              - link "31. Словарные слова на букву Р (ра — ре)" [ref=e651] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f1988c
+                - generic [ref=e652] [cursor=pointer]:
+                  - generic [ref=e654] [cursor=pointer]:
+                    - generic [ref=e656] [cursor=pointer]: "31."
+                    - paragraph [ref=e658] [cursor=pointer]: Словарные слова на букву Р (ра — ре)
+                  - img [ref=e661] [cursor=pointer]
+              - link "32. Словарные слова на букву Р (ри — ря)" [ref=e663] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f1988d
+                - generic [ref=e664] [cursor=pointer]:
+                  - generic [ref=e666] [cursor=pointer]:
+                    - generic [ref=e668] [cursor=pointer]: "32."
+                    - paragraph [ref=e670] [cursor=pointer]: Словарные слова на букву Р (ри — ря)
+                  - img [ref=e673] [cursor=pointer]
+              - link "33. Словарные слова на букву С (са — сер)" [ref=e675] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f1988e
+                - generic [ref=e676] [cursor=pointer]:
+                  - generic [ref=e678] [cursor=pointer]:
+                    - generic [ref=e680] [cursor=pointer]: "33."
+                    - paragraph [ref=e682] [cursor=pointer]: Словарные слова на букву С (са — сер)
+                  - img [ref=e685] [cursor=pointer]
+              - link "34. Словарные слова на букву С (сея — сна)" [ref=e687] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f1988f
+                - generic [ref=e688] [cursor=pointer]:
+                  - generic [ref=e690] [cursor=pointer]:
+                    - generic [ref=e692] [cursor=pointer]: "34."
+                    - paragraph [ref=e694] [cursor=pointer]: Словарные слова на букву С (сея — сна)
+                  - img [ref=e697] [cursor=pointer]
+              - link "35. Словарные слова на букву С (сне — спр)" [ref=e699] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19890
+                - generic [ref=e700] [cursor=pointer]:
+                  - generic [ref=e702] [cursor=pointer]:
+                    - generic [ref=e704] [cursor=pointer]: "35."
+                    - paragraph [ref=e706] [cursor=pointer]: Словарные слова на букву С (сне — спр)
+                  - img [ref=e709] [cursor=pointer]
+              - link "36. Словарные слова на букву С (ср — сч)" [ref=e711] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19891
+                - generic [ref=e712] [cursor=pointer]:
+                  - generic [ref=e714] [cursor=pointer]:
+                    - generic [ref=e716] [cursor=pointer]: "36."
+                    - paragraph [ref=e718] [cursor=pointer]: Словарные слова на букву С (ср — сч)
+                  - img [ref=e721] [cursor=pointer]
+              - link "37. Словарные слова на букву Т (та — тов)" [ref=e723] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19892
+                - generic [ref=e724] [cursor=pointer]:
+                  - generic [ref=e726] [cursor=pointer]:
+                    - generic [ref=e728] [cursor=pointer]: "37."
+                    - paragraph [ref=e730] [cursor=pointer]: Словарные слова на букву Т (та — тов)
+                  - img [ref=e733] [cursor=pointer]
+              - link "38. Словарные слова на букву Т (тог — тр)" [ref=e735] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19893
+                - generic [ref=e736] [cursor=pointer]:
+                  - generic [ref=e738] [cursor=pointer]:
+                    - generic [ref=e740] [cursor=pointer]: "38."
+                    - paragraph [ref=e742] [cursor=pointer]: Словарные слова на букву Т (тог — тр)
+                  - img [ref=e745] [cursor=pointer]
+              - link "39. Словарные слова на букву У" [ref=e747] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19894
+                - generic [ref=e748] [cursor=pointer]:
+                  - generic [ref=e750] [cursor=pointer]:
+                    - generic [ref=e752] [cursor=pointer]: "39."
+                    - paragraph [ref=e754] [cursor=pointer]: Словарные слова на букву У
+                  - img [ref=e757] [cursor=pointer]
+              - link "40. Словарные слова на букву Ф" [ref=e759] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19895
+                - generic [ref=e760] [cursor=pointer]:
+                  - generic [ref=e762] [cursor=pointer]:
+                    - generic [ref=e764] [cursor=pointer]: "40."
+                    - paragraph [ref=e766] [cursor=pointer]: Словарные слова на букву Ф
+                  - img [ref=e769] [cursor=pointer]
+              - link "41. Словарные слова на буквы Х, Ц" [ref=e771] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19896
+                - generic [ref=e772] [cursor=pointer]:
+                  - generic [ref=e774] [cursor=pointer]:
+                    - generic [ref=e776] [cursor=pointer]: "41."
+                    - paragraph [ref=e778] [cursor=pointer]: Словарные слова на буквы Х, Ц
+                  - img [ref=e781] [cursor=pointer]
+              - link "42. Словарные слова на букву Ч" [ref=e783] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19897
+                - generic [ref=e784] [cursor=pointer]:
+                  - generic [ref=e786] [cursor=pointer]:
+                    - generic [ref=e788] [cursor=pointer]: "42."
+                    - paragraph [ref=e790] [cursor=pointer]: Словарные слова на букву Ч
+                  - img [ref=e793] [cursor=pointer]
+              - link "43. Словарные слова на буквы Ш, Щ" [ref=e795] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19898
+                - generic [ref=e796] [cursor=pointer]:
+                  - generic [ref=e798] [cursor=pointer]:
+                    - generic [ref=e800] [cursor=pointer]: "43."
+                    - paragraph [ref=e802] [cursor=pointer]: Словарные слова на буквы Ш, Щ
+                  - img [ref=e805] [cursor=pointer]
+              - link "44. Словарные слова на буквы Э, Ю, Я" [ref=e807] [cursor=pointer]:
+                - /url: /learn/69ac2af1b5ec3d0007f55bec/69ac24dcb5ec3d0007ef3869/68ab5dd2d608c0000714f1c6/69ac2562b5ec3d0007f19899
+                - generic [ref=e808] [cursor=pointer]:
+                  - generic [ref=e810] [cursor=pointer]:
+                    - generic [ref=e812] [cursor=pointer]: "44."
+                    - paragraph [ref=e814] [cursor=pointer]: Словарные слова на буквы Э, Ю, Я
+                  - img [ref=e817] [cursor=pointer]
+    - generic [ref=e820]:
+      - generic [ref=e821]:
+        - generic [ref=e822]:
+          - generic [ref=e826]:
+            - img [ref=e828]
+            - link "8 (800) 600-44-02" [ref=e830] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e831]:
+            - generic [ref=e832]: "@"
+            - link "support@ismart.org" [ref=e833] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e834]:
+            - img [ref=e836]
+            - generic [ref=e838]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e839]:
+          - link "Наш сайт" [ref=e842] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e844] [cursor=pointer]
+          - generic [ref=e846]:
+            - link "Лицензия" [ref=e848] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика обработки персональных данных" [ref=e850] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e852] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e854] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e856] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e858]:
+        - generic [ref=e859]:
+          - link [ref=e860] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e864] [cursor=pointer]
+          - generic [ref=e867]:
+            - link "okIcon" [ref=e868] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e869] [cursor=pointer]
+            - link "dzenIcon" [ref=e870] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e871] [cursor=pointer]
+            - link "vkIcon" [ref=e872] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e873] [cursor=pointer]
+        - generic [ref=e875]:
+          - generic [ref=e877]:
+            - generic [ref=e878]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e879] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e880]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e881] [cursor=pointer]:
+                - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e882]:
+            - generic [ref=e883]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e884] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e885]: © iSmart, 2018-2026
+```
