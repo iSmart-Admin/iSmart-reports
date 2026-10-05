@@ -1,0 +1,297 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - img [ref=e7]
+    - generic [ref=e9]:
+      - generic [ref=e10]: Только до 15 октября
+      - heading "2 месяца занятий по математике в подарок" [level=2] [ref=e11]:
+        - strong [ref=e12]: 2 месяца
+        - text: занятий по математике
+        - strong [ref=e13]: в подарок
+      - generic [ref=e14]: Онлайн-занятия с преподавателем, который поможет ребёнку разобраться в сложных темах
+      - link "Оставить заявку и получить подарок" [ref=e15] [cursor=pointer]:
+        - /url: https://school.ismart.org/math-group/2-months-free?utm_source=ismart_site&utm_medium=mindbox&utm_campaign=math_group_2_months_free&utm_content=main_site__popup
+    - button "Закрыть поп-ап" [ref=e16] [cursor=pointer]: ×
+  - generic [ref=e22]:
+    - generic [ref=e27]:
+      - generic [ref=e30]:
+        - link "Каталог заданий" [ref=e32] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e35] [cursor=pointer]: Каталог заданий
+        - link "Рейтинг" [ref=e38] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e41] [cursor=pointer]: Рейтинг
+        - link "Диагностика" [ref=e44] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e47] [cursor=pointer]: Диагностика
+        - link "Магазин" [ref=e50] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e53] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e56] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e59] [cursor=pointer]: Помощник
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - button [ref=e64] [cursor=pointer]:
+            - img [ref=e66] [cursor=pointer]
+          - img [ref=e71] [cursor=pointer]
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e76] [cursor=pointer]: "?"
+          - generic [ref=e77] [cursor=pointer]:
+            - paragraph
+            - paragraph [ref=e78] [cursor=pointer]: Гость
+          - img [ref=e80] [cursor=pointer]
+    - generic [ref=e84]:
+      - generic [ref=e86]:
+        - button [ref=e87] [cursor=pointer]:
+          - img [ref=e89] [cursor=pointer]
+        - generic [ref=e92]:
+          - generic [ref=e93]: Русский язык
+          - generic [ref=e95]: Задания для повторения и закрепления учебного материала
+      - generic [ref=e99]:
+        - generic [ref=e100]:
+          - heading "Купить со скидкой" [level=1] [ref=e101]
+          - heading "-70%" [level=1] [ref=e102]
+        - button "В магазин" [ref=e104] [cursor=pointer]:
+          - text: В магазин
+          - img [ref=e107] [cursor=pointer]
+      - generic [ref=e109]:
+        - generic [ref=e114]:
+          - button "2" [ref=e115] [cursor=pointer]:
+            - img [ref=e119] [cursor=pointer]
+            - text: "2"
+          - button "3" [ref=e121] [cursor=pointer]:
+            - img [ref=e125] [cursor=pointer]
+            - text: "3"
+          - button "4" [ref=e127] [cursor=pointer]:
+            - img [ref=e131] [cursor=pointer]
+            - text: "4"
+          - button "5" [ref=e133]:
+            - img [ref=e137]
+            - text: "5"
+          - button "6" [ref=e139] [cursor=pointer]:
+            - img [ref=e143] [cursor=pointer]
+            - text: "6"
+          - button "7" [ref=e145] [cursor=pointer]:
+            - img [ref=e149] [cursor=pointer]
+            - text: "7"
+          - button "8" [ref=e151] [cursor=pointer]:
+            - img [ref=e155] [cursor=pointer]
+            - text: "8"
+          - button "9" [ref=e157] [cursor=pointer]:
+            - img [ref=e161] [cursor=pointer]
+            - text: "9"
+          - button "10" [ref=e163] [cursor=pointer]:
+            - img [ref=e167] [cursor=pointer]
+            - text: "10"
+          - button "11" [ref=e169] [cursor=pointer]:
+            - img [ref=e173] [cursor=pointer]
+            - text: "11"
+        - generic [ref=e177]:
+          - generic [ref=e181]:
+            - img [ref=e184]
+            - textbox "Поиск по подтемам" [ref=e187]
+          - generic [ref=e188]:
+            - generic [ref=e189]:
+              - generic [ref=e190] [cursor=pointer]:
+                - generic [ref=e192] [cursor=pointer]: Темы
+                - button [ref=e194] [cursor=pointer]:
+                  - img [ref=e196] [cursor=pointer]
+              - generic [ref=e198] [cursor=pointer]:
+                - generic [ref=e201] [cursor=pointer]: "1 неделя: «Речь, звуки и буквы: из чего состоит наш язык?»"
+                - img [ref=e203] [cursor=pointer]
+              - generic [ref=e205] [cursor=pointer]:
+                - generic [ref=e208] [cursor=pointer]: "2 неделя: «Орфографический практикум: корни, приставки, суффиксы»"
+                - img [ref=e210] [cursor=pointer]
+              - generic [ref=e212] [cursor=pointer]:
+                - generic [ref=e215] [cursor=pointer]: "3 неделя: «Строим слова: морфемика и главные части речи»"
+                - img [ref=e217] [cursor=pointer]
+              - generic [ref=e219] [cursor=pointer]:
+                - generic [ref=e222] [cursor=pointer]: "4 неделя: «Как устроено предложение? Главные и второстепенные члены»"
+                - img [ref=e224] [cursor=pointer]
+              - generic [ref=e226] [cursor=pointer]:
+                - generic [ref=e229] [cursor=pointer]: "5 неделя: «Богатство словарного запаса: лексика и грамматика прилагательных»"
+                - img [ref=e231] [cursor=pointer]
+              - generic [ref=e233] [cursor=pointer]:
+                - generic [ref=e236] [cursor=pointer]: "6 неделя: «Итоговый навигатор: правила, исключения и разборы»"
+                - img [ref=e238] [cursor=pointer]
+              - generic [ref=e240] [cursor=pointer]:
+                - generic [ref=e243] [cursor=pointer]: "7 неделя: «Глагол: от основ к правописанию»"
+                - img [ref=e245] [cursor=pointer]
+              - generic [ref=e247] [cursor=pointer]:
+                - generic [ref=e250] [cursor=pointer]: "8 неделя: «Глагол: время, формы и анализ»"
+                - img [ref=e252] [cursor=pointer]
+              - generic [ref=e254] [cursor=pointer]:
+                - generic [ref=e257] [cursor=pointer]: "9 неделя: «Имя прилагательное: изменение и правописание»"
+                - img [ref=e259] [cursor=pointer]
+              - generic [ref=e261] [cursor=pointer]:
+                - generic [ref=e264] [cursor=pointer]: "10 неделя: «Имя прилагательное: падежи и морфология»"
+                - img [ref=e266] [cursor=pointer]
+              - generic [ref=e269] [cursor=pointer]:
+                - generic [ref=e272] [cursor=pointer]: "11 неделя: «Имя существительное: грамматика и правописание»"
+                - img [ref=e274] [cursor=pointer]
+              - generic [ref=e276] [cursor=pointer]:
+                - generic [ref=e279] [cursor=pointer]: "12 неделя: «Существительное: особенности и Работа с текстом»"
+                - img [ref=e281] [cursor=pointer]
+            - generic [ref=e287]:
+              - link "1. Имя существительное" [ref=e288] [cursor=pointer]:
+                - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/698a4238765e2b000794b6f6
+                - generic [ref=e289] [cursor=pointer]:
+                  - generic [ref=e291] [cursor=pointer]:
+                    - generic [ref=e293] [cursor=pointer]: "1."
+                    - paragraph [ref=e295] [cursor=pointer]: Имя существительное
+                  - img [ref=e298] [cursor=pointer]
+              - link "2. Суффиксы -чик- и -щик- в словах" [ref=e300] [cursor=pointer]:
+                - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/698a4246765e2b000794b888
+                - generic [ref=e301] [cursor=pointer]:
+                  - generic [ref=e303] [cursor=pointer]:
+                    - generic [ref=e305] [cursor=pointer]: "2."
+                    - paragraph [ref=e307] [cursor=pointer]: Суффиксы -чик- и -щик- в словах
+                  - img [ref=e310] [cursor=pointer]
+              - link "3. Чередование букв А и О в корнях" [ref=e312] [cursor=pointer]:
+                - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/698a4253765e2b000794bb72
+                - generic [ref=e313] [cursor=pointer]:
+                  - generic [ref=e315] [cursor=pointer]:
+                    - generic [ref=e317] [cursor=pointer]: "3."
+                    - paragraph [ref=e319] [cursor=pointer]: Чередование букв А и О в корнях
+                  - img [ref=e322] [cursor=pointer]
+              - link "4. Правописание НЕ с именами существительными" [ref=e324] [cursor=pointer]:
+                - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/698a4262765e2b000794bd68
+                - generic [ref=e325] [cursor=pointer]:
+                  - generic [ref=e327] [cursor=pointer]:
+                    - generic [ref=e329] [cursor=pointer]: "4."
+                    - paragraph [ref=e331] [cursor=pointer]: Правописание НЕ с именами существительными
+                  - img [ref=e334] [cursor=pointer]
+              - link "5. Правописание о-е(ё) после шипящих и Ц в окончаниях имен существительных" [ref=e336] [cursor=pointer]:
+                - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/698a4271765e2b000794c0b9
+                - generic [ref=e337] [cursor=pointer]:
+                  - generic [ref=e339] [cursor=pointer]:
+                    - generic [ref=e341] [cursor=pointer]: "5."
+                    - paragraph [ref=e343] [cursor=pointer]: Правописание о-е(ё) после шипящих и Ц в окончаниях имен существительных
+                  - img [ref=e346] [cursor=pointer]
+              - link "6. Как изменить имя существительное по падежам?" [ref=e348] [cursor=pointer]:
+                - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/698a4280765e2b000794c324
+                - generic [ref=e349] [cursor=pointer]:
+                  - generic [ref=e351] [cursor=pointer]:
+                    - generic [ref=e353] [cursor=pointer]: "6."
+                    - paragraph [ref=e355] [cursor=pointer]: Как изменить имя существительное по падежам?
+                  - img [ref=e358] [cursor=pointer]
+              - link "7. Как определить падеж имени существительного?" [ref=e360] [cursor=pointer]:
+                - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/698a428e765e2b000794c4a1
+                - generic [ref=e361] [cursor=pointer]:
+                  - generic [ref=e363] [cursor=pointer]:
+                    - generic [ref=e365] [cursor=pointer]: "7."
+                    - paragraph [ref=e367] [cursor=pointer]: Как определить падеж имени существительного?
+                  - img [ref=e370] [cursor=pointer]
+              - link "8. Как определить тип склонения имени существительного?" [ref=e372] [cursor=pointer]:
+                - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/698a42a1765e2b000794c83c
+                - generic [ref=e373] [cursor=pointer]:
+                  - generic [ref=e375] [cursor=pointer]:
+                    - generic [ref=e377] [cursor=pointer]: "8."
+                    - paragraph [ref=e379] [cursor=pointer]: Как определить тип склонения имени существительного?
+                  - img [ref=e382] [cursor=pointer]
+              - link "9. Как правильно написать безударное окончание имени существительного? (ч. 1)" [ref=e384] [cursor=pointer]:
+                - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/698a42b4765e2b000794cde8
+                - generic [ref=e385] [cursor=pointer]:
+                  - generic [ref=e387] [cursor=pointer]:
+                    - generic [ref=e389] [cursor=pointer]: "9."
+                    - paragraph [ref=e391] [cursor=pointer]: Как правильно написать безударное окончание имени существительного? (ч. 1)
+                  - img [ref=e394] [cursor=pointer]
+              - link "10. Как правильно написать безударное окончание имени существительного? (ч. 2)" [active] [ref=e396] [cursor=pointer]:
+                - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/698a42c1765e2b000794d01f
+                - generic [ref=e397] [cursor=pointer]:
+                  - generic [ref=e399] [cursor=pointer]:
+                    - generic [ref=e401] [cursor=pointer]: "10."
+                    - paragraph [ref=e403] [cursor=pointer]: Как правильно написать безударное окончание имени существительного? (ч. 2)
+                  - img [ref=e406] [cursor=pointer]
+              - link "11. Морфологический анализ имени существительного" [ref=e408] [cursor=pointer]:
+                - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/698a42d1765e2b000794d216
+                - generic [ref=e409] [cursor=pointer]:
+                  - generic [ref=e411] [cursor=pointer]:
+                    - generic [ref=e413] [cursor=pointer]: "11."
+                    - paragraph [ref=e415] [cursor=pointer]: Морфологический анализ имени существительного
+                  - img [ref=e418] [cursor=pointer]
+              - link "12. Как распознать одушевленные и неодушевленные имена существительные?" [ref=e420] [cursor=pointer]:
+                - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/698a42df765e2b000794d38d
+                - generic [ref=e421] [cursor=pointer]:
+                  - generic [ref=e423] [cursor=pointer]:
+                    - generic [ref=e425] [cursor=pointer]: "12."
+                    - paragraph [ref=e427] [cursor=pointer]: Как распознать одушевленные и неодушевленные имена существительные?
+                  - img [ref=e430] [cursor=pointer]
+              - link "13. Как распознать собственные и нарицательные имена существительные?" [ref=e432] [cursor=pointer]:
+                - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/698a42ef765e2b000794d597
+                - generic [ref=e433] [cursor=pointer]:
+                  - generic [ref=e435] [cursor=pointer]:
+                    - generic [ref=e437] [cursor=pointer]: "13."
+                    - paragraph [ref=e439] [cursor=pointer]: Как распознать собственные и нарицательные имена существительные?
+                  - img [ref=e442] [cursor=pointer]
+              - link "14. Обобщение по неделе 11" [ref=e444] [cursor=pointer]:
+                - /url: /learn/628aa24b7f0cd36ec59c80e0/60d468f69e70371ac2dbab84/5ef1b652250d56001b4f771b/698a4302765e2b000794d7b4
+                - generic [ref=e445] [cursor=pointer]:
+                  - generic [ref=e447] [cursor=pointer]:
+                    - generic [ref=e449] [cursor=pointer]: "14."
+                    - paragraph [ref=e451] [cursor=pointer]: Обобщение по неделе 11
+                  - img [ref=e454] [cursor=pointer]
+    - generic [ref=e457]:
+      - generic [ref=e458]:
+        - generic [ref=e459]:
+          - generic [ref=e463]:
+            - img [ref=e465]
+            - link "8 (800) 600-44-02" [ref=e467] [cursor=pointer]:
+              - /url: tel:88006004402
+          - generic [ref=e468]:
+            - generic [ref=e469]: "@"
+            - link "support@ismart.org" [ref=e470] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e471]:
+            - img [ref=e473]
+            - generic [ref=e475]: 141082, МО, г. Королев, ул. Лесная, д.14Б
+        - generic [ref=e476]:
+          - link "Наш сайт" [ref=e479] [cursor=pointer]:
+            - /url: https://ismart.org/
+            - text: Наш сайт
+            - img [ref=e481] [cursor=pointer]
+          - generic [ref=e483]:
+            - link "Лицензия" [ref=e485] [cursor=pointer]:
+              - /url: https://islod.obrnadzor.gov.ru/rlic/details/062e5c37-c7d6-44b1-9488-7d96fd2c3017/
+            - link "Политика обработки персональных данных" [ref=e487] [cursor=pointer]:
+              - /url: https://files-cdn.ismart.org/edu/Politika_obrabotki_PD_73f885924d.pdf
+            - link "Пользовательское соглашение" [ref=e489] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/polzovatelskoe-soglashenie
+            - link "Согласие на обработку персональных данных" [ref=e491] [cursor=pointer]:
+              - /url: https://ismart.org/legal-agreements/soglasie-na-obrabotku-personalnyh-dannyh
+            - link "Курсы и цены" [ref=e493] [cursor=pointer]:
+              - /url: https://ismart.org/tariffs
+      - generic [ref=e495]:
+        - generic [ref=e496]:
+          - link [ref=e497] [cursor=pointer]:
+            - /url: https://navigator.sk.ru/orn/1124996
+            - img [ref=e501] [cursor=pointer]
+          - generic [ref=e504]:
+            - link "okIcon" [ref=e505] [cursor=pointer]:
+              - /url: https://ok.ru/ismart.official
+              - img "okIcon" [ref=e506] [cursor=pointer]
+            - link "dzenIcon" [ref=e507] [cursor=pointer]:
+              - /url: https://dzen.ru/id/5f5636877b213d002dceb7d0
+              - img "dzenIcon" [ref=e508] [cursor=pointer]
+            - link "vkIcon" [ref=e509] [cursor=pointer]:
+              - /url: https://vk.com/ismartorg
+              - img "vkIcon" [ref=e510] [cursor=pointer]
+        - generic [ref=e512]:
+          - generic [ref=e514]:
+            - generic [ref=e515]:
+              - text: iSmart — образовательная платформа. Внесена в Реестр российского ПО, реестровая запись
+              - link "№22517 от 14.05.2024." [ref=e516] [cursor=pointer]:
+                - /url: https://reestr.digital.gov.ru/reestr/2386713/?sphrase_id=7841261
+            - generic [ref=e517]:
+              - text: Юридическая справка о соответствии сайта iSmart.org требованиям Приказа Минцифры
+              - link "№511 от 02.06.2025" [ref=e518] [cursor=pointer]:
+                - /url: https://files-cdn.ismart.org/edu/Yur_spravka_AJSMART_511_313df7a083.pdf
+          - generic [ref=e519]:
+            - generic [ref=e520]: "Техническая служба поддержки:"
+            - link "support@ismart.org" [ref=e521] [cursor=pointer]:
+              - /url: mailto:support@ismart.org
+          - generic [ref=e522]: © iSmart, 2018-2026
+```

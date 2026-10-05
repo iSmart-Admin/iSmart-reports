@@ -1,0 +1,113 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - img [ref=e7]
+    - generic [ref=e9]:
+      - generic [ref=e10]: Только до 15 октября
+      - heading "2 месяца занятий по математике в подарок" [level=2] [ref=e11]:
+        - strong [ref=e12]: 2 месяца
+        - text: занятий по математике
+        - strong [ref=e13]: в подарок
+      - generic [ref=e14]: Онлайн-занятия с преподавателем, который поможет ребёнку разобраться в сложных темах
+      - link "Оставить заявку и получить подарок" [ref=e15] [cursor=pointer]:
+        - /url: https://school.ismart.org/math-group/2-months-free?utm_source=ismart_site&utm_medium=mindbox&utm_campaign=math_group_2_months_free&utm_content=main_site__popup
+    - button "Закрыть поп-ап" [ref=e16] [cursor=pointer]: ×
+  - generic [ref=e22]:
+    - generic [ref=e27]:
+      - generic [ref=e30]:
+        - link "Каталог заданий" [ref=e32] [cursor=pointer]:
+          - /url: /catalog
+          - generic [ref=e35] [cursor=pointer]: Каталог заданий
+        - link "Рейтинг" [ref=e38] [cursor=pointer]:
+          - /url: /rating
+          - generic [ref=e41] [cursor=pointer]: Рейтинг
+        - link "Диагностика" [ref=e44] [cursor=pointer]:
+          - /url: /diagnostics
+          - generic [ref=e47] [cursor=pointer]: Диагностика
+        - link "Магазин" [ref=e50] [cursor=pointer]:
+          - /url: /shop/offers
+          - generic [ref=e53] [cursor=pointer]: Магазин
+        - link "Помощник" [ref=e56] [cursor=pointer]:
+          - /url: /smarty_ai
+          - generic [ref=e59] [cursor=pointer]: Помощник
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - button [ref=e64] [cursor=pointer]:
+            - img [ref=e66] [cursor=pointer]
+          - img [ref=e71] [cursor=pointer]
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e76] [cursor=pointer]: "?"
+          - generic [ref=e77] [cursor=pointer]:
+            - paragraph
+            - paragraph [ref=e78] [cursor=pointer]: Гость
+          - img [ref=e80] [cursor=pointer]
+    - generic [ref=e86]:
+      - region "Задача для решения" [ref=e89]:
+        - generic [ref=e90]:
+          - button "Закрыть" [ref=e93] [cursor=pointer]:
+            - img [ref=e96] [cursor=pointer]
+            - text: Закрыть
+          - generic [ref=e100]:
+            - generic [ref=e102]:
+              - img [ref=e106]
+              - heading "Внеси числовой ответ в специально предназначенное поле." [level=4] [ref=e108]:
+                - generic [ref=e110]: Внеси числовой ответ в специально предназначенное поле.
+            - generic [ref=e112]:
+              - img "decore" [ref=e115]
+              - generic [ref=e121]:
+                - text: Найди площадь прямоугольника, если его периметр равен
+                - generic [ref=e124]:
+                  - math [ref=e126]:
+                    - generic [ref=e129]: "210"
+                  - generic [ref=e132]: "210"
+                - text: ", а длина одной из сторон равна"
+                - generic [ref=e135]:
+                  - math [ref=e137]:
+                    - generic [ref=e140]: "100"
+                  - generic [ref=e143]: "100"
+                - text: .
+            - generic [ref=e148]:
+              - strong [ref=e149]: "Ответ:"
+              - textbox [active] [ref=e150]
+              - text: .
+          - generic [ref=e153]:
+            - generic [ref=e156]:
+              - button [disabled] [ref=e158]:
+                - img [ref=e160]
+              - generic [ref=e163]: 100%
+              - button [ref=e165] [cursor=pointer]:
+                - img [ref=e167] [cursor=pointer]
+            - generic [ref=e170]:
+              - generic [ref=e172]:
+                - button "1 Взять 1 подсказку" [ref=e173] [cursor=pointer]:
+                  - generic [ref=e176] [cursor=pointer]: "1"
+                  - generic [ref=e177] [cursor=pointer]: Взять 1 подсказку
+                - button "Подсказка (ответ)" [ref=e179] [cursor=pointer]:
+                  - generic [ref=e180] [cursor=pointer]: Подсказка (ответ)
+              - button "помощник Смарти Задай вопрос сейчас" [ref=e184] [cursor=pointer]:
+                - generic [ref=e185] [cursor=pointer]:
+                  - generic [ref=e187] [cursor=pointer]: помощник Смарти
+                  - generic [ref=e189] [cursor=pointer]: Задай вопрос сейчас
+                - img [ref=e192] [cursor=pointer]
+      - generic [ref=e199]:
+        - generic [ref=e200]:
+          - button "Регистрация" [ref=e201] [cursor=pointer]:
+            - text: Регистрация
+            - img [ref=e204] [cursor=pointer]
+          - button [ref=e207] [cursor=pointer]:
+            - img [ref=e209] [cursor=pointer]
+        - generic [ref=e211]:
+          - button "Черновик" [ref=e214] [cursor=pointer]:
+            - img [ref=e217] [cursor=pointer]
+            - text: Черновик
+          - generic [ref=e219]:
+            - generic:
+              - generic:
+                - img
+              - generic: Реши задание, прежде чем подтвердить
+            - button "Подтвердить" [ref=e220] [cursor=pointer]:
+              - text: Подтвердить
+              - img [ref=e223] [cursor=pointer]
+```
